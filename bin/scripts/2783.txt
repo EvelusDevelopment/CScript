@@ -1,0 +1,43 @@
+================================================
+      Client Script 2783 Dumped by SiniSoul    
+      Instruction Size: 32
+      Integer Arguments: 2 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADINT , Operand: 0
+Offset: 1, PUSHI , Operand: 0
+Offset: 2, IFEQ , Operand: 1
+Offset: 3, GOTO , Operand: 8
+Offset: 4, PUSHS , Operand: dob
+Offset: 5, PUSHS , Operand: set_members_dob_trial.ws
+Offset: 6, PUSHI , Operand: 1
+Offset: 7, Unref Method: 5400, Operand: 0
+Offset: 8, PUSHI , Operand: -1
+Offset: 9, PUSHS , Operand: 
+Offset: 10, LOADINT , Operand: 1
+Offset: 11, setInterfaceDefinitionScriptParams0 , Operand: 0
+Offset: 12, LOADINT , Operand: 0
+Offset: 13, PUSHI , Operand: 1
+Offset: 14, IADD , Operand: 0
+Offset: 15, STOREINT , Operand: 0
+Offset: 16, PUSHI , Operand: 2783
+Offset: 17, LOADINT , Operand: 0
+Offset: 18, LOADINT , Operand: 1
+Offset: 19, PUSHS , Operand: iI
+Offset: 20, LOADINT , Operand: 1
+Offset: 21, setInterfaceDefinitionScriptParams8 , Operand: 0
+Offset: 22, LOADINT , Operand: 0
+Offset: 23, PUSHI , Operand: 50
+Offset: 24, IFGTEQ , Operand: 1
+Offset: 25, GOTO , Operand: 5
+Offset: 26, PUSHI , Operand: -1
+Offset: 27, PUSHS , Operand: 
+Offset: 28, LOADINT , Operand: 1
+Offset: 29, setInterfaceDefinitionScriptParams8 , Operand: 0
+Offset: 30, CALL , Operand: 2422
+Offset: 31, RETURN , Operand: 0

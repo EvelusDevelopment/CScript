@@ -1,0 +1,63 @@
+================================================
+      Client Script 1560 Dumped by SiniSoul    
+      Instruction Size: 52
+      Integer Arguments: 1 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADINT , Operand: 0
+Offset: 1, PUSHI , Operand: 1
+Offset: 2, IFEQ , Operand: 1
+Offset: 3, GOTO , Operand: 43
+Offset: 4, PUSHI , Operand: 49283082
+Offset: 5, Unref Method: 2702, Operand: 0
+Offset: 6, PUSHI , Operand: 1
+Offset: 7, IFEQ , Operand: 5
+Offset: 8, PUSHI , Operand: 49283083
+Offset: 9, Unref Method: 2702, Operand: 0
+Offset: 10, PUSHI , Operand: 1
+Offset: 11, IFEQ , Operand: 1
+Offset: 12, GOTO , Operand: 34
+Offset: 13, PUSHI , Operand: 0
+Offset: 14, Unref Method: 5004, Operand: 0
+Offset: 15, PUSHI , Operand: 0
+Offset: 16, IFEQ , Operand: 29
+Offset: 17, PUSHI , Operand: 0
+Offset: 18, Unref Method: 5004, Operand: 0
+Offset: 19, PUSHI , Operand: 4
+Offset: 20, IFEQ , Operand: 25
+Offset: 21, PUSHI , Operand: 0
+Offset: 22, Unref Method: 5004, Operand: 0
+Offset: 23, PUSHI , Operand: 27
+Offset: 24, IFEQ , Operand: 21
+Offset: 25, PUSHI , Operand: 0
+Offset: 26, Unref Method: 5004, Operand: 0
+Offset: 27, PUSHI , Operand: 28
+Offset: 28, IFEQ , Operand: 17
+Offset: 29, PUSHI , Operand: 0
+Offset: 30, Unref Method: 5004, Operand: 0
+Offset: 31, PUSHI , Operand: 29
+Offset: 32, IFEQ , Operand: 13
+Offset: 33, PUSHI , Operand: 0
+Offset: 34, Unref Method: 5004, Operand: 0
+Offset: 35, PUSHI , Operand: 26
+Offset: 36, IFEQ , Operand: 9
+Offset: 37, PUSHI , Operand: 0
+Offset: 38, Unref Method: 5004, Operand: 0
+Offset: 39, PUSHI , Operand: 30
+Offset: 40, IFEQ , Operand: 5
+Offset: 41, PUSHI , Operand: 0
+Offset: 42, Unref Method: 5004, Operand: 0
+Offset: 43, PUSHI , Operand: 31
+Offset: 44, IFEQ , Operand: 1
+Offset: 45, GOTO , Operand: 1
+Offset: 46, CALL , Operand: 1561
+Offset: 47, CALL , Operand: 84
+Offset: 48, CALL , Operand: 89
+Offset: 49, CALL , Operand: 192
+Offset: 50, CALL , Operand: 178
+Offset: 51, RETURN , Operand: 0

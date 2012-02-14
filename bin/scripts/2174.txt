@@ -1,0 +1,45 @@
+================================================
+      Client Script 2174 Dumped by SiniSoul    
+      Instruction Size: 34
+      Integer Arguments: 3 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHI , Operand: 0
+Offset: 1, STOREINT , Operand: 0
+Offset: 2, PUSHI , Operand: 141
+Offset: 3, STOREINT , Operand: 1
+Offset: 4, PUSHI , Operand: 964
+Offset: 5, Unref Method: 3411, Operand: 0
+Offset: 6, STOREINT , Operand: 2
+Offset: 7, LOADINT , Operand: 0
+Offset: 8, LOADINT , Operand: 2
+Offset: 9, IFLT , Operand: 1
+Offset: 10, GOTO , Operand: 22
+Offset: 11, LOADINT , Operand: 0
+Offset: 12, CALL , Operand: 2189
+Offset: 13, PUSHI , Operand: 1
+Offset: 14, IFEQ , Operand: 1
+Offset: 15, GOTO , Operand: 3
+Offset: 16, PUSHI , Operand: 255
+Offset: 17, STOREINT , Operand: 1
+Offset: 18, GOTO , Operand: 2
+Offset: 19, PUSHI , Operand: 141
+Offset: 20, STOREINT , Operand: 1
+Offset: 21, LOADINT , Operand: 1
+Offset: 22, PUSHI , Operand: 105
+Offset: 23, PUSHI , Operand: 73
+Offset: 24, PUSHI , Operand: 964
+Offset: 25, LOADINT , Operand: 0
+Offset: 26, Unref Method: 3408, Operand: 0
+Offset: 27, Unref Method: 2103, Operand: 0
+Offset: 28, LOADINT , Operand: 0
+Offset: 29, PUSHI , Operand: 1
+Offset: 30, IADD , Operand: 0
+Offset: 31, STOREINT , Operand: 0
+Offset: 32, GOTO , Operand: -26
+Offset: 33, RETURN , Operand: 0

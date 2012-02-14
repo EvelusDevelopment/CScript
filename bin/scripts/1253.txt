@@ -1,0 +1,35 @@
+================================================
+      Client Script 1253 Dumped by SiniSoul    
+      Instruction Size: 24
+      Integer Arguments: 2 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADINT , Operand: 0
+Offset: 1, Unref Method: 2609, Operand: 0
+Offset: 2, STOREINT , Operand: 1
+Offset: 3, LOADINT , Operand: 1
+Offset: 4, PUSHI , Operand: 255
+Offset: 5, PUSHI , Operand: 30
+Offset: 6, IDIV , Operand: 0
+Offset: 7, ISUB , Operand: 0
+Offset: 8, PUSHI , Operand: 0
+Offset: 9, Unref Method: 4017, Operand: 0
+Offset: 10, STOREINT , Operand: 1
+Offset: 11, LOADINT , Operand: 1
+Offset: 12, LOADINT , Operand: 0
+Offset: 13, Unref Method: 2103, Operand: 0
+Offset: 14, LOADINT , Operand: 1
+Offset: 15, PUSHI , Operand: 0
+Offset: 16, IFLTEQ , Operand: 1
+Offset: 17, GOTO , Operand: 5
+Offset: 18, PUSHI , Operand: -1
+Offset: 19, PUSHS , Operand: 
+Offset: 20, LOADINT , Operand: 0
+Offset: 21, setInterfaceDefinitionScriptParams8 , Operand: 0
+Offset: 22, RETURN , Operand: 0
+Offset: 23, RETURN , Operand: 0

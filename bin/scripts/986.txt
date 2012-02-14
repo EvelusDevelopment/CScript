@@ -1,0 +1,1422 @@
+================================================
+      Client Script 986 Dumped by SiniSoul    
+      Instruction Size: 1257
+      Integer Arguments: 2 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADINT , Operand: 0
+Offset: 1, SWITCH , Operand: 0
+Offset: 2, GOTO , Operand: 1249
+Offset: 3, LOADINT , Operand: 1
+Offset: 4, SWITCH , Operand: 1
+Offset: 5, GOTO , Operand: 362
+Offset: 6, PUSHI , Operand: 1
+Offset: 7, PUSHI , Operand: 1511
+Offset: 8, PUSHS , Operand: Normal logs
+Offset: 9, PUSHS , Operand: You can now light 
+Offset: 10, PUSHS , Operand: <col=000080>
+Offset: 11, PUSHS , Operand: normal logs
+Offset: 12, PUSHS , Operand: </col>
+Offset: 13, PUSHS , Operand: .
+Offset: 14, CONCAT , Operand: 5
+Offset: 15, RETURN , Operand: 0
+Offset: 16, GOTO , Operand: 351
+Offset: 17, PUSHI , Operand: 1
+Offset: 18, PUSHI , Operand: 596
+Offset: 19, PUSHS , Operand: Members: Torch
+Offset: 20, PUSHS , Operand: Members can now light 
+Offset: 21, PUSHS , Operand: <col=000080>
+Offset: 22, PUSHS , Operand: torches
+Offset: 23, PUSHS , Operand: </col>
+Offset: 24, PUSHS , Operand: .
+Offset: 25, CONCAT , Operand: 5
+Offset: 26, RETURN , Operand: 0
+Offset: 27, GOTO , Operand: 340
+Offset: 28, PUSHI , Operand: 1
+Offset: 29, PUSHI , Operand: 36
+Offset: 30, PUSHS , Operand: Members: Candle
+Offset: 31, PUSHS , Operand: Members can now light 
+Offset: 32, PUSHS , Operand: <col=000080>
+Offset: 33, PUSHS , Operand: candles
+Offset: 34, PUSHS , Operand: </col>
+Offset: 35, PUSHS , Operand: .
+Offset: 36, CONCAT , Operand: 5
+Offset: 37, RETURN , Operand: 0
+Offset: 38, GOTO , Operand: 329
+Offset: 39, PUSHI , Operand: 1
+Offset: 40, PUSHI , Operand: 2862
+Offset: 41, PUSHS , Operand: Members: Achey logs
+Offset: 42, PUSHS , Operand: Members can now light 
+Offset: 43, PUSHS , Operand: <col=000080>
+Offset: 44, PUSHS , Operand: achey logs
+Offset: 45, PUSHS , Operand: </col>
+Offset: 46, PUSHS , Operand: .
+Offset: 47, CONCAT , Operand: 5
+Offset: 48, RETURN , Operand: 0
+Offset: 49, GOTO , Operand: 318
+Offset: 50, PUSHI , Operand: 4
+Offset: 51, PUSHI , Operand: 4531
+Offset: 52, PUSHS , Operand: Members: Candle lantern
+Offset: 53, PUSHS , Operand: Members can now light 
+Offset: 54, PUSHS , Operand: <col=000080>
+Offset: 55, PUSHS , Operand: candle lanterns
+Offset: 56, PUSHS , Operand: </col>
+Offset: 57, PUSHS , Operand: .
+Offset: 58, CONCAT , Operand: 5
+Offset: 59, RETURN , Operand: 0
+Offset: 60, GOTO , Operand: 307
+Offset: 61, PUSHI , Operand: 5
+Offset: 62, PUSHI , Operand: 3438
+Offset: 63, PUSHS , Operand: Members: Pyre logs
+Offset: 64, PUSHS , Operand: Members can now light 
+Offset: 65, PUSHS , Operand: <col=000080>
+Offset: 66, PUSHS , Operand: pyre logs
+Offset: 67, PUSHS , Operand: </col>
+Offset: 68, PUSHS , Operand: .
+Offset: 69, CONCAT , Operand: 5
+Offset: 70, RETURN , Operand: 0
+Offset: 71, GOTO , Operand: 296
+Offset: 72, PUSHI , Operand: 12
+Offset: 73, PUSHI , Operand: 4524
+Offset: 74, PUSHS , Operand: Members: Oil lamp
+Offset: 75, PUSHS , Operand: Members can now light 
+Offset: 76, PUSHS , Operand: <col=000080>
+Offset: 77, PUSHS , Operand: oil lamps
+Offset: 78, PUSHS , Operand: </col>
+Offset: 79, PUSHS , Operand: .
+Offset: 80, CONCAT , Operand: 5
+Offset: 81, RETURN , Operand: 0
+Offset: 82, GOTO , Operand: 285
+Offset: 83, PUSHI , Operand: 15
+Offset: 84, PUSHI , Operand: 1521
+Offset: 85, PUSHS , Operand: Oak logs
+Offset: 86, PUSHS , Operand: You can now light 
+Offset: 87, PUSHS , Operand: <col=000080>
+Offset: 88, PUSHS , Operand: oak logs
+Offset: 89, PUSHS , Operand: </col>
+Offset: 90, PUSHS , Operand: .
+Offset: 91, CONCAT , Operand: 5
+Offset: 92, RETURN , Operand: 0
+Offset: 93, GOTO , Operand: 274
+Offset: 94, PUSHI , Operand: 20
+Offset: 95, PUSHI , Operand: 7225
+Offset: 96, PUSHS , Operand: Members: Iron spit
+Offset: 97, PUSHS , Operand: Members can now cook with 
+Offset: 98, PUSHS , Operand: <col=000080>
+Offset: 99, PUSHS , Operand: iron spits
+Offset: 100, PUSHS , Operand: </col>
+Offset: 101, PUSHS , Operand: .
+Offset: 102, CONCAT , Operand: 5
+Offset: 103, RETURN , Operand: 0
+Offset: 104, GOTO , Operand: 263
+Offset: 105, PUSHI , Operand: 20
+Offset: 106, PUSHI , Operand: 3440
+Offset: 107, PUSHS , Operand: Members: Oak pyre logs
+Offset: 108, PUSHS , Operand: Members can now light 
+Offset: 109, PUSHS , Operand: <col=000080>
+Offset: 110, PUSHS , Operand: oak pyre logs
+Offset: 111, PUSHS , Operand: </col>
+Offset: 112, PUSHS , Operand: .
+Offset: 113, CONCAT , Operand: 5
+Offset: 114, RETURN , Operand: 0
+Offset: 115, GOTO , Operand: 252
+Offset: 116, PUSHI , Operand: 26
+Offset: 117, PUSHI , Operand: 4539
+Offset: 118, PUSHS , Operand: Members: Oil lantern
+Offset: 119, PUSHS , Operand: Members can now light 
+Offset: 120, PUSHS , Operand: <col=000080>
+Offset: 121, PUSHS , Operand: oil lanterns
+Offset: 122, PUSHS , Operand: </col>
+Offset: 123, PUSHS , Operand: .
+Offset: 124, CONCAT , Operand: 5
+Offset: 125, RETURN , Operand: 0
+Offset: 126, GOTO , Operand: 241
+Offset: 127, PUSHI , Operand: 30
+Offset: 128, PUSHI , Operand: 1519
+Offset: 129, PUSHS , Operand: Willow logs
+Offset: 130, PUSHS , Operand: You can now light 
+Offset: 131, PUSHS , Operand: <col=000080>
+Offset: 132, PUSHS , Operand: willow logs
+Offset: 133, PUSHS , Operand: </col>
+Offset: 134, PUSHS , Operand: .
+Offset: 135, CONCAT , Operand: 5
+Offset: 136, RETURN , Operand: 0
+Offset: 137, GOTO , Operand: 230
+Offset: 138, PUSHI , Operand: 33
+Offset: 139, PUSHI , Operand: 7053
+Offset: 140, PUSHS , Operand: Members: Harpie bug lantern (not a light source)
+Offset: 141, PUSHS , Operand: Members can now light 
+Offset: 142, PUSHS , Operand: <col=000080>
+Offset: 143, PUSHS , Operand: harpie bug lanterns
+Offset: 144, PUSHS , Operand: </col>
+Offset: 145, PUSHS , Operand: . These are not a light source.
+Offset: 146, CONCAT , Operand: 5
+Offset: 147, RETURN , Operand: 0
+Offset: 148, GOTO , Operand: 219
+Offset: 149, PUSHI , Operand: 35
+Offset: 150, PUSHI , Operand: 6333
+Offset: 151, PUSHS , Operand: Members: Teak logs
+Offset: 152, PUSHS , Operand: Members can now light 
+Offset: 153, PUSHS , Operand: <col=000080>
+Offset: 154, PUSHS , Operand: teak logs
+Offset: 155, PUSHS , Operand: </col>
+Offset: 156, PUSHS , Operand: .
+Offset: 157, CONCAT , Operand: 5
+Offset: 158, RETURN , Operand: 0
+Offset: 159, GOTO , Operand: 208
+Offset: 160, PUSHI , Operand: 35
+Offset: 161, PUSHI , Operand: 3442
+Offset: 162, PUSHS , Operand: Members: Willow pyre logs
+Offset: 163, PUSHS , Operand: Members can now light 
+Offset: 164, PUSHS , Operand: <col=000080>
+Offset: 165, PUSHS , Operand: willow pyre logs
+Offset: 166, PUSHS , Operand: </col>
+Offset: 167, PUSHS , Operand: .
+Offset: 168, CONCAT , Operand: 5
+Offset: 169, RETURN , Operand: 0
+Offset: 170, GOTO , Operand: 197
+Offset: 171, PUSHI , Operand: 40
+Offset: 172, PUSHI , Operand: 6211
+Offset: 173, PUSHS , Operand: Members: Teak pyre logs
+Offset: 174, PUSHS , Operand: Members can now light 
+Offset: 175, PUSHS , Operand: <col=000080>
+Offset: 176, PUSHS , Operand: teak pyre logs
+Offset: 177, PUSHS , Operand: </col>
+Offset: 178, PUSHS , Operand: .
+Offset: 179, CONCAT , Operand: 5
+Offset: 180, RETURN , Operand: 0
+Offset: 181, GOTO , Operand: 186
+Offset: 182, PUSHI , Operand: 42
+Offset: 183, PUSHI , Operand: 10810
+Offset: 184, PUSHS , Operand: Members: Arctic pine logs
+Offset: 185, PUSHS , Operand: Members can now light 
+Offset: 186, PUSHS , Operand: <col=000080>
+Offset: 187, PUSHS , Operand: arctic pine logs
+Offset: 188, PUSHS , Operand: </col>
+Offset: 189, PUSHS , Operand: .
+Offset: 190, CONCAT , Operand: 5
+Offset: 191, RETURN , Operand: 0
+Offset: 192, GOTO , Operand: 175
+Offset: 193, PUSHI , Operand: 45
+Offset: 194, PUSHI , Operand: 1517
+Offset: 195, PUSHS , Operand: Maple logs
+Offset: 196, PUSHS , Operand: You can now light 
+Offset: 197, PUSHS , Operand: <col=000080>
+Offset: 198, PUSHS , Operand: maple logs
+Offset: 199, PUSHS , Operand: </col>
+Offset: 200, PUSHS , Operand: .
+Offset: 201, CONCAT , Operand: 5
+Offset: 202, RETURN , Operand: 0
+Offset: 203, GOTO , Operand: 164
+Offset: 204, PUSHI , Operand: 47
+Offset: 205, PUSHI , Operand: 10808
+Offset: 206, PUSHS , Operand: Members: Arctic pine pyre logs
+Offset: 207, PUSHS , Operand: Members can now light 
+Offset: 208, PUSHS , Operand: <col=000080>
+Offset: 209, PUSHS , Operand: arctic pine pyre logs
+Offset: 210, PUSHS , Operand: </col>
+Offset: 211, PUSHS , Operand: .
+Offset: 212, CONCAT , Operand: 5
+Offset: 213, RETURN , Operand: 0
+Offset: 214, GOTO , Operand: 153
+Offset: 215, PUSHI , Operand: 49
+Offset: 216, PUSHI , Operand: 4550
+Offset: 217, PUSHS , Operand: Members: Bullseye lantern
+Offset: 218, PUSHS , Operand: Members can now light 
+Offset: 219, PUSHS , Operand: <col=000080>
+Offset: 220, PUSHS , Operand: bullseye lanterns
+Offset: 221, PUSHS , Operand: </col>
+Offset: 222, PUSHS , Operand: .
+Offset: 223, CONCAT , Operand: 5
+Offset: 224, RETURN , Operand: 0
+Offset: 225, GOTO , Operand: 142
+Offset: 226, PUSHI , Operand: 49
+Offset: 227, PUSHI , Operand: 4702
+Offset: 228, PUSHS , Operand: Members: Sapphire lantern
+Offset: 229, PUSHS , Operand: Members can now light 
+Offset: 230, PUSHS , Operand: <col=000080>
+Offset: 231, PUSHS , Operand: sapphire lanterns
+Offset: 232, PUSHS , Operand: </col>
+Offset: 233, PUSHS , Operand: .
+Offset: 234, CONCAT , Operand: 5
+Offset: 235, RETURN , Operand: 0
+Offset: 236, GOTO , Operand: 131
+Offset: 237, PUSHI , Operand: 49
+Offset: 238, PUSHI , Operand: 9065
+Offset: 239, PUSHS , Operand: Members: Emerald lantern
+Offset: 240, PUSHS , Operand: Members can now light 
+Offset: 241, PUSHS , Operand: <col=000080>
+Offset: 242, PUSHS , Operand: emerald lanterns
+Offset: 243, PUSHS , Operand: </col>
+Offset: 244, PUSHS , Operand: .
+Offset: 245, CONCAT , Operand: 5
+Offset: 246, RETURN , Operand: 0
+Offset: 247, GOTO , Operand: 120
+Offset: 248, PUSHI , Operand: 50
+Offset: 249, PUSHI , Operand: 6332
+Offset: 250, PUSHS , Operand: Members: Mahogany logs
+Offset: 251, PUSHS , Operand: Members can now light 
+Offset: 252, PUSHS , Operand: <col=000080>
+Offset: 253, PUSHS , Operand: mahogany logs
+Offset: 254, PUSHS , Operand: </col>
+Offset: 255, PUSHS , Operand: .
+Offset: 256, CONCAT , Operand: 5
+Offset: 257, RETURN , Operand: 0
+Offset: 258, GOTO , Operand: 109
+Offset: 259, PUSHI , Operand: 50
+Offset: 260, PUSHI , Operand: 3444
+Offset: 261, PUSHS , Operand: Members: Maple pyre logs
+Offset: 262, PUSHS , Operand: Members can now light 
+Offset: 263, PUSHS , Operand: <col=000080>
+Offset: 264, PUSHS , Operand: maple pyre logs
+Offset: 265, PUSHS , Operand: </col>
+Offset: 266, PUSHS , Operand: .
+Offset: 267, CONCAT , Operand: 5
+Offset: 268, RETURN , Operand: 0
+Offset: 269, GOTO , Operand: 98
+Offset: 270, PUSHI , Operand: 52
+Offset: 271, PUSHI , Operand: 10973
+Offset: 272, PUSHS , Operand: Members: Replace Dorgeshuun light orb
+Offset: 273, PUSHS , Operand: Members can now replace 
+Offset: 274, PUSHS , Operand: <col=000080>
+Offset: 275, PUSHS , Operand: Dorgeshuun light orbs
+Offset: 276, PUSHS , Operand: </col>
+Offset: 277, PUSHS , Operand: .
+Offset: 278, CONCAT , Operand: 5
+Offset: 279, RETURN , Operand: 0
+Offset: 280, GOTO , Operand: 87
+Offset: 281, PUSHI , Operand: 55
+Offset: 282, PUSHI , Operand: 6213
+Offset: 283, PUSHS , Operand: Members: Mahogany pyre logs
+Offset: 284, PUSHS , Operand: Members can now light 
+Offset: 285, PUSHS , Operand: <col=000080>
+Offset: 286, PUSHS , Operand: mahogany pyre logs
+Offset: 287, PUSHS , Operand: </col>
+Offset: 288, PUSHS , Operand: .
+Offset: 289, CONCAT , Operand: 5
+Offset: 290, RETURN , Operand: 0
+Offset: 291, GOTO , Operand: 76
+Offset: 292, PUSHI , Operand: 58
+Offset: 293, PUSHI , Operand: 12581
+Offset: 294, PUSHS , Operand: Members: Eucalyptus logs
+Offset: 295, PUSHS , Operand: Members can now light 
+Offset: 296, PUSHS , Operand: <col=000080>
+Offset: 297, PUSHS , Operand: eucalyptus logs
+Offset: 298, PUSHS , Operand: </col>
+Offset: 299, PUSHS , Operand: .
+Offset: 300, CONCAT , Operand: 5
+Offset: 301, RETURN , Operand: 0
+Offset: 302, GOTO , Operand: 65
+Offset: 303, PUSHI , Operand: 60
+Offset: 304, PUSHI , Operand: 1515
+Offset: 305, PUSHS , Operand: Yew logs
+Offset: 306, PUSHS , Operand: You can now light 
+Offset: 307, PUSHS , Operand: <col=000080>
+Offset: 308, PUSHS , Operand: yew logs
+Offset: 309, PUSHS , Operand: </col>
+Offset: 310, PUSHS , Operand: .
+Offset: 311, CONCAT , Operand: 5
+Offset: 312, RETURN , Operand: 0
+Offset: 313, GOTO , Operand: 54
+Offset: 314, PUSHI , Operand: 63
+Offset: 315, PUSHI , Operand: 12583
+Offset: 316, PUSHS , Operand: Members: Eucalyptus pyre logs
+Offset: 317, PUSHS , Operand: Members can now light 
+Offset: 318, PUSHS , Operand: <col=000080>
+Offset: 319, PUSHS , Operand: eucalyptus pyre logs
+Offset: 320, PUSHS , Operand: </col>
+Offset: 321, PUSHS , Operand: .
+Offset: 322, CONCAT , Operand: 5
+Offset: 323, RETURN , Operand: 0
+Offset: 324, GOTO , Operand: 43
+Offset: 325, PUSHI , Operand: 65
+Offset: 326, PUSHI , Operand: 5013
+Offset: 327, PUSHS , Operand: Members: Cave goblin mining helmet
+Offset: 328, PUSHS , Operand: Members can now light 
+Offset: 329, PUSHS , Operand: <col=000080>
+Offset: 330, PUSHS , Operand: cave goblin mining helmets
+Offset: 331, PUSHS , Operand: </col>
+Offset: 332, PUSHS , Operand: .
+Offset: 333, CONCAT , Operand: 5
+Offset: 334, RETURN , Operand: 0
+Offset: 335, GOTO , Operand: 32
+Offset: 336, PUSHI , Operand: 65
+Offset: 337, PUSHI , Operand: 3446
+Offset: 338, PUSHS , Operand: Members: Yew pyre logs
+Offset: 339, PUSHS , Operand: Members can now light 
+Offset: 340, PUSHS , Operand: <col=000080>
+Offset: 341, PUSHS , Operand: yew pyre logs
+Offset: 342, PUSHS , Operand: </col>
+Offset: 343, PUSHS , Operand: .
+Offset: 344, CONCAT , Operand: 5
+Offset: 345, RETURN , Operand: 0
+Offset: 346, GOTO , Operand: 21
+Offset: 347, PUSHI , Operand: 75
+Offset: 348, PUSHI , Operand: 1513
+Offset: 349, PUSHS , Operand: Members: Magic logs
+Offset: 350, PUSHS , Operand: Members can now light 
+Offset: 351, PUSHS , Operand: <col=000080>
+Offset: 352, PUSHS , Operand: magic logs
+Offset: 353, PUSHS , Operand: </col>
+Offset: 354, PUSHS , Operand: .
+Offset: 355, CONCAT , Operand: 5
+Offset: 356, RETURN , Operand: 0
+Offset: 357, GOTO , Operand: 10
+Offset: 358, PUSHI , Operand: 80
+Offset: 359, PUSHI , Operand: 3448
+Offset: 360, PUSHS , Operand: Members: Magic pyre logs
+Offset: 361, PUSHS , Operand: Members can now light 
+Offset: 362, PUSHS , Operand: <col=000080>
+Offset: 363, PUSHS , Operand: magic pyre logs
+Offset: 364, PUSHS , Operand: </col>
+Offset: 365, PUSHS , Operand: .
+Offset: 366, CONCAT , Operand: 5
+Offset: 367, RETURN , Operand: 0
+Offset: 368, GOTO , Operand: 883
+Offset: 369, LOADINT , Operand: 1
+Offset: 370, SWITCH , Operand: 2
+Offset: 371, GOTO , Operand: 126
+Offset: 372, PUSHI , Operand: -1
+Offset: 373, PUSHI , Operand: 7620
+Offset: 374, PUSHS , Operand: To start Firemaking in the manner of the barbarians, talk to Otto Godblessed when you have level 35 Firemaking or higher.
+Offset: 375, PUSHS , Operand: 
+Offset: 376, RETURN , Operand: 0
+Offset: 377, GOTO , Operand: 120
+Offset: 378, PUSHI , Operand: 21
+Offset: 379, PUSHI , Operand: 1511
+Offset: 380, PUSHS , Operand: Members: Normal Logs
+Offset: 381, PUSHS , Operand: Members versed in the art of barbarian firemaking can now light 
+Offset: 382, PUSHS , Operand: <col=000080>
+Offset: 383, PUSHS , Operand: normal logs
+Offset: 384, PUSHS , Operand: </col>
+Offset: 385, PUSHS , Operand:  without a tinderbox.
+Offset: 386, CONCAT , Operand: 5
+Offset: 387, RETURN , Operand: 0
+Offset: 388, GOTO , Operand: 109
+Offset: 389, PUSHI , Operand: 21
+Offset: 390, PUSHI , Operand: 2862
+Offset: 391, PUSHS , Operand: Members: Achey tree
+Offset: 392, PUSHS , Operand: Members versed in the art of barbarian firemaking can now light 
+Offset: 393, PUSHS , Operand: <col=000080>
+Offset: 394, PUSHS , Operand: achey tree logs
+Offset: 395, PUSHS , Operand: </col>
+Offset: 396, PUSHS , Operand:  without a tinderbox.
+Offset: 397, CONCAT , Operand: 5
+Offset: 398, RETURN , Operand: 0
+Offset: 399, GOTO , Operand: 98
+Offset: 400, PUSHI , Operand: 35
+Offset: 401, PUSHI , Operand: 1521
+Offset: 402, PUSHS , Operand: Members: Oak
+Offset: 403, PUSHS , Operand: Members versed in the art of barbarian firemaking can now light 
+Offset: 404, PUSHS , Operand: <col=000080>
+Offset: 405, PUSHS , Operand: oak logs
+Offset: 406, PUSHS , Operand: </col>
+Offset: 407, PUSHS , Operand:  without a tinderbox.
+Offset: 408, CONCAT , Operand: 5
+Offset: 409, RETURN , Operand: 0
+Offset: 410, GOTO , Operand: 87
+Offset: 411, PUSHI , Operand: 50
+Offset: 412, PUSHI , Operand: 1519
+Offset: 413, PUSHS , Operand: Members: Willow
+Offset: 414, PUSHS , Operand: Members versed in the art of barbarian firemaking can now light 
+Offset: 415, PUSHS , Operand: <col=000080>
+Offset: 416, PUSHS , Operand: willow logs
+Offset: 417, PUSHS , Operand: </col>
+Offset: 418, PUSHS , Operand:  without a tinderbox.
+Offset: 419, CONCAT , Operand: 5
+Offset: 420, RETURN , Operand: 0
+Offset: 421, GOTO , Operand: 76
+Offset: 422, PUSHI , Operand: 55
+Offset: 423, PUSHI , Operand: 6333
+Offset: 424, PUSHS , Operand: Members: Teak
+Offset: 425, PUSHS , Operand: Members versed in the art of barbarian firemaking can now light 
+Offset: 426, PUSHS , Operand: <col=000080>
+Offset: 427, PUSHS , Operand: teak logs
+Offset: 428, PUSHS , Operand: </col>
+Offset: 429, PUSHS , Operand:  without a tinderbox.
+Offset: 430, CONCAT , Operand: 5
+Offset: 431, RETURN , Operand: 0
+Offset: 432, GOTO , Operand: 65
+Offset: 433, PUSHI , Operand: 62
+Offset: 434, PUSHI , Operand: 10810
+Offset: 435, PUSHS , Operand: Members: Arctic pine
+Offset: 436, PUSHS , Operand: Members versed in the art of barbarian firemaking can now light 
+Offset: 437, PUSHS , Operand: <col=000080>
+Offset: 438, PUSHS , Operand: arctic pine logs
+Offset: 439, PUSHS , Operand: </col>
+Offset: 440, PUSHS , Operand:  without a tinderbox.
+Offset: 441, CONCAT , Operand: 5
+Offset: 442, RETURN , Operand: 0
+Offset: 443, GOTO , Operand: 54
+Offset: 444, PUSHI , Operand: 65
+Offset: 445, PUSHI , Operand: 1517
+Offset: 446, PUSHS , Operand: Members: Maple
+Offset: 447, PUSHS , Operand: Members versed in the art of barbarian firemaking can now light 
+Offset: 448, PUSHS , Operand: <col=000080>
+Offset: 449, PUSHS , Operand: maple logs
+Offset: 450, PUSHS , Operand: </col>
+Offset: 451, PUSHS , Operand:  without a tinderbox.
+Offset: 452, CONCAT , Operand: 5
+Offset: 453, RETURN , Operand: 0
+Offset: 454, GOTO , Operand: 43
+Offset: 455, PUSHI , Operand: 70
+Offset: 456, PUSHI , Operand: 6332
+Offset: 457, PUSHS , Operand: Members: Mahogany
+Offset: 458, PUSHS , Operand: Members versed in the art of barbarian firemaking can now light 
+Offset: 459, PUSHS , Operand: <col=000080>
+Offset: 460, PUSHS , Operand: mahogany logs
+Offset: 461, PUSHS , Operand: </col>
+Offset: 462, PUSHS , Operand:  without a tinderbox.
+Offset: 463, CONCAT , Operand: 5
+Offset: 464, RETURN , Operand: 0
+Offset: 465, GOTO , Operand: 32
+Offset: 466, PUSHI , Operand: 78
+Offset: 467, PUSHI , Operand: 12581
+Offset: 468, PUSHS , Operand: Members: Eucalyptus
+Offset: 469, PUSHS , Operand: Members versed in the art of barbarian firemaking can now light 
+Offset: 470, PUSHS , Operand: <col=000080>
+Offset: 471, PUSHS , Operand: eucalyptus logs
+Offset: 472, PUSHS , Operand: </col>
+Offset: 473, PUSHS , Operand:  without a tinderbox.
+Offset: 474, CONCAT , Operand: 5
+Offset: 475, RETURN , Operand: 0
+Offset: 476, GOTO , Operand: 21
+Offset: 477, PUSHI , Operand: 80
+Offset: 478, PUSHI , Operand: 1515
+Offset: 479, PUSHS , Operand: Members: Yew
+Offset: 480, PUSHS , Operand: Members versed in the art of barbarian firemaking can now light 
+Offset: 481, PUSHS , Operand: <col=000080>
+Offset: 482, PUSHS , Operand: yew logs
+Offset: 483, PUSHS , Operand: </col>
+Offset: 484, PUSHS , Operand:  without a tinderbox.
+Offset: 485, CONCAT , Operand: 5
+Offset: 486, RETURN , Operand: 0
+Offset: 487, GOTO , Operand: 10
+Offset: 488, PUSHI , Operand: 95
+Offset: 489, PUSHI , Operand: 1513
+Offset: 490, PUSHS , Operand: Members: Magic
+Offset: 491, PUSHS , Operand: Members versed in the art of barbarian firemaking can now light 
+Offset: 492, PUSHS , Operand: <col=000080>
+Offset: 493, PUSHS , Operand: magic logs
+Offset: 494, PUSHS , Operand: </col>
+Offset: 495, PUSHS , Operand:  without a tinderbox.
+Offset: 496, CONCAT , Operand: 5
+Offset: 497, RETURN , Operand: 0
+Offset: 498, GOTO , Operand: 753
+Offset: 499, LOADINT , Operand: 1
+Offset: 500, SWITCH , Operand: 3
+Offset: 501, GOTO , Operand: 159
+Offset: 502, PUSHI , Operand: -1
+Offset: 503, PUSHI , Operand: 7620
+Offset: 504, PUSHS , Operand: To start Firemaking in the manner of the barbarians, talk to Otto Godblessed when you have level 35 Firemaking or higher. Pyre ships can only be constructed and burnt where the ground is charred, around the lake next to Otto's hut.
+Offset: 505, PUSHS , Operand: 
+Offset: 506, RETURN , Operand: 0
+Offset: 507, GOTO , Operand: 153
+Offset: 508, PUSHI , Operand: 11
+Offset: 509, PUSHI , Operand: 1511
+Offset: 510, PUSHS , Operand: Members: Wood
+Offset: 511, PUSHS , Operand: <br>
+Offset: 512, PUSHS , Operand:  (with 11 Crafting)
+Offset: 513, CONCAT , Operand: 3
+Offset: 514, PUSHS , Operand: Members versed in the art of barbarian firemaking now have the Firemaking level required to light pyre ships made out of 
+Offset: 515, PUSHS , Operand: <col=000080>
+Offset: 516, PUSHS , Operand: logs
+Offset: 517, PUSHS , Operand: </col>
+Offset: 518, PUSHS , Operand: . (They also need level 11 Crafting.)
+Offset: 519, CONCAT , Operand: 5
+Offset: 520, RETURN , Operand: 0
+Offset: 521, GOTO , Operand: 139
+Offset: 522, PUSHI , Operand: 11
+Offset: 523, PUSHI , Operand: 2862
+Offset: 524, PUSHS , Operand: Members: Achey
+Offset: 525, PUSHS , Operand: <br>
+Offset: 526, PUSHS , Operand:  (with 11 Crafting)
+Offset: 527, CONCAT , Operand: 3
+Offset: 528, PUSHS , Operand: Members versed in the art of barbarian firemaking now have the Firemaking level required to light pyre ships made out of 
+Offset: 529, PUSHS , Operand: <col=000080>
+Offset: 530, PUSHS , Operand: achey tree logs
+Offset: 531, PUSHS , Operand: </col>
+Offset: 532, PUSHS , Operand: . (They also need level 11 Crafting.)
+Offset: 533, CONCAT , Operand: 5
+Offset: 534, RETURN , Operand: 0
+Offset: 535, GOTO , Operand: 125
+Offset: 536, PUSHI , Operand: 25
+Offset: 537, PUSHI , Operand: 1521
+Offset: 538, PUSHS , Operand: Members: Oak
+Offset: 539, PUSHS , Operand: <br>
+Offset: 540, PUSHS , Operand:  (with 25 Crafting)
+Offset: 541, CONCAT , Operand: 3
+Offset: 542, PUSHS , Operand: Members versed in the art of barbarian firemaking now have the Firemaking level required to light pyre ships made out of 
+Offset: 543, PUSHS , Operand: <col=000080>
+Offset: 544, PUSHS , Operand: oak logs
+Offset: 545, PUSHS , Operand: </col>
+Offset: 546, PUSHS , Operand: . (They also need level 25 Crafting.)
+Offset: 547, CONCAT , Operand: 5
+Offset: 548, RETURN , Operand: 0
+Offset: 549, GOTO , Operand: 111
+Offset: 550, PUSHI , Operand: 40
+Offset: 551, PUSHI , Operand: 1519
+Offset: 552, PUSHS , Operand: Members: Willow
+Offset: 553, PUSHS , Operand: <br>
+Offset: 554, PUSHS , Operand:  (with 40 Crafting)
+Offset: 555, CONCAT , Operand: 3
+Offset: 556, PUSHS , Operand: Members versed in the art of barbarian firemaking now have the Firemaking level required to light pyre ships made out of 
+Offset: 557, PUSHS , Operand: <col=000080>
+Offset: 558, PUSHS , Operand: willow logs
+Offset: 559, PUSHS , Operand: </col>
+Offset: 560, PUSHS , Operand: . (They also need level 40 Crafting.)
+Offset: 561, CONCAT , Operand: 5
+Offset: 562, RETURN , Operand: 0
+Offset: 563, GOTO , Operand: 97
+Offset: 564, PUSHI , Operand: 45
+Offset: 565, PUSHI , Operand: 6333
+Offset: 566, PUSHS , Operand: Members: Teak
+Offset: 567, PUSHS , Operand: <br>
+Offset: 568, PUSHS , Operand:  (with 45 Crafting)
+Offset: 569, CONCAT , Operand: 3
+Offset: 570, PUSHS , Operand: Members versed in the art of barbarian firemaking now have the Firemaking level required to light pyre ships made out of 
+Offset: 571, PUSHS , Operand: <col=000080>
+Offset: 572, PUSHS , Operand: teak logs
+Offset: 573, PUSHS , Operand: </col>
+Offset: 574, PUSHS , Operand: . (They also need level 45 Crafting.)
+Offset: 575, CONCAT , Operand: 5
+Offset: 576, RETURN , Operand: 0
+Offset: 577, GOTO , Operand: 83
+Offset: 578, PUSHI , Operand: 52
+Offset: 579, PUSHI , Operand: 10810
+Offset: 580, PUSHS , Operand: Members: Arctic pine
+Offset: 581, PUSHS , Operand: <br>
+Offset: 582, PUSHS , Operand:  (with 52 Crafting)
+Offset: 583, CONCAT , Operand: 3
+Offset: 584, PUSHS , Operand: Members versed in the art of barbarian firemaking now have the Firemaking level required to light pyre ships made out of 
+Offset: 585, PUSHS , Operand: <col=000080>
+Offset: 586, PUSHS , Operand: arctic pine logs
+Offset: 587, PUSHS , Operand: </col>
+Offset: 588, PUSHS , Operand: . (They also need level 52 Crafting.)
+Offset: 589, CONCAT , Operand: 5
+Offset: 590, RETURN , Operand: 0
+Offset: 591, GOTO , Operand: 69
+Offset: 592, PUSHI , Operand: 55
+Offset: 593, PUSHI , Operand: 1517
+Offset: 594, PUSHS , Operand: Members: Maple
+Offset: 595, PUSHS , Operand: <br>
+Offset: 596, PUSHS , Operand:  (with 55 Crafting)
+Offset: 597, CONCAT , Operand: 3
+Offset: 598, PUSHS , Operand: Members versed in the art of barbarian firemaking now have the Firemaking level required to light pyre ships made out of 
+Offset: 599, PUSHS , Operand: <col=000080>
+Offset: 600, PUSHS , Operand: maple logs
+Offset: 601, PUSHS , Operand: </col>
+Offset: 602, PUSHS , Operand: . (They also need level 55 Crafting.)
+Offset: 603, CONCAT , Operand: 5
+Offset: 604, RETURN , Operand: 0
+Offset: 605, GOTO , Operand: 55
+Offset: 606, PUSHI , Operand: 60
+Offset: 607, PUSHI , Operand: 6332
+Offset: 608, PUSHS , Operand: Members: Mahogany
+Offset: 609, PUSHS , Operand: <br>
+Offset: 610, PUSHS , Operand:  (with 60 Crafting)
+Offset: 611, CONCAT , Operand: 3
+Offset: 612, PUSHS , Operand: Members versed in the art of barbarian firemaking now have the Firemaking level required to light pyre ships made out of 
+Offset: 613, PUSHS , Operand: <col=000080>
+Offset: 614, PUSHS , Operand: mahogany logs
+Offset: 615, PUSHS , Operand: </col>
+Offset: 616, PUSHS , Operand: . (They also need level 60 Crafting.)
+Offset: 617, CONCAT , Operand: 5
+Offset: 618, RETURN , Operand: 0
+Offset: 619, GOTO , Operand: 41
+Offset: 620, PUSHI , Operand: 68
+Offset: 621, PUSHI , Operand: 12581
+Offset: 622, PUSHS , Operand: Members: Eucalyptus
+Offset: 623, PUSHS , Operand: <br>
+Offset: 624, PUSHS , Operand:  (with 68 Crafting)
+Offset: 625, CONCAT , Operand: 3
+Offset: 626, PUSHS , Operand: Members versed in the art of barbarian firemaking now have the Firemaking level required to light pyre ships made out of 
+Offset: 627, PUSHS , Operand: <col=000080>
+Offset: 628, PUSHS , Operand: eucalyptus logs
+Offset: 629, PUSHS , Operand: </col>
+Offset: 630, PUSHS , Operand: . (They also need level 68 Crafting.)
+Offset: 631, CONCAT , Operand: 5
+Offset: 632, RETURN , Operand: 0
+Offset: 633, GOTO , Operand: 27
+Offset: 634, PUSHI , Operand: 70
+Offset: 635, PUSHI , Operand: 1515
+Offset: 636, PUSHS , Operand: Members: Yew
+Offset: 637, PUSHS , Operand: <br>
+Offset: 638, PUSHS , Operand:  (with 70 Crafting)
+Offset: 639, CONCAT , Operand: 3
+Offset: 640, PUSHS , Operand: Members versed in the art of barbarian firemaking now have the Firemaking level required to light pyre ships made out of 
+Offset: 641, PUSHS , Operand: <col=000080>
+Offset: 642, PUSHS , Operand: yew logs
+Offset: 643, PUSHS , Operand: </col>
+Offset: 644, PUSHS , Operand: . (They also need level 70 Crafting.)
+Offset: 645, CONCAT , Operand: 5
+Offset: 646, RETURN , Operand: 0
+Offset: 647, GOTO , Operand: 13
+Offset: 648, PUSHI , Operand: 85
+Offset: 649, PUSHI , Operand: 1513
+Offset: 650, PUSHS , Operand: Members: Magic
+Offset: 651, PUSHS , Operand: <br>
+Offset: 652, PUSHS , Operand:  (with 85 Crafting)
+Offset: 653, CONCAT , Operand: 3
+Offset: 654, PUSHS , Operand: Members versed in the art of barbarian firemaking now have the Firemaking level required to light pyre ships made out of 
+Offset: 655, PUSHS , Operand: <col=000080>
+Offset: 656, PUSHS , Operand: magic logs
+Offset: 657, PUSHS , Operand: </col>
+Offset: 658, PUSHS , Operand: . (They also need level 85 Crafting.)
+Offset: 659, CONCAT , Operand: 5
+Offset: 660, RETURN , Operand: 0
+Offset: 661, GOTO , Operand: 590
+Offset: 662, LOADINT , Operand: 1
+Offset: 663, SWITCH , Operand: 4
+Offset: 664, GOTO , Operand: 66
+Offset: 665, PUSHI , Operand: 1
+Offset: 666, PUSHI , Operand: 590
+Offset: 667, PUSHS , Operand: Tinderbox
+Offset: 668, PUSHS , Operand: You can now light fires with a 
+Offset: 669, PUSHS , Operand: <col=000080>
+Offset: 670, PUSHS , Operand: tinderbox
+Offset: 671, PUSHS , Operand: </col>
+Offset: 672, PUSHS , Operand: .
+Offset: 673, CONCAT , Operand: 5
+Offset: 674, RETURN , Operand: 0
+Offset: 675, GOTO , Operand: 55
+Offset: 676, PUSHI , Operand: 61
+Offset: 677, PUSHI , Operand: 15241
+Offset: 678, PUSHS , Operand: Members: Chaos dwarf hand cannon
+Offset: 679, PUSHS , Operand: <br>
+Offset: 680, PUSHS , Operand:  (after Forgiveness of a Chaos Dwarf and with 75 Ranged)
+Offset: 681, CONCAT , Operand: 3
+Offset: 682, PUSHS , Operand: Members now have the Firemaking level required to fire the 
+Offset: 683, PUSHS , Operand: <col=000080>
+Offset: 684, PUSHS , Operand: chaos dwarf hand cannon
+Offset: 685, PUSHS , Operand: </col>
+Offset: 686, PUSHS , Operand:  (after Forgiveness of a Chaos Dwarf and with 75 Ranged).
+Offset: 687, CONCAT , Operand: 5
+Offset: 688, RETURN , Operand: 0
+Offset: 689, GOTO , Operand: 41
+Offset: 690, PUSHI , Operand: 62
+Offset: 691, PUSHI , Operand: 13659
+Offset: 692, PUSHS , Operand: Members: Ring of Fire
+Offset: 693, PUSHS , Operand: <br>
+Offset: 694, PUSHS , Operand:  (after All Fired Up)
+Offset: 695, CONCAT , Operand: 3
+Offset: 696, PUSHS , Operand: Members can now wear the 
+Offset: 697, PUSHS , Operand: <col=000080>
+Offset: 698, PUSHS , Operand: Ring of Fire
+Offset: 699, PUSHS , Operand: </col>
+Offset: 700, PUSHS , Operand:  (after All Fired Up).
+Offset: 701, CONCAT , Operand: 5
+Offset: 702, RETURN , Operand: 0
+Offset: 703, GOTO , Operand: 27
+Offset: 704, PUSHI , Operand: 79
+Offset: 705, PUSHI , Operand: 13660
+Offset: 706, PUSHS , Operand: Members: Flame Gloves
+Offset: 707, PUSHS , Operand: <br>
+Offset: 708, PUSHS , Operand:  (after All Fired Up)
+Offset: 709, CONCAT , Operand: 3
+Offset: 710, PUSHS , Operand: Members can now wear the 
+Offset: 711, PUSHS , Operand: <col=000080>
+Offset: 712, PUSHS , Operand: Flame Gloves
+Offset: 713, PUSHS , Operand: </col>
+Offset: 714, PUSHS , Operand:  (after All Fired Up).
+Offset: 715, CONCAT , Operand: 5
+Offset: 716, RETURN , Operand: 0
+Offset: 717, GOTO , Operand: 13
+Offset: 718, PUSHI , Operand: 92
+Offset: 719, PUSHI , Operand: 13661
+Offset: 720, PUSHS , Operand: Members: Inferno Adze
+Offset: 721, PUSHS , Operand: <br>
+Offset: 722, PUSHS , Operand:  (after All Fired Up)
+Offset: 723, CONCAT , Operand: 3
+Offset: 724, PUSHS , Operand: Members can now use the 
+Offset: 725, PUSHS , Operand: <col=000080>
+Offset: 726, PUSHS , Operand: Inferno Adze
+Offset: 727, PUSHS , Operand: </col>
+Offset: 728, PUSHS , Operand:  (after All Fired Up).
+Offset: 729, CONCAT , Operand: 5
+Offset: 730, RETURN , Operand: 0
+Offset: 731, GOTO , Operand: 520
+Offset: 732, LOADINT , Operand: 1
+Offset: 733, SWITCH , Operand: 5
+Offset: 734, GOTO , Operand: 236
+Offset: 735, PUSHI , Operand: -1
+Offset: 736, PUSHI , Operand: 7620
+Offset: 737, PUSHS , Operand: To use the beacons, you must have completed All Fired Up.
+Offset: 738, PUSHS , Operand: 
+Offset: 739, RETURN , Operand: 0
+Offset: 740, GOTO , Operand: 230
+Offset: 741, PUSHI , Operand: 43
+Offset: 742, PUSHI , Operand: 13662
+Offset: 743, PUSHS , Operand: Members: Beacon near the River Salve
+Offset: 744, PUSHS , Operand: Members can now light the 
+Offset: 745, PUSHS , Operand: <col=000080>
+Offset: 746, PUSHS , Operand: beacon
+Offset: 747, PUSHS , Operand: </col>
+Offset: 748, PUSHS , Operand:  near the 
+Offset: 749, PUSHS , Operand: <col=000080>
+Offset: 750, PUSHS , Operand: River Salve
+Offset: 751, PUSHS , Operand: </col>
+Offset: 752, PUSHS , Operand:  (after All Fired Up).
+Offset: 753, CONCAT , Operand: 9
+Offset: 754, RETURN , Operand: 0
+Offset: 755, GOTO , Operand: 215
+Offset: 756, PUSHI , Operand: 43
+Offset: 757, PUSHI , Operand: 13662
+Offset: 758, PUSHS , Operand: Members: Beacon near the Rag and Bone Man
+Offset: 759, PUSHS , Operand: Members can now light the 
+Offset: 760, PUSHS , Operand: <col=000080>
+Offset: 761, PUSHS , Operand: beacon
+Offset: 762, PUSHS , Operand: </col>
+Offset: 763, PUSHS , Operand:  near the 
+Offset: 764, PUSHS , Operand: <col=000080>
+Offset: 765, PUSHS , Operand: Rag and Bone Man
+Offset: 766, PUSHS , Operand: </col>
+Offset: 767, PUSHS , Operand:  (after All Fired Up).
+Offset: 768, CONCAT , Operand: 9
+Offset: 769, RETURN , Operand: 0
+Offset: 770, GOTO , Operand: 200
+Offset: 771, PUSHI , Operand: 48
+Offset: 772, PUSHI , Operand: 13662
+Offset: 773, PUSHS , Operand: Members: Beacon near the Jolly Boar
+Offset: 774, PUSHS , Operand: Members can now light the 
+Offset: 775, PUSHS , Operand: <col=000080>
+Offset: 776, PUSHS , Operand: beacon
+Offset: 777, PUSHS , Operand: </col>
+Offset: 778, PUSHS , Operand:  near the 
+Offset: 779, PUSHS , Operand: <col=000080>
+Offset: 780, PUSHS , Operand: Jolly Boar
+Offset: 781, PUSHS , Operand: </col>
+Offset: 782, PUSHS , Operand:  (after All Fired Up).
+Offset: 783, CONCAT , Operand: 9
+Offset: 784, RETURN , Operand: 0
+Offset: 785, GOTO , Operand: 185
+Offset: 786, PUSHI , Operand: 53
+Offset: 787, PUSHI , Operand: 13662
+Offset: 788, PUSHS , Operand: Members: Beacon north of Varrock Castle
+Offset: 789, PUSHS , Operand: Members can now light the 
+Offset: 790, PUSHS , Operand: <col=000080>
+Offset: 791, PUSHS , Operand: beacon
+Offset: 792, PUSHS , Operand: </col>
+Offset: 793, PUSHS , Operand:  north of 
+Offset: 794, PUSHS , Operand: <col=000080>
+Offset: 795, PUSHS , Operand: Varrock Castle
+Offset: 796, PUSHS , Operand: </col>
+Offset: 797, PUSHS , Operand:  (after All Fired Up).
+Offset: 798, CONCAT , Operand: 9
+Offset: 799, RETURN , Operand: 0
+Offset: 800, GOTO , Operand: 170
+Offset: 801, PUSHI , Operand: 59
+Offset: 802, PUSHI , Operand: 13662
+Offset: 803, PUSHS , Operand: Members: Beacon near the Grand Exchange
+Offset: 804, PUSHS , Operand: Members can now light the 
+Offset: 805, PUSHS , Operand: <col=000080>
+Offset: 806, PUSHS , Operand: beacon
+Offset: 807, PUSHS , Operand: </col>
+Offset: 808, PUSHS , Operand:  near the 
+Offset: 809, PUSHS , Operand: <col=000080>
+Offset: 810, PUSHS , Operand: Grand Exchange
+Offset: 811, PUSHS , Operand: </col>
+Offset: 812, PUSHS , Operand:  (after All Fired Up).
+Offset: 813, CONCAT , Operand: 9
+Offset: 814, RETURN , Operand: 0
+Offset: 815, GOTO , Operand: 155
+Offset: 816, PUSHI , Operand: 62
+Offset: 817, PUSHI , Operand: 13662
+Offset: 818, PUSHS , Operand: Members: Beacon near Edgeville
+Offset: 819, PUSHS , Operand: Members can now light the 
+Offset: 820, PUSHS , Operand: <col=000080>
+Offset: 821, PUSHS , Operand: beacon
+Offset: 822, PUSHS , Operand: </col>
+Offset: 823, PUSHS , Operand:  near 
+Offset: 824, PUSHS , Operand: <col=000080>
+Offset: 825, PUSHS , Operand: Edgeville
+Offset: 826, PUSHS , Operand: </col>
+Offset: 827, PUSHS , Operand:  (after All Fired Up).
+Offset: 828, CONCAT , Operand: 9
+Offset: 829, RETURN , Operand: 0
+Offset: 830, GOTO , Operand: 140
+Offset: 831, PUSHI , Operand: 68
+Offset: 832, PUSHI , Operand: 13662
+Offset: 833, PUSHS , Operand: Members: Beacon near the Monastery
+Offset: 834, PUSHS , Operand: <br>
+Offset: 835, PUSHS , Operand:  (after joining the Monastery)
+Offset: 836, CONCAT , Operand: 3
+Offset: 837, PUSHS , Operand: Members can now light the 
+Offset: 838, PUSHS , Operand: <col=000080>
+Offset: 839, PUSHS , Operand: beacon
+Offset: 840, PUSHS , Operand: </col>
+Offset: 841, PUSHS , Operand:  near 
+Offset: 842, PUSHS , Operand: <col=000080>
+Offset: 843, PUSHS , Operand: the Monastery
+Offset: 844, PUSHS , Operand: </col>
+Offset: 845, PUSHS , Operand:  (after All Fired Up and after joining the Monastery).
+Offset: 846, CONCAT , Operand: 9
+Offset: 847, RETURN , Operand: 0
+Offset: 848, GOTO , Operand: 122
+Offset: 849, PUSHI , Operand: 72
+Offset: 850, PUSHI , Operand: 13662
+Offset: 851, PUSHS , Operand: Members: Beacon near Goblin Village
+Offset: 852, PUSHS , Operand: <br>
+Offset: 853, PUSHS , Operand:  (after Land of the Goblins)
+Offset: 854, CONCAT , Operand: 3
+Offset: 855, PUSHS , Operand: Members can now light the 
+Offset: 856, PUSHS , Operand: <col=000080>
+Offset: 857, PUSHS , Operand: beacon
+Offset: 858, PUSHS , Operand: </col>
+Offset: 859, PUSHS , Operand:  near 
+Offset: 860, PUSHS , Operand: <col=000080>
+Offset: 861, PUSHS , Operand: Goblin Village
+Offset: 862, PUSHS , Operand: </col>
+Offset: 863, PUSHS , Operand:  (after All Fired Up and Land of the Goblins).
+Offset: 864, CONCAT , Operand: 9
+Offset: 865, RETURN , Operand: 0
+Offset: 866, GOTO , Operand: 104
+Offset: 867, PUSHI , Operand: 76
+Offset: 868, PUSHI , Operand: 13662
+Offset: 869, PUSHS , Operand: Members: Beacon near Burthorpe
+Offset: 870, PUSHS , Operand: <br>
+Offset: 871, PUSHS , Operand:  (with 56 Smithing)
+Offset: 872, CONCAT , Operand: 3
+Offset: 873, PUSHS , Operand: Members now have the Firemaking level required to light the 
+Offset: 874, PUSHS , Operand: <col=000080>
+Offset: 875, PUSHS , Operand: beacon
+Offset: 876, PUSHS , Operand: </col>
+Offset: 877, PUSHS , Operand:  near 
+Offset: 878, PUSHS , Operand: <col=000080>
+Offset: 879, PUSHS , Operand: Burthorpe
+Offset: 880, PUSHS , Operand: </col>
+Offset: 881, PUSHS , Operand: . (They also need level 56 Smithing and to have completed All Fired Up).
+Offset: 882, CONCAT , Operand: 9
+Offset: 883, RETURN , Operand: 0
+Offset: 884, GOTO , Operand: 86
+Offset: 885, PUSHI , Operand: 79
+Offset: 886, PUSHI , Operand: 13662
+Offset: 887, PUSHS , Operand: Members: Beacon east of Death Plateau
+Offset: 888, PUSHS , Operand: <br>
+Offset: 889, PUSHS , Operand:  (with 42 Construction)
+Offset: 890, CONCAT , Operand: 3
+Offset: 891, PUSHS , Operand: Members now have the Firemaking level required to light the 
+Offset: 892, PUSHS , Operand: <col=000080>
+Offset: 893, PUSHS , Operand: beacon
+Offset: 894, PUSHS , Operand: </col>
+Offset: 895, PUSHS , Operand:  east of 
+Offset: 896, PUSHS , Operand: <col=000080>
+Offset: 897, PUSHS , Operand: Death Plateau
+Offset: 898, PUSHS , Operand: </col>
+Offset: 899, PUSHS , Operand: . (They also need level 42 Construction and to have completed All Fired Up).
+Offset: 900, CONCAT , Operand: 9
+Offset: 901, RETURN , Operand: 0
+Offset: 902, GOTO , Operand: 68
+Offset: 903, PUSHI , Operand: 83
+Offset: 904, PUSHI , Operand: 13662
+Offset: 905, PUSHS , Operand: Members: Beacon near the Trollheim shortcut
+Offset: 906, PUSHS , Operand: <br>
+Offset: 907, PUSHS , Operand:  (with 64 Agility)
+Offset: 908, CONCAT , Operand: 3
+Offset: 909, PUSHS , Operand: Members now have the Firemaking level required to light the 
+Offset: 910, PUSHS , Operand: <col=000080>
+Offset: 911, PUSHS , Operand: beacon
+Offset: 912, PUSHS , Operand: </col>
+Offset: 913, PUSHS , Operand:  near the 
+Offset: 914, PUSHS , Operand: <col=000080>
+Offset: 915, PUSHS , Operand: Trollheim shortcut
+Offset: 916, PUSHS , Operand: </col>
+Offset: 917, PUSHS , Operand: . (They also need level 64 Agility and to have completed All Fired Up).
+Offset: 918, CONCAT , Operand: 9
+Offset: 919, RETURN , Operand: 0
+Offset: 920, GOTO , Operand: 50
+Offset: 921, PUSHI , Operand: 87
+Offset: 922, PUSHI , Operand: 13662
+Offset: 923, PUSHS , Operand: Members: Beacon near the entrance to the God Wars Dungeon
+Offset: 924, PUSHS , Operand: <br>
+Offset: 925, PUSHS , Operand:  (with 60 Crafting)
+Offset: 926, CONCAT , Operand: 3
+Offset: 927, PUSHS , Operand: Members now have the Firemaking level required to light the 
+Offset: 928, PUSHS , Operand: <col=000080>
+Offset: 929, PUSHS , Operand: beacon
+Offset: 930, PUSHS , Operand: </col>
+Offset: 931, PUSHS , Operand:  near the entrance to the 
+Offset: 932, PUSHS , Operand: <col=000080>
+Offset: 933, PUSHS , Operand: God Wars Dungeon
+Offset: 934, PUSHS , Operand: </col>
+Offset: 935, PUSHS , Operand: . (They also need level 60 Crafting and to have completed All Fired Up).
+Offset: 936, CONCAT , Operand: 9
+Offset: 937, RETURN , Operand: 0
+Offset: 938, GOTO , Operand: 32
+Offset: 939, PUSHI , Operand: 89
+Offset: 940, PUSHI , Operand: 13662
+Offset: 941, PUSHS , Operand: Members: Beacon near small temple in the Wilderness
+Offset: 942, PUSHS , Operand: <br>
+Offset: 943, PUSHS , Operand:  (with 70 Smithing or 59 Construction)
+Offset: 944, CONCAT , Operand: 3
+Offset: 945, PUSHS , Operand: Members now have the Firemaking level required to light the 
+Offset: 946, PUSHS , Operand: <col=000080>
+Offset: 947, PUSHS , Operand: beacon
+Offset: 948, PUSHS , Operand: </col>
+Offset: 949, PUSHS , Operand:  near the 
+Offset: 950, PUSHS , Operand: <col=000080>
+Offset: 951, PUSHS , Operand: small temple in the Wilderness
+Offset: 952, PUSHS , Operand: </col>
+Offset: 953, PUSHS , Operand: . (They will also need level 70 Smithing or level 59 Construction, and to have completed All Fired Up).
+Offset: 954, CONCAT , Operand: 9
+Offset: 955, RETURN , Operand: 0
+Offset: 956, GOTO , Operand: 14
+Offset: 957, PUSHI , Operand: 92
+Offset: 958, PUSHI , Operand: 13662
+Offset: 959, PUSHS , Operand: Members: Beacon on the Frozen Waste Plateau
+Offset: 960, PUSHS , Operand: Members can now light the 
+Offset: 961, PUSHS , Operand: <col=000080>
+Offset: 962, PUSHS , Operand: beacon
+Offset: 963, PUSHS , Operand: </col>
+Offset: 964, PUSHS , Operand:  on the 
+Offset: 965, PUSHS , Operand: <col=000080>
+Offset: 966, PUSHS , Operand: Frozen Waste Plateau
+Offset: 967, PUSHS , Operand: </col>
+Offset: 968, PUSHS , Operand:  (after All Fired Up).
+Offset: 969, CONCAT , Operand: 9
+Offset: 970, RETURN , Operand: 0
+Offset: 971, GOTO , Operand: 280
+Offset: 972, LOADINT , Operand: 1
+Offset: 973, SWITCH , Operand: 6
+Offset: 974, GOTO , Operand: 43
+Offset: 975, PUSHI , Operand: 91
+Offset: 976, PUSHI , Operand: 18778
+Offset: 977, PUSHS , Operand: Members: Starved ancient effigies
+Offset: 978, PUSHS , Operand: Members can now investigate 
+Offset: 979, PUSHS , Operand: <col=000080>
+Offset: 980, PUSHS , Operand: starved ancient effigies
+Offset: 981, PUSHS , Operand: </col>
+Offset: 982, PUSHS , Operand:  using their knowledge of Firemaking.
+Offset: 983, CONCAT , Operand: 5
+Offset: 984, RETURN , Operand: 0
+Offset: 985, GOTO , Operand: 32
+Offset: 986, PUSHI , Operand: 93
+Offset: 987, PUSHI , Operand: 18779
+Offset: 988, PUSHS , Operand: Members: Nourished ancient effigies
+Offset: 989, PUSHS , Operand: Members can now investigate 
+Offset: 990, PUSHS , Operand: <col=000080>
+Offset: 991, PUSHS , Operand: nourished ancient effigies
+Offset: 992, PUSHS , Operand: </col>
+Offset: 993, PUSHS , Operand:  using their knowledge of Firemaking.
+Offset: 994, CONCAT , Operand: 5
+Offset: 995, RETURN , Operand: 0
+Offset: 996, GOTO , Operand: 21
+Offset: 997, PUSHI , Operand: 95
+Offset: 998, PUSHI , Operand: 18780
+Offset: 999, PUSHS , Operand: Members: Sated ancient effigies
+Offset: 1000, PUSHS , Operand: Members can now investigate 
+Offset: 1001, PUSHS , Operand: <col=000080>
+Offset: 1002, PUSHS , Operand: sated ancient effigies
+Offset: 1003, PUSHS , Operand: </col>
+Offset: 1004, PUSHS , Operand:  using their knowledge of Firemaking.
+Offset: 1005, CONCAT , Operand: 5
+Offset: 1006, RETURN , Operand: 0
+Offset: 1007, GOTO , Operand: 10
+Offset: 1008, PUSHI , Operand: 97
+Offset: 1009, PUSHI , Operand: 18781
+Offset: 1010, PUSHS , Operand: Members: Gorged ancient effigies
+Offset: 1011, PUSHS , Operand: Members can now investigate 
+Offset: 1012, PUSHS , Operand: <col=000080>
+Offset: 1013, PUSHS , Operand: gorged ancient effigies
+Offset: 1014, PUSHS , Operand: </col>
+Offset: 1015, PUSHS , Operand:  using their knowledge of Firemaking.
+Offset: 1016, CONCAT , Operand: 5
+Offset: 1017, RETURN , Operand: 0
+Offset: 1018, GOTO , Operand: 233
+Offset: 1019, LOADINT , Operand: 1
+Offset: 1020, SWITCH , Operand: 7
+Offset: 1021, GOTO , Operand: 80
+Offset: 1022, PUSHI , Operand: 1
+Offset: 1023, PUSHI , Operand: 14667
+Offset: 1024, PUSHS , Operand: Members: Burn basic evil tree
+Offset: 1025, PUSHS , Operand: Members can now burn 
+Offset: 1026, PUSHS , Operand: <col=000080>
+Offset: 1027, PUSHS , Operand: basic evil trees
+Offset: 1028, PUSHS , Operand: </col>
+Offset: 1029, CONCAT , Operand: 4
+Offset: 1030, RETURN , Operand: 0
+Offset: 1031, GOTO , Operand: 70
+Offset: 1032, PUSHI , Operand: 15
+Offset: 1033, PUSHI , Operand: 14667
+Offset: 1034, PUSHS , Operand: Members: Burn evil oak tree
+Offset: 1035, PUSHS , Operand: Members can now burn 
+Offset: 1036, PUSHS , Operand: <col=000080>
+Offset: 1037, PUSHS , Operand: evil oak trees
+Offset: 1038, PUSHS , Operand: </col>
+Offset: 1039, CONCAT , Operand: 4
+Offset: 1040, RETURN , Operand: 0
+Offset: 1041, GOTO , Operand: 60
+Offset: 1042, PUSHI , Operand: 30
+Offset: 1043, PUSHI , Operand: 14667
+Offset: 1044, PUSHS , Operand: Members: Burn evil willow tree
+Offset: 1045, PUSHS , Operand: Members can now burn 
+Offset: 1046, PUSHS , Operand: <col=000080>
+Offset: 1047, PUSHS , Operand: evil willow trees
+Offset: 1048, PUSHS , Operand: </col>
+Offset: 1049, CONCAT , Operand: 4
+Offset: 1050, RETURN , Operand: 0
+Offset: 1051, GOTO , Operand: 50
+Offset: 1052, PUSHI , Operand: 45
+Offset: 1053, PUSHI , Operand: 14667
+Offset: 1054, PUSHS , Operand: Members: Burn evil maple tree
+Offset: 1055, PUSHS , Operand: Members can now burn 
+Offset: 1056, PUSHS , Operand: <col=000080>
+Offset: 1057, PUSHS , Operand: evil maple trees
+Offset: 1058, PUSHS , Operand: </col>
+Offset: 1059, CONCAT , Operand: 4
+Offset: 1060, RETURN , Operand: 0
+Offset: 1061, GOTO , Operand: 40
+Offset: 1062, PUSHI , Operand: 55
+Offset: 1063, PUSHI , Operand: 14619
+Offset: 1064, PUSHS , Operand: Members: Phoenix Lair - funeral pyre
+Offset: 1065, PUSHS , Operand: Members can now light the phoenix's 
+Offset: 1066, PUSHS , Operand: <col=000080>
+Offset: 1067, PUSHS , Operand: funeral pyre
+Offset: 1068, PUSHS , Operand: </col>
+Offset: 1069, PUSHS , Operand:  in the phoenix lair.
+Offset: 1070, CONCAT , Operand: 5
+Offset: 1071, RETURN , Operand: 0
+Offset: 1072, GOTO , Operand: 29
+Offset: 1073, PUSHI , Operand: 60
+Offset: 1074, PUSHI , Operand: 14667
+Offset: 1075, PUSHS , Operand: Members: Burn evil yew tree
+Offset: 1076, PUSHS , Operand: Members can now burn 
+Offset: 1077, PUSHS , Operand: <col=000080>
+Offset: 1078, PUSHS , Operand: evil yew trees
+Offset: 1079, PUSHS , Operand: </col>
+Offset: 1080, CONCAT , Operand: 4
+Offset: 1081, RETURN , Operand: 0
+Offset: 1082, GOTO , Operand: 19
+Offset: 1083, PUSHI , Operand: 75
+Offset: 1084, PUSHI , Operand: 14667
+Offset: 1085, PUSHS , Operand: Members: Burn evil magic tree
+Offset: 1086, PUSHS , Operand: Members can now burn 
+Offset: 1087, PUSHS , Operand: <col=000080>
+Offset: 1088, PUSHS , Operand: evil magic trees
+Offset: 1089, PUSHS , Operand: </col>
+Offset: 1090, CONCAT , Operand: 4
+Offset: 1091, RETURN , Operand: 0
+Offset: 1092, GOTO , Operand: 9
+Offset: 1093, PUSHI , Operand: 85
+Offset: 1094, PUSHI , Operand: 14667
+Offset: 1095, PUSHS , Operand: Members: Burn elder evil tree
+Offset: 1096, PUSHS , Operand: Members can now burn 
+Offset: 1097, PUSHS , Operand: <col=000080>
+Offset: 1098, PUSHS , Operand: elder evil trees
+Offset: 1099, PUSHS , Operand: </col>
+Offset: 1100, CONCAT , Operand: 4
+Offset: 1101, RETURN , Operand: 0
+Offset: 1102, GOTO , Operand: 149
+Offset: 1103, LOADINT , Operand: 1
+Offset: 1104, SWITCH , Operand: 8
+Offset: 1105, GOTO , Operand: 118
+Offset: 1106, PUSHI , Operand: -1
+Offset: 1107, PUSHI , Operand: 15707
+Offset: 1108, PUSHS , Operand: Dungeoneering skill tasks
+Offset: 1109, PUSHS , Operand: <br>
+Offset: 1110, PUSHS , Operand: As your Firemaking level increases, you will be able to attempt higher-level firemaking tasks within Daemonheim. You will also be more likely to succeed when attempting firemaking tasks within Daemonheim.
+Offset: 1111, CONCAT , Operand: 3
+Offset: 1112, PUSHS , Operand: 
+Offset: 1113, RETURN , Operand: 0
+Offset: 1114, GOTO , Operand: 109
+Offset: 1115, PUSHI , Operand: 1
+Offset: 1116, PUSHI , Operand: 17682
+Offset: 1117, PUSHS , Operand: Tangle gum branches (Tier 1)
+Offset: 1118, PUSHS , Operand: You can now light 
+Offset: 1119, PUSHS , Operand: <col=000080>
+Offset: 1120, PUSHS , Operand: tangle gum branches
+Offset: 1121, PUSHS , Operand: </col>
+Offset: 1122, PUSHS , Operand:  within Daemonheim.
+Offset: 1123, CONCAT , Operand: 5
+Offset: 1124, RETURN , Operand: 0
+Offset: 1125, GOTO , Operand: 98
+Offset: 1126, PUSHI , Operand: 10
+Offset: 1127, PUSHI , Operand: 17684
+Offset: 1128, PUSHS , Operand: Seeping elm branches (Tier 2)
+Offset: 1129, PUSHS , Operand: You can now light 
+Offset: 1130, PUSHS , Operand: <col=000080>
+Offset: 1131, PUSHS , Operand: seeping elm branches
+Offset: 1132, PUSHS , Operand: </col>
+Offset: 1133, PUSHS , Operand:  within Daemonheim.
+Offset: 1134, CONCAT , Operand: 5
+Offset: 1135, RETURN , Operand: 0
+Offset: 1136, GOTO , Operand: 87
+Offset: 1137, PUSHI , Operand: 20
+Offset: 1138, PUSHI , Operand: 17686
+Offset: 1139, PUSHS , Operand: Blood spindle branches (Tier 3)
+Offset: 1140, PUSHS , Operand: You can now light 
+Offset: 1141, PUSHS , Operand: <col=000080>
+Offset: 1142, PUSHS , Operand: blood spindle branches
+Offset: 1143, PUSHS , Operand: </col>
+Offset: 1144, PUSHS , Operand:  within Daemonheim.
+Offset: 1145, CONCAT , Operand: 5
+Offset: 1146, RETURN , Operand: 0
+Offset: 1147, GOTO , Operand: 76
+Offset: 1148, PUSHI , Operand: 30
+Offset: 1149, PUSHI , Operand: 17688
+Offset: 1150, PUSHS , Operand: Utuku branches (Tier 4)
+Offset: 1151, PUSHS , Operand: You can now light 
+Offset: 1152, PUSHS , Operand: <col=000080>
+Offset: 1153, PUSHS , Operand: utuku branches
+Offset: 1154, PUSHS , Operand: </col>
+Offset: 1155, PUSHS , Operand:  within Daemonheim.
+Offset: 1156, CONCAT , Operand: 5
+Offset: 1157, RETURN , Operand: 0
+Offset: 1158, GOTO , Operand: 65
+Offset: 1159, PUSHI , Operand: 40
+Offset: 1160, PUSHI , Operand: 17690
+Offset: 1161, PUSHS , Operand: Spinebeam branches (Tier 5)
+Offset: 1162, PUSHS , Operand: You can now light 
+Offset: 1163, PUSHS , Operand: <col=000080>
+Offset: 1164, PUSHS , Operand: spinebeam branches
+Offset: 1165, PUSHS , Operand: </col>
+Offset: 1166, PUSHS , Operand:  within Daemonheim.
+Offset: 1167, CONCAT , Operand: 5
+Offset: 1168, RETURN , Operand: 0
+Offset: 1169, GOTO , Operand: 54
+Offset: 1170, PUSHI , Operand: 50
+Offset: 1171, PUSHI , Operand: 17692
+Offset: 1172, PUSHS , Operand: Members: Bovistrangler branches (Tier 6)
+Offset: 1173, PUSHS , Operand: Members can now light 
+Offset: 1174, PUSHS , Operand: <col=000080>
+Offset: 1175, PUSHS , Operand: bovistrangler branches
+Offset: 1176, PUSHS , Operand: </col>
+Offset: 1177, PUSHS , Operand:  within Daemonheim.
+Offset: 1178, CONCAT , Operand: 5
+Offset: 1179, RETURN , Operand: 0
+Offset: 1180, GOTO , Operand: 43
+Offset: 1181, PUSHI , Operand: 60
+Offset: 1182, PUSHI , Operand: 17694
+Offset: 1183, PUSHS , Operand: Members: Thigat branches (Tier 7)
+Offset: 1184, PUSHS , Operand: Members can now light 
+Offset: 1185, PUSHS , Operand: <col=000080>
+Offset: 1186, PUSHS , Operand: thigat branches
+Offset: 1187, PUSHS , Operand: </col>
+Offset: 1188, PUSHS , Operand:  within Daemonheim.
+Offset: 1189, CONCAT , Operand: 5
+Offset: 1190, RETURN , Operand: 0
+Offset: 1191, GOTO , Operand: 32
+Offset: 1192, PUSHI , Operand: 70
+Offset: 1193, PUSHI , Operand: 17696
+Offset: 1194, PUSHS , Operand: Members: Corpsethorn branches (Tier 8)
+Offset: 1195, PUSHS , Operand: Members can now light 
+Offset: 1196, PUSHS , Operand: <col=000080>
+Offset: 1197, PUSHS , Operand: corpsethorn branches
+Offset: 1198, PUSHS , Operand: </col>
+Offset: 1199, PUSHS , Operand:  within Daemonheim.
+Offset: 1200, CONCAT , Operand: 5
+Offset: 1201, RETURN , Operand: 0
+Offset: 1202, GOTO , Operand: 21
+Offset: 1203, PUSHI , Operand: 80
+Offset: 1204, PUSHI , Operand: 17698
+Offset: 1205, PUSHS , Operand: Members: Entgallow branches (Tier 9)
+Offset: 1206, PUSHS , Operand: Members can now light 
+Offset: 1207, PUSHS , Operand: <col=000080>
+Offset: 1208, PUSHS , Operand: entgallow branches
+Offset: 1209, PUSHS , Operand: </col>
+Offset: 1210, PUSHS , Operand:  within Daemonheim.
+Offset: 1211, CONCAT , Operand: 5
+Offset: 1212, RETURN , Operand: 0
+Offset: 1213, GOTO , Operand: 10
+Offset: 1214, PUSHI , Operand: 90
+Offset: 1215, PUSHI , Operand: 17700
+Offset: 1216, PUSHS , Operand: Members: Grave creeper branches (Tier 10)
+Offset: 1217, PUSHS , Operand: Members can now light 
+Offset: 1218, PUSHS , Operand: <col=000080>
+Offset: 1219, PUSHS , Operand: grave creeper branches
+Offset: 1220, PUSHS , Operand: </col>
+Offset: 1221, PUSHS , Operand:  within Daemonheim.
+Offset: 1222, CONCAT , Operand: 5
+Offset: 1223, RETURN , Operand: 0
+Offset: 1224, GOTO , Operand: 27
+Offset: 1225, LOADINT , Operand: 1
+Offset: 1226, PUSHI , Operand: 0
+Offset: 1227, IFEQ , Operand: 1
+Offset: 1228, GOTO , Operand: 23
+Offset: 1229, PUSHI , Operand: 99
+Offset: 1230, PUSHI , Operand: 9804
+Offset: 1231, PUSHS , Operand: Skill mastery
+Offset: 1232, PUSHS , Operand: <col=000080>
+Offset: 1233, PUSHS , Operand: Congratulations! You are now a master of 
+Offset: 1234, PUSHS , Operand: <col=800000>
+Offset: 1235, PUSHS , Operand: Firemaking
+Offset: 1236, PUSHS , Operand: <col=000080>
+Offset: 1237, PUSHS , Operand: . Members can visit 
+Offset: 1238, PUSHS , Operand: <col=800000>
+Offset: 1239, PUSHS , Operand: Ignatius
+Offset: 1240, PUSHS , Operand: <col=000080>
+Offset: 1241, PUSHS , Operand: , south of 
+Offset: 1242, PUSHS , Operand: <col=800000>
+Offset: 1243, PUSHS , Operand: Seers' Village
+Offset: 1244, PUSHS , Operand: <col=000080>
+Offset: 1245, PUSHS , Operand: . He has something special that is only available to true masters of the 
+Offset: 1246, PUSHS , Operand: <col=800000>
+Offset: 1247, PUSHS , Operand: Firemaking
+Offset: 1248, PUSHS , Operand: <col=000080>
+Offset: 1249, PUSHS , Operand:  skill!
+Offset: 1250, CONCAT , Operand: 18
+Offset: 1251, RETURN , Operand: 0
+Offset: 1252, PUSHI , Operand: 0
+Offset: 1253, PUSHI , Operand: -1
+Offset: 1254, PUSHS , Operand: 
+Offset: 1255, PUSHS , Operand: 
+Offset: 1256, RETURN , Operand: 0
+
+================================================
+                Switch Table 0                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 367
+Key: 2, Value: 497
+Key: 3, Value: 660
+Key: 4, Value: 730
+Key: 5, Value: 970
+Key: 6, Value: 1017
+Key: 7, Value: 1101
+Key: 8, Value: 1223
+
+================================================
+                Switch Table 1                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 12
+Key: 2, Value: 23
+Key: 3, Value: 34
+Key: 4, Value: 45
+Key: 5, Value: 56
+Key: 6, Value: 67
+Key: 7, Value: 78
+Key: 8, Value: 89
+Key: 9, Value: 100
+Key: 10, Value: 111
+Key: 11, Value: 122
+Key: 12, Value: 133
+Key: 13, Value: 144
+Key: 14, Value: 155
+Key: 15, Value: 166
+Key: 17, Value: 188
+Key: 16, Value: 177
+Key: 19, Value: 210
+Key: 18, Value: 199
+Key: 21, Value: 232
+Key: 20, Value: 221
+Key: 23, Value: 254
+Key: 22, Value: 243
+Key: 25, Value: 276
+Key: 24, Value: 265
+Key: 27, Value: 298
+Key: 26, Value: 287
+Key: 29, Value: 320
+Key: 28, Value: 309
+Key: 31, Value: 342
+Key: 30, Value: 331
+Key: 32, Value: 353
+
+================================================
+                Switch Table 2                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 7
+Key: 2, Value: 18
+Key: 3, Value: 29
+Key: 4, Value: 40
+Key: 5, Value: 51
+Key: 6, Value: 62
+Key: 7, Value: 73
+Key: 8, Value: 84
+Key: 9, Value: 95
+Key: 10, Value: 106
+Key: 11, Value: 117
+
+================================================
+                Switch Table 3                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 7
+Key: 2, Value: 21
+Key: 3, Value: 35
+Key: 4, Value: 49
+Key: 5, Value: 63
+Key: 6, Value: 77
+Key: 7, Value: 91
+Key: 8, Value: 105
+Key: 9, Value: 119
+Key: 10, Value: 133
+Key: 11, Value: 147
+
+================================================
+                Switch Table 4                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 12
+Key: 2, Value: 26
+Key: 3, Value: 40
+Key: 4, Value: 54
+
+================================================
+                Switch Table 5                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 7
+Key: 2, Value: 22
+Key: 3, Value: 37
+Key: 4, Value: 52
+Key: 5, Value: 67
+Key: 6, Value: 82
+Key: 7, Value: 97
+Key: 8, Value: 115
+Key: 9, Value: 133
+Key: 10, Value: 151
+Key: 11, Value: 169
+Key: 12, Value: 187
+Key: 13, Value: 205
+Key: 14, Value: 223
+
+================================================
+                Switch Table 6                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 12
+Key: 2, Value: 23
+Key: 3, Value: 34
+
+================================================
+                Switch Table 7                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 11
+Key: 2, Value: 21
+Key: 3, Value: 31
+Key: 4, Value: 41
+Key: 5, Value: 52
+Key: 6, Value: 62
+Key: 7, Value: 72
+
+================================================
+                Switch Table 8                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 10
+Key: 2, Value: 21
+Key: 3, Value: 32
+Key: 4, Value: 43
+Key: 5, Value: 54
+Key: 6, Value: 65
+Key: 7, Value: 76
+Key: 8, Value: 87
+Key: 9, Value: 98
+Key: 10, Value: 109

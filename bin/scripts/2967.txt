@@ -1,0 +1,306 @@
+================================================
+      Client Script 2967 Dumped by SiniSoul    
+      Instruction Size: 295
+      Integer Arguments: 7 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHI , Operand: 0
+Offset: 1, STOREINT , Operand: 1
+Offset: 2, LOADINT , Operand: 0
+Offset: 3, PUSHI , Operand: 0
+Offset: 4, IFEQ , Operand: 1
+Offset: 5, GOTO , Operand: 20
+Offset: 6, isPreferenceStrNull , Operand: 0
+Offset: 7, PUSHI , Operand: 1
+Offset: 8, IFEQ , Operand: 1
+Offset: 9, GOTO , Operand: 16
+Offset: 10, LOADGINT , Operand: 1095
+Offset: 11, PUSHI , Operand: 1
+Offset: 12, IFEQ , Operand: 1
+Offset: 13, GOTO , Operand: 3
+Offset: 14, PUSHI , Operand: 1
+Offset: 15, STOREINT , Operand: 1
+Offset: 16, GOTO , Operand: 9
+Offset: 17, LOADGINT , Operand: 174
+Offset: 18, STOREGINT , Operand: 1089
+Offset: 19, PUSHI , Operand: 9
+Offset: 20, STOREGINT , Operand: 174
+Offset: 21, CALL , Operand: 3209
+Offset: 22, PUSHI , Operand: 0
+Offset: 23, PUSHI , Operand: 44105757
+Offset: 24, Unref Method: 2003, Operand: 0
+Offset: 25, RETURN , Operand: 0
+Offset: 26, CALL , Operand: 3209
+Offset: 27, PUSHI , Operand: 1
+Offset: 28, CALL , Operand: 3208
+Offset: 29, PUSHI , Operand: 1
+Offset: 30, STOREINT , Operand: 2
+Offset: 31, PUSHS , Operand: 
+Offset: 32, PUSHI , Operand: 44105818
+Offset: 33, PUSHI , Operand: 44105817
+Offset: 34, CALL , Operand: 3213
+Offset: 35, PUSHI , Operand: -1
+Offset: 36, PUSHI , Operand: 44105829
+Offset: 37, Unref Method: 2105, Operand: 0
+Offset: 38, LOADGSTR , Operand: 124
+Offset: 39, getStringLength , Operand: 0
+Offset: 40, STOREINT , Operand: 3
+Offset: 41, LOADINT , Operand: 3
+Offset: 42, PUSHI , Operand: 0
+Offset: 43, IFLTEQ , Operand: 1
+Offset: 44, GOTO , Operand: 7
+Offset: 45, PUSHS , Operand: Please supply a password.
+Offset: 46, PUSHI , Operand: 44105818
+Offset: 47, PUSHI , Operand: 44105817
+Offset: 48, CALL , Operand: 3213
+Offset: 49, PUSHI , Operand: 0
+Offset: 50, STOREINT , Operand: 2
+Offset: 51, GOTO , Operand: 58
+Offset: 52, LOADINT , Operand: 3
+Offset: 53, PUSHI , Operand: 5
+Offset: 54, IFLT , Operand: 1
+Offset: 55, GOTO , Operand: 10
+Offset: 56, PUSHI , Operand: 1726
+Offset: 57, PUSHI , Operand: 44105829
+Offset: 58, Unref Method: 2105, Operand: 0
+Offset: 59, PUSHS , Operand: Password is too short, it must be at least 5 characters long.
+Offset: 60, PUSHI , Operand: 44105818
+Offset: 61, PUSHI , Operand: 44105817
+Offset: 62, CALL , Operand: 3213
+Offset: 63, PUSHI , Operand: 0
+Offset: 64, STOREINT , Operand: 2
+Offset: 65, GOTO , Operand: 44
+Offset: 66, LOADINT , Operand: 3
+Offset: 67, PUSHI , Operand: 20
+Offset: 68, IFGT , Operand: 1
+Offset: 69, GOTO , Operand: 10
+Offset: 70, PUSHI , Operand: 1726
+Offset: 71, PUSHI , Operand: 44105829
+Offset: 72, Unref Method: 2105, Operand: 0
+Offset: 73, PUSHS , Operand: Password is too long, it must be no more than 20 characters.
+Offset: 74, PUSHI , Operand: 44105818
+Offset: 75, PUSHI , Operand: 44105817
+Offset: 76, CALL , Operand: 3213
+Offset: 77, PUSHI , Operand: 0
+Offset: 78, STOREINT , Operand: 2
+Offset: 79, GOTO , Operand: 30
+Offset: 80, LOADGSTR , Operand: 124
+Offset: 81, CALL , Operand: 2202
+Offset: 82, PUSHI , Operand: 1
+Offset: 83, IFEQ , Operand: 1
+Offset: 84, GOTO , Operand: 10
+Offset: 85, PUSHI , Operand: 1726
+Offset: 86, PUSHI , Operand: 44105829
+Offset: 87, Unref Method: 2105, Operand: 0
+Offset: 88, PUSHS , Operand: Passwords may only contain letters and numbers.
+Offset: 89, PUSHI , Operand: 44105818
+Offset: 90, PUSHI , Operand: 44105817
+Offset: 91, CALL , Operand: 3213
+Offset: 92, PUSHI , Operand: 0
+Offset: 93, STOREINT , Operand: 2
+Offset: 94, GOTO , Operand: 15
+Offset: 95, LOADGSTR , Operand: 124
+Offset: 96, LOADGSTR , Operand: 122
+Offset: 97, Unref Method: 4107, Operand: 0
+Offset: 98, PUSHI , Operand: 0
+Offset: 99, IFEQ , Operand: 1
+Offset: 100, GOTO , Operand: 9
+Offset: 101, PUSHI , Operand: 1726
+Offset: 102, PUSHI , Operand: 44105829
+Offset: 103, Unref Method: 2105, Operand: 0
+Offset: 104, PUSHS , Operand: Your password is too similar to your username.
+Offset: 105, PUSHI , Operand: 44105818
+Offset: 106, PUSHI , Operand: 44105817
+Offset: 107, CALL , Operand: 3213
+Offset: 108, PUSHI , Operand: 0
+Offset: 109, STOREINT , Operand: 2
+Offset: 110, PUSHI , Operand: 1
+Offset: 111, STOREINT , Operand: 4
+Offset: 112, PUSHS , Operand: 
+Offset: 113, PUSHI , Operand: 44105802
+Offset: 114, PUSHI , Operand: 44105801
+Offset: 115, CALL , Operand: 3213
+Offset: 116, PUSHI , Operand: -1
+Offset: 117, PUSHI , Operand: 44105813
+Offset: 118, Unref Method: 2105, Operand: 0
+Offset: 119, LOADGSTR , Operand: 125
+Offset: 120, getStringLength , Operand: 0
+Offset: 121, STOREINT , Operand: 3
+Offset: 122, LOADINT , Operand: 3
+Offset: 123, PUSHI , Operand: 0
+Offset: 124, IFLTEQ , Operand: 1
+Offset: 125, GOTO , Operand: 7
+Offset: 126, PUSHS , Operand: Please supply a password.
+Offset: 127, PUSHI , Operand: 44105802
+Offset: 128, PUSHI , Operand: 44105801
+Offset: 129, CALL , Operand: 3213
+Offset: 130, PUSHI , Operand: 0
+Offset: 131, STOREINT , Operand: 4
+Offset: 132, GOTO , Operand: 58
+Offset: 133, LOADINT , Operand: 3
+Offset: 134, PUSHI , Operand: 5
+Offset: 135, IFLT , Operand: 1
+Offset: 136, GOTO , Operand: 10
+Offset: 137, PUSHI , Operand: 1726
+Offset: 138, PUSHI , Operand: 44105813
+Offset: 139, Unref Method: 2105, Operand: 0
+Offset: 140, PUSHS , Operand: Password is too short, it must be at least 5 characters long.
+Offset: 141, PUSHI , Operand: 44105802
+Offset: 142, PUSHI , Operand: 44105801
+Offset: 143, CALL , Operand: 3213
+Offset: 144, PUSHI , Operand: 0
+Offset: 145, STOREINT , Operand: 4
+Offset: 146, GOTO , Operand: 44
+Offset: 147, LOADINT , Operand: 3
+Offset: 148, PUSHI , Operand: 20
+Offset: 149, IFGT , Operand: 1
+Offset: 150, GOTO , Operand: 10
+Offset: 151, PUSHI , Operand: 1726
+Offset: 152, PUSHI , Operand: 44105813
+Offset: 153, Unref Method: 2105, Operand: 0
+Offset: 154, PUSHS , Operand: Password is too long, it must be no more than 20 characters.
+Offset: 155, PUSHI , Operand: 44105802
+Offset: 156, PUSHI , Operand: 44105801
+Offset: 157, CALL , Operand: 3213
+Offset: 158, PUSHI , Operand: 0
+Offset: 159, STOREINT , Operand: 4
+Offset: 160, GOTO , Operand: 30
+Offset: 161, LOADGSTR , Operand: 125
+Offset: 162, CALL , Operand: 2202
+Offset: 163, PUSHI , Operand: 1
+Offset: 164, IFEQ , Operand: 1
+Offset: 165, GOTO , Operand: 10
+Offset: 166, PUSHI , Operand: 1726
+Offset: 167, PUSHI , Operand: 44105813
+Offset: 168, Unref Method: 2105, Operand: 0
+Offset: 169, PUSHS , Operand: Passwords may only contain letters and numbers.
+Offset: 170, PUSHI , Operand: 44105802
+Offset: 171, PUSHI , Operand: 44105801
+Offset: 172, CALL , Operand: 3213
+Offset: 173, PUSHI , Operand: 0
+Offset: 174, STOREINT , Operand: 4
+Offset: 175, GOTO , Operand: 15
+Offset: 176, LOADGSTR , Operand: 125
+Offset: 177, LOADGSTR , Operand: 122
+Offset: 178, Unref Method: 4107, Operand: 0
+Offset: 179, PUSHI , Operand: 0
+Offset: 180, IFEQ , Operand: 1
+Offset: 181, GOTO , Operand: 9
+Offset: 182, PUSHI , Operand: 1726
+Offset: 183, PUSHI , Operand: 44105813
+Offset: 184, Unref Method: 2105, Operand: 0
+Offset: 185, PUSHS , Operand: Your password is too similar to your username.
+Offset: 186, PUSHI , Operand: 44105802
+Offset: 187, PUSHI , Operand: 44105801
+Offset: 188, CALL , Operand: 3213
+Offset: 189, PUSHI , Operand: 0
+Offset: 190, STOREINT , Operand: 4
+Offset: 191, PUSHI , Operand: 1
+Offset: 192, STOREINT , Operand: 5
+Offset: 193, LOADGSTR , Operand: 124
+Offset: 194, LOADGSTR , Operand: 125
+Offset: 195, Unref Method: 4107, Operand: 0
+Offset: 196, PUSHI , Operand: 0
+Offset: 197, IFNE , Operand: 1
+Offset: 198, GOTO , Operand: 19
+Offset: 199, LOADGSTR , Operand: 124
+Offset: 200, getStringLength , Operand: 0
+Offset: 201, PUSHI , Operand: 0
+Offset: 202, IFGT , Operand: 1
+Offset: 203, GOTO , Operand: 14
+Offset: 204, LOADGSTR , Operand: 125
+Offset: 205, getStringLength , Operand: 0
+Offset: 206, PUSHI , Operand: 0
+Offset: 207, IFGT , Operand: 1
+Offset: 208, GOTO , Operand: 9
+Offset: 209, PUSHI , Operand: 1726
+Offset: 210, PUSHI , Operand: 44105813
+Offset: 211, Unref Method: 2105, Operand: 0
+Offset: 212, PUSHS , Operand: Please make sure both passwords match.
+Offset: 213, PUSHI , Operand: 44105802
+Offset: 214, PUSHI , Operand: 44105801
+Offset: 215, CALL , Operand: 3213
+Offset: 216, PUSHI , Operand: 0
+Offset: 217, STOREINT , Operand: 5
+Offset: 218, PUSHI , Operand: 1
+Offset: 219, STOREINT , Operand: 6
+Offset: 220, PUSHS , Operand: 
+Offset: 221, PUSHI , Operand: 44105834
+Offset: 222, PUSHI , Operand: 44105833
+Offset: 223, CALL , Operand: 3213
+Offset: 224, PUSHI , Operand: -1
+Offset: 225, PUSHI , Operand: 44105845
+Offset: 226, Unref Method: 2105, Operand: 0
+Offset: 227, LOADGSTR , Operand: 122
+Offset: 228, getStringLength , Operand: 0
+Offset: 229, PUSHI , Operand: 0
+Offset: 230, IFLTEQ , Operand: 1
+Offset: 231, GOTO , Operand: 10
+Offset: 232, PUSHS , Operand: Please supply a username.
+Offset: 233, PUSHI , Operand: 44105834
+Offset: 234, PUSHI , Operand: 44105833
+Offset: 235, CALL , Operand: 3213
+Offset: 236, PUSHI , Operand: -1
+Offset: 237, PUSHI , Operand: 44105845
+Offset: 238, Unref Method: 2105, Operand: 0
+Offset: 239, PUSHI , Operand: 0
+Offset: 240, STOREINT , Operand: 6
+Offset: 241, GOTO , Operand: 14
+Offset: 242, LOADGSTR , Operand: 122
+Offset: 243, CALL , Operand: 2203
+Offset: 244, PUSHI , Operand: 0
+Offset: 245, IFEQ , Operand: 1
+Offset: 246, GOTO , Operand: 9
+Offset: 247, PUSHI , Operand: 1726
+Offset: 248, PUSHI , Operand: 44105845
+Offset: 249, Unref Method: 2105, Operand: 0
+Offset: 250, PUSHS , Operand: Please supply a valid username.
+Offset: 251, PUSHI , Operand: 44105834
+Offset: 252, PUSHI , Operand: 44105833
+Offset: 253, CALL , Operand: 3213
+Offset: 254, PUSHI , Operand: 0
+Offset: 255, STOREINT , Operand: 6
+Offset: 256, LOADINT , Operand: 6
+Offset: 257, PUSHI , Operand: 1
+Offset: 258, IFEQ , Operand: 1
+Offset: 259, GOTO , Operand: 32
+Offset: 260, LOADINT , Operand: 2
+Offset: 261, PUSHI , Operand: 1
+Offset: 262, IFEQ , Operand: 1
+Offset: 263, GOTO , Operand: 28
+Offset: 264, LOADINT , Operand: 4
+Offset: 265, PUSHI , Operand: 1
+Offset: 266, IFEQ , Operand: 1
+Offset: 267, GOTO , Operand: 24
+Offset: 268, LOADINT , Operand: 5
+Offset: 269, PUSHI , Operand: 1
+Offset: 270, IFEQ , Operand: 1
+Offset: 271, GOTO , Operand: 20
+Offset: 272, LOADGINT , Operand: 1095
+Offset: 273, PUSHI , Operand: 1
+Offset: 274, IFEQ , Operand: 1
+Offset: 275, GOTO , Operand: 8
+Offset: 276, isPreferenceStrNull , Operand: 0
+Offset: 277, PUSHI , Operand: 1
+Offset: 278, IFEQ , Operand: 1
+Offset: 279, GOTO , Operand: 4
+Offset: 280, LOADGSTR , Operand: 122
+Offset: 281, LOADGSTR , Operand: 124
+Offset: 282, Unref Method: 5621, Operand: 0
+Offset: 283, GOTO , Operand: 3
+Offset: 284, LOADGSTR , Operand: 122
+Offset: 285, LOADGSTR , Operand: 124
+Offset: 286, Unref Method: 5605, Operand: 0
+Offset: 287, PUSHI , Operand: 3220
+Offset: 288, PUSHS , Operand: 
+Offset: 289, PUSHI , Operand: 44105756
+Offset: 290, setInterfaceDefinitionScriptParams8 , Operand: 0
+Offset: 291, GOTO , Operand: 2
+Offset: 292, PUSHI , Operand: 0
+Offset: 293, CALL , Operand: 3208
+Offset: 294, RETURN , Operand: 0

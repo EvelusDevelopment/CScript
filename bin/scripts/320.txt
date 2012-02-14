@@ -1,0 +1,41 @@
+================================================
+      Client Script 320 Dumped by SiniSoul    
+      Instruction Size: 30
+      Integer Arguments: 5 
+      String  Arguments: 6 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADINT , Operand: 0
+Offset: 1, LOADINT , Operand: 1
+Offset: 2, LOADINT , Operand: 2
+Offset: 3, LOADSTR , Operand: 0
+Offset: 4, LOADSTR , Operand: 1
+Offset: 5, LOADSTR , Operand: 2
+Offset: 6, LOADSTR , Operand: 3
+Offset: 7, LOADSTR , Operand: 4
+Offset: 8, LOADSTR , Operand: 5
+Offset: 9, LOADINT , Operand: 3
+Offset: 10, LOADINT , Operand: 4
+Offset: 11, CALL , Operand: 322
+Offset: 12, PUSHI , Operand: 321
+Offset: 13, LOADINT , Operand: 0
+Offset: 14, LOADINT , Operand: 1
+Offset: 15, LOADINT , Operand: 2
+Offset: 16, LOADSTR , Operand: 0
+Offset: 17, LOADSTR , Operand: 1
+Offset: 18, LOADSTR , Operand: 2
+Offset: 19, LOADSTR , Operand: 3
+Offset: 20, LOADSTR , Operand: 4
+Offset: 21, LOADSTR , Operand: 5
+Offset: 22, LOADINT , Operand: 3
+Offset: 23, LOADINT , Operand: 4
+Offset: 24, PUSHI , Operand: 93
+Offset: 25, PUSHI , Operand: 1
+Offset: 26, PUSHS , Operand: IiissssssiiY
+Offset: 27, LOADINT , Operand: 0
+Offset: 28, setInterfaceDefinitionScriptParams14 , Operand: 0
+Offset: 29, RETURN , Operand: 0

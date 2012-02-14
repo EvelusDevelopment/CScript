@@ -1,0 +1,51 @@
+================================================
+      Client Script 820 Dumped by SiniSoul    
+      Instruction Size: 40
+      Integer Arguments: 0 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, Unref Opcode: 25, Operand: 4286
+Offset: 1, PUSHI , Operand: 101
+Offset: 2, IFNE , Operand: 1
+Offset: 3, GOTO , Operand: 18
+Offset: 4, Unref Opcode: 25, Operand: 4286
+Offset: 5, integerToString , Operand: 0
+Offset: 6, PUSHS , Operand: %
+Offset: 7, CONCAT , Operand: 2
+Offset: 8, PUSHI , Operand: 43450387
+Offset: 9, Unref Method: 2112, Operand: 0
+Offset: 10, Unref Opcode: 25, Operand: 4286
+Offset: 11, PUSHI , Operand: 74
+Offset: 12, IFGT , Operand: 1
+Offset: 13, GOTO , Operand: 4
+Offset: 14, PUSHI , Operand: 16711680
+Offset: 15, PUSHI , Operand: 43450387
+Offset: 16, Unref Method: 2101, Operand: 0
+Offset: 17, GOTO , Operand: 3
+Offset: 18, PUSHI , Operand: 16777215
+Offset: 19, PUSHI , Operand: 43450387
+Offset: 20, Unref Method: 2101, Operand: 0
+Offset: 21, GOTO , Operand: 3
+Offset: 22, PUSHS , Operand: NA
+Offset: 23, PUSHI , Operand: 43450387
+Offset: 24, Unref Method: 2112, Operand: 0
+Offset: 25, Unref Opcode: 25, Operand: 4285
+Offset: 26, PUSHI , Operand: 101
+Offset: 27, IFNE , Operand: 1
+Offset: 28, GOTO , Operand: 7
+Offset: 29, Unref Opcode: 25, Operand: 4285
+Offset: 30, integerToString , Operand: 0
+Offset: 31, PUSHS , Operand: %
+Offset: 32, CONCAT , Operand: 2
+Offset: 33, PUSHI , Operand: 43450385
+Offset: 34, Unref Method: 2112, Operand: 0
+Offset: 35, GOTO , Operand: 3
+Offset: 36, PUSHS , Operand: NA
+Offset: 37, PUSHI , Operand: 43450385
+Offset: 38, Unref Method: 2112, Operand: 0
+Offset: 39, RETURN , Operand: 0

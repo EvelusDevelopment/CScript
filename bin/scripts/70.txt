@@ -1,0 +1,26 @@
+================================================
+      Client Script 70 Dumped by SiniSoul    
+      Instruction Size: 15
+      Integer Arguments: 0 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, Unref Opcode: 1, Operand: 560
+Offset: 1, PUSHI , Operand: 1
+Offset: 2, IFLT , Operand: 1
+Offset: 3, GOTO , Operand: 4
+Offset: 4, PUSHS , Operand: You're the Winner!
+Offset: 5, PUSHI , Operand: 24444929
+Offset: 6, Unref Method: 2112, Operand: 0
+Offset: 7, GOTO , Operand: 6
+Offset: 8, PUSHS , Operand: Foes Remaining: 
+Offset: 9, Unref Opcode: 1, Operand: 560
+Offset: 10, integerToString , Operand: 0
+Offset: 11, CONCAT , Operand: 2
+Offset: 12, PUSHI , Operand: 24444929
+Offset: 13, Unref Method: 2112, Operand: 0
+Offset: 14, RETURN , Operand: 0

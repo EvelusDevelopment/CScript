@@ -1,0 +1,75 @@
+================================================
+      Client Script 2318 Dumped by SiniSoul    
+      Instruction Size: 49
+      Integer Arguments: 1 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADINT , Operand: 0
+Offset: 1, Unref Method: 2504, Operand: 0
+Offset: 2, PUSHI , Operand: 1
+Offset: 3, IFEQ , Operand: 1
+Offset: 4, GOTO , Operand: 1
+Offset: 5, RETURN , Operand: 0
+Offset: 6, LOADINT , Operand: 0
+Offset: 7, SWITCH , Operand: 0
+Offset: 8, GOTO , Operand: 39
+Offset: 9, PUSHI , Operand: 0
+Offset: 10, PUSHI , Operand: 33620037
+Offset: 11, Unref Method: 2101, Operand: 0
+Offset: 12, GOTO , Operand: 35
+Offset: 13, PUSHI , Operand: 0
+Offset: 14, PUSHI , Operand: 33619975
+Offset: 15, Unref Method: 2101, Operand: 0
+Offset: 16, GOTO , Operand: 31
+Offset: 17, PUSHI , Operand: 0
+Offset: 18, PUSHI , Operand: 33619982
+Offset: 19, Unref Method: 2101, Operand: 0
+Offset: 20, GOTO , Operand: 27
+Offset: 21, PUSHI , Operand: 0
+Offset: 22, PUSHI , Operand: 33619989
+Offset: 23, Unref Method: 2101, Operand: 0
+Offset: 24, GOTO , Operand: 23
+Offset: 25, PUSHI , Operand: 0
+Offset: 26, PUSHI , Operand: 33619996
+Offset: 27, Unref Method: 2101, Operand: 0
+Offset: 28, GOTO , Operand: 19
+Offset: 29, PUSHI , Operand: 0
+Offset: 30, PUSHI , Operand: 33620003
+Offset: 31, Unref Method: 2101, Operand: 0
+Offset: 32, GOTO , Operand: 15
+Offset: 33, PUSHI , Operand: 0
+Offset: 34, PUSHI , Operand: 33620010
+Offset: 35, Unref Method: 2101, Operand: 0
+Offset: 36, GOTO , Operand: 11
+Offset: 37, PUSHI , Operand: 0
+Offset: 38, PUSHI , Operand: 33620017
+Offset: 39, Unref Method: 2101, Operand: 0
+Offset: 40, GOTO , Operand: 7
+Offset: 41, PUSHI , Operand: 0
+Offset: 42, PUSHI , Operand: 33620024
+Offset: 43, Unref Method: 2101, Operand: 0
+Offset: 44, GOTO , Operand: 3
+Offset: 45, PUSHI , Operand: 0
+Offset: 46, PUSHI , Operand: 33620031
+Offset: 47, Unref Method: 2101, Operand: 0
+Offset: 48, RETURN , Operand: 0
+
+================================================
+                Switch Table 0                
+================================================
+
+Key: 33620001, Value: 21
+Key: 33619987, Value: 13
+Key: 33620022, Value: 33
+Key: 33619973, Value: 5
+Key: 33619972, Value: 1
+Key: 33619994, Value: 17
+Key: 33620008, Value: 25
+Key: 33620029, Value: 37
+Key: 33620015, Value: 29
+Key: 33619980, Value: 9

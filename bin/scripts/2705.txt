@@ -1,0 +1,450 @@
+================================================
+      Client Script 2705 Dumped by SiniSoul    
+      Instruction Size: 439
+      Integer Arguments: 7 
+      String  Arguments: 1 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADINT , Operand: 2
+Offset: 1, PUSHI , Operand: 1
+Offset: 2, IFEQ , Operand: 1
+Offset: 3, GOTO , Operand: 31
+Offset: 4, PUSHI , Operand: 48889935
+Offset: 5, Unref Method: 3112, Operand: 0
+Offset: 6, PUSHI , Operand: 35913745
+Offset: 7, Unref Method: 3112, Operand: 0
+Offset: 8, PUSHI , Operand: -1
+Offset: 9, PUSHS , Operand: 
+Offset: 10, PUSHI , Operand: 48889935
+Offset: 11, setInterfaceDefinitionScriptParams8 , Operand: 0
+Offset: 12, PUSHI , Operand: -1
+Offset: 13, PUSHS , Operand: 
+Offset: 14, PUSHI , Operand: 35913745
+Offset: 15, setInterfaceDefinitionScriptParams8 , Operand: 0
+Offset: 16, PUSHI , Operand: 1
+Offset: 17, PUSHI , Operand: 35913914
+Offset: 18, Unref Method: 2003, Operand: 0
+Offset: 19, PUSHI , Operand: 1
+Offset: 20, PUSHI , Operand: 35913791
+Offset: 21, Unref Method: 2003, Operand: 0
+Offset: 22, PUSHI , Operand: 1
+Offset: 23, PUSHI , Operand: 35913917
+Offset: 24, Unref Method: 2003, Operand: 0
+Offset: 25, PUSHI , Operand: 1
+Offset: 26, PUSHI , Operand: 35913925
+Offset: 27, Unref Method: 2003, Operand: 0
+Offset: 28, PUSHI , Operand: 1
+Offset: 29, PUSHI , Operand: 35913884
+Offset: 30, Unref Method: 2003, Operand: 0
+Offset: 31, PUSHI , Operand: 1
+Offset: 32, PUSHI , Operand: 35913837
+Offset: 33, Unref Method: 2003, Operand: 0
+Offset: 34, GOTO , Operand: 13
+Offset: 35, LOADINT , Operand: 2
+Offset: 36, PUSHI , Operand: 2
+Offset: 37, IFEQ , Operand: 1
+Offset: 38, GOTO , Operand: 5
+Offset: 39, PUSHI , Operand: -1
+Offset: 40, PUSHS , Operand: 
+Offset: 41, PUSHI , Operand: 59375616
+Offset: 42, setInterfaceDefinitionScriptParams8 , Operand: 0
+Offset: 43, GOTO , Operand: 4
+Offset: 44, PUSHI , Operand: -1
+Offset: 45, PUSHS , Operand: 
+Offset: 46, PUSHI , Operand: 48758784
+Offset: 47, setInterfaceDefinitionScriptParams8 , Operand: 0
+Offset: 48, PUSHI , Operand: 0
+Offset: 49, STOREINT , Operand: 6
+Offset: 50, LOADINT , Operand: 0
+Offset: 51, PUSHI , Operand: 1
+Offset: 52, IFEQ , Operand: 1
+Offset: 53, GOTO , Operand: 23
+Offset: 54, Unref Method: 6131, Operand: 0
+Offset: 55, Unref Method: 6032, Operand: 0
+Offset: 56, Unref Method: 5306, Operand: 0
+Offset: 57, PUSHI , Operand: 3
+Offset: 58, IFNE , Operand: 1
+Offset: 59, GOTO , Operand: 2
+Offset: 60, Unref Method: 5306, Operand: 0
+Offset: 61, Unref Method: 5309, Operand: 0
+Offset: 62, Unref Method: 6116, Operand: 0
+Offset: 63, Unref Method: 6024, Operand: 0
+Offset: 64, LOADINT , Operand: 1
+Offset: 65, PUSHI , Operand: 1
+Offset: 66, isBitToggled , Operand: 0
+Offset: 67, PUSHI , Operand: 1
+Offset: 68, IFEQ , Operand: 1
+Offset: 69, GOTO , Operand: 2
+Offset: 70, PUSHI , Operand: 2
+Offset: 71, STOREGINT , Operand: 994
+Offset: 72, PUSHI , Operand: 3
+Offset: 73, STOREGINT , Operand: 1240
+Offset: 74, PUSHI , Operand: 0
+Offset: 75, STOREGINT , Operand: 1277
+Offset: 76, GOTO , Operand: 131
+Offset: 77, LOADINT , Operand: 1
+Offset: 78, PUSHI , Operand: 0
+Offset: 79, isBitToggled , Operand: 0
+Offset: 80, PUSHI , Operand: 1
+Offset: 81, IFEQ , Operand: 1
+Offset: 82, GOTO , Operand: 43
+Offset: 83, Unref Method: 7006, Operand: 0
+Offset: 84, LOADINT , Operand: 4
+Offset: 85, PUSHI , Operand: 0
+Offset: 86, IFEQ , Operand: 1
+Offset: 87, GOTO , Operand: 6
+Offset: 88, Unref Method: 6132, Operand: 0
+Offset: 89, STOREINT , Operand: 6
+Offset: 90, LOADINT , Operand: 6
+Offset: 91, Unref Method: 6031, Operand: 0
+Offset: 92, LOADINT , Operand: 6
+Offset: 93, CALL , Operand: 2593
+Offset: 94, LOADINT , Operand: 2
+Offset: 95, PUSHI , Operand: 1
+Offset: 96, IFNE , Operand: 1
+Offset: 97, GOTO , Operand: 27
+Offset: 98, LOADINT , Operand: 2
+Offset: 99, PUSHI , Operand: 2
+Offset: 100, IFEQ , Operand: 1
+Offset: 101, GOTO , Operand: 12
+Offset: 102, LOADINT , Operand: 6
+Offset: 103, PUSHI , Operand: 0
+Offset: 104, IFNE , Operand: 1
+Offset: 105, GOTO , Operand: 4
+Offset: 106, PUSHI , Operand: 0
+Offset: 107, PUSHI , Operand: 59375847
+Offset: 108, Unref Method: 2003, Operand: 0
+Offset: 109, GOTO , Operand: 3
+Offset: 110, PUSHI , Operand: 1
+Offset: 111, PUSHI , Operand: 59375847
+Offset: 112, Unref Method: 2003, Operand: 0
+Offset: 113, GOTO , Operand: 11
+Offset: 114, LOADINT , Operand: 6
+Offset: 115, PUSHI , Operand: 0
+Offset: 116, IFNE , Operand: 1
+Offset: 117, GOTO , Operand: 4
+Offset: 118, PUSHI , Operand: 0
+Offset: 119, PUSHI , Operand: 48758787
+Offset: 120, Unref Method: 2003, Operand: 0
+Offset: 121, GOTO , Operand: 3
+Offset: 122, PUSHI , Operand: 1
+Offset: 123, PUSHI , Operand: 48758787
+Offset: 124, Unref Method: 2003, Operand: 0
+Offset: 125, GOTO , Operand: 2
+Offset: 126, Unref Method: 6131, Operand: 0
+Offset: 127, STOREINT , Operand: 6
+Offset: 128, LOADINT , Operand: 1
+Offset: 129, PUSHI , Operand: 1
+Offset: 130, isBitToggled , Operand: 0
+Offset: 131, PUSHI , Operand: 1
+Offset: 132, IFEQ , Operand: 1
+Offset: 133, GOTO , Operand: 6
+Offset: 134, Unref Method: 5306, Operand: 0
+Offset: 135, Unref Method: 5308, Operand: 0
+Offset: 136, IFNE , Operand: 1
+Offset: 137, GOTO , Operand: 2
+Offset: 138, Unref Method: 5308, Operand: 0
+Offset: 139, Unref Method: 5307, Operand: 0
+Offset: 140, LOADINT , Operand: 1
+Offset: 141, PUSHI , Operand: 2
+Offset: 142, isBitToggled , Operand: 0
+Offset: 143, PUSHI , Operand: 1
+Offset: 144, IFEQ , Operand: 1
+Offset: 145, GOTO , Operand: 2
+Offset: 146, Unref Method: 6124, Operand: 0
+Offset: 147, Unref Method: 6016, Operand: 0
+Offset: 148, LOADINT , Operand: 1
+Offset: 149, PUSHI , Operand: 3
+Offset: 150, isBitToggled , Operand: 0
+Offset: 151, PUSHI , Operand: 1
+Offset: 152, IFEQ , Operand: 1
+Offset: 153, GOTO , Operand: 2
+Offset: 154, PUSHI , Operand: 0
+Offset: 155, Unref Method: 6027, Operand: 0
+Offset: 156, LOADINT , Operand: 2
+Offset: 157, PUSHI , Operand: 3
+Offset: 158, IFEQ , Operand: 1
+Offset: 159, GOTO , Operand: 5
+Offset: 160, PUSHI , Operand: 0
+Offset: 161, CALL , Operand: 1174
+Offset: 162, LOADINT , Operand: 2
+Offset: 163, CALL , Operand: 3384
+Offset: 164, RETURN , Operand: 0
+Offset: 165, LOADINT , Operand: 5
+Offset: 166, PUSHI , Operand: 1
+Offset: 167, IFEQ , Operand: 1
+Offset: 168, GOTO , Operand: 7
+Offset: 169, LOADINT , Operand: 6
+Offset: 170, Unref Method: 5306, Operand: 0
+Offset: 171, LOADINT , Operand: 6
+Offset: 172, CALL , Operand: 2692
+Offset: 173, LOADINT , Operand: 2
+Offset: 174, CALL , Operand: 3387
+Offset: 175, GOTO , Operand: 22
+Offset: 176, LOADINT , Operand: 1
+Offset: 177, PUSHI , Operand: 1
+Offset: 178, isBitToggled , Operand: 0
+Offset: 179, PUSHI , Operand: 1
+Offset: 180, IFEQ , Operand: 4
+Offset: 181, LOADINT , Operand: 4
+Offset: 182, PUSHI , Operand: 1
+Offset: 183, IFEQ , Operand: 1
+Offset: 184, GOTO , Operand: 7
+Offset: 185, LOADINT , Operand: 6
+Offset: 186, Unref Method: 5306, Operand: 0
+Offset: 187, LOADINT , Operand: 6
+Offset: 188, CALL , Operand: 2692
+Offset: 189, LOADINT , Operand: 2
+Offset: 190, CALL , Operand: 2596
+Offset: 191, GOTO , Operand: 6
+Offset: 192, LOADINT , Operand: 6
+Offset: 193, Unref Method: 5306, Operand: 0
+Offset: 194, LOADINT , Operand: 6
+Offset: 195, CALL , Operand: 2692
+Offset: 196, LOADINT , Operand: 2
+Offset: 197, CALL , Operand: 3387
+Offset: 198, LOADINT , Operand: 2
+Offset: 199, PUSHI , Operand: 1
+Offset: 200, IFEQ , Operand: 1
+Offset: 201, GOTO , Operand: 6
+Offset: 202, LOADINT , Operand: 3
+Offset: 203, PUSHI , Operand: 1
+Offset: 204, IFEQ , Operand: 1
+Offset: 205, GOTO , Operand: 2
+Offset: 206, PUSHS , Operand: The requested change has been cancelled.
+Offset: 207, Unref Method: 3100, Operand: 0
+Offset: 208, PUSHS , Operand: kbase/view.ws?guid=controls_display_options
+Offset: 209, STORESTR , Operand: 0
+Offset: 210, LOADINT , Operand: 2
+Offset: 211, PUSHI , Operand: 1
+Offset: 212, IFNE , Operand: 1
+Offset: 213, GOTO , Operand: 214
+Offset: 214, Unref Method: 6131, Operand: 0
+Offset: 215, STOREINT , Operand: 6
+Offset: 216, LOADINT , Operand: 2
+Offset: 217, PUSHI , Operand: 2
+Offset: 218, IFEQ , Operand: 1
+Offset: 219, GOTO , Operand: 63
+Offset: 220, PUSHI , Operand: 1
+Offset: 221, PUSHI , Operand: 59375634
+Offset: 222, Unref Method: 2003, Operand: 0
+Offset: 223, LOADINT , Operand: 5
+Offset: 224, PUSHI , Operand: 1
+Offset: 225, IFEQ , Operand: 1
+Offset: 226, GOTO , Operand: 7
+Offset: 227, LOADINT , Operand: 6
+Offset: 228, Unref Method: 5306, Operand: 0
+Offset: 229, LOADINT , Operand: 6
+Offset: 230, CALL , Operand: 2692
+Offset: 231, LOADINT , Operand: 2
+Offset: 232, CALL , Operand: 3387
+Offset: 233, GOTO , Operand: 22
+Offset: 234, LOADINT , Operand: 1
+Offset: 235, PUSHI , Operand: 1
+Offset: 236, isBitToggled , Operand: 0
+Offset: 237, PUSHI , Operand: 1
+Offset: 238, IFEQ , Operand: 4
+Offset: 239, LOADINT , Operand: 4
+Offset: 240, PUSHI , Operand: 1
+Offset: 241, IFEQ , Operand: 1
+Offset: 242, GOTO , Operand: 7
+Offset: 243, LOADINT , Operand: 6
+Offset: 244, Unref Method: 5306, Operand: 0
+Offset: 245, LOADINT , Operand: 6
+Offset: 246, CALL , Operand: 2692
+Offset: 247, LOADINT , Operand: 2
+Offset: 248, CALL , Operand: 2596
+Offset: 249, GOTO , Operand: 6
+Offset: 250, LOADINT , Operand: 6
+Offset: 251, Unref Method: 5306, Operand: 0
+Offset: 252, LOADINT , Operand: 6
+Offset: 253, CALL , Operand: 2692
+Offset: 254, LOADINT , Operand: 2
+Offset: 255, CALL , Operand: 3387
+Offset: 256, LOADINT , Operand: 4
+Offset: 257, PUSHI , Operand: 0
+Offset: 258, IFEQ , Operand: 1
+Offset: 259, GOTO , Operand: 22
+Offset: 260, LOADINT , Operand: 3
+Offset: 261, PUSHI , Operand: 1
+Offset: 262, IFEQ , Operand: 1
+Offset: 263, GOTO , Operand: 18
+Offset: 264, PUSHS , Operand: 
+Offset: 265, PUSHS , Operand: The change of detail mode has been cancelled.
+Offset: 266, PUSHS , Operand: <br>
+Offset: 267, PUSHS , Operand: <br>
+Offset: 268, PUSHS , Operand: Perhaps different graphical settings would work better for you?
+Offset: 269, CONCAT , Operand: 4
+Offset: 270, PUSHI , Operand: 0
+Offset: 271, PUSHI , Operand: -1
+Offset: 272, PUSHS , Operand: 
+Offset: 273, PUSHS , Operand: Advanced info
+Offset: 274, PUSHI , Operand: 0
+Offset: 275, CALL , Operand: 2190
+Offset: 276, PUSHI , Operand: 702
+Offset: 277, LOADSTR , Operand: 0
+Offset: 278, PUSHI , Operand: 1
+Offset: 279, PUSHS , Operand: s1
+Offset: 280, PUSHI , Operand: 59375771
+Offset: 281, setInterfaceDefinitionScriptParams0 , Operand: 0
+Offset: 282, GOTO , Operand: 145
+Offset: 283, LOADINT , Operand: 2
+Offset: 284, PUSHI , Operand: 3
+Offset: 285, IFEQ , Operand: 1
+Offset: 286, GOTO , Operand: 22
+Offset: 287, isSSKStrNull , Operand: 0
+Offset: 288, PUSHI , Operand: 1
+Offset: 289, IFEQ , Operand: 1
+Offset: 290, GOTO , Operand: 15
+Offset: 291, PUSHI , Operand: 5
+Offset: 292, CALL , Operand: 1174
+Offset: 293, LOADGINT , Operand: 1273
+Offset: 294, PUSHI , Operand: 1
+Offset: 295, IFEQ , Operand: 1
+Offset: 296, GOTO , Operand: 2
+Offset: 297, RETURN , Operand: 0
+Offset: 298, GOTO , Operand: 6
+Offset: 299, PUSHI , Operand: 3381
+Offset: 300, PUSHI , Operand: 63897650
+Offset: 301, PUSHI , Operand: 0
+Offset: 302, PUSHS , Operand: Ii
+Offset: 303, PUSHI , Operand: 63897650
+Offset: 304, setInterfaceDefinitionScriptParams8 , Operand: 0
+Offset: 305, GOTO , Operand: 2
+Offset: 306, PUSHI , Operand: 1
+Offset: 307, CALL , Operand: 1174
+Offset: 308, GOTO , Operand: 119
+Offset: 309, LOADINT , Operand: 5
+Offset: 310, PUSHI , Operand: 1
+Offset: 311, IFEQ , Operand: 1
+Offset: 312, GOTO , Operand: 7
+Offset: 313, LOADINT , Operand: 6
+Offset: 314, Unref Method: 5306, Operand: 0
+Offset: 315, LOADINT , Operand: 6
+Offset: 316, CALL , Operand: 2692
+Offset: 317, LOADINT , Operand: 2
+Offset: 318, CALL , Operand: 3387
+Offset: 319, GOTO , Operand: 22
+Offset: 320, LOADINT , Operand: 1
+Offset: 321, PUSHI , Operand: 1
+Offset: 322, isBitToggled , Operand: 0
+Offset: 323, PUSHI , Operand: 1
+Offset: 324, IFEQ , Operand: 4
+Offset: 325, LOADINT , Operand: 4
+Offset: 326, PUSHI , Operand: 1
+Offset: 327, IFEQ , Operand: 1
+Offset: 328, GOTO , Operand: 7
+Offset: 329, LOADINT , Operand: 6
+Offset: 330, Unref Method: 5306, Operand: 0
+Offset: 331, LOADINT , Operand: 6
+Offset: 332, CALL , Operand: 2692
+Offset: 333, LOADINT , Operand: 2
+Offset: 334, CALL , Operand: 2596
+Offset: 335, GOTO , Operand: 6
+Offset: 336, LOADINT , Operand: 6
+Offset: 337, Unref Method: 5306, Operand: 0
+Offset: 338, LOADINT , Operand: 6
+Offset: 339, CALL , Operand: 2692
+Offset: 340, LOADINT , Operand: 2
+Offset: 341, CALL , Operand: 3387
+Offset: 342, LOADINT , Operand: 4
+Offset: 343, PUSHI , Operand: 0
+Offset: 344, IFEQ , Operand: 1
+Offset: 345, GOTO , Operand: 57
+Offset: 346, LOADINT , Operand: 3
+Offset: 347, PUSHI , Operand: 1
+Offset: 348, IFEQ , Operand: 1
+Offset: 349, GOTO , Operand: 53
+Offset: 350, PUSHS , Operand: The change of detail mode has been cancelled.
+Offset: 351, PUSHS , Operand: <br>
+Offset: 352, PUSHS , Operand: <br>
+Offset: 353, PUSHS , Operand: Perhaps different graphical settings would work better for you?
+Offset: 354, CONCAT , Operand: 4
+Offset: 355, PUSHI , Operand: 48758858
+Offset: 356, Unref Method: 2112, Operand: 0
+Offset: 357, LOADINT , Operand: 5
+Offset: 358, PUSHI , Operand: 1
+Offset: 359, IFEQ , Operand: 1
+Offset: 360, GOTO , Operand: 8
+Offset: 361, PUSHI , Operand: 3452
+Offset: 362, PUSHI , Operand: 6
+Offset: 363, PUSHI , Operand: 0
+Offset: 364, PUSHI , Operand: 1
+Offset: 365, PUSHS , Operand: i11
+Offset: 366, PUSHI , Operand: 48758861
+Offset: 367, setInterfaceDefinitionScriptParams0 , Operand: 0
+Offset: 368, GOTO , Operand: 22
+Offset: 369, LOADINT , Operand: 1
+Offset: 370, PUSHI , Operand: 1
+Offset: 371, isBitToggled , Operand: 0
+Offset: 372, PUSHI , Operand: 1
+Offset: 373, IFEQ , Operand: 4
+Offset: 374, LOADINT , Operand: 4
+Offset: 375, PUSHI , Operand: 1
+Offset: 376, IFEQ , Operand: 1
+Offset: 377, GOTO , Operand: 6
+Offset: 378, PUSHI , Operand: 1173
+Offset: 379, PUSHI , Operand: 6
+Offset: 380, PUSHS , Operand: i
+Offset: 381, PUSHI , Operand: 48758861
+Offset: 382, setInterfaceDefinitionScriptParams0 , Operand: 0
+Offset: 383, GOTO , Operand: 7
+Offset: 384, PUSHI , Operand: 3452
+Offset: 385, PUSHI , Operand: 6
+Offset: 386, PUSHI , Operand: 0
+Offset: 387, PUSHI , Operand: 1
+Offset: 388, PUSHS , Operand: i11
+Offset: 389, PUSHI , Operand: 48758861
+Offset: 390, setInterfaceDefinitionScriptParams0 , Operand: 0
+Offset: 391, PUSHS , Operand: Advanced info
+Offset: 392, PUSHI , Operand: 48758860
+Offset: 393, Unref Method: 2112, Operand: 0
+Offset: 394, PUSHI , Operand: 702
+Offset: 395, LOADSTR , Operand: 0
+Offset: 396, PUSHI , Operand: 1
+Offset: 397, PUSHS , Operand: s1
+Offset: 398, PUSHI , Operand: 48758860
+Offset: 399, setInterfaceDefinitionScriptParams0 , Operand: 0
+Offset: 400, PUSHI , Operand: 9
+Offset: 401, CALL , Operand: 1174
+Offset: 402, GOTO , Operand: 25
+Offset: 403, LOADINT , Operand: 5
+Offset: 404, PUSHI , Operand: 1
+Offset: 405, IFEQ , Operand: 1
+Offset: 406, GOTO , Operand: 5
+Offset: 407, PUSHI , Operand: 6
+Offset: 408, PUSHI , Operand: 0
+Offset: 409, PUSHI , Operand: 1
+Offset: 410, CALL , Operand: 3239
+Offset: 411, GOTO , Operand: 16
+Offset: 412, LOADINT , Operand: 1
+Offset: 413, PUSHI , Operand: 1
+Offset: 414, isBitToggled , Operand: 0
+Offset: 415, PUSHI , Operand: 1
+Offset: 416, IFEQ , Operand: 4
+Offset: 417, LOADINT , Operand: 4
+Offset: 418, PUSHI , Operand: 1
+Offset: 419, IFEQ , Operand: 1
+Offset: 420, GOTO , Operand: 3
+Offset: 421, PUSHI , Operand: 6
+Offset: 422, CALL , Operand: 1174
+Offset: 423, GOTO , Operand: 4
+Offset: 424, PUSHI , Operand: 6
+Offset: 425, PUSHI , Operand: 0
+Offset: 426, PUSHI , Operand: 1
+Offset: 427, CALL , Operand: 3239
+Offset: 428, LOADINT , Operand: 0
+Offset: 429, PUSHI , Operand: 0
+Offset: 430, IFEQ , Operand: 1
+Offset: 431, GOTO , Operand: 6
+Offset: 432, LOADINT , Operand: 4
+Offset: 433, PUSHI , Operand: 1
+Offset: 434, IFEQ , Operand: 1
+Offset: 435, GOTO , Operand: 2
+Offset: 436, LOADINT , Operand: 2
+Offset: 437, CALL , Operand: 3384
+Offset: 438, RETURN , Operand: 0

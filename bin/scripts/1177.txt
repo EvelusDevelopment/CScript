@@ -1,0 +1,26 @@
+================================================
+      Client Script 1177 Dumped by SiniSoul    
+      Instruction Size: 15
+      Integer Arguments: 0 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, Unref Opcode: 1, Operand: 1414
+Offset: 1, PUSHI , Operand: 0
+Offset: 2, IFEQ , Operand: 1
+Offset: 3, GOTO , Operand: 1
+Offset: 4, RETURN , Operand: 0
+Offset: 5, PUSHI , Operand: 540
+Offset: 6, STOREGINT , Operand: 548
+Offset: 7, PUSHS , Operand: 10
+Offset: 8, PUSHI , Operand: 48824325
+Offset: 9, Unref Method: 2112, Operand: 0
+Offset: 10, PUSHI , Operand: 1178
+Offset: 11, PUSHS , Operand: 
+Offset: 12, PUSHI , Operand: 48824325
+Offset: 13, setInterfaceDefinitionScriptParams8 , Operand: 0
+Offset: 14, RETURN , Operand: 0

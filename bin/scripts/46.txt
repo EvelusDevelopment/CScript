@@ -1,0 +1,96 @@
+================================================
+      Client Script 46 Dumped by SiniSoul    
+      Instruction Size: 85
+      Integer Arguments: 5 
+      String  Arguments: 1 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADINT , Operand: 0
+Offset: 1, PUSHI , Operand: 1000000000
+Offset: 2, IDIV , Operand: 0
+Offset: 3, STOREINT , Operand: 1
+Offset: 4, LOADINT , Operand: 0
+Offset: 5, LOADINT , Operand: 1
+Offset: 6, PUSHI , Operand: 1000000000
+Offset: 7, IMUL , Operand: 0
+Offset: 8, ISUB , Operand: 0
+Offset: 9, PUSHI , Operand: 1000000
+Offset: 10, IDIV , Operand: 0
+Offset: 11, STOREINT , Operand: 2
+Offset: 12, LOADINT , Operand: 0
+Offset: 13, LOADINT , Operand: 1
+Offset: 14, PUSHI , Operand: 1000000000
+Offset: 15, IMUL , Operand: 0
+Offset: 16, LOADINT , Operand: 2
+Offset: 17, PUSHI , Operand: 1000000
+Offset: 18, IMUL , Operand: 0
+Offset: 19, IADD , Operand: 0
+Offset: 20, ISUB , Operand: 0
+Offset: 21, PUSHI , Operand: 1000
+Offset: 22, IDIV , Operand: 0
+Offset: 23, STOREINT , Operand: 3
+Offset: 24, LOADINT , Operand: 0
+Offset: 25, LOADINT , Operand: 1
+Offset: 26, PUSHI , Operand: 1000000000
+Offset: 27, IMUL , Operand: 0
+Offset: 28, LOADINT , Operand: 2
+Offset: 29, PUSHI , Operand: 1000000
+Offset: 30, IMUL , Operand: 0
+Offset: 31, IADD , Operand: 0
+Offset: 32, LOADINT , Operand: 3
+Offset: 33, PUSHI , Operand: 1000
+Offset: 34, IMUL , Operand: 0
+Offset: 35, IADD , Operand: 0
+Offset: 36, ISUB , Operand: 0
+Offset: 37, STOREINT , Operand: 4
+Offset: 38, LOADINT , Operand: 1
+Offset: 39, PUSHI , Operand: 0
+Offset: 40, IFGT , Operand: 1
+Offset: 41, GOTO , Operand: 13
+Offset: 42, LOADINT , Operand: 1
+Offset: 43, integerToString , Operand: 0
+Offset: 44, LOADSTR , Operand: 0
+Offset: 45, LOADINT , Operand: 2
+Offset: 46, CALL , Operand: 47
+Offset: 47, LOADSTR , Operand: 0
+Offset: 48, LOADINT , Operand: 3
+Offset: 49, CALL , Operand: 47
+Offset: 50, LOADSTR , Operand: 0
+Offset: 51, LOADINT , Operand: 4
+Offset: 52, CALL , Operand: 47
+Offset: 53, CONCAT , Operand: 7
+Offset: 54, RETURN , Operand: 0
+Offset: 55, LOADINT , Operand: 2
+Offset: 56, PUSHI , Operand: 0
+Offset: 57, IFGT , Operand: 1
+Offset: 58, GOTO , Operand: 10
+Offset: 59, LOADINT , Operand: 2
+Offset: 60, integerToString , Operand: 0
+Offset: 61, LOADSTR , Operand: 0
+Offset: 62, LOADINT , Operand: 3
+Offset: 63, CALL , Operand: 47
+Offset: 64, LOADSTR , Operand: 0
+Offset: 65, LOADINT , Operand: 4
+Offset: 66, CALL , Operand: 47
+Offset: 67, CONCAT , Operand: 5
+Offset: 68, RETURN , Operand: 0
+Offset: 69, LOADINT , Operand: 3
+Offset: 70, PUSHI , Operand: 0
+Offset: 71, IFGT , Operand: 1
+Offset: 72, GOTO , Operand: 7
+Offset: 73, LOADINT , Operand: 3
+Offset: 74, integerToString , Operand: 0
+Offset: 75, LOADSTR , Operand: 0
+Offset: 76, LOADINT , Operand: 4
+Offset: 77, CALL , Operand: 47
+Offset: 78, CONCAT , Operand: 3
+Offset: 79, RETURN , Operand: 0
+Offset: 80, LOADINT , Operand: 0
+Offset: 81, integerToString , Operand: 0
+Offset: 82, RETURN , Operand: 0
+Offset: 83, PUSHS , Operand: 
+Offset: 84, RETURN , Operand: 0

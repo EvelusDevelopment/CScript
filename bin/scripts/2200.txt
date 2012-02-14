@@ -1,0 +1,36 @@
+================================================
+      Client Script 2200 Dumped by SiniSoul    
+      Instruction Size: 16
+      Integer Arguments: 0 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHI , Operand: 4
+Offset: 1, getRandom , Operand: 0
+Offset: 2, SWITCH , Operand: 0
+Offset: 3, GOTO , Operand: 11
+Offset: 4, PUSHI , Operand: 61079558
+Offset: 5, STOREGINT , Operand: 1136
+Offset: 6, GOTO , Operand: 8
+Offset: 7, PUSHI , Operand: 61079559
+Offset: 8, STOREGINT , Operand: 1136
+Offset: 9, GOTO , Operand: 5
+Offset: 10, PUSHI , Operand: 61079560
+Offset: 11, STOREGINT , Operand: 1136
+Offset: 12, GOTO , Operand: 2
+Offset: 13, PUSHI , Operand: 61079561
+Offset: 14, STOREGINT , Operand: 1136
+Offset: 15, RETURN , Operand: 0
+
+================================================
+                Switch Table 0                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 4
+Key: 2, Value: 7
+Key: 3, Value: 10

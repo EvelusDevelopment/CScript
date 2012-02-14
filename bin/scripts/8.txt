@@ -1,0 +1,178 @@
+================================================
+      Client Script 8 Dumped by SiniSoul    
+      Instruction Size: 121
+      Integer Arguments: 1 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, Unref Method: 5306, Operand: 0
+Offset: 1, PUSHI , Operand: 2
+Offset: 2, IFGTEQ , Operand: 1
+Offset: 3, GOTO , Operand: 57
+Offset: 4, LOADINT , Operand: 0
+Offset: 5, SWITCH , Operand: 0
+Offset: 6, GOTO , Operand: 53
+Offset: 7, PUSHI , Operand: 48889942
+Offset: 8, RETURN , Operand: 0
+Offset: 9, GOTO , Operand: 50
+Offset: 10, PUSHI , Operand: 48889943
+Offset: 11, RETURN , Operand: 0
+Offset: 12, GOTO , Operand: 47
+Offset: 13, PUSHI , Operand: 48889944
+Offset: 14, RETURN , Operand: 0
+Offset: 15, GOTO , Operand: 44
+Offset: 16, PUSHI , Operand: 48889945
+Offset: 17, RETURN , Operand: 0
+Offset: 18, GOTO , Operand: 41
+Offset: 19, PUSHI , Operand: 48889946
+Offset: 20, RETURN , Operand: 0
+Offset: 21, GOTO , Operand: 38
+Offset: 22, PUSHI , Operand: 48889947
+Offset: 23, RETURN , Operand: 0
+Offset: 24, GOTO , Operand: 35
+Offset: 25, PUSHI , Operand: 48889948
+Offset: 26, RETURN , Operand: 0
+Offset: 27, GOTO , Operand: 32
+Offset: 28, PUSHI , Operand: 48889949
+Offset: 29, RETURN , Operand: 0
+Offset: 30, GOTO , Operand: 29
+Offset: 31, PUSHI , Operand: 48889950
+Offset: 32, RETURN , Operand: 0
+Offset: 33, GOTO , Operand: 26
+Offset: 34, PUSHI , Operand: 48889951
+Offset: 35, RETURN , Operand: 0
+Offset: 36, GOTO , Operand: 23
+Offset: 37, PUSHI , Operand: 48889952
+Offset: 38, RETURN , Operand: 0
+Offset: 39, GOTO , Operand: 20
+Offset: 40, PUSHI , Operand: 48889953
+Offset: 41, RETURN , Operand: 0
+Offset: 42, GOTO , Operand: 17
+Offset: 43, PUSHI , Operand: 48889954
+Offset: 44, RETURN , Operand: 0
+Offset: 45, GOTO , Operand: 14
+Offset: 46, PUSHI , Operand: 48889955
+Offset: 47, RETURN , Operand: 0
+Offset: 48, GOTO , Operand: 11
+Offset: 49, PUSHI , Operand: 48889956
+Offset: 50, RETURN , Operand: 0
+Offset: 51, GOTO , Operand: 8
+Offset: 52, PUSHI , Operand: 48889957
+Offset: 53, RETURN , Operand: 0
+Offset: 54, GOTO , Operand: 5
+Offset: 55, PUSHI , Operand: 48889959
+Offset: 56, RETURN , Operand: 0
+Offset: 57, GOTO , Operand: 2
+Offset: 58, PUSHI , Operand: 48889960
+Offset: 59, RETURN , Operand: 0
+Offset: 60, GOTO , Operand: 56
+Offset: 61, LOADINT , Operand: 0
+Offset: 62, SWITCH , Operand: 1
+Offset: 63, GOTO , Operand: 53
+Offset: 64, PUSHI , Operand: 35913926
+Offset: 65, RETURN , Operand: 0
+Offset: 66, GOTO , Operand: 50
+Offset: 67, PUSHI , Operand: 35913927
+Offset: 68, RETURN , Operand: 0
+Offset: 69, GOTO , Operand: 47
+Offset: 70, PUSHI , Operand: 35913928
+Offset: 71, RETURN , Operand: 0
+Offset: 72, GOTO , Operand: 44
+Offset: 73, PUSHI , Operand: 35913929
+Offset: 74, RETURN , Operand: 0
+Offset: 75, GOTO , Operand: 41
+Offset: 76, PUSHI , Operand: 35913930
+Offset: 77, RETURN , Operand: 0
+Offset: 78, GOTO , Operand: 38
+Offset: 79, PUSHI , Operand: 35913931
+Offset: 80, RETURN , Operand: 0
+Offset: 81, GOTO , Operand: 35
+Offset: 82, PUSHI , Operand: 35913932
+Offset: 83, RETURN , Operand: 0
+Offset: 84, GOTO , Operand: 32
+Offset: 85, PUSHI , Operand: 35913933
+Offset: 86, RETURN , Operand: 0
+Offset: 87, GOTO , Operand: 29
+Offset: 88, PUSHI , Operand: 35913934
+Offset: 89, RETURN , Operand: 0
+Offset: 90, GOTO , Operand: 26
+Offset: 91, PUSHI , Operand: 35913935
+Offset: 92, RETURN , Operand: 0
+Offset: 93, GOTO , Operand: 23
+Offset: 94, PUSHI , Operand: 35913936
+Offset: 95, RETURN , Operand: 0
+Offset: 96, GOTO , Operand: 20
+Offset: 97, PUSHI , Operand: 35913937
+Offset: 98, RETURN , Operand: 0
+Offset: 99, GOTO , Operand: 17
+Offset: 100, PUSHI , Operand: 35913938
+Offset: 101, RETURN , Operand: 0
+Offset: 102, GOTO , Operand: 14
+Offset: 103, PUSHI , Operand: 35913939
+Offset: 104, RETURN , Operand: 0
+Offset: 105, GOTO , Operand: 11
+Offset: 106, PUSHI , Operand: 35913940
+Offset: 107, RETURN , Operand: 0
+Offset: 108, GOTO , Operand: 8
+Offset: 109, PUSHI , Operand: 35913941
+Offset: 110, RETURN , Operand: 0
+Offset: 111, GOTO , Operand: 5
+Offset: 112, PUSHI , Operand: 35913943
+Offset: 113, RETURN , Operand: 0
+Offset: 114, GOTO , Operand: 2
+Offset: 115, PUSHI , Operand: 35913944
+Offset: 116, RETURN , Operand: 0
+Offset: 117, PUSHI , Operand: -1
+Offset: 118, RETURN , Operand: 0
+Offset: 119, PUSHI , Operand: -1
+Offset: 120, RETURN , Operand: 0
+
+================================================
+                Switch Table 0                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 4
+Key: 2, Value: 7
+Key: 3, Value: 10
+Key: 4, Value: 13
+Key: 99, Value: 52
+Key: 5, Value: 16
+Key: 6, Value: 19
+Key: 7, Value: 22
+Key: 8, Value: 25
+Key: 9, Value: 28
+Key: 10, Value: 31
+Key: 11, Value: 34
+Key: 12, Value: 37
+Key: 13, Value: 40
+Key: 14, Value: 43
+Key: 15, Value: 46
+Key: 95, Value: 49
+
+================================================
+                Switch Table 1                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 4
+Key: 2, Value: 7
+Key: 3, Value: 10
+Key: 4, Value: 13
+Key: 99, Value: 52
+Key: 5, Value: 16
+Key: 6, Value: 19
+Key: 7, Value: 22
+Key: 8, Value: 25
+Key: 9, Value: 28
+Key: 10, Value: 31
+Key: 11, Value: 34
+Key: 12, Value: 37
+Key: 13, Value: 40
+Key: 14, Value: 43
+Key: 15, Value: 46
+Key: 95, Value: 49

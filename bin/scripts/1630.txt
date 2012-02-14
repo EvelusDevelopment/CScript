@@ -1,0 +1,25 @@
+================================================
+      Client Script 1630 Dumped by SiniSoul    
+      Instruction Size: 14
+      Integer Arguments: 0 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHI , Operand: 3
+Offset: 1, STOREGINT , Operand: 1033
+Offset: 2, PUSHI , Operand: 0
+Offset: 3, LOADGINT , Operand: 1033
+Offset: 4, PUSHI , Operand: 200
+Offset: 5, PUSHI , Operand: 200
+Offset: 6, PUSHI , Operand: 1
+Offset: 7, LOADGINT , Operand: 1033
+Offset: 8, Unref Method: 5502, Operand: 0
+Offset: 9, PUSHI , Operand: 1631
+Offset: 10, PUSHS , Operand: 
+Offset: 11, PUSHI , Operand: 4915200
+Offset: 12, setInterfaceDefinitionScriptParams26 , Operand: 0
+Offset: 13, RETURN , Operand: 0

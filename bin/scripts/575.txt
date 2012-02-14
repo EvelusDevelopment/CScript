@@ -1,0 +1,26 @@
+================================================
+      Client Script 575 Dumped by SiniSoul    
+      Instruction Size: 15
+      Integer Arguments: 0 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADGINT , Operand: 81
+Offset: 1, PUSHI , Operand: 1
+Offset: 2, ISUB , Operand: 0
+Offset: 3, STOREGINT , Operand: 81
+Offset: 4, LOADGINT , Operand: 81
+Offset: 5, PUSHI , Operand: 0
+Offset: 6, IFGT , Operand: 1
+Offset: 7, GOTO , Operand: 1
+Offset: 8, RETURN , Operand: 0
+Offset: 9, PUSHI , Operand: -1
+Offset: 10, PUSHS , Operand: 
+Offset: 11, PUSHI , Operand: 25493513
+Offset: 12, setInterfaceDefinitionScriptParams8 , Operand: 0
+Offset: 13, CALL , Operand: 576
+Offset: 14, RETURN , Operand: 0

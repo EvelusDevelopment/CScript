@@ -1,0 +1,36 @@
+================================================
+      Client Script 1888 Dumped by SiniSoul    
+      Instruction Size: 25
+      Integer Arguments: 0 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, CALL , Operand: 2728
+Offset: 1, PUSHI , Operand: 1
+Offset: 2, IFEQ , Operand: 1
+Offset: 3, GOTO , Operand: 20
+Offset: 4, Unref Opcode: 25, Operand: 6521
+Offset: 5, PUSHI , Operand: 0
+Offset: 6, IFEQ , Operand: 1
+Offset: 7, GOTO , Operand: 16
+Offset: 8, Unref Opcode: 1, Operand: 281
+Offset: 9, PUSHI , Operand: 1000
+Offset: 10, IFLT , Operand: 1
+Offset: 11, GOTO , Operand: 1
+Offset: 12, RETURN , Operand: 0
+Offset: 13, Unref Opcode: 1, Operand: 1647
+Offset: 14, PUSHI , Operand: 1
+Offset: 15, IFEQ , Operand: 1
+Offset: 16, GOTO , Operand: 3
+Offset: 17, PUSHS , Operand: Your health is low! Run away from your attacker and speak to Xenia.
+Offset: 18, Unref Method: 3100, Operand: 0
+Offset: 19, RETURN , Operand: 0
+Offset: 20, PUSHS , Operand: Your health is low! Find a safe place away from your attacker
+Offset: 21, Unref Method: 3100, Operand: 0
+Offset: 22, PUSHS , Operand: and speak to your advisor to find out what to do.
+Offset: 23, Unref Method: 3100, Operand: 0
+Offset: 24, RETURN , Operand: 0

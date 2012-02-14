@@ -1,0 +1,49 @@
+================================================
+      Client Script 3497 Dumped by SiniSoul    
+      Instruction Size: 27
+      Integer Arguments: 1 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADINT , Operand: 0
+Offset: 1, SWITCH , Operand: 0
+Offset: 2, GOTO , Operand: 23
+Offset: 3, PUSHI , Operand: 1
+Offset: 4, PUSHI , Operand: 65208445
+Offset: 5, Unref Method: 2003, Operand: 0
+Offset: 6, GOTO , Operand: 19
+Offset: 7, PUSHI , Operand: 1
+Offset: 8, PUSHI , Operand: 65208359
+Offset: 9, Unref Method: 2003, Operand: 0
+Offset: 10, GOTO , Operand: 15
+Offset: 11, PUSHI , Operand: 1
+Offset: 12, PUSHI , Operand: 65208427
+Offset: 13, Unref Method: 2003, Operand: 0
+Offset: 14, GOTO , Operand: 11
+Offset: 15, PUSHI , Operand: 1
+Offset: 16, PUSHI , Operand: 65208410
+Offset: 17, Unref Method: 2003, Operand: 0
+Offset: 18, GOTO , Operand: 7
+Offset: 19, PUSHI , Operand: 1
+Offset: 20, PUSHI , Operand: 65208393
+Offset: 21, Unref Method: 2003, Operand: 0
+Offset: 22, GOTO , Operand: 3
+Offset: 23, PUSHI , Operand: 1
+Offset: 24, PUSHI , Operand: 65208377
+Offset: 25, Unref Method: 2003, Operand: 0
+Offset: 26, RETURN , Operand: 0
+
+================================================
+                Switch Table 0                
+================================================
+
+Key: 65208398, Value: 13
+Key: 65208415, Value: 9
+Key: 65208364, Value: 21
+Key: 65208381, Value: 17
+Key: 65208343, Value: 5
+Key: 65208432, Value: 1

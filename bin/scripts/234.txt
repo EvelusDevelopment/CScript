@@ -1,0 +1,28 @@
+================================================
+      Client Script 234 Dumped by SiniSoul    
+      Instruction Size: 17
+      Integer Arguments: 2 
+      String  Arguments: 1 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHS , Operand: 
+Offset: 1, STORESTR , Operand: 0
+Offset: 2, PUSHI , Operand: -1
+Offset: 3, STOREINT , Operand: 1
+Offset: 4, PUSHI , Operand: 38928478
+Offset: 5, LOADINT , Operand: 0
+Offset: 6, Unref Method: 200, Operand: 0
+Offset: 7, PUSHI , Operand: 1
+Offset: 8, IFEQ , Operand: 1
+Offset: 9, GOTO , Operand: 6
+Offset: 10, Unref Method: 1802, Operand: 0
+Offset: 11, STOREGSTR , Operand: 24
+Offset: 12, LOADGINT , Operand: 791
+Offset: 13, STOREGINT , Operand: 792
+Offset: 14, CALL , Operand: 240
+Offset: 15, CALL , Operand: 217
+Offset: 16, RETURN , Operand: 0

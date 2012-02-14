@@ -1,0 +1,69 @@
+================================================
+      Client Script 2828 Dumped by SiniSoul    
+      Instruction Size: 58
+      Integer Arguments: 1 
+      String  Arguments: 1 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHI , Operand: 0
+Offset: 1, STOREINT , Operand: 0
+Offset: 2, LOADSTR , Operand: 0
+Offset: 3, PUSHI , Operand: 325
+Offset: 4, PUSHI , Operand: 495
+Offset: 5, Unref Method: 4108, Operand: 0
+Offset: 6, STOREINT , Operand: 0
+Offset: 7, LOADINT , Operand: 0
+Offset: 8, PUSHI , Operand: 15
+Offset: 9, IMUL , Operand: 0
+Offset: 10, STOREINT , Operand: 0
+Offset: 11, PUSHI , Operand: 0
+Offset: 12, LOADINT , Operand: 0
+Offset: 13, PUSHI , Operand: 11665440
+Offset: 14, Unref Method: 2120, Operand: 0
+Offset: 15, LOADINT , Operand: 0
+Offset: 16, PUSHI , Operand: 45
+Offset: 17, IFGT , Operand: 1
+Offset: 18, GOTO , Operand: 28
+Offset: 19, PUSHI , Operand: 11665444
+Offset: 20, PUSHI , Operand: 11665440
+Offset: 21, PUSHI , Operand: 792
+Offset: 22, PUSHI , Operand: 789
+Offset: 23, PUSHI , Operand: 790
+Offset: 24, PUSHI , Operand: 791
+Offset: 25, PUSHI , Operand: 773
+Offset: 26, PUSHI , Operand: 788
+Offset: 27, CALL , Operand: 31
+Offset: 28, PUSHI , Operand: 332
+Offset: 29, PUSHI , Operand: 48
+Offset: 30, PUSHI , Operand: 0
+Offset: 31, PUSHI , Operand: 0
+Offset: 32, PUSHI , Operand: 11665440
+Offset: 33, Unref Method: 2001, Operand: 0
+Offset: 34, PUSHI , Operand: 16384
+Offset: 35, LOADINT , Operand: 0
+Offset: 36, PUSHI , Operand: 2
+Offset: 37, PUSHI , Operand: 0
+Offset: 38, PUSHI , Operand: 11665451
+Offset: 39, Unref Method: 2001, Operand: 0
+Offset: 40, PUSHI , Operand: 16384
+Offset: 41, LOADINT , Operand: 0
+Offset: 42, PUSHI , Operand: 2
+Offset: 43, PUSHI , Operand: 0
+Offset: 44, PUSHI , Operand: 11665452
+Offset: 45, Unref Method: 2001, Operand: 0
+Offset: 46, GOTO , Operand: 6
+Offset: 47, PUSHI , Operand: 354
+Offset: 48, PUSHI , Operand: 48
+Offset: 49, PUSHI , Operand: 0
+Offset: 50, PUSHI , Operand: 0
+Offset: 51, PUSHI , Operand: 11665440
+Offset: 52, Unref Method: 2001, Operand: 0
+Offset: 53, PUSHI , Operand: 0
+Offset: 54, LOADINT , Operand: 0
+Offset: 55, PUSHI , Operand: 11665440
+Offset: 56, Unref Method: 2120, Operand: 0
+Offset: 57, RETURN , Operand: 0

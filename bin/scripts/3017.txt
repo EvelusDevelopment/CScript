@@ -1,0 +1,27 @@
+================================================
+      Client Script 3017 Dumped by SiniSoul    
+      Instruction Size: 16
+      Integer Arguments: 0 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, CALL , Operand: 3018
+Offset: 1, PUSHI , Operand: 1
+Offset: 2, PUSHI , Operand: 59375633
+Offset: 3, Unref Method: 2003, Operand: 0
+Offset: 4, PUSHI , Operand: 105
+Offset: 5, PUSHI , Operand: 73
+Offset: 6, PUSHI , Operand: 941
+Offset: 7, PUSHI , Operand: 3
+Offset: 8, Unref Method: 3408, Operand: 0
+Offset: 9, Unref Method: 2504, Operand: 0
+Offset: 10, PUSHI , Operand: 0
+Offset: 11, IFEQ , Operand: 1
+Offset: 12, GOTO , Operand: 2
+Offset: 13, PUSHI , Operand: 1
+Offset: 14, CALL , Operand: 3161
+Offset: 15, RETURN , Operand: 0

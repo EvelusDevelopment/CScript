@@ -1,0 +1,249 @@
+================================================
+      Client Script 2296 Dumped by SiniSoul    
+      Instruction Size: 178
+      Integer Arguments: 2 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHI , Operand: 105
+Offset: 1, PUSHI , Operand: 74
+Offset: 2, PUSHI , Operand: 2279
+Offset: 3, LOADINT , Operand: 0
+Offset: 4, Unref Method: 3408, Operand: 0
+Offset: 5, STOREINT , Operand: 1
+Offset: 6, Unref Opcode: 25, Operand: 6840
+Offset: 7, PUSHI , Operand: 1
+Offset: 8, IFEQ , Operand: 1
+Offset: 9, GOTO , Operand: 71
+Offset: 10, PUSHI , Operand: 105
+Offset: 11, PUSHI , Operand: 74
+Offset: 12, PUSHI , Operand: 863
+Offset: 13, LOADINT , Operand: 0
+Offset: 14, Unref Method: 3408, Operand: 0
+Offset: 15, STOREINT , Operand: 1
+Offset: 16, LOADINT , Operand: 1
+Offset: 17, SWITCH , Operand: 0
+Offset: 18, GOTO , Operand: 60
+Offset: 19, Unref Opcode: 25, Operand: 6820
+Offset: 20, RETURN , Operand: 0
+Offset: 21, GOTO , Operand: 59
+Offset: 22, Unref Opcode: 25, Operand: 6821
+Offset: 23, RETURN , Operand: 0
+Offset: 24, GOTO , Operand: 56
+Offset: 25, Unref Opcode: 25, Operand: 6822
+Offset: 26, RETURN , Operand: 0
+Offset: 27, GOTO , Operand: 53
+Offset: 28, Unref Opcode: 25, Operand: 6823
+Offset: 29, RETURN , Operand: 0
+Offset: 30, GOTO , Operand: 50
+Offset: 31, Unref Opcode: 25, Operand: 6824
+Offset: 32, RETURN , Operand: 0
+Offset: 33, GOTO , Operand: 47
+Offset: 34, Unref Opcode: 25, Operand: 6825
+Offset: 35, RETURN , Operand: 0
+Offset: 36, GOTO , Operand: 44
+Offset: 37, Unref Opcode: 25, Operand: 6826
+Offset: 38, RETURN , Operand: 0
+Offset: 39, GOTO , Operand: 41
+Offset: 40, Unref Opcode: 25, Operand: 6827
+Offset: 41, RETURN , Operand: 0
+Offset: 42, GOTO , Operand: 38
+Offset: 43, Unref Opcode: 25, Operand: 6828
+Offset: 44, RETURN , Operand: 0
+Offset: 45, GOTO , Operand: 35
+Offset: 46, Unref Opcode: 25, Operand: 6829
+Offset: 47, RETURN , Operand: 0
+Offset: 48, GOTO , Operand: 32
+Offset: 49, Unref Opcode: 25, Operand: 6830
+Offset: 50, RETURN , Operand: 0
+Offset: 51, GOTO , Operand: 29
+Offset: 52, Unref Opcode: 25, Operand: 6831
+Offset: 53, RETURN , Operand: 0
+Offset: 54, GOTO , Operand: 26
+Offset: 55, Unref Opcode: 25, Operand: 6832
+Offset: 56, RETURN , Operand: 0
+Offset: 57, GOTO , Operand: 23
+Offset: 58, Unref Opcode: 25, Operand: 6833
+Offset: 59, RETURN , Operand: 0
+Offset: 60, GOTO , Operand: 20
+Offset: 61, Unref Opcode: 25, Operand: 6834
+Offset: 62, RETURN , Operand: 0
+Offset: 63, GOTO , Operand: 17
+Offset: 64, Unref Opcode: 25, Operand: 6835
+Offset: 65, RETURN , Operand: 0
+Offset: 66, GOTO , Operand: 14
+Offset: 67, Unref Opcode: 25, Operand: 6836
+Offset: 68, RETURN , Operand: 0
+Offset: 69, GOTO , Operand: 11
+Offset: 70, Unref Opcode: 25, Operand: 6837
+Offset: 71, RETURN , Operand: 0
+Offset: 72, GOTO , Operand: 8
+Offset: 73, Unref Opcode: 25, Operand: 6838
+Offset: 74, RETURN , Operand: 0
+Offset: 75, GOTO , Operand: 5
+Offset: 76, Unref Opcode: 25, Operand: 6839
+Offset: 77, RETURN , Operand: 0
+Offset: 78, GOTO , Operand: 2
+Offset: 79, PUSHI , Operand: 0
+Offset: 80, RETURN , Operand: 0
+Offset: 81, LOADINT , Operand: 1
+Offset: 82, SWITCH , Operand: 1
+Offset: 83, GOTO , Operand: 90
+Offset: 84, Unref Opcode: 25, Operand: 5942
+Offset: 85, RETURN , Operand: 0
+Offset: 86, GOTO , Operand: 89
+Offset: 87, Unref Opcode: 25, Operand: 5943
+Offset: 88, RETURN , Operand: 0
+Offset: 89, GOTO , Operand: 86
+Offset: 90, Unref Opcode: 25, Operand: 5944
+Offset: 91, RETURN , Operand: 0
+Offset: 92, GOTO , Operand: 83
+Offset: 93, Unref Opcode: 25, Operand: 5945
+Offset: 94, RETURN , Operand: 0
+Offset: 95, GOTO , Operand: 80
+Offset: 96, Unref Opcode: 25, Operand: 5946
+Offset: 97, RETURN , Operand: 0
+Offset: 98, GOTO , Operand: 77
+Offset: 99, Unref Opcode: 25, Operand: 5947
+Offset: 100, RETURN , Operand: 0
+Offset: 101, GOTO , Operand: 74
+Offset: 102, Unref Opcode: 25, Operand: 5948
+Offset: 103, RETURN , Operand: 0
+Offset: 104, GOTO , Operand: 71
+Offset: 105, Unref Opcode: 25, Operand: 5949
+Offset: 106, RETURN , Operand: 0
+Offset: 107, GOTO , Operand: 68
+Offset: 108, Unref Opcode: 25, Operand: 5950
+Offset: 109, RETURN , Operand: 0
+Offset: 110, GOTO , Operand: 65
+Offset: 111, Unref Opcode: 25, Operand: 5951
+Offset: 112, RETURN , Operand: 0
+Offset: 113, GOTO , Operand: 62
+Offset: 114, Unref Opcode: 25, Operand: 5952
+Offset: 115, RETURN , Operand: 0
+Offset: 116, GOTO , Operand: 59
+Offset: 117, Unref Opcode: 25, Operand: 5953
+Offset: 118, RETURN , Operand: 0
+Offset: 119, GOTO , Operand: 56
+Offset: 120, Unref Opcode: 25, Operand: 5954
+Offset: 121, RETURN , Operand: 0
+Offset: 122, GOTO , Operand: 53
+Offset: 123, Unref Opcode: 25, Operand: 5955
+Offset: 124, RETURN , Operand: 0
+Offset: 125, GOTO , Operand: 50
+Offset: 126, Unref Opcode: 25, Operand: 5956
+Offset: 127, RETURN , Operand: 0
+Offset: 128, GOTO , Operand: 47
+Offset: 129, Unref Opcode: 25, Operand: 5957
+Offset: 130, RETURN , Operand: 0
+Offset: 131, GOTO , Operand: 44
+Offset: 132, Unref Opcode: 25, Operand: 5958
+Offset: 133, RETURN , Operand: 0
+Offset: 134, GOTO , Operand: 41
+Offset: 135, Unref Opcode: 25, Operand: 5959
+Offset: 136, RETURN , Operand: 0
+Offset: 137, GOTO , Operand: 38
+Offset: 138, Unref Opcode: 25, Operand: 5960
+Offset: 139, RETURN , Operand: 0
+Offset: 140, GOTO , Operand: 35
+Offset: 141, Unref Opcode: 25, Operand: 5961
+Offset: 142, RETURN , Operand: 0
+Offset: 143, GOTO , Operand: 32
+Offset: 144, Unref Opcode: 25, Operand: 5962
+Offset: 145, RETURN , Operand: 0
+Offset: 146, GOTO , Operand: 29
+Offset: 147, Unref Opcode: 25, Operand: 5963
+Offset: 148, RETURN , Operand: 0
+Offset: 149, GOTO , Operand: 26
+Offset: 150, Unref Opcode: 25, Operand: 5964
+Offset: 151, RETURN , Operand: 0
+Offset: 152, GOTO , Operand: 23
+Offset: 153, Unref Opcode: 25, Operand: 5965
+Offset: 154, RETURN , Operand: 0
+Offset: 155, GOTO , Operand: 20
+Offset: 156, Unref Opcode: 25, Operand: 5966
+Offset: 157, RETURN , Operand: 0
+Offset: 158, GOTO , Operand: 17
+Offset: 159, Unref Opcode: 25, Operand: 5967
+Offset: 160, RETURN , Operand: 0
+Offset: 161, GOTO , Operand: 14
+Offset: 162, Unref Opcode: 25, Operand: 7768
+Offset: 163, RETURN , Operand: 0
+Offset: 164, GOTO , Operand: 11
+Offset: 165, Unref Opcode: 25, Operand: 5968
+Offset: 166, RETURN , Operand: 0
+Offset: 167, GOTO , Operand: 8
+Offset: 168, Unref Opcode: 25, Operand: 7769
+Offset: 169, RETURN , Operand: 0
+Offset: 170, GOTO , Operand: 5
+Offset: 171, Unref Opcode: 25, Operand: 7381
+Offset: 172, RETURN , Operand: 0
+Offset: 173, GOTO , Operand: 2
+Offset: 174, PUSHI , Operand: 0
+Offset: 175, RETURN , Operand: 0
+Offset: 176, PUSHI , Operand: 0
+Offset: 177, RETURN , Operand: 0
+
+================================================
+                Switch Table 0                
+================================================
+
+Key: 889, Value: 4
+Key: 888, Value: 1
+Key: 891, Value: 10
+Key: 890, Value: 7
+Key: 893, Value: 16
+Key: 892, Value: 13
+Key: 895, Value: 22
+Key: 894, Value: 19
+Key: 907, Value: 58
+Key: 906, Value: 55
+Key: 905, Value: 52
+Key: 904, Value: 49
+Key: 903, Value: 46
+Key: 902, Value: 43
+Key: 901, Value: 40
+Key: 900, Value: 37
+Key: 899, Value: 34
+Key: 898, Value: 31
+Key: 897, Value: 28
+Key: 896, Value: 25
+
+================================================
+                Switch Table 1                
+================================================
+
+Key: 686, Value: 82
+Key: 685, Value: 76
+Key: 684, Value: 73
+Key: 683, Value: 70
+Key: 682, Value: 67
+Key: 681, Value: 64
+Key: 680, Value: 61
+Key: 679, Value: 58
+Key: 678, Value: 55
+Key: 677, Value: 52
+Key: 676, Value: 49
+Key: 675, Value: 46
+Key: 1029, Value: 88
+Key: 674, Value: 43
+Key: 673, Value: 40
+Key: 672, Value: 37
+Key: 1005, Value: 79
+Key: 1006, Value: 85
+Key: 668, Value: 25
+Key: 669, Value: 28
+Key: 670, Value: 31
+Key: 671, Value: 34
+Key: 664, Value: 13
+Key: 665, Value: 16
+Key: 666, Value: 19
+Key: 667, Value: 22
+Key: 660, Value: 1
+Key: 661, Value: 4
+Key: 662, Value: 7
+Key: 663, Value: 10

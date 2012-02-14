@@ -1,0 +1,43 @@
+================================================
+      Client Script 2552 Dumped by SiniSoul    
+      Instruction Size: 32
+      Integer Arguments: 0 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADGINT , Operand: 922
+Offset: 1, PUSHI , Operand: 1
+Offset: 2, IFEQ , Operand: 1
+Offset: 3, GOTO , Operand: 4
+Offset: 4, PUSHI , Operand: 1908
+Offset: 5, PUSHI , Operand: 2555949
+Offset: 6, Unref Method: 2105, Operand: 0
+Offset: 7, GOTO , Operand: 23
+Offset: 8, LOADGINT , Operand: 922
+Offset: 9, PUSHI , Operand: 2
+Offset: 10, IFEQ , Operand: 1
+Offset: 11, GOTO , Operand: 4
+Offset: 12, PUSHI , Operand: 1910
+Offset: 13, PUSHI , Operand: 2555949
+Offset: 14, Unref Method: 2105, Operand: 0
+Offset: 15, GOTO , Operand: 15
+Offset: 16, LOADGINT , Operand: 922
+Offset: 17, PUSHI , Operand: 3
+Offset: 18, IFEQ , Operand: 1
+Offset: 19, GOTO , Operand: 4
+Offset: 20, PUSHI , Operand: 1911
+Offset: 21, PUSHI , Operand: 2555949
+Offset: 22, Unref Method: 2105, Operand: 0
+Offset: 23, GOTO , Operand: 7
+Offset: 24, LOADGINT , Operand: 922
+Offset: 25, PUSHI , Operand: 4
+Offset: 26, IFEQ , Operand: 1
+Offset: 27, GOTO , Operand: 3
+Offset: 28, PUSHI , Operand: 1909
+Offset: 29, PUSHI , Operand: 2555949
+Offset: 30, Unref Method: 2105, Operand: 0
+Offset: 31, RETURN , Operand: 0

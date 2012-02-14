@@ -1,0 +1,747 @@
+================================================
+      Client Script 1908 Dumped by SiniSoul    
+      Instruction Size: 736
+      Integer Arguments: 1 
+      String  Arguments: 1 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHI , Operand: 12
+Offset: 1, STOREINT , Operand: 0
+Offset: 2, PUSHS , Operand: 
+Offset: 3, STORESTR , Operand: 0
+Offset: 4, PUSHI , Operand: 16
+Offset: 5, LOADGINT , Operand: 564
+Offset: 6, PUSHI , Operand: 100
+Offset: 7, IMUL , Operand: 0
+Offset: 8, LOADINT , Operand: 0
+Offset: 9, IDIV , Operand: 0
+Offset: 10, PUSHI , Operand: 16384
+Offset: 11, IMUL , Operand: 0
+Offset: 12, PUSHI , Operand: 100
+Offset: 13, IDIV , Operand: 0
+Offset: 14, PUSHI , Operand: 0
+Offset: 15, PUSHI , Operand: 2
+Offset: 16, PUSHI , Operand: 52822154
+Offset: 17, Unref Method: 2001, Operand: 0
+Offset: 18, PUSHI , Operand: 16
+Offset: 19, LOADGINT , Operand: 565
+Offset: 20, PUSHI , Operand: 100
+Offset: 21, IMUL , Operand: 0
+Offset: 22, LOADINT , Operand: 0
+Offset: 23, IDIV , Operand: 0
+Offset: 24, PUSHI , Operand: 16384
+Offset: 25, IMUL , Operand: 0
+Offset: 26, PUSHI , Operand: 100
+Offset: 27, IDIV , Operand: 0
+Offset: 28, PUSHI , Operand: 0
+Offset: 29, PUSHI , Operand: 2
+Offset: 30, PUSHI , Operand: 52822155
+Offset: 31, Unref Method: 2001, Operand: 0
+Offset: 32, PUSHI , Operand: 16
+Offset: 33, LOADGINT , Operand: 566
+Offset: 34, PUSHI , Operand: 100
+Offset: 35, IMUL , Operand: 0
+Offset: 36, LOADINT , Operand: 0
+Offset: 37, IDIV , Operand: 0
+Offset: 38, PUSHI , Operand: 16384
+Offset: 39, IMUL , Operand: 0
+Offset: 40, PUSHI , Operand: 100
+Offset: 41, IDIV , Operand: 0
+Offset: 42, PUSHI , Operand: 0
+Offset: 43, PUSHI , Operand: 2
+Offset: 44, PUSHI , Operand: 52822156
+Offset: 45, Unref Method: 2001, Operand: 0
+Offset: 46, PUSHI , Operand: 16
+Offset: 47, LOADGINT , Operand: 567
+Offset: 48, PUSHI , Operand: 100
+Offset: 49, IMUL , Operand: 0
+Offset: 50, LOADINT , Operand: 0
+Offset: 51, IDIV , Operand: 0
+Offset: 52, PUSHI , Operand: 16384
+Offset: 53, IMUL , Operand: 0
+Offset: 54, PUSHI , Operand: 100
+Offset: 55, IDIV , Operand: 0
+Offset: 56, PUSHI , Operand: 0
+Offset: 57, PUSHI , Operand: 2
+Offset: 58, PUSHI , Operand: 52822160
+Offset: 59, Unref Method: 2001, Operand: 0
+Offset: 60, PUSHI , Operand: 16
+Offset: 61, LOADGINT , Operand: 568
+Offset: 62, PUSHI , Operand: 100
+Offset: 63, IMUL , Operand: 0
+Offset: 64, LOADINT , Operand: 0
+Offset: 65, IDIV , Operand: 0
+Offset: 66, PUSHI , Operand: 16384
+Offset: 67, IMUL , Operand: 0
+Offset: 68, PUSHI , Operand: 100
+Offset: 69, IDIV , Operand: 0
+Offset: 70, PUSHI , Operand: 0
+Offset: 71, PUSHI , Operand: 2
+Offset: 72, PUSHI , Operand: 52822164
+Offset: 73, Unref Method: 2001, Operand: 0
+Offset: 74, PUSHI , Operand: 16
+Offset: 75, LOADGINT , Operand: 569
+Offset: 76, PUSHI , Operand: 100
+Offset: 77, IMUL , Operand: 0
+Offset: 78, LOADINT , Operand: 0
+Offset: 79, IDIV , Operand: 0
+Offset: 80, PUSHI , Operand: 16384
+Offset: 81, IMUL , Operand: 0
+Offset: 82, PUSHI , Operand: 100
+Offset: 83, IDIV , Operand: 0
+Offset: 84, PUSHI , Operand: 0
+Offset: 85, PUSHI , Operand: 2
+Offset: 86, PUSHI , Operand: 52822098
+Offset: 87, Unref Method: 2001, Operand: 0
+Offset: 88, PUSHI , Operand: 16
+Offset: 89, LOADGINT , Operand: 570
+Offset: 90, PUSHI , Operand: 100
+Offset: 91, IMUL , Operand: 0
+Offset: 92, LOADINT , Operand: 0
+Offset: 93, IDIV , Operand: 0
+Offset: 94, PUSHI , Operand: 16384
+Offset: 95, IMUL , Operand: 0
+Offset: 96, PUSHI , Operand: 100
+Offset: 97, IDIV , Operand: 0
+Offset: 98, PUSHI , Operand: 0
+Offset: 99, PUSHI , Operand: 2
+Offset: 100, PUSHI , Operand: 52822102
+Offset: 101, Unref Method: 2001, Operand: 0
+Offset: 102, PUSHI , Operand: 16
+Offset: 103, LOADGINT , Operand: 571
+Offset: 104, PUSHI , Operand: 100
+Offset: 105, IMUL , Operand: 0
+Offset: 106, LOADINT , Operand: 0
+Offset: 107, IDIV , Operand: 0
+Offset: 108, PUSHI , Operand: 16384
+Offset: 109, IMUL , Operand: 0
+Offset: 110, PUSHI , Operand: 100
+Offset: 111, IDIV , Operand: 0
+Offset: 112, PUSHI , Operand: 0
+Offset: 113, PUSHI , Operand: 2
+Offset: 114, PUSHI , Operand: 52822106
+Offset: 115, Unref Method: 2001, Operand: 0
+Offset: 116, PUSHI , Operand: 16
+Offset: 117, LOADGINT , Operand: 572
+Offset: 118, PUSHI , Operand: 100
+Offset: 119, IMUL , Operand: 0
+Offset: 120, LOADINT , Operand: 0
+Offset: 121, IDIV , Operand: 0
+Offset: 122, PUSHI , Operand: 16384
+Offset: 123, IMUL , Operand: 0
+Offset: 124, PUSHI , Operand: 100
+Offset: 125, IDIV , Operand: 0
+Offset: 126, PUSHI , Operand: 0
+Offset: 127, PUSHI , Operand: 2
+Offset: 128, PUSHI , Operand: 52822110
+Offset: 129, Unref Method: 2001, Operand: 0
+Offset: 130, PUSHI , Operand: 16
+Offset: 131, LOADGINT , Operand: 573
+Offset: 132, PUSHI , Operand: 100
+Offset: 133, IMUL , Operand: 0
+Offset: 134, LOADINT , Operand: 0
+Offset: 135, IDIV , Operand: 0
+Offset: 136, PUSHI , Operand: 16384
+Offset: 137, IMUL , Operand: 0
+Offset: 138, PUSHI , Operand: 100
+Offset: 139, IDIV , Operand: 0
+Offset: 140, PUSHI , Operand: 0
+Offset: 141, PUSHI , Operand: 2
+Offset: 142, PUSHI , Operand: 52822077
+Offset: 143, Unref Method: 2001, Operand: 0
+Offset: 144, PUSHI , Operand: 16
+Offset: 145, LOADGINT , Operand: 574
+Offset: 146, PUSHI , Operand: 100
+Offset: 147, IMUL , Operand: 0
+Offset: 148, LOADINT , Operand: 0
+Offset: 149, IDIV , Operand: 0
+Offset: 150, PUSHI , Operand: 16384
+Offset: 151, IMUL , Operand: 0
+Offset: 152, PUSHI , Operand: 100
+Offset: 153, IDIV , Operand: 0
+Offset: 154, PUSHI , Operand: 0
+Offset: 155, PUSHI , Operand: 2
+Offset: 156, PUSHI , Operand: 52822081
+Offset: 157, Unref Method: 2001, Operand: 0
+Offset: 158, PUSHI , Operand: 16
+Offset: 159, LOADGINT , Operand: 575
+Offset: 160, PUSHI , Operand: 100
+Offset: 161, IMUL , Operand: 0
+Offset: 162, LOADINT , Operand: 0
+Offset: 163, IDIV , Operand: 0
+Offset: 164, PUSHI , Operand: 16384
+Offset: 165, IMUL , Operand: 0
+Offset: 166, PUSHI , Operand: 100
+Offset: 167, IDIV , Operand: 0
+Offset: 168, PUSHI , Operand: 0
+Offset: 169, PUSHI , Operand: 2
+Offset: 170, PUSHI , Operand: 52822085
+Offset: 171, Unref Method: 2001, Operand: 0
+Offset: 172, PUSHI , Operand: 16
+Offset: 173, LOADGINT , Operand: 576
+Offset: 174, PUSHI , Operand: 100
+Offset: 175, IMUL , Operand: 0
+Offset: 176, LOADINT , Operand: 0
+Offset: 177, IDIV , Operand: 0
+Offset: 178, PUSHI , Operand: 16384
+Offset: 179, IMUL , Operand: 0
+Offset: 180, PUSHI , Operand: 100
+Offset: 181, IDIV , Operand: 0
+Offset: 182, PUSHI , Operand: 0
+Offset: 183, PUSHI , Operand: 2
+Offset: 184, PUSHI , Operand: 52822089
+Offset: 185, Unref Method: 2001, Operand: 0
+Offset: 186, PUSHI , Operand: 16
+Offset: 187, LOADGINT , Operand: 577
+Offset: 188, PUSHI , Operand: 100
+Offset: 189, IMUL , Operand: 0
+Offset: 190, LOADINT , Operand: 0
+Offset: 191, IDIV , Operand: 0
+Offset: 192, PUSHI , Operand: 16384
+Offset: 193, IMUL , Operand: 0
+Offset: 194, PUSHI , Operand: 100
+Offset: 195, IDIV , Operand: 0
+Offset: 196, PUSHI , Operand: 0
+Offset: 197, PUSHI , Operand: 2
+Offset: 198, PUSHI , Operand: 52822119
+Offset: 199, Unref Method: 2001, Operand: 0
+Offset: 200, PUSHI , Operand: 16
+Offset: 201, LOADGINT , Operand: 578
+Offset: 202, PUSHI , Operand: 100
+Offset: 203, IMUL , Operand: 0
+Offset: 204, LOADINT , Operand: 0
+Offset: 205, IDIV , Operand: 0
+Offset: 206, PUSHI , Operand: 16384
+Offset: 207, IMUL , Operand: 0
+Offset: 208, PUSHI , Operand: 100
+Offset: 209, IDIV , Operand: 0
+Offset: 210, PUSHI , Operand: 0
+Offset: 211, PUSHI , Operand: 2
+Offset: 212, PUSHI , Operand: 52822123
+Offset: 213, Unref Method: 2001, Operand: 0
+Offset: 214, PUSHI , Operand: 16
+Offset: 215, LOADGINT , Operand: 579
+Offset: 216, PUSHI , Operand: 100
+Offset: 217, IMUL , Operand: 0
+Offset: 218, LOADINT , Operand: 0
+Offset: 219, IDIV , Operand: 0
+Offset: 220, PUSHI , Operand: 16384
+Offset: 221, IMUL , Operand: 0
+Offset: 222, PUSHI , Operand: 100
+Offset: 223, IDIV , Operand: 0
+Offset: 224, PUSHI , Operand: 0
+Offset: 225, PUSHI , Operand: 2
+Offset: 226, PUSHI , Operand: 52822127
+Offset: 227, Unref Method: 2001, Operand: 0
+Offset: 228, PUSHI , Operand: 16
+Offset: 229, LOADGINT , Operand: 580
+Offset: 230, PUSHI , Operand: 100
+Offset: 231, IMUL , Operand: 0
+Offset: 232, LOADINT , Operand: 0
+Offset: 233, IDIV , Operand: 0
+Offset: 234, PUSHI , Operand: 16384
+Offset: 235, IMUL , Operand: 0
+Offset: 236, PUSHI , Operand: 100
+Offset: 237, IDIV , Operand: 0
+Offset: 238, PUSHI , Operand: 0
+Offset: 239, PUSHI , Operand: 2
+Offset: 240, PUSHI , Operand: 52822131
+Offset: 241, Unref Method: 2001, Operand: 0
+Offset: 242, LOADGINT , Operand: 564
+Offset: 243, PUSHI , Operand: 0
+Offset: 244, IFEQ , Operand: 1
+Offset: 245, GOTO , Operand: 3
+Offset: 246, PUSHS , Operand: There are no class 1 clay locations in the area.
+Offset: 247, STORESTR , Operand: 0
+Offset: 248, GOTO , Operand: 13
+Offset: 249, LOADGINT , Operand: 564
+Offset: 250, PUSHI , Operand: 1
+Offset: 251, IFEQ , Operand: 1
+Offset: 252, GOTO , Operand: 3
+Offset: 253, PUSHS , Operand: There is 1 class 1 clay location in the area.
+Offset: 254, STORESTR , Operand: 0
+Offset: 255, GOTO , Operand: 6
+Offset: 256, PUSHS , Operand: There are 
+Offset: 257, LOADGINT , Operand: 564
+Offset: 258, integerToString , Operand: 0
+Offset: 259, PUSHS , Operand:  class 1 clay locations in the area.
+Offset: 260, CONCAT , Operand: 3
+Offset: 261, STORESTR , Operand: 0
+Offset: 262, PUSHI , Operand: 38
+Offset: 263, PUSHI , Operand: -2147483645
+Offset: 264, PUSHI , Operand: 52822065
+Offset: 265, LOADSTR , Operand: 0
+Offset: 266, PUSHI , Operand: 25
+Offset: 267, PUSHI , Operand: 100
+Offset: 268, PUSHS , Operand: IIsii
+Offset: 269, PUSHI , Operand: 52822154
+Offset: 270, setInterfaceDefinitionScriptParams12 , Operand: 0
+Offset: 271, LOADGINT , Operand: 565
+Offset: 272, PUSHI , Operand: 0
+Offset: 273, IFEQ , Operand: 1
+Offset: 274, GOTO , Operand: 3
+Offset: 275, PUSHS , Operand: There are no class 2 fishing locations in the area.
+Offset: 276, STORESTR , Operand: 0
+Offset: 277, GOTO , Operand: 13
+Offset: 278, LOADGINT , Operand: 565
+Offset: 279, PUSHI , Operand: 1
+Offset: 280, IFEQ , Operand: 1
+Offset: 281, GOTO , Operand: 3
+Offset: 282, PUSHS , Operand: There is 1 class 2 fishing location in the area.
+Offset: 283, STORESTR , Operand: 0
+Offset: 284, GOTO , Operand: 6
+Offset: 285, PUSHS , Operand: There are 
+Offset: 286, LOADGINT , Operand: 565
+Offset: 287, integerToString , Operand: 0
+Offset: 288, PUSHS , Operand:  class 2 fishing locations in the area.
+Offset: 289, CONCAT , Operand: 3
+Offset: 290, STORESTR , Operand: 0
+Offset: 291, PUSHI , Operand: 38
+Offset: 292, PUSHI , Operand: -2147483645
+Offset: 293, PUSHI , Operand: 52822065
+Offset: 294, LOADSTR , Operand: 0
+Offset: 295, PUSHI , Operand: 25
+Offset: 296, PUSHI , Operand: 100
+Offset: 297, PUSHS , Operand: IIsii
+Offset: 298, PUSHI , Operand: 52822155
+Offset: 299, setInterfaceDefinitionScriptParams12 , Operand: 0
+Offset: 300, LOADGINT , Operand: 566
+Offset: 301, PUSHI , Operand: 0
+Offset: 302, IFEQ , Operand: 1
+Offset: 303, GOTO , Operand: 3
+Offset: 304, PUSHS , Operand: There are no class 3 fishing locations in the area.
+Offset: 305, STORESTR , Operand: 0
+Offset: 306, GOTO , Operand: 13
+Offset: 307, LOADGINT , Operand: 566
+Offset: 308, PUSHI , Operand: 1
+Offset: 309, IFEQ , Operand: 1
+Offset: 310, GOTO , Operand: 3
+Offset: 311, PUSHS , Operand: There is 1 class 3 fishing location in the area.
+Offset: 312, STORESTR , Operand: 0
+Offset: 313, GOTO , Operand: 6
+Offset: 314, PUSHS , Operand: There are 
+Offset: 315, LOADGINT , Operand: 566
+Offset: 316, integerToString , Operand: 0
+Offset: 317, PUSHS , Operand:  class 3 fishing locations in the area.
+Offset: 318, CONCAT , Operand: 3
+Offset: 319, STORESTR , Operand: 0
+Offset: 320, PUSHI , Operand: 38
+Offset: 321, PUSHI , Operand: -2147483645
+Offset: 322, PUSHI , Operand: 52822065
+Offset: 323, LOADSTR , Operand: 0
+Offset: 324, PUSHI , Operand: 25
+Offset: 325, PUSHI , Operand: 100
+Offset: 326, PUSHS , Operand: IIsii
+Offset: 327, PUSHI , Operand: 52822156
+Offset: 328, setInterfaceDefinitionScriptParams12 , Operand: 0
+Offset: 329, LOADGINT , Operand: 567
+Offset: 330, PUSHI , Operand: 0
+Offset: 331, IFEQ , Operand: 1
+Offset: 332, GOTO , Operand: 3
+Offset: 333, PUSHS , Operand: There are no class 4 fishing locations in the area.
+Offset: 334, STORESTR , Operand: 0
+Offset: 335, GOTO , Operand: 13
+Offset: 336, LOADGINT , Operand: 567
+Offset: 337, PUSHI , Operand: 1
+Offset: 338, IFEQ , Operand: 1
+Offset: 339, GOTO , Operand: 3
+Offset: 340, PUSHS , Operand: There is 1 class 4 fishing location in the area.
+Offset: 341, STORESTR , Operand: 0
+Offset: 342, GOTO , Operand: 6
+Offset: 343, PUSHS , Operand: There are 
+Offset: 344, LOADGINT , Operand: 567
+Offset: 345, integerToString , Operand: 0
+Offset: 346, PUSHS , Operand:  class 4 fishing locations in the area.
+Offset: 347, CONCAT , Operand: 3
+Offset: 348, STORESTR , Operand: 0
+Offset: 349, PUSHI , Operand: 38
+Offset: 350, PUSHI , Operand: -2147483645
+Offset: 351, PUSHI , Operand: 52822065
+Offset: 352, LOADSTR , Operand: 0
+Offset: 353, PUSHI , Operand: 25
+Offset: 354, PUSHI , Operand: 100
+Offset: 355, PUSHS , Operand: IIsii
+Offset: 356, PUSHI , Operand: 52822160
+Offset: 357, setInterfaceDefinitionScriptParams12 , Operand: 0
+Offset: 358, LOADGINT , Operand: 568
+Offset: 359, PUSHI , Operand: 0
+Offset: 360, IFEQ , Operand: 1
+Offset: 361, GOTO , Operand: 3
+Offset: 362, PUSHS , Operand: There are no class 5 fishing locations in the area.
+Offset: 363, STORESTR , Operand: 0
+Offset: 364, GOTO , Operand: 13
+Offset: 365, LOADGINT , Operand: 568
+Offset: 366, PUSHI , Operand: 1
+Offset: 367, IFEQ , Operand: 1
+Offset: 368, GOTO , Operand: 3
+Offset: 369, PUSHS , Operand: There is 1 class 5 fishing location in the area.
+Offset: 370, STORESTR , Operand: 0
+Offset: 371, GOTO , Operand: 6
+Offset: 372, PUSHS , Operand: There are 
+Offset: 373, LOADGINT , Operand: 568
+Offset: 374, integerToString , Operand: 0
+Offset: 375, PUSHS , Operand:  class 5 fishing locations in the area.
+Offset: 376, CONCAT , Operand: 3
+Offset: 377, STORESTR , Operand: 0
+Offset: 378, PUSHI , Operand: 38
+Offset: 379, PUSHI , Operand: -2147483645
+Offset: 380, PUSHI , Operand: 52822065
+Offset: 381, LOADSTR , Operand: 0
+Offset: 382, PUSHI , Operand: 25
+Offset: 383, PUSHI , Operand: 100
+Offset: 384, PUSHS , Operand: IIsii
+Offset: 385, PUSHI , Operand: 52822164
+Offset: 386, setInterfaceDefinitionScriptParams12 , Operand: 0
+Offset: 387, LOADGINT , Operand: 569
+Offset: 388, PUSHI , Operand: 0
+Offset: 389, IFEQ , Operand: 1
+Offset: 390, GOTO , Operand: 3
+Offset: 391, PUSHS , Operand: There are no class 2 mining locations in the area.
+Offset: 392, STORESTR , Operand: 0
+Offset: 393, GOTO , Operand: 13
+Offset: 394, LOADGINT , Operand: 569
+Offset: 395, PUSHI , Operand: 1
+Offset: 396, IFEQ , Operand: 1
+Offset: 397, GOTO , Operand: 3
+Offset: 398, PUSHS , Operand: There is 1 class 2 mining location in the area.
+Offset: 399, STORESTR , Operand: 0
+Offset: 400, GOTO , Operand: 6
+Offset: 401, PUSHS , Operand: There are 
+Offset: 402, LOADGINT , Operand: 569
+Offset: 403, integerToString , Operand: 0
+Offset: 404, PUSHS , Operand:  class 2 mining locations in the area.
+Offset: 405, CONCAT , Operand: 3
+Offset: 406, STORESTR , Operand: 0
+Offset: 407, PUSHI , Operand: 38
+Offset: 408, PUSHI , Operand: -2147483645
+Offset: 409, PUSHI , Operand: 52822065
+Offset: 410, LOADSTR , Operand: 0
+Offset: 411, PUSHI , Operand: 25
+Offset: 412, PUSHI , Operand: 100
+Offset: 413, PUSHS , Operand: IIsii
+Offset: 414, PUSHI , Operand: 52822098
+Offset: 415, setInterfaceDefinitionScriptParams12 , Operand: 0
+Offset: 416, LOADGINT , Operand: 570
+Offset: 417, PUSHI , Operand: 0
+Offset: 418, IFEQ , Operand: 1
+Offset: 419, GOTO , Operand: 3
+Offset: 420, PUSHS , Operand: There are no class 3 mining locations in the area.
+Offset: 421, STORESTR , Operand: 0
+Offset: 422, GOTO , Operand: 13
+Offset: 423, LOADGINT , Operand: 570
+Offset: 424, PUSHI , Operand: 1
+Offset: 425, IFEQ , Operand: 1
+Offset: 426, GOTO , Operand: 3
+Offset: 427, PUSHS , Operand: There is 1 class 3 mining location in the area.
+Offset: 428, STORESTR , Operand: 0
+Offset: 429, GOTO , Operand: 6
+Offset: 430, PUSHS , Operand: There are 
+Offset: 431, LOADGINT , Operand: 570
+Offset: 432, integerToString , Operand: 0
+Offset: 433, PUSHS , Operand:  class 3 mining locations in the area.
+Offset: 434, CONCAT , Operand: 3
+Offset: 435, STORESTR , Operand: 0
+Offset: 436, PUSHI , Operand: 38
+Offset: 437, PUSHI , Operand: -2147483645
+Offset: 438, PUSHI , Operand: 52822065
+Offset: 439, LOADSTR , Operand: 0
+Offset: 440, PUSHI , Operand: 25
+Offset: 441, PUSHI , Operand: 100
+Offset: 442, PUSHS , Operand: IIsii
+Offset: 443, PUSHI , Operand: 52822102
+Offset: 444, setInterfaceDefinitionScriptParams12 , Operand: 0
+Offset: 445, LOADGINT , Operand: 571
+Offset: 446, PUSHI , Operand: 0
+Offset: 447, IFEQ , Operand: 1
+Offset: 448, GOTO , Operand: 3
+Offset: 449, PUSHS , Operand: There are no class 4 mining locations in the area.
+Offset: 450, STORESTR , Operand: 0
+Offset: 451, GOTO , Operand: 13
+Offset: 452, LOADGINT , Operand: 571
+Offset: 453, PUSHI , Operand: 1
+Offset: 454, IFEQ , Operand: 1
+Offset: 455, GOTO , Operand: 3
+Offset: 456, PUSHS , Operand: There is 1 class 4 mining location in the area.
+Offset: 457, STORESTR , Operand: 0
+Offset: 458, GOTO , Operand: 6
+Offset: 459, PUSHS , Operand: There are 
+Offset: 460, LOADGINT , Operand: 571
+Offset: 461, integerToString , Operand: 0
+Offset: 462, PUSHS , Operand:  class 4 mining locations in the area.
+Offset: 463, CONCAT , Operand: 3
+Offset: 464, STORESTR , Operand: 0
+Offset: 465, PUSHI , Operand: 38
+Offset: 466, PUSHI , Operand: -2147483645
+Offset: 467, PUSHI , Operand: 52822065
+Offset: 468, LOADSTR , Operand: 0
+Offset: 469, PUSHI , Operand: 25
+Offset: 470, PUSHI , Operand: 100
+Offset: 471, PUSHS , Operand: IIsii
+Offset: 472, PUSHI , Operand: 52822106
+Offset: 473, setInterfaceDefinitionScriptParams12 , Operand: 0
+Offset: 474, LOADGINT , Operand: 572
+Offset: 475, PUSHI , Operand: 0
+Offset: 476, IFEQ , Operand: 1
+Offset: 477, GOTO , Operand: 3
+Offset: 478, PUSHS , Operand: There are no class 5 mining locations in the area.
+Offset: 479, STORESTR , Operand: 0
+Offset: 480, GOTO , Operand: 13
+Offset: 481, LOADGINT , Operand: 572
+Offset: 482, PUSHI , Operand: 1
+Offset: 483, IFEQ , Operand: 1
+Offset: 484, GOTO , Operand: 3
+Offset: 485, PUSHS , Operand: There is 1 class 5 mining location in the area.
+Offset: 486, STORESTR , Operand: 0
+Offset: 487, GOTO , Operand: 6
+Offset: 488, PUSHS , Operand: There are 
+Offset: 489, LOADGINT , Operand: 572
+Offset: 490, integerToString , Operand: 0
+Offset: 491, PUSHS , Operand:  class 5 mining locations in the area.
+Offset: 492, CONCAT , Operand: 3
+Offset: 493, STORESTR , Operand: 0
+Offset: 494, PUSHI , Operand: 38
+Offset: 495, PUSHI , Operand: -2147483645
+Offset: 496, PUSHI , Operand: 52822065
+Offset: 497, LOADSTR , Operand: 0
+Offset: 498, PUSHI , Operand: 25
+Offset: 499, PUSHI , Operand: 100
+Offset: 500, PUSHS , Operand: IIsii
+Offset: 501, PUSHI , Operand: 52822110
+Offset: 502, setInterfaceDefinitionScriptParams12 , Operand: 0
+Offset: 503, LOADGINT , Operand: 573
+Offset: 504, PUSHI , Operand: 0
+Offset: 505, IFEQ , Operand: 1
+Offset: 506, GOTO , Operand: 3
+Offset: 507, PUSHS , Operand: There are no class 2 woodcutting locations in the area.
+Offset: 508, STORESTR , Operand: 0
+Offset: 509, GOTO , Operand: 13
+Offset: 510, LOADGINT , Operand: 573
+Offset: 511, PUSHI , Operand: 1
+Offset: 512, IFEQ , Operand: 1
+Offset: 513, GOTO , Operand: 3
+Offset: 514, PUSHS , Operand: There is 1 class 2 woodcutting location in the area.
+Offset: 515, STORESTR , Operand: 0
+Offset: 516, GOTO , Operand: 6
+Offset: 517, PUSHS , Operand: There are 
+Offset: 518, LOADGINT , Operand: 573
+Offset: 519, integerToString , Operand: 0
+Offset: 520, PUSHS , Operand:  class 2 woodcutting locations in the area.
+Offset: 521, CONCAT , Operand: 3
+Offset: 522, STORESTR , Operand: 0
+Offset: 523, PUSHI , Operand: 38
+Offset: 524, PUSHI , Operand: -2147483645
+Offset: 525, PUSHI , Operand: 52822065
+Offset: 526, LOADSTR , Operand: 0
+Offset: 527, PUSHI , Operand: 25
+Offset: 528, PUSHI , Operand: 100
+Offset: 529, PUSHS , Operand: IIsii
+Offset: 530, PUSHI , Operand: 52822077
+Offset: 531, setInterfaceDefinitionScriptParams12 , Operand: 0
+Offset: 532, LOADGINT , Operand: 574
+Offset: 533, PUSHI , Operand: 0
+Offset: 534, IFEQ , Operand: 1
+Offset: 535, GOTO , Operand: 3
+Offset: 536, PUSHS , Operand: There are no class 3 woodcutting locations in the area.
+Offset: 537, STORESTR , Operand: 0
+Offset: 538, GOTO , Operand: 13
+Offset: 539, LOADGINT , Operand: 574
+Offset: 540, PUSHI , Operand: 1
+Offset: 541, IFEQ , Operand: 1
+Offset: 542, GOTO , Operand: 3
+Offset: 543, PUSHS , Operand: There is 1 class 3 woodcutting location in the area.
+Offset: 544, STORESTR , Operand: 0
+Offset: 545, GOTO , Operand: 6
+Offset: 546, PUSHS , Operand: There are 
+Offset: 547, LOADGINT , Operand: 574
+Offset: 548, integerToString , Operand: 0
+Offset: 549, PUSHS , Operand:  class 3 woodcutting locations in the area.
+Offset: 550, CONCAT , Operand: 3
+Offset: 551, STORESTR , Operand: 0
+Offset: 552, PUSHI , Operand: 38
+Offset: 553, PUSHI , Operand: -2147483645
+Offset: 554, PUSHI , Operand: 52822065
+Offset: 555, LOADSTR , Operand: 0
+Offset: 556, PUSHI , Operand: 25
+Offset: 557, PUSHI , Operand: 100
+Offset: 558, PUSHS , Operand: IIsii
+Offset: 559, PUSHI , Operand: 52822081
+Offset: 560, setInterfaceDefinitionScriptParams12 , Operand: 0
+Offset: 561, LOADGINT , Operand: 575
+Offset: 562, PUSHI , Operand: 0
+Offset: 563, IFEQ , Operand: 1
+Offset: 564, GOTO , Operand: 3
+Offset: 565, PUSHS , Operand: There are no class 4 woodcutting locations in the area.
+Offset: 566, STORESTR , Operand: 0
+Offset: 567, GOTO , Operand: 13
+Offset: 568, LOADGINT , Operand: 575
+Offset: 569, PUSHI , Operand: 1
+Offset: 570, IFEQ , Operand: 1
+Offset: 571, GOTO , Operand: 3
+Offset: 572, PUSHS , Operand: There is 1 class 4 woodcutting location in the area.
+Offset: 573, STORESTR , Operand: 0
+Offset: 574, GOTO , Operand: 6
+Offset: 575, PUSHS , Operand: There are 
+Offset: 576, LOADGINT , Operand: 575
+Offset: 577, integerToString , Operand: 0
+Offset: 578, PUSHS , Operand:  class 4 woodcutting locations in the area.
+Offset: 579, CONCAT , Operand: 3
+Offset: 580, STORESTR , Operand: 0
+Offset: 581, PUSHI , Operand: 38
+Offset: 582, PUSHI , Operand: -2147483645
+Offset: 583, PUSHI , Operand: 52822065
+Offset: 584, LOADSTR , Operand: 0
+Offset: 585, PUSHI , Operand: 25
+Offset: 586, PUSHI , Operand: 100
+Offset: 587, PUSHS , Operand: IIsii
+Offset: 588, PUSHI , Operand: 52822085
+Offset: 589, setInterfaceDefinitionScriptParams12 , Operand: 0
+Offset: 590, LOADGINT , Operand: 576
+Offset: 591, PUSHI , Operand: 0
+Offset: 592, IFEQ , Operand: 1
+Offset: 593, GOTO , Operand: 3
+Offset: 594, PUSHS , Operand: There are no class 5 woodcutting locations in the area.
+Offset: 595, STORESTR , Operand: 0
+Offset: 596, GOTO , Operand: 13
+Offset: 597, LOADGINT , Operand: 576
+Offset: 598, PUSHI , Operand: 1
+Offset: 599, IFEQ , Operand: 1
+Offset: 600, GOTO , Operand: 3
+Offset: 601, PUSHS , Operand: There is 1 class 5 woodcutting location in the area.
+Offset: 602, STORESTR , Operand: 0
+Offset: 603, GOTO , Operand: 6
+Offset: 604, PUSHS , Operand: There are 
+Offset: 605, LOADGINT , Operand: 576
+Offset: 606, integerToString , Operand: 0
+Offset: 607, PUSHS , Operand:  class 5 woodcutting locations in the area.
+Offset: 608, CONCAT , Operand: 3
+Offset: 609, STORESTR , Operand: 0
+Offset: 610, PUSHI , Operand: 38
+Offset: 611, PUSHI , Operand: -2147483645
+Offset: 612, PUSHI , Operand: 52822065
+Offset: 613, LOADSTR , Operand: 0
+Offset: 614, PUSHI , Operand: 25
+Offset: 615, PUSHI , Operand: 100
+Offset: 616, PUSHS , Operand: IIsii
+Offset: 617, PUSHI , Operand: 52822089
+Offset: 618, setInterfaceDefinitionScriptParams12 , Operand: 0
+Offset: 619, LOADGINT , Operand: 577
+Offset: 620, PUSHI , Operand: 0
+Offset: 621, IFEQ , Operand: 1
+Offset: 622, GOTO , Operand: 3
+Offset: 623, PUSHS , Operand: There are no class 2 hunting locations in the area.
+Offset: 624, STORESTR , Operand: 0
+Offset: 625, GOTO , Operand: 13
+Offset: 626, LOADGINT , Operand: 577
+Offset: 627, PUSHI , Operand: 1
+Offset: 628, IFEQ , Operand: 1
+Offset: 629, GOTO , Operand: 3
+Offset: 630, PUSHS , Operand: There is 1 class 2 hunting location in the area.
+Offset: 631, STORESTR , Operand: 0
+Offset: 632, GOTO , Operand: 6
+Offset: 633, PUSHS , Operand: There are 
+Offset: 634, LOADGINT , Operand: 577
+Offset: 635, integerToString , Operand: 0
+Offset: 636, PUSHS , Operand:  class 2 hunting locations in the area.
+Offset: 637, CONCAT , Operand: 3
+Offset: 638, STORESTR , Operand: 0
+Offset: 639, PUSHI , Operand: 38
+Offset: 640, PUSHI , Operand: -2147483645
+Offset: 641, PUSHI , Operand: 52822065
+Offset: 642, LOADSTR , Operand: 0
+Offset: 643, PUSHI , Operand: 25
+Offset: 644, PUSHI , Operand: 100
+Offset: 645, PUSHS , Operand: IIsii
+Offset: 646, PUSHI , Operand: 52822119
+Offset: 647, setInterfaceDefinitionScriptParams12 , Operand: 0
+Offset: 648, LOADGINT , Operand: 578
+Offset: 649, PUSHI , Operand: 0
+Offset: 650, IFEQ , Operand: 1
+Offset: 651, GOTO , Operand: 3
+Offset: 652, PUSHS , Operand: There are no class 3 hunting locations in the area.
+Offset: 653, STORESTR , Operand: 0
+Offset: 654, GOTO , Operand: 13
+Offset: 655, LOADGINT , Operand: 578
+Offset: 656, PUSHI , Operand: 1
+Offset: 657, IFEQ , Operand: 1
+Offset: 658, GOTO , Operand: 3
+Offset: 659, PUSHS , Operand: There is 1 class 3 hunting location in the area.
+Offset: 660, STORESTR , Operand: 0
+Offset: 661, GOTO , Operand: 6
+Offset: 662, PUSHS , Operand: There are 
+Offset: 663, LOADGINT , Operand: 578
+Offset: 664, integerToString , Operand: 0
+Offset: 665, PUSHS , Operand:  class 3 hunting locations in the area.
+Offset: 666, CONCAT , Operand: 3
+Offset: 667, STORESTR , Operand: 0
+Offset: 668, PUSHI , Operand: 38
+Offset: 669, PUSHI , Operand: -2147483645
+Offset: 670, PUSHI , Operand: 52822065
+Offset: 671, LOADSTR , Operand: 0
+Offset: 672, PUSHI , Operand: 25
+Offset: 673, PUSHI , Operand: 100
+Offset: 674, PUSHS , Operand: IIsii
+Offset: 675, PUSHI , Operand: 52822123
+Offset: 676, setInterfaceDefinitionScriptParams12 , Operand: 0
+Offset: 677, LOADGINT , Operand: 579
+Offset: 678, PUSHI , Operand: 0
+Offset: 679, IFEQ , Operand: 1
+Offset: 680, GOTO , Operand: 3
+Offset: 681, PUSHS , Operand: There are no class 4 hunting locations in the area.
+Offset: 682, STORESTR , Operand: 0
+Offset: 683, GOTO , Operand: 13
+Offset: 684, LOADGINT , Operand: 579
+Offset: 685, PUSHI , Operand: 1
+Offset: 686, IFEQ , Operand: 1
+Offset: 687, GOTO , Operand: 3
+Offset: 688, PUSHS , Operand: There is 1 class 4 hunting location in the area.
+Offset: 689, STORESTR , Operand: 0
+Offset: 690, GOTO , Operand: 6
+Offset: 691, PUSHS , Operand: There are 
+Offset: 692, LOADGINT , Operand: 579
+Offset: 693, integerToString , Operand: 0
+Offset: 694, PUSHS , Operand:  class 4 hunting locations in the area.
+Offset: 695, CONCAT , Operand: 3
+Offset: 696, STORESTR , Operand: 0
+Offset: 697, PUSHI , Operand: 38
+Offset: 698, PUSHI , Operand: -2147483645
+Offset: 699, PUSHI , Operand: 52822065
+Offset: 700, LOADSTR , Operand: 0
+Offset: 701, PUSHI , Operand: 25
+Offset: 702, PUSHI , Operand: 100
+Offset: 703, PUSHS , Operand: IIsii
+Offset: 704, PUSHI , Operand: 52822127
+Offset: 705, setInterfaceDefinitionScriptParams12 , Operand: 0
+Offset: 706, LOADGINT , Operand: 580
+Offset: 707, PUSHI , Operand: 0
+Offset: 708, IFEQ , Operand: 1
+Offset: 709, GOTO , Operand: 3
+Offset: 710, PUSHS , Operand: There are no class 5 hunting locations in the area.
+Offset: 711, STORESTR , Operand: 0
+Offset: 712, GOTO , Operand: 13
+Offset: 713, LOADGINT , Operand: 580
+Offset: 714, PUSHI , Operand: 1
+Offset: 715, IFEQ , Operand: 1
+Offset: 716, GOTO , Operand: 3
+Offset: 717, PUSHS , Operand: There is 1 class 5 hunting location in the area.
+Offset: 718, STORESTR , Operand: 0
+Offset: 719, GOTO , Operand: 6
+Offset: 720, PUSHS , Operand: There are 
+Offset: 721, LOADGINT , Operand: 580
+Offset: 722, integerToString , Operand: 0
+Offset: 723, PUSHS , Operand:  class 5 hunting locations in the area.
+Offset: 724, CONCAT , Operand: 3
+Offset: 725, STORESTR , Operand: 0
+Offset: 726, PUSHI , Operand: 38
+Offset: 727, PUSHI , Operand: -2147483645
+Offset: 728, PUSHI , Operand: 52822065
+Offset: 729, LOADSTR , Operand: 0
+Offset: 730, PUSHI , Operand: 25
+Offset: 731, PUSHI , Operand: 100
+Offset: 732, PUSHS , Operand: IIsii
+Offset: 733, PUSHI , Operand: 52822131
+Offset: 734, setInterfaceDefinitionScriptParams12 , Operand: 0
+Offset: 735, RETURN , Operand: 0

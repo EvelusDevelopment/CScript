@@ -1,0 +1,57 @@
+================================================
+      Client Script 9 Dumped by SiniSoul    
+      Instruction Size: 46
+      Integer Arguments: 3 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADGINT , Operand: 169
+Offset: 1, PUSHI , Operand: 1
+Offset: 2, IFEQ , Operand: 1
+Offset: 3, GOTO , Operand: 22
+Offset: 4, PUSHI , Operand: 0
+Offset: 5, LOADINT , Operand: 0
+Offset: 6, Unref Method: 2003, Operand: 0
+Offset: 7, PUSHI , Operand: 0
+Offset: 8, LOADINT , Operand: 1
+Offset: 9, Unref Method: 2003, Operand: 0
+Offset: 10, PUSHI , Operand: 0
+Offset: 11, LOADINT , Operand: 2
+Offset: 12, Unref Method: 2003, Operand: 0
+Offset: 13, LOADINT , Operand: 0
+Offset: 14, CALL , Operand: 680
+Offset: 15, PUSHI , Operand: 95
+Offset: 16, LOADINT , Operand: 0
+Offset: 17, PUSHS , Operand: I
+Offset: 18, LOADINT , Operand: 0
+Offset: 19, setInterfaceDefinitionScriptParams3 , Operand: 0
+Offset: 20, PUSHI , Operand: 93
+Offset: 21, LOADINT , Operand: 0
+Offset: 22, PUSHS , Operand: I
+Offset: 23, LOADINT , Operand: 0
+Offset: 24, setInterfaceDefinitionScriptParams4 , Operand: 0
+Offset: 25, GOTO , Operand: 19
+Offset: 26, LOADINT , Operand: 0
+Offset: 27, Unref Method: 102, Operand: 0
+Offset: 28, PUSHI , Operand: 1
+Offset: 29, LOADINT , Operand: 0
+Offset: 30, Unref Method: 2003, Operand: 0
+Offset: 31, PUSHI , Operand: 1
+Offset: 32, LOADINT , Operand: 1
+Offset: 33, Unref Method: 2003, Operand: 0
+Offset: 34, PUSHI , Operand: 1
+Offset: 35, LOADINT , Operand: 2
+Offset: 36, Unref Method: 2003, Operand: 0
+Offset: 37, PUSHI , Operand: -1
+Offset: 38, PUSHS , Operand: 
+Offset: 39, LOADINT , Operand: 0
+Offset: 40, setInterfaceDefinitionScriptParams3 , Operand: 0
+Offset: 41, PUSHI , Operand: -1
+Offset: 42, PUSHS , Operand: 
+Offset: 43, LOADINT , Operand: 0
+Offset: 44, setInterfaceDefinitionScriptParams4 , Operand: 0
+Offset: 45, RETURN , Operand: 0

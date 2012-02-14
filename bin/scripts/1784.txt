@@ -1,0 +1,564 @@
+================================================
+      Client Script 1784 Dumped by SiniSoul    
+      Instruction Size: 544
+      Integer Arguments: 3 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHI , Operand: 0
+Offset: 1, STOREINT , Operand: 0
+Offset: 2, PUSHI , Operand: 51904515
+Offset: 3, Unref Method: 2502, Operand: 0
+Offset: 4, PUSHI , Operand: 16
+Offset: 5, ISUB , Operand: 0
+Offset: 6, STOREINT , Operand: 1
+Offset: 7, PUSHI , Operand: 0
+Offset: 8, STOREINT , Operand: 2
+Offset: 9, PUSHS , Operand: ~ Winning ~
+Offset: 10, LOADINT , Operand: 0
+Offset: 11, LOADINT , Operand: 2
+Offset: 12, LOADINT , Operand: 1
+Offset: 13, PUSHI , Operand: 1
+Offset: 14, CALL , Operand: 1785
+Offset: 15, STOREINT , Operand: 2
+Offset: 16, STOREINT , Operand: 0
+Offset: 17, PUSHS , Operand: Victory is awarded...
+Offset: 18, LOADINT , Operand: 0
+Offset: 19, LOADINT , Operand: 2
+Offset: 20, LOADINT , Operand: 1
+Offset: 21, PUSHI , Operand: 0
+Offset: 22, CALL , Operand: 1785
+Offset: 23, STOREINT , Operand: 2
+Offset: 24, STOREINT , Operand: 0
+Offset: 25, LOADGINT , Operand: 248
+Offset: 26, PUSHI , Operand: 0
+Offset: 27, IFEQ , Operand: 1
+Offset: 28, GOTO , Operand: 9
+Offset: 29, PUSHS , Operand: ...to the team that defeats all its enemies.
+Offset: 30, LOADINT , Operand: 0
+Offset: 31, LOADINT , Operand: 2
+Offset: 32, LOADINT , Operand: 1
+Offset: 33, PUSHI , Operand: 0
+Offset: 34, CALL , Operand: 1785
+Offset: 35, STOREINT , Operand: 2
+Offset: 36, STOREINT , Operand: 0
+Offset: 37, GOTO , Operand: 8
+Offset: 38, PUSHS , Operand: ...to the team that defeats all its enemies, excluding the last five.
+Offset: 39, LOADINT , Operand: 0
+Offset: 40, LOADINT , Operand: 2
+Offset: 41, LOADINT , Operand: 1
+Offset: 42, PUSHI , Operand: 0
+Offset: 43, CALL , Operand: 1785
+Offset: 44, STOREINT , Operand: 2
+Offset: 45, STOREINT , Operand: 0
+Offset: 46, LOADGINT , Operand: 246
+Offset: 47, PUSHI , Operand: 0
+Offset: 48, IFGT , Operand: 1
+Offset: 49, GOTO , Operand: 22
+Offset: 50, LOADGINT , Operand: 246
+Offset: 51, PUSHI , Operand: 15
+Offset: 52, IFLT , Operand: 1
+Offset: 53, GOTO , Operand: 18
+Offset: 54, PUSHS , Operand: OR
+Offset: 55, PUSHS , Operand: <br>
+Offset: 56, PUSHS , Operand: ...to the team that first achieves 
+Offset: 57, PUSHI , Operand: 105
+Offset: 58, PUSHI , Operand: 105
+Offset: 59, PUSHI , Operand: 1605
+Offset: 60, LOADGINT , Operand: 246
+Offset: 61, Unref Method: 3408, Operand: 0
+Offset: 62, integerToString , Operand: 0
+Offset: 63, PUSHS , Operand:  kills.
+Offset: 64, CONCAT , Operand: 5
+Offset: 65, LOADINT , Operand: 0
+Offset: 66, LOADINT , Operand: 2
+Offset: 67, LOADINT , Operand: 1
+Offset: 68, PUSHI , Operand: 0
+Offset: 69, CALL , Operand: 1785
+Offset: 70, STOREINT , Operand: 2
+Offset: 71, STOREINT , Operand: 0
+Offset: 72, LOADGINT , Operand: 247
+Offset: 73, PUSHI , Operand: 0
+Offset: 74, IFGT , Operand: 1
+Offset: 75, GOTO , Operand: 41
+Offset: 76, LOADGINT , Operand: 246
+Offset: 77, PUSHI , Operand: 0
+Offset: 78, IFGT , Operand: 1
+Offset: 79, GOTO , Operand: 19
+Offset: 80, PUSHS , Operand: OR
+Offset: 81, PUSHS , Operand: <br>
+Offset: 82, PUSHS , Operand: ...to the team that scores the most kills 
+Offset: 83, PUSHI , Operand: 105
+Offset: 84, PUSHI , Operand: 105
+Offset: 85, PUSHI , Operand: 1800
+Offset: 86, LOADGINT , Operand: 247
+Offset: 87, Unref Method: 3408, Operand: 0
+Offset: 88, CALL , Operand: 1751
+Offset: 89, PUSHS , Operand: .
+Offset: 90, CONCAT , Operand: 5
+Offset: 91, LOADINT , Operand: 0
+Offset: 92, LOADINT , Operand: 2
+Offset: 93, LOADINT , Operand: 1
+Offset: 94, PUSHI , Operand: 0
+Offset: 95, CALL , Operand: 1785
+Offset: 96, STOREINT , Operand: 2
+Offset: 97, STOREINT , Operand: 0
+Offset: 98, GOTO , Operand: 18
+Offset: 99, PUSHS , Operand: OR
+Offset: 100, PUSHS , Operand: <br>
+Offset: 101, PUSHS , Operand: ...to the team with the most survivors 
+Offset: 102, PUSHI , Operand: 105
+Offset: 103, PUSHI , Operand: 105
+Offset: 104, PUSHI , Operand: 1800
+Offset: 105, LOADGINT , Operand: 247
+Offset: 106, Unref Method: 3408, Operand: 0
+Offset: 107, CALL , Operand: 1751
+Offset: 108, PUSHS , Operand: .
+Offset: 109, CONCAT , Operand: 5
+Offset: 110, LOADINT , Operand: 0
+Offset: 111, LOADINT , Operand: 2
+Offset: 112, LOADINT , Operand: 1
+Offset: 113, PUSHI , Operand: 0
+Offset: 114, CALL , Operand: 1785
+Offset: 115, STOREINT , Operand: 2
+Offset: 116, STOREINT , Operand: 0
+Offset: 117, LOADINT , Operand: 0
+Offset: 118, PUSHI , Operand: 7
+Offset: 119, IADD , Operand: 0
+Offset: 120, STOREINT , Operand: 0
+Offset: 121, LOADGINT , Operand: 246
+Offset: 122, PUSHI , Operand: 0
+Offset: 123, IFEQ , Operand: 1
+Offset: 124, GOTO , Operand: 14
+Offset: 125, PUSHS , Operand: <col=ff981f>
+Offset: 126, PUSHS , Operand: Knock-out mode:
+Offset: 127, PUSHS , Operand: </col>
+Offset: 128, PUSHS , Operand: <br>
+Offset: 129, PUSHS , Operand: Once war has begun, players may no longer join/rejoin the fight.
+Offset: 130, CONCAT , Operand: 5
+Offset: 131, LOADINT , Operand: 0
+Offset: 132, LOADINT , Operand: 2
+Offset: 133, LOADINT , Operand: 1
+Offset: 134, PUSHI , Operand: 0
+Offset: 135, CALL , Operand: 1785
+Offset: 136, STOREINT , Operand: 2
+Offset: 137, STOREINT , Operand: 0
+Offset: 138, GOTO , Operand: 33
+Offset: 139, PUSHS , Operand: <col=ff981f>
+Offset: 140, PUSHS , Operand: Run-in mode:
+Offset: 141, PUSHS , Operand: </col>
+Offset: 142, PUSHS , Operand: <br>
+Offset: 143, PUSHS , Operand: Players may join/rejoin the fight at any time during the war.
+Offset: 144, CONCAT , Operand: 5
+Offset: 145, LOADINT , Operand: 0
+Offset: 146, LOADINT , Operand: 2
+Offset: 147, LOADINT , Operand: 1
+Offset: 148, PUSHI , Operand: 0
+Offset: 149, CALL , Operand: 1785
+Offset: 150, STOREINT , Operand: 2
+Offset: 151, STOREINT , Operand: 0
+Offset: 152, LOADGINT , Operand: 246
+Offset: 153, PUSHI , Operand: 15
+Offset: 154, IFEQ , Operand: 1
+Offset: 155, GOTO , Operand: 16
+Offset: 156, LOADGINT , Operand: 247
+Offset: 157, PUSHI , Operand: 0
+Offset: 158, IFEQ , Operand: 1
+Offset: 159, GOTO , Operand: 12
+Offset: 160, LOADINT , Operand: 0
+Offset: 161, PUSHI , Operand: 7
+Offset: 162, IADD , Operand: 0
+Offset: 163, STOREINT , Operand: 0
+Offset: 164, PUSHS , Operand: This war has no time limit or kill target, so it might go on for ages!
+Offset: 165, LOADINT , Operand: 0
+Offset: 166, LOADINT , Operand: 2
+Offset: 167, LOADINT , Operand: 1
+Offset: 168, PUSHI , Operand: 0
+Offset: 169, CALL , Operand: 1785
+Offset: 170, STOREINT , Operand: 2
+Offset: 171, STOREINT , Operand: 0
+Offset: 172, LOADINT , Operand: 0
+Offset: 173, PUSHI , Operand: 7
+Offset: 174, IADD , Operand: 0
+Offset: 175, STOREINT , Operand: 0
+Offset: 176, PUSHS , Operand: ~ Item loss ~
+Offset: 177, LOADINT , Operand: 0
+Offset: 178, LOADINT , Operand: 2
+Offset: 179, LOADINT , Operand: 1
+Offset: 180, PUSHI , Operand: 1
+Offset: 181, CALL , Operand: 1785
+Offset: 182, STOREINT , Operand: 2
+Offset: 183, STOREINT , Operand: 0
+Offset: 184, LOADGINT , Operand: 249
+Offset: 185, PUSHI , Operand: 0
+Offset: 186, IFEQ , Operand: 1
+Offset: 187, GOTO , Operand: 9
+Offset: 188, PUSHS , Operand: On death, players keep their items.
+Offset: 189, LOADINT , Operand: 0
+Offset: 190, LOADINT , Operand: 2
+Offset: 191, LOADINT , Operand: 1
+Offset: 192, PUSHI , Operand: 0
+Offset: 193, CALL , Operand: 1785
+Offset: 194, STOREINT , Operand: 2
+Offset: 195, STOREINT , Operand: 0
+Offset: 196, GOTO , Operand: 13
+Offset: 197, PUSHS , Operand: <col=ff0000>
+Offset: 198, PUSHS , Operand: On death, players DROP their items.
+Offset: 199, PUSHS , Operand: </col>
+Offset: 200, PUSHS , Operand: <br>
+Offset: 201, PUSHS , Operand: Players may not teleport.
+Offset: 202, CONCAT , Operand: 5
+Offset: 203, LOADINT , Operand: 0
+Offset: 204, LOADINT , Operand: 2
+Offset: 205, LOADINT , Operand: 1
+Offset: 206, PUSHI , Operand: 0
+Offset: 207, CALL , Operand: 1785
+Offset: 208, STOREINT , Operand: 2
+Offset: 209, STOREINT , Operand: 0
+Offset: 210, LOADINT , Operand: 0
+Offset: 211, PUSHI , Operand: 7
+Offset: 212, IADD , Operand: 0
+Offset: 213, STOREINT , Operand: 0
+Offset: 214, PUSHS , Operand: ~ Combat rules ~
+Offset: 215, LOADINT , Operand: 0
+Offset: 216, LOADINT , Operand: 2
+Offset: 217, LOADINT , Operand: 1
+Offset: 218, PUSHI , Operand: 1
+Offset: 219, CALL , Operand: 1785
+Offset: 220, STOREINT , Operand: 2
+Offset: 221, STOREINT , Operand: 0
+Offset: 222, LOADGINT , Operand: 250
+Offset: 223, PUSHI , Operand: 0
+Offset: 224, IFEQ , Operand: 1
+Offset: 225, GOTO , Operand: 9
+Offset: 226, PUSHS , Operand: Melee combat is allowed.
+Offset: 227, LOADINT , Operand: 0
+Offset: 228, LOADINT , Operand: 2
+Offset: 229, LOADINT , Operand: 1
+Offset: 230, PUSHI , Operand: 0
+Offset: 231, CALL , Operand: 1785
+Offset: 232, STOREINT , Operand: 2
+Offset: 233, STOREINT , Operand: 0
+Offset: 234, GOTO , Operand: 12
+Offset: 235, PUSHS , Operand: <col=ff0000>
+Offset: 236, PUSHS , Operand: Melee combat
+Offset: 237, PUSHS , Operand: </col>
+Offset: 238, PUSHS , Operand:  is forbidden.
+Offset: 239, CONCAT , Operand: 4
+Offset: 240, LOADINT , Operand: 0
+Offset: 241, LOADINT , Operand: 2
+Offset: 242, LOADINT , Operand: 1
+Offset: 243, PUSHI , Operand: 0
+Offset: 244, CALL , Operand: 1785
+Offset: 245, STOREINT , Operand: 2
+Offset: 246, STOREINT , Operand: 0
+Offset: 247, LOADGINT , Operand: 252
+Offset: 248, SWITCH , Operand: 0
+Offset: 249, GOTO , Operand: 75
+Offset: 250, PUSHS , Operand: Magical combat is allowed.
+Offset: 251, LOADINT , Operand: 0
+Offset: 252, LOADINT , Operand: 2
+Offset: 253, LOADINT , Operand: 1
+Offset: 254, PUSHI , Operand: 0
+Offset: 255, CALL , Operand: 1785
+Offset: 256, STOREINT , Operand: 2
+Offset: 257, STOREINT , Operand: 0
+Offset: 258, GOTO , Operand: 66
+Offset: 259, PUSHS , Operand: Spells from the 
+Offset: 260, PUSHS , Operand: <col=ff0000>
+Offset: 261, PUSHS , Operand: standard spellbook
+Offset: 262, PUSHS , Operand: </col>
+Offset: 263, PUSHS , Operand:  are allowed.
+Offset: 264, CONCAT , Operand: 5
+Offset: 265, LOADINT , Operand: 0
+Offset: 266, LOADINT , Operand: 2
+Offset: 267, LOADINT , Operand: 1
+Offset: 268, PUSHI , Operand: 0
+Offset: 269, CALL , Operand: 1785
+Offset: 270, STOREINT , Operand: 2
+Offset: 271, STOREINT , Operand: 0
+Offset: 272, GOTO , Operand: 52
+Offset: 273, Unref Method: 3312, Operand: 0
+Offset: 274, PUSHI , Operand: 1
+Offset: 275, IFEQ , Operand: 1
+Offset: 276, GOTO , Operand: 22
+Offset: 277, PUSHS , Operand: The 
+Offset: 278, PUSHS , Operand: <col=ff0000>
+Offset: 279, PUSHS , Operand: Bind
+Offset: 280, PUSHS , Operand: </col>
+Offset: 281, PUSHS , Operand: , 
+Offset: 282, PUSHS , Operand: <col=ff0000>
+Offset: 283, PUSHS , Operand: Snare
+Offset: 284, PUSHS , Operand: </col>
+Offset: 285, PUSHS , Operand:  and 
+Offset: 286, PUSHS , Operand: <col=ff0000>
+Offset: 287, PUSHS , Operand: Entangle
+Offset: 288, PUSHS , Operand: </col>
+Offset: 289, PUSHS , Operand:  spells are allowed.
+Offset: 290, CONCAT , Operand: 13
+Offset: 291, LOADINT , Operand: 0
+Offset: 292, LOADINT , Operand: 2
+Offset: 293, LOADINT , Operand: 1
+Offset: 294, PUSHI , Operand: 0
+Offset: 295, CALL , Operand: 1785
+Offset: 296, STOREINT , Operand: 2
+Offset: 297, STOREINT , Operand: 0
+Offset: 298, GOTO , Operand: 13
+Offset: 299, PUSHS , Operand: The 
+Offset: 300, PUSHS , Operand: <col=ff0000>
+Offset: 301, PUSHS , Operand: Bind
+Offset: 302, PUSHS , Operand: </col>
+Offset: 303, PUSHS , Operand:  spell is allowed.
+Offset: 304, CONCAT , Operand: 5
+Offset: 305, LOADINT , Operand: 0
+Offset: 306, LOADINT , Operand: 2
+Offset: 307, LOADINT , Operand: 1
+Offset: 308, PUSHI , Operand: 0
+Offset: 309, CALL , Operand: 1785
+Offset: 310, STOREINT , Operand: 2
+Offset: 311, STOREINT , Operand: 0
+Offset: 312, GOTO , Operand: 12
+Offset: 313, PUSHS , Operand: <col=ff0000>
+Offset: 314, PUSHS , Operand: Magical combat
+Offset: 315, PUSHS , Operand: </col>
+Offset: 316, PUSHS , Operand:  is forbidden.
+Offset: 317, CONCAT , Operand: 4
+Offset: 318, LOADINT , Operand: 0
+Offset: 319, LOADINT , Operand: 2
+Offset: 320, LOADINT , Operand: 1
+Offset: 321, PUSHI , Operand: 0
+Offset: 322, CALL , Operand: 1785
+Offset: 323, STOREINT , Operand: 2
+Offset: 324, STOREINT , Operand: 0
+Offset: 325, LOADGINT , Operand: 251
+Offset: 326, PUSHI , Operand: 0
+Offset: 327, IFEQ , Operand: 1
+Offset: 328, GOTO , Operand: 9
+Offset: 329, PUSHS , Operand: Ranged combat is allowed.
+Offset: 330, LOADINT , Operand: 0
+Offset: 331, LOADINT , Operand: 2
+Offset: 332, LOADINT , Operand: 1
+Offset: 333, PUSHI , Operand: 0
+Offset: 334, CALL , Operand: 1785
+Offset: 335, STOREINT , Operand: 2
+Offset: 336, STOREINT , Operand: 0
+Offset: 337, GOTO , Operand: 12
+Offset: 338, PUSHS , Operand: <col=ff0000>
+Offset: 339, PUSHS , Operand: Ranged combat
+Offset: 340, PUSHS , Operand: </col>
+Offset: 341, PUSHS , Operand:  is forbidden.
+Offset: 342, CONCAT , Operand: 4
+Offset: 343, LOADINT , Operand: 0
+Offset: 344, LOADINT , Operand: 2
+Offset: 345, LOADINT , Operand: 1
+Offset: 346, PUSHI , Operand: 0
+Offset: 347, CALL , Operand: 1785
+Offset: 348, STOREINT , Operand: 2
+Offset: 349, STOREINT , Operand: 0
+Offset: 350, LOADGINT , Operand: 256
+Offset: 351, PUSHI , Operand: 0
+Offset: 352, IFEQ , Operand: 1
+Offset: 353, GOTO , Operand: 9
+Offset: 354, PUSHS , Operand: Prayer is allowed.
+Offset: 355, LOADINT , Operand: 0
+Offset: 356, LOADINT , Operand: 2
+Offset: 357, LOADINT , Operand: 1
+Offset: 358, PUSHI , Operand: 0
+Offset: 359, CALL , Operand: 1785
+Offset: 360, STOREINT , Operand: 2
+Offset: 361, STOREINT , Operand: 0
+Offset: 362, GOTO , Operand: 12
+Offset: 363, PUSHS , Operand: <col=ff0000>
+Offset: 364, PUSHS , Operand: Prayer
+Offset: 365, PUSHS , Operand: </col>
+Offset: 366, PUSHS , Operand:  is forbidden.
+Offset: 367, CONCAT , Operand: 4
+Offset: 368, LOADINT , Operand: 0
+Offset: 369, LOADINT , Operand: 2
+Offset: 370, LOADINT , Operand: 1
+Offset: 371, PUSHI , Operand: 0
+Offset: 372, CALL , Operand: 1785
+Offset: 373, STOREINT , Operand: 2
+Offset: 374, STOREINT , Operand: 0
+Offset: 375, Unref Method: 3312, Operand: 0
+Offset: 376, PUSHI , Operand: 1
+Offset: 377, IFEQ , Operand: 1
+Offset: 378, GOTO , Operand: 27
+Offset: 379, LOADGINT , Operand: 253
+Offset: 380, PUSHI , Operand: 0
+Offset: 381, IFEQ , Operand: 1
+Offset: 382, GOTO , Operand: 9
+Offset: 383, PUSHS , Operand: Summoning is allowed.
+Offset: 384, LOADINT , Operand: 0
+Offset: 385, LOADINT , Operand: 2
+Offset: 386, LOADINT , Operand: 1
+Offset: 387, PUSHI , Operand: 0
+Offset: 388, CALL , Operand: 1785
+Offset: 389, STOREINT , Operand: 2
+Offset: 390, STOREINT , Operand: 0
+Offset: 391, GOTO , Operand: 14
+Offset: 392, PUSHS , Operand: <col=ff0000>
+Offset: 393, PUSHS , Operand: Summoning
+Offset: 394, PUSHS , Operand: </col>
+Offset: 395, PUSHS , Operand:  is forbidden.
+Offset: 396, PUSHS , Operand: <br>
+Offset: 397, PUSHS , Operand: Familiars will be dismissed.
+Offset: 398, CONCAT , Operand: 6
+Offset: 399, LOADINT , Operand: 0
+Offset: 400, LOADINT , Operand: 2
+Offset: 401, LOADINT , Operand: 1
+Offset: 402, PUSHI , Operand: 0
+Offset: 403, CALL , Operand: 1785
+Offset: 404, STOREINT , Operand: 2
+Offset: 405, STOREINT , Operand: 0
+Offset: 406, LOADGINT , Operand: 254
+Offset: 407, PUSHI , Operand: 0
+Offset: 408, IFEQ , Operand: 1
+Offset: 409, GOTO , Operand: 9
+Offset: 410, PUSHS , Operand: Food is allowed.
+Offset: 411, LOADINT , Operand: 0
+Offset: 412, LOADINT , Operand: 2
+Offset: 413, LOADINT , Operand: 1
+Offset: 414, PUSHI , Operand: 0
+Offset: 415, CALL , Operand: 1785
+Offset: 416, STOREINT , Operand: 2
+Offset: 417, STOREINT , Operand: 0
+Offset: 418, GOTO , Operand: 12
+Offset: 419, PUSHS , Operand: <col=ff0000>
+Offset: 420, PUSHS , Operand: Food
+Offset: 421, PUSHS , Operand: </col>
+Offset: 422, PUSHS , Operand:  is forbidden.
+Offset: 423, CONCAT , Operand: 4
+Offset: 424, LOADINT , Operand: 0
+Offset: 425, LOADINT , Operand: 2
+Offset: 426, LOADINT , Operand: 1
+Offset: 427, PUSHI , Operand: 0
+Offset: 428, CALL , Operand: 1785
+Offset: 429, STOREINT , Operand: 2
+Offset: 430, STOREINT , Operand: 0
+Offset: 431, LOADGINT , Operand: 255
+Offset: 432, PUSHI , Operand: 0
+Offset: 433, IFEQ , Operand: 1
+Offset: 434, GOTO , Operand: 9
+Offset: 435, PUSHS , Operand: Potions are allowed.
+Offset: 436, LOADINT , Operand: 0
+Offset: 437, LOADINT , Operand: 2
+Offset: 438, LOADINT , Operand: 1
+Offset: 439, PUSHI , Operand: 0
+Offset: 440, CALL , Operand: 1785
+Offset: 441, STOREINT , Operand: 2
+Offset: 442, STOREINT , Operand: 0
+Offset: 443, GOTO , Operand: 14
+Offset: 444, PUSHS , Operand: <col=ff0000>
+Offset: 445, PUSHS , Operand: Potions
+Offset: 446, PUSHS , Operand: </col>
+Offset: 447, PUSHS , Operand:  are forbidden.
+Offset: 448, PUSHS , Operand: <br>
+Offset: 449, PUSHS , Operand: Boosted stats will be reset (excluding Prayer boosts).
+Offset: 450, CONCAT , Operand: 6
+Offset: 451, LOADINT , Operand: 0
+Offset: 452, LOADINT , Operand: 2
+Offset: 453, LOADINT , Operand: 1
+Offset: 454, PUSHI , Operand: 0
+Offset: 455, CALL , Operand: 1785
+Offset: 456, STOREINT , Operand: 2
+Offset: 457, STOREINT , Operand: 0
+Offset: 458, LOADINT , Operand: 0
+Offset: 459, PUSHI , Operand: 7
+Offset: 460, IADD , Operand: 0
+Offset: 461, STOREINT , Operand: 0
+Offset: 462, PUSHS , Operand: ~ Arena ~
+Offset: 463, LOADINT , Operand: 0
+Offset: 464, LOADINT , Operand: 2
+Offset: 465, LOADINT , Operand: 1
+Offset: 466, PUSHI , Operand: 1
+Offset: 467, CALL , Operand: 1785
+Offset: 468, STOREINT , Operand: 2
+Offset: 469, STOREINT , Operand: 0
+Offset: 470, PUSHI , Operand: 105
+Offset: 471, PUSHI , Operand: 74
+Offset: 472, PUSHI , Operand: 1604
+Offset: 473, LOADGINT , Operand: 257
+Offset: 474, Unref Method: 3408, Operand: 0
+Offset: 475, PUSHI , Operand: 555
+Offset: 476, Unref Method: 4500, Operand: 0
+Offset: 477, LOADINT , Operand: 0
+Offset: 478, LOADINT , Operand: 2
+Offset: 479, LOADINT , Operand: 1
+Offset: 480, PUSHI , Operand: 0
+Offset: 481, CALL , Operand: 1785
+Offset: 482, STOREINT , Operand: 2
+Offset: 483, STOREINT , Operand: 0
+Offset: 484, LOADINT , Operand: 0
+Offset: 485, PUSHI , Operand: 51904515
+Offset: 486, Unref Method: 2503, Operand: 0
+Offset: 487, IFGT , Operand: 1
+Offset: 488, GOTO , Operand: 35
+Offset: 489, PUSHI , Operand: 0
+Offset: 490, PUSHI , Operand: 51904516
+Offset: 491, Unref Method: 2003, Operand: 0
+Offset: 492, PUSHI , Operand: 7
+Offset: 493, PUSHI , Operand: 46
+Offset: 494, PUSHI , Operand: 0
+Offset: 495, PUSHI , Operand: 0
+Offset: 496, PUSHI , Operand: 51904515
+Offset: 497, Unref Method: 2000, Operand: 0
+Offset: 498, PUSHI , Operand: 0
+Offset: 499, LOADINT , Operand: 0
+Offset: 500, PUSHI , Operand: 51904515
+Offset: 501, Unref Method: 2120, Operand: 0
+Offset: 502, PUSHI , Operand: 51904516
+Offset: 503, PUSHI , Operand: 51904515
+Offset: 504, PUSHI , Operand: 792
+Offset: 505, PUSHI , Operand: 789
+Offset: 506, PUSHI , Operand: 790
+Offset: 507, PUSHI , Operand: 791
+Offset: 508, PUSHI , Operand: 773
+Offset: 509, PUSHI , Operand: 788
+Offset: 510, CALL , Operand: 31
+Offset: 511, PUSHI , Operand: 51904516
+Offset: 512, PUSHI , Operand: 1
+Offset: 513, Unref Method: 200, Operand: 0
+Offset: 514, PUSHI , Operand: 1
+Offset: 515, IFEQ , Operand: 1
+Offset: 516, GOTO , Operand: 6
+Offset: 517, PUSHI , Operand: 51904516
+Offset: 518, PUSHI , Operand: 51904515
+Offset: 519, PUSHI , Operand: 51904515
+Offset: 520, Unref Method: 2601, Operand: 0
+Offset: 521, PUSHI , Operand: 1
+Offset: 522, CALL , Operand: 37
+Offset: 523, GOTO , Operand: 19
+Offset: 524, PUSHI , Operand: 51904516
+Offset: 525, Unref Method: 102, Operand: 0
+Offset: 526, PUSHI , Operand: 1
+Offset: 527, PUSHI , Operand: 51904516
+Offset: 528, Unref Method: 2003, Operand: 0
+Offset: 529, PUSHI , Operand: 15
+Offset: 530, PUSHI , Operand: 46
+Offset: 531, PUSHI , Operand: 0
+Offset: 532, PUSHI , Operand: 0
+Offset: 533, PUSHI , Operand: 51904515
+Offset: 534, Unref Method: 2000, Operand: 0
+Offset: 535, PUSHI , Operand: 0
+Offset: 536, PUSHI , Operand: 0
+Offset: 537, PUSHI , Operand: 51904515
+Offset: 538, Unref Method: 2120, Operand: 0
+Offset: 539, PUSHI , Operand: 0
+Offset: 540, PUSHI , Operand: 0
+Offset: 541, PUSHI , Operand: 51904515
+Offset: 542, Unref Method: 2100, Operand: 0
+Offset: 543, RETURN , Operand: 0
+
+================================================
+                Switch Table 0                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 10
+Key: 2, Value: 24
+Key: 3, Value: 64

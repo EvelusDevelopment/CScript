@@ -1,0 +1,49 @@
+================================================
+      Client Script 200 Dumped by SiniSoul    
+      Instruction Size: 38
+      Integer Arguments: 2 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHI , Operand: 201
+Offset: 1, LOADINT , Operand: 0
+Offset: 2, LOADINT , Operand: 1
+Offset: 3, PUSHS , Operand: II
+Offset: 4, LOADINT , Operand: 0
+Offset: 5, setInterfaceDefinitionScriptParams20 , Operand: 0
+Offset: 6, PUSHI , Operand: 0
+Offset: 7, PUSHI , Operand: 0
+Offset: 8, LOADINT , Operand: 0
+Offset: 9, Unref Method: 2120, Operand: 0
+Offset: 10, PUSHI , Operand: 0
+Offset: 11, PUSHI , Operand: 0
+Offset: 12, LOADINT , Operand: 0
+Offset: 13, Unref Method: 2100, Operand: 0
+Offset: 14, LOADINT , Operand: 1
+Offset: 15, LOADINT , Operand: 0
+Offset: 16, PUSHI , Operand: 792
+Offset: 17, PUSHI , Operand: 789
+Offset: 18, PUSHI , Operand: 790
+Offset: 19, PUSHI , Operand: 791
+Offset: 20, PUSHI , Operand: 773
+Offset: 21, PUSHI , Operand: 788
+Offset: 22, CALL , Operand: 31
+Offset: 23, LOADINT , Operand: 0
+Offset: 24, LOADINT , Operand: 1
+Offset: 25, CALL , Operand: 202
+Offset: 26, Unref Method: 6900, Operand: 0
+Offset: 27, PUSHI , Operand: 1
+Offset: 28, IFEQ , Operand: 1
+Offset: 29, GOTO , Operand: 7
+Offset: 30, PUSHS , Operand: Clan channel:
+Offset: 31, PUSHI , Operand: 38666267
+Offset: 32, Unref Method: 2112, Operand: 0
+Offset: 33, PUSHI , Operand: 1
+Offset: 34, PUSHS , Operand: Enable
+Offset: 35, PUSHI , Operand: 38666262
+Offset: 36, Unref Method: 2300, Operand: 0
+Offset: 37, RETURN , Operand: 0

@@ -1,0 +1,27 @@
+================================================
+      Client Script 1476 Dumped by SiniSoul    
+      Instruction Size: 16
+      Integer Arguments: 1 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, Unref Method: 3300, Operand: 0
+Offset: 1, LOADINT , Operand: 0
+Offset: 2, IFGTEQ , Operand: 1
+Offset: 3, GOTO , Operand: 11
+Offset: 4, LOADGINT , Operand: 5
+Offset: 5, PUSHI , Operand: 11
+Offset: 6, IFEQ , Operand: 1
+Offset: 7, GOTO , Operand: 3
+Offset: 8, LOADGSTR , Operand: 138
+Offset: 9, CALL , Operand: 1479
+Offset: 10, POPI , Operand: 0
+Offset: 11, PUSHI , Operand: -1
+Offset: 12, PUSHS , Operand: 
+Offset: 13, PUSHI , Operand: 49938449
+Offset: 14, setInterfaceDefinitionScriptParams8 , Operand: 0
+Offset: 15, RETURN , Operand: 0

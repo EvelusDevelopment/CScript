@@ -1,0 +1,25 @@
+================================================
+      Client Script 857 Dumped by SiniSoul    
+      Instruction Size: 14
+      Integer Arguments: 0 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHI , Operand: 2605
+Offset: 1, PUSHI , Operand: 1
+Offset: 2, PUSHI , Operand: 0
+Offset: 3, Unref Method: 3200, Operand: 0
+Offset: 4, Unref Opcode: 25, Operand: 4400
+Offset: 5, PUSHI , Operand: 0
+Offset: 6, IFGT , Operand: 1
+Offset: 7, GOTO , Operand: 5
+Offset: 8, Unref Opcode: 25, Operand: 4400
+Offset: 9, PUSHI , Operand: 1
+Offset: 10, ISUB , Operand: 0
+Offset: 11, STOREGINT , Operand: 108
+Offset: 12, CALL , Operand: 861
+Offset: 13, RETURN , Operand: 0

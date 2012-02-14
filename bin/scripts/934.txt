@@ -1,0 +1,88 @@
+================================================
+      Client Script 934 Dumped by SiniSoul    
+      Instruction Size: 66
+      Integer Arguments: 2 
+      String  Arguments: 1 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHS , Operand: 
+Offset: 1, STORESTR , Operand: 0
+Offset: 2, LOADINT , Operand: 0
+Offset: 3, PUSHI , Operand: 742
+Offset: 4, Unref Method: 4208, Operand: 0
+Offset: 5, STOREINT , Operand: 1
+Offset: 6, LOADINT , Operand: 0
+Offset: 7, PUSHI , Operand: 741
+Offset: 8, Unref Method: 4208, Operand: 0
+Offset: 9, SWITCH , Operand: 0
+Offset: 10, GOTO , Operand: 51
+Offset: 11, LOADINT , Operand: 1
+Offset: 12, PUSHI , Operand: 1
+Offset: 13, IFEQ , Operand: 1
+Offset: 14, GOTO , Operand: 3
+Offset: 15, PUSHS , Operand: Rescued 1 dignitary in Recipe for Disaster
+Offset: 16, STORESTR , Operand: 0
+Offset: 17, GOTO , Operand: 6
+Offset: 18, PUSHS , Operand: Rescued 
+Offset: 19, LOADINT , Operand: 1
+Offset: 20, integerToString , Operand: 0
+Offset: 21, PUSHS , Operand:  dignitaries in Recipe for Disaster
+Offset: 22, CONCAT , Operand: 3
+Offset: 23, STORESTR , Operand: 0
+Offset: 24, Unref Opcode: 25, Operand: 1852
+Offset: 25, LOADINT , Operand: 0
+Offset: 26, PUSHI , Operand: 742
+Offset: 27, Unref Method: 4208, Operand: 0
+Offset: 28, LOADSTR , Operand: 0
+Offset: 29, CALL , Operand: 913
+Offset: 30, RETURN , Operand: 0
+Offset: 31, GOTO , Operand: 32
+Offset: 32, Unref Opcode: 25, Operand: 3763
+Offset: 33, PUSHI , Operand: 2
+Offset: 34, PUSHS , Operand: Barbarian spearmaking
+Offset: 35, CALL , Operand: 913
+Offset: 36, RETURN , Operand: 0
+Offset: 37, GOTO , Operand: 26
+Offset: 38, Unref Opcode: 25, Operand: 4310
+Offset: 39, PUSHI , Operand: 10
+Offset: 40, PUSHS , Operand: Complete: Chaos Tunnels
+Offset: 41, CALL , Operand: 913
+Offset: 42, RETURN , Operand: 0
+Offset: 43, GOTO , Operand: 20
+Offset: 44, Unref Opcode: 25, Operand: 1990
+Offset: 45, PUSHI , Operand: 280
+Offset: 46, PUSHS , Operand: Part of quest: In Aid of the Myreque
+Offset: 47, CALL , Operand: 913
+Offset: 48, RETURN , Operand: 0
+Offset: 49, GOTO , Operand: 14
+Offset: 50, Unref Opcode: 25, Operand: 1850
+Offset: 51, PUSHI , Operand: 4
+Offset: 52, PUSHS , Operand: Part of quest: Recipe for Disaster
+Offset: 53, CALL , Operand: 913
+Offset: 54, RETURN , Operand: 0
+Offset: 55, GOTO , Operand: 8
+Offset: 56, Unref Opcode: 25, Operand: 3550
+Offset: 57, PUSHI , Operand: 8
+Offset: 58, PUSHS , Operand: Part of quest: Another Slice of H.A.M.
+Offset: 59, CALL , Operand: 913
+Offset: 60, RETURN , Operand: 0
+Offset: 61, GOTO , Operand: 2
+Offset: 62, PUSHS , Operand: 
+Offset: 63, RETURN , Operand: 0
+Offset: 64, PUSHS , Operand: 
+Offset: 65, RETURN , Operand: 0
+
+================================================
+                Switch Table 0                
+================================================
+
+Key: 1, Value: 1
+Key: 2, Value: 22
+Key: 3, Value: 28
+Key: 4, Value: 34
+Key: 5, Value: 40
+Key: 6, Value: 46

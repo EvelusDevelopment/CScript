@@ -1,0 +1,57 @@
+================================================
+      Client Script 269 Dumped by SiniSoul    
+      Instruction Size: 46
+      Integer Arguments: 1 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHI , Operand: 0
+Offset: 1, STOREINT , Operand: 0
+Offset: 2, LOADGINT , Operand: 1104
+Offset: 3, PUSHI , Operand: 0
+Offset: 4, IFNE , Operand: 1
+Offset: 5, GOTO , Operand: 4
+Offset: 6, LOADINT , Operand: 0
+Offset: 7, PUSHI , Operand: 1
+Offset: 8, IADD , Operand: 0
+Offset: 9, STOREINT , Operand: 0
+Offset: 10, LOADGINT , Operand: 1105
+Offset: 11, PUSHI , Operand: 0
+Offset: 12, IFNE , Operand: 1
+Offset: 13, GOTO , Operand: 4
+Offset: 14, LOADINT , Operand: 0
+Offset: 15, PUSHI , Operand: 1
+Offset: 16, IADD , Operand: 0
+Offset: 17, STOREINT , Operand: 0
+Offset: 18, LOADGINT , Operand: 1106
+Offset: 19, PUSHI , Operand: 0
+Offset: 20, IFNE , Operand: 1
+Offset: 21, GOTO , Operand: 4
+Offset: 22, LOADINT , Operand: 0
+Offset: 23, PUSHI , Operand: 1
+Offset: 24, IADD , Operand: 0
+Offset: 25, STOREINT , Operand: 0
+Offset: 26, LOADGINT , Operand: 1107
+Offset: 27, PUSHI , Operand: 0
+Offset: 28, IFNE , Operand: 1
+Offset: 29, GOTO , Operand: 4
+Offset: 30, LOADINT , Operand: 0
+Offset: 31, PUSHI , Operand: 1
+Offset: 32, IADD , Operand: 0
+Offset: 33, STOREINT , Operand: 0
+Offset: 34, LOADGINT , Operand: 1108
+Offset: 35, PUSHI , Operand: 0
+Offset: 36, IFNE , Operand: 1
+Offset: 37, GOTO , Operand: 4
+Offset: 38, LOADINT , Operand: 0
+Offset: 39, PUSHI , Operand: 1
+Offset: 40, IADD , Operand: 0
+Offset: 41, STOREINT , Operand: 0
+Offset: 42, LOADINT , Operand: 0
+Offset: 43, RETURN , Operand: 0
+Offset: 44, PUSHI , Operand: 0
+Offset: 45, RETURN , Operand: 0

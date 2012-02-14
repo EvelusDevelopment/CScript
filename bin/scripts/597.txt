@@ -1,0 +1,30 @@
+================================================
+      Client Script 597 Dumped by SiniSoul    
+      Instruction Size: 19
+      Integer Arguments: 0 
+      String  Arguments: 1 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHS , Operand: null
+Offset: 1, STORESTR , Operand: 0
+Offset: 2, LOADGINT , Operand: 84
+Offset: 3, PUSHI , Operand: 2147483647
+Offset: 4, IFLT , Operand: 1
+Offset: 5, GOTO , Operand: 12
+Offset: 6, LOADGINT , Operand: 84
+Offset: 7, PUSHI , Operand: 1
+Offset: 8, IADD , Operand: 0
+Offset: 9, STOREGINT , Operand: 84
+Offset: 10, LOADGINT , Operand: 84
+Offset: 11, PUSHS , Operand: ,
+Offset: 12, CALL , Operand: 46
+Offset: 13, STORESTR , Operand: 0
+Offset: 14, LOADSTR , Operand: 0
+Offset: 15, PUSHI , Operand: 6881430
+Offset: 16, Unref Method: 2112, Operand: 0
+Offset: 17, CALL , Operand: 602
+Offset: 18, RETURN , Operand: 0

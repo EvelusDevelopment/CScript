@@ -1,0 +1,59 @@
+================================================
+      Client Script 2077 Dumped by SiniSoul    
+      Instruction Size: 48
+      Integer Arguments: 2 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHI , Operand: 0
+Offset: 1, STOREINT , Operand: 0
+Offset: 2, PUSHI , Operand: 0
+Offset: 3, STOREINT , Operand: 1
+Offset: 4, LOADGINT , Operand: 632
+Offset: 5, PUSHI , Operand: 0
+Offset: 6, IFEQ , Operand: 1
+Offset: 7, GOTO , Operand: 24
+Offset: 8, PUSHI , Operand: 3
+Offset: 9, LOADGINT , Operand: 635
+Offset: 10, ISUB , Operand: 0
+Offset: 11, STOREINT , Operand: 0
+Offset: 12, LOADINT , Operand: 0
+Offset: 13, PUSHI , Operand: 1
+Offset: 14, IFEQ , Operand: 1
+Offset: 15, GOTO , Operand: 8
+Offset: 16, PUSHS , Operand: New game: 
+Offset: 17, LOADINT , Operand: 0
+Offset: 18, integerToString , Operand: 0
+Offset: 19, PUSHS , Operand:  min
+Offset: 20, CONCAT , Operand: 3
+Offset: 21, PUSHI , Operand: 54853641
+Offset: 22, Unref Method: 2112, Operand: 0
+Offset: 23, GOTO , Operand: 7
+Offset: 24, PUSHS , Operand: New game: 
+Offset: 25, LOADINT , Operand: 0
+Offset: 26, integerToString , Operand: 0
+Offset: 27, PUSHS , Operand:  mins
+Offset: 28, CONCAT , Operand: 3
+Offset: 29, PUSHI , Operand: 54853641
+Offset: 30, Unref Method: 2112, Operand: 0
+Offset: 31, GOTO , Operand: 15
+Offset: 32, PUSHI , Operand: 20
+Offset: 33, LOADGINT , Operand: 636
+Offset: 34, ISUB , Operand: 0
+Offset: 35, STOREINT , Operand: 1
+Offset: 36, LOADINT , Operand: 1
+Offset: 37, PUSHI , Operand: 3
+Offset: 38, IADD , Operand: 0
+Offset: 39, STOREINT , Operand: 0
+Offset: 40, PUSHS , Operand: New game: 
+Offset: 41, LOADINT , Operand: 0
+Offset: 42, integerToString , Operand: 0
+Offset: 43, PUSHS , Operand:  mins
+Offset: 44, CONCAT , Operand: 3
+Offset: 45, PUSHI , Operand: 54853641
+Offset: 46, Unref Method: 2112, Operand: 0
+Offset: 47, RETURN , Operand: 0

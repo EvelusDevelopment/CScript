@@ -1,0 +1,24 @@
+================================================
+      Client Script 3231 Dumped by SiniSoul    
+      Instruction Size: 13
+      Integer Arguments: 7 
+      String  Arguments: 3 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADINT , Operand: 0
+Offset: 1, LOADINT , Operand: 1
+Offset: 2, LOADSTR , Operand: 0
+Offset: 3, LOADINT , Operand: 2
+Offset: 4, LOADINT , Operand: 3
+Offset: 5, LOADINT , Operand: 4
+Offset: 6, LOADINT , Operand: 5
+Offset: 7, LOADSTR , Operand: 1
+Offset: 8, LOADINT , Operand: 6
+Offset: 9, LOADSTR , Operand: 2
+Offset: 10, PUSHI , Operand: 1
+Offset: 11, CALL , Operand: 3232
+Offset: 12, RETURN , Operand: 0

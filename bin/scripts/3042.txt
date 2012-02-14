@@ -1,0 +1,19 @@
+================================================
+      Client Script 3042 Dumped by SiniSoul    
+      Instruction Size: 8
+      Integer Arguments: 1 
+      String  Arguments: 1 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADINT , Operand: 0
+Offset: 1, PUSHI , Operand: 1
+Offset: 2, IFEQ , Operand: 1
+Offset: 3, GOTO , Operand: 3
+Offset: 4, LOADSTR , Operand: 0
+Offset: 5, Unref Method: 3608, Operand: 0
+Offset: 6, CALL , Operand: 3037
+Offset: 7, RETURN , Operand: 0

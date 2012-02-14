@@ -1,0 +1,45 @@
+================================================
+      Client Script 671 Dumped by SiniSoul    
+      Instruction Size: 34
+      Integer Arguments: 1 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHI , Operand: 0
+Offset: 1, PUSHI , Operand: 0
+Offset: 2, PUSHI , Operand: 0
+Offset: 3, PUSHI , Operand: 0
+Offset: 4, PUSHI , Operand: 0
+Offset: 5, PUSHI , Operand: -1
+Offset: 6, PUSHI , Operand: 0
+Offset: 7, PUSHI , Operand: 1
+Offset: 8, PUSHI , Operand: 0
+Offset: 9, PUSHI , Operand: 0
+Offset: 10, CALL , Operand: 673
+Offset: 11, PUSHI , Operand: 1
+Offset: 12, STOREINT , Operand: 0
+Offset: 13, LOADINT , Operand: 0
+Offset: 14, PUSHI , Operand: 6
+Offset: 15, IFLT , Operand: 1
+Offset: 16, GOTO , Operand: 16
+Offset: 17, LOADINT , Operand: 0
+Offset: 18, PUSHI , Operand: 0
+Offset: 19, PUSHI , Operand: 0
+Offset: 20, PUSHI , Operand: 0
+Offset: 21, PUSHI , Operand: 0
+Offset: 22, PUSHI , Operand: -1
+Offset: 23, PUSHI , Operand: 0
+Offset: 24, PUSHI , Operand: 1
+Offset: 25, PUSHI , Operand: 0
+Offset: 26, PUSHI , Operand: -1
+Offset: 27, CALL , Operand: 673
+Offset: 28, LOADINT , Operand: 0
+Offset: 29, PUSHI , Operand: 1
+Offset: 30, IADD , Operand: 0
+Offset: 31, STOREINT , Operand: 0
+Offset: 32, GOTO , Operand: -20
+Offset: 33, RETURN , Operand: 0

@@ -1,0 +1,72 @@
+================================================
+      Client Script 396 Dumped by SiniSoul    
+      Instruction Size: 61
+      Integer Arguments: 0 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, Unref Opcode: 25, Operand: 2469
+Offset: 1, integerToString , Operand: 0
+Offset: 2, PUSHI , Operand: 28377099
+Offset: 3, Unref Method: 2112, Operand: 0
+Offset: 4, Unref Opcode: 25, Operand: 2470
+Offset: 5, integerToString , Operand: 0
+Offset: 6, PUSHI , Operand: 28377100
+Offset: 7, Unref Method: 2112, Operand: 0
+Offset: 8, Unref Opcode: 25, Operand: 2471
+Offset: 9, integerToString , Operand: 0
+Offset: 10, PUSHI , Operand: 28377101
+Offset: 11, Unref Method: 2112, Operand: 0
+Offset: 12, Unref Opcode: 25, Operand: 2472
+Offset: 13, integerToString , Operand: 0
+Offset: 14, PUSHI , Operand: 28377102
+Offset: 15, Unref Method: 2112, Operand: 0
+Offset: 16, Unref Opcode: 25, Operand: 2469
+Offset: 17, PUSHI , Operand: 0
+Offset: 18, IFEQ , Operand: 1
+Offset: 19, GOTO , Operand: 4
+Offset: 20, PUSHI , Operand: 16711731
+Offset: 21, PUSHI , Operand: 28377099
+Offset: 22, Unref Method: 2101, Operand: 0
+Offset: 23, GOTO , Operand: 3
+Offset: 24, PUSHI , Operand: 49152
+Offset: 25, PUSHI , Operand: 28377099
+Offset: 26, Unref Method: 2101, Operand: 0
+Offset: 27, Unref Opcode: 25, Operand: 2470
+Offset: 28, PUSHI , Operand: 0
+Offset: 29, IFEQ , Operand: 1
+Offset: 30, GOTO , Operand: 4
+Offset: 31, PUSHI , Operand: 16711731
+Offset: 32, PUSHI , Operand: 28377100
+Offset: 33, Unref Method: 2101, Operand: 0
+Offset: 34, GOTO , Operand: 3
+Offset: 35, PUSHI , Operand: 49152
+Offset: 36, PUSHI , Operand: 28377100
+Offset: 37, Unref Method: 2101, Operand: 0
+Offset: 38, Unref Opcode: 25, Operand: 2471
+Offset: 39, PUSHI , Operand: 0
+Offset: 40, IFEQ , Operand: 1
+Offset: 41, GOTO , Operand: 4
+Offset: 42, PUSHI , Operand: 16711731
+Offset: 43, PUSHI , Operand: 28377101
+Offset: 44, Unref Method: 2101, Operand: 0
+Offset: 45, GOTO , Operand: 3
+Offset: 46, PUSHI , Operand: 49152
+Offset: 47, PUSHI , Operand: 28377101
+Offset: 48, Unref Method: 2101, Operand: 0
+Offset: 49, Unref Opcode: 25, Operand: 2472
+Offset: 50, PUSHI , Operand: 0
+Offset: 51, IFEQ , Operand: 1
+Offset: 52, GOTO , Operand: 4
+Offset: 53, PUSHI , Operand: 16711731
+Offset: 54, PUSHI , Operand: 28377102
+Offset: 55, Unref Method: 2101, Operand: 0
+Offset: 56, GOTO , Operand: 3
+Offset: 57, PUSHI , Operand: 49152
+Offset: 58, PUSHI , Operand: 28377102
+Offset: 59, Unref Method: 2101, Operand: 0
+Offset: 60, RETURN , Operand: 0

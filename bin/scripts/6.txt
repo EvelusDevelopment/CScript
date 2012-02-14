@@ -1,0 +1,116 @@
+================================================
+      Client Script 6 Dumped by SiniSoul    
+      Instruction Size: 105
+      Integer Arguments: 13 
+      String  Arguments: 2 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, Unref Method: 3312, Operand: 0
+Offset: 1, PUSHI , Operand: 0
+Offset: 2, IFEQ , Operand: 1
+Offset: 3, GOTO , Operand: 9
+Offset: 4, LOADINT , Operand: 0
+Offset: 5, PUSHI , Operand: 12648496
+Offset: 6, IFEQ , Operand: 4
+Offset: 7, LOADINT , Operand: 0
+Offset: 8, PUSHI , Operand: 28180518
+Offset: 9, IFEQ , Operand: 1
+Offset: 10, GOTO , Operand: 2
+Offset: 11, PUSHS , Operand: Lumbridge Home Teleport
+Offset: 12, STORESTR , Operand: 0
+Offset: 13, PUSHS , Operand: <col=00ff00>
+Offset: 14, LOADSTR , Operand: 0
+Offset: 15, CONCAT , Operand: 2
+Offset: 16, LOADINT , Operand: 0
+Offset: 17, Unref Method: 2305, Operand: 0
+Offset: 18, LOADINT , Operand: 0
+Offset: 19, LOADINT , Operand: 2
+Offset: 20, LOADINT , Operand: 3
+Offset: 21, LOADINT , Operand: 4
+Offset: 22, LOADINT , Operand: 5
+Offset: 23, LOADINT , Operand: 6
+Offset: 24, LOADINT , Operand: 7
+Offset: 25, LOADINT , Operand: 8
+Offset: 26, LOADINT , Operand: 9
+Offset: 27, LOADINT , Operand: 10
+Offset: 28, LOADINT , Operand: 11
+Offset: 29, LOADINT , Operand: 12
+Offset: 30, CALL , Operand: 21
+Offset: 31, PUSHI , Operand: 10
+Offset: 32, LOADINT , Operand: 0
+Offset: 33, LOADINT , Operand: 1
+Offset: 34, LOADINT , Operand: 4
+Offset: 35, LOADSTR , Operand: 0
+Offset: 36, LOADSTR , Operand: 1
+Offset: 37, LOADINT , Operand: 5
+Offset: 38, LOADINT , Operand: 6
+Offset: 39, LOADINT , Operand: 7
+Offset: 40, LOADINT , Operand: 8
+Offset: 41, LOADINT , Operand: 9
+Offset: 42, LOADINT , Operand: 10
+Offset: 43, LOADINT , Operand: 11
+Offset: 44, LOADINT , Operand: 12
+Offset: 45, PUSHS , Operand: IIissoioioioi
+Offset: 46, LOADINT , Operand: 0
+Offset: 47, setInterfaceDefinitionScriptParams12 , Operand: 0
+Offset: 48, PUSHI , Operand: 11
+Offset: 49, LOADINT , Operand: 1
+Offset: 50, PUSHS , Operand: I
+Offset: 51, LOADINT , Operand: 0
+Offset: 52, setInterfaceDefinitionScriptParams4 , Operand: 0
+Offset: 53, LOADINT , Operand: 0
+Offset: 54, Unref Method: 2800, Operand: 0
+Offset: 55, PUSHI , Operand: 0
+Offset: 56, IFNE , Operand: 1
+Offset: 57, GOTO , Operand: 10
+Offset: 58, PUSHI , Operand: 17
+Offset: 59, LOADINT , Operand: 0
+Offset: 60, PUSHS , Operand: I
+Offset: 61, LOADINT , Operand: 0
+Offset: 62, setInterfaceDefinitionScriptParams16 , Operand: 0
+Offset: 63, PUSHI , Operand: 18
+Offset: 64, LOADINT , Operand: 0
+Offset: 65, PUSHS , Operand: I
+Offset: 66, LOADINT , Operand: 0
+Offset: 67, setInterfaceDefinitionScriptParams6 , Operand: 0
+Offset: 68, PUSHI , Operand: 16
+Offset: 69, LOADINT , Operand: 0
+Offset: 70, LOADINT , Operand: 2
+Offset: 71, LOADINT , Operand: 3
+Offset: 72, LOADINT , Operand: 4
+Offset: 73, LOADINT , Operand: 5
+Offset: 74, LOADINT , Operand: 6
+Offset: 75, LOADINT , Operand: 7
+Offset: 76, LOADINT , Operand: 8
+Offset: 77, LOADINT , Operand: 9
+Offset: 78, LOADINT , Operand: 10
+Offset: 79, LOADINT , Operand: 11
+Offset: 80, LOADINT , Operand: 12
+Offset: 81, PUSHI , Operand: 93
+Offset: 82, PUSHI , Operand: 1
+Offset: 83, PUSHS , Operand: IddioioioioiY
+Offset: 84, LOADINT , Operand: 0
+Offset: 85, setInterfaceDefinitionScriptParams14 , Operand: 0
+Offset: 86, PUSHI , Operand: 16
+Offset: 87, LOADINT , Operand: 0
+Offset: 88, LOADINT , Operand: 2
+Offset: 89, LOADINT , Operand: 3
+Offset: 90, LOADINT , Operand: 4
+Offset: 91, LOADINT , Operand: 5
+Offset: 92, LOADINT , Operand: 6
+Offset: 93, LOADINT , Operand: 7
+Offset: 94, LOADINT , Operand: 8
+Offset: 95, LOADINT , Operand: 9
+Offset: 96, LOADINT , Operand: 10
+Offset: 97, LOADINT , Operand: 11
+Offset: 98, LOADINT , Operand: 12
+Offset: 99, PUSHI , Operand: 6
+Offset: 100, PUSHI , Operand: 1
+Offset: 101, PUSHS , Operand: IddioioioioiY
+Offset: 102, LOADINT , Operand: 0
+Offset: 103, setInterfaceDefinitionScriptParams15 , Operand: 0
+Offset: 104, RETURN , Operand: 0

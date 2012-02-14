@@ -1,0 +1,22 @@
+================================================
+      Client Script 1485 Dumped by SiniSoul    
+      Instruction Size: 11
+      Integer Arguments: 0 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, Unref Opcode: 1, Operand: 115
+Offset: 1, PUSHI , Operand: 0
+Offset: 2, IFEQ , Operand: 1
+Offset: 3, GOTO , Operand: 3
+Offset: 4, PUSHI , Operand: 1
+Offset: 5, Unref Opcode: 2, Operand: 115
+Offset: 6, GOTO , Operand: 2
+Offset: 7, PUSHI , Operand: 0
+Offset: 8, Unref Opcode: 2, Operand: 115
+Offset: 9, CALL , Operand: 1487
+Offset: 10, RETURN , Operand: 0

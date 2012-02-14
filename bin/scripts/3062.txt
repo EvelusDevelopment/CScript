@@ -1,0 +1,101 @@
+================================================
+      Client Script 3062 Dumped by SiniSoul    
+      Instruction Size: 90
+      Integer Arguments: 1 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, Unref Method: 6500, Operand: 0
+Offset: 1, PUSHI , Operand: 0
+Offset: 2, IFEQ , Operand: 1
+Offset: 3, GOTO , Operand: 8
+Offset: 4, PUSHI , Operand: 0
+Offset: 5, CALL , Operand: 3064
+Offset: 6, PUSHI , Operand: 3061
+Offset: 7, LOADINT , Operand: 0
+Offset: 8, PUSHS , Operand: I
+Offset: 9, LOADINT , Operand: 0
+Offset: 10, setInterfaceDefinitionScriptParams8 , Operand: 0
+Offset: 11, RETURN , Operand: 0
+Offset: 12, PUSHI , Operand: 0
+Offset: 13, STOREGINT , Operand: 1322
+Offset: 14, PUSHI , Operand: 1
+Offset: 15, CALL , Operand: 3064
+Offset: 16, PUSHI , Operand: -1
+Offset: 17, PUSHS , Operand: 
+Offset: 18, LOADINT , Operand: 0
+Offset: 19, setInterfaceDefinitionScriptParams8 , Operand: 0
+Offset: 20, CALL , Operand: 3097
+Offset: 21, PUSHI , Operand: -1
+Offset: 22, STOREGINT , Operand: 1100
+Offset: 23, CALL , Operand: 1431
+Offset: 24, PUSHI , Operand: 1
+Offset: 25, IFEQ , Operand: 1
+Offset: 26, GOTO , Operand: 50
+Offset: 27, LOADGINT , Operand: 547
+Offset: 28, PUSHI , Operand: 0
+Offset: 29, IFEQ , Operand: 1
+Offset: 30, GOTO , Operand: 46
+Offset: 31, PUSHI , Operand: 59375722
+Offset: 32, CALL , Operand: 3076
+Offset: 33, PUSHI , Operand: 59375720
+Offset: 34, CALL , Operand: 3074
+Offset: 35, PUSHI , Operand: 59375722
+Offset: 36, CALL , Operand: 3026
+Offset: 37, PUSHI , Operand: 59375720
+Offset: 38, CALL , Operand: 3025
+Offset: 39, PUSHI , Operand: 0
+Offset: 40, PUSHI , Operand: 59375635
+Offset: 41, Unref Method: 2003, Operand: 0
+Offset: 42, PUSHI , Operand: 349
+Offset: 43, PUSHI , Operand: 0
+Offset: 44, Unref Method: 3202, Operand: 0
+Offset: 45, CALL , Operand: 208
+Offset: 46, PUSHI , Operand: 1
+Offset: 47, IFEQ , Operand: 1
+Offset: 48, GOTO , Operand: 14
+Offset: 49, PUSHS , Operand: Bounty World
+Offset: 50, PUSHI , Operand: 59375715
+Offset: 51, Unref Method: 2112, Operand: 0
+Offset: 52, PUSHS , Operand: Warning: This is a Bounty World. Players can attack you throughout the Wilderness.
+Offset: 53, PUSHS , Operand: <br>
+Offset: 54, PUSHS , Operand: <br>
+Offset: 55, PUSHS , Operand: If you die, you may lose all of your items.
+Offset: 56, PUSHS , Operand: <br>
+Offset: 57, PUSHS , Operand: <br>
+Offset: 58, PUSHS , Operand: You have been warned.
+Offset: 59, CONCAT , Operand: 7
+Offset: 60, PUSHI , Operand: 59375716
+Offset: 61, Unref Method: 2112, Operand: 0
+Offset: 62, GOTO , Operand: 13
+Offset: 63, PUSHS , Operand: PvP World
+Offset: 64, PUSHI , Operand: 59375715
+Offset: 65, Unref Method: 2112, Operand: 0
+Offset: 66, PUSHS , Operand: Warning: This is a PvP World. Players can attack you throughout RuneScape.
+Offset: 67, PUSHS , Operand: <br>
+Offset: 68, PUSHS , Operand: <br>
+Offset: 69, PUSHS , Operand: If you die, you may lose all of your items.
+Offset: 70, PUSHS , Operand: <br>
+Offset: 71, PUSHS , Operand: <br>
+Offset: 72, PUSHS , Operand: You have been warned.
+Offset: 73, CONCAT , Operand: 7
+Offset: 74, PUSHI , Operand: 59375716
+Offset: 75, Unref Method: 2112, Operand: 0
+Offset: 76, RETURN , Operand: 0
+Offset: 77, PUSHI , Operand: 0
+Offset: 78, STOREGINT , Operand: 200
+Offset: 79, PUSHI , Operand: 0
+Offset: 80, CALL , Operand: 3064
+Offset: 81, PUSHI , Operand: 0
+Offset: 82, Unref Method: 5612, Operand: 0
+Offset: 83, PUSHI , Operand: 3063
+Offset: 84, LOADINT , Operand: 0
+Offset: 85, Unref Method: 3318, Operand: 0
+Offset: 86, PUSHS , Operand: Ii
+Offset: 87, LOADINT , Operand: 0
+Offset: 88, setInterfaceDefinitionScriptParams8 , Operand: 0
+Offset: 89, RETURN , Operand: 0

@@ -1,0 +1,106 @@
+================================================
+      Client Script 1032 Dumped by SiniSoul    
+      Instruction Size: 95
+      Integer Arguments: 5 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHI , Operand: 0
+Offset: 1, PUSHI , Operand: 0
+Offset: 2, PUSHI , Operand: 10289177
+Offset: 3, Unref Method: 2100, Operand: 0
+Offset: 4, PUSHI , Operand: 10289176
+Offset: 5, Unref Method: 102, Operand: 0
+Offset: 6, PUSHI , Operand: 0
+Offset: 7, PUSHI , Operand: 10289169
+Offset: 8, Unref Method: 2003, Operand: 0
+Offset: 9, PUSHI , Operand: 0
+Offset: 10, PUSHI , Operand: 10289187
+Offset: 11, Unref Method: 2003, Operand: 0
+Offset: 12, PUSHI , Operand: 1028
+Offset: 13, PUSHS , Operand: 
+Offset: 14, PUSHI , Operand: 10289182
+Offset: 15, setInterfaceDefinitionScriptParams0 , Operand: 0
+Offset: 16, PUSHS , Operand: Shortcut keys
+Offset: 17, PUSHI , Operand: 10289182
+Offset: 18, Unref Method: 2112, Operand: 0
+Offset: 19, PUSHI , Operand: 10289175
+Offset: 20, Unref Method: 102, Operand: 0
+Offset: 21, PUSHI , Operand: 10289177
+Offset: 22, Unref Method: 102, Operand: 0
+Offset: 23, PUSHI , Operand: 105
+Offset: 24, PUSHI , Operand: 115
+Offset: 25, LOADINT , Operand: 0
+Offset: 26, LOADINT , Operand: 1
+Offset: 27, Unref Method: 3408, Operand: 0
+Offset: 28, CALL , Operand: 1033
+Offset: 29, PUSHS , Operand: Page 
+Offset: 30, LOADINT , Operand: 1
+Offset: 31, PUSHI , Operand: 1
+Offset: 32, IADD , Operand: 0
+Offset: 33, integerToString , Operand: 0
+Offset: 34, PUSHS , Operand:  of 
+Offset: 35, LOADINT , Operand: 2
+Offset: 36, integerToString , Operand: 0
+Offset: 37, CONCAT , Operand: 4
+Offset: 38, PUSHI , Operand: 10289172
+Offset: 39, Unref Method: 2112, Operand: 0
+Offset: 40, LOADINT , Operand: 1
+Offset: 41, PUSHI , Operand: 1
+Offset: 42, IADD , Operand: 0
+Offset: 43, STOREINT , Operand: 3
+Offset: 44, LOADINT , Operand: 1
+Offset: 45, PUSHI , Operand: 1
+Offset: 46, ISUB , Operand: 0
+Offset: 47, STOREINT , Operand: 4
+Offset: 48, LOADINT , Operand: 1
+Offset: 49, LOADINT , Operand: 2
+Offset: 50, PUSHI , Operand: 1
+Offset: 51, ISUB , Operand: 0
+Offset: 52, IFNE , Operand: 1
+Offset: 53, GOTO , Operand: 11
+Offset: 54, PUSHI , Operand: 784
+Offset: 55, LOADINT , Operand: 0
+Offset: 56, LOADINT , Operand: 3
+Offset: 57, LOADINT , Operand: 2
+Offset: 58, PUSHS , Operand: gii
+Offset: 59, PUSHI , Operand: 10289173
+Offset: 60, setInterfaceDefinitionScriptParams0 , Operand: 0
+Offset: 61, PUSHI , Operand: 0
+Offset: 62, PUSHI , Operand: 10289173
+Offset: 63, Unref Method: 2103, Operand: 0
+Offset: 64, GOTO , Operand: 7
+Offset: 65, PUSHI , Operand: -1
+Offset: 66, PUSHS , Operand: 
+Offset: 67, PUSHI , Operand: 10289173
+Offset: 68, setInterfaceDefinitionScriptParams0 , Operand: 0
+Offset: 69, PUSHI , Operand: 200
+Offset: 70, PUSHI , Operand: 10289173
+Offset: 71, Unref Method: 2103, Operand: 0
+Offset: 72, LOADINT , Operand: 1
+Offset: 73, PUSHI , Operand: 0
+Offset: 74, IFNE , Operand: 1
+Offset: 75, GOTO , Operand: 11
+Offset: 76, PUSHI , Operand: 784
+Offset: 77, LOADINT , Operand: 0
+Offset: 78, LOADINT , Operand: 4
+Offset: 79, LOADINT , Operand: 2
+Offset: 80, PUSHS , Operand: gii
+Offset: 81, PUSHI , Operand: 10289174
+Offset: 82, setInterfaceDefinitionScriptParams0 , Operand: 0
+Offset: 83, PUSHI , Operand: 0
+Offset: 84, PUSHI , Operand: 10289174
+Offset: 85, Unref Method: 2103, Operand: 0
+Offset: 86, GOTO , Operand: 7
+Offset: 87, PUSHI , Operand: -1
+Offset: 88, PUSHS , Operand: 
+Offset: 89, PUSHI , Operand: 10289174
+Offset: 90, setInterfaceDefinitionScriptParams0 , Operand: 0
+Offset: 91, PUSHI , Operand: 200
+Offset: 92, PUSHI , Operand: 10289174
+Offset: 93, Unref Method: 2103, Operand: 0
+Offset: 94, RETURN , Operand: 0

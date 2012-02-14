@@ -1,0 +1,75 @@
+================================================
+      Client Script 2263 Dumped by SiniSoul    
+      Instruction Size: 64
+      Integer Arguments: 2 
+      String  Arguments: 2 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADINT , Operand: 1
+Offset: 1, PUSHI , Operand: 1
+Offset: 2, IFNE , Operand: 1
+Offset: 3, GOTO , Operand: 35
+Offset: 4, PUSHI , Operand: 1
+Offset: 5, PUSHS , Operand: Make 1 
+Offset: 6, LOADSTR , Operand: 1
+Offset: 7, PUSHS , Operand: (
+Offset: 8, LOADINT , Operand: 1
+Offset: 9, integerToString , Operand: 0
+Offset: 10, PUSHS , Operand: ) 
+Offset: 11, CONCAT , Operand: 5
+Offset: 12, LOADINT , Operand: 0
+Offset: 13, Unref Method: 2300, Operand: 0
+Offset: 14, PUSHI , Operand: 2
+Offset: 15, PUSHS , Operand: Make 5 
+Offset: 16, LOADSTR , Operand: 1
+Offset: 17, PUSHS , Operand: (
+Offset: 18, LOADINT , Operand: 1
+Offset: 19, PUSHI , Operand: 5
+Offset: 20, IMUL , Operand: 0
+Offset: 21, integerToString , Operand: 0
+Offset: 22, PUSHS , Operand: )
+Offset: 23, CONCAT , Operand: 5
+Offset: 24, LOADINT , Operand: 0
+Offset: 25, Unref Method: 2300, Operand: 0
+Offset: 26, PUSHI , Operand: 3
+Offset: 27, PUSHS , Operand: Make X 
+Offset: 28, LOADSTR , Operand: 1
+Offset: 29, CONCAT , Operand: 2
+Offset: 30, LOADINT , Operand: 0
+Offset: 31, Unref Method: 2300, Operand: 0
+Offset: 32, PUSHI , Operand: 4
+Offset: 33, PUSHS , Operand: Make All 
+Offset: 34, LOADSTR , Operand: 1
+Offset: 35, CONCAT , Operand: 2
+Offset: 36, LOADINT , Operand: 0
+Offset: 37, Unref Method: 2300, Operand: 0
+Offset: 38, RETURN , Operand: 0
+Offset: 39, PUSHI , Operand: 1
+Offset: 40, PUSHS , Operand: Make 1 
+Offset: 41, LOADSTR , Operand: 0
+Offset: 42, CONCAT , Operand: 2
+Offset: 43, LOADINT , Operand: 0
+Offset: 44, Unref Method: 2300, Operand: 0
+Offset: 45, PUSHI , Operand: 2
+Offset: 46, PUSHS , Operand: Make 5 
+Offset: 47, LOADSTR , Operand: 1
+Offset: 48, CONCAT , Operand: 2
+Offset: 49, LOADINT , Operand: 0
+Offset: 50, Unref Method: 2300, Operand: 0
+Offset: 51, PUSHI , Operand: 3
+Offset: 52, PUSHS , Operand: Make X 
+Offset: 53, LOADSTR , Operand: 1
+Offset: 54, CONCAT , Operand: 2
+Offset: 55, LOADINT , Operand: 0
+Offset: 56, Unref Method: 2300, Operand: 0
+Offset: 57, PUSHI , Operand: 4
+Offset: 58, PUSHS , Operand: Make All 
+Offset: 59, LOADSTR , Operand: 1
+Offset: 60, CONCAT , Operand: 2
+Offset: 61, LOADINT , Operand: 0
+Offset: 62, Unref Method: 2300, Operand: 0
+Offset: 63, RETURN , Operand: 0

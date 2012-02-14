@@ -1,0 +1,47 @@
+================================================
+      Client Script 1804 Dumped by SiniSoul    
+      Instruction Size: 36
+      Integer Arguments: 3 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, Unref Method: 3312, Operand: 0
+Offset: 1, PUSHI , Operand: 1
+Offset: 2, IFEQ , Operand: 1
+Offset: 3, GOTO , Operand: 17
+Offset: 4, LOADINT , Operand: 0
+Offset: 5, LOADINT , Operand: 1
+Offset: 6, LOADINT , Operand: 2
+Offset: 7, PUSHS , Operand: You may choose:
+Offset: 8, PUSHS , Operand: <br>
+Offset: 9, PUSHS , Operand: - Allow all spells
+Offset: 10, PUSHS , Operand: <br>
+Offset: 11, PUSHS , Operand: - Standard spellbook only
+Offset: 12, PUSHS , Operand: <br>
+Offset: 13, PUSHS , Operand: - Bind/Snare/Entangle only
+Offset: 14, PUSHS , Operand: <br>
+Offset: 15, PUSHS , Operand: - No Magic
+Offset: 16, CONCAT , Operand: 9
+Offset: 17, PUSHI , Operand: 25
+Offset: 18, PUSHI , Operand: 250
+Offset: 19, CALL , Operand: 1163
+Offset: 20, GOTO , Operand: 14
+Offset: 21, LOADINT , Operand: 0
+Offset: 22, LOADINT , Operand: 1
+Offset: 23, LOADINT , Operand: 2
+Offset: 24, PUSHS , Operand: You may choose:
+Offset: 25, PUSHS , Operand: <br>
+Offset: 26, PUSHS , Operand: - Standard spellbook
+Offset: 27, PUSHS , Operand: <br>
+Offset: 28, PUSHS , Operand: - Bind only
+Offset: 29, PUSHS , Operand: <br>
+Offset: 30, PUSHS , Operand: - No Magic
+Offset: 31, CONCAT , Operand: 7
+Offset: 32, PUSHI , Operand: 25
+Offset: 33, PUSHI , Operand: 250
+Offset: 34, CALL , Operand: 1163
+Offset: 35, RETURN , Operand: 0

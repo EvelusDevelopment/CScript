@@ -1,0 +1,38 @@
+================================================
+      Client Script 3145 Dumped by SiniSoul    
+      Instruction Size: 27
+      Integer Arguments: 4 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHI , Operand: 1
+Offset: 1, PUSHI , Operand: 59637824
+Offset: 2, Unref Method: 2003, Operand: 0
+Offset: 3, PUSHI , Operand: 1
+Offset: 4, PUSHI , Operand: 59637825
+Offset: 5, Unref Method: 2003, Operand: 0
+Offset: 6, LOADINT , Operand: 1
+Offset: 7, LOADINT , Operand: 2
+Offset: 8, Unref Method: 200, Operand: 0
+Offset: 9, PUSHI , Operand: 1
+Offset: 10, IFEQ , Operand: 1
+Offset: 11, GOTO , Operand: 13
+Offset: 12, Unref Method: 1612, Operand: 0
+Offset: 13, PUSHI , Operand: 1542
+Offset: 14, IFEQ , Operand: 1
+Offset: 15, GOTO , Operand: 3
+Offset: 16, PUSHI , Operand: 1541
+Offset: 17, Unref Method: 1105, Operand: 0
+Offset: 18, GOTO , Operand: 6
+Offset: 19, Unref Method: 1612, Operand: 0
+Offset: 20, PUSHI , Operand: 1546
+Offset: 21, IFEQ , Operand: 1
+Offset: 22, GOTO , Operand: 2
+Offset: 23, PUSHI , Operand: 1545
+Offset: 24, Unref Method: 1105, Operand: 0
+Offset: 25, RETURN , Operand: 0
+Offset: 26, RETURN , Operand: 0

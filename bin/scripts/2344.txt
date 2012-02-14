@@ -1,0 +1,70 @@
+================================================
+      Client Script 2344 Dumped by SiniSoul    
+      Instruction Size: 50
+      Integer Arguments: 0 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADGINT , Operand: 770
+Offset: 1, PUSHI , Operand: 0
+Offset: 2, Unref Method: 5407, Operand: 0
+Offset: 3, IFLT , Operand: 1
+Offset: 4, GOTO , Operand: 42
+Offset: 5, LOADGINT , Operand: 770
+Offset: 6, PUSHI , Operand: 1
+Offset: 7, IADD , Operand: 0
+Offset: 8, STOREGINT , Operand: 770
+Offset: 9, LOADGINT , Operand: 770
+Offset: 10, SWITCH , Operand: 0
+Offset: 11, PUSHI , Operand: -1
+Offset: 12, PUSHS , Operand: 
+Offset: 13, PUSHI , Operand: 36569088
+Offset: 14, setInterfaceDefinitionScriptParams26 , Operand: 0
+Offset: 15, PUSHI , Operand: 0
+Offset: 16, LOADGINT , Operand: 770
+Offset: 17, PUSHI , Operand: 900
+Offset: 18, PUSHI , Operand: 500
+Offset: 19, PUSHI , Operand: 1
+Offset: 20, LOADGINT , Operand: 770
+Offset: 21, Unref Method: 5502, Operand: 0
+Offset: 22, GOTO , Operand: 23
+Offset: 23, PUSHI , Operand: 2344
+Offset: 24, PUSHS , Operand: 
+Offset: 25, PUSHI , Operand: 36569088
+Offset: 26, setInterfaceDefinitionScriptParams26 , Operand: 0
+Offset: 27, PUSHI , Operand: 0
+Offset: 28, LOADGINT , Operand: 770
+Offset: 29, PUSHI , Operand: 900
+Offset: 30, PUSHI , Operand: 900
+Offset: 31, PUSHI , Operand: 1
+Offset: 32, LOADGINT , Operand: 770
+Offset: 33, Unref Method: 5502, Operand: 0
+Offset: 34, GOTO , Operand: 11
+Offset: 35, PUSHI , Operand: -1
+Offset: 36, PUSHS , Operand: 
+Offset: 37, PUSHI , Operand: 36569088
+Offset: 38, setInterfaceDefinitionScriptParams26 , Operand: 0
+Offset: 39, PUSHI , Operand: 0
+Offset: 40, LOADGINT , Operand: 770
+Offset: 41, PUSHI , Operand: 900
+Offset: 42, PUSHI , Operand: 100
+Offset: 43, PUSHI , Operand: 1
+Offset: 44, LOADGINT , Operand: 770
+Offset: 45, Unref Method: 5502, Operand: 0
+Offset: 46, GOTO , Operand: 2
+Offset: 47, PUSHI , Operand: 0
+Offset: 48, STOREGINT , Operand: 770
+Offset: 49, RETURN , Operand: 0
+
+================================================
+                Switch Table 0                
+================================================
+
+Key: 9, Value: 12
+Key: 10, Value: 12
+Key: 11, Value: 12
+Key: 12, Value: 24

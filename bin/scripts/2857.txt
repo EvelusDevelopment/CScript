@@ -1,0 +1,38 @@
+================================================
+      Client Script 2857 Dumped by SiniSoul    
+      Instruction Size: 27
+      Integer Arguments: 0 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADGINT , Operand: 1070
+Offset: 1, PUSHI , Operand: -1
+Offset: 2, PUSHI , Operand: 0
+Offset: 3, PUSHI , Operand: 0
+Offset: 4, Unref Method: 3336, Operand: 0
+Offset: 5, CALL , Operand: 2869
+Offset: 6, PUSHI , Operand: 1
+Offset: 7, IFEQ , Operand: 1
+Offset: 8, GOTO , Operand: 1
+Offset: 9, RETURN , Operand: 0
+Offset: 10, Unref Method: 3308, Operand: 0
+Offset: 11, LOADGINT , Operand: 1070
+Offset: 12, PUSHI , Operand: -1
+Offset: 13, PUSHI , Operand: 0
+Offset: 14, PUSHI , Operand: 0
+Offset: 15, Unref Method: 3336, Operand: 0
+Offset: 16, CALL , Operand: 2866
+Offset: 17, PUSHI , Operand: 31
+Offset: 18, IFLT , Operand: 1
+Offset: 19, GOTO , Operand: 6
+Offset: 20, LOADGINT , Operand: 1070
+Offset: 21, PUSHI , Operand: -1
+Offset: 22, PUSHI , Operand: 0
+Offset: 23, PUSHI , Operand: 0
+Offset: 24, Unref Method: 3336, Operand: 0
+Offset: 25, STOREGINT , Operand: 1070
+Offset: 26, RETURN , Operand: 0

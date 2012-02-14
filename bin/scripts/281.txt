@@ -1,0 +1,282 @@
+================================================
+      Client Script 281 Dumped by SiniSoul    
+      Instruction Size: 230
+      Integer Arguments: 0 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADGINT , Operand: 1118
+Offset: 1, LOADGINT , Operand: 1119
+Offset: 2, PUSHI , Operand: 60620867
+Offset: 3, Unref Method: 2200, Operand: 0
+Offset: 4, LOADGINT , Operand: 1118
+Offset: 5, Unref Method: 4200, Operand: 0
+Offset: 6, PUSHI , Operand: 60620867
+Offset: 7, Unref Method: 2305, Operand: 0
+Offset: 8, LOADGINT , Operand: 1120
+Offset: 9, LOADGINT , Operand: 1121
+Offset: 10, PUSHI , Operand: 60620868
+Offset: 11, Unref Method: 2200, Operand: 0
+Offset: 12, LOADGINT , Operand: 1120
+Offset: 13, Unref Method: 4200, Operand: 0
+Offset: 14, PUSHI , Operand: 60620868
+Offset: 15, Unref Method: 2305, Operand: 0
+Offset: 16, Unref Opcode: 25, Operand: 7295
+Offset: 17, integerToString , Operand: 0
+Offset: 18, PUSHI , Operand: 60620877
+Offset: 19, Unref Method: 2112, Operand: 0
+Offset: 20, LOADGINT , Operand: 1118
+Offset: 21, SWITCH , Operand: 0
+Offset: 22, GOTO , Operand: 40
+Offset: 23, PUSHS , Operand: Shark
+Offset: 24, PUSHI , Operand: 60620852
+Offset: 25, Unref Method: 2112, Operand: 0
+Offset: 26, GOTO , Operand: 39
+Offset: 27, PUSHS , Operand: Swordfish
+Offset: 28, PUSHI , Operand: 60620852
+Offset: 29, Unref Method: 2112, Operand: 0
+Offset: 30, GOTO , Operand: 35
+Offset: 31, PUSHS , Operand: Lobster
+Offset: 32, PUSHI , Operand: 60620852
+Offset: 33, Unref Method: 2112, Operand: 0
+Offset: 34, GOTO , Operand: 31
+Offset: 35, PUSHS , Operand: Tuna
+Offset: 36, PUSHI , Operand: 60620852
+Offset: 37, Unref Method: 2112, Operand: 0
+Offset: 38, GOTO , Operand: 27
+Offset: 39, PUSHS , Operand: Salmon
+Offset: 40, PUSHI , Operand: 60620852
+Offset: 41, Unref Method: 2112, Operand: 0
+Offset: 42, GOTO , Operand: 23
+Offset: 43, PUSHS , Operand: Pike
+Offset: 44, PUSHI , Operand: 60620852
+Offset: 45, Unref Method: 2112, Operand: 0
+Offset: 46, GOTO , Operand: 19
+Offset: 47, PUSHS , Operand: Trout
+Offset: 48, PUSHI , Operand: 60620852
+Offset: 49, Unref Method: 2112, Operand: 0
+Offset: 50, GOTO , Operand: 15
+Offset: 51, PUSHS , Operand: Herring
+Offset: 52, PUSHI , Operand: 60620852
+Offset: 53, Unref Method: 2112, Operand: 0
+Offset: 54, GOTO , Operand: 11
+Offset: 55, PUSHS , Operand: Sardine
+Offset: 56, PUSHI , Operand: 60620852
+Offset: 57, Unref Method: 2112, Operand: 0
+Offset: 58, GOTO , Operand: 7
+Offset: 59, PUSHS , Operand: Shrimp
+Offset: 60, PUSHI , Operand: 60620852
+Offset: 61, Unref Method: 2112, Operand: 0
+Offset: 62, GOTO , Operand: 3
+Offset: 63, PUSHS , Operand: 
+Offset: 64, PUSHI , Operand: 60620852
+Offset: 65, Unref Method: 2112, Operand: 0
+Offset: 66, LOADGINT , Operand: 1120
+Offset: 67, SWITCH , Operand: 1
+Offset: 68, GOTO , Operand: 40
+Offset: 69, PUSHS , Operand: Shark
+Offset: 70, PUSHI , Operand: 60620853
+Offset: 71, Unref Method: 2112, Operand: 0
+Offset: 72, GOTO , Operand: 39
+Offset: 73, PUSHS , Operand: Swordfish
+Offset: 74, PUSHI , Operand: 60620853
+Offset: 75, Unref Method: 2112, Operand: 0
+Offset: 76, GOTO , Operand: 35
+Offset: 77, PUSHS , Operand: Lobster
+Offset: 78, PUSHI , Operand: 60620853
+Offset: 79, Unref Method: 2112, Operand: 0
+Offset: 80, GOTO , Operand: 31
+Offset: 81, PUSHS , Operand: Tuna
+Offset: 82, PUSHI , Operand: 60620853
+Offset: 83, Unref Method: 2112, Operand: 0
+Offset: 84, GOTO , Operand: 27
+Offset: 85, PUSHS , Operand: Salmon
+Offset: 86, PUSHI , Operand: 60620853
+Offset: 87, Unref Method: 2112, Operand: 0
+Offset: 88, GOTO , Operand: 23
+Offset: 89, PUSHS , Operand: Pike
+Offset: 90, PUSHI , Operand: 60620853
+Offset: 91, Unref Method: 2112, Operand: 0
+Offset: 92, GOTO , Operand: 19
+Offset: 93, PUSHS , Operand: Trout
+Offset: 94, PUSHI , Operand: 60620853
+Offset: 95, Unref Method: 2112, Operand: 0
+Offset: 96, GOTO , Operand: 15
+Offset: 97, PUSHS , Operand: Herring
+Offset: 98, PUSHI , Operand: 60620853
+Offset: 99, Unref Method: 2112, Operand: 0
+Offset: 100, GOTO , Operand: 11
+Offset: 101, PUSHS , Operand: Sardine
+Offset: 102, PUSHI , Operand: 60620853
+Offset: 103, Unref Method: 2112, Operand: 0
+Offset: 104, GOTO , Operand: 7
+Offset: 105, PUSHS , Operand: Shrimp
+Offset: 106, PUSHI , Operand: 60620853
+Offset: 107, Unref Method: 2112, Operand: 0
+Offset: 108, GOTO , Operand: 3
+Offset: 109, PUSHS , Operand: 
+Offset: 110, PUSHI , Operand: 60620853
+Offset: 111, Unref Method: 2112, Operand: 0
+Offset: 112, Unref Opcode: 25, Operand: 7306
+Offset: 113, SWITCH , Operand: 2
+Offset: 114, GOTO , Operand: 105
+Offset: 115, PUSHS , Operand: Cost: 
+Offset: 116, PUSHI , Operand: 110
+Offset: 117, integerToString , Operand: 0
+Offset: 118, PUSHS , Operand:  tokens
+Offset: 119, CONCAT , Operand: 3
+Offset: 120, PUSHI , Operand: 60620825
+Offset: 121, Unref Method: 2112, Operand: 0
+Offset: 122, PUSHS , Operand: (Requires 
+Offset: 123, PUSHI , Operand: 20
+Offset: 124, integerToString , Operand: 0
+Offset: 125, PUSHS , Operand:  medals)
+Offset: 126, CONCAT , Operand: 3
+Offset: 127, PUSHI , Operand: 60620826
+Offset: 128, Unref Method: 2112, Operand: 0
+Offset: 129, PUSHI , Operand: 15666
+Offset: 130, PUSHI , Operand: -1
+Offset: 131, PUSHI , Operand: 60620841
+Offset: 132, Unref Method: 2200, Operand: 0
+Offset: 133, GOTO , Operand: 86
+Offset: 134, PUSHS , Operand: Cost: 
+Offset: 135, PUSHI , Operand: 230
+Offset: 136, integerToString , Operand: 0
+Offset: 137, PUSHS , Operand:  tokens
+Offset: 138, CONCAT , Operand: 3
+Offset: 139, PUSHI , Operand: 60620825
+Offset: 140, Unref Method: 2112, Operand: 0
+Offset: 141, PUSHS , Operand: (Requires 
+Offset: 142, PUSHI , Operand: 50
+Offset: 143, integerToString , Operand: 0
+Offset: 144, PUSHS , Operand:  medals)
+Offset: 145, CONCAT , Operand: 3
+Offset: 146, PUSHI , Operand: 60620826
+Offset: 147, Unref Method: 2112, Operand: 0
+Offset: 148, PUSHI , Operand: 15667
+Offset: 149, PUSHI , Operand: -1
+Offset: 150, PUSHI , Operand: 60620841
+Offset: 151, Unref Method: 2200, Operand: 0
+Offset: 152, GOTO , Operand: 67
+Offset: 153, PUSHS , Operand: Cost: 
+Offset: 154, PUSHI , Operand: 470
+Offset: 155, integerToString , Operand: 0
+Offset: 156, PUSHS , Operand:  tokens
+Offset: 157, CONCAT , Operand: 3
+Offset: 158, PUSHI , Operand: 60620825
+Offset: 159, Unref Method: 2112, Operand: 0
+Offset: 160, PUSHS , Operand: (Requires 
+Offset: 161, PUSHI , Operand: 110
+Offset: 162, integerToString , Operand: 0
+Offset: 163, PUSHS , Operand:  medals)
+Offset: 164, CONCAT , Operand: 3
+Offset: 165, PUSHI , Operand: 60620826
+Offset: 166, Unref Method: 2112, Operand: 0
+Offset: 167, PUSHI , Operand: 15668
+Offset: 168, PUSHI , Operand: -1
+Offset: 169, PUSHI , Operand: 60620841
+Offset: 170, Unref Method: 2200, Operand: 0
+Offset: 171, GOTO , Operand: 48
+Offset: 172, PUSHS , Operand: Cost: 
+Offset: 173, PUSHI , Operand: 900
+Offset: 174, integerToString , Operand: 0
+Offset: 175, PUSHS , Operand:  tokens
+Offset: 176, CONCAT , Operand: 3
+Offset: 177, PUSHI , Operand: 60620825
+Offset: 178, Unref Method: 2112, Operand: 0
+Offset: 179, PUSHS , Operand: (Requires 
+Offset: 180, PUSHI , Operand: 230
+Offset: 181, integerToString , Operand: 0
+Offset: 182, PUSHS , Operand:  medals)
+Offset: 183, CONCAT , Operand: 3
+Offset: 184, PUSHI , Operand: 60620826
+Offset: 185, Unref Method: 2112, Operand: 0
+Offset: 186, PUSHI , Operand: 15669
+Offset: 187, PUSHI , Operand: -1
+Offset: 188, PUSHI , Operand: 60620841
+Offset: 189, Unref Method: 2200, Operand: 0
+Offset: 190, GOTO , Operand: 29
+Offset: 191, PUSHS , Operand: Cost: 
+Offset: 192, PUSHI , Operand: 1860
+Offset: 193, integerToString , Operand: 0
+Offset: 194, PUSHS , Operand:  tokens
+Offset: 195, CONCAT , Operand: 3
+Offset: 196, PUSHI , Operand: 60620825
+Offset: 197, Unref Method: 2112, Operand: 0
+Offset: 198, PUSHS , Operand: (Requires 
+Offset: 199, PUSHI , Operand: 500
+Offset: 200, integerToString , Operand: 0
+Offset: 201, PUSHS , Operand:  medals)
+Offset: 202, CONCAT , Operand: 3
+Offset: 203, PUSHI , Operand: 60620826
+Offset: 204, Unref Method: 2112, Operand: 0
+Offset: 205, PUSHI , Operand: 15669
+Offset: 206, PUSHI , Operand: -1
+Offset: 207, PUSHI , Operand: 60620841
+Offset: 208, Unref Method: 2200, Operand: 0
+Offset: 209, GOTO , Operand: 10
+Offset: 210, PUSHS , Operand: You already own the best tackle box available.
+Offset: 211, PUSHI , Operand: 60620825
+Offset: 212, Unref Method: 2112, Operand: 0
+Offset: 213, PUSHS , Operand: (Unavailable)
+Offset: 214, PUSHI , Operand: 60620826
+Offset: 215, Unref Method: 2112, Operand: 0
+Offset: 216, PUSHI , Operand: -1
+Offset: 217, PUSHI , Operand: -1
+Offset: 218, PUSHI , Operand: 60620841
+Offset: 219, Unref Method: 2200, Operand: 0
+Offset: 220, PUSHI , Operand: 0
+Offset: 221, PUSHI , Operand: 0
+Offset: 222, PUSHI , Operand: 250
+Offset: 223, PUSHI , Operand: 1666
+Offset: 224, PUSHI , Operand: 0
+Offset: 225, PUSHI , Operand: 1440
+Offset: 226, PUSHI , Operand: 60620841
+Offset: 227, Unref Method: 2109, Operand: 0
+Offset: 228, RETURN , Operand: 0
+Offset: 229, RETURN , Operand: 0
+
+================================================
+                Switch Table 0                
+================================================
+
+Key: 372, Value: 5
+Key: 336, Value: 25
+Key: 350, Value: 21
+Key: 332, Value: 17
+Key: 384, Value: 1
+Key: 360, Value: 13
+Key: 346, Value: 29
+Key: 328, Value: 33
+Key: 318, Value: 37
+Key: 378, Value: 9
+
+================================================
+                Switch Table 1                
+================================================
+
+Key: 372, Value: 5
+Key: 336, Value: 25
+Key: 350, Value: 21
+Key: 332, Value: 17
+Key: 384, Value: 1
+Key: 360, Value: 13
+Key: 346, Value: 29
+Key: 328, Value: 33
+Key: 318, Value: 37
+Key: 378, Value: 9
+
+================================================
+                Switch Table 2                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 20
+Key: 2, Value: 39
+Key: 3, Value: 58
+Key: 4, Value: 77
+Key: 5, Value: 96

@@ -1,0 +1,205 @@
+================================================
+      Client Script 713 Dumped by SiniSoul    
+      Instruction Size: 194
+      Integer Arguments: 8 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHI , Operand: 541
+Offset: 1, PUSHI , Operand: 0
+Offset: 2, Unref Method: 3301, Operand: 0
+Offset: 3, STOREINT , Operand: 7
+Offset: 4, LOADINT , Operand: 7
+Offset: 5, PUSHI , Operand: -1
+Offset: 6, IFNE , Operand: 1
+Offset: 7, GOTO , Operand: 87
+Offset: 8, LOADINT , Operand: 7
+Offset: 9, PUSHI , Operand: 1
+Offset: 10, LOADINT , Operand: 1
+Offset: 11, Unref Method: 2205, Operand: 0
+Offset: 12, PUSHI , Operand: 1
+Offset: 13, LOADINT , Operand: 1
+Offset: 14, Unref Method: 2116, Operand: 0
+Offset: 15, PUSHI , Operand: 3355443
+Offset: 16, LOADINT , Operand: 1
+Offset: 17, Unref Method: 2117, Operand: 0
+Offset: 18, PUSHI , Operand: 1
+Offset: 19, PUSHS , Operand: Remove
+Offset: 20, LOADINT , Operand: 1
+Offset: 21, Unref Method: 2300, Operand: 0
+Offset: 22, PUSHI , Operand: 10
+Offset: 23, PUSHS , Operand: Examine
+Offset: 24, LOADINT , Operand: 1
+Offset: 25, Unref Method: 2300, Operand: 0
+Offset: 26, PUSHS , Operand: <col=ff9040>
+Offset: 27, LOADINT , Operand: 7
+Offset: 28, Unref Method: 4200, Operand: 0
+Offset: 29, PUSHS , Operand: </col>
+Offset: 30, CONCAT , Operand: 3
+Offset: 31, LOADINT , Operand: 1
+Offset: 32, Unref Method: 2305, Operand: 0
+Offset: 33, Unref Opcode: 25, Operand: 5026
+Offset: 34, PUSHI , Operand: 0
+Offset: 35, IFEQ , Operand: 1
+Offset: 36, GOTO , Operand: 17
+Offset: 37, PUSHS , Operand: <col=ff0000>
+Offset: 38, PUSHS , Operand: Until
+Offset: 39, PUSHS , Operand: </col>
+Offset: 40, PUSHS , Operand: <br>
+Offset: 41, PUSHS , Operand: <col=ff0000>
+Offset: 42, PUSHS , Operand: logout
+Offset: 43, PUSHS , Operand: </col>
+Offset: 44, CONCAT , Operand: 7
+Offset: 45, LOADINT , Operand: 2
+Offset: 46, Unref Method: 2112, Operand: 0
+Offset: 47, LOADINT , Operand: 2
+Offset: 48, Unref Method: 2307, Operand: 0
+Offset: 49, PUSHI , Operand: 2
+Offset: 50, PUSHS , Operand: Specify
+Offset: 51, LOADINT , Operand: 2
+Offset: 52, Unref Method: 2300, Operand: 0
+Offset: 53, GOTO , Operand: 22
+Offset: 54, Unref Opcode: 25, Operand: 5026
+Offset: 55, PUSHI , Operand: 1
+Offset: 56, IFEQ , Operand: 1
+Offset: 57, GOTO , Operand: 4
+Offset: 58, PUSHS , Operand: 1 hour
+Offset: 59, LOADINT , Operand: 2
+Offset: 60, Unref Method: 2112, Operand: 0
+Offset: 61, GOTO , Operand: 6
+Offset: 62, Unref Opcode: 25, Operand: 5026
+Offset: 63, integerToString , Operand: 0
+Offset: 64, PUSHS , Operand:  hours
+Offset: 65, CONCAT , Operand: 2
+Offset: 66, LOADINT , Operand: 2
+Offset: 67, Unref Method: 2112, Operand: 0
+Offset: 68, PUSHI , Operand: 1
+Offset: 69, PUSHS , Operand: 'Until logout'
+Offset: 70, LOADINT , Operand: 2
+Offset: 71, Unref Method: 2300, Operand: 0
+Offset: 72, PUSHI , Operand: 2
+Offset: 73, PUSHS , Operand: Edit
+Offset: 74, LOADINT , Operand: 2
+Offset: 75, Unref Method: 2300, Operand: 0
+Offset: 76, PUSHS , Operand: <col=ff9040>
+Offset: 77, PUSHS , Operand: Duration
+Offset: 78, PUSHS , Operand: </col>
+Offset: 79, CONCAT , Operand: 3
+Offset: 80, LOADINT , Operand: 2
+Offset: 81, Unref Method: 2305, Operand: 0
+Offset: 82, LOADINT , Operand: 3
+Offset: 83, CALL , Operand: 679
+Offset: 84, PUSHI , Operand: 94
+Offset: 85, LOADINT , Operand: 3
+Offset: 86, PUSHS , Operand: I
+Offset: 87, LOADINT , Operand: 3
+Offset: 88, setInterfaceDefinitionScriptParams12 , Operand: 0
+Offset: 89, PUSHI , Operand: 92
+Offset: 90, LOADINT , Operand: 3
+Offset: 91, PUSHS , Operand: I
+Offset: 92, LOADINT , Operand: 3
+Offset: 93, setInterfaceDefinitionScriptParams4 , Operand: 0
+Offset: 94, GOTO , Operand: 27
+Offset: 95, PUSHI , Operand: -1
+Offset: 96, PUSHI , Operand: 0
+Offset: 97, LOADINT , Operand: 1
+Offset: 98, Unref Method: 2205, Operand: 0
+Offset: 99, PUSHS , Operand: 
+Offset: 100, LOADINT , Operand: 2
+Offset: 101, Unref Method: 2112, Operand: 0
+Offset: 102, LOADINT , Operand: 1
+Offset: 103, Unref Method: 2307, Operand: 0
+Offset: 104, LOADINT , Operand: 2
+Offset: 105, Unref Method: 2307, Operand: 0
+Offset: 106, PUSHS , Operand: 
+Offset: 107, LOADINT , Operand: 1
+Offset: 108, Unref Method: 2305, Operand: 0
+Offset: 109, PUSHS , Operand: 
+Offset: 110, LOADINT , Operand: 2
+Offset: 111, Unref Method: 2305, Operand: 0
+Offset: 112, LOADINT , Operand: 3
+Offset: 113, Unref Method: 102, Operand: 0
+Offset: 114, PUSHI , Operand: -1
+Offset: 115, PUSHS , Operand: 
+Offset: 116, LOADINT , Operand: 3
+Offset: 117, setInterfaceDefinitionScriptParams12 , Operand: 0
+Offset: 118, PUSHI , Operand: -1
+Offset: 119, PUSHS , Operand: 
+Offset: 120, LOADINT , Operand: 3
+Offset: 121, setInterfaceDefinitionScriptParams4 , Operand: 0
+Offset: 122, PUSHI , Operand: 541
+Offset: 123, PUSHI , Operand: 0
+Offset: 124, Unref Method: 3313, Operand: 0
+Offset: 125, STOREINT , Operand: 7
+Offset: 126, LOADINT , Operand: 7
+Offset: 127, PUSHI , Operand: -1
+Offset: 128, IFNE , Operand: 1
+Offset: 129, GOTO , Operand: 51
+Offset: 130, LOADINT , Operand: 7
+Offset: 131, PUSHI , Operand: 1
+Offset: 132, LOADINT , Operand: 5
+Offset: 133, Unref Method: 2205, Operand: 0
+Offset: 134, PUSHI , Operand: 1
+Offset: 135, LOADINT , Operand: 5
+Offset: 136, Unref Method: 2116, Operand: 0
+Offset: 137, PUSHI , Operand: 3355443
+Offset: 138, LOADINT , Operand: 5
+Offset: 139, Unref Method: 2117, Operand: 0
+Offset: 140, PUSHI , Operand: 10
+Offset: 141, PUSHS , Operand: Examine
+Offset: 142, LOADINT , Operand: 5
+Offset: 143, Unref Method: 2300, Operand: 0
+Offset: 144, PUSHS , Operand: <col=ff9040>
+Offset: 145, LOADINT , Operand: 7
+Offset: 146, Unref Method: 4200, Operand: 0
+Offset: 147, PUSHS , Operand: </col>
+Offset: 148, CONCAT , Operand: 3
+Offset: 149, LOADINT , Operand: 5
+Offset: 150, Unref Method: 2305, Operand: 0
+Offset: 151, Unref Opcode: 25, Operand: 5070
+Offset: 152, PUSHI , Operand: 0
+Offset: 153, IFEQ , Operand: 1
+Offset: 154, GOTO , Operand: 11
+Offset: 155, PUSHS , Operand: <col=ff0000>
+Offset: 156, PUSHS , Operand: Until
+Offset: 157, PUSHS , Operand: </col>
+Offset: 158, PUSHS , Operand: <br>
+Offset: 159, PUSHS , Operand: <col=ff0000>
+Offset: 160, PUSHS , Operand: logout
+Offset: 161, PUSHS , Operand: </col>
+Offset: 162, CONCAT , Operand: 7
+Offset: 163, LOADINT , Operand: 6
+Offset: 164, Unref Method: 2112, Operand: 0
+Offset: 165, GOTO , Operand: 14
+Offset: 166, Unref Opcode: 25, Operand: 5070
+Offset: 167, PUSHI , Operand: 1
+Offset: 168, IFEQ , Operand: 1
+Offset: 169, GOTO , Operand: 4
+Offset: 170, PUSHS , Operand: 1 hour
+Offset: 171, LOADINT , Operand: 6
+Offset: 172, Unref Method: 2112, Operand: 0
+Offset: 173, GOTO , Operand: 6
+Offset: 174, Unref Opcode: 25, Operand: 5070
+Offset: 175, integerToString , Operand: 0
+Offset: 176, PUSHS , Operand:  hours
+Offset: 177, CONCAT , Operand: 2
+Offset: 178, LOADINT , Operand: 6
+Offset: 179, Unref Method: 2112, Operand: 0
+Offset: 180, GOTO , Operand: 12
+Offset: 181, PUSHI , Operand: -1
+Offset: 182, PUSHI , Operand: 0
+Offset: 183, LOADINT , Operand: 5
+Offset: 184, Unref Method: 2205, Operand: 0
+Offset: 185, PUSHS , Operand: 
+Offset: 186, LOADINT , Operand: 6
+Offset: 187, Unref Method: 2112, Operand: 0
+Offset: 188, LOADINT , Operand: 5
+Offset: 189, Unref Method: 2307, Operand: 0
+Offset: 190, PUSHS , Operand: 
+Offset: 191, LOADINT , Operand: 5
+Offset: 192, Unref Method: 2305, Operand: 0
+Offset: 193, RETURN , Operand: 0

@@ -1,0 +1,29 @@
+================================================
+      Client Script 214 Dumped by SiniSoul    
+      Instruction Size: 18
+      Integer Arguments: 3 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADINT , Operand: 0
+Offset: 1, Unref Method: 2505, Operand: 0
+Offset: 2, STOREINT , Operand: 2
+Offset: 3, PUSHI , Operand: 1660
+Offset: 4, LOADINT , Operand: 0
+Offset: 5, LOADINT , Operand: 1
+Offset: 6, LOADINT , Operand: 2
+Offset: 7, PUSHI , Operand: 281
+Offset: 8, PUSHI , Operand: 1255
+Offset: 9, PUSHI , Operand: 2
+Offset: 10, PUSHS , Operand: IiIY
+Offset: 11, LOADINT , Operand: 2
+Offset: 12, setInterfaceDefinitionScriptParams7 , Operand: 0
+Offset: 13, LOADINT , Operand: 0
+Offset: 14, LOADINT , Operand: 1
+Offset: 15, LOADINT , Operand: 2
+Offset: 16, CALL , Operand: 1661
+Offset: 17, RETURN , Operand: 0

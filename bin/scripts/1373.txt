@@ -1,0 +1,22 @@
+================================================
+      Client Script 1373 Dumped by SiniSoul    
+      Instruction Size: 11
+      Integer Arguments: 0 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHI , Operand: 49479726
+Offset: 1, Unref Method: 2504, Operand: 0
+Offset: 2, PUSHI , Operand: 1
+Offset: 3, IFEQ , Operand: 1
+Offset: 4, GOTO , Operand: 3
+Offset: 5, PUSHI , Operand: 1
+Offset: 6, CALL , Operand: 1374
+Offset: 7, GOTO , Operand: 2
+Offset: 8, PUSHI , Operand: 0
+Offset: 9, CALL , Operand: 1374
+Offset: 10, RETURN , Operand: 0

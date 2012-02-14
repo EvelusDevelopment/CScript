@@ -1,0 +1,66 @@
+================================================
+      Client Script 123 Dumped by SiniSoul    
+      Instruction Size: 55
+      Integer Arguments: 1 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHS , Operand: Friends List - RuneScape 
+Offset: 1, Unref Method: 3318, Operand: 0
+Offset: 2, integerToString , Operand: 0
+Offset: 3, CONCAT , Operand: 2
+Offset: 4, PUSHI , Operand: 36044806
+Offset: 5, Unref Method: 2112, Operand: 0
+Offset: 6, PUSHI , Operand: 124
+Offset: 7, PUSHS , Operand: 
+Offset: 8, PUSHI , Operand: 36044802
+Offset: 9, setInterfaceDefinitionScriptParams20 , Operand: 0
+Offset: 10, PUSHI , Operand: 0
+Offset: 11, PUSHI , Operand: 0
+Offset: 12, PUSHI , Operand: 36044802
+Offset: 13, Unref Method: 2120, Operand: 0
+Offset: 14, PUSHI , Operand: 0
+Offset: 15, PUSHI , Operand: 0
+Offset: 16, PUSHI , Operand: 36044802
+Offset: 17, Unref Method: 2100, Operand: 0
+Offset: 18, PUSHI , Operand: 36044801
+Offset: 19, PUSHI , Operand: 36044802
+Offset: 20, PUSHI , Operand: 792
+Offset: 21, PUSHI , Operand: 789
+Offset: 22, PUSHI , Operand: 790
+Offset: 23, PUSHI , Operand: 791
+Offset: 24, PUSHI , Operand: 773
+Offset: 25, PUSHI , Operand: 788
+Offset: 26, CALL , Operand: 31
+Offset: 27, LOADGINT , Operand: 1036
+Offset: 28, PUSHI , Operand: -1
+Offset: 29, IFEQ , Operand: 1
+Offset: 30, GOTO , Operand: 3
+Offset: 31, PUSHI , Operand: 36044804
+Offset: 32, Unref Method: 2500, Operand: 0
+Offset: 33, STOREGINT , Operand: 1036
+Offset: 34, PUSHI , Operand: 36044802
+Offset: 35, Unref Method: 2502, Operand: 0
+Offset: 36, PUSHI , Operand: 30
+Offset: 37, ISUB , Operand: 0
+Offset: 38, STOREINT , Operand: 0
+Offset: 39, LOADGINT , Operand: 1036
+Offset: 40, PUSHI , Operand: 25
+Offset: 41, IFLT , Operand: 1
+Offset: 42, GOTO , Operand: 3
+Offset: 43, PUSHI , Operand: 25
+Offset: 44, STOREGINT , Operand: 1036
+Offset: 45, GOTO , Operand: 6
+Offset: 46, LOADGINT , Operand: 1036
+Offset: 47, LOADINT , Operand: 0
+Offset: 48, IFGT , Operand: 1
+Offset: 49, GOTO , Operand: 2
+Offset: 50, LOADINT , Operand: 0
+Offset: 51, STOREGINT , Operand: 1036
+Offset: 52, LOADGINT , Operand: 1036
+Offset: 53, CALL , Operand: 125
+Offset: 54, RETURN , Operand: 0

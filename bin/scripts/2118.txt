@@ -1,0 +1,43 @@
+================================================
+      Client Script 2118 Dumped by SiniSoul    
+      Instruction Size: 32
+      Integer Arguments: 3 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHI , Operand: 0
+Offset: 1, STOREINT , Operand: 2
+Offset: 2, LOADINT , Operand: 2
+Offset: 3, PUSHI , Operand: 7
+Offset: 4, IFLT , Operand: 1
+Offset: 5, GOTO , Operand: 25
+Offset: 6, LOADINT , Operand: 1
+Offset: 7, PUSHI , Operand: 3
+Offset: 8, LOADINT , Operand: 0
+Offset: 9, PUSHI , Operand: 7
+Offset: 10, IMUL , Operand: 0
+Offset: 11, LOADINT , Operand: 2
+Offset: 12, IADD , Operand: 0
+Offset: 13, Unref Method: 100, Operand: 0
+Offset: 14, PUSHI , Operand: 0
+Offset: 15, PUSHI , Operand: 0
+Offset: 16, PUSHI , Operand: 0
+Offset: 17, PUSHI , Operand: 0
+Offset: 18, Unref Method: 1001, Operand: 0
+Offset: 19, PUSHI , Operand: -1
+Offset: 20, PUSHI , Operand: -1
+Offset: 21, PUSHI , Operand: 0
+Offset: 22, PUSHI , Operand: 0
+Offset: 23, Unref Method: 1000, Operand: 0
+Offset: 24, PUSHI , Operand: 1
+Offset: 25, Unref Method: 1003, Operand: 0
+Offset: 26, LOADINT , Operand: 2
+Offset: 27, PUSHI , Operand: 1
+Offset: 28, IADD , Operand: 0
+Offset: 29, STOREINT , Operand: 2
+Offset: 30, GOTO , Operand: -29
+Offset: 31, RETURN , Operand: 0

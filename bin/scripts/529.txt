@@ -1,0 +1,58 @@
+================================================
+      Client Script 529 Dumped by SiniSoul    
+      Instruction Size: 47
+      Integer Arguments: 2 
+      String  Arguments: 2 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHS , Operand: null
+Offset: 1, STORESTR , Operand: 0
+Offset: 2, PUSHI , Operand: 0
+Offset: 3, STOREINT , Operand: 1
+Offset: 4, PUSHS , Operand: null
+Offset: 5, STORESTR , Operand: 1
+Offset: 6, LOADINT , Operand: 0
+Offset: 7, PUSHI , Operand: 19726347
+Offset: 8, IFEQ , Operand: 1
+Offset: 9, GOTO , Operand: 9
+Offset: 10, PUSHS , Operand: This is the total XP you have gained through the Assist System in the past 24 hours. There is a limit to the XP you can gain within 24 hours, but this amount gets reset once the day has passed.
+Offset: 11, STORESTR , Operand: 0
+Offset: 12, LOADINT , Operand: 0
+Offset: 13, PUSHI , Operand: 19726421
+Offset: 14, LOADSTR , Operand: 0
+Offset: 15, PUSHI , Operand: 25
+Offset: 16, PUSHI , Operand: 180
+Offset: 17, CALL , Operand: 39
+Offset: 18, RETURN , Operand: 0
+Offset: 19, LOADINT , Operand: 0
+Offset: 20, CALL , Operand: 530
+Offset: 21, STORESTR , Operand: 1
+Offset: 22, STOREINT , Operand: 1
+Offset: 23, LOADINT , Operand: 1
+Offset: 24, PUSHI , Operand: 1
+Offset: 25, IFEQ , Operand: 1
+Offset: 26, GOTO , Operand: 6
+Offset: 27, PUSHS , Operand: Assist with 
+Offset: 28, LOADSTR , Operand: 1
+Offset: 29, PUSHS , Operand:  while using the Assist System (ON).
+Offset: 30, CONCAT , Operand: 3
+Offset: 31, STORESTR , Operand: 0
+Offset: 32, GOTO , Operand: 5
+Offset: 33, PUSHS , Operand: Assist with 
+Offset: 34, LOADSTR , Operand: 1
+Offset: 35, PUSHS , Operand:  while using the Assist System (OFF).
+Offset: 36, CONCAT , Operand: 3
+Offset: 37, STORESTR , Operand: 0
+Offset: 38, LOADINT , Operand: 0
+Offset: 39, PUSHI , Operand: 19726421
+Offset: 40, LOADSTR , Operand: 0
+Offset: 41, PUSHI , Operand: 25
+Offset: 42, PUSHI , Operand: 180
+Offset: 43, CALL , Operand: 39
+Offset: 44, PUSHI , Operand: 0
+Offset: 45, STOREGINT , Operand: 2
+Offset: 46, RETURN , Operand: 0

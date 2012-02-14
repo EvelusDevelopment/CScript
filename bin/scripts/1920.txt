@@ -1,0 +1,60 @@
+================================================
+      Client Script 1920 Dumped by SiniSoul    
+      Instruction Size: 49
+      Integer Arguments: 0 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHI , Operand: 1921
+Offset: 1, PUSHI , Operand: 40
+Offset: 2, PUSHI , Operand: 1
+Offset: 3, PUSHS , Operand: Y
+Offset: 4, PUSHI , Operand: 53215237
+Offset: 5, setInterfaceDefinitionScriptParams29 , Operand: 0
+Offset: 6, PUSHI , Operand: 1921
+Offset: 7, PUSHI , Operand: 41
+Offset: 8, PUSHI , Operand: 1
+Offset: 9, PUSHS , Operand: Y
+Offset: 10, PUSHI , Operand: 53215238
+Offset: 11, setInterfaceDefinitionScriptParams29 , Operand: 0
+Offset: 12, PUSHI , Operand: 1921
+Offset: 13, PUSHI , Operand: 42
+Offset: 14, PUSHI , Operand: 1
+Offset: 15, PUSHS , Operand: Y
+Offset: 16, PUSHI , Operand: 53215239
+Offset: 17, setInterfaceDefinitionScriptParams29 , Operand: 0
+Offset: 18, PUSHI , Operand: 1921
+Offset: 19, PUSHI , Operand: 551
+Offset: 20, PUSHI , Operand: 1
+Offset: 21, PUSHS , Operand: Y
+Offset: 22, PUSHI , Operand: 53215237
+Offset: 23, setInterfaceDefinitionScriptParams28 , Operand: 0
+Offset: 24, PUSHI , Operand: 1921
+Offset: 25, PUSHI , Operand: 552
+Offset: 26, PUSHI , Operand: 1
+Offset: 27, PUSHS , Operand: Y
+Offset: 28, PUSHI , Operand: 53215238
+Offset: 29, setInterfaceDefinitionScriptParams28 , Operand: 0
+Offset: 30, PUSHI , Operand: 1921
+Offset: 31, PUSHI , Operand: 553
+Offset: 32, PUSHI , Operand: 1
+Offset: 33, PUSHS , Operand: Y
+Offset: 34, PUSHI , Operand: 53215239
+Offset: 35, setInterfaceDefinitionScriptParams28 , Operand: 0
+Offset: 36, PUSHS , Operand: You have no clan leader.
+Offset: 37, STOREGSTR , Operand: 40
+Offset: 38, PUSHS , Operand: You have no allied clans.
+Offset: 39, STOREGSTR , Operand: 41
+Offset: 40, PUSHS , Operand: 
+Offset: 41, STOREGSTR , Operand: 42
+Offset: 42, PUSHI , Operand: 0
+Offset: 43, STOREGINT , Operand: 551
+Offset: 44, PUSHI , Operand: 0
+Offset: 45, STOREGINT , Operand: 552
+Offset: 46, PUSHI , Operand: 0
+Offset: 47, STOREGINT , Operand: 553
+Offset: 48, RETURN , Operand: 0

@@ -1,0 +1,31 @@
+================================================
+      Client Script 2148 Dumped by SiniSoul    
+      Instruction Size: 20
+      Integer Arguments: 3 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHI , Operand: 105
+Offset: 1, PUSHI , Operand: 74
+Offset: 2, PUSHI , Operand: 169
+Offset: 3, LOADINT , Operand: 0
+Offset: 4, Unref Method: 3408, Operand: 0
+Offset: 5, STOREINT , Operand: 2
+Offset: 6, PUSHI , Operand: 105
+Offset: 7, PUSHI , Operand: 74
+Offset: 8, LOADINT , Operand: 2
+Offset: 9, PUSHI , Operand: 61
+Offset: 10, Unref Method: 4500, Operand: 0
+Offset: 11, LOADINT , Operand: 1
+Offset: 12, Unref Method: 3408, Operand: 0
+Offset: 13, STOREGINT , Operand: 699
+Offset: 14, CALL , Operand: 1432
+Offset: 15, STOREGINT , Operand: 698
+Offset: 16, CALL , Operand: 2149
+Offset: 17, RETURN , Operand: 0
+Offset: 18, PUSHI , Operand: -1
+Offset: 19, RETURN , Operand: 0

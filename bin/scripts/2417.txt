@@ -1,0 +1,28 @@
+================================================
+      Client Script 2417 Dumped by SiniSoul    
+      Instruction Size: 17
+      Integer Arguments: 1 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADGINT , Operand: 805
+Offset: 1, PUSHI , Operand: 5
+Offset: 2, IFEQ , Operand: 4
+Offset: 3, LOADGINT , Operand: 805
+Offset: 4, PUSHI , Operand: 11
+Offset: 5, IFEQ , Operand: 1
+Offset: 6, GOTO , Operand: 5
+Offset: 7, PUSHI , Operand: 1
+Offset: 8, PUSHS , Operand: Pump
+Offset: 9, LOADINT , Operand: 0
+Offset: 10, Unref Method: 2300, Operand: 0
+Offset: 11, GOTO , Operand: 4
+Offset: 12, PUSHI , Operand: 1
+Offset: 13, PUSHS , Operand: Inspect
+Offset: 14, LOADINT , Operand: 0
+Offset: 15, Unref Method: 2300, Operand: 0
+Offset: 16, RETURN , Operand: 0

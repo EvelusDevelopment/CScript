@@ -1,0 +1,38 @@
+================================================
+      Client Script 2558 Dumped by SiniSoul    
+      Instruction Size: 27
+      Integer Arguments: 1 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADINT , Operand: 0
+Offset: 1, Unref Method: 2612, Operand: 0
+Offset: 2, PUSHI , Operand: 1946
+Offset: 3, IFEQ , Operand: 1
+Offset: 4, GOTO , Operand: 4
+Offset: 5, PUSHI , Operand: 1951
+Offset: 6, LOADINT , Operand: 0
+Offset: 7, Unref Method: 2105, Operand: 0
+Offset: 8, GOTO , Operand: 17
+Offset: 9, LOADINT , Operand: 0
+Offset: 10, Unref Method: 2612, Operand: 0
+Offset: 11, PUSHI , Operand: 1947
+Offset: 12, IFEQ , Operand: 1
+Offset: 13, GOTO , Operand: 4
+Offset: 14, PUSHI , Operand: 1952
+Offset: 15, LOADINT , Operand: 0
+Offset: 16, Unref Method: 2105, Operand: 0
+Offset: 17, GOTO , Operand: 8
+Offset: 18, LOADINT , Operand: 0
+Offset: 19, Unref Method: 2612, Operand: 0
+Offset: 20, PUSHI , Operand: 1949
+Offset: 21, IFEQ , Operand: 1
+Offset: 22, GOTO , Operand: 3
+Offset: 23, PUSHI , Operand: 1954
+Offset: 24, LOADINT , Operand: 0
+Offset: 25, Unref Method: 2105, Operand: 0
+Offset: 26, RETURN , Operand: 0

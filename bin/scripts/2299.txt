@@ -1,0 +1,50 @@
+================================================
+      Client Script 2299 Dumped by SiniSoul    
+      Instruction Size: 39
+      Integer Arguments: 1 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADGINT , Operand: 181
+Offset: 1, PUSHI , Operand: 1
+Offset: 2, IFEQ , Operand: 1
+Offset: 3, GOTO , Operand: 20
+Offset: 4, Unref Opcode: 25, Operand: 6840
+Offset: 5, PUSHI , Operand: 1
+Offset: 6, IFEQ , Operand: 1
+Offset: 7, GOTO , Operand: 8
+Offset: 8, PUSHI , Operand: 2
+Offset: 9, PUSHS , Operand: Finish quick curse selection
+Offset: 10, LOADINT , Operand: 0
+Offset: 11, Unref Method: 2300, Operand: 0
+Offset: 12, PUSHS , Operand: Select your quick curses:
+Offset: 13, PUSHI , Operand: 17760302
+Offset: 14, Unref Method: 2112, Operand: 0
+Offset: 15, GOTO , Operand: 7
+Offset: 16, PUSHI , Operand: 2
+Offset: 17, PUSHS , Operand: Finish quick prayer selection
+Offset: 18, LOADINT , Operand: 0
+Offset: 19, Unref Method: 2300, Operand: 0
+Offset: 20, PUSHS , Operand: Select your quick prayers:
+Offset: 21, PUSHI , Operand: 17760302
+Offset: 22, Unref Method: 2112, Operand: 0
+Offset: 23, GOTO , Operand: 13
+Offset: 24, Unref Opcode: 25, Operand: 6840
+Offset: 25, PUSHI , Operand: 1
+Offset: 26, IFEQ , Operand: 1
+Offset: 27, GOTO , Operand: 5
+Offset: 28, PUSHI , Operand: 2
+Offset: 29, PUSHS , Operand: Select quick curses
+Offset: 30, LOADINT , Operand: 0
+Offset: 31, Unref Method: 2300, Operand: 0
+Offset: 32, GOTO , Operand: 4
+Offset: 33, PUSHI , Operand: 2
+Offset: 34, PUSHS , Operand: Select quick prayers
+Offset: 35, LOADINT , Operand: 0
+Offset: 36, Unref Method: 2300, Operand: 0
+Offset: 37, CALL , Operand: 2303
+Offset: 38, RETURN , Operand: 0

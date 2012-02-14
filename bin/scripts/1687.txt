@@ -1,0 +1,34 @@
+================================================
+      Client Script 1687 Dumped by SiniSoul    
+      Instruction Size: 23
+      Integer Arguments: 0 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADGINT , Operand: 1044
+Offset: 1, PUSHI , Operand: 0
+Offset: 2, Unref Method: 5407, Operand: 0
+Offset: 3, PUSHI , Operand: 1
+Offset: 4, ISUB , Operand: 0
+Offset: 5, IFLT , Operand: 1
+Offset: 6, GOTO , Operand: 15
+Offset: 7, LOADGINT , Operand: 1044
+Offset: 8, PUSHI , Operand: 1
+Offset: 9, IADD , Operand: 0
+Offset: 10, STOREGINT , Operand: 1044
+Offset: 11, PUSHI , Operand: 0
+Offset: 12, LOADGINT , Operand: 1044
+Offset: 13, PUSHI , Operand: 200
+Offset: 14, PUSHI , Operand: 200
+Offset: 15, PUSHI , Operand: 1
+Offset: 16, LOADGINT , Operand: 1044
+Offset: 17, Unref Method: 5502, Operand: 0
+Offset: 18, PUSHI , Operand: 1679
+Offset: 19, PUSHS , Operand: 
+Offset: 20, PUSHI , Operand: 5570560
+Offset: 21, setInterfaceDefinitionScriptParams26 , Operand: 0
+Offset: 22, RETURN , Operand: 0

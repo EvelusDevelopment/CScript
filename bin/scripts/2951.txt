@@ -1,0 +1,92 @@
+================================================
+      Client Script 2951 Dumped by SiniSoul    
+      Instruction Size: 68
+      Integer Arguments: 2 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHI , Operand: 39059485
+Offset: 1, STOREINT , Operand: 0
+Offset: 2, isSSKStrNull , Operand: 0
+Offset: 3, PUSHI , Operand: 1
+Offset: 4, IFEQ , Operand: 1
+Offset: 5, GOTO , Operand: 2
+Offset: 6, PUSHI , Operand: 63897603
+Offset: 7, STOREINT , Operand: 0
+Offset: 8, CALL , Operand: 2948
+Offset: 9, STOREINT , Operand: 1
+Offset: 10, LOADINT , Operand: 1
+Offset: 11, PUSHI , Operand: -3
+Offset: 12, IFNE , Operand: 1
+Offset: 13, GOTO , Operand: 5
+Offset: 14, PUSHI , Operand: -1
+Offset: 15, PUSHS , Operand: 
+Offset: 16, LOADINT , Operand: 0
+Offset: 17, setInterfaceDefinitionScriptParams8 , Operand: 0
+Offset: 18, RETURN , Operand: 0
+Offset: 19, Unref Method: 3300, Operand: 0
+Offset: 20, LOADGINT , Operand: 1092
+Offset: 21, IFLT , Operand: 1
+Offset: 22, GOTO , Operand: 1
+Offset: 23, RETURN , Operand: 0
+Offset: 24, Unref Method: 3300, Operand: 0
+Offset: 25, PUSHI , Operand: 8
+Offset: 26, IADD , Operand: 0
+Offset: 27, STOREGINT , Operand: 1092
+Offset: 28, LOADINT , Operand: 0
+Offset: 29, Unref Method: 2612, Operand: 0
+Offset: 30, SWITCH , Operand: 0
+Offset: 31, GOTO , Operand: 32
+Offset: 32, PUSHI , Operand: 2600
+Offset: 33, LOADINT , Operand: 0
+Offset: 34, Unref Method: 2105, Operand: 0
+Offset: 35, GOTO , Operand: 31
+Offset: 36, PUSHI , Operand: 2601
+Offset: 37, LOADINT , Operand: 0
+Offset: 38, Unref Method: 2105, Operand: 0
+Offset: 39, GOTO , Operand: 27
+Offset: 40, PUSHI , Operand: 2602
+Offset: 41, LOADINT , Operand: 0
+Offset: 42, Unref Method: 2105, Operand: 0
+Offset: 43, GOTO , Operand: 23
+Offset: 44, PUSHI , Operand: 2603
+Offset: 45, LOADINT , Operand: 0
+Offset: 46, Unref Method: 2105, Operand: 0
+Offset: 47, GOTO , Operand: 19
+Offset: 48, PUSHI , Operand: 2604
+Offset: 49, LOADINT , Operand: 0
+Offset: 50, Unref Method: 2105, Operand: 0
+Offset: 51, GOTO , Operand: 15
+Offset: 52, PUSHI , Operand: 2605
+Offset: 53, LOADINT , Operand: 0
+Offset: 54, Unref Method: 2105, Operand: 0
+Offset: 55, GOTO , Operand: 11
+Offset: 56, PUSHI , Operand: 2606
+Offset: 57, LOADINT , Operand: 0
+Offset: 58, Unref Method: 2105, Operand: 0
+Offset: 59, GOTO , Operand: 7
+Offset: 60, PUSHI , Operand: 2599
+Offset: 61, LOADINT , Operand: 0
+Offset: 62, Unref Method: 2105, Operand: 0
+Offset: 63, GOTO , Operand: 3
+Offset: 64, PUSHI , Operand: 2599
+Offset: 65, LOADINT , Operand: 0
+Offset: 66, Unref Method: 2105, Operand: 0
+Offset: 67, RETURN , Operand: 0
+
+================================================
+                Switch Table 0                
+================================================
+
+Key: 2599, Value: 1
+Key: 2606, Value: 29
+Key: 2604, Value: 21
+Key: 2605, Value: 25
+Key: 2602, Value: 13
+Key: 2603, Value: 17
+Key: 2600, Value: 5
+Key: 2601, Value: 9

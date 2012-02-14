@@ -1,0 +1,41 @@
+================================================
+      Client Script 1090 Dumped by SiniSoul    
+      Instruction Size: 30
+      Integer Arguments: 1 
+      String  Arguments: 1 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADSTR , Operand: 0
+Offset: 1, Unref Method: 3628, Operand: 0
+Offset: 2, STOREINT , Operand: 0
+Offset: 3, LOADINT , Operand: 0
+Offset: 4, PUSHI , Operand: -1
+Offset: 5, IFEQ , Operand: 1
+Offset: 6, GOTO , Operand: 3
+Offset: 7, PUSHI , Operand: -1
+Offset: 8, RETURN , Operand: 0
+Offset: 9, GOTO , Operand: 18
+Offset: 10, LOADINT , Operand: 0
+Offset: 11, Unref Method: 3602, Operand: 0
+Offset: 12, PUSHI , Operand: 0
+Offset: 13, IFEQ , Operand: 1
+Offset: 14, GOTO , Operand: 3
+Offset: 15, PUSHI , Operand: 0
+Offset: 16, RETURN , Operand: 0
+Offset: 17, GOTO , Operand: 10
+Offset: 18, LOADINT , Operand: 0
+Offset: 19, Unref Method: 3627, Operand: 0
+Offset: 20, PUSHI , Operand: 1
+Offset: 21, IFEQ , Operand: 1
+Offset: 22, GOTO , Operand: 3
+Offset: 23, PUSHI , Operand: 1
+Offset: 24, RETURN , Operand: 0
+Offset: 25, GOTO , Operand: 2
+Offset: 26, PUSHI , Operand: 2
+Offset: 27, RETURN , Operand: 0
+Offset: 28, PUSHI , Operand: 0
+Offset: 29, RETURN , Operand: 0

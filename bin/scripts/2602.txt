@@ -1,0 +1,62 @@
+================================================
+      Client Script 2602 Dumped by SiniSoul    
+      Instruction Size: 51
+      Integer Arguments: 1 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHI , Operand: 58392600
+Offset: 1, Unref Method: 2502, Operand: 0
+Offset: 2, STOREINT , Operand: 0
+Offset: 3, Unref Opcode: 25, Operand: 6503
+Offset: 4, PUSHI , Operand: 1
+Offset: 5, IFEQ , Operand: 1
+Offset: 6, GOTO , Operand: 33
+Offset: 7, LOADGINT , Operand: 1023
+Offset: 8, PUSHI , Operand: 0
+Offset: 9, IFLTEQ , Operand: 1
+Offset: 10, GOTO , Operand: 12
+Offset: 11, PUSHI , Operand: 0
+Offset: 12, STOREGINT , Operand: 1023
+Offset: 13, PUSHS , Operand: 0%
+Offset: 14, PUSHI , Operand: 58392604
+Offset: 15, Unref Method: 2112, Operand: 0
+Offset: 16, PUSHI , Operand: 1
+Offset: 17, PUSHI , Operand: 20
+Offset: 18, PUSHI , Operand: 0
+Offset: 19, PUSHI , Operand: 0
+Offset: 20, PUSHI , Operand: 58392600
+Offset: 21, Unref Method: 2001, Operand: 0
+Offset: 22, GOTO , Operand: 16
+Offset: 23, LOADGINT , Operand: 1023
+Offset: 24, PUSHI , Operand: 100
+Offset: 25, Unref Method: 4016, Operand: 0
+Offset: 26, STOREGINT , Operand: 1023
+Offset: 27, LOADGINT , Operand: 1023
+Offset: 28, integerToString , Operand: 0
+Offset: 29, PUSHS , Operand: %
+Offset: 30, CONCAT , Operand: 2
+Offset: 31, PUSHI , Operand: 58392604
+Offset: 32, Unref Method: 2112, Operand: 0
+Offset: 33, LOADGINT , Operand: 1023
+Offset: 34, PUSHI , Operand: 20
+Offset: 35, PUSHI , Operand: 0
+Offset: 36, PUSHI , Operand: 0
+Offset: 37, PUSHI , Operand: 58392600
+Offset: 38, Unref Method: 2001, Operand: 0
+Offset: 39, GOTO , Operand: 10
+Offset: 40, Unref Opcode: 25, Operand: 6503
+Offset: 41, PUSHI , Operand: 2
+Offset: 42, IFEQ , Operand: 1
+Offset: 43, GOTO , Operand: 6
+Offset: 44, PUSHI , Operand: 100
+Offset: 45, PUSHI , Operand: 20
+Offset: 46, PUSHI , Operand: 0
+Offset: 47, PUSHI , Operand: 0
+Offset: 48, PUSHI , Operand: 58392600
+Offset: 49, Unref Method: 2001, Operand: 0
+Offset: 50, RETURN , Operand: 0

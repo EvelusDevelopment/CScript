@@ -1,0 +1,3716 @@
+================================================
+      Client Script 1010 Dumped by SiniSoul    
+      Instruction Size: 3379
+      Integer Arguments: 2 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADINT , Operand: 0
+Offset: 1, SWITCH , Operand: 0
+Offset: 2, GOTO , Operand: 3371
+Offset: 3, LOADINT , Operand: 1
+Offset: 4, SWITCH , Operand: 1
+Offset: 5, GOTO , Operand: 271
+Offset: 6, PUSHI , Operand: 1
+Offset: 7, PUSHI , Operand: 841
+Offset: 8, PUSHS , Operand: Standard bow
+Offset: 9, PUSHS , Operand: <br>
+Offset: 10, PUSHS , Operand:  Ammo: Arrows up to iron
+Offset: 11, CONCAT , Operand: 3
+Offset: 12, PUSHS , Operand: You can now use 
+Offset: 13, PUSHS , Operand: <col=000080>
+Offset: 14, PUSHS , Operand: standard bows
+Offset: 15, PUSHS , Operand: </col>
+Offset: 16, PUSHS , Operand: .
+Offset: 17, CONCAT , Operand: 5
+Offset: 18, RETURN , Operand: 0
+Offset: 19, GOTO , Operand: 257
+Offset: 20, PUSHI , Operand: 1
+Offset: 21, PUSHI , Operand: 15597
+Offset: 22, PUSHS , Operand: Kayle's bow (after The Blood Pact)
+Offset: 23, PUSHS , Operand: <br>
+Offset: 24, PUSHS , Operand:  Ammo: Arrows up to iron
+Offset: 25, CONCAT , Operand: 3
+Offset: 26, PUSHS , Operand: You can now use 
+Offset: 27, PUSHS , Operand: <col=000080>
+Offset: 28, PUSHS , Operand: Kayle's bow
+Offset: 29, PUSHS , Operand: </col>
+Offset: 30, PUSHS , Operand:  (after The Blood Pact).
+Offset: 31, CONCAT , Operand: 5
+Offset: 32, RETURN , Operand: 0
+Offset: 33, GOTO , Operand: 243
+Offset: 34, PUSHI , Operand: 5
+Offset: 35, PUSHI , Operand: 843
+Offset: 36, PUSHS , Operand: Oak bow
+Offset: 37, PUSHS , Operand: <br>
+Offset: 38, PUSHS , Operand:  Ammo: Arrows up to steel
+Offset: 39, CONCAT , Operand: 3
+Offset: 40, PUSHS , Operand: You can now use 
+Offset: 41, PUSHS , Operand: <col=000080>
+Offset: 42, PUSHS , Operand: oak bows
+Offset: 43, PUSHS , Operand: </col>
+Offset: 44, PUSHS , Operand: .
+Offset: 45, CONCAT , Operand: 5
+Offset: 46, RETURN , Operand: 0
+Offset: 47, GOTO , Operand: 229
+Offset: 48, PUSHI , Operand: 20
+Offset: 49, PUSHI , Operand: 849
+Offset: 50, PUSHS , Operand: Willow bow
+Offset: 51, PUSHS , Operand: <br>
+Offset: 52, PUSHS , Operand:  Ammo: Arrows up to mithril
+Offset: 53, CONCAT , Operand: 3
+Offset: 54, PUSHS , Operand: You can now use 
+Offset: 55, PUSHS , Operand: <col=000080>
+Offset: 56, PUSHS , Operand: willow bows
+Offset: 57, PUSHS , Operand: </col>
+Offset: 58, PUSHS , Operand: .
+Offset: 59, CONCAT , Operand: 5
+Offset: 60, RETURN , Operand: 0
+Offset: 61, GOTO , Operand: 215
+Offset: 62, PUSHI , Operand: 30
+Offset: 63, PUSHI , Operand: 853
+Offset: 64, PUSHS , Operand: Maple bow
+Offset: 65, PUSHS , Operand: <br>
+Offset: 66, PUSHS , Operand:  Ammo: Arrows up to adamant
+Offset: 67, CONCAT , Operand: 3
+Offset: 68, PUSHS , Operand: You can now use 
+Offset: 69, PUSHS , Operand: <col=000080>
+Offset: 70, PUSHS , Operand: maple bows
+Offset: 71, PUSHS , Operand: </col>
+Offset: 72, PUSHS , Operand: .
+Offset: 73, CONCAT , Operand: 5
+Offset: 74, RETURN , Operand: 0
+Offset: 75, GOTO , Operand: 201
+Offset: 76, PUSHI , Operand: 30
+Offset: 77, PUSHI , Operand: 2883
+Offset: 78, PUSHS , Operand: Members: Ogre bow (after Big Chompy Bird Hunting)
+Offset: 79, PUSHS , Operand: <br>
+Offset: 80, PUSHS , Operand:  Ammo: Ogre arrows
+Offset: 81, CONCAT , Operand: 3
+Offset: 82, PUSHS , Operand: Members now have the Ranged level to use 
+Offset: 83, PUSHS , Operand: <col=000080>
+Offset: 84, PUSHS , Operand: ogre bows
+Offset: 85, PUSHS , Operand: </col>
+Offset: 86, PUSHS , Operand:  (after Big Chompy Bird Hunting).
+Offset: 87, CONCAT , Operand: 5
+Offset: 88, RETURN , Operand: 0
+Offset: 89, GOTO , Operand: 187
+Offset: 90, PUSHI , Operand: 30
+Offset: 91, PUSHI , Operand: 4827
+Offset: 92, PUSHS , Operand: Members: Ogre composite bow (after Zogre Flesh Eaters)
+Offset: 93, PUSHS , Operand: <br>
+Offset: 94, PUSHS , Operand:  Ammo: 'Brutal' arrows up to rune
+Offset: 95, CONCAT , Operand: 3
+Offset: 96, PUSHS , Operand: Members now have the Ranged level to use 
+Offset: 97, PUSHS , Operand: <col=000080>
+Offset: 98, PUSHS , Operand: ogre composite bows
+Offset: 99, PUSHS , Operand: </col>
+Offset: 100, PUSHS , Operand:  (after Zogre Flesh Eaters).
+Offset: 101, CONCAT , Operand: 5
+Offset: 102, RETURN , Operand: 0
+Offset: 103, GOTO , Operand: 173
+Offset: 104, PUSHI , Operand: 40
+Offset: 105, PUSHI , Operand: 857
+Offset: 106, PUSHS , Operand: Members: Yew bow
+Offset: 107, PUSHS , Operand: <br>
+Offset: 108, PUSHS , Operand:  Ammo: Arrows up to rune
+Offset: 109, CONCAT , Operand: 3
+Offset: 110, PUSHS , Operand: Members can now use 
+Offset: 111, PUSHS , Operand: <col=000080>
+Offset: 112, PUSHS , Operand: yew bows
+Offset: 113, PUSHS , Operand: </col>
+Offset: 114, PUSHS , Operand: .
+Offset: 115, CONCAT , Operand: 5
+Offset: 116, RETURN , Operand: 0
+Offset: 117, GOTO , Operand: 159
+Offset: 118, PUSHI , Operand: 40
+Offset: 119, PUSHI , Operand: 14121
+Offset: 120, PUSHS , Operand: Members: Sacred clay bow
+Offset: 121, PUSHS , Operand: <br>
+Offset: 122, PUSHS , Operand:  Ammo: Arrows up to rune
+Offset: 123, CONCAT , Operand: 3
+Offset: 124, PUSHS , Operand: Members can now wield 
+Offset: 125, PUSHS , Operand: <col=000080>
+Offset: 126, PUSHS , Operand: sacred clay bows
+Offset: 127, PUSHS , Operand: </col>
+Offset: 128, PUSHS , Operand: .
+Offset: 129, CONCAT , Operand: 5
+Offset: 130, RETURN , Operand: 0
+Offset: 131, GOTO , Operand: 145
+Offset: 132, PUSHI , Operand: 45
+Offset: 133, PUSHI , Operand: 18331
+Offset: 134, PUSHS , Operand: Maple longbow (focused)
+Offset: 135, PUSHS , Operand: <br>
+Offset: 136, PUSHS , Operand:  Ammo: Arrows up to rune
+Offset: 137, PUSHS , Operand: <br>
+Offset: 138, PUSHS , Operand:  (with 45 Dungeoneering)
+Offset: 139, CONCAT , Operand: 5
+Offset: 140, PUSHS , Operand: You can now use 
+Offset: 141, PUSHS , Operand: <col=000080>
+Offset: 142, PUSHS , Operand: maple longbows (focused)
+Offset: 143, PUSHS , Operand: </col>
+Offset: 144, PUSHS , Operand: . (You also need level 45 Dungeoneering.)
+Offset: 145, CONCAT , Operand: 5
+Offset: 146, RETURN , Operand: 0
+Offset: 147, GOTO , Operand: 129
+Offset: 148, PUSHI , Operand: 45
+Offset: 149, PUSHI , Operand: 18373
+Offset: 150, PUSHS , Operand: Gravite shortbow
+Offset: 151, PUSHS , Operand: <br>
+Offset: 152, PUSHS , Operand:  Ammo: Arrows up to rune
+Offset: 153, PUSHS , Operand: <br>
+Offset: 154, PUSHS , Operand:  (with 45 Dungeoneering)
+Offset: 155, CONCAT , Operand: 5
+Offset: 156, PUSHS , Operand: You can now wield 
+Offset: 157, PUSHS , Operand: <col=000080>
+Offset: 158, PUSHS , Operand: gravite shortbows
+Offset: 159, PUSHS , Operand: </col>
+Offset: 160, PUSHS , Operand: . (You also need level 45 Dungeoneering.)
+Offset: 161, CONCAT , Operand: 5
+Offset: 162, RETURN , Operand: 0
+Offset: 163, GOTO , Operand: 113
+Offset: 164, PUSHI , Operand: 50
+Offset: 165, PUSHI , Operand: 861
+Offset: 166, PUSHS , Operand: Members: Magic bow
+Offset: 167, PUSHS , Operand: <br>
+Offset: 168, PUSHS , Operand:  Ammo: Arrows up to rune
+Offset: 169, CONCAT , Operand: 3
+Offset: 170, PUSHS , Operand: Members can now use 
+Offset: 171, PUSHS , Operand: <col=000080>
+Offset: 172, PUSHS , Operand: magic bows
+Offset: 173, PUSHS , Operand: </col>
+Offset: 174, PUSHS , Operand: .
+Offset: 175, CONCAT , Operand: 5
+Offset: 176, RETURN , Operand: 0
+Offset: 177, GOTO , Operand: 99
+Offset: 178, PUSHI , Operand: 50
+Offset: 179, PUSHI , Operand: 6724
+Offset: 180, PUSHS , Operand: Members: Seercull
+Offset: 181, PUSHS , Operand: <br>
+Offset: 182, PUSHS , Operand:  Ammo: Arrows up to rune
+Offset: 183, CONCAT , Operand: 3
+Offset: 184, PUSHS , Operand: Members can now use the 
+Offset: 185, PUSHS , Operand: <col=000080>
+Offset: 186, PUSHS , Operand: Seercull
+Offset: 187, PUSHS , Operand: </col>
+Offset: 188, PUSHS , Operand: .
+Offset: 189, CONCAT , Operand: 5
+Offset: 190, RETURN , Operand: 0
+Offset: 191, GOTO , Operand: 85
+Offset: 192, PUSHI , Operand: 55
+Offset: 193, PUSHI , Operand: 18332
+Offset: 194, PUSHS , Operand: Members: Magic longbow (focused)
+Offset: 195, PUSHS , Operand: <br>
+Offset: 196, PUSHS , Operand:  Ammo: Arrows up to rune
+Offset: 197, PUSHS , Operand: <br>
+Offset: 198, PUSHS , Operand:  (with 45 Dungeoneering)
+Offset: 199, CONCAT , Operand: 5
+Offset: 200, PUSHS , Operand: Members can now use 
+Offset: 201, PUSHS , Operand: <col=000080>
+Offset: 202, PUSHS , Operand: magic longbows (focused)
+Offset: 203, PUSHS , Operand: </col>
+Offset: 204, PUSHS , Operand: . (They also need level 45 Dungeoneering.)
+Offset: 205, CONCAT , Operand: 5
+Offset: 206, RETURN , Operand: 0
+Offset: 207, GOTO , Operand: 69
+Offset: 208, PUSHI , Operand: 55
+Offset: 209, PUSHI , Operand: 19143
+Offset: 210, PUSHS , Operand: Members: Saradomin bow
+Offset: 211, PUSHS , Operand: <br>
+Offset: 212, PUSHS , Operand:  Ammo: Arrows up to rune
+Offset: 213, CONCAT , Operand: 3
+Offset: 214, PUSHS , Operand: Members can now wield 
+Offset: 215, PUSHS , Operand: <col=000080>
+Offset: 216, PUSHS , Operand: Saradomin bows
+Offset: 217, PUSHS , Operand: </col>
+Offset: 218, PUSHS , Operand: .
+Offset: 219, CONCAT , Operand: 5
+Offset: 220, RETURN , Operand: 0
+Offset: 221, GOTO , Operand: 55
+Offset: 222, PUSHI , Operand: 55
+Offset: 223, PUSHI , Operand: 19146
+Offset: 224, PUSHS , Operand: Members: Guthix bow
+Offset: 225, PUSHS , Operand: <br>
+Offset: 226, PUSHS , Operand:  Ammo: Arrows up to rune
+Offset: 227, CONCAT , Operand: 3
+Offset: 228, PUSHS , Operand: Members can now wield 
+Offset: 229, PUSHS , Operand: <col=000080>
+Offset: 230, PUSHS , Operand: Guthix bows
+Offset: 231, PUSHS , Operand: </col>
+Offset: 232, PUSHS , Operand: .
+Offset: 233, CONCAT , Operand: 5
+Offset: 234, RETURN , Operand: 0
+Offset: 235, GOTO , Operand: 41
+Offset: 236, PUSHI , Operand: 55
+Offset: 237, PUSHI , Operand: 19149
+Offset: 238, PUSHS , Operand: Members: Zamorak bow
+Offset: 239, PUSHS , Operand: <br>
+Offset: 240, PUSHS , Operand:  Ammo: Arrows up to rune
+Offset: 241, CONCAT , Operand: 3
+Offset: 242, PUSHS , Operand: Members can now wield 
+Offset: 243, PUSHS , Operand: <col=000080>
+Offset: 244, PUSHS , Operand: Zamorak bows
+Offset: 245, PUSHS , Operand: </col>
+Offset: 246, PUSHS , Operand: .
+Offset: 247, CONCAT , Operand: 5
+Offset: 248, RETURN , Operand: 0
+Offset: 249, GOTO , Operand: 27
+Offset: 250, PUSHI , Operand: 60
+Offset: 251, PUSHI , Operand: 11235
+Offset: 252, PUSHS , Operand: Members: Dark bow
+Offset: 253, PUSHS , Operand: <br>
+Offset: 254, PUSHS , Operand:  Ammo: Arrows up to dragon
+Offset: 255, CONCAT , Operand: 3
+Offset: 256, PUSHS , Operand: Members can now use 
+Offset: 257, PUSHS , Operand: <col=000080>
+Offset: 258, PUSHS , Operand: dark bows
+Offset: 259, PUSHS , Operand: </col>
+Offset: 260, PUSHS , Operand: .
+Offset: 261, CONCAT , Operand: 5
+Offset: 262, RETURN , Operand: 0
+Offset: 263, GOTO , Operand: 13
+Offset: 264, PUSHI , Operand: 70
+Offset: 265, PUSHI , Operand: 4212
+Offset: 266, PUSHS , Operand: Members: Crystal bow (after Roving Elves and with 50 Agility)
+Offset: 267, PUSHS , Operand: <br>
+Offset: 268, PUSHS , Operand:  Ammo: None
+Offset: 269, CONCAT , Operand: 3
+Offset: 270, PUSHS , Operand: Members now have the Ranged level to use 
+Offset: 271, PUSHS , Operand: <col=000080>
+Offset: 272, PUSHS , Operand: crystal bows
+Offset: 273, PUSHS , Operand: </col>
+Offset: 274, PUSHS , Operand:  (after Roving Elves, with level 50 Agility).
+Offset: 275, CONCAT , Operand: 5
+Offset: 276, RETURN , Operand: 0
+Offset: 277, GOTO , Operand: 3096
+Offset: 278, LOADINT , Operand: 1
+Offset: 279, SWITCH , Operand: 2
+Offset: 280, GOTO , Operand: 371
+Offset: 281, PUSHI , Operand: 1
+Offset: 282, PUSHI , Operand: 806
+Offset: 283, PUSHS , Operand: Members: Bronze dart
+Offset: 284, PUSHS , Operand: Members can now throw 
+Offset: 285, PUSHS , Operand: <col=000080>
+Offset: 286, PUSHS , Operand: bronze darts
+Offset: 287, PUSHS , Operand: </col>
+Offset: 288, PUSHS , Operand: .
+Offset: 289, CONCAT , Operand: 5
+Offset: 290, RETURN , Operand: 0
+Offset: 291, GOTO , Operand: 360
+Offset: 292, PUSHI , Operand: 1
+Offset: 293, PUSHI , Operand: 825
+Offset: 294, PUSHS , Operand: Members: Bronze javelin
+Offset: 295, PUSHS , Operand: Members can now throw 
+Offset: 296, PUSHS , Operand: <col=000080>
+Offset: 297, PUSHS , Operand: bronze javelins
+Offset: 298, PUSHS , Operand: </col>
+Offset: 299, PUSHS , Operand: .
+Offset: 300, CONCAT , Operand: 5
+Offset: 301, RETURN , Operand: 0
+Offset: 302, GOTO , Operand: 349
+Offset: 303, PUSHI , Operand: 1
+Offset: 304, PUSHI , Operand: 800
+Offset: 305, PUSHS , Operand: Members: Bronze throwing axe
+Offset: 306, PUSHS , Operand: Members can now throw 
+Offset: 307, PUSHS , Operand: <col=000080>
+Offset: 308, PUSHS , Operand: bronze throwing axes
+Offset: 309, PUSHS , Operand: </col>
+Offset: 310, PUSHS , Operand: .
+Offset: 311, CONCAT , Operand: 5
+Offset: 312, RETURN , Operand: 0
+Offset: 313, GOTO , Operand: 338
+Offset: 314, PUSHI , Operand: 1
+Offset: 315, PUSHI , Operand: 864
+Offset: 316, PUSHS , Operand: Members: Bronze throwing knife
+Offset: 317, PUSHS , Operand: Members can now throw 
+Offset: 318, PUSHS , Operand: <col=000080>
+Offset: 319, PUSHS , Operand: bronze throwing knives
+Offset: 320, PUSHS , Operand: </col>
+Offset: 321, PUSHS , Operand: .
+Offset: 322, CONCAT , Operand: 5
+Offset: 323, RETURN , Operand: 0
+Offset: 324, GOTO , Operand: 327
+Offset: 325, PUSHI , Operand: 1
+Offset: 326, PUSHI , Operand: 807
+Offset: 327, PUSHS , Operand: Members: Iron dart
+Offset: 328, PUSHS , Operand: Members can now throw 
+Offset: 329, PUSHS , Operand: <col=000080>
+Offset: 330, PUSHS , Operand: iron darts
+Offset: 331, PUSHS , Operand: </col>
+Offset: 332, PUSHS , Operand: .
+Offset: 333, CONCAT , Operand: 5
+Offset: 334, RETURN , Operand: 0
+Offset: 335, GOTO , Operand: 316
+Offset: 336, PUSHI , Operand: 1
+Offset: 337, PUSHI , Operand: 826
+Offset: 338, PUSHS , Operand: Members: Iron javelin
+Offset: 339, PUSHS , Operand: Members can now throw 
+Offset: 340, PUSHS , Operand: <col=000080>
+Offset: 341, PUSHS , Operand: iron javelins
+Offset: 342, PUSHS , Operand: </col>
+Offset: 343, PUSHS , Operand: .
+Offset: 344, CONCAT , Operand: 5
+Offset: 345, RETURN , Operand: 0
+Offset: 346, GOTO , Operand: 305
+Offset: 347, PUSHI , Operand: 1
+Offset: 348, PUSHI , Operand: 801
+Offset: 349, PUSHS , Operand: Members: Iron throwing axe
+Offset: 350, PUSHS , Operand: Members can now throw 
+Offset: 351, PUSHS , Operand: <col=000080>
+Offset: 352, PUSHS , Operand: iron throwing axes
+Offset: 353, PUSHS , Operand: </col>
+Offset: 354, PUSHS , Operand: .
+Offset: 355, CONCAT , Operand: 5
+Offset: 356, RETURN , Operand: 0
+Offset: 357, GOTO , Operand: 294
+Offset: 358, PUSHI , Operand: 1
+Offset: 359, PUSHI , Operand: 863
+Offset: 360, PUSHS , Operand: Members: Iron throwing knife
+Offset: 361, PUSHS , Operand: Members can now throw 
+Offset: 362, PUSHS , Operand: <col=000080>
+Offset: 363, PUSHS , Operand: iron throwing knives
+Offset: 364, PUSHS , Operand: </col>
+Offset: 365, PUSHS , Operand: .
+Offset: 366, CONCAT , Operand: 5
+Offset: 367, RETURN , Operand: 0
+Offset: 368, GOTO , Operand: 283
+Offset: 369, PUSHI , Operand: 5
+Offset: 370, PUSHI , Operand: 808
+Offset: 371, PUSHS , Operand: Members: Steel dart
+Offset: 372, PUSHS , Operand: Members can now throw 
+Offset: 373, PUSHS , Operand: <col=000080>
+Offset: 374, PUSHS , Operand: steel darts
+Offset: 375, PUSHS , Operand: </col>
+Offset: 376, PUSHS , Operand: .
+Offset: 377, CONCAT , Operand: 5
+Offset: 378, RETURN , Operand: 0
+Offset: 379, GOTO , Operand: 272
+Offset: 380, PUSHI , Operand: 5
+Offset: 381, PUSHI , Operand: 827
+Offset: 382, PUSHS , Operand: Members: Steel javelin
+Offset: 383, PUSHS , Operand: Members can now throw 
+Offset: 384, PUSHS , Operand: <col=000080>
+Offset: 385, PUSHS , Operand: steel javelins
+Offset: 386, PUSHS , Operand: </col>
+Offset: 387, PUSHS , Operand: .
+Offset: 388, CONCAT , Operand: 5
+Offset: 389, RETURN , Operand: 0
+Offset: 390, GOTO , Operand: 261
+Offset: 391, PUSHI , Operand: 5
+Offset: 392, PUSHI , Operand: 802
+Offset: 393, PUSHS , Operand: Members: Steel throwing axe
+Offset: 394, PUSHS , Operand: Members can now throw 
+Offset: 395, PUSHS , Operand: <col=000080>
+Offset: 396, PUSHS , Operand: steel throwing axes
+Offset: 397, PUSHS , Operand: </col>
+Offset: 398, PUSHS , Operand: .
+Offset: 399, CONCAT , Operand: 5
+Offset: 400, RETURN , Operand: 0
+Offset: 401, GOTO , Operand: 250
+Offset: 402, PUSHI , Operand: 5
+Offset: 403, PUSHI , Operand: 865
+Offset: 404, PUSHS , Operand: Members: Steel throwing knife
+Offset: 405, PUSHS , Operand: Members can now throw 
+Offset: 406, PUSHS , Operand: <col=000080>
+Offset: 407, PUSHS , Operand: steel throwing knives
+Offset: 408, PUSHS , Operand: </col>
+Offset: 409, PUSHS , Operand: .
+Offset: 410, CONCAT , Operand: 5
+Offset: 411, RETURN , Operand: 0
+Offset: 412, GOTO , Operand: 239
+Offset: 413, PUSHI , Operand: 10
+Offset: 414, PUSHI , Operand: 3093
+Offset: 415, PUSHS , Operand: Members: Black dart
+Offset: 416, PUSHS , Operand: Members can now throw 
+Offset: 417, PUSHS , Operand: <col=000080>
+Offset: 418, PUSHS , Operand: black darts
+Offset: 419, PUSHS , Operand: </col>
+Offset: 420, PUSHS , Operand: .
+Offset: 421, CONCAT , Operand: 5
+Offset: 422, RETURN , Operand: 0
+Offset: 423, GOTO , Operand: 228
+Offset: 424, PUSHI , Operand: 10
+Offset: 425, PUSHI , Operand: 869
+Offset: 426, PUSHS , Operand: Members: Black throwing knife
+Offset: 427, PUSHS , Operand: Members can now throw 
+Offset: 428, PUSHS , Operand: <col=000080>
+Offset: 429, PUSHS , Operand: black throwing knives
+Offset: 430, PUSHS , Operand: </col>
+Offset: 431, PUSHS , Operand: .
+Offset: 432, CONCAT , Operand: 5
+Offset: 433, RETURN , Operand: 0
+Offset: 434, GOTO , Operand: 217
+Offset: 435, PUSHI , Operand: 20
+Offset: 436, PUSHI , Operand: 809
+Offset: 437, PUSHS , Operand: Members: Mithril dart
+Offset: 438, PUSHS , Operand: Members can now throw 
+Offset: 439, PUSHS , Operand: <col=000080>
+Offset: 440, PUSHS , Operand: mithril darts
+Offset: 441, PUSHS , Operand: </col>
+Offset: 442, PUSHS , Operand: .
+Offset: 443, CONCAT , Operand: 5
+Offset: 444, RETURN , Operand: 0
+Offset: 445, GOTO , Operand: 206
+Offset: 446, PUSHI , Operand: 20
+Offset: 447, PUSHI , Operand: 828
+Offset: 448, PUSHS , Operand: Members: Mithril javelin
+Offset: 449, PUSHS , Operand: Members can now throw 
+Offset: 450, PUSHS , Operand: <col=000080>
+Offset: 451, PUSHS , Operand: mithril javelins
+Offset: 452, PUSHS , Operand: </col>
+Offset: 453, PUSHS , Operand: .
+Offset: 454, CONCAT , Operand: 5
+Offset: 455, RETURN , Operand: 0
+Offset: 456, GOTO , Operand: 195
+Offset: 457, PUSHI , Operand: 20
+Offset: 458, PUSHI , Operand: 803
+Offset: 459, PUSHS , Operand: Members: Mithril throwing axe
+Offset: 460, PUSHS , Operand: Members can now throw 
+Offset: 461, PUSHS , Operand: <col=000080>
+Offset: 462, PUSHS , Operand: mithril throwing axes
+Offset: 463, PUSHS , Operand: </col>
+Offset: 464, PUSHS , Operand: .
+Offset: 465, CONCAT , Operand: 5
+Offset: 466, RETURN , Operand: 0
+Offset: 467, GOTO , Operand: 184
+Offset: 468, PUSHI , Operand: 20
+Offset: 469, PUSHI , Operand: 866
+Offset: 470, PUSHS , Operand: Members: Mithril throwing knife
+Offset: 471, PUSHS , Operand: Members can now throw 
+Offset: 472, PUSHS , Operand: <col=000080>
+Offset: 473, PUSHS , Operand: mithril throwing knives
+Offset: 474, PUSHS , Operand: </col>
+Offset: 475, PUSHS , Operand: .
+Offset: 476, CONCAT , Operand: 5
+Offset: 477, RETURN , Operand: 0
+Offset: 478, GOTO , Operand: 173
+Offset: 479, PUSHI , Operand: 20
+Offset: 480, PUSHI , Operand: 13953
+Offset: 481, PUSHS , Operand: Members: Corrupt Morrigan's javelin
+Offset: 482, PUSHS , Operand: Members can now throw 
+Offset: 483, PUSHS , Operand: <col=000080>
+Offset: 484, PUSHS , Operand: corrupt Morrigan's javelin
+Offset: 485, PUSHS , Operand: </col>
+Offset: 486, PUSHS , Operand: .
+Offset: 487, CONCAT , Operand: 5
+Offset: 488, RETURN , Operand: 0
+Offset: 489, GOTO , Operand: 162
+Offset: 490, PUSHI , Operand: 20
+Offset: 491, PUSHI , Operand: 13957
+Offset: 492, PUSHS , Operand: Members: Corrupt Morrigan's throwing axe
+Offset: 493, PUSHS , Operand: Members can now throw 
+Offset: 494, PUSHS , Operand: <col=000080>
+Offset: 495, PUSHS , Operand: corrupt Morrigan's throwing axe
+Offset: 496, PUSHS , Operand: </col>
+Offset: 497, PUSHS , Operand: .
+Offset: 498, CONCAT , Operand: 5
+Offset: 499, RETURN , Operand: 0
+Offset: 500, GOTO , Operand: 151
+Offset: 501, PUSHI , Operand: 30
+Offset: 502, PUSHI , Operand: 810
+Offset: 503, PUSHS , Operand: Members: Adamant dart
+Offset: 504, PUSHS , Operand: Members can now throw 
+Offset: 505, PUSHS , Operand: <col=000080>
+Offset: 506, PUSHS , Operand: adamant darts.
+Offset: 507, CONCAT , Operand: 3
+Offset: 508, RETURN , Operand: 0
+Offset: 509, GOTO , Operand: 142
+Offset: 510, PUSHI , Operand: 30
+Offset: 511, PUSHI , Operand: 829
+Offset: 512, PUSHS , Operand: Members: Adamant javelin
+Offset: 513, PUSHS , Operand: Members can now throw 
+Offset: 514, PUSHS , Operand: <col=000080>
+Offset: 515, PUSHS , Operand: adamant javelins
+Offset: 516, PUSHS , Operand: </col>
+Offset: 517, PUSHS , Operand: .
+Offset: 518, CONCAT , Operand: 5
+Offset: 519, RETURN , Operand: 0
+Offset: 520, GOTO , Operand: 131
+Offset: 521, PUSHI , Operand: 30
+Offset: 522, PUSHI , Operand: 804
+Offset: 523, PUSHS , Operand: Members: Adamant throwing axe
+Offset: 524, PUSHS , Operand: Members can now throw 
+Offset: 525, PUSHS , Operand: <col=000080>
+Offset: 526, PUSHS , Operand: adamant throwing axes
+Offset: 527, PUSHS , Operand: </col>
+Offset: 528, PUSHS , Operand: .
+Offset: 529, CONCAT , Operand: 5
+Offset: 530, RETURN , Operand: 0
+Offset: 531, GOTO , Operand: 120
+Offset: 532, PUSHI , Operand: 30
+Offset: 533, PUSHI , Operand: 867
+Offset: 534, PUSHS , Operand: Members: Adamant throwing knife
+Offset: 535, PUSHS , Operand: Members can now throw 
+Offset: 536, PUSHS , Operand: <col=000080>
+Offset: 537, PUSHS , Operand: adamant throwing knives
+Offset: 538, PUSHS , Operand: </col>
+Offset: 539, PUSHS , Operand: .
+Offset: 540, CONCAT , Operand: 5
+Offset: 541, RETURN , Operand: 0
+Offset: 542, GOTO , Operand: 109
+Offset: 543, PUSHI , Operand: 40
+Offset: 544, PUSHI , Operand: 811
+Offset: 545, PUSHS , Operand: Members: Rune dart
+Offset: 546, PUSHS , Operand: Members can now throw 
+Offset: 547, PUSHS , Operand: <col=000080>
+Offset: 548, PUSHS , Operand: rune darts
+Offset: 549, PUSHS , Operand: </col>
+Offset: 550, PUSHS , Operand: .
+Offset: 551, CONCAT , Operand: 5
+Offset: 552, RETURN , Operand: 0
+Offset: 553, GOTO , Operand: 98
+Offset: 554, PUSHI , Operand: 40
+Offset: 555, PUSHI , Operand: 830
+Offset: 556, PUSHS , Operand: Members: Rune javelin
+Offset: 557, PUSHS , Operand: Members can now throw 
+Offset: 558, PUSHS , Operand: <col=000080>
+Offset: 559, PUSHS , Operand: rune javelins
+Offset: 560, PUSHS , Operand: </col>
+Offset: 561, PUSHS , Operand: .
+Offset: 562, CONCAT , Operand: 5
+Offset: 563, RETURN , Operand: 0
+Offset: 564, GOTO , Operand: 87
+Offset: 565, PUSHI , Operand: 40
+Offset: 566, PUSHI , Operand: 805
+Offset: 567, PUSHS , Operand: Members: Rune throwing axe
+Offset: 568, PUSHS , Operand: Members can now throw 
+Offset: 569, PUSHS , Operand: <col=000080>
+Offset: 570, PUSHS , Operand: rune throwing axes
+Offset: 571, PUSHS , Operand: </col>
+Offset: 572, PUSHS , Operand: .
+Offset: 573, CONCAT , Operand: 5
+Offset: 574, RETURN , Operand: 0
+Offset: 575, GOTO , Operand: 76
+Offset: 576, PUSHI , Operand: 40
+Offset: 577, PUSHI , Operand: 868
+Offset: 578, PUSHS , Operand: Members: Rune throwing knife
+Offset: 579, PUSHS , Operand: Members can now throw 
+Offset: 580, PUSHS , Operand: <col=000080>
+Offset: 581, PUSHS , Operand: rune throwing knives
+Offset: 582, PUSHS , Operand: </col>
+Offset: 583, PUSHS , Operand: .
+Offset: 584, CONCAT , Operand: 5
+Offset: 585, RETURN , Operand: 0
+Offset: 586, GOTO , Operand: 65
+Offset: 587, PUSHI , Operand: 45
+Offset: 588, PUSHI , Operand: 10033
+Offset: 589, PUSHS , Operand: Members: Chinchompa
+Offset: 590, PUSHS , Operand: Members can now throw 
+Offset: 591, PUSHS , Operand: <col=000080>
+Offset: 592, PUSHS , Operand: chinchompas
+Offset: 593, PUSHS , Operand: </col>
+Offset: 594, PUSHS , Operand: .
+Offset: 595, CONCAT , Operand: 5
+Offset: 596, RETURN , Operand: 0
+Offset: 597, GOTO , Operand: 54
+Offset: 598, PUSHI , Operand: 55
+Offset: 599, PUSHI , Operand: 10034
+Offset: 600, PUSHS , Operand: Members: Red chinchompa
+Offset: 601, PUSHS , Operand: Members can now throw 
+Offset: 602, PUSHS , Operand: <col=000080>
+Offset: 603, PUSHS , Operand: red chinchompas
+Offset: 604, PUSHS , Operand: </col>
+Offset: 605, PUSHS , Operand: .
+Offset: 606, CONCAT , Operand: 5
+Offset: 607, RETURN , Operand: 0
+Offset: 608, GOTO , Operand: 43
+Offset: 609, PUSHI , Operand: 60
+Offset: 610, PUSHI , Operand: 11230
+Offset: 611, PUSHS , Operand: Members: Dragon dart
+Offset: 612, PUSHS , Operand: Members can now throw 
+Offset: 613, PUSHS , Operand: <col=000080>
+Offset: 614, PUSHS , Operand: dragon darts
+Offset: 615, PUSHS , Operand: </col>
+Offset: 616, PUSHS , Operand: .
+Offset: 617, CONCAT , Operand: 5
+Offset: 618, RETURN , Operand: 0
+Offset: 619, GOTO , Operand: 32
+Offset: 620, PUSHI , Operand: 60
+Offset: 621, PUSHI , Operand: 6522
+Offset: 622, PUSHS , Operand: Members: Toktz-Xil-Ul
+Offset: 623, PUSHS , Operand: Members can now throw 
+Offset: 624, PUSHS , Operand: <col=000080>
+Offset: 625, PUSHS , Operand: Toktz-Xil-Ul
+Offset: 626, PUSHS , Operand: </col>
+Offset: 627, PUSHS , Operand: .
+Offset: 628, CONCAT , Operand: 5
+Offset: 629, RETURN , Operand: 0
+Offset: 630, GOTO , Operand: 21
+Offset: 631, PUSHI , Operand: 78
+Offset: 632, PUSHI , Operand: 13879
+Offset: 633, PUSHS , Operand: Members: Morrigan's javelin
+Offset: 634, PUSHS , Operand: Members can now throw 
+Offset: 635, PUSHS , Operand: <col=000080>
+Offset: 636, PUSHS , Operand: Morrigan's javelin
+Offset: 637, PUSHS , Operand: </col>
+Offset: 638, PUSHS , Operand: .
+Offset: 639, CONCAT , Operand: 5
+Offset: 640, RETURN , Operand: 0
+Offset: 641, GOTO , Operand: 10
+Offset: 642, PUSHI , Operand: 78
+Offset: 643, PUSHI , Operand: 13883
+Offset: 644, PUSHS , Operand: Members: Morrigan's throwing axe
+Offset: 645, PUSHS , Operand: Members can now throw 
+Offset: 646, PUSHS , Operand: <col=000080>
+Offset: 647, PUSHS , Operand: Morrigan's throwing axe
+Offset: 648, PUSHS , Operand: </col>
+Offset: 649, PUSHS , Operand: .
+Offset: 650, CONCAT , Operand: 5
+Offset: 651, RETURN , Operand: 0
+Offset: 652, GOTO , Operand: 2721
+Offset: 653, LOADINT , Operand: 1
+Offset: 654, SWITCH , Operand: 3
+Offset: 655, GOTO , Operand: 790
+Offset: 656, PUSHI , Operand: 1
+Offset: 657, PUSHI , Operand: 1129
+Offset: 658, PUSHS , Operand: Plain leather items
+Offset: 659, PUSHS , Operand: You can now wear 
+Offset: 660, PUSHS , Operand: <col=000080>
+Offset: 661, PUSHS , Operand: plain leather
+Offset: 662, PUSHS , Operand: </col>
+Offset: 663, PUSHS , Operand:  items.
+Offset: 664, CONCAT , Operand: 5
+Offset: 665, RETURN , Operand: 0
+Offset: 666, GOTO , Operand: 779
+Offset: 667, PUSHI , Operand: 1
+Offset: 668, PUSHI , Operand: 1131
+Offset: 669, PUSHS , Operand: Hard leather body
+Offset: 670, PUSHS , Operand: <br>
+Offset: 671, PUSHS , Operand:  (with 10 Defence)
+Offset: 672, CONCAT , Operand: 3
+Offset: 673, PUSHS , Operand: You now have the Ranged level required to wear 
+Offset: 674, PUSHS , Operand: <col=000080>
+Offset: 675, PUSHS , Operand: hard leather
+Offset: 676, PUSHS , Operand: </col>
+Offset: 677, PUSHS , Operand:  bodies. (You also need level 10 Defence.)
+Offset: 678, CONCAT , Operand: 5
+Offset: 679, RETURN , Operand: 0
+Offset: 680, GOTO , Operand: 765
+Offset: 681, PUSHI , Operand: 1
+Offset: 682, PUSHI , Operand: 6143
+Offset: 683, PUSHS , Operand: Members: Spined boots
+Offset: 684, PUSHS , Operand: Members can now wear 
+Offset: 685, PUSHS , Operand: <col=000080>
+Offset: 686, PUSHS , Operand: spined boots
+Offset: 687, PUSHS , Operand: </col>
+Offset: 688, PUSHS , Operand: .
+Offset: 689, CONCAT , Operand: 5
+Offset: 690, RETURN , Operand: 0
+Offset: 691, GOTO , Operand: 754
+Offset: 692, PUSHI , Operand: 1
+Offset: 693, PUSHI , Operand: 6149
+Offset: 694, PUSHS , Operand: Members: Spined gloves
+Offset: 695, PUSHS , Operand: Members can now wear 
+Offset: 696, PUSHS , Operand: <col=000080>
+Offset: 697, PUSHS , Operand: spined gloves
+Offset: 698, PUSHS , Operand: </col>
+Offset: 699, PUSHS , Operand: .
+Offset: 700, CONCAT , Operand: 5
+Offset: 701, RETURN , Operand: 0
+Offset: 702, GOTO , Operand: 743
+Offset: 703, PUSHI , Operand: 1
+Offset: 704, PUSHI , Operand: 3749
+Offset: 705, PUSHS , Operand: Members: Archer helm (after Fremennik Trials and with 45 Defence)
+Offset: 706, PUSHS , Operand: Members now have the Ranged level required to wear 
+Offset: 707, PUSHS , Operand: <col=000080>
+Offset: 708, PUSHS , Operand: archer helms
+Offset: 709, PUSHS , Operand: </col>
+Offset: 710, PUSHS , Operand:  (after Fremennik Trials and with level 45 Defence).
+Offset: 711, CONCAT , Operand: 5
+Offset: 712, RETURN , Operand: 0
+Offset: 713, GOTO , Operand: 732
+Offset: 714, PUSHI , Operand: 20
+Offset: 715, PUSHI , Operand: 1133
+Offset: 716, PUSHS , Operand: Studded leather body
+Offset: 717, PUSHS , Operand: <br>
+Offset: 718, PUSHS , Operand:  (with 20 Defence)
+Offset: 719, CONCAT , Operand: 3
+Offset: 720, PUSHS , Operand: You now have the Ranged level required to wear 
+Offset: 721, PUSHS , Operand: <col=000080>
+Offset: 722, PUSHS , Operand: studded leather bodies
+Offset: 723, PUSHS , Operand: </col>
+Offset: 724, PUSHS , Operand: . (You also need level 20 Defence.)
+Offset: 725, CONCAT , Operand: 5
+Offset: 726, RETURN , Operand: 0
+Offset: 727, GOTO , Operand: 718
+Offset: 728, PUSHI , Operand: 20
+Offset: 729, PUSHI , Operand: 1097
+Offset: 730, PUSHS , Operand: Studded leather chaps
+Offset: 731, PUSHS , Operand: You can now wear 
+Offset: 732, PUSHS , Operand: <col=000080>
+Offset: 733, PUSHS , Operand: studded leather chaps
+Offset: 734, PUSHS , Operand: </col>
+Offset: 735, PUSHS , Operand: .
+Offset: 736, CONCAT , Operand: 5
+Offset: 737, RETURN , Operand: 0
+Offset: 738, GOTO , Operand: 707
+Offset: 739, PUSHI , Operand: 20
+Offset: 740, PUSHI , Operand: 1169
+Offset: 741, PUSHS , Operand: Coif
+Offset: 742, PUSHS , Operand: You can now wear 
+Offset: 743, PUSHS , Operand: <col=000080>
+Offset: 744, PUSHS , Operand: coifs
+Offset: 745, PUSHS , Operand: </col>
+Offset: 746, PUSHS , Operand: .
+Offset: 747, CONCAT , Operand: 5
+Offset: 748, RETURN , Operand: 0
+Offset: 749, GOTO , Operand: 696
+Offset: 750, PUSHI , Operand: 20
+Offset: 751, PUSHI , Operand: 13950
+Offset: 752, PUSHS , Operand: Members: Corrupt Morrigan's coif
+Offset: 753, PUSHS , Operand: <br>
+Offset: 754, PUSHS , Operand:  (with 20 Defence)
+Offset: 755, CONCAT , Operand: 3
+Offset: 756, PUSHS , Operand: Members now have the Ranged level required to wield 
+Offset: 757, PUSHS , Operand: <col=000080>
+Offset: 758, PUSHS , Operand: corrupt Morrigan's coif
+Offset: 759, PUSHS , Operand: </col>
+Offset: 760, PUSHS , Operand: . (They also need level 20 Defence)
+Offset: 761, CONCAT , Operand: 5
+Offset: 762, RETURN , Operand: 0
+Offset: 763, GOTO , Operand: 682
+Offset: 764, PUSHI , Operand: 20
+Offset: 765, PUSHI , Operand: 13944
+Offset: 766, PUSHS , Operand: Members: Corrupt Morrigan's leather body
+Offset: 767, PUSHS , Operand: <br>
+Offset: 768, PUSHS , Operand:  (with 20 Defence)
+Offset: 769, CONCAT , Operand: 3
+Offset: 770, PUSHS , Operand: Members now have the Ranged level required to wield 
+Offset: 771, PUSHS , Operand: <col=000080>
+Offset: 772, PUSHS , Operand: corrupt Morrigan's leather body
+Offset: 773, PUSHS , Operand: </col>
+Offset: 774, PUSHS , Operand: . (They also need level 20 Defence)
+Offset: 775, CONCAT , Operand: 5
+Offset: 776, RETURN , Operand: 0
+Offset: 777, GOTO , Operand: 668
+Offset: 778, PUSHI , Operand: 20
+Offset: 779, PUSHI , Operand: 13947
+Offset: 780, PUSHS , Operand: Members: Corrupt Morrigan's leather chaps
+Offset: 781, PUSHS , Operand: <br>
+Offset: 782, PUSHS , Operand:  (with 20 Defence)
+Offset: 783, CONCAT , Operand: 3
+Offset: 784, PUSHS , Operand: Members now have the Ranged level required to wield 
+Offset: 785, PUSHS , Operand: <col=000080>
+Offset: 786, PUSHS , Operand: corrupt Morrigan's leather chaps
+Offset: 787, PUSHS , Operand: </col>
+Offset: 788, PUSHS , Operand: . (They also need level 20 Defence)
+Offset: 789, CONCAT , Operand: 5
+Offset: 790, RETURN , Operand: 0
+Offset: 791, GOTO , Operand: 654
+Offset: 792, PUSHI , Operand: 20
+Offset: 793, PUSHI , Operand: 15490
+Offset: 794, PUSHS , Operand: Members: Focus sight
+Offset: 795, PUSHS , Operand: <br>
+Offset: 796, PUSHS , Operand:  (with 10 Defence)
+Offset: 797, CONCAT , Operand: 3
+Offset: 798, PUSHS , Operand: Members can now wear 
+Offset: 799, PUSHS , Operand: <col=000080>
+Offset: 800, PUSHS , Operand: focus sights
+Offset: 801, PUSHS , Operand: </col>
+Offset: 802, PUSHS , Operand: .
+Offset: 803, CONCAT , Operand: 5
+Offset: 804, RETURN , Operand: 0
+Offset: 805, GOTO , Operand: 640
+Offset: 806, PUSHI , Operand: 20
+Offset: 807, PUSHI , Operand: 15492
+Offset: 808, PUSHS , Operand: Members: Full Slayer helmet
+Offset: 809, PUSHS , Operand: <br>
+Offset: 810, PUSHS , Operand:  (after Smoking Kills with 10 Defence, 20 Magic and Strength)
+Offset: 811, CONCAT , Operand: 3
+Offset: 812, PUSHS , Operand: Members can now wear 
+Offset: 813, PUSHS , Operand: <col=000080>
+Offset: 814, PUSHS , Operand: full slayer helmets
+Offset: 815, PUSHS , Operand: </col>
+Offset: 816, PUSHS , Operand:  (after Smoking Kills with 10 Defence, 20 Magic and Strength).
+Offset: 817, CONCAT , Operand: 5
+Offset: 818, RETURN , Operand: 0
+Offset: 819, GOTO , Operand: 626
+Offset: 820, PUSHI , Operand: 25
+Offset: 821, PUSHI , Operand: 10954
+Offset: 822, PUSHS , Operand: Members: Frog-leather body
+Offset: 823, PUSHS , Operand: <br>
+Offset: 824, PUSHS , Operand:  (with 25 Defence)
+Offset: 825, CONCAT , Operand: 3
+Offset: 826, PUSHS , Operand: Members now have the Ranged level required to wear 
+Offset: 827, PUSHS , Operand: <col=000080>
+Offset: 828, PUSHS , Operand: frog-leather bodies
+Offset: 829, PUSHS , Operand: </col>
+Offset: 830, PUSHS , Operand: . (They also need level 25 Defence.)
+Offset: 831, CONCAT , Operand: 5
+Offset: 832, RETURN , Operand: 0
+Offset: 833, GOTO , Operand: 612
+Offset: 834, PUSHI , Operand: 25
+Offset: 835, PUSHI , Operand: 10956
+Offset: 836, PUSHS , Operand: Members: Frog-leather chaps
+Offset: 837, PUSHS , Operand: <br>
+Offset: 838, PUSHS , Operand:  (with 25 Defence)
+Offset: 839, CONCAT , Operand: 3
+Offset: 840, PUSHS , Operand: Members now have the Ranged level required to wear 
+Offset: 841, PUSHS , Operand: <col=000080>
+Offset: 842, PUSHS , Operand: frog-leather chaps
+Offset: 843, PUSHS , Operand: </col>
+Offset: 844, PUSHS , Operand: . (They also need level 25 Defence.)
+Offset: 845, CONCAT , Operand: 5
+Offset: 846, RETURN , Operand: 0
+Offset: 847, GOTO , Operand: 598
+Offset: 848, PUSHI , Operand: 25
+Offset: 849, PUSHI , Operand: 10958
+Offset: 850, PUSHS , Operand: Members: Frog-leather boots
+Offset: 851, PUSHS , Operand: <br>
+Offset: 852, PUSHS , Operand:  (with 25 Defence)
+Offset: 853, CONCAT , Operand: 3
+Offset: 854, PUSHS , Operand: Members now have the Ranged level required to wear 
+Offset: 855, PUSHS , Operand: <col=000080>
+Offset: 856, PUSHS , Operand: frog-leather boots
+Offset: 857, PUSHS , Operand: </col>
+Offset: 858, PUSHS , Operand: . (They also need level 25 Defence.).
+Offset: 859, CONCAT , Operand: 5
+Offset: 860, RETURN , Operand: 0
+Offset: 861, GOTO , Operand: 584
+Offset: 862, PUSHI , Operand: 30
+Offset: 863, PUSHI , Operand: 6322
+Offset: 864, PUSHS , Operand: Members: Snakeskin body
+Offset: 865, PUSHS , Operand: <br>
+Offset: 866, PUSHS , Operand:  (with 30 Defence)
+Offset: 867, CONCAT , Operand: 3
+Offset: 868, PUSHS , Operand: Members now have the Ranged level required to wear 
+Offset: 869, PUSHS , Operand: <col=000080>
+Offset: 870, PUSHS , Operand: snakeskin bodies
+Offset: 871, PUSHS , Operand: </col>
+Offset: 872, PUSHS , Operand: . (They also need level 30 Defence.)
+Offset: 873, CONCAT , Operand: 5
+Offset: 874, RETURN , Operand: 0
+Offset: 875, GOTO , Operand: 570
+Offset: 876, PUSHI , Operand: 30
+Offset: 877, PUSHI , Operand: 6324
+Offset: 878, PUSHS , Operand: Members: Snakeskin chaps
+Offset: 879, PUSHS , Operand: <br>
+Offset: 880, PUSHS , Operand:  (with 30 Defence)
+Offset: 881, CONCAT , Operand: 3
+Offset: 882, PUSHS , Operand: Members now have the Ranged level required to wear 
+Offset: 883, PUSHS , Operand: <col=000080>
+Offset: 884, PUSHS , Operand: snakeskin chaps
+Offset: 885, PUSHS , Operand: </col>
+Offset: 886, PUSHS , Operand: . (They also need level 30 Defence.)
+Offset: 887, CONCAT , Operand: 5
+Offset: 888, RETURN , Operand: 0
+Offset: 889, GOTO , Operand: 556
+Offset: 890, PUSHI , Operand: 30
+Offset: 891, PUSHI , Operand: 6330
+Offset: 892, PUSHS , Operand: Members: Snakeskin vambraces
+Offset: 893, PUSHS , Operand: <br>
+Offset: 894, PUSHS , Operand:  (with 30 Defence)
+Offset: 895, CONCAT , Operand: 3
+Offset: 896, PUSHS , Operand: Members now have the Ranged level required to wear 
+Offset: 897, PUSHS , Operand: <col=000080>
+Offset: 898, PUSHS , Operand: snakeskin vambraces
+Offset: 899, PUSHS , Operand: </col>
+Offset: 900, PUSHS , Operand: . (They also need level 30 Defence.)
+Offset: 901, CONCAT , Operand: 5
+Offset: 902, RETURN , Operand: 0
+Offset: 903, GOTO , Operand: 542
+Offset: 904, PUSHI , Operand: 30
+Offset: 905, PUSHI , Operand: 6326
+Offset: 906, PUSHS , Operand: Members: Snakeskin bandana
+Offset: 907, PUSHS , Operand: <br>
+Offset: 908, PUSHS , Operand:  (with 30 Defence)
+Offset: 909, CONCAT , Operand: 3
+Offset: 910, PUSHS , Operand: Members now have the Ranged level required to wear 
+Offset: 911, PUSHS , Operand: <col=000080>
+Offset: 912, PUSHS , Operand: snakeskin bandanas
+Offset: 913, PUSHS , Operand: </col>
+Offset: 914, PUSHS , Operand: . (They also need level 30 Defence.)
+Offset: 915, CONCAT , Operand: 5
+Offset: 916, RETURN , Operand: 0
+Offset: 917, GOTO , Operand: 528
+Offset: 918, PUSHI , Operand: 30
+Offset: 919, PUSHI , Operand: 6328
+Offset: 920, PUSHS , Operand: Members: Snakeskin boots
+Offset: 921, PUSHS , Operand: <br>
+Offset: 922, PUSHS , Operand:  (with 30 Defence)
+Offset: 923, CONCAT , Operand: 3
+Offset: 924, PUSHS , Operand: Members now have the Ranged level required to wear 
+Offset: 925, PUSHS , Operand: <col=000080>
+Offset: 926, PUSHS , Operand: snakeskin boots
+Offset: 927, PUSHS , Operand: </col>
+Offset: 928, PUSHS , Operand: . (They also need level 30 Defence.)
+Offset: 929, CONCAT , Operand: 5
+Offset: 930, RETURN , Operand: 0
+Offset: 931, GOTO , Operand: 514
+Offset: 932, PUSHI , Operand: 40
+Offset: 933, PUSHI , Operand: 2577
+Offset: 934, PUSHS , Operand: Members: Ranger boots
+Offset: 935, PUSHS , Operand: Members can now wear 
+Offset: 936, PUSHS , Operand: <col=000080>
+Offset: 937, PUSHS , Operand: ranger boots
+Offset: 938, PUSHS , Operand: </col>
+Offset: 939, PUSHS , Operand: .
+Offset: 940, CONCAT , Operand: 5
+Offset: 941, RETURN , Operand: 0
+Offset: 942, GOTO , Operand: 503
+Offset: 943, PUSHI , Operand: 40
+Offset: 944, PUSHI , Operand: 2581
+Offset: 945, PUSHS , Operand: Members: Robin Hood hat
+Offset: 946, PUSHS , Operand: Members can now wear 
+Offset: 947, PUSHS , Operand: <col=000080>
+Offset: 948, PUSHS , Operand: Robin Hood hats
+Offset: 949, PUSHS , Operand: </col>
+Offset: 950, PUSHS , Operand: .
+Offset: 951, CONCAT , Operand: 5
+Offset: 952, RETURN , Operand: 0
+Offset: 953, GOTO , Operand: 492
+Offset: 954, PUSHI , Operand: 40
+Offset: 955, PUSHI , Operand: 1065
+Offset: 956, PUSHS , Operand: Green dragonhide vambraces
+Offset: 957, PUSHS , Operand: You can now wear 
+Offset: 958, PUSHS , Operand: <col=000080>
+Offset: 959, PUSHS , Operand: green dragonhide vambraces
+Offset: 960, PUSHS , Operand: </col>
+Offset: 961, PUSHS , Operand: .
+Offset: 962, CONCAT , Operand: 5
+Offset: 963, RETURN , Operand: 0
+Offset: 964, GOTO , Operand: 481
+Offset: 965, PUSHI , Operand: 40
+Offset: 966, PUSHI , Operand: 1099
+Offset: 967, PUSHS , Operand: Green dragonhide chaps
+Offset: 968, PUSHS , Operand: You can now wear 
+Offset: 969, PUSHS , Operand: <col=000080>
+Offset: 970, PUSHS , Operand: green dragonhide chaps
+Offset: 971, PUSHS , Operand: </col>
+Offset: 972, PUSHS , Operand: .
+Offset: 973, CONCAT , Operand: 5
+Offset: 974, RETURN , Operand: 0
+Offset: 975, GOTO , Operand: 470
+Offset: 976, PUSHI , Operand: 40
+Offset: 977, PUSHI , Operand: 1135
+Offset: 978, PUSHS , Operand: Green dragonhide body
+Offset: 979, PUSHS , Operand: <br>
+Offset: 980, PUSHS , Operand:  (after Dragon Slayer and with 40 Defence)
+Offset: 981, CONCAT , Operand: 3
+Offset: 982, PUSHS , Operand: You now have the Ranged level required to wear 
+Offset: 983, PUSHS , Operand: <col=000080>
+Offset: 984, PUSHS , Operand: green dragonhide bodies
+Offset: 985, PUSHS , Operand: </col>
+Offset: 986, PUSHS , Operand: . (You also need to have completed Dragon Slayer and have level 40 Defence.)
+Offset: 987, CONCAT , Operand: 5
+Offset: 988, RETURN , Operand: 0
+Offset: 989, GOTO , Operand: 456
+Offset: 990, PUSHI , Operand: 40
+Offset: 991, PUSHI , Operand: 12936
+Offset: 992, PUSHS , Operand: Green dragonhide coif
+Offset: 993, PUSHS , Operand: <br>
+Offset: 994, PUSHS , Operand:  (with 40 Defence)
+Offset: 995, CONCAT , Operand: 3
+Offset: 996, PUSHS , Operand: You now have the Ranged level required to wear 
+Offset: 997, PUSHS , Operand: <col=000080>
+Offset: 998, PUSHS , Operand: green dragonhide coifs
+Offset: 999, PUSHS , Operand: </col>
+Offset: 1000, PUSHS , Operand: . (You also need level 40 Defence.)
+Offset: 1001, CONCAT , Operand: 5
+Offset: 1002, RETURN , Operand: 0
+Offset: 1003, GOTO , Operand: 442
+Offset: 1004, PUSHI , Operand: 40
+Offset: 1005, PUSHI , Operand: 6133
+Offset: 1006, PUSHS , Operand: Members: Spined body
+Offset: 1007, PUSHS , Operand: <br>
+Offset: 1008, PUSHS , Operand:  (after Fremennik Trials and with 40 Defence)
+Offset: 1009, CONCAT , Operand: 3
+Offset: 1010, PUSHS , Operand: Members now have the Ranged level required to wear 
+Offset: 1011, PUSHS , Operand: <col=000080>
+Offset: 1012, PUSHS , Operand: spined bodies
+Offset: 1013, PUSHS , Operand: </col>
+Offset: 1014, PUSHS , Operand:  (after Fremennik Trials, with level 40 Defence).
+Offset: 1015, CONCAT , Operand: 5
+Offset: 1016, RETURN , Operand: 0
+Offset: 1017, GOTO , Operand: 428
+Offset: 1018, PUSHI , Operand: 40
+Offset: 1019, PUSHI , Operand: 6135
+Offset: 1020, PUSHS , Operand: Members: Spined chaps
+Offset: 1021, PUSHS , Operand: <br>
+Offset: 1022, PUSHS , Operand:  (after Fremennik Trials and with 40 Defence)
+Offset: 1023, CONCAT , Operand: 3
+Offset: 1024, PUSHS , Operand: Members now have the Ranged level required to wear 
+Offset: 1025, PUSHS , Operand: <col=000080>
+Offset: 1026, PUSHS , Operand: spined chaps
+Offset: 1027, PUSHS , Operand: </col>
+Offset: 1028, PUSHS , Operand:  (after Fremennik Trials, with level 40 Defence).
+Offset: 1029, CONCAT , Operand: 5
+Offset: 1030, RETURN , Operand: 0
+Offset: 1031, GOTO , Operand: 414
+Offset: 1032, PUSHI , Operand: 40
+Offset: 1033, PUSHI , Operand: 6131
+Offset: 1034, PUSHS , Operand: Members: Spined helm
+Offset: 1035, PUSHS , Operand: <br>
+Offset: 1036, PUSHS , Operand:  (after Fremennik Trials and with 40 Defence)
+Offset: 1037, CONCAT , Operand: 3
+Offset: 1038, PUSHS , Operand: Members now have the Ranged level required to wear 
+Offset: 1039, PUSHS , Operand: <col=000080>
+Offset: 1040, PUSHS , Operand: spined helms
+Offset: 1041, PUSHS , Operand: </col>
+Offset: 1042, PUSHS , Operand:  (after Fremennik Trials, with level 40 Defence).
+Offset: 1043, CONCAT , Operand: 5
+Offset: 1044, RETURN , Operand: 0
+Offset: 1045, GOTO , Operand: 400
+Offset: 1046, PUSHI , Operand: 40
+Offset: 1047, PUSHI , Operand: 14120
+Offset: 1048, PUSHS , Operand: Members: Sacred clay coif
+Offset: 1049, PUSHS , Operand: <br>
+Offset: 1050, PUSHS , Operand:  (with 40 Defence)
+Offset: 1051, CONCAT , Operand: 3
+Offset: 1052, PUSHS , Operand: Members now have the Ranged level required to wear 
+Offset: 1053, PUSHS , Operand: <col=000080>
+Offset: 1054, PUSHS , Operand: sacred clay coifs
+Offset: 1055, PUSHS , Operand: </col>
+Offset: 1056, PUSHS , Operand: . (They also need level 40 Defence.)
+Offset: 1057, CONCAT , Operand: 5
+Offset: 1058, RETURN , Operand: 0
+Offset: 1059, GOTO , Operand: 386
+Offset: 1060, PUSHI , Operand: 40
+Offset: 1061, PUSHI , Operand: 14118
+Offset: 1062, PUSHS , Operand: Members: Sacred clay body
+Offset: 1063, PUSHS , Operand: <br>
+Offset: 1064, PUSHS , Operand:  (with 40 Defence)
+Offset: 1065, CONCAT , Operand: 3
+Offset: 1066, PUSHS , Operand: Members now have the Ranged level required to wear 
+Offset: 1067, PUSHS , Operand: <col=000080>
+Offset: 1068, PUSHS , Operand: sacred clay bodies
+Offset: 1069, PUSHS , Operand: </col>
+Offset: 1070, PUSHS , Operand: . (They also need level 40 Defence.)
+Offset: 1071, CONCAT , Operand: 5
+Offset: 1072, RETURN , Operand: 0
+Offset: 1073, GOTO , Operand: 372
+Offset: 1074, PUSHI , Operand: 40
+Offset: 1075, PUSHI , Operand: 14119
+Offset: 1076, PUSHS , Operand: Members: Sacred clay chaps
+Offset: 1077, PUSHS , Operand: <br>
+Offset: 1078, PUSHS , Operand:  (with 40 Defence)
+Offset: 1079, CONCAT , Operand: 3
+Offset: 1080, PUSHS , Operand: Members now have the Ranged level required to wear 
+Offset: 1081, PUSHS , Operand: <col=000080>
+Offset: 1082, PUSHS , Operand: sacred clay chaps
+Offset: 1083, PUSHS , Operand: </col>
+Offset: 1084, PUSHS , Operand: . (They also need level 40 Defence.)
+Offset: 1085, CONCAT , Operand: 5
+Offset: 1086, RETURN , Operand: 0
+Offset: 1087, GOTO , Operand: 358
+Offset: 1088, PUSHI , Operand: 50
+Offset: 1089, PUSHI , Operand: 2487
+Offset: 1090, PUSHS , Operand: Members: Blue dragonhide vambraces
+Offset: 1091, PUSHS , Operand: Members can now wear 
+Offset: 1092, PUSHS , Operand: <col=000080>
+Offset: 1093, PUSHS , Operand: blue dragonhide vambraces
+Offset: 1094, PUSHS , Operand: </col>
+Offset: 1095, PUSHS , Operand: .
+Offset: 1096, CONCAT , Operand: 5
+Offset: 1097, RETURN , Operand: 0
+Offset: 1098, GOTO , Operand: 347
+Offset: 1099, PUSHI , Operand: 50
+Offset: 1100, PUSHI , Operand: 2493
+Offset: 1101, PUSHS , Operand: Members: Blue dragonhide chaps
+Offset: 1102, PUSHS , Operand: Members can now wear 
+Offset: 1103, PUSHS , Operand: <col=000080>
+Offset: 1104, PUSHS , Operand: blue dragonhide chaps
+Offset: 1105, PUSHS , Operand: </col>
+Offset: 1106, PUSHS , Operand: .
+Offset: 1107, CONCAT , Operand: 5
+Offset: 1108, RETURN , Operand: 0
+Offset: 1109, GOTO , Operand: 336
+Offset: 1110, PUSHI , Operand: 50
+Offset: 1111, PUSHI , Operand: 2499
+Offset: 1112, PUSHS , Operand: Members: Blue dragonhide body
+Offset: 1113, PUSHS , Operand: <br>
+Offset: 1114, PUSHS , Operand:  (with 40 Defence)
+Offset: 1115, CONCAT , Operand: 3
+Offset: 1116, PUSHS , Operand: Members now have the Ranged level required to wear 
+Offset: 1117, PUSHS , Operand: <col=000080>
+Offset: 1118, PUSHS , Operand: blue dragonhide bodies
+Offset: 1119, PUSHS , Operand: </col>
+Offset: 1120, PUSHS , Operand: . (They also need level 40 Defence.)
+Offset: 1121, CONCAT , Operand: 5
+Offset: 1122, RETURN , Operand: 0
+Offset: 1123, GOTO , Operand: 322
+Offset: 1124, PUSHI , Operand: 50
+Offset: 1125, PUSHI , Operand: 12943
+Offset: 1126, PUSHS , Operand: Members: Blue dragonhide coif
+Offset: 1127, PUSHS , Operand: <br>
+Offset: 1128, PUSHS , Operand:  (with 40 Defence)
+Offset: 1129, CONCAT , Operand: 3
+Offset: 1130, PUSHS , Operand: Members now have the Ranged level required to wear 
+Offset: 1131, PUSHS , Operand: <col=000080>
+Offset: 1132, PUSHS , Operand: blue dragonhide coifs
+Offset: 1133, PUSHS , Operand: </col>
+Offset: 1134, PUSHS , Operand: . (They also need level 40 Defence.)
+Offset: 1135, CONCAT , Operand: 5
+Offset: 1136, RETURN , Operand: 0
+Offset: 1137, GOTO , Operand: 308
+Offset: 1138, PUSHI , Operand: 60
+Offset: 1139, PUSHI , Operand: 2489
+Offset: 1140, PUSHS , Operand: Members: Red dragonhide vambraces
+Offset: 1141, PUSHS , Operand: Members can now wear 
+Offset: 1142, PUSHS , Operand: <col=000080>
+Offset: 1143, PUSHS , Operand: red dragonhide vambraces
+Offset: 1144, PUSHS , Operand: </col>
+Offset: 1145, PUSHS , Operand: .
+Offset: 1146, CONCAT , Operand: 5
+Offset: 1147, RETURN , Operand: 0
+Offset: 1148, GOTO , Operand: 297
+Offset: 1149, PUSHI , Operand: 60
+Offset: 1150, PUSHI , Operand: 2495
+Offset: 1151, PUSHS , Operand: Members: Red dragonhide chaps
+Offset: 1152, PUSHS , Operand: Members can now wear 
+Offset: 1153, PUSHS , Operand: <col=000080>
+Offset: 1154, PUSHS , Operand: red dragonhide chaps
+Offset: 1155, PUSHS , Operand: </col>
+Offset: 1156, PUSHS , Operand: .
+Offset: 1157, CONCAT , Operand: 5
+Offset: 1158, RETURN , Operand: 0
+Offset: 1159, GOTO , Operand: 286
+Offset: 1160, PUSHI , Operand: 60
+Offset: 1161, PUSHI , Operand: 2501
+Offset: 1162, PUSHS , Operand: Members: Red dragonhide body
+Offset: 1163, PUSHS , Operand: <br>
+Offset: 1164, PUSHS , Operand:  (with 40 Defence)
+Offset: 1165, CONCAT , Operand: 3
+Offset: 1166, PUSHS , Operand: Members now have the Ranged level required to wear 
+Offset: 1167, PUSHS , Operand: <col=000080>
+Offset: 1168, PUSHS , Operand: red dragonhide bodies
+Offset: 1169, PUSHS , Operand: </col>
+Offset: 1170, PUSHS , Operand: . (They also need level 40 Defence.)
+Offset: 1171, CONCAT , Operand: 5
+Offset: 1172, RETURN , Operand: 0
+Offset: 1173, GOTO , Operand: 272
+Offset: 1174, PUSHI , Operand: 60
+Offset: 1175, PUSHI , Operand: 12950
+Offset: 1176, PUSHS , Operand: Members: Red dragonhide coif
+Offset: 1177, PUSHS , Operand: <br>
+Offset: 1178, PUSHS , Operand:  (with 40 Defence)
+Offset: 1179, CONCAT , Operand: 3
+Offset: 1180, PUSHS , Operand: Members now have the Ranged level required to wear 
+Offset: 1181, PUSHS , Operand: <col=000080>
+Offset: 1182, PUSHS , Operand: red dragonhide coifs
+Offset: 1183, PUSHS , Operand: </col>
+Offset: 1184, PUSHS , Operand: . (They also need level 40 Defence.)
+Offset: 1185, CONCAT , Operand: 5
+Offset: 1186, RETURN , Operand: 0
+Offset: 1187, GOTO , Operand: 258
+Offset: 1188, PUSHI , Operand: 60
+Offset: 1189, PUSHI , Operand: 10555
+Offset: 1190, PUSHS , Operand: Members: Penance skirt
+Offset: 1191, PUSHS , Operand: <br>
+Offset: 1192, PUSHS , Operand:  (with 40 Defence)
+Offset: 1193, CONCAT , Operand: 3
+Offset: 1194, PUSHS , Operand: Members now have the Ranged level required to wear 
+Offset: 1195, PUSHS , Operand: <col=000080>
+Offset: 1196, PUSHS , Operand: penance skirts
+Offset: 1197, PUSHS , Operand: </col>
+Offset: 1198, PUSHS , Operand: . (They also need level 40 Defence.)
+Offset: 1199, CONCAT , Operand: 5
+Offset: 1200, RETURN , Operand: 0
+Offset: 1201, GOTO , Operand: 244
+Offset: 1202, PUSHI , Operand: 65
+Offset: 1203, PUSHI , Operand: 10334
+Offset: 1204, PUSHS , Operand: Members: Third-Age range coif
+Offset: 1205, PUSHS , Operand: <br>
+Offset: 1206, PUSHS , Operand:  (with 45 Defence)
+Offset: 1207, CONCAT , Operand: 3
+Offset: 1208, PUSHS , Operand: Members now have the Ranged level required to wear 
+Offset: 1209, PUSHS , Operand: <col=000080>
+Offset: 1210, PUSHS , Operand: Third-Age range coifs
+Offset: 1211, PUSHS , Operand: </col>
+Offset: 1212, PUSHS , Operand: . (They also need level 45 Defence.)
+Offset: 1213, CONCAT , Operand: 5
+Offset: 1214, RETURN , Operand: 0
+Offset: 1215, GOTO , Operand: 230
+Offset: 1216, PUSHI , Operand: 65
+Offset: 1217, PUSHI , Operand: 10330
+Offset: 1218, PUSHS , Operand: Members: Third-Age range top
+Offset: 1219, PUSHS , Operand: <br>
+Offset: 1220, PUSHS , Operand:  (with 45 Defence)
+Offset: 1221, CONCAT , Operand: 3
+Offset: 1222, PUSHS , Operand: Members now have the Ranged level required to wear 
+Offset: 1223, PUSHS , Operand: <col=000080>
+Offset: 1224, PUSHS , Operand: Third-Age range tops
+Offset: 1225, PUSHS , Operand: </col>
+Offset: 1226, PUSHS , Operand: . (They also need level 45 Defence.)
+Offset: 1227, CONCAT , Operand: 5
+Offset: 1228, RETURN , Operand: 0
+Offset: 1229, GOTO , Operand: 216
+Offset: 1230, PUSHI , Operand: 65
+Offset: 1231, PUSHI , Operand: 10332
+Offset: 1232, PUSHS , Operand: Members: Third-Age range legs
+Offset: 1233, PUSHS , Operand: <br>
+Offset: 1234, PUSHS , Operand:  (with 45 Defence)
+Offset: 1235, CONCAT , Operand: 3
+Offset: 1236, PUSHS , Operand: Members now have the Ranged level required to wear 
+Offset: 1237, PUSHS , Operand: <col=000080>
+Offset: 1238, PUSHS , Operand: Third-Age range legs
+Offset: 1239, PUSHS , Operand: </col>
+Offset: 1240, PUSHS , Operand: . (They also need level 45 Defence.)
+Offset: 1241, CONCAT , Operand: 5
+Offset: 1242, RETURN , Operand: 0
+Offset: 1243, GOTO , Operand: 202
+Offset: 1244, PUSHI , Operand: 65
+Offset: 1245, PUSHI , Operand: 10336
+Offset: 1246, PUSHS , Operand: Members: Third-Age range vambraces
+Offset: 1247, PUSHS , Operand: <br>
+Offset: 1248, PUSHS , Operand:  (with 45 Defence)
+Offset: 1249, CONCAT , Operand: 3
+Offset: 1250, PUSHS , Operand: Members now have the Ranged level required to wear 
+Offset: 1251, PUSHS , Operand: <col=000080>
+Offset: 1252, PUSHS , Operand: Third-Age range vambraces
+Offset: 1253, PUSHS , Operand: </col>
+Offset: 1254, PUSHS , Operand: . (They also need level 45 Defence.)
+Offset: 1255, CONCAT , Operand: 5
+Offset: 1256, RETURN , Operand: 0
+Offset: 1257, GOTO , Operand: 188
+Offset: 1258, PUSHI , Operand: 70
+Offset: 1259, PUSHI , Operand: 2491
+Offset: 1260, PUSHS , Operand: Members: Black dragonhide vambraces
+Offset: 1261, PUSHS , Operand: Members can now wear 
+Offset: 1262, PUSHS , Operand: <col=000080>
+Offset: 1263, PUSHS , Operand: black dragonhide vambraces
+Offset: 1264, PUSHS , Operand: </col>
+Offset: 1265, PUSHS , Operand: .
+Offset: 1266, CONCAT , Operand: 5
+Offset: 1267, RETURN , Operand: 0
+Offset: 1268, GOTO , Operand: 177
+Offset: 1269, PUSHI , Operand: 70
+Offset: 1270, PUSHI , Operand: 2497
+Offset: 1271, PUSHS , Operand: Members: Black dragonhide chaps
+Offset: 1272, PUSHS , Operand: Members can now wear 
+Offset: 1273, PUSHS , Operand: <col=000080>
+Offset: 1274, PUSHS , Operand: black dragonhide chaps
+Offset: 1275, PUSHS , Operand: </col>
+Offset: 1276, PUSHS , Operand: .
+Offset: 1277, CONCAT , Operand: 5
+Offset: 1278, RETURN , Operand: 0
+Offset: 1279, GOTO , Operand: 166
+Offset: 1280, PUSHI , Operand: 70
+Offset: 1281, PUSHI , Operand: 2503
+Offset: 1282, PUSHS , Operand: Members: Black dragonhide body
+Offset: 1283, PUSHS , Operand: <br>
+Offset: 1284, PUSHS , Operand:  (with 40 Defence)
+Offset: 1285, CONCAT , Operand: 3
+Offset: 1286, PUSHS , Operand: Members now have the Ranged level required to wear 
+Offset: 1287, PUSHS , Operand: <col=000080>
+Offset: 1288, PUSHS , Operand: black dragonhide bodies
+Offset: 1289, PUSHS , Operand: </col>
+Offset: 1290, PUSHS , Operand: . (They also need level 40 Defence.)
+Offset: 1291, CONCAT , Operand: 5
+Offset: 1292, RETURN , Operand: 0
+Offset: 1293, GOTO , Operand: 152
+Offset: 1294, PUSHI , Operand: 70
+Offset: 1295, PUSHI , Operand: 12957
+Offset: 1296, PUSHS , Operand: Members: Black dragonhide coif
+Offset: 1297, PUSHS , Operand: <br>
+Offset: 1298, PUSHS , Operand:  (with 40 Defence)
+Offset: 1299, CONCAT , Operand: 3
+Offset: 1300, PUSHS , Operand: Members now have the Ranged level required to wear 
+Offset: 1301, PUSHS , Operand: <col=000080>
+Offset: 1302, PUSHS , Operand: black dragonhide coifs
+Offset: 1303, PUSHS , Operand: </col>
+Offset: 1304, PUSHS , Operand: . (They also need level 40 Defence.)
+Offset: 1305, CONCAT , Operand: 5
+Offset: 1306, RETURN , Operand: 0
+Offset: 1307, GOTO , Operand: 138
+Offset: 1308, PUSHI , Operand: 70
+Offset: 1309, PUSHI , Operand: 10374
+Offset: 1310, PUSHS , Operand: Members: Blessed dragonhide coif
+Offset: 1311, PUSHS , Operand: <br>
+Offset: 1312, PUSHS , Operand:  (with 40 Defence)
+Offset: 1313, CONCAT , Operand: 3
+Offset: 1314, PUSHS , Operand: Members now have the Ranged level required to wear 
+Offset: 1315, PUSHS , Operand: <col=000080>
+Offset: 1316, PUSHS , Operand: blessed dragonhide coifs
+Offset: 1317, PUSHS , Operand: </col>
+Offset: 1318, PUSHS , Operand: . (They also need level 40 Defence.)
+Offset: 1319, CONCAT , Operand: 5
+Offset: 1320, RETURN , Operand: 0
+Offset: 1321, GOTO , Operand: 124
+Offset: 1322, PUSHI , Operand: 70
+Offset: 1323, PUSHI , Operand: 4732
+Offset: 1324, PUSHS , Operand: Members: Karil's coif
+Offset: 1325, PUSHS , Operand: <br>
+Offset: 1326, PUSHS , Operand:  (with 70 Defence)
+Offset: 1327, CONCAT , Operand: 3
+Offset: 1328, PUSHS , Operand: Members now have the Ranged level required to wear 
+Offset: 1329, PUSHS , Operand: <col=000080>
+Offset: 1330, PUSHS , Operand: Karil's Coif
+Offset: 1331, PUSHS , Operand: </col>
+Offset: 1332, PUSHS , Operand: . (They also need level 70 Defence.)
+Offset: 1333, CONCAT , Operand: 5
+Offset: 1334, RETURN , Operand: 0
+Offset: 1335, GOTO , Operand: 110
+Offset: 1336, PUSHI , Operand: 70
+Offset: 1337, PUSHI , Operand: 4736
+Offset: 1338, PUSHS , Operand: Members: Karil's leather top
+Offset: 1339, PUSHS , Operand: <br>
+Offset: 1340, PUSHS , Operand:  (with 70 Defence)
+Offset: 1341, CONCAT , Operand: 3
+Offset: 1342, PUSHS , Operand: Members now have the Ranged level required to wear 
+Offset: 1343, PUSHS , Operand: <col=000080>
+Offset: 1344, PUSHS , Operand: Karil's leather top
+Offset: 1345, PUSHS , Operand: </col>
+Offset: 1346, PUSHS , Operand: . (They also need level 70 Defence.)
+Offset: 1347, CONCAT , Operand: 5
+Offset: 1348, RETURN , Operand: 0
+Offset: 1349, GOTO , Operand: 96
+Offset: 1350, PUSHI , Operand: 70
+Offset: 1351, PUSHI , Operand: 4738
+Offset: 1352, PUSHS , Operand: Members: Karil's leather skirt
+Offset: 1353, PUSHS , Operand: <br>
+Offset: 1354, PUSHS , Operand:  (with 70 Defence)
+Offset: 1355, CONCAT , Operand: 3
+Offset: 1356, PUSHS , Operand: Members now have the Ranged level required to wear 
+Offset: 1357, PUSHS , Operand: <col=000080>
+Offset: 1358, PUSHS , Operand: Karil's leather skirt
+Offset: 1359, PUSHS , Operand: </col>
+Offset: 1360, PUSHS , Operand: . (They also need level 70 Defence.)
+Offset: 1361, CONCAT , Operand: 5
+Offset: 1362, RETURN , Operand: 0
+Offset: 1363, GOTO , Operand: 82
+Offset: 1364, PUSHI , Operand: 70
+Offset: 1365, PUSHI , Operand: 11718
+Offset: 1366, PUSHS , Operand: Members: Armadyl helmet
+Offset: 1367, PUSHS , Operand: <br>
+Offset: 1368, PUSHS , Operand:  (with 70 Defence)
+Offset: 1369, CONCAT , Operand: 3
+Offset: 1370, PUSHS , Operand: Members now have the Ranged level required to wear Armadyl helmets. (They also need level 70 Defence.)
+Offset: 1371, RETURN , Operand: 0
+Offset: 1372, GOTO , Operand: 73
+Offset: 1373, PUSHI , Operand: 70
+Offset: 1374, PUSHI , Operand: 11720
+Offset: 1375, PUSHS , Operand: Members: Armadyl chestplate
+Offset: 1376, PUSHS , Operand: <br>
+Offset: 1377, PUSHS , Operand:  (with 70 Defence)
+Offset: 1378, CONCAT , Operand: 3
+Offset: 1379, PUSHS , Operand: Members now have the Ranged level required to wear Armadyl chestplates. (They also need level 70 Defence.)
+Offset: 1380, RETURN , Operand: 0
+Offset: 1381, GOTO , Operand: 64
+Offset: 1382, PUSHI , Operand: 70
+Offset: 1383, PUSHI , Operand: 11722
+Offset: 1384, PUSHS , Operand: Members: Armadyl chainskirt
+Offset: 1385, PUSHS , Operand: <br>
+Offset: 1386, PUSHS , Operand:  (with 70 Defence)
+Offset: 1387, CONCAT , Operand: 3
+Offset: 1388, PUSHS , Operand: Members now have the Ranged level required to wear Armadyl chainskirts. (They also need level 70 Defence.)
+Offset: 1389, RETURN , Operand: 0
+Offset: 1390, GOTO , Operand: 55
+Offset: 1391, PUSHI , Operand: 73
+Offset: 1392, PUSHI , Operand: 18347
+Offset: 1393, PUSHS , Operand: Members: Mercenary's gloves
+Offset: 1394, PUSHS , Operand: <br>
+Offset: 1395, PUSHS , Operand:  (with 73 Dungeoneering)
+Offset: 1396, CONCAT , Operand: 3
+Offset: 1397, PUSHS , Operand: Members can now wear 
+Offset: 1398, PUSHS , Operand: <col=000080>
+Offset: 1399, PUSHS , Operand: mercenary's gloves
+Offset: 1400, PUSHS , Operand: </col>
+Offset: 1401, PUSHS , Operand: . (They also need level 73 Dungeoneering.)
+Offset: 1402, CONCAT , Operand: 5
+Offset: 1403, RETURN , Operand: 0
+Offset: 1404, GOTO , Operand: 41
+Offset: 1405, PUSHI , Operand: 78
+Offset: 1406, PUSHI , Operand: 13876
+Offset: 1407, PUSHS , Operand: Members: Morrigan's coif
+Offset: 1408, PUSHS , Operand: <br>
+Offset: 1409, PUSHS , Operand:  (with 78 Defence)
+Offset: 1410, CONCAT , Operand: 3
+Offset: 1411, PUSHS , Operand: Members now have the Ranged level required to wield 
+Offset: 1412, PUSHS , Operand: <col=000080>
+Offset: 1413, PUSHS , Operand: Morrigan's coif
+Offset: 1414, PUSHS , Operand: </col>
+Offset: 1415, PUSHS , Operand: . (They also need level 78 Defence)
+Offset: 1416, CONCAT , Operand: 5
+Offset: 1417, RETURN , Operand: 0
+Offset: 1418, GOTO , Operand: 27
+Offset: 1419, PUSHI , Operand: 78
+Offset: 1420, PUSHI , Operand: 13870
+Offset: 1421, PUSHS , Operand: Members: Morrigan's leather body
+Offset: 1422, PUSHS , Operand: <br>
+Offset: 1423, PUSHS , Operand:  (with 78 Defence)
+Offset: 1424, CONCAT , Operand: 3
+Offset: 1425, PUSHS , Operand: Members now have the Ranged level required to wield 
+Offset: 1426, PUSHS , Operand: <col=000080>
+Offset: 1427, PUSHS , Operand: Morrigan's leather body
+Offset: 1428, PUSHS , Operand: </col>
+Offset: 1429, PUSHS , Operand: . (They also need level 78 Defence)
+Offset: 1430, CONCAT , Operand: 5
+Offset: 1431, RETURN , Operand: 0
+Offset: 1432, GOTO , Operand: 13
+Offset: 1433, PUSHI , Operand: 78
+Offset: 1434, PUSHI , Operand: 13873
+Offset: 1435, PUSHS , Operand: Members: Morrigan's leather chaps
+Offset: 1436, PUSHS , Operand: <br>
+Offset: 1437, PUSHS , Operand:  (with 78 Defence)
+Offset: 1438, CONCAT , Operand: 3
+Offset: 1439, PUSHS , Operand: Members now have the Ranged level required to wield 
+Offset: 1440, PUSHS , Operand: <col=000080>
+Offset: 1441, PUSHS , Operand: Morrigan's leather chaps
+Offset: 1442, PUSHS , Operand: </col>
+Offset: 1443, PUSHS , Operand: . (They also need level 78 Defence)
+Offset: 1444, CONCAT , Operand: 5
+Offset: 1445, RETURN , Operand: 0
+Offset: 1446, GOTO , Operand: 1927
+Offset: 1447, LOADINT , Operand: 1
+Offset: 1448, SWITCH , Operand: 4
+Offset: 1449, GOTO , Operand: 211
+Offset: 1450, PUSHI , Operand: 1
+Offset: 1451, PUSHI , Operand: 837
+Offset: 1452, PUSHS , Operand: Crossbow
+Offset: 1453, PUSHS , Operand: <br>
+Offset: 1454, PUSHS , Operand:   Ammo: Bronze crossbow bolts
+Offset: 1455, CONCAT , Operand: 3
+Offset: 1456, PUSHS , Operand: You can now 
+Offset: 1457, PUSHS , Operand: <col=000080>
+Offset: 1458, PUSHS , Operand: fire crossbows
+Offset: 1459, PUSHS , Operand: </col>
+Offset: 1460, PUSHS , Operand: .
+Offset: 1461, CONCAT , Operand: 5
+Offset: 1462, RETURN , Operand: 0
+Offset: 1463, GOTO , Operand: 197
+Offset: 1464, PUSHI , Operand: 1
+Offset: 1465, PUSHI , Operand: 767
+Offset: 1466, PUSHS , Operand: Phoenix crossbow
+Offset: 1467, PUSHS , Operand: <br>
+Offset: 1468, PUSHS , Operand:   Ammo: Bronze crossbow bolts
+Offset: 1469, CONCAT , Operand: 3
+Offset: 1470, PUSHS , Operand: You can now fire 
+Offset: 1471, PUSHS , Operand: <col=000080>
+Offset: 1472, PUSHS , Operand: phoenix crossbows
+Offset: 1473, PUSHS , Operand: </col>
+Offset: 1474, PUSHS , Operand: .
+Offset: 1475, CONCAT , Operand: 5
+Offset: 1476, RETURN , Operand: 0
+Offset: 1477, GOTO , Operand: 183
+Offset: 1478, PUSHI , Operand: 1
+Offset: 1479, PUSHI , Operand: 9174
+Offset: 1480, PUSHS , Operand: Members: Bronze crossbow
+Offset: 1481, PUSHS , Operand: <br>
+Offset: 1482, PUSHS , Operand:   Ammo: Bronze crossbow bolts
+Offset: 1483, CONCAT , Operand: 3
+Offset: 1484, PUSHS , Operand: Members can now fire 
+Offset: 1485, PUSHS , Operand: <col=000080>
+Offset: 1486, PUSHS , Operand: bronze crossbows
+Offset: 1487, PUSHS , Operand: </col>
+Offset: 1488, PUSHS , Operand: .
+Offset: 1489, CONCAT , Operand: 5
+Offset: 1490, RETURN , Operand: 0
+Offset: 1491, GOTO , Operand: 169
+Offset: 1492, PUSHI , Operand: 16
+Offset: 1493, PUSHI , Operand: 9176
+Offset: 1494, PUSHS , Operand: Members: Blurite crossbow
+Offset: 1495, PUSHS , Operand: <br>
+Offset: 1496, PUSHS , Operand:   Ammo: Bolts up to blurite
+Offset: 1497, CONCAT , Operand: 3
+Offset: 1498, PUSHS , Operand: Members can now fire 
+Offset: 1499, PUSHS , Operand: <col=000080>
+Offset: 1500, PUSHS , Operand: blurite crossbows
+Offset: 1501, PUSHS , Operand: </col>
+Offset: 1502, PUSHS , Operand: .
+Offset: 1503, CONCAT , Operand: 5
+Offset: 1504, RETURN , Operand: 0
+Offset: 1505, GOTO , Operand: 155
+Offset: 1506, PUSHI , Operand: 26
+Offset: 1507, PUSHI , Operand: 9177
+Offset: 1508, PUSHS , Operand: Members: Iron crossbow
+Offset: 1509, PUSHS , Operand: <br>
+Offset: 1510, PUSHS , Operand:   Ammo: Bolts up to iron
+Offset: 1511, CONCAT , Operand: 3
+Offset: 1512, PUSHS , Operand: Members can now fire 
+Offset: 1513, PUSHS , Operand: <col=000080>
+Offset: 1514, PUSHS , Operand: iron crossbows
+Offset: 1515, PUSHS , Operand: </col>
+Offset: 1516, PUSHS , Operand: .
+Offset: 1517, CONCAT , Operand: 5
+Offset: 1518, RETURN , Operand: 0
+Offset: 1519, GOTO , Operand: 141
+Offset: 1520, PUSHI , Operand: 28
+Offset: 1521, PUSHI , Operand: 8880
+Offset: 1522, PUSHS , Operand: Members: Dorgeshuun crossbow
+Offset: 1523, PUSHS , Operand: <br>
+Offset: 1524, PUSHS , Operand:   Ammo: Bolts up to iron
+Offset: 1525, CONCAT , Operand: 3
+Offset: 1526, PUSHS , Operand: Members can now fire 
+Offset: 1527, PUSHS , Operand: <col=000080>
+Offset: 1528, PUSHS , Operand: Dorgeshuun crossbows
+Offset: 1529, PUSHS , Operand: </col>
+Offset: 1530, PUSHS , Operand: .
+Offset: 1531, CONCAT , Operand: 5
+Offset: 1532, RETURN , Operand: 0
+Offset: 1533, GOTO , Operand: 127
+Offset: 1534, PUSHI , Operand: 31
+Offset: 1535, PUSHI , Operand: 9179
+Offset: 1536, PUSHS , Operand: Members: Steel crossbow
+Offset: 1537, PUSHS , Operand: <br>
+Offset: 1538, PUSHS , Operand:   Ammo: Bolts up to steel
+Offset: 1539, CONCAT , Operand: 3
+Offset: 1540, PUSHS , Operand: Members can now fire 
+Offset: 1541, PUSHS , Operand: <col=000080>
+Offset: 1542, PUSHS , Operand: steel crossbows
+Offset: 1543, PUSHS , Operand: </col>
+Offset: 1544, PUSHS , Operand: .
+Offset: 1545, CONCAT , Operand: 5
+Offset: 1546, RETURN , Operand: 0
+Offset: 1547, GOTO , Operand: 113
+Offset: 1548, PUSHI , Operand: 33
+Offset: 1549, PUSHI , Operand: 13081
+Offset: 1550, PUSHS , Operand: Members: Black crossbow
+Offset: 1551, PUSHS , Operand: <br>
+Offset: 1552, PUSHS , Operand:   Ammo: Bolts up to black
+Offset: 1553, CONCAT , Operand: 3
+Offset: 1554, PUSHS , Operand: Members can now fire 
+Offset: 1555, PUSHS , Operand: <col=000080>
+Offset: 1556, PUSHS , Operand: black crossbows
+Offset: 1557, PUSHS , Operand: </col>
+Offset: 1558, PUSHS , Operand: .
+Offset: 1559, CONCAT , Operand: 5
+Offset: 1560, RETURN , Operand: 0
+Offset: 1561, GOTO , Operand: 99
+Offset: 1562, PUSHI , Operand: 36
+Offset: 1563, PUSHI , Operand: 9181
+Offset: 1564, PUSHS , Operand: Members: Mithril crossbow
+Offset: 1565, PUSHS , Operand: <br>
+Offset: 1566, PUSHS , Operand:   Ammo: Bolts up to mithril
+Offset: 1567, CONCAT , Operand: 3
+Offset: 1568, PUSHS , Operand: Members can now fire 
+Offset: 1569, PUSHS , Operand: <col=000080>
+Offset: 1570, PUSHS , Operand: mithril crossbows
+Offset: 1571, PUSHS , Operand: </col>
+Offset: 1572, PUSHS , Operand: .
+Offset: 1573, CONCAT , Operand: 5
+Offset: 1574, RETURN , Operand: 0
+Offset: 1575, GOTO , Operand: 85
+Offset: 1576, PUSHI , Operand: 46
+Offset: 1577, PUSHI , Operand: 9183
+Offset: 1578, PUSHS , Operand: Members: Adamant crossbow
+Offset: 1579, PUSHS , Operand: <br>
+Offset: 1580, PUSHS , Operand:   Ammo: Bolts up to adamant
+Offset: 1581, CONCAT , Operand: 3
+Offset: 1582, PUSHS , Operand: Members can now fire 
+Offset: 1583, PUSHS , Operand: <col=000080>
+Offset: 1584, PUSHS , Operand: adamant crossbows
+Offset: 1585, PUSHS , Operand: </col>
+Offset: 1586, PUSHS , Operand: .
+Offset: 1587, CONCAT , Operand: 5
+Offset: 1588, RETURN , Operand: 0
+Offset: 1589, GOTO , Operand: 71
+Offset: 1590, PUSHI , Operand: 48
+Offset: 1591, PUSHI , Operand: 14684
+Offset: 1592, PUSHS , Operand: Members: Zanik's crossbow (after The Chosen Commander)
+Offset: 1593, PUSHS , Operand: <br>
+Offset: 1594, PUSHS , Operand:   Ammo: Bolts up to adamant
+Offset: 1595, CONCAT , Operand: 3
+Offset: 1596, PUSHS , Operand: Members can now fire 
+Offset: 1597, PUSHS , Operand: <col=000080>
+Offset: 1598, PUSHS , Operand: Zanik's crossbow
+Offset: 1599, PUSHS , Operand: </col>
+Offset: 1600, PUSHS , Operand:  (after The Chosen Commander).
+Offset: 1601, CONCAT , Operand: 5
+Offset: 1602, RETURN , Operand: 0
+Offset: 1603, GOTO , Operand: 57
+Offset: 1604, PUSHI , Operand: 50
+Offset: 1605, PUSHI , Operand: 10156
+Offset: 1606, PUSHS , Operand: Members: Hunters' crossbow
+Offset: 1607, PUSHS , Operand: <br>
+Offset: 1608, PUSHS , Operand:   Ammo: Kebbit and long kebbit bolts
+Offset: 1609, CONCAT , Operand: 3
+Offset: 1610, PUSHS , Operand: Members can now fire 
+Offset: 1611, PUSHS , Operand: <col=000080>
+Offset: 1612, PUSHS , Operand: hunters' crossbows
+Offset: 1613, PUSHS , Operand: </col>
+Offset: 1614, PUSHS , Operand: .
+Offset: 1615, CONCAT , Operand: 5
+Offset: 1616, RETURN , Operand: 0
+Offset: 1617, GOTO , Operand: 43
+Offset: 1618, PUSHI , Operand: 61
+Offset: 1619, PUSHI , Operand: 9185
+Offset: 1620, PUSHS , Operand: Members: Runite crossbow
+Offset: 1621, PUSHS , Operand: <br>
+Offset: 1622, PUSHS , Operand:   Ammo: Bolts up to rune
+Offset: 1623, CONCAT , Operand: 3
+Offset: 1624, PUSHS , Operand: Members can now fire 
+Offset: 1625, PUSHS , Operand: <col=000080>
+Offset: 1626, PUSHS , Operand: runite crossbows
+Offset: 1627, PUSHS , Operand: </col>
+Offset: 1628, PUSHS , Operand: .
+Offset: 1629, CONCAT , Operand: 5
+Offset: 1630, RETURN , Operand: 0
+Offset: 1631, GOTO , Operand: 29
+Offset: 1632, PUSHI , Operand: 70
+Offset: 1633, PUSHI , Operand: 4734
+Offset: 1634, PUSHS , Operand: Members: Karil's crossbow
+Offset: 1635, PUSHS , Operand: <br>
+Offset: 1636, PUSHS , Operand:  Ammo: Bolt racks
+Offset: 1637, CONCAT , Operand: 3
+Offset: 1638, PUSHS , Operand: Members can now use 
+Offset: 1639, PUSHS , Operand: <col=000080>
+Offset: 1640, PUSHS , Operand: Karil's crossbow
+Offset: 1641, PUSHS , Operand: </col>
+Offset: 1642, PUSHS , Operand: .
+Offset: 1643, CONCAT , Operand: 5
+Offset: 1644, RETURN , Operand: 0
+Offset: 1645, GOTO , Operand: 15
+Offset: 1646, PUSHI , Operand: 80
+Offset: 1647, PUSHI , Operand: 18358
+Offset: 1648, PUSHS , Operand: Members: Chaotic crossbow
+Offset: 1649, PUSHS , Operand: <br>
+Offset: 1650, PUSHS , Operand:   Ammo: Bolts up to rune
+Offset: 1651, PUSHS , Operand: <br>
+Offset: 1652, PUSHS , Operand:  (with 80 Dungeoneering)
+Offset: 1653, CONCAT , Operand: 5
+Offset: 1654, PUSHS , Operand: Members can now wield 
+Offset: 1655, PUSHS , Operand: <col=000080>
+Offset: 1656, PUSHS , Operand: chaotic crossbows
+Offset: 1657, PUSHS , Operand: </col>
+Offset: 1658, PUSHS , Operand: . (They also need level 80 Dungeoneering.)
+Offset: 1659, CONCAT , Operand: 5
+Offset: 1660, RETURN , Operand: 0
+Offset: 1661, GOTO , Operand: 1712
+Offset: 1662, LOADINT , Operand: 1
+Offset: 1663, SWITCH , Operand: 5
+Offset: 1664, GOTO , Operand: 115
+Offset: 1665, PUSHI , Operand: 19
+Offset: 1666, PUSHI , Operand: 6517
+Offset: 1667, PUSHS , Operand: Members: Falador wall
+Offset: 1668, PUSHS , Operand: <br>
+Offset: 1669, PUSHS , Operand:  (with 11 Agility and 37 Strength)
+Offset: 1670, CONCAT , Operand: 3
+Offset: 1671, PUSHS , Operand: Members now have the Ranged level required to scale the 
+Offset: 1672, PUSHS , Operand: <col=000080>
+Offset: 1673, PUSHS , Operand: Falador wall
+Offset: 1674, PUSHS , Operand: </col>
+Offset: 1675, PUSHS , Operand: . (They also need level 11 Agility and level 37 Strength.)
+Offset: 1676, CONCAT , Operand: 5
+Offset: 1677, RETURN , Operand: 0
+Offset: 1678, GOTO , Operand: 101
+Offset: 1679, PUSHI , Operand: 21
+Offset: 1680, PUSHI , Operand: 6517
+Offset: 1681, PUSHS , Operand: Members: Yanille wall 
+Offset: 1682, PUSHS , Operand: <br>
+Offset: 1683, PUSHS , Operand:  (with 39 Agility and 38 Strength)
+Offset: 1684, CONCAT , Operand: 3
+Offset: 1685, PUSHS , Operand: Members now have the Ranged level required to scale the 
+Offset: 1686, PUSHS , Operand: <col=000080>
+Offset: 1687, PUSHS , Operand: Yanille wall
+Offset: 1688, PUSHS , Operand: </col>
+Offset: 1689, PUSHS , Operand: . (You also need level 39 Agility and level 38 Strength.)
+Offset: 1690, CONCAT , Operand: 5
+Offset: 1691, RETURN , Operand: 0
+Offset: 1692, GOTO , Operand: 87
+Offset: 1693, PUSHI , Operand: 35
+Offset: 1694, PUSHI , Operand: 6517
+Offset: 1695, PUSHS , Operand: Members: Catherby cliff 
+Offset: 1696, PUSHS , Operand: <br>
+Offset: 1697, PUSHS , Operand:  (after Fishing Contest, with 32 Agility and 35 Strength)
+Offset: 1698, CONCAT , Operand: 3
+Offset: 1699, PUSHS , Operand: Members now have the Ranged level required to scale the 
+Offset: 1700, PUSHS , Operand: <col=000080>
+Offset: 1701, PUSHS , Operand: Catherby cliff
+Offset: 1702, PUSHS , Operand: </col>
+Offset: 1703, PUSHS , Operand:  (after Fishing Contest, with level 32 Agility and 35 Strength).
+Offset: 1704, CONCAT , Operand: 5
+Offset: 1705, RETURN , Operand: 0
+Offset: 1706, GOTO , Operand: 73
+Offset: 1707, PUSHI , Operand: 37
+Offset: 1708, PUSHI , Operand: 6515
+Offset: 1709, PUSHS , Operand: Members: River crossing to Al Kharid 
+Offset: 1710, PUSHS , Operand: <br>
+Offset: 1711, PUSHS , Operand:  (with 8 Agility and 19 Strength)
+Offset: 1712, CONCAT , Operand: 3
+Offset: 1713, PUSHS , Operand: Members now have the Ranged level required to cross the 
+Offset: 1714, PUSHS , Operand: <col=000080>
+Offset: 1715, PUSHS , Operand: River Lum
+Offset: 1716, PUSHS , Operand: </col>
+Offset: 1717, PUSHS , Operand:  to 
+Offset: 1718, PUSHS , Operand: <col=000080>
+Offset: 1719, PUSHS , Operand: Al Kharid
+Offset: 1720, PUSHS , Operand: </col>
+Offset: 1721, PUSHS , Operand: . (You also need level 8 Agility and level 19 Strength.)
+Offset: 1722, CONCAT , Operand: 9
+Offset: 1723, RETURN , Operand: 0
+Offset: 1724, GOTO , Operand: 55
+Offset: 1725, PUSHI , Operand: 39
+Offset: 1726, PUSHI , Operand: 6515
+Offset: 1727, PUSHS , Operand: Members: Water Obelisk Island escape 
+Offset: 1728, PUSHS , Operand: <br>
+Offset: 1729, PUSHS , Operand:  (with 36 Agility and 22 Strength)
+Offset: 1730, CONCAT , Operand: 3
+Offset: 1731, PUSHS , Operand: Members now have the Ranged level required to complete the 
+Offset: 1732, PUSHS , Operand: <col=000080>
+Offset: 1733, PUSHS , Operand: Water Obelisk Island escape
+Offset: 1734, PUSHS , Operand: </col>
+Offset: 1735, PUSHS , Operand: . (You also need level 36 Agility and level 22 Strength).
+Offset: 1736, CONCAT , Operand: 5
+Offset: 1737, RETURN , Operand: 0
+Offset: 1738, GOTO , Operand: 41
+Offset: 1739, PUSHI , Operand: 42
+Offset: 1740, PUSHI , Operand: 6515
+Offset: 1741, PUSHS , Operand: Members: Karamja crossing, south of the volcano 
+Offset: 1742, PUSHS , Operand: <br>
+Offset: 1743, PUSHS , Operand:  (with 53 Agility and 21 Strength)
+Offset: 1744, CONCAT , Operand: 3
+Offset: 1745, PUSHS , Operand: Members now have the Ranged level required to use the 
+Offset: 1746, PUSHS , Operand: <col=000080>
+Offset: 1747, PUSHS , Operand: Karamja Agility shortcut
+Offset: 1748, PUSHS , Operand: </col>
+Offset: 1749, PUSHS , Operand: . (You also need level 53 Agility and level 21 Strength.)
+Offset: 1750, CONCAT , Operand: 5
+Offset: 1751, RETURN , Operand: 0
+Offset: 1752, GOTO , Operand: 27
+Offset: 1753, PUSHI , Operand: 60
+Offset: 1754, PUSHI , Operand: 6515
+Offset: 1755, PUSHS , Operand: Members: Cross Bandos's throne room 
+Offset: 1756, PUSHS , Operand: <br>
+Offset: 1757, PUSHS , Operand:  (after The Chosen Commander and with 60 Agility and 60 Strength)
+Offset: 1758, CONCAT , Operand: 3
+Offset: 1759, PUSHS , Operand: Members now have the Ranged level required to cross 
+Offset: 1760, PUSHS , Operand: <col=000080>
+Offset: 1761, PUSHS , Operand: Bandos's throne room
+Offset: 1762, PUSHS , Operand: </col>
+Offset: 1763, PUSHS , Operand:  (after The Chosen Commander and with 60 Agility and 60 Strength.
+Offset: 1764, CONCAT , Operand: 5
+Offset: 1765, RETURN , Operand: 0
+Offset: 1766, GOTO , Operand: 13
+Offset: 1767, PUSHI , Operand: 80
+Offset: 1768, PUSHI , Operand: 6515
+Offset: 1769, PUSHS , Operand: Members: Cross cave, south of Dorgesh-Kaan 
+Offset: 1770, PUSHS , Operand: <br>
+Offset: 1771, PUSHS , Operand:  (with 80 Agility and 80 Strength)
+Offset: 1772, CONCAT , Operand: 3
+Offset: 1773, PUSHS , Operand: Members now have the Ranged level required to cross the 
+Offset: 1774, PUSHS , Operand: <col=000080>
+Offset: 1775, PUSHS , Operand: cave south of Dorgesh-Kaan
+Offset: 1776, PUSHS , Operand: </col>
+Offset: 1777, PUSHS , Operand: . (You also need level 80 Agility and 80 Strength.
+Offset: 1778, CONCAT , Operand: 5
+Offset: 1779, RETURN , Operand: 0
+Offset: 1780, GOTO , Operand: 1593
+Offset: 1781, LOADINT , Operand: 1
+Offset: 1782, SWITCH , Operand: 6
+Offset: 1783, GOTO , Operand: 55
+Offset: 1784, PUSHI , Operand: 30
+Offset: 1785, PUSHI , Operand: 10149
+Offset: 1786, PUSHS , Operand: Members: Swamp lizard
+Offset: 1787, PUSHS , Operand: <br>
+Offset: 1788, PUSHS , Operand:  (with 30 Attack and 30 Magic)
+Offset: 1789, CONCAT , Operand: 3
+Offset: 1790, PUSHS , Operand: Members now have the Ranged level required to use 
+Offset: 1791, PUSHS , Operand: <col=000080>
+Offset: 1792, PUSHS , Operand: swamp lizards
+Offset: 1793, PUSHS , Operand: </col>
+Offset: 1794, PUSHS , Operand: . (They also need level 30 Attack and level 30 Magic.)
+Offset: 1795, CONCAT , Operand: 5
+Offset: 1796, RETURN , Operand: 0
+Offset: 1797, GOTO , Operand: 41
+Offset: 1798, PUSHI , Operand: 50
+Offset: 1799, PUSHI , Operand: 10146
+Offset: 1800, PUSHS , Operand: Members: Orange salamander
+Offset: 1801, PUSHS , Operand: <br>
+Offset: 1802, PUSHS , Operand:  (with 50 Attack and 50 Magic)
+Offset: 1803, CONCAT , Operand: 3
+Offset: 1804, PUSHS , Operand: Members now have the Ranged level required to use 
+Offset: 1805, PUSHS , Operand: <col=000080>
+Offset: 1806, PUSHS , Operand: orange salamanders
+Offset: 1807, PUSHS , Operand: </col>
+Offset: 1808, PUSHS , Operand: . (They also need level 50 Attack and level 50 Magic.)
+Offset: 1809, CONCAT , Operand: 5
+Offset: 1810, RETURN , Operand: 0
+Offset: 1811, GOTO , Operand: 27
+Offset: 1812, PUSHI , Operand: 60
+Offset: 1813, PUSHI , Operand: 10147
+Offset: 1814, PUSHS , Operand: Members: Red salamander
+Offset: 1815, PUSHS , Operand: <br>
+Offset: 1816, PUSHS , Operand:  (with 60 Attack and 60 Magic)
+Offset: 1817, CONCAT , Operand: 3
+Offset: 1818, PUSHS , Operand: Members now have the Ranged level required to use 
+Offset: 1819, PUSHS , Operand: <col=000080>
+Offset: 1820, PUSHS , Operand: red salamanders
+Offset: 1821, PUSHS , Operand: </col>
+Offset: 1822, PUSHS , Operand: . (They also need level 60 Attack and level 60 Magic.)
+Offset: 1823, CONCAT , Operand: 5
+Offset: 1824, RETURN , Operand: 0
+Offset: 1825, GOTO , Operand: 13
+Offset: 1826, PUSHI , Operand: 70
+Offset: 1827, PUSHI , Operand: 10148
+Offset: 1828, PUSHS , Operand: Members: Black salamander
+Offset: 1829, PUSHS , Operand: <br>
+Offset: 1830, PUSHS , Operand:  (with 70 Attack and 70 Magic)
+Offset: 1831, CONCAT , Operand: 3
+Offset: 1832, PUSHS , Operand: Members now have the Ranged level required to use 
+Offset: 1833, PUSHS , Operand: <col=000080>
+Offset: 1834, PUSHS , Operand: black salamanders
+Offset: 1835, PUSHS , Operand: </col>
+Offset: 1836, PUSHS , Operand: . (They also need level 70 Attack and level 70 Magic.)
+Offset: 1837, CONCAT , Operand: 5
+Offset: 1838, RETURN , Operand: 0
+Offset: 1839, GOTO , Operand: 1534
+Offset: 1840, LOADINT , Operand: 1
+Offset: 1841, PUSHI , Operand: 0
+Offset: 1842, IFEQ , Operand: 1
+Offset: 1843, GOTO , Operand: 14
+Offset: 1844, PUSHI , Operand: 70
+Offset: 1845, PUSHI , Operand: 9419
+Offset: 1846, PUSHS , Operand: Members: Armadyl's Eyrie in the God Wars Dungeon
+Offset: 1847, PUSHS , Operand: Members can now enter 
+Offset: 1848, PUSHS , Operand: <col=000080>
+Offset: 1849, PUSHS , Operand: Armadyl's Eyrie
+Offset: 1850, PUSHS , Operand: </col>
+Offset: 1851, PUSHS , Operand:  in the 
+Offset: 1852, PUSHS , Operand: <col=000080>
+Offset: 1853, PUSHS , Operand: God Wars Dungeon
+Offset: 1854, PUSHS , Operand: </col>
+Offset: 1855, PUSHS , Operand: .
+Offset: 1856, CONCAT , Operand: 9
+Offset: 1857, RETURN , Operand: 0
+Offset: 1858, GOTO , Operand: 1515
+Offset: 1859, LOADINT , Operand: 1
+Offset: 1860, SWITCH , Operand: 7
+Offset: 1861, GOTO , Operand: 77
+Offset: 1862, PUSHI , Operand: 30
+Offset: 1863, PUSHI , Operand: 10498
+Offset: 1864, PUSHS , Operand: Members: Ava's Attractor (after Animal Magnetism)
+Offset: 1865, PUSHS , Operand: Members now have the Ranged level required to use 
+Offset: 1866, PUSHS , Operand: <col=000080>
+Offset: 1867, PUSHS , Operand: Ava's Attractor
+Offset: 1868, PUSHS , Operand: </col>
+Offset: 1869, PUSHS , Operand:  (after Animal Magnetism).
+Offset: 1870, CONCAT , Operand: 5
+Offset: 1871, RETURN , Operand: 0
+Offset: 1872, GOTO , Operand: 66
+Offset: 1873, PUSHI , Operand: 45
+Offset: 1874, PUSHI , Operand: 18330
+Offset: 1875, PUSHS , Operand: Longbow sight
+Offset: 1876, PUSHS , Operand: <br>
+Offset: 1877, PUSHS , Operand:  (with 45 Dungeoneering)
+Offset: 1878, CONCAT , Operand: 3
+Offset: 1879, PUSHS , Operand: You can now use 
+Offset: 1880, PUSHS , Operand: <col=000080>
+Offset: 1881, PUSHS , Operand: longbow sights
+Offset: 1882, PUSHS , Operand: </col>
+Offset: 1883, PUSHS , Operand: . (You also need level 45 Dungeoneering.)
+Offset: 1884, CONCAT , Operand: 5
+Offset: 1885, RETURN , Operand: 0
+Offset: 1886, GOTO , Operand: 52
+Offset: 1887, PUSHI , Operand: 50
+Offset: 1888, PUSHI , Operand: 10499
+Offset: 1889, PUSHS , Operand: Members: Ava's Accumulator (after Animal Magnetism)
+Offset: 1890, PUSHS , Operand: Members now have the Ranged level required to use 
+Offset: 1891, PUSHS , Operand: <col=000080>
+Offset: 1892, PUSHS , Operand: Ava's Accumulator
+Offset: 1893, PUSHS , Operand: </col>
+Offset: 1894, PUSHS , Operand:  (after Animal Magnetism).
+Offset: 1895, CONCAT , Operand: 5
+Offset: 1896, RETURN , Operand: 0
+Offset: 1897, GOTO , Operand: 41
+Offset: 1898, PUSHI , Operand: 50
+Offset: 1899, PUSHI , Operand: 4150
+Offset: 1900, PUSHS , Operand: Members: Broad arrows
+Offset: 1901, PUSHS , Operand: <br>
+Offset: 1902, PUSHS , Operand:  (with 55 Slayer)
+Offset: 1903, CONCAT , Operand: 3
+Offset: 1904, PUSHS , Operand: Members now have the Ranged level required to shoot 
+Offset: 1905, PUSHS , Operand: <col=000080>
+Offset: 1906, PUSHS , Operand: broad arrows
+Offset: 1907, PUSHS , Operand: </col>
+Offset: 1908, PUSHS , Operand: , Ranged weapons used for killing turoth and kurask. (You also need level 55 Slayer.)
+Offset: 1909, CONCAT , Operand: 5
+Offset: 1910, RETURN , Operand: 0
+Offset: 1911, GOTO , Operand: 27
+Offset: 1912, PUSHI , Operand: 50
+Offset: 1913, PUSHI , Operand: 13280
+Offset: 1914, PUSHS , Operand: Members: Broad-tipped bolts
+Offset: 1915, PUSHS , Operand: <br>
+Offset: 1916, PUSHS , Operand:  (with 55 Slayer)
+Offset: 1917, CONCAT , Operand: 3
+Offset: 1918, PUSHS , Operand: Members now have the Ranged level required to shoot 
+Offset: 1919, PUSHS , Operand: <col=000080>
+Offset: 1920, PUSHS , Operand: broad-tipped bolts
+Offset: 1921, PUSHS , Operand: </col>
+Offset: 1922, PUSHS , Operand: , Ranged weapons used for killing turoth and kurask. (You also need level 55 Slayer.)
+Offset: 1923, CONCAT , Operand: 5
+Offset: 1924, RETURN , Operand: 0
+Offset: 1925, GOTO , Operand: 13
+Offset: 1926, PUSHI , Operand: 75
+Offset: 1927, PUSHI , Operand: 15241
+Offset: 1928, PUSHS , Operand: Members: Chaos dwarf hand cannon
+Offset: 1929, PUSHS , Operand: <br>
+Offset: 1930, PUSHS , Operand:  (with 61 Firemaking and after Forgiveness of a Chaos Dwarf)
+Offset: 1931, CONCAT , Operand: 3
+Offset: 1932, PUSHS , Operand: Members now have the Ranged level required to fire the 
+Offset: 1933, PUSHS , Operand: <col=000080>
+Offset: 1934, PUSHS , Operand: chaos dwarf hand cannon
+Offset: 1935, PUSHS , Operand: </col>
+Offset: 1936, PUSHS , Operand:  (after Forgiveness of a Chaos Dwarf and with 61 Firemaking).
+Offset: 1937, CONCAT , Operand: 5
+Offset: 1938, RETURN , Operand: 0
+Offset: 1939, GOTO , Operand: 1434
+Offset: 1940, LOADINT , Operand: 1
+Offset: 1941, SWITCH , Operand: 8
+Offset: 1942, GOTO , Operand: 219
+Offset: 1943, PUSHI , Operand: 1
+Offset: 1944, PUSHI , Operand: 14192
+Offset: 1945, PUSHS , Operand: Members: Stealing Creation - class 1 bow
+Offset: 1946, PUSHS , Operand: Members can now wield 
+Offset: 1947, PUSHS , Operand: <col=000080>
+Offset: 1948, PUSHS , Operand: class 1 bows
+Offset: 1949, PUSHS , Operand: </col>
+Offset: 1950, PUSHS , Operand:  in Stealing Creation.
+Offset: 1951, CONCAT , Operand: 5
+Offset: 1952, RETURN , Operand: 0
+Offset: 1953, GOTO , Operand: 208
+Offset: 1954, PUSHI , Operand: 1
+Offset: 1955, PUSHI , Operand: 14411
+Offset: 1956, PUSHS , Operand: Members: Stealing Creation - class 1 coif
+Offset: 1957, PUSHS , Operand: Members can now wear 
+Offset: 1958, PUSHS , Operand: <col=000080>
+Offset: 1959, PUSHS , Operand: class 1 coifs
+Offset: 1960, PUSHS , Operand: </col>
+Offset: 1961, PUSHS , Operand:  in Stealing Creation.
+Offset: 1962, CONCAT , Operand: 5
+Offset: 1963, RETURN , Operand: 0
+Offset: 1964, GOTO , Operand: 197
+Offset: 1965, PUSHI , Operand: 1
+Offset: 1966, PUSHI , Operand: 14391
+Offset: 1967, PUSHS , Operand: Members: Stealing Creation - class 1 leather body
+Offset: 1968, PUSHS , Operand: Members can now wear 
+Offset: 1969, PUSHS , Operand: <col=000080>
+Offset: 1970, PUSHS , Operand: class 1 leather bodies
+Offset: 1971, PUSHS , Operand: </col>
+Offset: 1972, PUSHS , Operand:  in Stealing Creation.
+Offset: 1973, CONCAT , Operand: 5
+Offset: 1974, RETURN , Operand: 0
+Offset: 1975, GOTO , Operand: 186
+Offset: 1976, PUSHI , Operand: 1
+Offset: 1977, PUSHI , Operand: 14401
+Offset: 1978, PUSHS , Operand: Members: Stealing Creation - class 1 chaps
+Offset: 1979, PUSHS , Operand: Members can now wear 
+Offset: 1980, PUSHS , Operand: <col=000080>
+Offset: 1981, PUSHS , Operand: class 1 chaps
+Offset: 1982, PUSHS , Operand: </col>
+Offset: 1983, PUSHS , Operand:  in Stealing Creation.
+Offset: 1984, CONCAT , Operand: 5
+Offset: 1985, RETURN , Operand: 0
+Offset: 1986, GOTO , Operand: 175
+Offset: 1987, PUSHI , Operand: 20
+Offset: 1988, PUSHI , Operand: 14194
+Offset: 1989, PUSHS , Operand: Members: Stealing Creation - class 2 bow
+Offset: 1990, PUSHS , Operand: Members can now wield 
+Offset: 1991, PUSHS , Operand: <col=000080>
+Offset: 1992, PUSHS , Operand: class 2 bows
+Offset: 1993, PUSHS , Operand: </col>
+Offset: 1994, PUSHS , Operand:  in Stealing Creation.
+Offset: 1995, CONCAT , Operand: 5
+Offset: 1996, RETURN , Operand: 0
+Offset: 1997, GOTO , Operand: 164
+Offset: 1998, PUSHI , Operand: 20
+Offset: 1999, PUSHI , Operand: 14413
+Offset: 2000, PUSHS , Operand: Members: Stealing Creation - class 2 coif
+Offset: 2001, PUSHS , Operand: Members can now wear 
+Offset: 2002, PUSHS , Operand: <col=000080>
+Offset: 2003, PUSHS , Operand: class 2 coifs
+Offset: 2004, PUSHS , Operand: </col>
+Offset: 2005, PUSHS , Operand:  in Stealing Creation.
+Offset: 2006, CONCAT , Operand: 5
+Offset: 2007, RETURN , Operand: 0
+Offset: 2008, GOTO , Operand: 153
+Offset: 2009, PUSHI , Operand: 20
+Offset: 2010, PUSHI , Operand: 14393
+Offset: 2011, PUSHS , Operand: Members: Stealing Creation - class 2 leather body
+Offset: 2012, PUSHS , Operand: Members can now wear 
+Offset: 2013, PUSHS , Operand: <col=000080>
+Offset: 2014, PUSHS , Operand: class 2 leather bodies
+Offset: 2015, PUSHS , Operand: </col>
+Offset: 2016, PUSHS , Operand:  in Stealing Creation.
+Offset: 2017, CONCAT , Operand: 5
+Offset: 2018, RETURN , Operand: 0
+Offset: 2019, GOTO , Operand: 142
+Offset: 2020, PUSHI , Operand: 20
+Offset: 2021, PUSHI , Operand: 14403
+Offset: 2022, PUSHS , Operand: Members: Stealing Creation - class 2 chaps
+Offset: 2023, PUSHS , Operand: Members can now wear 
+Offset: 2024, PUSHS , Operand: <col=000080>
+Offset: 2025, PUSHS , Operand: class 2 chaps
+Offset: 2026, PUSHS , Operand: </col>
+Offset: 2027, PUSHS , Operand:  in Stealing Creation.
+Offset: 2028, CONCAT , Operand: 5
+Offset: 2029, RETURN , Operand: 0
+Offset: 2030, GOTO , Operand: 131
+Offset: 2031, PUSHI , Operand: 40
+Offset: 2032, PUSHI , Operand: 14196
+Offset: 2033, PUSHS , Operand: Members: Stealing Creation - class 3 bow
+Offset: 2034, PUSHS , Operand: Members can now wield 
+Offset: 2035, PUSHS , Operand: <col=000080>
+Offset: 2036, PUSHS , Operand: class 3 bows
+Offset: 2037, PUSHS , Operand: </col>
+Offset: 2038, PUSHS , Operand:  in Stealing Creation.
+Offset: 2039, CONCAT , Operand: 5
+Offset: 2040, RETURN , Operand: 0
+Offset: 2041, GOTO , Operand: 120
+Offset: 2042, PUSHI , Operand: 40
+Offset: 2043, PUSHI , Operand: 14415
+Offset: 2044, PUSHS , Operand: Members: Stealing Creation - class 3 coif
+Offset: 2045, PUSHS , Operand: Members can now wear 
+Offset: 2046, PUSHS , Operand: <col=000080>
+Offset: 2047, PUSHS , Operand: class 3 coifs
+Offset: 2048, PUSHS , Operand: </col>
+Offset: 2049, PUSHS , Operand:  in Stealing Creation.
+Offset: 2050, CONCAT , Operand: 5
+Offset: 2051, RETURN , Operand: 0
+Offset: 2052, GOTO , Operand: 109
+Offset: 2053, PUSHI , Operand: 40
+Offset: 2054, PUSHI , Operand: 14395
+Offset: 2055, PUSHS , Operand: Members: Stealing Creation - class 3 leather body
+Offset: 2056, PUSHS , Operand: Members can now wear 
+Offset: 2057, PUSHS , Operand: <col=000080>
+Offset: 2058, PUSHS , Operand: class 3 leather bodies
+Offset: 2059, PUSHS , Operand: </col>
+Offset: 2060, PUSHS , Operand:  in Stealing Creation.
+Offset: 2061, CONCAT , Operand: 5
+Offset: 2062, RETURN , Operand: 0
+Offset: 2063, GOTO , Operand: 98
+Offset: 2064, PUSHI , Operand: 40
+Offset: 2065, PUSHI , Operand: 14405
+Offset: 2066, PUSHS , Operand: Members: Stealing Creation - class 3 chaps
+Offset: 2067, PUSHS , Operand: Members can now wear 
+Offset: 2068, PUSHS , Operand: <col=000080>
+Offset: 2069, PUSHS , Operand: class 3 chaps
+Offset: 2070, PUSHS , Operand: </col>
+Offset: 2071, PUSHS , Operand:  in Stealing Creation.
+Offset: 2072, CONCAT , Operand: 5
+Offset: 2073, RETURN , Operand: 0
+Offset: 2074, GOTO , Operand: 87
+Offset: 2075, PUSHI , Operand: 60
+Offset: 2076, PUSHI , Operand: 14198
+Offset: 2077, PUSHS , Operand: Members: Stealing Creation - class 4 bow
+Offset: 2078, PUSHS , Operand: Members can now wield 
+Offset: 2079, PUSHS , Operand: <col=000080>
+Offset: 2080, PUSHS , Operand: class 4 bows
+Offset: 2081, PUSHS , Operand: </col>
+Offset: 2082, PUSHS , Operand:  in Stealing Creation.
+Offset: 2083, CONCAT , Operand: 5
+Offset: 2084, RETURN , Operand: 0
+Offset: 2085, GOTO , Operand: 76
+Offset: 2086, PUSHI , Operand: 60
+Offset: 2087, PUSHI , Operand: 14417
+Offset: 2088, PUSHS , Operand: Members: Stealing Creation - class 4 coif
+Offset: 2089, PUSHS , Operand: Members can now wear 
+Offset: 2090, PUSHS , Operand: <col=000080>
+Offset: 2091, PUSHS , Operand: class 4 coifs
+Offset: 2092, PUSHS , Operand: </col>
+Offset: 2093, PUSHS , Operand:  in Stealing Creation.
+Offset: 2094, CONCAT , Operand: 5
+Offset: 2095, RETURN , Operand: 0
+Offset: 2096, GOTO , Operand: 65
+Offset: 2097, PUSHI , Operand: 60
+Offset: 2098, PUSHI , Operand: 14397
+Offset: 2099, PUSHS , Operand: Members: Stealing Creation - class 4 leather body
+Offset: 2100, PUSHS , Operand: Members can now wear 
+Offset: 2101, PUSHS , Operand: <col=000080>
+Offset: 2102, PUSHS , Operand: class 4 leather bodies
+Offset: 2103, PUSHS , Operand: </col>
+Offset: 2104, PUSHS , Operand:  in Stealing Creation.
+Offset: 2105, CONCAT , Operand: 5
+Offset: 2106, RETURN , Operand: 0
+Offset: 2107, GOTO , Operand: 54
+Offset: 2108, PUSHI , Operand: 60
+Offset: 2109, PUSHI , Operand: 14407
+Offset: 2110, PUSHS , Operand: Members: Stealing Creation - class 4 chaps
+Offset: 2111, PUSHS , Operand: Members can now wear 
+Offset: 2112, PUSHS , Operand: <col=000080>
+Offset: 2113, PUSHS , Operand: class 4 chaps
+Offset: 2114, PUSHS , Operand: </col>
+Offset: 2115, PUSHS , Operand:  in Stealing Creation.
+Offset: 2116, CONCAT , Operand: 5
+Offset: 2117, RETURN , Operand: 0
+Offset: 2118, GOTO , Operand: 43
+Offset: 2119, PUSHI , Operand: 80
+Offset: 2120, PUSHI , Operand: 14200
+Offset: 2121, PUSHS , Operand: Members: Stealing Creation - class 5 bow
+Offset: 2122, PUSHS , Operand: Members can now wield 
+Offset: 2123, PUSHS , Operand: <col=000080>
+Offset: 2124, PUSHS , Operand: class 5 bows
+Offset: 2125, PUSHS , Operand: </col>
+Offset: 2126, PUSHS , Operand:  in Stealing Creation.
+Offset: 2127, CONCAT , Operand: 5
+Offset: 2128, RETURN , Operand: 0
+Offset: 2129, GOTO , Operand: 32
+Offset: 2130, PUSHI , Operand: 80
+Offset: 2131, PUSHI , Operand: 14419
+Offset: 2132, PUSHS , Operand: Members: Stealing Creation - class 5 coif
+Offset: 2133, PUSHS , Operand: Members can now wear 
+Offset: 2134, PUSHS , Operand: <col=000080>
+Offset: 2135, PUSHS , Operand: class 5 coifs
+Offset: 2136, PUSHS , Operand: </col>
+Offset: 2137, PUSHS , Operand:  in Stealing Creation.
+Offset: 2138, CONCAT , Operand: 5
+Offset: 2139, RETURN , Operand: 0
+Offset: 2140, GOTO , Operand: 21
+Offset: 2141, PUSHI , Operand: 80
+Offset: 2142, PUSHI , Operand: 14399
+Offset: 2143, PUSHS , Operand: Members: Stealing Creation - class 5 leather body
+Offset: 2144, PUSHS , Operand: Members can now wear 
+Offset: 2145, PUSHS , Operand: <col=000080>
+Offset: 2146, PUSHS , Operand: class 5 leather bodies
+Offset: 2147, PUSHS , Operand: </col>
+Offset: 2148, PUSHS , Operand:  in Stealing Creation.
+Offset: 2149, CONCAT , Operand: 5
+Offset: 2150, RETURN , Operand: 0
+Offset: 2151, GOTO , Operand: 10
+Offset: 2152, PUSHI , Operand: 80
+Offset: 2153, PUSHI , Operand: 14409
+Offset: 2154, PUSHS , Operand: Members: Stealing Creation - class 5 chaps
+Offset: 2155, PUSHS , Operand: Members can now wear 
+Offset: 2156, PUSHS , Operand: <col=000080>
+Offset: 2157, PUSHS , Operand: class 5 chaps
+Offset: 2158, PUSHS , Operand: </col>
+Offset: 2159, PUSHS , Operand:  in Stealing Creation.
+Offset: 2160, CONCAT , Operand: 5
+Offset: 2161, RETURN , Operand: 0
+Offset: 2162, GOTO , Operand: 1211
+Offset: 2163, LOADINT , Operand: 1
+Offset: 2164, SWITCH , Operand: 9
+Offset: 2165, GOTO , Operand: 1166
+Offset: 2166, PUSHI , Operand: -1
+Offset: 2167, PUSHI , Operand: 15707
+Offset: 2168, PUSHS , Operand: Dungeoneering skill tasks
+Offset: 2169, PUSHS , Operand: <br>
+Offset: 2170, PUSHS , Operand: As your Ranged level increases, you will be able to attempt higher-level ranged tasks within Daemonheim. You will also be more likely to succeed when attempting ranged tasks within Daemonheim.
+Offset: 2171, CONCAT , Operand: 3
+Offset: 2172, PUSHS , Operand: 
+Offset: 2173, RETURN , Operand: 0
+Offset: 2174, GOTO , Operand: 1157
+Offset: 2175, PUSHI , Operand: 1
+Offset: 2176, PUSHI , Operand: 16867
+Offset: 2177, PUSHS , Operand: Tangle gum shortbow (Tier 1)
+Offset: 2178, PUSHS , Operand: You can now wield 
+Offset: 2179, PUSHS , Operand: <col=000080>
+Offset: 2180, PUSHS , Operand: tangle gum shortbows
+Offset: 2181, PUSHS , Operand: </col>
+Offset: 2182, PUSHS , Operand:  within Daemonheim.
+Offset: 2183, CONCAT , Operand: 5
+Offset: 2184, RETURN , Operand: 0
+Offset: 2185, GOTO , Operand: 1146
+Offset: 2186, PUSHI , Operand: 1
+Offset: 2187, PUSHI , Operand: 16317
+Offset: 2188, PUSHS , Operand: Tangle gum longbow (Tier 1)
+Offset: 2189, PUSHS , Operand: You can now wield 
+Offset: 2190, PUSHS , Operand: <col=000080>
+Offset: 2191, PUSHS , Operand: tangle gum shortbows
+Offset: 2192, PUSHS , Operand: </col>
+Offset: 2193, PUSHS , Operand:  within Daemonheim.
+Offset: 2194, CONCAT , Operand: 5
+Offset: 2195, RETURN , Operand: 0
+Offset: 2196, GOTO , Operand: 1135
+Offset: 2197, PUSHI , Operand: 1
+Offset: 2198, PUSHI , Operand: 16427
+Offset: 2199, PUSHS , Operand: Novite arrows (Tier 1)
+Offset: 2200, PUSHS , Operand: You can now use 
+Offset: 2201, PUSHS , Operand: <col=000080>
+Offset: 2202, PUSHS , Operand: novite arrows
+Offset: 2203, PUSHS , Operand: </col>
+Offset: 2204, PUSHS , Operand:  within Daemonheim.
+Offset: 2205, CONCAT , Operand: 5
+Offset: 2206, RETURN , Operand: 0
+Offset: 2207, GOTO , Operand: 1124
+Offset: 2208, PUSHI , Operand: 1
+Offset: 2209, PUSHI , Operand: 17041
+Offset: 2210, PUSHS , Operand: Protoleather coifs (Tier 1)
+Offset: 2211, PUSHS , Operand: <br>
+Offset: 2212, PUSHS , Operand:  (with 1 Defence)
+Offset: 2213, CONCAT , Operand: 3
+Offset: 2214, PUSHS , Operand: You can now wear 
+Offset: 2215, PUSHS , Operand: <col=000080>
+Offset: 2216, PUSHS , Operand: protoleather coif
+Offset: 2217, PUSHS , Operand: </col>
+Offset: 2218, PUSHS , Operand:  within Daemonheim. (You also need level 1 Defence.)
+Offset: 2219, CONCAT , Operand: 5
+Offset: 2220, RETURN , Operand: 0
+Offset: 2221, GOTO , Operand: 1110
+Offset: 2222, PUSHI , Operand: 1
+Offset: 2223, PUSHI , Operand: 17173
+Offset: 2224, PUSHS , Operand: Protoleather body (Tier 1)
+Offset: 2225, PUSHS , Operand: <br>
+Offset: 2226, PUSHS , Operand:  (with 1 Defence)
+Offset: 2227, CONCAT , Operand: 3
+Offset: 2228, PUSHS , Operand: You can now wear 
+Offset: 2229, PUSHS , Operand: <col=000080>
+Offset: 2230, PUSHS , Operand: protoleather bodies
+Offset: 2231, PUSHS , Operand: </col>
+Offset: 2232, PUSHS , Operand:  within Daemonheim. (You also need level 1 Defence).
+Offset: 2233, CONCAT , Operand: 5
+Offset: 2234, RETURN , Operand: 0
+Offset: 2235, GOTO , Operand: 1096
+Offset: 2236, PUSHI , Operand: 1
+Offset: 2237, PUSHI , Operand: 17319
+Offset: 2238, PUSHS , Operand: Protoleather chaps (Tier 1)
+Offset: 2239, PUSHS , Operand: <br>
+Offset: 2240, PUSHS , Operand:  (with 1 Defence)
+Offset: 2241, CONCAT , Operand: 3
+Offset: 2242, PUSHS , Operand: You can now wear 
+Offset: 2243, PUSHS , Operand: <col=000080>
+Offset: 2244, PUSHS , Operand: protoleather chaps
+Offset: 2245, PUSHS , Operand: </col>
+Offset: 2246, PUSHS , Operand:  within Daemonheim. (You also need level 1 Defence).
+Offset: 2247, CONCAT , Operand: 5
+Offset: 2248, RETURN , Operand: 0
+Offset: 2249, GOTO , Operand: 1082
+Offset: 2250, PUSHI , Operand: 1
+Offset: 2251, PUSHI , Operand: 17195
+Offset: 2252, PUSHS , Operand: Protoleather vambraces (Tier 1)
+Offset: 2253, PUSHS , Operand: <br>
+Offset: 2254, PUSHS , Operand:  (with 1 Defence)
+Offset: 2255, CONCAT , Operand: 3
+Offset: 2256, PUSHS , Operand: You can now wear 
+Offset: 2257, PUSHS , Operand: <col=000080>
+Offset: 2258, PUSHS , Operand: protoleather vambraces
+Offset: 2259, PUSHS , Operand: </col>
+Offset: 2260, PUSHS , Operand:  within Daemonheim. (You also need level 1 Defence).
+Offset: 2261, CONCAT , Operand: 5
+Offset: 2262, RETURN , Operand: 0
+Offset: 2263, GOTO , Operand: 1068
+Offset: 2264, PUSHI , Operand: 1
+Offset: 2265, PUSHI , Operand: 17297
+Offset: 2266, PUSHS , Operand: Protoleather boots (Tier 1)
+Offset: 2267, PUSHS , Operand: <br>
+Offset: 2268, PUSHS , Operand:  (with 1 Defence)
+Offset: 2269, CONCAT , Operand: 3
+Offset: 2270, PUSHS , Operand: You can now wear 
+Offset: 2271, PUSHS , Operand: <col=000080>
+Offset: 2272, PUSHS , Operand: protoleather boots
+Offset: 2273, PUSHS , Operand: </col>
+Offset: 2274, PUSHS , Operand:  within Daemonheim. (You also need level 1 Defence).
+Offset: 2275, CONCAT , Operand: 5
+Offset: 2276, RETURN , Operand: 0
+Offset: 2277, GOTO , Operand: 1054
+Offset: 2278, PUSHI , Operand: 10
+Offset: 2279, PUSHI , Operand: 16869
+Offset: 2280, PUSHS , Operand: Seeping elm shortbow (Tier 2)
+Offset: 2281, PUSHS , Operand: You can now wield 
+Offset: 2282, PUSHS , Operand: <col=000080>
+Offset: 2283, PUSHS , Operand: seeping elm shortbows
+Offset: 2284, PUSHS , Operand: </col>
+Offset: 2285, PUSHS , Operand:  within Daemonheim.
+Offset: 2286, CONCAT , Operand: 5
+Offset: 2287, RETURN , Operand: 0
+Offset: 2288, GOTO , Operand: 1043
+Offset: 2289, PUSHI , Operand: 10
+Offset: 2290, PUSHI , Operand: 16319
+Offset: 2291, PUSHS , Operand: Seeping elm longbow (Tier 2)
+Offset: 2292, PUSHS , Operand: You can now wield 
+Offset: 2293, PUSHS , Operand: <col=000080>
+Offset: 2294, PUSHS , Operand: seeping elm longbows
+Offset: 2295, PUSHS , Operand: </col>
+Offset: 2296, PUSHS , Operand:  within Daemonheim.
+Offset: 2297, CONCAT , Operand: 5
+Offset: 2298, RETURN , Operand: 0
+Offset: 2299, GOTO , Operand: 1032
+Offset: 2300, PUSHI , Operand: 10
+Offset: 2301, PUSHI , Operand: 16432
+Offset: 2302, PUSHS , Operand: Bathus arrows (Tier 2)
+Offset: 2303, PUSHS , Operand: You can now use 
+Offset: 2304, PUSHS , Operand: <col=000080>
+Offset: 2305, PUSHS , Operand: bathus arrows
+Offset: 2306, PUSHS , Operand: </col>
+Offset: 2307, PUSHS , Operand:  within Daemonheim.
+Offset: 2308, CONCAT , Operand: 5
+Offset: 2309, RETURN , Operand: 0
+Offset: 2310, GOTO , Operand: 1021
+Offset: 2311, PUSHI , Operand: 10
+Offset: 2312, PUSHI , Operand: 17043
+Offset: 2313, PUSHS , Operand: Subleather coifs (Tier 2)
+Offset: 2314, PUSHS , Operand: <br>
+Offset: 2315, PUSHS , Operand:  (with 10 Defence)
+Offset: 2316, CONCAT , Operand: 3
+Offset: 2317, PUSHS , Operand: You can now wear 
+Offset: 2318, PUSHS , Operand: <col=000080>
+Offset: 2319, PUSHS , Operand: subleather coif
+Offset: 2320, PUSHS , Operand: </col>
+Offset: 2321, PUSHS , Operand:  within Daemonheim. (You also need level 10 Defence).
+Offset: 2322, CONCAT , Operand: 5
+Offset: 2323, RETURN , Operand: 0
+Offset: 2324, GOTO , Operand: 1007
+Offset: 2325, PUSHI , Operand: 10
+Offset: 2326, PUSHI , Operand: 17175
+Offset: 2327, PUSHS , Operand: Subleather body (Tier 2)
+Offset: 2328, PUSHS , Operand: <br>
+Offset: 2329, PUSHS , Operand:  (with 10 Defence)
+Offset: 2330, CONCAT , Operand: 3
+Offset: 2331, PUSHS , Operand: You can now wear 
+Offset: 2332, PUSHS , Operand: <col=000080>
+Offset: 2333, PUSHS , Operand: subleather bodies
+Offset: 2334, PUSHS , Operand: </col>
+Offset: 2335, PUSHS , Operand:  within Daemonheim. (You also need level 10 Defence).
+Offset: 2336, CONCAT , Operand: 5
+Offset: 2337, RETURN , Operand: 0
+Offset: 2338, GOTO , Operand: 993
+Offset: 2339, PUSHI , Operand: 10
+Offset: 2340, PUSHI , Operand: 17321
+Offset: 2341, PUSHS , Operand: Subleather chaps (Tier 2)
+Offset: 2342, PUSHS , Operand: <br>
+Offset: 2343, PUSHS , Operand:  (with 10 Defence)
+Offset: 2344, CONCAT , Operand: 3
+Offset: 2345, PUSHS , Operand: You can now wear 
+Offset: 2346, PUSHS , Operand: <col=000080>
+Offset: 2347, PUSHS , Operand: subleather chaps
+Offset: 2348, PUSHS , Operand: </col>
+Offset: 2349, PUSHS , Operand:  within Daemonheim. (You also need level 10 Defence).
+Offset: 2350, CONCAT , Operand: 5
+Offset: 2351, RETURN , Operand: 0
+Offset: 2352, GOTO , Operand: 979
+Offset: 2353, PUSHI , Operand: 10
+Offset: 2354, PUSHI , Operand: 17197
+Offset: 2355, PUSHS , Operand: Subleather vambraces (Tier 2)
+Offset: 2356, PUSHS , Operand: <br>
+Offset: 2357, PUSHS , Operand:  (with 10 Defence)
+Offset: 2358, CONCAT , Operand: 3
+Offset: 2359, PUSHS , Operand: You can now wear 
+Offset: 2360, PUSHS , Operand: <col=000080>
+Offset: 2361, PUSHS , Operand: subleather vambraces
+Offset: 2362, PUSHS , Operand: </col>
+Offset: 2363, PUSHS , Operand:  within Daemonheim. (You also need level 10 Defence).
+Offset: 2364, CONCAT , Operand: 5
+Offset: 2365, RETURN , Operand: 0
+Offset: 2366, GOTO , Operand: 965
+Offset: 2367, PUSHI , Operand: 10
+Offset: 2368, PUSHI , Operand: 17299
+Offset: 2369, PUSHS , Operand: Subleather boots (Tier 2)
+Offset: 2370, PUSHS , Operand: <br>
+Offset: 2371, PUSHS , Operand:  (with 10 Defence)
+Offset: 2372, CONCAT , Operand: 3
+Offset: 2373, PUSHS , Operand: You can now wear 
+Offset: 2374, PUSHS , Operand: <col=000080>
+Offset: 2375, PUSHS , Operand: subleather boots
+Offset: 2376, PUSHS , Operand: </col>
+Offset: 2377, PUSHS , Operand:  within Daemonheim. (You also need level 10 Defence).
+Offset: 2378, CONCAT , Operand: 5
+Offset: 2379, RETURN , Operand: 0
+Offset: 2380, GOTO , Operand: 951
+Offset: 2381, PUSHI , Operand: 20
+Offset: 2382, PUSHI , Operand: 16871
+Offset: 2383, PUSHS , Operand: Blood spindle shortbow (Tier 3)
+Offset: 2384, PUSHS , Operand: You can now wield 
+Offset: 2385, PUSHS , Operand: <col=000080>
+Offset: 2386, PUSHS , Operand: blood spindle shortbows
+Offset: 2387, PUSHS , Operand: </col>
+Offset: 2388, PUSHS , Operand:  within Daemonheim.
+Offset: 2389, CONCAT , Operand: 5
+Offset: 2390, RETURN , Operand: 0
+Offset: 2391, GOTO , Operand: 940
+Offset: 2392, PUSHI , Operand: 20
+Offset: 2393, PUSHI , Operand: 16321
+Offset: 2394, PUSHS , Operand: Blood spindle longbow (Tier 3)
+Offset: 2395, PUSHS , Operand: You can now wield 
+Offset: 2396, PUSHS , Operand: <col=000080>
+Offset: 2397, PUSHS , Operand: blood spindle longbows
+Offset: 2398, PUSHS , Operand: </col>
+Offset: 2399, PUSHS , Operand:  within Daemonheim.
+Offset: 2400, CONCAT , Operand: 5
+Offset: 2401, RETURN , Operand: 0
+Offset: 2402, GOTO , Operand: 929
+Offset: 2403, PUSHI , Operand: 20
+Offset: 2404, PUSHI , Operand: 16437
+Offset: 2405, PUSHS , Operand: Marmaros arrows (Tier 3)
+Offset: 2406, PUSHS , Operand: You can now use 
+Offset: 2407, PUSHS , Operand: <col=000080>
+Offset: 2408, PUSHS , Operand: marmaros arrows
+Offset: 2409, PUSHS , Operand: </col>
+Offset: 2410, PUSHS , Operand:  within Daemonheim.
+Offset: 2411, CONCAT , Operand: 5
+Offset: 2412, RETURN , Operand: 0
+Offset: 2413, GOTO , Operand: 918
+Offset: 2414, PUSHI , Operand: 20
+Offset: 2415, PUSHI , Operand: 17045
+Offset: 2416, PUSHS , Operand: Paraleather coif (Tier 3)
+Offset: 2417, PUSHS , Operand: <br>
+Offset: 2418, PUSHS , Operand:  (with 20 Defence)
+Offset: 2419, CONCAT , Operand: 3
+Offset: 2420, PUSHS , Operand: You can now wear 
+Offset: 2421, PUSHS , Operand: <col=000080>
+Offset: 2422, PUSHS , Operand: paraleather coifs
+Offset: 2423, PUSHS , Operand: </col>
+Offset: 2424, PUSHS , Operand:  within Daemonheim. (You also need level 20 Defence).
+Offset: 2425, CONCAT , Operand: 5
+Offset: 2426, RETURN , Operand: 0
+Offset: 2427, GOTO , Operand: 904
+Offset: 2428, PUSHI , Operand: 20
+Offset: 2429, PUSHI , Operand: 17177
+Offset: 2430, PUSHS , Operand: Paraleather body (Tier 3)
+Offset: 2431, PUSHS , Operand: <br>
+Offset: 2432, PUSHS , Operand:  (with 20 Defence)
+Offset: 2433, CONCAT , Operand: 3
+Offset: 2434, PUSHS , Operand: You can now wear 
+Offset: 2435, PUSHS , Operand: <col=000080>
+Offset: 2436, PUSHS , Operand: paraleather bodies
+Offset: 2437, PUSHS , Operand: </col>
+Offset: 2438, PUSHS , Operand:  within Daemonheim. (You also need level 20 Defence).
+Offset: 2439, CONCAT , Operand: 5
+Offset: 2440, RETURN , Operand: 0
+Offset: 2441, GOTO , Operand: 890
+Offset: 2442, PUSHI , Operand: 20
+Offset: 2443, PUSHI , Operand: 17323
+Offset: 2444, PUSHS , Operand: Paraleather chaps (Tier 3)
+Offset: 2445, PUSHS , Operand: <br>
+Offset: 2446, PUSHS , Operand:  (with 20 Defence)
+Offset: 2447, CONCAT , Operand: 3
+Offset: 2448, PUSHS , Operand: You can now wear 
+Offset: 2449, PUSHS , Operand: <col=000080>
+Offset: 2450, PUSHS , Operand: paraleather chaps
+Offset: 2451, PUSHS , Operand: </col>
+Offset: 2452, PUSHS , Operand:  within Daemonheim. (You also need level 20 Defence).
+Offset: 2453, CONCAT , Operand: 5
+Offset: 2454, RETURN , Operand: 0
+Offset: 2455, GOTO , Operand: 876
+Offset: 2456, PUSHI , Operand: 20
+Offset: 2457, PUSHI , Operand: 17199
+Offset: 2458, PUSHS , Operand: Paraleather vambraces (Tier 3)
+Offset: 2459, PUSHS , Operand: <br>
+Offset: 2460, PUSHS , Operand:  (with 20 Defence)
+Offset: 2461, CONCAT , Operand: 3
+Offset: 2462, PUSHS , Operand: You can now wear 
+Offset: 2463, PUSHS , Operand: <col=000080>
+Offset: 2464, PUSHS , Operand: paraleather vambraces
+Offset: 2465, PUSHS , Operand: </col>
+Offset: 2466, PUSHS , Operand:  within Daemonheim. (You also need level 20 Defence).
+Offset: 2467, CONCAT , Operand: 5
+Offset: 2468, RETURN , Operand: 0
+Offset: 2469, GOTO , Operand: 862
+Offset: 2470, PUSHI , Operand: 20
+Offset: 2471, PUSHI , Operand: 17301
+Offset: 2472, PUSHS , Operand: Paraleather boots (Tier 3)
+Offset: 2473, PUSHS , Operand: <br>
+Offset: 2474, PUSHS , Operand:  (with 20 Defence)
+Offset: 2475, CONCAT , Operand: 3
+Offset: 2476, PUSHS , Operand: You can now wear 
+Offset: 2477, PUSHS , Operand: <col=000080>
+Offset: 2478, PUSHS , Operand: paraleather boots
+Offset: 2479, PUSHS , Operand: </col>
+Offset: 2480, PUSHS , Operand:  within Daemonheim. (You also need level 20 Defence).
+Offset: 2481, CONCAT , Operand: 5
+Offset: 2482, RETURN , Operand: 0
+Offset: 2483, GOTO , Operand: 848
+Offset: 2484, PUSHI , Operand: 30
+Offset: 2485, PUSHI , Operand: 16873
+Offset: 2486, PUSHS , Operand: Utuku shortbow (Tier 4)
+Offset: 2487, PUSHS , Operand: You can now wield 
+Offset: 2488, PUSHS , Operand: <col=000080>
+Offset: 2489, PUSHS , Operand: utuku shortbows
+Offset: 2490, PUSHS , Operand: </col>
+Offset: 2491, PUSHS , Operand:  within Daemonheim.
+Offset: 2492, CONCAT , Operand: 5
+Offset: 2493, RETURN , Operand: 0
+Offset: 2494, GOTO , Operand: 837
+Offset: 2495, PUSHI , Operand: 30
+Offset: 2496, PUSHI , Operand: 16323
+Offset: 2497, PUSHS , Operand: Utuku longbow (Tier 4)
+Offset: 2498, PUSHS , Operand: You can now wield 
+Offset: 2499, PUSHS , Operand: <col=000080>
+Offset: 2500, PUSHS , Operand: utuku longbows
+Offset: 2501, PUSHS , Operand: </col>
+Offset: 2502, PUSHS , Operand:  within Daemonheim.
+Offset: 2503, CONCAT , Operand: 5
+Offset: 2504, RETURN , Operand: 0
+Offset: 2505, GOTO , Operand: 826
+Offset: 2506, PUSHI , Operand: 30
+Offset: 2507, PUSHI , Operand: 16442
+Offset: 2508, PUSHS , Operand: Kratonite arrows (Tier 4)
+Offset: 2509, PUSHS , Operand: You can now use 
+Offset: 2510, PUSHS , Operand: <col=000080>
+Offset: 2511, PUSHS , Operand: kratonite arrows
+Offset: 2512, PUSHS , Operand: </col>
+Offset: 2513, PUSHS , Operand:  within Daemonheim.
+Offset: 2514, CONCAT , Operand: 5
+Offset: 2515, RETURN , Operand: 0
+Offset: 2516, GOTO , Operand: 815
+Offset: 2517, PUSHI , Operand: 30
+Offset: 2518, PUSHI , Operand: 17047
+Offset: 2519, PUSHS , Operand: Archleather coif (Tier 4)
+Offset: 2520, PUSHS , Operand: <br>
+Offset: 2521, PUSHS , Operand:  (with 30 Defence)
+Offset: 2522, CONCAT , Operand: 3
+Offset: 2523, PUSHS , Operand: You can now wear 
+Offset: 2524, PUSHS , Operand: <col=000080>
+Offset: 2525, PUSHS , Operand: archleather coifs
+Offset: 2526, PUSHS , Operand: </col>
+Offset: 2527, PUSHS , Operand:  within Daemonheim. (You also need level 30 Defence).
+Offset: 2528, CONCAT , Operand: 5
+Offset: 2529, RETURN , Operand: 0
+Offset: 2530, GOTO , Operand: 801
+Offset: 2531, PUSHI , Operand: 30
+Offset: 2532, PUSHI , Operand: 17179
+Offset: 2533, PUSHS , Operand: Archleather body (Tier 4)
+Offset: 2534, PUSHS , Operand: <br>
+Offset: 2535, PUSHS , Operand:  (with 30 Defence)
+Offset: 2536, CONCAT , Operand: 3
+Offset: 2537, PUSHS , Operand: You can now wear 
+Offset: 2538, PUSHS , Operand: <col=000080>
+Offset: 2539, PUSHS , Operand: archleather bodies
+Offset: 2540, PUSHS , Operand: </col>
+Offset: 2541, PUSHS , Operand:  within Daemonheim. (You also need level 30 Defence).
+Offset: 2542, CONCAT , Operand: 5
+Offset: 2543, RETURN , Operand: 0
+Offset: 2544, GOTO , Operand: 787
+Offset: 2545, PUSHI , Operand: 30
+Offset: 2546, PUSHI , Operand: 17325
+Offset: 2547, PUSHS , Operand: Archleather chaps (Tier 4)
+Offset: 2548, PUSHS , Operand: <br>
+Offset: 2549, PUSHS , Operand:  (with 30 Defence)
+Offset: 2550, CONCAT , Operand: 3
+Offset: 2551, PUSHS , Operand: You can now wear 
+Offset: 2552, PUSHS , Operand: <col=000080>
+Offset: 2553, PUSHS , Operand: archleather chaps
+Offset: 2554, PUSHS , Operand: </col>
+Offset: 2555, PUSHS , Operand:  within Daemonheim. (You also need level 30 Defence).
+Offset: 2556, CONCAT , Operand: 5
+Offset: 2557, RETURN , Operand: 0
+Offset: 2558, GOTO , Operand: 773
+Offset: 2559, PUSHI , Operand: 30
+Offset: 2560, PUSHI , Operand: 17201
+Offset: 2561, PUSHS , Operand: Archleather vambraces (Tier 4)
+Offset: 2562, PUSHS , Operand: <br>
+Offset: 2563, PUSHS , Operand:  (with 30 Defence)
+Offset: 2564, CONCAT , Operand: 3
+Offset: 2565, PUSHS , Operand: You can now wear 
+Offset: 2566, PUSHS , Operand: <col=000080>
+Offset: 2567, PUSHS , Operand: archleather vambraces
+Offset: 2568, PUSHS , Operand: </col>
+Offset: 2569, PUSHS , Operand:  within Daemonheim. (You also need level 30 Defence).
+Offset: 2570, CONCAT , Operand: 5
+Offset: 2571, RETURN , Operand: 0
+Offset: 2572, GOTO , Operand: 759
+Offset: 2573, PUSHI , Operand: 30
+Offset: 2574, PUSHI , Operand: 17303
+Offset: 2575, PUSHS , Operand: Archleather boots (Tier 4)
+Offset: 2576, PUSHS , Operand: <br>
+Offset: 2577, PUSHS , Operand:  (with 30 Defence)
+Offset: 2578, CONCAT , Operand: 3
+Offset: 2579, PUSHS , Operand: You can now wear 
+Offset: 2580, PUSHS , Operand: <col=000080>
+Offset: 2581, PUSHS , Operand: archleather boots
+Offset: 2582, PUSHS , Operand: </col>
+Offset: 2583, PUSHS , Operand:  within Daemonheim. (You also need level 30 Defence).
+Offset: 2584, CONCAT , Operand: 5
+Offset: 2585, RETURN , Operand: 0
+Offset: 2586, GOTO , Operand: 745
+Offset: 2587, PUSHI , Operand: 40
+Offset: 2588, PUSHI , Operand: 16875
+Offset: 2589, PUSHS , Operand: Spinebeam shortbow (Tier 5)
+Offset: 2590, PUSHS , Operand: You can now wield 
+Offset: 2591, PUSHS , Operand: <col=000080>
+Offset: 2592, PUSHS , Operand: spinebeam shortbows
+Offset: 2593, PUSHS , Operand: </col>
+Offset: 2594, PUSHS , Operand:  within Daemonheim.
+Offset: 2595, CONCAT , Operand: 5
+Offset: 2596, RETURN , Operand: 0
+Offset: 2597, GOTO , Operand: 734
+Offset: 2598, PUSHI , Operand: 40
+Offset: 2599, PUSHI , Operand: 16325
+Offset: 2600, PUSHS , Operand: Spinebeam longbow (Tier 5)
+Offset: 2601, PUSHS , Operand: You can now wield 
+Offset: 2602, PUSHS , Operand: <col=000080>
+Offset: 2603, PUSHS , Operand: spinebeam longbows
+Offset: 2604, PUSHS , Operand: </col>
+Offset: 2605, PUSHS , Operand:  within Daemonheim.
+Offset: 2606, CONCAT , Operand: 5
+Offset: 2607, RETURN , Operand: 0
+Offset: 2608, GOTO , Operand: 723
+Offset: 2609, PUSHI , Operand: 40
+Offset: 2610, PUSHI , Operand: 16447
+Offset: 2611, PUSHS , Operand: Fractite arrows (Tier 5)
+Offset: 2612, PUSHS , Operand: You can now use 
+Offset: 2613, PUSHS , Operand: <col=000080>
+Offset: 2614, PUSHS , Operand: fractite arrows
+Offset: 2615, PUSHS , Operand: </col>
+Offset: 2616, PUSHS , Operand:  within Daemonheim.
+Offset: 2617, CONCAT , Operand: 5
+Offset: 2618, RETURN , Operand: 0
+Offset: 2619, GOTO , Operand: 712
+Offset: 2620, PUSHI , Operand: 40
+Offset: 2621, PUSHI , Operand: 17049
+Offset: 2622, PUSHS , Operand: Dromoleather coif (Tier 5)
+Offset: 2623, PUSHS , Operand: <br>
+Offset: 2624, PUSHS , Operand:  (with 40 Defence)
+Offset: 2625, CONCAT , Operand: 3
+Offset: 2626, PUSHS , Operand: You can now wear 
+Offset: 2627, PUSHS , Operand: <col=000080>
+Offset: 2628, PUSHS , Operand: dromoleather coifs
+Offset: 2629, PUSHS , Operand: </col>
+Offset: 2630, PUSHS , Operand:  within Daemonheim. (You also need level 40 Defence).
+Offset: 2631, CONCAT , Operand: 5
+Offset: 2632, RETURN , Operand: 0
+Offset: 2633, GOTO , Operand: 698
+Offset: 2634, PUSHI , Operand: 40
+Offset: 2635, PUSHI , Operand: 17181
+Offset: 2636, PUSHS , Operand: Dromoleather body (Tier 5)
+Offset: 2637, PUSHS , Operand: <br>
+Offset: 2638, PUSHS , Operand:  (with 40 Defence)
+Offset: 2639, CONCAT , Operand: 3
+Offset: 2640, PUSHS , Operand: You can now wear 
+Offset: 2641, PUSHS , Operand: <col=000080>
+Offset: 2642, PUSHS , Operand: dromoleather bodies
+Offset: 2643, PUSHS , Operand: </col>
+Offset: 2644, PUSHS , Operand:  within Daemonheim. (You also need level 40 Defence).
+Offset: 2645, CONCAT , Operand: 5
+Offset: 2646, RETURN , Operand: 0
+Offset: 2647, GOTO , Operand: 684
+Offset: 2648, PUSHI , Operand: 40
+Offset: 2649, PUSHI , Operand: 17327
+Offset: 2650, PUSHS , Operand: Dromoleather chaps (Tier 5)
+Offset: 2651, PUSHS , Operand: <br>
+Offset: 2652, PUSHS , Operand:  (with 40 Defence)
+Offset: 2653, CONCAT , Operand: 3
+Offset: 2654, PUSHS , Operand: You can now wear 
+Offset: 2655, PUSHS , Operand: <col=000080>
+Offset: 2656, PUSHS , Operand: dromoleather chaps
+Offset: 2657, PUSHS , Operand: </col>
+Offset: 2658, PUSHS , Operand:  within Daemonheim. (You also need level 40 Defence).
+Offset: 2659, CONCAT , Operand: 5
+Offset: 2660, RETURN , Operand: 0
+Offset: 2661, GOTO , Operand: 670
+Offset: 2662, PUSHI , Operand: 40
+Offset: 2663, PUSHI , Operand: 17203
+Offset: 2664, PUSHS , Operand: Dromoleather vambraces (Tier 5)
+Offset: 2665, PUSHS , Operand: <br>
+Offset: 2666, PUSHS , Operand:  (with 40 Defence)
+Offset: 2667, CONCAT , Operand: 3
+Offset: 2668, PUSHS , Operand: You can now wear 
+Offset: 2669, PUSHS , Operand: <col=000080>
+Offset: 2670, PUSHS , Operand: dromoleather vambraces
+Offset: 2671, PUSHS , Operand: </col>
+Offset: 2672, PUSHS , Operand:  within Daemonheim. (You also need level 40 Defence).
+Offset: 2673, CONCAT , Operand: 5
+Offset: 2674, RETURN , Operand: 0
+Offset: 2675, GOTO , Operand: 656
+Offset: 2676, PUSHI , Operand: 40
+Offset: 2677, PUSHI , Operand: 17305
+Offset: 2678, PUSHS , Operand: Dromoleather boots (Tier 5)
+Offset: 2679, PUSHS , Operand: <br>
+Offset: 2680, PUSHS , Operand:  (with 40 Defence)
+Offset: 2681, CONCAT , Operand: 3
+Offset: 2682, PUSHS , Operand: You can now wear 
+Offset: 2683, PUSHS , Operand: <col=000080>
+Offset: 2684, PUSHS , Operand: dromoleather boots
+Offset: 2685, PUSHS , Operand: </col>
+Offset: 2686, PUSHS , Operand:  within Daemonheim. (You also need level 40 Defence).
+Offset: 2687, CONCAT , Operand: 5
+Offset: 2688, RETURN , Operand: 0
+Offset: 2689, GOTO , Operand: 642
+Offset: 2690, PUSHI , Operand: 50
+Offset: 2691, PUSHI , Operand: 16877
+Offset: 2692, PUSHS , Operand: Members: Bovistrangler shortbow (Tier 6)
+Offset: 2693, PUSHS , Operand: Members can now wield 
+Offset: 2694, PUSHS , Operand: <col=000080>
+Offset: 2695, PUSHS , Operand: bovistrangler shortbows
+Offset: 2696, PUSHS , Operand: </col>
+Offset: 2697, PUSHS , Operand:  within Daemonheim.
+Offset: 2698, CONCAT , Operand: 5
+Offset: 2699, RETURN , Operand: 0
+Offset: 2700, GOTO , Operand: 631
+Offset: 2701, PUSHI , Operand: 50
+Offset: 2702, PUSHI , Operand: 16327
+Offset: 2703, PUSHS , Operand: Members: Bovistrangler longbow (Tier 6)
+Offset: 2704, PUSHS , Operand: Members can now wield 
+Offset: 2705, PUSHS , Operand: <col=000080>
+Offset: 2706, PUSHS , Operand: bovistrangler longbows
+Offset: 2707, PUSHS , Operand: </col>
+Offset: 2708, PUSHS , Operand:  within Daemonheim.
+Offset: 2709, CONCAT , Operand: 5
+Offset: 2710, RETURN , Operand: 0
+Offset: 2711, GOTO , Operand: 620
+Offset: 2712, PUSHI , Operand: 50
+Offset: 2713, PUSHI , Operand: 16452
+Offset: 2714, PUSHS , Operand: Members: Zephyrium arrows (Tier 6)
+Offset: 2715, PUSHS , Operand: Members can now use 
+Offset: 2716, PUSHS , Operand: <col=000080>
+Offset: 2717, PUSHS , Operand: zephyrium arrows
+Offset: 2718, PUSHS , Operand: </col>
+Offset: 2719, PUSHS , Operand:  within Daemonheim.
+Offset: 2720, CONCAT , Operand: 5
+Offset: 2721, RETURN , Operand: 0
+Offset: 2722, GOTO , Operand: 609
+Offset: 2723, PUSHI , Operand: 50
+Offset: 2724, PUSHI , Operand: 17051
+Offset: 2725, PUSHS , Operand: Members: Spinoleather coif (Tier 6)
+Offset: 2726, PUSHS , Operand: <br>
+Offset: 2727, PUSHS , Operand:  (with 50 Defence)
+Offset: 2728, CONCAT , Operand: 3
+Offset: 2729, PUSHS , Operand: Members can now wear 
+Offset: 2730, PUSHS , Operand: <col=000080>
+Offset: 2731, PUSHS , Operand: spinoleather coifs
+Offset: 2732, PUSHS , Operand: </col>
+Offset: 2733, PUSHS , Operand:  within Daemonheim. (They also need level 50 Defence).
+Offset: 2734, CONCAT , Operand: 5
+Offset: 2735, RETURN , Operand: 0
+Offset: 2736, GOTO , Operand: 595
+Offset: 2737, PUSHI , Operand: 50
+Offset: 2738, PUSHI , Operand: 17183
+Offset: 2739, PUSHS , Operand: Members: Spinoleather body (Tier 6)
+Offset: 2740, PUSHS , Operand: <br>
+Offset: 2741, PUSHS , Operand:  (with 50 Defence)
+Offset: 2742, CONCAT , Operand: 3
+Offset: 2743, PUSHS , Operand: Members can now wear 
+Offset: 2744, PUSHS , Operand: <col=000080>
+Offset: 2745, PUSHS , Operand: spinoleather bodies
+Offset: 2746, PUSHS , Operand: </col>
+Offset: 2747, PUSHS , Operand:  within Daemonheim. (They also need level 50 Defence).
+Offset: 2748, CONCAT , Operand: 5
+Offset: 2749, RETURN , Operand: 0
+Offset: 2750, GOTO , Operand: 581
+Offset: 2751, PUSHI , Operand: 50
+Offset: 2752, PUSHI , Operand: 17329
+Offset: 2753, PUSHS , Operand: Members: Spinoleather chaps (Tier 6)
+Offset: 2754, PUSHS , Operand: <br>
+Offset: 2755, PUSHS , Operand:  (with 50 Defence)
+Offset: 2756, CONCAT , Operand: 3
+Offset: 2757, PUSHS , Operand: Members can now wear 
+Offset: 2758, PUSHS , Operand: <col=000080>
+Offset: 2759, PUSHS , Operand: spinoleather chaps
+Offset: 2760, PUSHS , Operand: </col>
+Offset: 2761, PUSHS , Operand:  within Daemonheim. (They also need level 50 Defence).
+Offset: 2762, CONCAT , Operand: 5
+Offset: 2763, RETURN , Operand: 0
+Offset: 2764, GOTO , Operand: 567
+Offset: 2765, PUSHI , Operand: 50
+Offset: 2766, PUSHI , Operand: 17205
+Offset: 2767, PUSHS , Operand: Members: Spinoleather vambraces (Tier 6)
+Offset: 2768, PUSHS , Operand: <br>
+Offset: 2769, PUSHS , Operand:  (with 50 Defence)
+Offset: 2770, CONCAT , Operand: 3
+Offset: 2771, PUSHS , Operand: Members can now wear 
+Offset: 2772, PUSHS , Operand: <col=000080>
+Offset: 2773, PUSHS , Operand: spinoleather vambraces
+Offset: 2774, PUSHS , Operand: </col>
+Offset: 2775, PUSHS , Operand:  within Daemonheim. (They also need level 50 Defence).
+Offset: 2776, CONCAT , Operand: 5
+Offset: 2777, RETURN , Operand: 0
+Offset: 2778, GOTO , Operand: 553
+Offset: 2779, PUSHI , Operand: 50
+Offset: 2780, PUSHI , Operand: 17307
+Offset: 2781, PUSHS , Operand: Members: Spinoleather boots (Tier 6)
+Offset: 2782, PUSHS , Operand: <br>
+Offset: 2783, PUSHS , Operand:  (with 50 Defence)
+Offset: 2784, CONCAT , Operand: 3
+Offset: 2785, PUSHS , Operand: Members can now wear 
+Offset: 2786, PUSHS , Operand: <col=000080>
+Offset: 2787, PUSHS , Operand: spinoleather boots
+Offset: 2788, PUSHS , Operand: </col>
+Offset: 2789, PUSHS , Operand:  within Daemonheim. (They also need level 50 Defence).
+Offset: 2790, CONCAT , Operand: 5
+Offset: 2791, RETURN , Operand: 0
+Offset: 2792, GOTO , Operand: 539
+Offset: 2793, PUSHI , Operand: 60
+Offset: 2794, PUSHI , Operand: 16879
+Offset: 2795, PUSHS , Operand: Members: Thigat shortbow (Tier 7)
+Offset: 2796, PUSHS , Operand: Members can now wield 
+Offset: 2797, PUSHS , Operand: <col=000080>
+Offset: 2798, PUSHS , Operand: thigat shortbows
+Offset: 2799, PUSHS , Operand: </col>
+Offset: 2800, PUSHS , Operand:  within Daemonheim.
+Offset: 2801, CONCAT , Operand: 5
+Offset: 2802, RETURN , Operand: 0
+Offset: 2803, GOTO , Operand: 528
+Offset: 2804, PUSHI , Operand: 60
+Offset: 2805, PUSHI , Operand: 16329
+Offset: 2806, PUSHS , Operand: Members: Thigat longbow (Tier 7)
+Offset: 2807, PUSHS , Operand: Members can now wield 
+Offset: 2808, PUSHS , Operand: <col=000080>
+Offset: 2809, PUSHS , Operand: thigat longbows
+Offset: 2810, PUSHS , Operand: </col>
+Offset: 2811, PUSHS , Operand:  within Daemonheim.
+Offset: 2812, CONCAT , Operand: 5
+Offset: 2813, RETURN , Operand: 0
+Offset: 2814, GOTO , Operand: 517
+Offset: 2815, PUSHI , Operand: 60
+Offset: 2816, PUSHI , Operand: 16457
+Offset: 2817, PUSHS , Operand: Members: Argonite arrows (Tier 7)
+Offset: 2818, PUSHS , Operand: Members can now use 
+Offset: 2819, PUSHS , Operand: <col=000080>
+Offset: 2820, PUSHS , Operand: argonite arrows
+Offset: 2821, PUSHS , Operand: </col>
+Offset: 2822, PUSHS , Operand:  within Daemonheim.
+Offset: 2823, CONCAT , Operand: 5
+Offset: 2824, RETURN , Operand: 0
+Offset: 2825, GOTO , Operand: 506
+Offset: 2826, PUSHI , Operand: 60
+Offset: 2827, PUSHI , Operand: 17053
+Offset: 2828, PUSHS , Operand: Members: Gallileather coif (Tier 7)
+Offset: 2829, PUSHS , Operand: <br>
+Offset: 2830, PUSHS , Operand:  (with 60 Defence)
+Offset: 2831, CONCAT , Operand: 3
+Offset: 2832, PUSHS , Operand: Members can now wear 
+Offset: 2833, PUSHS , Operand: <col=000080>
+Offset: 2834, PUSHS , Operand: gallileather coifs
+Offset: 2835, PUSHS , Operand: </col>
+Offset: 2836, PUSHS , Operand:  within Daemonheim. (They also need level 60 Defence).
+Offset: 2837, CONCAT , Operand: 5
+Offset: 2838, RETURN , Operand: 0
+Offset: 2839, GOTO , Operand: 492
+Offset: 2840, PUSHI , Operand: 60
+Offset: 2841, PUSHI , Operand: 17185
+Offset: 2842, PUSHS , Operand: Members: Gallileather body (Tier 7)
+Offset: 2843, PUSHS , Operand: <br>
+Offset: 2844, PUSHS , Operand:  (with 60 Defence)
+Offset: 2845, CONCAT , Operand: 3
+Offset: 2846, PUSHS , Operand: Members can now wear 
+Offset: 2847, PUSHS , Operand: <col=000080>
+Offset: 2848, PUSHS , Operand: gallileather bodies
+Offset: 2849, PUSHS , Operand: </col>
+Offset: 2850, PUSHS , Operand:  within Daemonheim. (They also need level 60 Defence).
+Offset: 2851, CONCAT , Operand: 5
+Offset: 2852, RETURN , Operand: 0
+Offset: 2853, GOTO , Operand: 478
+Offset: 2854, PUSHI , Operand: 60
+Offset: 2855, PUSHI , Operand: 17331
+Offset: 2856, PUSHS , Operand: Members: Gallileather chaps (Tier 7)
+Offset: 2857, PUSHS , Operand: <br>
+Offset: 2858, PUSHS , Operand:  (with 60 Defence)
+Offset: 2859, CONCAT , Operand: 3
+Offset: 2860, PUSHS , Operand: Members can now wear 
+Offset: 2861, PUSHS , Operand: <col=000080>
+Offset: 2862, PUSHS , Operand: gallileather chaps
+Offset: 2863, PUSHS , Operand: </col>
+Offset: 2864, PUSHS , Operand:  within Daemonheim. (They also need level 60 Defence).
+Offset: 2865, CONCAT , Operand: 5
+Offset: 2866, RETURN , Operand: 0
+Offset: 2867, GOTO , Operand: 464
+Offset: 2868, PUSHI , Operand: 60
+Offset: 2869, PUSHI , Operand: 17207
+Offset: 2870, PUSHS , Operand: Members: Gallileather vambraces (Tier 7)
+Offset: 2871, PUSHS , Operand: <br>
+Offset: 2872, PUSHS , Operand:  (with 60 Defence)
+Offset: 2873, CONCAT , Operand: 3
+Offset: 2874, PUSHS , Operand: Members can now wear 
+Offset: 2875, PUSHS , Operand: <col=000080>
+Offset: 2876, PUSHS , Operand: gallileather vambraces
+Offset: 2877, PUSHS , Operand: </col>
+Offset: 2878, PUSHS , Operand:  within Daemonheim. (They also need level 60 Defence).
+Offset: 2879, CONCAT , Operand: 5
+Offset: 2880, RETURN , Operand: 0
+Offset: 2881, GOTO , Operand: 450
+Offset: 2882, PUSHI , Operand: 60
+Offset: 2883, PUSHI , Operand: 17309
+Offset: 2884, PUSHS , Operand: Members: Gallileather boots (Tier 7)
+Offset: 2885, PUSHS , Operand: <br>
+Offset: 2886, PUSHS , Operand:  (with 60 Defence)
+Offset: 2887, CONCAT , Operand: 3
+Offset: 2888, PUSHS , Operand: Members can now wear 
+Offset: 2889, PUSHS , Operand: <col=000080>
+Offset: 2890, PUSHS , Operand: gallileather boots
+Offset: 2891, PUSHS , Operand: </col>
+Offset: 2892, PUSHS , Operand:  within Daemonheim. (They also need level 60 Defence).
+Offset: 2893, CONCAT , Operand: 5
+Offset: 2894, RETURN , Operand: 0
+Offset: 2895, GOTO , Operand: 436
+Offset: 2896, PUSHI , Operand: 70
+Offset: 2897, PUSHI , Operand: 16881
+Offset: 2898, PUSHS , Operand: Members: Corpsethorn shortbow (Tier 8)
+Offset: 2899, PUSHS , Operand: Members can now wield 
+Offset: 2900, PUSHS , Operand: <col=000080>
+Offset: 2901, PUSHS , Operand: corpsethorn shortbows
+Offset: 2902, PUSHS , Operand: </col>
+Offset: 2903, PUSHS , Operand:  within Daemonheim.
+Offset: 2904, CONCAT , Operand: 5
+Offset: 2905, RETURN , Operand: 0
+Offset: 2906, GOTO , Operand: 425
+Offset: 2907, PUSHI , Operand: 70
+Offset: 2908, PUSHI , Operand: 16331
+Offset: 2909, PUSHS , Operand: Members: Corpsethorn longbow (Tier 8)
+Offset: 2910, PUSHS , Operand: Members can now wield 
+Offset: 2911, PUSHS , Operand: <col=000080>
+Offset: 2912, PUSHS , Operand: corpsethorn longbows
+Offset: 2913, PUSHS , Operand: </col>
+Offset: 2914, PUSHS , Operand:  within Daemonheim.
+Offset: 2915, CONCAT , Operand: 5
+Offset: 2916, RETURN , Operand: 0
+Offset: 2917, GOTO , Operand: 414
+Offset: 2918, PUSHI , Operand: 70
+Offset: 2919, PUSHI , Operand: 16462
+Offset: 2920, PUSHS , Operand: Members: Katagon arrows (Tier 8)
+Offset: 2921, PUSHS , Operand: Members can now use 
+Offset: 2922, PUSHS , Operand: <col=000080>
+Offset: 2923, PUSHS , Operand: katagon arrows
+Offset: 2924, PUSHS , Operand: </col>
+Offset: 2925, PUSHS , Operand:  within Daemonheim.
+Offset: 2926, CONCAT , Operand: 5
+Offset: 2927, RETURN , Operand: 0
+Offset: 2928, GOTO , Operand: 403
+Offset: 2929, PUSHI , Operand: 70
+Offset: 2930, PUSHI , Operand: 17055
+Offset: 2931, PUSHS , Operand: Members: Stegoleather coif (Tier 8)
+Offset: 2932, PUSHS , Operand: <br>
+Offset: 2933, PUSHS , Operand:  (with 70 Defence)
+Offset: 2934, CONCAT , Operand: 3
+Offset: 2935, PUSHS , Operand: Members can now wear 
+Offset: 2936, PUSHS , Operand: <col=000080>
+Offset: 2937, PUSHS , Operand: stegoleather coifs
+Offset: 2938, PUSHS , Operand: </col>
+Offset: 2939, PUSHS , Operand:  within Daemonheim. (They also need level 70 Defence).
+Offset: 2940, CONCAT , Operand: 5
+Offset: 2941, RETURN , Operand: 0
+Offset: 2942, GOTO , Operand: 389
+Offset: 2943, PUSHI , Operand: 70
+Offset: 2944, PUSHI , Operand: 17187
+Offset: 2945, PUSHS , Operand: Members: Stegoleather body (Tier 8)
+Offset: 2946, PUSHS , Operand: <br>
+Offset: 2947, PUSHS , Operand:  (with 70 Defence)
+Offset: 2948, CONCAT , Operand: 3
+Offset: 2949, PUSHS , Operand: Members can now wear 
+Offset: 2950, PUSHS , Operand: <col=000080>
+Offset: 2951, PUSHS , Operand: stegoleather bodies
+Offset: 2952, PUSHS , Operand: </col>
+Offset: 2953, PUSHS , Operand:  within Daemonheim. (They also need level 70 Defence).
+Offset: 2954, CONCAT , Operand: 5
+Offset: 2955, RETURN , Operand: 0
+Offset: 2956, GOTO , Operand: 375
+Offset: 2957, PUSHI , Operand: 70
+Offset: 2958, PUSHI , Operand: 17333
+Offset: 2959, PUSHS , Operand: Members: Stegoleather chaps (Tier 8)
+Offset: 2960, PUSHS , Operand: <br>
+Offset: 2961, PUSHS , Operand:  (with 70 Defence)
+Offset: 2962, CONCAT , Operand: 3
+Offset: 2963, PUSHS , Operand: Members can now wear 
+Offset: 2964, PUSHS , Operand: <col=000080>
+Offset: 2965, PUSHS , Operand: stegoleather chaps
+Offset: 2966, PUSHS , Operand: </col>
+Offset: 2967, PUSHS , Operand:  within Daemonheim. (They also need level 70 Defence).
+Offset: 2968, CONCAT , Operand: 5
+Offset: 2969, RETURN , Operand: 0
+Offset: 2970, GOTO , Operand: 361
+Offset: 2971, PUSHI , Operand: 70
+Offset: 2972, PUSHI , Operand: 17209
+Offset: 2973, PUSHS , Operand: Members: Stegoleather vambraces (Tier 8)
+Offset: 2974, PUSHS , Operand: <br>
+Offset: 2975, PUSHS , Operand:  (with 70 Defence)
+Offset: 2976, CONCAT , Operand: 3
+Offset: 2977, PUSHS , Operand: Members can now wear 
+Offset: 2978, PUSHS , Operand: <col=000080>
+Offset: 2979, PUSHS , Operand: stegoleather vambraces
+Offset: 2980, PUSHS , Operand: </col>
+Offset: 2981, PUSHS , Operand:  within Daemonheim. (They also need level 70 Defence).
+Offset: 2982, CONCAT , Operand: 5
+Offset: 2983, RETURN , Operand: 0
+Offset: 2984, GOTO , Operand: 347
+Offset: 2985, PUSHI , Operand: 70
+Offset: 2986, PUSHI , Operand: 17311
+Offset: 2987, PUSHS , Operand: Members: Stegoleather boots (Tier 8)
+Offset: 2988, PUSHS , Operand: <br>
+Offset: 2989, PUSHS , Operand:  (with 70 Defence)
+Offset: 2990, CONCAT , Operand: 3
+Offset: 2991, PUSHS , Operand: Members can now wear 
+Offset: 2992, PUSHS , Operand: <col=000080>
+Offset: 2993, PUSHS , Operand: stegoleather boots
+Offset: 2994, PUSHS , Operand: </col>
+Offset: 2995, PUSHS , Operand:  within Daemonheim. (They also need level 70 Defence).
+Offset: 2996, CONCAT , Operand: 5
+Offset: 2997, RETURN , Operand: 0
+Offset: 2998, GOTO , Operand: 333
+Offset: 2999, PUSHI , Operand: 80
+Offset: 3000, PUSHI , Operand: 16883
+Offset: 3001, PUSHS , Operand: Members: Entgallow shortbow (Tier 9)
+Offset: 3002, PUSHS , Operand: Members can now wield 
+Offset: 3003, PUSHS , Operand: <col=000080>
+Offset: 3004, PUSHS , Operand: entgallow shortbows
+Offset: 3005, PUSHS , Operand: </col>
+Offset: 3006, PUSHS , Operand:  within Daemonheim.
+Offset: 3007, CONCAT , Operand: 5
+Offset: 3008, RETURN , Operand: 0
+Offset: 3009, GOTO , Operand: 322
+Offset: 3010, PUSHI , Operand: 80
+Offset: 3011, PUSHI , Operand: 16333
+Offset: 3012, PUSHS , Operand: Members: Entgallow longbow (Tier 9)
+Offset: 3013, PUSHS , Operand: Members can now wield 
+Offset: 3014, PUSHS , Operand: <col=000080>
+Offset: 3015, PUSHS , Operand: entgallow longbows
+Offset: 3016, PUSHS , Operand: </col>
+Offset: 3017, PUSHS , Operand:  within Daemonheim.
+Offset: 3018, CONCAT , Operand: 5
+Offset: 3019, RETURN , Operand: 0
+Offset: 3020, GOTO , Operand: 311
+Offset: 3021, PUSHI , Operand: 80
+Offset: 3022, PUSHI , Operand: 16467
+Offset: 3023, PUSHS , Operand: Members: Gorgonite arrows (Tier 9)
+Offset: 3024, PUSHS , Operand: Members can now use 
+Offset: 3025, PUSHS , Operand: <col=000080>
+Offset: 3026, PUSHS , Operand: gorgonite arrows
+Offset: 3027, PUSHS , Operand: </col>
+Offset: 3028, PUSHS , Operand:  within Daemonheim.
+Offset: 3029, CONCAT , Operand: 5
+Offset: 3030, RETURN , Operand: 0
+Offset: 3031, GOTO , Operand: 300
+Offset: 3032, PUSHI , Operand: 80
+Offset: 3033, PUSHI , Operand: 17057
+Offset: 3034, PUSHS , Operand: Members: Megaleather coif (Tier 9)
+Offset: 3035, PUSHS , Operand: <br>
+Offset: 3036, PUSHS , Operand:  (with 80 Defence)
+Offset: 3037, CONCAT , Operand: 3
+Offset: 3038, PUSHS , Operand: Members can now wear 
+Offset: 3039, PUSHS , Operand: <col=000080>
+Offset: 3040, PUSHS , Operand: megaleather coifs
+Offset: 3041, PUSHS , Operand: </col>
+Offset: 3042, PUSHS , Operand:  within Daemonheim. (They also need level 80 Defence).
+Offset: 3043, CONCAT , Operand: 5
+Offset: 3044, RETURN , Operand: 0
+Offset: 3045, GOTO , Operand: 286
+Offset: 3046, PUSHI , Operand: 80
+Offset: 3047, PUSHI , Operand: 17189
+Offset: 3048, PUSHS , Operand: Members: Megaleather body (Tier 9)
+Offset: 3049, PUSHS , Operand: <br>
+Offset: 3050, PUSHS , Operand:  (with 80 Defence)
+Offset: 3051, CONCAT , Operand: 3
+Offset: 3052, PUSHS , Operand: Members can now wear 
+Offset: 3053, PUSHS , Operand: <col=000080>
+Offset: 3054, PUSHS , Operand: megaleather bodies
+Offset: 3055, PUSHS , Operand: </col>
+Offset: 3056, PUSHS , Operand:  within Daemonheim. (They also need level 80 Defence).
+Offset: 3057, CONCAT , Operand: 5
+Offset: 3058, RETURN , Operand: 0
+Offset: 3059, GOTO , Operand: 272
+Offset: 3060, PUSHI , Operand: 80
+Offset: 3061, PUSHI , Operand: 17335
+Offset: 3062, PUSHS , Operand: Members: Megaleather chaps (Tier 9)
+Offset: 3063, PUSHS , Operand: <br>
+Offset: 3064, PUSHS , Operand:  (with 80 Defence)
+Offset: 3065, CONCAT , Operand: 3
+Offset: 3066, PUSHS , Operand: Members can now wear 
+Offset: 3067, PUSHS , Operand: <col=000080>
+Offset: 3068, PUSHS , Operand: megaleather chaps
+Offset: 3069, PUSHS , Operand: </col>
+Offset: 3070, PUSHS , Operand:  within Daemonheim. (They also need level 80 Defence).
+Offset: 3071, CONCAT , Operand: 5
+Offset: 3072, RETURN , Operand: 0
+Offset: 3073, GOTO , Operand: 258
+Offset: 3074, PUSHI , Operand: 80
+Offset: 3075, PUSHI , Operand: 17211
+Offset: 3076, PUSHS , Operand: Members: Megaleather vambraces (Tier 9)
+Offset: 3077, PUSHS , Operand: <br>
+Offset: 3078, PUSHS , Operand:  (with 80 Defence)
+Offset: 3079, CONCAT , Operand: 3
+Offset: 3080, PUSHS , Operand: Members can now wear 
+Offset: 3081, PUSHS , Operand: <col=000080>
+Offset: 3082, PUSHS , Operand: megaleather vambraces
+Offset: 3083, PUSHS , Operand: </col>
+Offset: 3084, PUSHS , Operand:  within Daemonheim. (They also need level 80 Defence).
+Offset: 3085, CONCAT , Operand: 5
+Offset: 3086, RETURN , Operand: 0
+Offset: 3087, GOTO , Operand: 244
+Offset: 3088, PUSHI , Operand: 80
+Offset: 3089, PUSHI , Operand: 17313
+Offset: 3090, PUSHS , Operand: Members: Megaleather boots (Tier 9)
+Offset: 3091, PUSHS , Operand: <br>
+Offset: 3092, PUSHS , Operand:  (with 80 Defence)
+Offset: 3093, CONCAT , Operand: 3
+Offset: 3094, PUSHS , Operand: Members can now wear 
+Offset: 3095, PUSHS , Operand: <col=000080>
+Offset: 3096, PUSHS , Operand: megaleather boots
+Offset: 3097, PUSHS , Operand: </col>
+Offset: 3098, PUSHS , Operand:  within Daemonheim. (They also need level 80 Defence).
+Offset: 3099, CONCAT , Operand: 5
+Offset: 3100, RETURN , Operand: 0
+Offset: 3101, GOTO , Operand: 230
+Offset: 3102, PUSHI , Operand: 83
+Offset: 3103, PUSHI , Operand: 17283
+Offset: 3104, PUSHS , Operand: Members: Grounding boots
+Offset: 3105, PUSHS , Operand: <br>
+Offset: 3106, PUSHS , Operand:  (with 83 Defence)
+Offset: 3107, CONCAT , Operand: 3
+Offset: 3108, PUSHS , Operand: Members can now wear 
+Offset: 3109, PUSHS , Operand: <col=000080>
+Offset: 3110, PUSHS , Operand: grounding boots
+Offset: 3111, PUSHS , Operand: </col>
+Offset: 3112, PUSHS , Operand:  within Daemonheim. (They also need level 83 Defence.)
+Offset: 3113, CONCAT , Operand: 5
+Offset: 3114, RETURN , Operand: 0
+Offset: 3115, GOTO , Operand: 216
+Offset: 3116, PUSHI , Operand: 90
+Offset: 3117, PUSHI , Operand: 16885
+Offset: 3118, PUSHS , Operand: Members: Grave creeper shortbow (Tier 10)
+Offset: 3119, PUSHS , Operand: Members can now wield 
+Offset: 3120, PUSHS , Operand: <col=000080>
+Offset: 3121, PUSHS , Operand: grave creeper shortbows
+Offset: 3122, PUSHS , Operand: </col>
+Offset: 3123, PUSHS , Operand:  within Daemonheim.
+Offset: 3124, CONCAT , Operand: 5
+Offset: 3125, RETURN , Operand: 0
+Offset: 3126, GOTO , Operand: 205
+Offset: 3127, PUSHI , Operand: 90
+Offset: 3128, PUSHI , Operand: 16335
+Offset: 3129, PUSHS , Operand: Members: Grave creeper longbow (Tier 10)
+Offset: 3130, PUSHS , Operand: Members can now wield 
+Offset: 3131, PUSHS , Operand: <col=000080>
+Offset: 3132, PUSHS , Operand: grave creeper longbows
+Offset: 3133, PUSHS , Operand: </col>
+Offset: 3134, PUSHS , Operand:  within Daemonheim.
+Offset: 3135, CONCAT , Operand: 5
+Offset: 3136, RETURN , Operand: 0
+Offset: 3137, GOTO , Operand: 194
+Offset: 3138, PUSHI , Operand: 90
+Offset: 3139, PUSHI , Operand: 16472
+Offset: 3140, PUSHS , Operand: Members: Promethium arrows (Tier 10)
+Offset: 3141, PUSHS , Operand: Members can now use 
+Offset: 3142, PUSHS , Operand: <col=000080>
+Offset: 3143, PUSHS , Operand: promethium arrows
+Offset: 3144, PUSHS , Operand: </col>
+Offset: 3145, PUSHS , Operand:  within Daemonheim.
+Offset: 3146, CONCAT , Operand: 5
+Offset: 3147, RETURN , Operand: 0
+Offset: 3148, GOTO , Operand: 183
+Offset: 3149, PUSHI , Operand: 90
+Offset: 3150, PUSHI , Operand: 17059
+Offset: 3151, PUSHS , Operand: Members: Tyrannoleather coif (Tier 10)
+Offset: 3152, PUSHS , Operand: <br>
+Offset: 3153, PUSHS , Operand:  (with 90 Defence)
+Offset: 3154, CONCAT , Operand: 3
+Offset: 3155, PUSHS , Operand: Members can now wear 
+Offset: 3156, PUSHS , Operand: <col=000080>
+Offset: 3157, PUSHS , Operand: tyrannoleather coifs
+Offset: 3158, PUSHS , Operand: </col>
+Offset: 3159, PUSHS , Operand:  within Daemonheim. (They also need level 90 Defence).
+Offset: 3160, CONCAT , Operand: 5
+Offset: 3161, RETURN , Operand: 0
+Offset: 3162, GOTO , Operand: 169
+Offset: 3163, PUSHI , Operand: 90
+Offset: 3164, PUSHI , Operand: 17191
+Offset: 3165, PUSHS , Operand: Members: Tyrannoleather body (Tier 10)
+Offset: 3166, PUSHS , Operand: <br>
+Offset: 3167, PUSHS , Operand:  (with 90 Defence)
+Offset: 3168, CONCAT , Operand: 3
+Offset: 3169, PUSHS , Operand: Members can now wear 
+Offset: 3170, PUSHS , Operand: <col=000080>
+Offset: 3171, PUSHS , Operand: tyrannoleather bodies
+Offset: 3172, PUSHS , Operand: </col>
+Offset: 3173, PUSHS , Operand:  within Daemonheim. (They also need level 90 Defence).
+Offset: 3174, CONCAT , Operand: 5
+Offset: 3175, RETURN , Operand: 0
+Offset: 3176, GOTO , Operand: 155
+Offset: 3177, PUSHI , Operand: 90
+Offset: 3178, PUSHI , Operand: 17337
+Offset: 3179, PUSHS , Operand: Members: Tyrannoleather chaps (Tier 10)
+Offset: 3180, PUSHS , Operand: <br>
+Offset: 3181, PUSHS , Operand:  (with 90 Defence)
+Offset: 3182, CONCAT , Operand: 3
+Offset: 3183, PUSHS , Operand: Members can now wear 
+Offset: 3184, PUSHS , Operand: <col=000080>
+Offset: 3185, PUSHS , Operand: tyrannoleather chaps
+Offset: 3186, PUSHS , Operand: </col>
+Offset: 3187, PUSHS , Operand:  within Daemonheim. (They also need level 90 Defence).
+Offset: 3188, CONCAT , Operand: 5
+Offset: 3189, RETURN , Operand: 0
+Offset: 3190, GOTO , Operand: 141
+Offset: 3191, PUSHI , Operand: 90
+Offset: 3192, PUSHI , Operand: 17213
+Offset: 3193, PUSHS , Operand: Members: Tyrannoleather vambraces (Tier 10)
+Offset: 3194, PUSHS , Operand: <br>
+Offset: 3195, PUSHS , Operand:  (with 90 Defence)
+Offset: 3196, CONCAT , Operand: 3
+Offset: 3197, PUSHS , Operand: Members can now wear 
+Offset: 3198, PUSHS , Operand: <col=000080>
+Offset: 3199, PUSHS , Operand: tyrannoleather vambraces
+Offset: 3200, PUSHS , Operand: </col>
+Offset: 3201, PUSHS , Operand:  within Daemonheim. (They also need level 90 Defence).
+Offset: 3202, CONCAT , Operand: 5
+Offset: 3203, RETURN , Operand: 0
+Offset: 3204, GOTO , Operand: 127
+Offset: 3205, PUSHI , Operand: 90
+Offset: 3206, PUSHI , Operand: 17315
+Offset: 3207, PUSHS , Operand: Members: Tyrannoleather boots (Tier 10)
+Offset: 3208, PUSHS , Operand: <br>
+Offset: 3209, PUSHS , Operand:  (with 90 Defence)
+Offset: 3210, CONCAT , Operand: 3
+Offset: 3211, PUSHS , Operand: Members can now wear 
+Offset: 3212, PUSHS , Operand: <col=000080>
+Offset: 3213, PUSHS , Operand: tyrannoleather boots
+Offset: 3214, PUSHS , Operand: </col>
+Offset: 3215, PUSHS , Operand:  within Daemonheim. (They also need level 90 Defence).
+Offset: 3216, CONCAT , Operand: 5
+Offset: 3217, RETURN , Operand: 0
+Offset: 3218, GOTO , Operand: 113
+Offset: 3219, PUSHI , Operand: 98
+Offset: 3220, PUSHI , Operand: 17295
+Offset: 3221, PUSHS , Operand: Members: Hexhunter bow
+Offset: 3222, PUSHS , Operand: Members can now wield 
+Offset: 3223, PUSHS , Operand: <col=000080>
+Offset: 3224, PUSHS , Operand: hexhunter shortbows
+Offset: 3225, PUSHS , Operand: </col>
+Offset: 3226, PUSHS , Operand:  within Daemonheim.
+Offset: 3227, CONCAT , Operand: 5
+Offset: 3228, RETURN , Operand: 0
+Offset: 3229, GOTO , Operand: 102
+Offset: 3230, PUSHI , Operand: 99
+Offset: 3231, PUSHI , Operand: 16887
+Offset: 3232, PUSHS , Operand: Members: Sagittarian shortbow (Tier 11)
+Offset: 3233, PUSHS , Operand: Members can now wield 
+Offset: 3234, PUSHS , Operand: <col=000080>
+Offset: 3235, PUSHS , Operand: sagittarian shortbows
+Offset: 3236, PUSHS , Operand: </col>
+Offset: 3237, PUSHS , Operand:  within Daemonheim.
+Offset: 3238, CONCAT , Operand: 5
+Offset: 3239, RETURN , Operand: 0
+Offset: 3240, GOTO , Operand: 91
+Offset: 3241, PUSHI , Operand: 99
+Offset: 3242, PUSHI , Operand: 16337
+Offset: 3243, PUSHS , Operand: Members: Sagittarian longbow (Tier 11)
+Offset: 3244, PUSHS , Operand: Members can now wield 
+Offset: 3245, PUSHS , Operand: <col=000080>
+Offset: 3246, PUSHS , Operand: sagittarian longbows
+Offset: 3247, PUSHS , Operand: </col>
+Offset: 3248, PUSHS , Operand:  within Daemonheim.
+Offset: 3249, CONCAT , Operand: 5
+Offset: 3250, RETURN , Operand: 0
+Offset: 3251, GOTO , Operand: 80
+Offset: 3252, PUSHI , Operand: 99
+Offset: 3253, PUSHI , Operand: 16477
+Offset: 3254, PUSHS , Operand: Members: Sagittarian arrows (Tier 11)
+Offset: 3255, PUSHS , Operand: Members can now use 
+Offset: 3256, PUSHS , Operand: <col=000080>
+Offset: 3257, PUSHS , Operand: primal arrows
+Offset: 3258, PUSHS , Operand: </col>
+Offset: 3259, PUSHS , Operand:  within Daemonheim.
+Offset: 3260, CONCAT , Operand: 5
+Offset: 3261, RETURN , Operand: 0
+Offset: 3262, GOTO , Operand: 69
+Offset: 3263, PUSHI , Operand: 99
+Offset: 3264, PUSHI , Operand: 17061
+Offset: 3265, PUSHS , Operand: Members: Sagittarian coif (Tier 11)
+Offset: 3266, PUSHS , Operand: <br>
+Offset: 3267, PUSHS , Operand:  (with 99 Defence)
+Offset: 3268, CONCAT , Operand: 3
+Offset: 3269, PUSHS , Operand: Members can now wear 
+Offset: 3270, PUSHS , Operand: <col=000080>
+Offset: 3271, PUSHS , Operand: sagittarian coifs
+Offset: 3272, PUSHS , Operand: </col>
+Offset: 3273, PUSHS , Operand:  within Daemonheim. (They also need level 99 Defence).
+Offset: 3274, CONCAT , Operand: 5
+Offset: 3275, RETURN , Operand: 0
+Offset: 3276, GOTO , Operand: 55
+Offset: 3277, PUSHI , Operand: 99
+Offset: 3278, PUSHI , Operand: 17193
+Offset: 3279, PUSHS , Operand: Members: Sagittarian body (Tier 11)
+Offset: 3280, PUSHS , Operand: <br>
+Offset: 3281, PUSHS , Operand:  (with 99 Defence)
+Offset: 3282, CONCAT , Operand: 3
+Offset: 3283, PUSHS , Operand: Members can now wear 
+Offset: 3284, PUSHS , Operand: <col=000080>
+Offset: 3285, PUSHS , Operand: sagittarian bodies
+Offset: 3286, PUSHS , Operand: </col>
+Offset: 3287, PUSHS , Operand:  within Daemonheim. (They also need level 99 Defence).
+Offset: 3288, CONCAT , Operand: 5
+Offset: 3289, RETURN , Operand: 0
+Offset: 3290, GOTO , Operand: 41
+Offset: 3291, PUSHI , Operand: 99
+Offset: 3292, PUSHI , Operand: 17339
+Offset: 3293, PUSHS , Operand: Members: Sagittarian chaps (Tier 11)
+Offset: 3294, PUSHS , Operand: <br>
+Offset: 3295, PUSHS , Operand:  (with 99 Defence)
+Offset: 3296, CONCAT , Operand: 3
+Offset: 3297, PUSHS , Operand: Members can now wear 
+Offset: 3298, PUSHS , Operand: <col=000080>
+Offset: 3299, PUSHS , Operand: sagittarian chaps
+Offset: 3300, PUSHS , Operand: </col>
+Offset: 3301, PUSHS , Operand:  within Daemonheim. (They also need level 99 Defence).
+Offset: 3302, CONCAT , Operand: 5
+Offset: 3303, RETURN , Operand: 0
+Offset: 3304, GOTO , Operand: 27
+Offset: 3305, PUSHI , Operand: 99
+Offset: 3306, PUSHI , Operand: 17215
+Offset: 3307, PUSHS , Operand: Members: Sagittarian vambraces (Tier 11)
+Offset: 3308, PUSHS , Operand: <br>
+Offset: 3309, PUSHS , Operand:  (with 99 Defence)
+Offset: 3310, CONCAT , Operand: 3
+Offset: 3311, PUSHS , Operand: Members can now wear 
+Offset: 3312, PUSHS , Operand: <col=000080>
+Offset: 3313, PUSHS , Operand: sagittarian vambraces
+Offset: 3314, PUSHS , Operand: </col>
+Offset: 3315, PUSHS , Operand:  within Daemonheim. (They also need level 99 Defence).
+Offset: 3316, CONCAT , Operand: 5
+Offset: 3317, RETURN , Operand: 0
+Offset: 3318, GOTO , Operand: 13
+Offset: 3319, PUSHI , Operand: 99
+Offset: 3320, PUSHI , Operand: 17317
+Offset: 3321, PUSHS , Operand: Members: Sagittarian boots (Tier 11)
+Offset: 3322, PUSHS , Operand: <br>
+Offset: 3323, PUSHS , Operand:  (with 99 Defence)
+Offset: 3324, CONCAT , Operand: 3
+Offset: 3325, PUSHS , Operand: Members can now wear 
+Offset: 3326, PUSHS , Operand: <col=000080>
+Offset: 3327, PUSHS , Operand: sagittarian boots
+Offset: 3328, PUSHS , Operand: </col>
+Offset: 3329, PUSHS , Operand:  within Daemonheim. (They also need level 99 Defence).
+Offset: 3330, CONCAT , Operand: 5
+Offset: 3331, RETURN , Operand: 0
+Offset: 3332, GOTO , Operand: 41
+Offset: 3333, LOADINT , Operand: 1
+Offset: 3334, SWITCH , Operand: 10
+Offset: 3335, GOTO , Operand: 38
+Offset: 3336, PUSHI , Operand: 40
+Offset: 3337, PUSHI , Operand: 8164
+Offset: 3338, PUSHS , Operand: Members: Ranging Guild
+Offset: 3339, PUSHS , Operand: Members can now enter the prestigious 
+Offset: 3340, PUSHS , Operand: <col=000080>
+Offset: 3341, PUSHS , Operand: Ranging Guild
+Offset: 3342, PUSHS , Operand: </col>
+Offset: 3343, PUSHS , Operand:  in Hemenster and play the 
+Offset: 3344, PUSHS , Operand: <col=000080>
+Offset: 3345, PUSHS , Operand: Target Practice
+Offset: 3346, PUSHS , Operand: </col>
+Offset: 3347, PUSHS , Operand:  game there.
+Offset: 3348, CONCAT , Operand: 9
+Offset: 3349, RETURN , Operand: 0
+Offset: 3350, GOTO , Operand: 23
+Offset: 3351, PUSHI , Operand: 99
+Offset: 3352, PUSHI , Operand: 9756
+Offset: 3353, PUSHS , Operand: Skill mastery
+Offset: 3354, PUSHS , Operand: <col=000080>
+Offset: 3355, PUSHS , Operand: Congratulations! You are now a master of 
+Offset: 3356, PUSHS , Operand: <col=800000>
+Offset: 3357, PUSHS , Operand: Ranged
+Offset: 3358, PUSHS , Operand: <col=000080>
+Offset: 3359, PUSHS , Operand: . Members can visit the 
+Offset: 3360, PUSHS , Operand: <col=800000>
+Offset: 3361, PUSHS , Operand: armour salesman
+Offset: 3362, PUSHS , Operand: <col=000080>
+Offset: 3363, PUSHS , Operand:  at the 
+Offset: 3364, PUSHS , Operand: <col=800000>
+Offset: 3365, PUSHS , Operand: Ranging Guild
+Offset: 3366, PUSHS , Operand: <col=000080>
+Offset: 3367, PUSHS , Operand: . He has something special only available to true masters of the 
+Offset: 3368, PUSHS , Operand: <col=800000>
+Offset: 3369, PUSHS , Operand: Ranged
+Offset: 3370, PUSHS , Operand: <col=000080>
+Offset: 3371, PUSHS , Operand:  skill!
+Offset: 3372, CONCAT , Operand: 18
+Offset: 3373, RETURN , Operand: 0
+Offset: 3374, PUSHI , Operand: 0
+Offset: 3375, PUSHI , Operand: -1
+Offset: 3376, PUSHS , Operand: 
+Offset: 3377, PUSHS , Operand: 
+Offset: 3378, RETURN , Operand: 0
+
+================================================
+                Switch Table 0                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 276
+Key: 2, Value: 651
+Key: 3, Value: 1445
+Key: 4, Value: 1660
+Key: 5, Value: 1779
+Key: 6, Value: 1838
+Key: 7, Value: 1857
+Key: 8, Value: 1938
+Key: 9, Value: 2161
+Key: 10, Value: 3331
+
+================================================
+                Switch Table 1                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 15
+Key: 2, Value: 29
+Key: 3, Value: 43
+Key: 4, Value: 57
+Key: 5, Value: 71
+Key: 6, Value: 85
+Key: 7, Value: 99
+Key: 8, Value: 113
+Key: 9, Value: 127
+Key: 10, Value: 143
+Key: 11, Value: 159
+Key: 12, Value: 173
+Key: 13, Value: 187
+Key: 14, Value: 203
+Key: 15, Value: 217
+Key: 17, Value: 245
+Key: 16, Value: 231
+Key: 18, Value: 259
+
+================================================
+                Switch Table 2                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 12
+Key: 2, Value: 23
+Key: 3, Value: 34
+Key: 4, Value: 45
+Key: 5, Value: 56
+Key: 6, Value: 67
+Key: 7, Value: 78
+Key: 8, Value: 89
+Key: 9, Value: 100
+Key: 10, Value: 111
+Key: 11, Value: 122
+Key: 12, Value: 133
+Key: 13, Value: 144
+Key: 14, Value: 155
+Key: 15, Value: 166
+Key: 17, Value: 188
+Key: 16, Value: 177
+Key: 19, Value: 210
+Key: 18, Value: 199
+Key: 21, Value: 230
+Key: 20, Value: 221
+Key: 23, Value: 252
+Key: 22, Value: 241
+Key: 25, Value: 274
+Key: 24, Value: 263
+Key: 27, Value: 296
+Key: 26, Value: 285
+Key: 29, Value: 318
+Key: 28, Value: 307
+Key: 31, Value: 340
+Key: 30, Value: 329
+Key: 32, Value: 351
+Key: 33, Value: 362
+
+================================================
+                Switch Table 3                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 12
+Key: 2, Value: 26
+Key: 3, Value: 37
+Key: 4, Value: 48
+Key: 5, Value: 59
+Key: 6, Value: 73
+Key: 7, Value: 84
+Key: 8, Value: 95
+Key: 9, Value: 109
+Key: 10, Value: 123
+Key: 11, Value: 137
+Key: 12, Value: 151
+Key: 13, Value: 165
+Key: 14, Value: 179
+Key: 15, Value: 193
+Key: 17, Value: 221
+Key: 16, Value: 207
+Key: 19, Value: 249
+Key: 18, Value: 235
+Key: 21, Value: 277
+Key: 20, Value: 263
+Key: 23, Value: 299
+Key: 22, Value: 288
+Key: 25, Value: 321
+Key: 24, Value: 310
+Key: 27, Value: 349
+Key: 26, Value: 335
+Key: 29, Value: 377
+Key: 28, Value: 363
+Key: 31, Value: 405
+Key: 30, Value: 391
+Key: 34, Value: 444
+Key: 35, Value: 455
+Key: 32, Value: 419
+Key: 33, Value: 433
+Key: 38, Value: 494
+Key: 39, Value: 505
+Key: 36, Value: 469
+Key: 37, Value: 483
+Key: 42, Value: 547
+Key: 43, Value: 561
+Key: 40, Value: 519
+Key: 41, Value: 533
+Key: 46, Value: 603
+Key: 47, Value: 614
+Key: 44, Value: 575
+Key: 45, Value: 589
+Key: 51, Value: 667
+Key: 50, Value: 653
+Key: 49, Value: 639
+Key: 48, Value: 625
+Key: 55, Value: 718
+Key: 54, Value: 709
+Key: 53, Value: 695
+Key: 52, Value: 681
+Key: 59, Value: 764
+Key: 58, Value: 750
+Key: 57, Value: 736
+Key: 56, Value: 727
+Key: 60, Value: 778
+
+================================================
+                Switch Table 4                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 15
+Key: 2, Value: 29
+Key: 3, Value: 43
+Key: 4, Value: 57
+Key: 5, Value: 71
+Key: 6, Value: 85
+Key: 7, Value: 99
+Key: 8, Value: 113
+Key: 9, Value: 127
+Key: 10, Value: 141
+Key: 11, Value: 155
+Key: 12, Value: 169
+Key: 13, Value: 183
+Key: 14, Value: 197
+
+================================================
+                Switch Table 5                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 15
+Key: 2, Value: 29
+Key: 3, Value: 43
+Key: 4, Value: 61
+Key: 5, Value: 75
+Key: 6, Value: 89
+Key: 7, Value: 103
+
+================================================
+                Switch Table 6                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 15
+Key: 2, Value: 29
+Key: 3, Value: 43
+
+================================================
+                Switch Table 7                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 12
+Key: 2, Value: 26
+Key: 3, Value: 37
+Key: 4, Value: 51
+Key: 5, Value: 65
+
+================================================
+                Switch Table 8                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 12
+Key: 2, Value: 23
+Key: 3, Value: 34
+Key: 4, Value: 45
+Key: 5, Value: 56
+Key: 6, Value: 67
+Key: 7, Value: 78
+Key: 8, Value: 89
+Key: 9, Value: 100
+Key: 10, Value: 111
+Key: 11, Value: 122
+Key: 12, Value: 133
+Key: 13, Value: 144
+Key: 14, Value: 155
+Key: 15, Value: 166
+Key: 17, Value: 188
+Key: 16, Value: 177
+Key: 19, Value: 210
+Key: 18, Value: 199
+
+================================================
+                Switch Table 9                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 10
+Key: 2, Value: 21
+Key: 3, Value: 32
+Key: 4, Value: 43
+Key: 5, Value: 57
+Key: 6, Value: 71
+Key: 7, Value: 85
+Key: 8, Value: 99
+Key: 9, Value: 113
+Key: 10, Value: 124
+Key: 11, Value: 135
+Key: 12, Value: 146
+Key: 13, Value: 160
+Key: 14, Value: 174
+Key: 15, Value: 188
+Key: 17, Value: 216
+Key: 16, Value: 202
+Key: 19, Value: 238
+Key: 18, Value: 227
+Key: 21, Value: 263
+Key: 20, Value: 249
+Key: 23, Value: 291
+Key: 22, Value: 277
+Key: 25, Value: 319
+Key: 24, Value: 305
+Key: 27, Value: 341
+Key: 26, Value: 330
+Key: 29, Value: 366
+Key: 28, Value: 352
+Key: 31, Value: 394
+Key: 30, Value: 380
+Key: 34, Value: 433
+Key: 35, Value: 444
+Key: 32, Value: 408
+Key: 33, Value: 422
+Key: 38, Value: 483
+Key: 39, Value: 497
+Key: 36, Value: 455
+Key: 37, Value: 469
+Key: 42, Value: 536
+Key: 43, Value: 547
+Key: 40, Value: 511
+Key: 41, Value: 525
+Key: 46, Value: 586
+Key: 47, Value: 600
+Key: 44, Value: 558
+Key: 45, Value: 572
+Key: 51, Value: 650
+Key: 50, Value: 639
+Key: 49, Value: 628
+Key: 48, Value: 614
+Key: 55, Value: 703
+Key: 54, Value: 689
+Key: 53, Value: 675
+Key: 52, Value: 661
+Key: 59, Value: 753
+Key: 58, Value: 742
+Key: 57, Value: 731
+Key: 56, Value: 717
+Key: 63, Value: 806
+Key: 62, Value: 792
+Key: 61, Value: 778
+Key: 60, Value: 764
+Key: 68, Value: 867
+Key: 69, Value: 881
+Key: 70, Value: 895
+Key: 71, Value: 909
+Key: 64, Value: 820
+Key: 65, Value: 834
+Key: 66, Value: 845
+Key: 67, Value: 856
+Key: 76, Value: 973
+Key: 77, Value: 984
+Key: 78, Value: 998
+Key: 79, Value: 1012
+Key: 72, Value: 923
+Key: 73, Value: 937
+Key: 74, Value: 951
+Key: 75, Value: 962
+Key: 85, Value: 1087
+Key: 84, Value: 1076
+Key: 87, Value: 1112
+Key: 86, Value: 1098
+Key: 81, Value: 1040
+Key: 80, Value: 1026
+Key: 83, Value: 1065
+Key: 82, Value: 1054
+Key: 89, Value: 1140
+Key: 88, Value: 1126
+Key: 90, Value: 1154
+
+================================================
+                Switch Table 10                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 16

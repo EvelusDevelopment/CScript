@@ -1,0 +1,36 @@
+================================================
+      Client Script 2621 Dumped by SiniSoul    
+      Instruction Size: 25
+      Integer Arguments: 0 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHI , Operand: 55705601
+Offset: 1, Unref Method: 2504, Operand: 0
+Offset: 2, PUSHI , Operand: 0
+Offset: 3, IFEQ , Operand: 1
+Offset: 4, GOTO , Operand: 10
+Offset: 5, PUSHI , Operand: 1
+Offset: 6, PUSHI , Operand: 55705601
+Offset: 7, Unref Method: 2003, Operand: 0
+Offset: 8, PUSHI , Operand: 0
+Offset: 9, PUSHI , Operand: 55705647
+Offset: 10, Unref Method: 2003, Operand: 0
+Offset: 11, PUSHI , Operand: 0
+Offset: 12, PUSHI , Operand: 55705650
+Offset: 13, Unref Method: 2119, Operand: 0
+Offset: 14, GOTO , Operand: 9
+Offset: 15, PUSHI , Operand: 0
+Offset: 16, PUSHI , Operand: 55705601
+Offset: 17, Unref Method: 2003, Operand: 0
+Offset: 18, PUSHI , Operand: 1
+Offset: 19, PUSHI , Operand: 55705647
+Offset: 20, Unref Method: 2003, Operand: 0
+Offset: 21, PUSHI , Operand: 1
+Offset: 22, PUSHI , Operand: 55705650
+Offset: 23, Unref Method: 2119, Operand: 0
+Offset: 24, RETURN , Operand: 0

@@ -1,0 +1,206 @@
+================================================
+      Client Script 2028 Dumped by SiniSoul    
+      Instruction Size: 195
+      Integer Arguments: 1 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, Unref Opcode: 1, Operand: 331
+Offset: 1, PUSHI , Operand: 13
+Offset: 2, isBitToggled , Operand: 0
+Offset: 3, PUSHI , Operand: 1
+Offset: 4, IFEQ , Operand: 1
+Offset: 5, GOTO , Operand: 9
+Offset: 6, PUSHI , Operand: 0
+Offset: 7, PUSHI , Operand: 0
+Offset: 8, PUSHI , Operand: 512
+Offset: 9, PUSHI , Operand: 1536
+Offset: 10, PUSHI , Operand: 0
+Offset: 11, PUSHI , Operand: 400
+Offset: 12, LOADINT , Operand: 0
+Offset: 13, Unref Method: 2109, Operand: 0
+Offset: 14, GOTO , Operand: 179
+Offset: 15, Unref Opcode: 1, Operand: 331
+Offset: 16, PUSHI , Operand: 14
+Offset: 17, isBitToggled , Operand: 0
+Offset: 18, PUSHI , Operand: 1
+Offset: 19, IFEQ , Operand: 1
+Offset: 20, GOTO , Operand: 9
+Offset: 21, PUSHI , Operand: 0
+Offset: 22, PUSHI , Operand: 0
+Offset: 23, PUSHI , Operand: 512
+Offset: 24, PUSHI , Operand: 1664
+Offset: 25, PUSHI , Operand: 0
+Offset: 26, PUSHI , Operand: 400
+Offset: 27, LOADINT , Operand: 0
+Offset: 28, Unref Method: 2109, Operand: 0
+Offset: 29, GOTO , Operand: 164
+Offset: 30, Unref Opcode: 1, Operand: 331
+Offset: 31, PUSHI , Operand: 15
+Offset: 32, isBitToggled , Operand: 0
+Offset: 33, PUSHI , Operand: 1
+Offset: 34, IFEQ , Operand: 1
+Offset: 35, GOTO , Operand: 9
+Offset: 36, PUSHI , Operand: 0
+Offset: 37, PUSHI , Operand: 0
+Offset: 38, PUSHI , Operand: 512
+Offset: 39, PUSHI , Operand: 1792
+Offset: 40, PUSHI , Operand: 0
+Offset: 41, PUSHI , Operand: 400
+Offset: 42, LOADINT , Operand: 0
+Offset: 43, Unref Method: 2109, Operand: 0
+Offset: 44, GOTO , Operand: 149
+Offset: 45, Unref Opcode: 1, Operand: 331
+Offset: 46, PUSHI , Operand: 16
+Offset: 47, isBitToggled , Operand: 0
+Offset: 48, PUSHI , Operand: 1
+Offset: 49, IFEQ , Operand: 1
+Offset: 50, GOTO , Operand: 9
+Offset: 51, PUSHI , Operand: 0
+Offset: 52, PUSHI , Operand: 0
+Offset: 53, PUSHI , Operand: 512
+Offset: 54, PUSHI , Operand: 1920
+Offset: 55, PUSHI , Operand: 0
+Offset: 56, PUSHI , Operand: 400
+Offset: 57, LOADINT , Operand: 0
+Offset: 58, Unref Method: 2109, Operand: 0
+Offset: 59, GOTO , Operand: 134
+Offset: 60, Unref Opcode: 1, Operand: 331
+Offset: 61, PUSHI , Operand: 17
+Offset: 62, isBitToggled , Operand: 0
+Offset: 63, PUSHI , Operand: 1
+Offset: 64, IFEQ , Operand: 1
+Offset: 65, GOTO , Operand: 9
+Offset: 66, PUSHI , Operand: 0
+Offset: 67, PUSHI , Operand: 0
+Offset: 68, PUSHI , Operand: 512
+Offset: 69, PUSHI , Operand: 0
+Offset: 70, PUSHI , Operand: 0
+Offset: 71, PUSHI , Operand: 400
+Offset: 72, LOADINT , Operand: 0
+Offset: 73, Unref Method: 2109, Operand: 0
+Offset: 74, GOTO , Operand: 119
+Offset: 75, Unref Opcode: 1, Operand: 331
+Offset: 76, PUSHI , Operand: 18
+Offset: 77, isBitToggled , Operand: 0
+Offset: 78, PUSHI , Operand: 1
+Offset: 79, IFEQ , Operand: 1
+Offset: 80, GOTO , Operand: 9
+Offset: 81, PUSHI , Operand: 0
+Offset: 82, PUSHI , Operand: 0
+Offset: 83, PUSHI , Operand: 512
+Offset: 84, PUSHI , Operand: 128
+Offset: 85, PUSHI , Operand: 0
+Offset: 86, PUSHI , Operand: 400
+Offset: 87, LOADINT , Operand: 0
+Offset: 88, Unref Method: 2109, Operand: 0
+Offset: 89, GOTO , Operand: 104
+Offset: 90, Unref Opcode: 1, Operand: 331
+Offset: 91, PUSHI , Operand: 19
+Offset: 92, isBitToggled , Operand: 0
+Offset: 93, PUSHI , Operand: 1
+Offset: 94, IFEQ , Operand: 1
+Offset: 95, GOTO , Operand: 9
+Offset: 96, PUSHI , Operand: 0
+Offset: 97, PUSHI , Operand: 0
+Offset: 98, PUSHI , Operand: 512
+Offset: 99, PUSHI , Operand: 256
+Offset: 100, PUSHI , Operand: 0
+Offset: 101, PUSHI , Operand: 400
+Offset: 102, LOADINT , Operand: 0
+Offset: 103, Unref Method: 2109, Operand: 0
+Offset: 104, GOTO , Operand: 89
+Offset: 105, Unref Opcode: 1, Operand: 331
+Offset: 106, PUSHI , Operand: 20
+Offset: 107, isBitToggled , Operand: 0
+Offset: 108, PUSHI , Operand: 1
+Offset: 109, IFEQ , Operand: 1
+Offset: 110, GOTO , Operand: 9
+Offset: 111, PUSHI , Operand: 0
+Offset: 112, PUSHI , Operand: 0
+Offset: 113, PUSHI , Operand: 512
+Offset: 114, PUSHI , Operand: 384
+Offset: 115, PUSHI , Operand: 0
+Offset: 116, PUSHI , Operand: 400
+Offset: 117, LOADINT , Operand: 0
+Offset: 118, Unref Method: 2109, Operand: 0
+Offset: 119, GOTO , Operand: 74
+Offset: 120, Unref Opcode: 1, Operand: 331
+Offset: 121, PUSHI , Operand: 21
+Offset: 122, isBitToggled , Operand: 0
+Offset: 123, PUSHI , Operand: 1
+Offset: 124, IFEQ , Operand: 1
+Offset: 125, GOTO , Operand: 9
+Offset: 126, PUSHI , Operand: 0
+Offset: 127, PUSHI , Operand: 0
+Offset: 128, PUSHI , Operand: 512
+Offset: 129, PUSHI , Operand: 512
+Offset: 130, PUSHI , Operand: 0
+Offset: 131, PUSHI , Operand: 400
+Offset: 132, LOADINT , Operand: 0
+Offset: 133, Unref Method: 2109, Operand: 0
+Offset: 134, GOTO , Operand: 59
+Offset: 135, Unref Opcode: 1, Operand: 331
+Offset: 136, PUSHI , Operand: 22
+Offset: 137, isBitToggled , Operand: 0
+Offset: 138, PUSHI , Operand: 1
+Offset: 139, IFEQ , Operand: 1
+Offset: 140, GOTO , Operand: 9
+Offset: 141, PUSHI , Operand: 0
+Offset: 142, PUSHI , Operand: 0
+Offset: 143, PUSHI , Operand: 512
+Offset: 144, PUSHI , Operand: 640
+Offset: 145, PUSHI , Operand: 0
+Offset: 146, PUSHI , Operand: 400
+Offset: 147, LOADINT , Operand: 0
+Offset: 148, Unref Method: 2109, Operand: 0
+Offset: 149, GOTO , Operand: 44
+Offset: 150, Unref Opcode: 1, Operand: 331
+Offset: 151, PUSHI , Operand: 23
+Offset: 152, isBitToggled , Operand: 0
+Offset: 153, PUSHI , Operand: 1
+Offset: 154, IFEQ , Operand: 1
+Offset: 155, GOTO , Operand: 9
+Offset: 156, PUSHI , Operand: 0
+Offset: 157, PUSHI , Operand: 0
+Offset: 158, PUSHI , Operand: 512
+Offset: 159, PUSHI , Operand: 768
+Offset: 160, PUSHI , Operand: 0
+Offset: 161, PUSHI , Operand: 400
+Offset: 162, LOADINT , Operand: 0
+Offset: 163, Unref Method: 2109, Operand: 0
+Offset: 164, GOTO , Operand: 29
+Offset: 165, Unref Opcode: 1, Operand: 331
+Offset: 166, PUSHI , Operand: 24
+Offset: 167, isBitToggled , Operand: 0
+Offset: 168, PUSHI , Operand: 1
+Offset: 169, IFEQ , Operand: 1
+Offset: 170, GOTO , Operand: 9
+Offset: 171, PUSHI , Operand: 0
+Offset: 172, PUSHI , Operand: 0
+Offset: 173, PUSHI , Operand: 512
+Offset: 174, PUSHI , Operand: 896
+Offset: 175, PUSHI , Operand: 0
+Offset: 176, PUSHI , Operand: 400
+Offset: 177, LOADINT , Operand: 0
+Offset: 178, Unref Method: 2109, Operand: 0
+Offset: 179, GOTO , Operand: 14
+Offset: 180, Unref Opcode: 1, Operand: 331
+Offset: 181, PUSHI , Operand: 25
+Offset: 182, isBitToggled , Operand: 0
+Offset: 183, PUSHI , Operand: 1
+Offset: 184, IFEQ , Operand: 1
+Offset: 185, GOTO , Operand: 8
+Offset: 186, PUSHI , Operand: 0
+Offset: 187, PUSHI , Operand: 0
+Offset: 188, PUSHI , Operand: 512
+Offset: 189, PUSHI , Operand: 1024
+Offset: 190, PUSHI , Operand: 0
+Offset: 191, PUSHI , Operand: 400
+Offset: 192, LOADINT , Operand: 0
+Offset: 193, Unref Method: 2109, Operand: 0
+Offset: 194, RETURN , Operand: 0

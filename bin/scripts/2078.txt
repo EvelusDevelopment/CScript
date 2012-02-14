@@ -1,0 +1,35 @@
+================================================
+      Client Script 2078 Dumped by SiniSoul    
+      Instruction Size: 24
+      Integer Arguments: 1 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHI , Operand: 0
+Offset: 1, STOREINT , Operand: 0
+Offset: 2, PUSHI , Operand: 20
+Offset: 3, LOADGINT , Operand: 636
+Offset: 4, ISUB , Operand: 0
+Offset: 5, STOREINT , Operand: 0
+Offset: 6, LOADINT , Operand: 0
+Offset: 7, PUSHI , Operand: 1
+Offset: 8, IFEQ , Operand: 1
+Offset: 9, GOTO , Operand: 7
+Offset: 10, LOADINT , Operand: 0
+Offset: 11, integerToString , Operand: 0
+Offset: 12, PUSHS , Operand:  min
+Offset: 13, CONCAT , Operand: 2
+Offset: 14, PUSHI , Operand: 54788123
+Offset: 15, Unref Method: 2112, Operand: 0
+Offset: 16, GOTO , Operand: 6
+Offset: 17, LOADINT , Operand: 0
+Offset: 18, integerToString , Operand: 0
+Offset: 19, PUSHS , Operand:  mins
+Offset: 20, CONCAT , Operand: 2
+Offset: 21, PUSHI , Operand: 54788123
+Offset: 22, Unref Method: 2112, Operand: 0
+Offset: 23, RETURN , Operand: 0

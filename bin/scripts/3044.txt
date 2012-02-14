@@ -1,0 +1,22 @@
+================================================
+      Client Script 3044 Dumped by SiniSoul    
+      Instruction Size: 11
+      Integer Arguments: 1 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, Unref Method: 5005, Operand: 0
+Offset: 1, PUSHI , Operand: -1
+Offset: 2, IFEQ , Operand: 1
+Offset: 3, GOTO , Operand: 1
+Offset: 4, RETURN , Operand: 0
+Offset: 5, PUSHI , Operand: -1
+Offset: 6, PUSHS , Operand: 
+Offset: 7, LOADINT , Operand: 0
+Offset: 8, setInterfaceDefinitionScriptParams8 , Operand: 0
+Offset: 9, CALL , Operand: 3045
+Offset: 10, RETURN , Operand: 0

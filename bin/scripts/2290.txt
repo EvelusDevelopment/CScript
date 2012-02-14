@@ -1,0 +1,46 @@
+================================================
+      Client Script 2290 Dumped by SiniSoul    
+      Instruction Size: 35
+      Integer Arguments: 2 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADINT , Operand: 1
+Offset: 1, CALL , Operand: 2297
+Offset: 2, PUSHI , Operand: 0
+Offset: 3, IFEQ , Operand: 1
+Offset: 4, GOTO , Operand: 18
+Offset: 5, LOADINT , Operand: 1
+Offset: 6, CALL , Operand: 2295
+Offset: 7, PUSHI , Operand: 0
+Offset: 8, IFEQ , Operand: 1
+Offset: 9, GOTO , Operand: 1
+Offset: 10, RETURN , Operand: 0
+Offset: 11, LOADINT , Operand: 0
+Offset: 12, LOADINT , Operand: 1
+Offset: 13, Unref Method: 200, Operand: 0
+Offset: 14, PUSHI , Operand: 1
+Offset: 15, IFEQ , Operand: 1
+Offset: 16, GOTO , Operand: 5
+Offset: 17, PUSHI , Operand: 181
+Offset: 18, Unref Method: 1105, Operand: 0
+Offset: 19, PUSHI , Operand: 1
+Offset: 20, PUSHS , Operand: Deselect
+Offset: 21, setChildInterfaceText , Operand: 0
+Offset: 22, GOTO , Operand: 11
+Offset: 23, LOADINT , Operand: 0
+Offset: 24, LOADINT , Operand: 1
+Offset: 25, Unref Method: 200, Operand: 0
+Offset: 26, PUSHI , Operand: 1
+Offset: 27, IFEQ , Operand: 1
+Offset: 28, GOTO , Operand: 5
+Offset: 29, PUSHI , Operand: 180
+Offset: 30, Unref Method: 1105, Operand: 0
+Offset: 31, PUSHI , Operand: 1
+Offset: 32, PUSHS , Operand: Select
+Offset: 33, setChildInterfaceText , Operand: 0
+Offset: 34, RETURN , Operand: 0

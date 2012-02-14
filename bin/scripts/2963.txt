@@ -1,0 +1,52 @@
+================================================
+      Client Script 2963 Dumped by SiniSoul    
+      Instruction Size: 41
+      Integer Arguments: 7 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, Unref Method: 3300, Operand: 0
+Offset: 1, LOADINT , Operand: 6
+Offset: 2, IFGTEQ , Operand: 1
+Offset: 3, GOTO , Operand: 36
+Offset: 4, PUSHI , Operand: -1
+Offset: 5, PUSHS , Operand: 
+Offset: 6, LOADINT , Operand: 0
+Offset: 7, setInterfaceDefinitionScriptParams8 , Operand: 0
+Offset: 8, PUSHI , Operand: 1
+Offset: 9, LOADINT , Operand: 0
+Offset: 10, Unref Method: 2003, Operand: 0
+Offset: 11, PUSHI , Operand: 2713
+Offset: 12, LOADINT , Operand: 0
+Offset: 13, LOADINT , Operand: 1
+Offset: 14, LOADINT , Operand: 2
+Offset: 15, LOADINT , Operand: 3
+Offset: 16, LOADINT , Operand: 4
+Offset: 17, LOADINT , Operand: 5
+Offset: 18, PUSHS , Operand: IIIIII
+Offset: 19, LOADINT , Operand: 3
+Offset: 20, setInterfaceDefinitionScriptParams0 , Operand: 0
+Offset: 21, PUSHI , Operand: 2961
+Offset: 22, LOADINT , Operand: 4
+Offset: 23, LOADINT , Operand: 5
+Offset: 24, PUSHI , Operand: 1
+Offset: 25, PUSHS , Operand: II1
+Offset: 26, LOADINT , Operand: 3
+Offset: 27, setInterfaceDefinitionScriptParams12 , Operand: 0
+Offset: 28, PUSHI , Operand: 2961
+Offset: 29, LOADINT , Operand: 4
+Offset: 30, LOADINT , Operand: 5
+Offset: 31, PUSHI , Operand: 0
+Offset: 32, PUSHS , Operand: II1
+Offset: 33, LOADINT , Operand: 3
+Offset: 34, setInterfaceDefinitionScriptParams4 , Operand: 0
+Offset: 35, PUSHI , Operand: 2700
+Offset: 36, LOADINT , Operand: 4
+Offset: 37, Unref Method: 2105, Operand: 0
+Offset: 38, PUSHI , Operand: 1
+Offset: 39, STOREGINT , Operand: 986
+Offset: 40, RETURN , Operand: 0

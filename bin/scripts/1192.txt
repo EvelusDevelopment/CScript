@@ -1,0 +1,38 @@
+================================================
+      Client Script 1192 Dumped by SiniSoul    
+      Instruction Size: 27
+      Integer Arguments: 2 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADINT , Operand: 1
+Offset: 1, Unref Method: 2602, Operand: 0
+Offset: 2, PUSHI , Operand: 512
+Offset: 3, PUSHI , Operand: 495
+Offset: 4, Unref Method: 4109, Operand: 0
+Offset: 5, PUSHI , Operand: 34
+Offset: 6, IADD , Operand: 0
+Offset: 7, LOADINT , Operand: 0
+Offset: 8, Unref Method: 2503, Operand: 0
+Offset: 9, PUSHI , Operand: 0
+Offset: 10, PUSHI , Operand: 0
+Offset: 11, LOADINT , Operand: 0
+Offset: 12, Unref Method: 2001, Operand: 0
+Offset: 13, PUSHI , Operand: 1193
+Offset: 14, PUSHI , Operand: 1
+Offset: 15, PUSHI , Operand: 1002
+Offset: 16, PUSHI , Operand: 1
+Offset: 17, PUSHS , Operand: 1Y
+Offset: 18, LOADINT , Operand: 0
+Offset: 19, setInterfaceDefinitionScriptParams28 , Operand: 0
+Offset: 20, PUSHI , Operand: 1193
+Offset: 21, PUSHI , Operand: 0
+Offset: 22, PUSHS , Operand: 1
+Offset: 23, LOADINT , Operand: 0
+Offset: 24, setInterfaceDefinitionScriptParams8 , Operand: 0
+Offset: 25, CALL , Operand: 1194
+Offset: 26, RETURN , Operand: 0

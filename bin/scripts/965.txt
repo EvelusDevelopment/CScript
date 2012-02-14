@@ -1,0 +1,90 @@
+================================================
+      Client Script 965 Dumped by SiniSoul    
+      Instruction Size: 79
+      Integer Arguments: 17 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADINT , Operand: 0
+Offset: 1, LOADGINT , Operand: 122
+Offset: 2, CALL , Operand: 966
+Offset: 3, LOADINT , Operand: 1
+Offset: 4, LOADGINT , Operand: 122
+Offset: 5, CALL , Operand: 966
+Offset: 6, LOADINT , Operand: 2
+Offset: 7, LOADGINT , Operand: 122
+Offset: 8, CALL , Operand: 966
+Offset: 9, LOADINT , Operand: 3
+Offset: 10, LOADGINT , Operand: 122
+Offset: 11, CALL , Operand: 966
+Offset: 12, LOADINT , Operand: 4
+Offset: 13, LOADGINT , Operand: 122
+Offset: 14, CALL , Operand: 966
+Offset: 15, LOADINT , Operand: 5
+Offset: 16, LOADGINT , Operand: 123
+Offset: 17, CALL , Operand: 966
+Offset: 18, LOADINT , Operand: 6
+Offset: 19, LOADGINT , Operand: 123
+Offset: 20, CALL , Operand: 966
+Offset: 21, LOADINT , Operand: 7
+Offset: 22, LOADGINT , Operand: 123
+Offset: 23, CALL , Operand: 966
+Offset: 24, LOADINT , Operand: 8
+Offset: 25, LOADGINT , Operand: 123
+Offset: 26, CALL , Operand: 966
+Offset: 27, LOADINT , Operand: 9
+Offset: 28, LOADGINT , Operand: 123
+Offset: 29, CALL , Operand: 966
+Offset: 30, LOADINT , Operand: 10
+Offset: 31, LOADGINT , Operand: 124
+Offset: 32, CALL , Operand: 966
+Offset: 33, LOADINT , Operand: 11
+Offset: 34, LOADGINT , Operand: 124
+Offset: 35, CALL , Operand: 966
+Offset: 36, LOADINT , Operand: 12
+Offset: 37, LOADGINT , Operand: 124
+Offset: 38, CALL , Operand: 966
+Offset: 39, LOADINT , Operand: 13
+Offset: 40, LOADGINT , Operand: 124
+Offset: 41, CALL , Operand: 966
+Offset: 42, LOADINT , Operand: 14
+Offset: 43, LOADGINT , Operand: 124
+Offset: 44, CALL , Operand: 966
+Offset: 45, LOADGINT , Operand: 125
+Offset: 46, Unref Method: 3300, Operand: 0
+Offset: 47, IFLT , Operand: 1
+Offset: 48, GOTO , Operand: 7
+Offset: 49, PUSHI , Operand: 0
+Offset: 50, LOADINT , Operand: 15
+Offset: 51, Unref Method: 2003, Operand: 0
+Offset: 52, PUSHI , Operand: 1
+Offset: 53, LOADINT , Operand: 16
+Offset: 54, Unref Method: 2003, Operand: 0
+Offset: 55, GOTO , Operand: 22
+Offset: 56, LOADGINT , Operand: 156
+Offset: 57, Unref Method: 3300, Operand: 0
+Offset: 58, IFLTEQ , Operand: 1
+Offset: 59, GOTO , Operand: 12
+Offset: 60, LOADGINT , Operand: 157
+Offset: 61, PUSHI , Operand: 1
+Offset: 62, IFEQ , Operand: 1
+Offset: 63, GOTO , Operand: 8
+Offset: 64, PUSHI , Operand: 2871
+Offset: 65, PUSHI , Operand: 1
+Offset: 66, PUSHI , Operand: 0
+Offset: 67, Unref Method: 3200, Operand: 0
+Offset: 68, Unref Method: 3300, Operand: 0
+Offset: 69, PUSHI , Operand: 10
+Offset: 70, IADD , Operand: 0
+Offset: 71, STOREGINT , Operand: 156
+Offset: 72, PUSHI , Operand: 1
+Offset: 73, LOADINT , Operand: 15
+Offset: 74, Unref Method: 2003, Operand: 0
+Offset: 75, PUSHI , Operand: 0
+Offset: 76, LOADINT , Operand: 16
+Offset: 77, Unref Method: 2003, Operand: 0
+Offset: 78, RETURN , Operand: 0

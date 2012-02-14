@@ -1,0 +1,4164 @@
+================================================
+      Client Script 982 Dumped by SiniSoul    
+      Instruction Size: 3740
+      Integer Arguments: 2 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADINT , Operand: 0
+Offset: 1, SWITCH , Operand: 0
+Offset: 2, GOTO , Operand: 3732
+Offset: 3, LOADINT , Operand: 1
+Offset: 4, SWITCH , Operand: 1
+Offset: 5, GOTO , Operand: 142
+Offset: 6, PUSHI , Operand: 1
+Offset: 7, PUSHI , Operand: 1205
+Offset: 8, PUSHS , Operand: Bronze dagger
+Offset: 9, PUSHS , Operand: You can now wield 
+Offset: 10, PUSHS , Operand: <col=000080>
+Offset: 11, PUSHS , Operand: bronze daggers
+Offset: 12, PUSHS , Operand: </col>
+Offset: 13, PUSHS , Operand: .
+Offset: 14, CONCAT , Operand: 5
+Offset: 15, RETURN , Operand: 0
+Offset: 16, GOTO , Operand: 131
+Offset: 17, PUSHI , Operand: 1
+Offset: 18, PUSHI , Operand: 1351
+Offset: 19, PUSHS , Operand: Bronze hatchet
+Offset: 20, PUSHS , Operand: You can now wield 
+Offset: 21, PUSHS , Operand: <col=000080>
+Offset: 22, PUSHS , Operand: bronze hatchets
+Offset: 23, PUSHS , Operand: </col>
+Offset: 24, PUSHS , Operand: .
+Offset: 25, CONCAT , Operand: 5
+Offset: 26, RETURN , Operand: 0
+Offset: 27, GOTO , Operand: 120
+Offset: 28, PUSHI , Operand: 1
+Offset: 29, PUSHI , Operand: 1422
+Offset: 30, PUSHS , Operand: Bronze mace
+Offset: 31, PUSHS , Operand: You can now wield 
+Offset: 32, PUSHS , Operand: <col=000080>
+Offset: 33, PUSHS , Operand: bronze maces
+Offset: 34, PUSHS , Operand: </col>
+Offset: 35, PUSHS , Operand: .
+Offset: 36, CONCAT , Operand: 5
+Offset: 37, RETURN , Operand: 0
+Offset: 38, GOTO , Operand: 109
+Offset: 39, PUSHI , Operand: 1
+Offset: 40, PUSHI , Operand: 3095
+Offset: 41, PUSHS , Operand: Members: Bronze claws
+Offset: 42, PUSHS , Operand: Members can now wield 
+Offset: 43, PUSHS , Operand: <col=000080>
+Offset: 44, PUSHS , Operand: bronze claws
+Offset: 45, PUSHS , Operand: </col>
+Offset: 46, PUSHS , Operand: .
+Offset: 47, CONCAT , Operand: 5
+Offset: 48, RETURN , Operand: 0
+Offset: 49, GOTO , Operand: 98
+Offset: 50, PUSHI , Operand: 1
+Offset: 51, PUSHI , Operand: 1277
+Offset: 52, PUSHS , Operand: Bronze sword
+Offset: 53, PUSHS , Operand: You can now wield 
+Offset: 54, PUSHS , Operand: <col=000080>
+Offset: 55, PUSHS , Operand: bronze swords
+Offset: 56, PUSHS , Operand: </col>
+Offset: 57, PUSHS , Operand: .
+Offset: 58, CONCAT , Operand: 5
+Offset: 59, RETURN , Operand: 0
+Offset: 60, GOTO , Operand: 87
+Offset: 61, PUSHI , Operand: 1
+Offset: 62, PUSHI , Operand: 1291
+Offset: 63, PUSHS , Operand: Bronze longsword
+Offset: 64, PUSHS , Operand: You can now wield 
+Offset: 65, PUSHS , Operand: <col=000080>
+Offset: 66, PUSHS , Operand: bronze longswords
+Offset: 67, PUSHS , Operand: </col>
+Offset: 68, PUSHS , Operand: .
+Offset: 69, CONCAT , Operand: 5
+Offset: 70, RETURN , Operand: 0
+Offset: 71, GOTO , Operand: 76
+Offset: 72, PUSHI , Operand: 1
+Offset: 73, PUSHI , Operand: 1321
+Offset: 74, PUSHS , Operand: Bronze scimitar
+Offset: 75, PUSHS , Operand: You can now wield 
+Offset: 76, PUSHS , Operand: <col=000080>
+Offset: 77, PUSHS , Operand: bronze scimitars
+Offset: 78, PUSHS , Operand: </col>
+Offset: 79, PUSHS , Operand: .
+Offset: 80, CONCAT , Operand: 5
+Offset: 81, RETURN , Operand: 0
+Offset: 82, GOTO , Operand: 65
+Offset: 83, PUSHI , Operand: 1
+Offset: 84, PUSHI , Operand: 1237
+Offset: 85, PUSHS , Operand: Members: Bronze spear
+Offset: 86, PUSHS , Operand: Members can now wield 
+Offset: 87, PUSHS , Operand: <col=000080>
+Offset: 88, PUSHS , Operand: bronze spears
+Offset: 89, PUSHS , Operand: </col>
+Offset: 90, PUSHS , Operand: .
+Offset: 91, CONCAT , Operand: 5
+Offset: 92, RETURN , Operand: 0
+Offset: 93, GOTO , Operand: 54
+Offset: 94, PUSHI , Operand: 1
+Offset: 95, PUSHI , Operand: 1337
+Offset: 96, PUSHS , Operand: Bronze warhammer
+Offset: 97, PUSHS , Operand: You can now wield 
+Offset: 98, PUSHS , Operand: <col=000080>
+Offset: 99, PUSHS , Operand: bronze warhammers
+Offset: 100, PUSHS , Operand: </col>
+Offset: 101, PUSHS , Operand: .
+Offset: 102, CONCAT , Operand: 5
+Offset: 103, RETURN , Operand: 0
+Offset: 104, GOTO , Operand: 43
+Offset: 105, PUSHI , Operand: 1
+Offset: 106, PUSHI , Operand: 1375
+Offset: 107, PUSHS , Operand: Bronze battleaxe
+Offset: 108, PUSHS , Operand: You can now wield 
+Offset: 109, PUSHS , Operand: <col=000080>
+Offset: 110, PUSHS , Operand: bronze battleaxes
+Offset: 111, PUSHS , Operand: </col>
+Offset: 112, PUSHS , Operand: .
+Offset: 113, CONCAT , Operand: 5
+Offset: 114, RETURN , Operand: 0
+Offset: 115, GOTO , Operand: 32
+Offset: 116, PUSHI , Operand: 1
+Offset: 117, PUSHI , Operand: 1307
+Offset: 118, PUSHS , Operand: Bronze two-handed sword
+Offset: 119, PUSHS , Operand: You can now wield 
+Offset: 120, PUSHS , Operand: <col=000080>
+Offset: 121, PUSHS , Operand: bronze two-handed swords
+Offset: 122, PUSHS , Operand: </col>
+Offset: 123, PUSHS , Operand: .
+Offset: 124, CONCAT , Operand: 5
+Offset: 125, RETURN , Operand: 0
+Offset: 126, GOTO , Operand: 21
+Offset: 127, PUSHI , Operand: 1
+Offset: 128, PUSHI , Operand: 3190
+Offset: 129, PUSHS , Operand: Members: Bronze halberd
+Offset: 130, PUSHS , Operand: Members can now wield 
+Offset: 131, PUSHS , Operand: <col=000080>
+Offset: 132, PUSHS , Operand: bronze halberds
+Offset: 133, PUSHS , Operand: </col>
+Offset: 134, PUSHS , Operand: .
+Offset: 135, CONCAT , Operand: 5
+Offset: 136, RETURN , Operand: 0
+Offset: 137, GOTO , Operand: 10
+Offset: 138, PUSHI , Operand: 1
+Offset: 139, PUSHI , Operand: 8844
+Offset: 140, PUSHS , Operand: Members: Bronze defender
+Offset: 141, PUSHS , Operand: Members can now wield 
+Offset: 142, PUSHS , Operand: <col=000080>
+Offset: 143, PUSHS , Operand: bronze defenders
+Offset: 144, PUSHS , Operand: </col>
+Offset: 145, PUSHS , Operand: .
+Offset: 146, CONCAT , Operand: 5
+Offset: 147, RETURN , Operand: 0
+Offset: 148, GOTO , Operand: 3586
+Offset: 149, LOADINT , Operand: 1
+Offset: 150, SWITCH , Operand: 2
+Offset: 151, GOTO , Operand: 142
+Offset: 152, PUSHI , Operand: 1
+Offset: 153, PUSHI , Operand: 1203
+Offset: 154, PUSHS , Operand: Iron dagger
+Offset: 155, PUSHS , Operand: You can now wield 
+Offset: 156, PUSHS , Operand: <col=000080>
+Offset: 157, PUSHS , Operand: iron daggers
+Offset: 158, PUSHS , Operand: </col>
+Offset: 159, PUSHS , Operand: .
+Offset: 160, CONCAT , Operand: 5
+Offset: 161, RETURN , Operand: 0
+Offset: 162, GOTO , Operand: 131
+Offset: 163, PUSHI , Operand: 1
+Offset: 164, PUSHI , Operand: 1349
+Offset: 165, PUSHS , Operand: Iron hatchet
+Offset: 166, PUSHS , Operand: You can now wield 
+Offset: 167, PUSHS , Operand: <col=000080>
+Offset: 168, PUSHS , Operand: iron hatchets
+Offset: 169, PUSHS , Operand: </col>
+Offset: 170, PUSHS , Operand: .
+Offset: 171, CONCAT , Operand: 5
+Offset: 172, RETURN , Operand: 0
+Offset: 173, GOTO , Operand: 120
+Offset: 174, PUSHI , Operand: 1
+Offset: 175, PUSHI , Operand: 1420
+Offset: 176, PUSHS , Operand: Iron mace
+Offset: 177, PUSHS , Operand: You can now wield 
+Offset: 178, PUSHS , Operand: <col=000080>
+Offset: 179, PUSHS , Operand: iron maces
+Offset: 180, PUSHS , Operand: </col>
+Offset: 181, PUSHS , Operand: .
+Offset: 182, CONCAT , Operand: 5
+Offset: 183, RETURN , Operand: 0
+Offset: 184, GOTO , Operand: 109
+Offset: 185, PUSHI , Operand: 1
+Offset: 186, PUSHI , Operand: 3096
+Offset: 187, PUSHS , Operand: Members: Iron claws
+Offset: 188, PUSHS , Operand: Members can now wield 
+Offset: 189, PUSHS , Operand: <col=000080>
+Offset: 190, PUSHS , Operand: iron claws
+Offset: 191, PUSHS , Operand: </col>
+Offset: 192, PUSHS , Operand: .
+Offset: 193, CONCAT , Operand: 5
+Offset: 194, RETURN , Operand: 0
+Offset: 195, GOTO , Operand: 98
+Offset: 196, PUSHI , Operand: 1
+Offset: 197, PUSHI , Operand: 1279
+Offset: 198, PUSHS , Operand: Iron sword
+Offset: 199, PUSHS , Operand: You can now wield 
+Offset: 200, PUSHS , Operand: <col=000080>
+Offset: 201, PUSHS , Operand: iron swords
+Offset: 202, PUSHS , Operand: </col>
+Offset: 203, PUSHS , Operand: .
+Offset: 204, CONCAT , Operand: 5
+Offset: 205, RETURN , Operand: 0
+Offset: 206, GOTO , Operand: 87
+Offset: 207, PUSHI , Operand: 1
+Offset: 208, PUSHI , Operand: 1293
+Offset: 209, PUSHS , Operand: Iron longsword
+Offset: 210, PUSHS , Operand: You can now wield 
+Offset: 211, PUSHS , Operand: <col=000080>
+Offset: 212, PUSHS , Operand: iron longswords
+Offset: 213, PUSHS , Operand: </col>
+Offset: 214, PUSHS , Operand: .
+Offset: 215, CONCAT , Operand: 5
+Offset: 216, RETURN , Operand: 0
+Offset: 217, GOTO , Operand: 76
+Offset: 218, PUSHI , Operand: 1
+Offset: 219, PUSHI , Operand: 1323
+Offset: 220, PUSHS , Operand: Iron scimitar
+Offset: 221, PUSHS , Operand: You can now wield 
+Offset: 222, PUSHS , Operand: <col=000080>
+Offset: 223, PUSHS , Operand: iron scimitars
+Offset: 224, PUSHS , Operand: </col>
+Offset: 225, PUSHS , Operand: .
+Offset: 226, CONCAT , Operand: 5
+Offset: 227, RETURN , Operand: 0
+Offset: 228, GOTO , Operand: 65
+Offset: 229, PUSHI , Operand: 1
+Offset: 230, PUSHI , Operand: 1239
+Offset: 231, PUSHS , Operand: Members: Iron spear
+Offset: 232, PUSHS , Operand: Members can now wield 
+Offset: 233, PUSHS , Operand: <col=000080>
+Offset: 234, PUSHS , Operand: iron spears
+Offset: 235, PUSHS , Operand: </col>
+Offset: 236, PUSHS , Operand: .
+Offset: 237, CONCAT , Operand: 5
+Offset: 238, RETURN , Operand: 0
+Offset: 239, GOTO , Operand: 54
+Offset: 240, PUSHI , Operand: 1
+Offset: 241, PUSHI , Operand: 1335
+Offset: 242, PUSHS , Operand: Iron warhammer
+Offset: 243, PUSHS , Operand: You can now wield 
+Offset: 244, PUSHS , Operand: <col=000080>
+Offset: 245, PUSHS , Operand: iron warhammers
+Offset: 246, PUSHS , Operand: </col>
+Offset: 247, PUSHS , Operand: .
+Offset: 248, CONCAT , Operand: 5
+Offset: 249, RETURN , Operand: 0
+Offset: 250, GOTO , Operand: 43
+Offset: 251, PUSHI , Operand: 1
+Offset: 252, PUSHI , Operand: 1363
+Offset: 253, PUSHS , Operand: Iron battleaxe
+Offset: 254, PUSHS , Operand: You can now wield 
+Offset: 255, PUSHS , Operand: <col=000080>
+Offset: 256, PUSHS , Operand: iron battleaxes
+Offset: 257, PUSHS , Operand: </col>
+Offset: 258, PUSHS , Operand: .
+Offset: 259, CONCAT , Operand: 5
+Offset: 260, RETURN , Operand: 0
+Offset: 261, GOTO , Operand: 32
+Offset: 262, PUSHI , Operand: 1
+Offset: 263, PUSHI , Operand: 1309
+Offset: 264, PUSHS , Operand: Iron two-handed sword
+Offset: 265, PUSHS , Operand: You can now wield 
+Offset: 266, PUSHS , Operand: <col=000080>
+Offset: 267, PUSHS , Operand: iron two-handed swords
+Offset: 268, PUSHS , Operand: </col>
+Offset: 269, PUSHS , Operand: .
+Offset: 270, CONCAT , Operand: 5
+Offset: 271, RETURN , Operand: 0
+Offset: 272, GOTO , Operand: 21
+Offset: 273, PUSHI , Operand: 1
+Offset: 274, PUSHI , Operand: 3192
+Offset: 275, PUSHS , Operand: Members: Iron halberd
+Offset: 276, PUSHS , Operand: Members can now wield 
+Offset: 277, PUSHS , Operand: <col=000080>
+Offset: 278, PUSHS , Operand: iron halberds
+Offset: 279, PUSHS , Operand: </col>
+Offset: 280, PUSHS , Operand: .
+Offset: 281, CONCAT , Operand: 5
+Offset: 282, RETURN , Operand: 0
+Offset: 283, GOTO , Operand: 10
+Offset: 284, PUSHI , Operand: 1
+Offset: 285, PUSHI , Operand: 8845
+Offset: 286, PUSHS , Operand: Members: Iron defender
+Offset: 287, PUSHS , Operand: Members can now wield 
+Offset: 288, PUSHS , Operand: <col=000080>
+Offset: 289, PUSHS , Operand: iron defenders
+Offset: 290, PUSHS , Operand: </col>
+Offset: 291, PUSHS , Operand: .
+Offset: 292, CONCAT , Operand: 5
+Offset: 293, RETURN , Operand: 0
+Offset: 294, GOTO , Operand: 3440
+Offset: 295, LOADINT , Operand: 1
+Offset: 296, SWITCH , Operand: 3
+Offset: 297, GOTO , Operand: 145
+Offset: 298, PUSHI , Operand: 5
+Offset: 299, PUSHI , Operand: 1207
+Offset: 300, PUSHS , Operand: Steel dagger
+Offset: 301, PUSHS , Operand: You can now wield 
+Offset: 302, PUSHS , Operand: <col=000080>
+Offset: 303, PUSHS , Operand: steel daggers
+Offset: 304, PUSHS , Operand: </col>
+Offset: 305, PUSHS , Operand: .
+Offset: 306, CONCAT , Operand: 5
+Offset: 307, RETURN , Operand: 0
+Offset: 308, GOTO , Operand: 134
+Offset: 309, PUSHI , Operand: 5
+Offset: 310, PUSHI , Operand: 1353
+Offset: 311, PUSHS , Operand: Steel hatchet
+Offset: 312, PUSHS , Operand: You can now wield 
+Offset: 313, PUSHS , Operand: <col=000080>
+Offset: 314, PUSHS , Operand: steel hatchets
+Offset: 315, PUSHS , Operand: </col>
+Offset: 316, PUSHS , Operand: .
+Offset: 317, CONCAT , Operand: 5
+Offset: 318, RETURN , Operand: 0
+Offset: 319, GOTO , Operand: 123
+Offset: 320, PUSHI , Operand: 5
+Offset: 321, PUSHI , Operand: 1424
+Offset: 322, PUSHS , Operand: Steel mace
+Offset: 323, PUSHS , Operand: You can now wield 
+Offset: 324, PUSHS , Operand: <col=000080>
+Offset: 325, PUSHS , Operand: steel maces
+Offset: 326, PUSHS , Operand: </col>
+Offset: 327, PUSHS , Operand: .
+Offset: 328, CONCAT , Operand: 5
+Offset: 329, RETURN , Operand: 0
+Offset: 330, GOTO , Operand: 112
+Offset: 331, PUSHI , Operand: 5
+Offset: 332, PUSHI , Operand: 3097
+Offset: 333, PUSHS , Operand: Members: Steel claws
+Offset: 334, PUSHS , Operand: Members can now wield 
+Offset: 335, PUSHS , Operand: <col=000080>
+Offset: 336, PUSHS , Operand: steel claws
+Offset: 337, PUSHS , Operand: </col>
+Offset: 338, PUSHS , Operand: .
+Offset: 339, CONCAT , Operand: 5
+Offset: 340, RETURN , Operand: 0
+Offset: 341, GOTO , Operand: 101
+Offset: 342, PUSHI , Operand: 5
+Offset: 343, PUSHI , Operand: 1281
+Offset: 344, PUSHS , Operand: Steel sword
+Offset: 345, PUSHS , Operand: You can now wield 
+Offset: 346, PUSHS , Operand: <col=000080>
+Offset: 347, PUSHS , Operand: steel swords
+Offset: 348, PUSHS , Operand: </col>
+Offset: 349, PUSHS , Operand: .
+Offset: 350, CONCAT , Operand: 5
+Offset: 351, RETURN , Operand: 0
+Offset: 352, GOTO , Operand: 90
+Offset: 353, PUSHI , Operand: 5
+Offset: 354, PUSHI , Operand: 1295
+Offset: 355, PUSHS , Operand: Steel longsword
+Offset: 356, PUSHS , Operand: You can now wield 
+Offset: 357, PUSHS , Operand: <col=000080>
+Offset: 358, PUSHS , Operand: steel longswords
+Offset: 359, PUSHS , Operand: </col>
+Offset: 360, PUSHS , Operand: .
+Offset: 361, CONCAT , Operand: 5
+Offset: 362, RETURN , Operand: 0
+Offset: 363, GOTO , Operand: 79
+Offset: 364, PUSHI , Operand: 5
+Offset: 365, PUSHI , Operand: 1325
+Offset: 366, PUSHS , Operand: Steel scimitar
+Offset: 367, PUSHS , Operand: You can now wield 
+Offset: 368, PUSHS , Operand: <col=000080>
+Offset: 369, PUSHS , Operand: steel scimitars
+Offset: 370, PUSHS , Operand: </col>
+Offset: 371, PUSHS , Operand: .
+Offset: 372, CONCAT , Operand: 5
+Offset: 373, RETURN , Operand: 0
+Offset: 374, GOTO , Operand: 68
+Offset: 375, PUSHI , Operand: 5
+Offset: 376, PUSHI , Operand: 1241
+Offset: 377, PUSHS , Operand: Members: Steel spear
+Offset: 378, PUSHS , Operand: Members can now wield 
+Offset: 379, PUSHS , Operand: <col=000080>
+Offset: 380, PUSHS , Operand: steel spears
+Offset: 381, PUSHS , Operand: </col>
+Offset: 382, PUSHS , Operand: .
+Offset: 383, CONCAT , Operand: 5
+Offset: 384, RETURN , Operand: 0
+Offset: 385, GOTO , Operand: 57
+Offset: 386, PUSHI , Operand: 5
+Offset: 387, PUSHI , Operand: 1339
+Offset: 388, PUSHS , Operand: Steel warhammer
+Offset: 389, PUSHS , Operand: You can now wield 
+Offset: 390, PUSHS , Operand: <col=000080>
+Offset: 391, PUSHS , Operand: steel warhammers
+Offset: 392, PUSHS , Operand: </col>
+Offset: 393, PUSHS , Operand: .
+Offset: 394, CONCAT , Operand: 5
+Offset: 395, RETURN , Operand: 0
+Offset: 396, GOTO , Operand: 46
+Offset: 397, PUSHI , Operand: 5
+Offset: 398, PUSHI , Operand: 1365
+Offset: 399, PUSHS , Operand: Steel battleaxe
+Offset: 400, PUSHS , Operand: You can now wield 
+Offset: 401, PUSHS , Operand: <col=000080>
+Offset: 402, PUSHS , Operand: steel battleaxes
+Offset: 403, PUSHS , Operand: </col>
+Offset: 404, PUSHS , Operand: .
+Offset: 405, CONCAT , Operand: 5
+Offset: 406, RETURN , Operand: 0
+Offset: 407, GOTO , Operand: 35
+Offset: 408, PUSHI , Operand: 5
+Offset: 409, PUSHI , Operand: 1311
+Offset: 410, PUSHS , Operand: Steel two-handed sword
+Offset: 411, PUSHS , Operand: You can now wield 
+Offset: 412, PUSHS , Operand: <col=000080>
+Offset: 413, PUSHS , Operand: steel two-handed swords
+Offset: 414, PUSHS , Operand: </col>
+Offset: 415, PUSHS , Operand: .
+Offset: 416, CONCAT , Operand: 5
+Offset: 417, RETURN , Operand: 0
+Offset: 418, GOTO , Operand: 24
+Offset: 419, PUSHI , Operand: 5
+Offset: 420, PUSHI , Operand: 3194
+Offset: 421, PUSHS , Operand: Members: Steel halberd
+Offset: 422, PUSHS , Operand: Members can now wield 
+Offset: 423, PUSHS , Operand: <col=000080>
+Offset: 424, PUSHS , Operand: steel halberds
+Offset: 425, PUSHS , Operand: </col>
+Offset: 426, PUSHS , Operand: .
+Offset: 427, CONCAT , Operand: 5
+Offset: 428, RETURN , Operand: 0
+Offset: 429, GOTO , Operand: 13
+Offset: 430, PUSHI , Operand: 5
+Offset: 431, PUSHI , Operand: 8846
+Offset: 432, PUSHS , Operand: Members: Steel defender
+Offset: 433, PUSHS , Operand: <br>
+Offset: 434, PUSHS , Operand:  (with 5 Defence)
+Offset: 435, CONCAT , Operand: 3
+Offset: 436, PUSHS , Operand: Members now have the Attack level required to wield 
+Offset: 437, PUSHS , Operand: <col=000080>
+Offset: 438, PUSHS , Operand: steel defenders
+Offset: 439, PUSHS , Operand: </col>
+Offset: 440, PUSHS , Operand: . (They also need level 5 Defence.)
+Offset: 441, CONCAT , Operand: 5
+Offset: 442, RETURN , Operand: 0
+Offset: 443, GOTO , Operand: 3291
+Offset: 444, LOADINT , Operand: 1
+Offset: 445, SWITCH , Operand: 4
+Offset: 446, GOTO , Operand: 145
+Offset: 447, PUSHI , Operand: 10
+Offset: 448, PUSHI , Operand: 1217
+Offset: 449, PUSHS , Operand: Black dagger
+Offset: 450, PUSHS , Operand: You can now wield 
+Offset: 451, PUSHS , Operand: <col=000080>
+Offset: 452, PUSHS , Operand: black daggers
+Offset: 453, PUSHS , Operand: </col>
+Offset: 454, PUSHS , Operand: .
+Offset: 455, CONCAT , Operand: 5
+Offset: 456, RETURN , Operand: 0
+Offset: 457, GOTO , Operand: 134
+Offset: 458, PUSHI , Operand: 10
+Offset: 459, PUSHI , Operand: 1361
+Offset: 460, PUSHS , Operand: Black hatchet
+Offset: 461, PUSHS , Operand: You can now wield 
+Offset: 462, PUSHS , Operand: <col=000080>
+Offset: 463, PUSHS , Operand: black hatchets
+Offset: 464, PUSHS , Operand: </col>
+Offset: 465, PUSHS , Operand: .
+Offset: 466, CONCAT , Operand: 5
+Offset: 467, RETURN , Operand: 0
+Offset: 468, GOTO , Operand: 123
+Offset: 469, PUSHI , Operand: 10
+Offset: 470, PUSHI , Operand: 1426
+Offset: 471, PUSHS , Operand: Black mace
+Offset: 472, PUSHS , Operand: You can now wield 
+Offset: 473, PUSHS , Operand: <col=000080>
+Offset: 474, PUSHS , Operand: black maces
+Offset: 475, PUSHS , Operand: </col>
+Offset: 476, PUSHS , Operand: .
+Offset: 477, CONCAT , Operand: 5
+Offset: 478, RETURN , Operand: 0
+Offset: 479, GOTO , Operand: 112
+Offset: 480, PUSHI , Operand: 10
+Offset: 481, PUSHI , Operand: 3098
+Offset: 482, PUSHS , Operand: Members: Black claws
+Offset: 483, PUSHS , Operand: Members can now wield 
+Offset: 484, PUSHS , Operand: <col=000080>
+Offset: 485, PUSHS , Operand: black claws
+Offset: 486, PUSHS , Operand: </col>
+Offset: 487, PUSHS , Operand: .
+Offset: 488, CONCAT , Operand: 5
+Offset: 489, RETURN , Operand: 0
+Offset: 490, GOTO , Operand: 101
+Offset: 491, PUSHI , Operand: 10
+Offset: 492, PUSHI , Operand: 1283
+Offset: 493, PUSHS , Operand: Black sword
+Offset: 494, PUSHS , Operand: You can now wield 
+Offset: 495, PUSHS , Operand: <col=000080>
+Offset: 496, PUSHS , Operand: black swords
+Offset: 497, PUSHS , Operand: </col>
+Offset: 498, PUSHS , Operand: .
+Offset: 499, CONCAT , Operand: 5
+Offset: 500, RETURN , Operand: 0
+Offset: 501, GOTO , Operand: 90
+Offset: 502, PUSHI , Operand: 10
+Offset: 503, PUSHI , Operand: 1297
+Offset: 504, PUSHS , Operand: Black longsword
+Offset: 505, PUSHS , Operand: You can now wield 
+Offset: 506, PUSHS , Operand: <col=000080>
+Offset: 507, PUSHS , Operand: black longswords
+Offset: 508, PUSHS , Operand: </col>
+Offset: 509, PUSHS , Operand: .
+Offset: 510, CONCAT , Operand: 5
+Offset: 511, RETURN , Operand: 0
+Offset: 512, GOTO , Operand: 79
+Offset: 513, PUSHI , Operand: 10
+Offset: 514, PUSHI , Operand: 1327
+Offset: 515, PUSHS , Operand: Black scimitar
+Offset: 516, PUSHS , Operand: You can now wield 
+Offset: 517, PUSHS , Operand: <col=000080>
+Offset: 518, PUSHS , Operand: black scimitars
+Offset: 519, PUSHS , Operand: </col>
+Offset: 520, PUSHS , Operand: .
+Offset: 521, CONCAT , Operand: 5
+Offset: 522, RETURN , Operand: 0
+Offset: 523, GOTO , Operand: 68
+Offset: 524, PUSHI , Operand: 10
+Offset: 525, PUSHI , Operand: 4580
+Offset: 526, PUSHS , Operand: Members: Black spear
+Offset: 527, PUSHS , Operand: Members can now wield 
+Offset: 528, PUSHS , Operand: <col=000080>
+Offset: 529, PUSHS , Operand: black spears
+Offset: 530, PUSHS , Operand: </col>
+Offset: 531, PUSHS , Operand: .
+Offset: 532, CONCAT , Operand: 5
+Offset: 533, RETURN , Operand: 0
+Offset: 534, GOTO , Operand: 57
+Offset: 535, PUSHI , Operand: 10
+Offset: 536, PUSHI , Operand: 1341
+Offset: 537, PUSHS , Operand: Black warhammer
+Offset: 538, PUSHS , Operand: You can now wield 
+Offset: 539, PUSHS , Operand: <col=000080>
+Offset: 540, PUSHS , Operand: black warhammers
+Offset: 541, PUSHS , Operand: </col>
+Offset: 542, PUSHS , Operand: .
+Offset: 543, CONCAT , Operand: 5
+Offset: 544, RETURN , Operand: 0
+Offset: 545, GOTO , Operand: 46
+Offset: 546, PUSHI , Operand: 10
+Offset: 547, PUSHI , Operand: 1367
+Offset: 548, PUSHS , Operand: Black battleaxe
+Offset: 549, PUSHS , Operand: You can now wield 
+Offset: 550, PUSHS , Operand: <col=000080>
+Offset: 551, PUSHS , Operand: black battleaxes
+Offset: 552, PUSHS , Operand: </col>
+Offset: 553, PUSHS , Operand: .
+Offset: 554, CONCAT , Operand: 5
+Offset: 555, RETURN , Operand: 0
+Offset: 556, GOTO , Operand: 35
+Offset: 557, PUSHI , Operand: 10
+Offset: 558, PUSHI , Operand: 1313
+Offset: 559, PUSHS , Operand: Black two-handed sword
+Offset: 560, PUSHS , Operand: You can now wield 
+Offset: 561, PUSHS , Operand: <col=000080>
+Offset: 562, PUSHS , Operand: black two-handed swords
+Offset: 563, PUSHS , Operand: </col>
+Offset: 564, PUSHS , Operand: .
+Offset: 565, CONCAT , Operand: 5
+Offset: 566, RETURN , Operand: 0
+Offset: 567, GOTO , Operand: 24
+Offset: 568, PUSHI , Operand: 10
+Offset: 569, PUSHI , Operand: 3196
+Offset: 570, PUSHS , Operand: Members: Black halberd
+Offset: 571, PUSHS , Operand: Members can now wield 
+Offset: 572, PUSHS , Operand: <col=000080>
+Offset: 573, PUSHS , Operand: black halberds
+Offset: 574, PUSHS , Operand: </col>
+Offset: 575, PUSHS , Operand: .
+Offset: 576, CONCAT , Operand: 5
+Offset: 577, RETURN , Operand: 0
+Offset: 578, GOTO , Operand: 13
+Offset: 579, PUSHI , Operand: 10
+Offset: 580, PUSHI , Operand: 8847
+Offset: 581, PUSHS , Operand: Members: Black defender
+Offset: 582, PUSHS , Operand: <br>
+Offset: 583, PUSHS , Operand:  (with 10 Defence)
+Offset: 584, CONCAT , Operand: 3
+Offset: 585, PUSHS , Operand: Members now have the Attack level required to wield 
+Offset: 586, PUSHS , Operand: <col=000080>
+Offset: 587, PUSHS , Operand: black defenders
+Offset: 588, PUSHS , Operand: </col>
+Offset: 589, PUSHS , Operand: . (They also need level 10 Defence.)
+Offset: 590, CONCAT , Operand: 5
+Offset: 591, RETURN , Operand: 0
+Offset: 592, GOTO , Operand: 3142
+Offset: 593, LOADINT , Operand: 1
+Offset: 594, SWITCH , Operand: 5
+Offset: 595, GOTO , Operand: 115
+Offset: 596, PUSHI , Operand: -1
+Offset: 597, PUSHI , Operand: 7620
+Offset: 598, PUSHS , Operand: To wield any white equipment, you must have completed Wanted!.
+Offset: 599, PUSHS , Operand: 
+Offset: 600, RETURN , Operand: 0
+Offset: 601, GOTO , Operand: 109
+Offset: 602, PUSHI , Operand: 10
+Offset: 603, PUSHI , Operand: 6591
+Offset: 604, PUSHS , Operand: Members: White dagger
+Offset: 605, PUSHS , Operand: Members can now wield 
+Offset: 606, PUSHS , Operand: <col=000080>
+Offset: 607, PUSHS , Operand: white daggers
+Offset: 608, PUSHS , Operand: </col>
+Offset: 609, PUSHS , Operand:  (after finishing Wanted!).
+Offset: 610, CONCAT , Operand: 5
+Offset: 611, RETURN , Operand: 0
+Offset: 612, GOTO , Operand: 98
+Offset: 613, PUSHI , Operand: 10
+Offset: 614, PUSHI , Operand: 6601
+Offset: 615, PUSHS , Operand: Members: White mace
+Offset: 616, PUSHS , Operand: Members can now wield 
+Offset: 617, PUSHS , Operand: <col=000080>
+Offset: 618, PUSHS , Operand: white maces
+Offset: 619, PUSHS , Operand: </col>
+Offset: 620, PUSHS , Operand:  (after finishing Wanted!).
+Offset: 621, CONCAT , Operand: 5
+Offset: 622, RETURN , Operand: 0
+Offset: 623, GOTO , Operand: 87
+Offset: 624, PUSHI , Operand: 10
+Offset: 625, PUSHI , Operand: 6587
+Offset: 626, PUSHS , Operand: Members: White claws
+Offset: 627, PUSHS , Operand: Members can now wield 
+Offset: 628, PUSHS , Operand: <col=000080>
+Offset: 629, PUSHS , Operand: white claws
+Offset: 630, PUSHS , Operand: </col>
+Offset: 631, PUSHS , Operand:  (after finishing Wanted!).
+Offset: 632, CONCAT , Operand: 5
+Offset: 633, RETURN , Operand: 0
+Offset: 634, GOTO , Operand: 76
+Offset: 635, PUSHI , Operand: 10
+Offset: 636, PUSHI , Operand: 6605
+Offset: 637, PUSHS , Operand: Members: White sword
+Offset: 638, PUSHS , Operand: Members can now wield 
+Offset: 639, PUSHS , Operand: <col=000080>
+Offset: 640, PUSHS , Operand: white swords
+Offset: 641, PUSHS , Operand: </col>
+Offset: 642, PUSHS , Operand:  (after finishing Wanted!).
+Offset: 643, CONCAT , Operand: 5
+Offset: 644, RETURN , Operand: 0
+Offset: 645, GOTO , Operand: 65
+Offset: 646, PUSHI , Operand: 10
+Offset: 647, PUSHI , Operand: 6607
+Offset: 648, PUSHS , Operand: Members: White longsword
+Offset: 649, PUSHS , Operand: Members can now wield 
+Offset: 650, PUSHS , Operand: <col=000080>
+Offset: 651, PUSHS , Operand: white longswords
+Offset: 652, PUSHS , Operand: </col>
+Offset: 653, PUSHS , Operand:  (after finishing Wanted!).
+Offset: 654, CONCAT , Operand: 5
+Offset: 655, RETURN , Operand: 0
+Offset: 656, GOTO , Operand: 54
+Offset: 657, PUSHI , Operand: 10
+Offset: 658, PUSHI , Operand: 6611
+Offset: 659, PUSHS , Operand: Members: White scimitar
+Offset: 660, PUSHS , Operand: Members can now wield 
+Offset: 661, PUSHS , Operand: <col=000080>
+Offset: 662, PUSHS , Operand: white scimitars
+Offset: 663, PUSHS , Operand: </col>
+Offset: 664, PUSHS , Operand:  (after finishing Wanted!).
+Offset: 665, CONCAT , Operand: 5
+Offset: 666, RETURN , Operand: 0
+Offset: 667, GOTO , Operand: 43
+Offset: 668, PUSHI , Operand: 10
+Offset: 669, PUSHI , Operand: 6613
+Offset: 670, PUSHS , Operand: Members: White warhammer
+Offset: 671, PUSHS , Operand: Members can now wield 
+Offset: 672, PUSHS , Operand: <col=000080>
+Offset: 673, PUSHS , Operand: white warhammers
+Offset: 674, PUSHS , Operand: </col>
+Offset: 675, PUSHS , Operand:  (after finishing Wanted!).
+Offset: 676, CONCAT , Operand: 5
+Offset: 677, RETURN , Operand: 0
+Offset: 678, GOTO , Operand: 32
+Offset: 679, PUSHI , Operand: 10
+Offset: 680, PUSHI , Operand: 6589
+Offset: 681, PUSHS , Operand: Members: White battleaxe
+Offset: 682, PUSHS , Operand: Members can now wield 
+Offset: 683, PUSHS , Operand: <col=000080>
+Offset: 684, PUSHS , Operand: white battleaxes
+Offset: 685, PUSHS , Operand: </col>
+Offset: 686, PUSHS , Operand:  (after finishing Wanted!).
+Offset: 687, CONCAT , Operand: 5
+Offset: 688, RETURN , Operand: 0
+Offset: 689, GOTO , Operand: 21
+Offset: 690, PUSHI , Operand: 10
+Offset: 691, PUSHI , Operand: 6609
+Offset: 692, PUSHS , Operand: Members: White two-handed sword
+Offset: 693, PUSHS , Operand: Members can now wield 
+Offset: 694, PUSHS , Operand: <col=000080>
+Offset: 695, PUSHS , Operand: white two-handed swords
+Offset: 696, PUSHS , Operand: </col>
+Offset: 697, PUSHS , Operand:  (after finishing Wanted!).
+Offset: 698, CONCAT , Operand: 5
+Offset: 699, RETURN , Operand: 0
+Offset: 700, GOTO , Operand: 10
+Offset: 701, PUSHI , Operand: 10
+Offset: 702, PUSHI , Operand: 6599
+Offset: 703, PUSHS , Operand: Members: White halberd
+Offset: 704, PUSHS , Operand: Members can now wield 
+Offset: 705, PUSHS , Operand: <col=000080>
+Offset: 706, PUSHS , Operand: white halberds
+Offset: 707, PUSHS , Operand: </col>
+Offset: 708, PUSHS , Operand:  (after finishing Wanted!).
+Offset: 709, CONCAT , Operand: 5
+Offset: 710, RETURN , Operand: 0
+Offset: 711, GOTO , Operand: 3023
+Offset: 712, LOADINT , Operand: 1
+Offset: 713, SWITCH , Operand: 6
+Offset: 714, GOTO , Operand: 119
+Offset: 715, PUSHI , Operand: 20
+Offset: 716, PUSHI , Operand: 1209
+Offset: 717, PUSHS , Operand: Mithril dagger
+Offset: 718, PUSHS , Operand: You can now wield mithril daggers
+Offset: 719, PUSHS , Operand: </col>
+Offset: 720, PUSHS , Operand: .
+Offset: 721, CONCAT , Operand: 3
+Offset: 722, RETURN , Operand: 0
+Offset: 723, GOTO , Operand: 110
+Offset: 724, PUSHI , Operand: 20
+Offset: 725, PUSHI , Operand: 1355
+Offset: 726, PUSHS , Operand: Mithril hatchet
+Offset: 727, PUSHS , Operand: You can now wield mithril hatchets
+Offset: 728, PUSHS , Operand: </col>
+Offset: 729, PUSHS , Operand: .
+Offset: 730, CONCAT , Operand: 3
+Offset: 731, RETURN , Operand: 0
+Offset: 732, GOTO , Operand: 101
+Offset: 733, PUSHI , Operand: 20
+Offset: 734, PUSHI , Operand: 1428
+Offset: 735, PUSHS , Operand: Mithril mace
+Offset: 736, PUSHS , Operand: You can now wield mithril maces
+Offset: 737, PUSHS , Operand: </col>
+Offset: 738, PUSHS , Operand: .
+Offset: 739, CONCAT , Operand: 3
+Offset: 740, RETURN , Operand: 0
+Offset: 741, GOTO , Operand: 92
+Offset: 742, PUSHI , Operand: 20
+Offset: 743, PUSHI , Operand: 3099
+Offset: 744, PUSHS , Operand: Members: Mithril claws
+Offset: 745, PUSHS , Operand: Members can now wield mithril claws
+Offset: 746, PUSHS , Operand: </col>
+Offset: 747, PUSHS , Operand: .
+Offset: 748, CONCAT , Operand: 3
+Offset: 749, RETURN , Operand: 0
+Offset: 750, GOTO , Operand: 83
+Offset: 751, PUSHI , Operand: 20
+Offset: 752, PUSHI , Operand: 1285
+Offset: 753, PUSHS , Operand: Mithril sword
+Offset: 754, PUSHS , Operand: You can now wield mithril swords
+Offset: 755, PUSHS , Operand: </col>
+Offset: 756, PUSHS , Operand: .
+Offset: 757, CONCAT , Operand: 3
+Offset: 758, RETURN , Operand: 0
+Offset: 759, GOTO , Operand: 74
+Offset: 760, PUSHI , Operand: 20
+Offset: 761, PUSHI , Operand: 1299
+Offset: 762, PUSHS , Operand: Mithril longsword
+Offset: 763, PUSHS , Operand: You can now wield mithril longswords
+Offset: 764, PUSHS , Operand: </col>
+Offset: 765, PUSHS , Operand: .
+Offset: 766, CONCAT , Operand: 3
+Offset: 767, RETURN , Operand: 0
+Offset: 768, GOTO , Operand: 65
+Offset: 769, PUSHI , Operand: 20
+Offset: 770, PUSHI , Operand: 1329
+Offset: 771, PUSHS , Operand: Mithril scimitar
+Offset: 772, PUSHS , Operand: You can now wield mithril scimitars
+Offset: 773, PUSHS , Operand: </col>
+Offset: 774, PUSHS , Operand: .
+Offset: 775, CONCAT , Operand: 3
+Offset: 776, RETURN , Operand: 0
+Offset: 777, GOTO , Operand: 56
+Offset: 778, PUSHI , Operand: 20
+Offset: 779, PUSHI , Operand: 1243
+Offset: 780, PUSHS , Operand: Members: Mithril spear
+Offset: 781, PUSHS , Operand: Members can now wield mithril spears
+Offset: 782, PUSHS , Operand: </col>
+Offset: 783, PUSHS , Operand: .
+Offset: 784, CONCAT , Operand: 3
+Offset: 785, RETURN , Operand: 0
+Offset: 786, GOTO , Operand: 47
+Offset: 787, PUSHI , Operand: 20
+Offset: 788, PUSHI , Operand: 1343
+Offset: 789, PUSHS , Operand: Mithril warhammer
+Offset: 790, PUSHS , Operand: You can now wield mithril warhammers
+Offset: 791, PUSHS , Operand: </col>
+Offset: 792, PUSHS , Operand: .
+Offset: 793, CONCAT , Operand: 3
+Offset: 794, RETURN , Operand: 0
+Offset: 795, GOTO , Operand: 38
+Offset: 796, PUSHI , Operand: 20
+Offset: 797, PUSHI , Operand: 1369
+Offset: 798, PUSHS , Operand: Mithril battleaxe
+Offset: 799, PUSHS , Operand: You can now wield mithril battleaxes
+Offset: 800, PUSHS , Operand: </col>
+Offset: 801, PUSHS , Operand: .
+Offset: 802, CONCAT , Operand: 3
+Offset: 803, RETURN , Operand: 0
+Offset: 804, GOTO , Operand: 29
+Offset: 805, PUSHI , Operand: 20
+Offset: 806, PUSHI , Operand: 1315
+Offset: 807, PUSHS , Operand: Mithril two-handed sword
+Offset: 808, PUSHS , Operand: You can now wield mithril two-handed swords
+Offset: 809, PUSHS , Operand: </col>
+Offset: 810, PUSHS , Operand: .
+Offset: 811, CONCAT , Operand: 3
+Offset: 812, RETURN , Operand: 0
+Offset: 813, GOTO , Operand: 20
+Offset: 814, PUSHI , Operand: 20
+Offset: 815, PUSHI , Operand: 3198
+Offset: 816, PUSHS , Operand: Members: Mithril halberd
+Offset: 817, PUSHS , Operand: Members can now wield mithril halberds
+Offset: 818, PUSHS , Operand: </col>
+Offset: 819, PUSHS , Operand: .
+Offset: 820, CONCAT , Operand: 3
+Offset: 821, RETURN , Operand: 0
+Offset: 822, GOTO , Operand: 11
+Offset: 823, PUSHI , Operand: 20
+Offset: 824, PUSHI , Operand: 8848
+Offset: 825, PUSHS , Operand: Members: Mithril defender
+Offset: 826, PUSHS , Operand: <br>
+Offset: 827, PUSHS , Operand:  (with 20 Defence)
+Offset: 828, CONCAT , Operand: 3
+Offset: 829, PUSHS , Operand: Members now have the Attack level required to wield mithril defenders
+Offset: 830, PUSHS , Operand: </col>
+Offset: 831, PUSHS , Operand: . (They also need level 20 Defence.)
+Offset: 832, CONCAT , Operand: 3
+Offset: 833, RETURN , Operand: 0
+Offset: 834, GOTO , Operand: 2900
+Offset: 835, LOADINT , Operand: 1
+Offset: 836, SWITCH , Operand: 7
+Offset: 837, GOTO , Operand: 145
+Offset: 838, PUSHI , Operand: 30
+Offset: 839, PUSHI , Operand: 1211
+Offset: 840, PUSHS , Operand: Adamant dagger
+Offset: 841, PUSHS , Operand: You can now wield 
+Offset: 842, PUSHS , Operand: <col=000080>
+Offset: 843, PUSHS , Operand: adamant daggers
+Offset: 844, PUSHS , Operand: </col>
+Offset: 845, PUSHS , Operand: .
+Offset: 846, CONCAT , Operand: 5
+Offset: 847, RETURN , Operand: 0
+Offset: 848, GOTO , Operand: 134
+Offset: 849, PUSHI , Operand: 30
+Offset: 850, PUSHI , Operand: 1357
+Offset: 851, PUSHS , Operand: Adamant hatchet
+Offset: 852, PUSHS , Operand: You can now wield 
+Offset: 853, PUSHS , Operand: <col=000080>
+Offset: 854, PUSHS , Operand: adamant hatchets
+Offset: 855, PUSHS , Operand: </col>
+Offset: 856, PUSHS , Operand: .
+Offset: 857, CONCAT , Operand: 5
+Offset: 858, RETURN , Operand: 0
+Offset: 859, GOTO , Operand: 123
+Offset: 860, PUSHI , Operand: 30
+Offset: 861, PUSHI , Operand: 1430
+Offset: 862, PUSHS , Operand: Adamant mace
+Offset: 863, PUSHS , Operand: You can now wield 
+Offset: 864, PUSHS , Operand: <col=000080>
+Offset: 865, PUSHS , Operand: adamant maces
+Offset: 866, PUSHS , Operand: </col>
+Offset: 867, PUSHS , Operand: .
+Offset: 868, CONCAT , Operand: 5
+Offset: 869, RETURN , Operand: 0
+Offset: 870, GOTO , Operand: 112
+Offset: 871, PUSHI , Operand: 30
+Offset: 872, PUSHI , Operand: 3100
+Offset: 873, PUSHS , Operand: Members: Adamant claws
+Offset: 874, PUSHS , Operand: Members can now wield 
+Offset: 875, PUSHS , Operand: <col=000080>
+Offset: 876, PUSHS , Operand: adamant claws
+Offset: 877, PUSHS , Operand: </col>
+Offset: 878, PUSHS , Operand: .
+Offset: 879, CONCAT , Operand: 5
+Offset: 880, RETURN , Operand: 0
+Offset: 881, GOTO , Operand: 101
+Offset: 882, PUSHI , Operand: 30
+Offset: 883, PUSHI , Operand: 1287
+Offset: 884, PUSHS , Operand: Adamant sword
+Offset: 885, PUSHS , Operand: You can now wield 
+Offset: 886, PUSHS , Operand: <col=000080>
+Offset: 887, PUSHS , Operand: adamant swords
+Offset: 888, PUSHS , Operand: </col>
+Offset: 889, PUSHS , Operand: .
+Offset: 890, CONCAT , Operand: 5
+Offset: 891, RETURN , Operand: 0
+Offset: 892, GOTO , Operand: 90
+Offset: 893, PUSHI , Operand: 30
+Offset: 894, PUSHI , Operand: 1301
+Offset: 895, PUSHS , Operand: Adamant longsword
+Offset: 896, PUSHS , Operand: You can now wield 
+Offset: 897, PUSHS , Operand: <col=000080>
+Offset: 898, PUSHS , Operand: adamant longswords
+Offset: 899, PUSHS , Operand: </col>
+Offset: 900, PUSHS , Operand: .
+Offset: 901, CONCAT , Operand: 5
+Offset: 902, RETURN , Operand: 0
+Offset: 903, GOTO , Operand: 79
+Offset: 904, PUSHI , Operand: 30
+Offset: 905, PUSHI , Operand: 1331
+Offset: 906, PUSHS , Operand: Adamant scimitar
+Offset: 907, PUSHS , Operand: You can now wield 
+Offset: 908, PUSHS , Operand: <col=000080>
+Offset: 909, PUSHS , Operand: adamant scimitars
+Offset: 910, PUSHS , Operand: </col>
+Offset: 911, PUSHS , Operand: .
+Offset: 912, CONCAT , Operand: 5
+Offset: 913, RETURN , Operand: 0
+Offset: 914, GOTO , Operand: 68
+Offset: 915, PUSHI , Operand: 30
+Offset: 916, PUSHI , Operand: 1245
+Offset: 917, PUSHS , Operand: Members: Adamant spear
+Offset: 918, PUSHS , Operand: Members can now wield 
+Offset: 919, PUSHS , Operand: <col=000080>
+Offset: 920, PUSHS , Operand: adamant spears
+Offset: 921, PUSHS , Operand: </col>
+Offset: 922, PUSHS , Operand: .
+Offset: 923, CONCAT , Operand: 5
+Offset: 924, RETURN , Operand: 0
+Offset: 925, GOTO , Operand: 57
+Offset: 926, PUSHI , Operand: 30
+Offset: 927, PUSHI , Operand: 1345
+Offset: 928, PUSHS , Operand: Adamant warhammer
+Offset: 929, PUSHS , Operand: You can now wield 
+Offset: 930, PUSHS , Operand: <col=000080>
+Offset: 931, PUSHS , Operand: adamant warhammers
+Offset: 932, PUSHS , Operand: </col>
+Offset: 933, PUSHS , Operand: .
+Offset: 934, CONCAT , Operand: 5
+Offset: 935, RETURN , Operand: 0
+Offset: 936, GOTO , Operand: 46
+Offset: 937, PUSHI , Operand: 30
+Offset: 938, PUSHI , Operand: 1371
+Offset: 939, PUSHS , Operand: Adamant battleaxe
+Offset: 940, PUSHS , Operand: You can now wield 
+Offset: 941, PUSHS , Operand: <col=000080>
+Offset: 942, PUSHS , Operand: adamant battleaxes
+Offset: 943, PUSHS , Operand: </col>
+Offset: 944, PUSHS , Operand: .
+Offset: 945, CONCAT , Operand: 5
+Offset: 946, RETURN , Operand: 0
+Offset: 947, GOTO , Operand: 35
+Offset: 948, PUSHI , Operand: 30
+Offset: 949, PUSHI , Operand: 1317
+Offset: 950, PUSHS , Operand: Adamant two-handed sword
+Offset: 951, PUSHS , Operand: You can now wield 
+Offset: 952, PUSHS , Operand: <col=000080>
+Offset: 953, PUSHS , Operand: adamant two-handed swords
+Offset: 954, PUSHS , Operand: </col>
+Offset: 955, PUSHS , Operand: .
+Offset: 956, CONCAT , Operand: 5
+Offset: 957, RETURN , Operand: 0
+Offset: 958, GOTO , Operand: 24
+Offset: 959, PUSHI , Operand: 30
+Offset: 960, PUSHI , Operand: 3200
+Offset: 961, PUSHS , Operand: Members: Adamant halberd
+Offset: 962, PUSHS , Operand: Members can now wield 
+Offset: 963, PUSHS , Operand: <col=000080>
+Offset: 964, PUSHS , Operand: adamant halberds
+Offset: 965, PUSHS , Operand: </col>
+Offset: 966, PUSHS , Operand: .
+Offset: 967, CONCAT , Operand: 5
+Offset: 968, RETURN , Operand: 0
+Offset: 969, GOTO , Operand: 13
+Offset: 970, PUSHI , Operand: 30
+Offset: 971, PUSHI , Operand: 8849
+Offset: 972, PUSHS , Operand: Members: Adamant defender
+Offset: 973, PUSHS , Operand: <br>
+Offset: 974, PUSHS , Operand:  (with 30 Defence)
+Offset: 975, CONCAT , Operand: 3
+Offset: 976, PUSHS , Operand: Members now have the Attack level required to wield 
+Offset: 977, PUSHS , Operand: <col=000080>
+Offset: 978, PUSHS , Operand: adamant defenders
+Offset: 979, PUSHS , Operand: </col>
+Offset: 980, PUSHS , Operand: . (They also need level 30 Defence.)
+Offset: 981, CONCAT , Operand: 5
+Offset: 982, RETURN , Operand: 0
+Offset: 983, GOTO , Operand: 2751
+Offset: 984, LOADINT , Operand: 1
+Offset: 985, SWITCH , Operand: 8
+Offset: 986, GOTO , Operand: 145
+Offset: 987, PUSHI , Operand: 40
+Offset: 988, PUSHI , Operand: 1213
+Offset: 989, PUSHS , Operand: Rune dagger
+Offset: 990, PUSHS , Operand: You can now wield 
+Offset: 991, PUSHS , Operand: <col=000080>
+Offset: 992, PUSHS , Operand: rune daggers
+Offset: 993, PUSHS , Operand: </col>
+Offset: 994, PUSHS , Operand: .
+Offset: 995, CONCAT , Operand: 5
+Offset: 996, RETURN , Operand: 0
+Offset: 997, GOTO , Operand: 134
+Offset: 998, PUSHI , Operand: 40
+Offset: 999, PUSHI , Operand: 1359
+Offset: 1000, PUSHS , Operand: Rune hatchet
+Offset: 1001, PUSHS , Operand: You can now wield 
+Offset: 1002, PUSHS , Operand: <col=000080>
+Offset: 1003, PUSHS , Operand: rune hatchets
+Offset: 1004, PUSHS , Operand: </col>
+Offset: 1005, PUSHS , Operand: .
+Offset: 1006, CONCAT , Operand: 5
+Offset: 1007, RETURN , Operand: 0
+Offset: 1008, GOTO , Operand: 123
+Offset: 1009, PUSHI , Operand: 40
+Offset: 1010, PUSHI , Operand: 1432
+Offset: 1011, PUSHS , Operand: Rune mace
+Offset: 1012, PUSHS , Operand: You can now wield 
+Offset: 1013, PUSHS , Operand: <col=000080>
+Offset: 1014, PUSHS , Operand: rune maces
+Offset: 1015, PUSHS , Operand: </col>
+Offset: 1016, PUSHS , Operand: .
+Offset: 1017, CONCAT , Operand: 5
+Offset: 1018, RETURN , Operand: 0
+Offset: 1019, GOTO , Operand: 112
+Offset: 1020, PUSHI , Operand: 40
+Offset: 1021, PUSHI , Operand: 3101
+Offset: 1022, PUSHS , Operand: Members: Rune claws
+Offset: 1023, PUSHS , Operand: Members can now wield 
+Offset: 1024, PUSHS , Operand: <col=000080>
+Offset: 1025, PUSHS , Operand: rune claws
+Offset: 1026, PUSHS , Operand: </col>
+Offset: 1027, PUSHS , Operand: .
+Offset: 1028, CONCAT , Operand: 5
+Offset: 1029, RETURN , Operand: 0
+Offset: 1030, GOTO , Operand: 101
+Offset: 1031, PUSHI , Operand: 40
+Offset: 1032, PUSHI , Operand: 1289
+Offset: 1033, PUSHS , Operand: Rune sword
+Offset: 1034, PUSHS , Operand: You can now wield 
+Offset: 1035, PUSHS , Operand: <col=000080>
+Offset: 1036, PUSHS , Operand: rune swords
+Offset: 1037, PUSHS , Operand: </col>
+Offset: 1038, PUSHS , Operand: .
+Offset: 1039, CONCAT , Operand: 5
+Offset: 1040, RETURN , Operand: 0
+Offset: 1041, GOTO , Operand: 90
+Offset: 1042, PUSHI , Operand: 40
+Offset: 1043, PUSHI , Operand: 1303
+Offset: 1044, PUSHS , Operand: Rune longsword
+Offset: 1045, PUSHS , Operand: You can now wield 
+Offset: 1046, PUSHS , Operand: <col=000080>
+Offset: 1047, PUSHS , Operand: rune longswords
+Offset: 1048, PUSHS , Operand: </col>
+Offset: 1049, PUSHS , Operand: .
+Offset: 1050, CONCAT , Operand: 5
+Offset: 1051, RETURN , Operand: 0
+Offset: 1052, GOTO , Operand: 79
+Offset: 1053, PUSHI , Operand: 40
+Offset: 1054, PUSHI , Operand: 1333
+Offset: 1055, PUSHS , Operand: Rune scimitar
+Offset: 1056, PUSHS , Operand: You can now wield 
+Offset: 1057, PUSHS , Operand: <col=000080>
+Offset: 1058, PUSHS , Operand: rune scimitars
+Offset: 1059, PUSHS , Operand: </col>
+Offset: 1060, PUSHS , Operand: .
+Offset: 1061, CONCAT , Operand: 5
+Offset: 1062, RETURN , Operand: 0
+Offset: 1063, GOTO , Operand: 68
+Offset: 1064, PUSHI , Operand: 40
+Offset: 1065, PUSHI , Operand: 1247
+Offset: 1066, PUSHS , Operand: Members: Rune spear
+Offset: 1067, PUSHS , Operand: Members can now wield 
+Offset: 1068, PUSHS , Operand: <col=000080>
+Offset: 1069, PUSHS , Operand: rune spears
+Offset: 1070, PUSHS , Operand: </col>
+Offset: 1071, PUSHS , Operand: .
+Offset: 1072, CONCAT , Operand: 5
+Offset: 1073, RETURN , Operand: 0
+Offset: 1074, GOTO , Operand: 57
+Offset: 1075, PUSHI , Operand: 40
+Offset: 1076, PUSHI , Operand: 1347
+Offset: 1077, PUSHS , Operand: Rune warhammer
+Offset: 1078, PUSHS , Operand: You can now wield 
+Offset: 1079, PUSHS , Operand: <col=000080>
+Offset: 1080, PUSHS , Operand: rune warhammers
+Offset: 1081, PUSHS , Operand: </col>
+Offset: 1082, PUSHS , Operand: .
+Offset: 1083, CONCAT , Operand: 5
+Offset: 1084, RETURN , Operand: 0
+Offset: 1085, GOTO , Operand: 46
+Offset: 1086, PUSHI , Operand: 40
+Offset: 1087, PUSHI , Operand: 1373
+Offset: 1088, PUSHS , Operand: Rune battleaxe
+Offset: 1089, PUSHS , Operand: You can now wield 
+Offset: 1090, PUSHS , Operand: <col=000080>
+Offset: 1091, PUSHS , Operand: rune battleaxes
+Offset: 1092, PUSHS , Operand: </col>
+Offset: 1093, PUSHS , Operand: .
+Offset: 1094, CONCAT , Operand: 5
+Offset: 1095, RETURN , Operand: 0
+Offset: 1096, GOTO , Operand: 35
+Offset: 1097, PUSHI , Operand: 40
+Offset: 1098, PUSHI , Operand: 1319
+Offset: 1099, PUSHS , Operand: Rune two-handed sword
+Offset: 1100, PUSHS , Operand: You can now wield 
+Offset: 1101, PUSHS , Operand: <col=000080>
+Offset: 1102, PUSHS , Operand: rune two-handed swords
+Offset: 1103, PUSHS , Operand: </col>
+Offset: 1104, PUSHS , Operand: .
+Offset: 1105, CONCAT , Operand: 5
+Offset: 1106, RETURN , Operand: 0
+Offset: 1107, GOTO , Operand: 24
+Offset: 1108, PUSHI , Operand: 40
+Offset: 1109, PUSHI , Operand: 3202
+Offset: 1110, PUSHS , Operand: Members: Rune halberd
+Offset: 1111, PUSHS , Operand: Members can now wield 
+Offset: 1112, PUSHS , Operand: <col=000080>
+Offset: 1113, PUSHS , Operand: rune halberds
+Offset: 1114, PUSHS , Operand: </col>
+Offset: 1115, PUSHS , Operand: .
+Offset: 1116, CONCAT , Operand: 5
+Offset: 1117, RETURN , Operand: 0
+Offset: 1118, GOTO , Operand: 13
+Offset: 1119, PUSHI , Operand: 40
+Offset: 1120, PUSHI , Operand: 8850
+Offset: 1121, PUSHS , Operand: Members: Rune defender
+Offset: 1122, PUSHS , Operand: <br>
+Offset: 1123, PUSHS , Operand:  (with 40 Defence)
+Offset: 1124, CONCAT , Operand: 3
+Offset: 1125, PUSHS , Operand: Members now have the Attack level required to wield 
+Offset: 1126, PUSHS , Operand: <col=000080>
+Offset: 1127, PUSHS , Operand: rune defenders
+Offset: 1128, PUSHS , Operand: </col>
+Offset: 1129, PUSHS , Operand: . (They also need level 40 Defence.)
+Offset: 1130, CONCAT , Operand: 5
+Offset: 1131, RETURN , Operand: 0
+Offset: 1132, GOTO , Operand: 2602
+Offset: 1133, LOADINT , Operand: 1
+Offset: 1134, SWITCH , Operand: 9
+Offset: 1135, GOTO , Operand: 204
+Offset: 1136, PUSHI , Operand: 60
+Offset: 1137, PUSHI , Operand: 1215
+Offset: 1138, PUSHS , Operand: Members: Dragon dagger
+Offset: 1139, PUSHS , Operand: <br>
+Offset: 1140, PUSHS , Operand:  (after Lost City)
+Offset: 1141, CONCAT , Operand: 3
+Offset: 1142, PUSHS , Operand: Members can now wield 
+Offset: 1143, PUSHS , Operand: <col=000080>
+Offset: 1144, PUSHS , Operand: dragon daggers
+Offset: 1145, PUSHS , Operand: </col>
+Offset: 1146, PUSHS , Operand:  (after Lost City).
+Offset: 1147, CONCAT , Operand: 5
+Offset: 1148, RETURN , Operand: 0
+Offset: 1149, GOTO , Operand: 190
+Offset: 1150, PUSHI , Operand: 60
+Offset: 1151, PUSHI , Operand: 6739
+Offset: 1152, PUSHS , Operand: Members: Dragon hatchet
+Offset: 1153, PUSHS , Operand: Members can now wield 
+Offset: 1154, PUSHS , Operand: <col=000080>
+Offset: 1155, PUSHS , Operand: dragon hatchets
+Offset: 1156, PUSHS , Operand: </col>
+Offset: 1157, PUSHS , Operand: .
+Offset: 1158, CONCAT , Operand: 5
+Offset: 1159, RETURN , Operand: 0
+Offset: 1160, GOTO , Operand: 179
+Offset: 1161, PUSHI , Operand: 60
+Offset: 1162, PUSHI , Operand: 1434
+Offset: 1163, PUSHS , Operand: Members: Dragon mace
+Offset: 1164, PUSHS , Operand: <br>
+Offset: 1165, PUSHS , Operand:  (after Heroes' Quest)
+Offset: 1166, CONCAT , Operand: 3
+Offset: 1167, PUSHS , Operand: Members can now wield 
+Offset: 1168, PUSHS , Operand: <col=000080>
+Offset: 1169, PUSHS , Operand: dragon maces
+Offset: 1170, PUSHS , Operand: </col>
+Offset: 1171, PUSHS , Operand:  (after Heroes' Quest).
+Offset: 1172, CONCAT , Operand: 5
+Offset: 1173, RETURN , Operand: 0
+Offset: 1174, GOTO , Operand: 165
+Offset: 1175, PUSHI , Operand: 60
+Offset: 1176, PUSHI , Operand: 14484
+Offset: 1177, PUSHS , Operand: Members: Dragon claws
+Offset: 1178, PUSHS , Operand: Members can now wield 
+Offset: 1179, PUSHS , Operand: <col=000080>
+Offset: 1180, PUSHS , Operand: dragon claws
+Offset: 1181, PUSHS , Operand: </col>
+Offset: 1182, PUSHS , Operand: .
+Offset: 1183, CONCAT , Operand: 5
+Offset: 1184, RETURN , Operand: 0
+Offset: 1185, GOTO , Operand: 154
+Offset: 1186, PUSHI , Operand: 60
+Offset: 1187, PUSHI , Operand: 1305
+Offset: 1188, PUSHS , Operand: Members: Dragon longsword
+Offset: 1189, PUSHS , Operand: <br>
+Offset: 1190, PUSHS , Operand:  (after Lost City)
+Offset: 1191, CONCAT , Operand: 3
+Offset: 1192, PUSHS , Operand: Members can now wield 
+Offset: 1193, PUSHS , Operand: <col=000080>
+Offset: 1194, PUSHS , Operand: dragon longswords
+Offset: 1195, PUSHS , Operand: </col>
+Offset: 1196, PUSHS , Operand:  (after Lost City).
+Offset: 1197, CONCAT , Operand: 5
+Offset: 1198, RETURN , Operand: 0
+Offset: 1199, GOTO , Operand: 140
+Offset: 1200, PUSHI , Operand: 60
+Offset: 1201, PUSHI , Operand: 4587
+Offset: 1202, PUSHS , Operand: Members: Dragon scimitar
+Offset: 1203, PUSHS , Operand: <br>
+Offset: 1204, PUSHS , Operand:  (after Monkey Madness)
+Offset: 1205, CONCAT , Operand: 3
+Offset: 1206, PUSHS , Operand: Members can now wield 
+Offset: 1207, PUSHS , Operand: <col=000080>
+Offset: 1208, PUSHS , Operand: dragon scimitars
+Offset: 1209, PUSHS , Operand: </col>
+Offset: 1210, PUSHS , Operand:  (after Monkey Madness).
+Offset: 1211, CONCAT , Operand: 5
+Offset: 1212, RETURN , Operand: 0
+Offset: 1213, GOTO , Operand: 126
+Offset: 1214, PUSHI , Operand: 60
+Offset: 1215, PUSHI , Operand: 1249
+Offset: 1216, PUSHS , Operand: Members: Dragon spear
+Offset: 1217, PUSHS , Operand: Members can now wield 
+Offset: 1218, PUSHS , Operand: <col=000080>
+Offset: 1219, PUSHS , Operand: dragon spears
+Offset: 1220, PUSHS , Operand: </col>
+Offset: 1221, PUSHS , Operand: .
+Offset: 1222, CONCAT , Operand: 5
+Offset: 1223, RETURN , Operand: 0
+Offset: 1224, GOTO , Operand: 115
+Offset: 1225, PUSHI , Operand: 60
+Offset: 1226, PUSHI , Operand: 1377
+Offset: 1227, PUSHS , Operand: Members: Dragon battleaxe
+Offset: 1228, PUSHS , Operand: <br>
+Offset: 1229, PUSHS , Operand:  (after Heroes' Quest)
+Offset: 1230, CONCAT , Operand: 3
+Offset: 1231, PUSHS , Operand: Members can now wield 
+Offset: 1232, PUSHS , Operand: <col=000080>
+Offset: 1233, PUSHS , Operand: dragon battleaxes
+Offset: 1234, PUSHS , Operand: </col>
+Offset: 1235, PUSHS , Operand:  (after Heroes' Quest).
+Offset: 1236, CONCAT , Operand: 5
+Offset: 1237, RETURN , Operand: 0
+Offset: 1238, GOTO , Operand: 101
+Offset: 1239, PUSHI , Operand: 60
+Offset: 1240, PUSHI , Operand: 7158
+Offset: 1241, PUSHS , Operand: Members: Dragon two-handed sword
+Offset: 1242, PUSHS , Operand: Members can now wield 
+Offset: 1243, PUSHS , Operand: <col=000080>
+Offset: 1244, PUSHS , Operand: dragon two-handed swords
+Offset: 1245, PUSHS , Operand: </col>
+Offset: 1246, PUSHS , Operand: .
+Offset: 1247, CONCAT , Operand: 5
+Offset: 1248, RETURN , Operand: 0
+Offset: 1249, GOTO , Operand: 90
+Offset: 1250, PUSHI , Operand: 60
+Offset: 1251, PUSHI , Operand: 3204
+Offset: 1252, PUSHS , Operand: Members: Dragon halberd
+Offset: 1253, PUSHS , Operand: <br>
+Offset: 1254, PUSHS , Operand:  (after Regicide)
+Offset: 1255, CONCAT , Operand: 3
+Offset: 1256, PUSHS , Operand: Members can now wield 
+Offset: 1257, PUSHS , Operand: <col=000080>
+Offset: 1258, PUSHS , Operand: dragon halberds
+Offset: 1259, PUSHS , Operand: </col>
+Offset: 1260, PUSHS , Operand:  (after Regicide).
+Offset: 1261, CONCAT , Operand: 5
+Offset: 1262, RETURN , Operand: 0
+Offset: 1263, GOTO , Operand: 76
+Offset: 1264, PUSHI , Operand: 60
+Offset: 1265, PUSHI , Operand: 15259
+Offset: 1266, PUSHS , Operand: Members: Dragon pickaxe
+Offset: 1267, PUSHS , Operand: Members can now wield 
+Offset: 1268, PUSHS , Operand: <col=000080>
+Offset: 1269, PUSHS , Operand: dragon pickaxes
+Offset: 1270, PUSHS , Operand: </col>
+Offset: 1271, PUSHS , Operand: .
+Offset: 1272, CONCAT , Operand: 5
+Offset: 1273, RETURN , Operand: 0
+Offset: 1274, GOTO , Operand: 65
+Offset: 1275, PUSHI , Operand: 60
+Offset: 1276, PUSHI , Operand: 13976
+Offset: 1277, PUSHS , Operand: Corrupt dragon dagger
+Offset: 1278, PUSHS , Operand: You can now wield 
+Offset: 1279, PUSHS , Operand: <col=000080>
+Offset: 1280, PUSHS , Operand: corrupt dragon daggers
+Offset: 1281, PUSHS , Operand: </col>
+Offset: 1282, PUSHS , Operand: .
+Offset: 1283, CONCAT , Operand: 5
+Offset: 1284, RETURN , Operand: 0
+Offset: 1285, GOTO , Operand: 54
+Offset: 1286, PUSHI , Operand: 60
+Offset: 1287, PUSHI , Operand: 13985
+Offset: 1288, PUSHS , Operand: Corrupt dragon mace
+Offset: 1289, PUSHS , Operand: You can now wield 
+Offset: 1290, PUSHS , Operand: <col=000080>
+Offset: 1291, PUSHS , Operand: corrupt dragon maces
+Offset: 1292, PUSHS , Operand: </col>
+Offset: 1293, PUSHS , Operand: .
+Offset: 1294, CONCAT , Operand: 5
+Offset: 1295, RETURN , Operand: 0
+Offset: 1296, GOTO , Operand: 43
+Offset: 1297, PUSHI , Operand: 60
+Offset: 1298, PUSHI , Operand: 13982
+Offset: 1299, PUSHS , Operand: Corrupt dragon longsword
+Offset: 1300, PUSHS , Operand: You can now wield 
+Offset: 1301, PUSHS , Operand: <col=000080>
+Offset: 1302, PUSHS , Operand: corrupt dragon longswords
+Offset: 1303, PUSHS , Operand: </col>
+Offset: 1304, PUSHS , Operand: .
+Offset: 1305, CONCAT , Operand: 5
+Offset: 1306, RETURN , Operand: 0
+Offset: 1307, GOTO , Operand: 32
+Offset: 1308, PUSHI , Operand: 60
+Offset: 1309, PUSHI , Operand: 13979
+Offset: 1310, PUSHS , Operand: Corrupt dragon scimitar
+Offset: 1311, PUSHS , Operand: You can now wield 
+Offset: 1312, PUSHS , Operand: <col=000080>
+Offset: 1313, PUSHS , Operand: corrupt dragon scimitars
+Offset: 1314, PUSHS , Operand: </col>
+Offset: 1315, PUSHS , Operand: .
+Offset: 1316, CONCAT , Operand: 5
+Offset: 1317, RETURN , Operand: 0
+Offset: 1318, GOTO , Operand: 21
+Offset: 1319, PUSHI , Operand: 60
+Offset: 1320, PUSHI , Operand: 13988
+Offset: 1321, PUSHS , Operand: Corrupt dragon spear
+Offset: 1322, PUSHS , Operand: You can now wield 
+Offset: 1323, PUSHS , Operand: <col=000080>
+Offset: 1324, PUSHS , Operand: corrupt dragon spears
+Offset: 1325, PUSHS , Operand: </col>
+Offset: 1326, PUSHS , Operand: .
+Offset: 1327, CONCAT , Operand: 5
+Offset: 1328, RETURN , Operand: 0
+Offset: 1329, GOTO , Operand: 10
+Offset: 1330, PUSHI , Operand: 60
+Offset: 1331, PUSHI , Operand: 13973
+Offset: 1332, PUSHS , Operand: Corrupt dragon battleaxe
+Offset: 1333, PUSHS , Operand: You can now wield 
+Offset: 1334, PUSHS , Operand: <col=000080>
+Offset: 1335, PUSHS , Operand: corrupt dragon battleaxes
+Offset: 1336, PUSHS , Operand: </col>
+Offset: 1337, PUSHS , Operand: .
+Offset: 1338, CONCAT , Operand: 5
+Offset: 1339, RETURN , Operand: 0
+Offset: 1340, GOTO , Operand: 2394
+Offset: 1341, LOADINT , Operand: 1
+Offset: 1342, SWITCH , Operand: 10
+Offset: 1343, GOTO , Operand: 63
+Offset: 1344, PUSHI , Operand: 70
+Offset: 1345, PUSHI , Operand: 4710
+Offset: 1346, PUSHS , Operand: Members: Ahrim's staff
+Offset: 1347, PUSHS , Operand: <br>
+Offset: 1348, PUSHS , Operand:  (with 70 Magic)
+Offset: 1349, CONCAT , Operand: 3
+Offset: 1350, PUSHS , Operand: Members now have the Attack level required to wield 
+Offset: 1351, PUSHS , Operand: <col=000080>
+Offset: 1352, PUSHS , Operand: Ahrim's staff
+Offset: 1353, PUSHS , Operand: </col>
+Offset: 1354, PUSHS , Operand: . (They also need level 70 Magic.)
+Offset: 1355, CONCAT , Operand: 5
+Offset: 1356, RETURN , Operand: 0
+Offset: 1357, GOTO , Operand: 49
+Offset: 1358, PUSHI , Operand: 70
+Offset: 1359, PUSHI , Operand: 4718
+Offset: 1360, PUSHS , Operand: Members: Dharok's greataxe
+Offset: 1361, PUSHS , Operand: <br>
+Offset: 1362, PUSHS , Operand:  (with 70 Strength)
+Offset: 1363, CONCAT , Operand: 3
+Offset: 1364, PUSHS , Operand: Members now have the Attack level required to wield 
+Offset: 1365, PUSHS , Operand: <col=000080>
+Offset: 1366, PUSHS , Operand: Dharok's greataxe
+Offset: 1367, PUSHS , Operand: </col>
+Offset: 1368, PUSHS , Operand: . (They also need level 70 Strength.)
+Offset: 1369, CONCAT , Operand: 5
+Offset: 1370, RETURN , Operand: 0
+Offset: 1371, GOTO , Operand: 35
+Offset: 1372, PUSHI , Operand: 70
+Offset: 1373, PUSHI , Operand: 4726
+Offset: 1374, PUSHS , Operand: Members: Guthan's spear
+Offset: 1375, PUSHS , Operand: Members can now wield 
+Offset: 1376, PUSHS , Operand: <col=000080>
+Offset: 1377, PUSHS , Operand: Guthan's spear
+Offset: 1378, PUSHS , Operand: </col>
+Offset: 1379, PUSHS , Operand: .
+Offset: 1380, CONCAT , Operand: 5
+Offset: 1381, RETURN , Operand: 0
+Offset: 1382, GOTO , Operand: 24
+Offset: 1383, PUSHI , Operand: 70
+Offset: 1384, PUSHI , Operand: 4747
+Offset: 1385, PUSHS , Operand: Members: Torag's hammers
+Offset: 1386, PUSHS , Operand: <br>
+Offset: 1387, PUSHS , Operand:  (with 70 Strength)
+Offset: 1388, CONCAT , Operand: 3
+Offset: 1389, PUSHS , Operand: Members now have the Attack level required to wield 
+Offset: 1390, PUSHS , Operand: <col=000080>
+Offset: 1391, PUSHS , Operand: Torag's hammers
+Offset: 1392, PUSHS , Operand: </col>
+Offset: 1393, PUSHS , Operand: . (They also need level 70 Strength.)
+Offset: 1394, CONCAT , Operand: 5
+Offset: 1395, RETURN , Operand: 0
+Offset: 1396, GOTO , Operand: 10
+Offset: 1397, PUSHI , Operand: 70
+Offset: 1398, PUSHI , Operand: 4755
+Offset: 1399, PUSHS , Operand: Members: Verac's flail
+Offset: 1400, PUSHS , Operand: Members can now wield 
+Offset: 1401, PUSHS , Operand: <col=000080>
+Offset: 1402, PUSHS , Operand: Verac's flail
+Offset: 1403, PUSHS , Operand: </col>
+Offset: 1404, PUSHS , Operand: .
+Offset: 1405, CONCAT , Operand: 5
+Offset: 1406, RETURN , Operand: 0
+Offset: 1407, GOTO , Operand: 2327
+Offset: 1408, LOADINT , Operand: 1
+Offset: 1409, SWITCH , Operand: 11
+Offset: 1410, GOTO , Operand: 1065
+Offset: 1411, PUSHI , Operand: 1
+Offset: 1412, PUSHI , Operand: 15596
+Offset: 1413, PUSHS , Operand: Reese's sword
+Offset: 1414, PUSHS , Operand: <br>
+Offset: 1415, PUSHS , Operand:  (after The Blood Pact)
+Offset: 1416, CONCAT , Operand: 3
+Offset: 1417, PUSHS , Operand: You can now wield 
+Offset: 1418, PUSHS , Operand: <col=000080>
+Offset: 1419, PUSHS , Operand: Reese's sword
+Offset: 1420, PUSHS , Operand: </col>
+Offset: 1421, PUSHS , Operand:  (after starting The Blood Pact).
+Offset: 1422, CONCAT , Operand: 5
+Offset: 1423, RETURN , Operand: 0
+Offset: 1424, GOTO , Operand: 1051
+Offset: 1425, PUSHI , Operand: 1
+Offset: 1426, PUSHI , Operand: 2402
+Offset: 1427, PUSHS , Operand: Silverlight
+Offset: 1428, PUSHS , Operand: <br>
+Offset: 1429, PUSHS , Operand:  (after Demon Slayer)
+Offset: 1430, CONCAT , Operand: 3
+Offset: 1431, PUSHS , Operand: You can now wield 
+Offset: 1432, PUSHS , Operand: <col=000080>
+Offset: 1433, PUSHS , Operand: Silverlight
+Offset: 1434, PUSHS , Operand: </col>
+Offset: 1435, PUSHS , Operand:  (after starting Demon Slayer).
+Offset: 1436, CONCAT , Operand: 5
+Offset: 1437, RETURN , Operand: 0
+Offset: 1438, GOTO , Operand: 1037
+Offset: 1439, PUSHI , Operand: 1
+Offset: 1440, PUSHI , Operand: 6746
+Offset: 1441, PUSHS , Operand: Members: Darklight
+Offset: 1442, PUSHS , Operand: <br>
+Offset: 1443, PUSHS , Operand:  (after Shadow of the Storm)
+Offset: 1444, CONCAT , Operand: 3
+Offset: 1445, PUSHS , Operand: Members can now wield 
+Offset: 1446, PUSHS , Operand: <col=000080>
+Offset: 1447, PUSHS , Operand: Darklight
+Offset: 1448, PUSHS , Operand: </col>
+Offset: 1449, PUSHS , Operand:  (after Shadow of the Storm).
+Offset: 1450, CONCAT , Operand: 5
+Offset: 1451, RETURN , Operand: 0
+Offset: 1452, GOTO , Operand: 1023
+Offset: 1453, PUSHI , Operand: 1
+Offset: 1454, PUSHI , Operand: 2952
+Offset: 1455, PUSHS , Operand: Members: Wolfbane Dagger
+Offset: 1456, PUSHS , Operand: <br>
+Offset: 1457, PUSHS , Operand:  (after Priest in Peril)
+Offset: 1458, CONCAT , Operand: 3
+Offset: 1459, PUSHS , Operand: Members can now wield the 
+Offset: 1460, PUSHS , Operand: <col=000080>
+Offset: 1461, PUSHS , Operand: Wolfbane Dagger
+Offset: 1462, PUSHS , Operand: </col>
+Offset: 1463, PUSHS , Operand:  (after Priest in Peril.
+Offset: 1464, CONCAT , Operand: 5
+Offset: 1465, RETURN , Operand: 0
+Offset: 1466, GOTO , Operand: 1009
+Offset: 1467, PUSHI , Operand: 1
+Offset: 1468, PUSHI , Operand: 746
+Offset: 1469, PUSHS , Operand: Members: Dark Dagger
+Offset: 1470, PUSHS , Operand: Members can now wield the 
+Offset: 1471, PUSHS , Operand: <col=000080>
+Offset: 1472, PUSHS , Operand: Dark Dagger
+Offset: 1473, PUSHS , Operand: </col>
+Offset: 1474, PUSHS , Operand: .
+Offset: 1475, CONCAT , Operand: 5
+Offset: 1476, RETURN , Operand: 0
+Offset: 1477, GOTO , Operand: 998
+Offset: 1478, PUSHI , Operand: 1
+Offset: 1479, PUSHI , Operand: 667
+Offset: 1480, PUSHS , Operand: Faladian/Blurite Sword
+Offset: 1481, PUSHS , Operand: <br>
+Offset: 1482, PUSHS , Operand:  (after starting The Knight's Sword)
+Offset: 1483, CONCAT , Operand: 3
+Offset: 1484, PUSHS , Operand: You can now wield the 
+Offset: 1485, PUSHS , Operand: <col=000080>
+Offset: 1486, PUSHS , Operand: Faladian/Blurite Sword
+Offset: 1487, PUSHS , Operand: </col>
+Offset: 1488, PUSHS , Operand:  (after starting The Knight's Sword).
+Offset: 1489, CONCAT , Operand: 5
+Offset: 1490, RETURN , Operand: 0
+Offset: 1491, GOTO , Operand: 984
+Offset: 1492, PUSHI , Operand: 1
+Offset: 1493, PUSHI , Operand: 10858
+Offset: 1494, PUSHS , Operand: Members: Shadow Sword
+Offset: 1495, PUSHS , Operand: Members can now wield the 
+Offset: 1496, PUSHS , Operand: <col=000080>
+Offset: 1497, PUSHS , Operand: Shadow Sword
+Offset: 1498, PUSHS , Operand: </col>
+Offset: 1499, PUSHS , Operand: .
+Offset: 1500, CONCAT , Operand: 5
+Offset: 1501, RETURN , Operand: 0
+Offset: 1502, GOTO , Operand: 973
+Offset: 1503, PUSHI , Operand: 1
+Offset: 1504, PUSHI , Operand: 5016
+Offset: 1505, PUSHS , Operand: Members: Bone spear
+Offset: 1506, PUSHS , Operand: Members can now wield 
+Offset: 1507, PUSHS , Operand: <col=000080>
+Offset: 1508, PUSHS , Operand: bone spears
+Offset: 1509, PUSHS , Operand: </col>
+Offset: 1510, PUSHS , Operand: .
+Offset: 1511, CONCAT , Operand: 5
+Offset: 1512, RETURN , Operand: 0
+Offset: 1513, GOTO , Operand: 962
+Offset: 1514, PUSHI , Operand: 1
+Offset: 1515, PUSHI , Operand: 5018
+Offset: 1516, PUSHS , Operand: Members: Bone club
+Offset: 1517, PUSHS , Operand: Members can now wield 
+Offset: 1518, PUSHS , Operand: <col=000080>
+Offset: 1519, PUSHS , Operand: bone clubs
+Offset: 1520, PUSHS , Operand: </col>
+Offset: 1521, PUSHS , Operand: .
+Offset: 1522, CONCAT , Operand: 5
+Offset: 1523, RETURN , Operand: 0
+Offset: 1524, GOTO , Operand: 951
+Offset: 1525, PUSHI , Operand: 1
+Offset: 1526, PUSHI , Operand: 8872
+Offset: 1527, PUSHS , Operand: Members: Bone dagger
+Offset: 1528, PUSHS , Operand: Members can now wield 
+Offset: 1529, PUSHS , Operand: <col=000080>
+Offset: 1530, PUSHS , Operand: bone daggers
+Offset: 1531, PUSHS , Operand: </col>
+Offset: 1532, PUSHS , Operand: .
+Offset: 1533, CONCAT , Operand: 5
+Offset: 1534, RETURN , Operand: 0
+Offset: 1535, GOTO , Operand: 940
+Offset: 1536, PUSHI , Operand: 1
+Offset: 1537, PUSHI , Operand: 6760
+Offset: 1538, PUSHS , Operand: Members: Guthix Mjolnir
+Offset: 1539, PUSHS , Operand: <br>
+Offset: 1540, PUSHS , Operand:  (after Making History)
+Offset: 1541, CONCAT , Operand: 3
+Offset: 1542, PUSHS , Operand: Members can now wield the 
+Offset: 1543, PUSHS , Operand: <col=000080>
+Offset: 1544, PUSHS , Operand: Guthix Mjolnir
+Offset: 1545, PUSHS , Operand: </col>
+Offset: 1546, PUSHS , Operand:  (after Making History).
+Offset: 1547, CONCAT , Operand: 5
+Offset: 1548, RETURN , Operand: 0
+Offset: 1549, GOTO , Operand: 926
+Offset: 1550, PUSHI , Operand: 1
+Offset: 1551, PUSHI , Operand: 6762
+Offset: 1552, PUSHS , Operand: Members: Saradomin Mjolnir
+Offset: 1553, PUSHS , Operand: <br>
+Offset: 1554, PUSHS , Operand:  (after Making History)
+Offset: 1555, CONCAT , Operand: 3
+Offset: 1556, PUSHS , Operand: Members can now wield the 
+Offset: 1557, PUSHS , Operand: <col=000080>
+Offset: 1558, PUSHS , Operand: Saradomin Mjolnir
+Offset: 1559, PUSHS , Operand: </col>
+Offset: 1560, PUSHS , Operand:  after completing Making History.
+Offset: 1561, CONCAT , Operand: 5
+Offset: 1562, RETURN , Operand: 0
+Offset: 1563, GOTO , Operand: 912
+Offset: 1564, PUSHI , Operand: 1
+Offset: 1565, PUSHI , Operand: 6764
+Offset: 1566, PUSHS , Operand: Members: Zamorak Mjolnir
+Offset: 1567, PUSHS , Operand: <br>
+Offset: 1568, PUSHS , Operand:  (after Making History)
+Offset: 1569, CONCAT , Operand: 3
+Offset: 1570, PUSHS , Operand: Members can now wield the 
+Offset: 1571, PUSHS , Operand: <col=000080>
+Offset: 1572, PUSHS , Operand: Zamorak Mjolnir
+Offset: 1573, PUSHS , Operand: </col>
+Offset: 1574, PUSHS , Operand:  (after Making History).
+Offset: 1575, CONCAT , Operand: 5
+Offset: 1576, RETURN , Operand: 0
+Offset: 1577, GOTO , Operand: 898
+Offset: 1578, PUSHI , Operand: 1
+Offset: 1579, PUSHI , Operand: 7668
+Offset: 1580, PUSHS , Operand: Members: Gadderhammer
+Offset: 1581, PUSHS , Operand: <br>
+Offset: 1582, PUSHS , Operand:  (after starting In Aid of the Myreque)
+Offset: 1583, CONCAT , Operand: 3
+Offset: 1584, PUSHS , Operand: Members can now wield the 
+Offset: 1585, PUSHS , Operand: <col=000080>
+Offset: 1586, PUSHS , Operand: Gadderhammer
+Offset: 1587, PUSHS , Operand: </col>
+Offset: 1588, PUSHS , Operand:  (after starting In Aid of the Myreque).
+Offset: 1589, CONCAT , Operand: 5
+Offset: 1590, RETURN , Operand: 0
+Offset: 1591, GOTO , Operand: 884
+Offset: 1592, PUSHI , Operand: 1
+Offset: 1593, PUSHI , Operand: 10491
+Offset: 1594, PUSHS , Operand: Members: Blessed Axe
+Offset: 1595, PUSHS , Operand: <br>
+Offset: 1596, PUSHS , Operand:  (after starting Animal Magnetism)
+Offset: 1597, CONCAT , Operand: 3
+Offset: 1598, PUSHS , Operand: Members can now wield the 
+Offset: 1599, PUSHS , Operand: <col=000080>
+Offset: 1600, PUSHS , Operand: Blessed Axe
+Offset: 1601, PUSHS , Operand: </col>
+Offset: 1602, PUSHS , Operand:  (after starting Animal Magnetism).
+Offset: 1603, CONCAT , Operand: 5
+Offset: 1604, RETURN , Operand: 0
+Offset: 1605, GOTO , Operand: 870
+Offset: 1606, PUSHI , Operand: 1
+Offset: 1607, PUSHI , Operand: 13661
+Offset: 1608, PUSHS , Operand: Members: Inferno Adze
+Offset: 1609, PUSHS , Operand: <br>
+Offset: 1610, PUSHS , Operand:  (after All Fired Up and with 92 Firemaking)
+Offset: 1611, CONCAT , Operand: 3
+Offset: 1612, PUSHS , Operand: Members can now wield the 
+Offset: 1613, PUSHS , Operand: <col=000080>
+Offset: 1614, PUSHS , Operand: Inferno Adze
+Offset: 1615, PUSHS , Operand: </col>
+Offset: 1616, PUSHS , Operand:  (after All Fired Up).
+Offset: 1617, CONCAT , Operand: 5
+Offset: 1618, RETURN , Operand: 0
+Offset: 1619, GOTO , Operand: 856
+Offset: 1620, PUSHI , Operand: 5
+Offset: 1621, PUSHI , Operand: 4068
+Offset: 1622, PUSHS , Operand: Members: Basic decorative sword
+Offset: 1623, PUSHS , Operand: Members can now wield 
+Offset: 1624, PUSHS , Operand: <col=000080>
+Offset: 1625, PUSHS , Operand: basic decorative swords
+Offset: 1626, PUSHS , Operand: </col>
+Offset: 1627, PUSHS , Operand: .
+Offset: 1628, CONCAT , Operand: 5
+Offset: 1629, RETURN , Operand: 0
+Offset: 1630, GOTO , Operand: 845
+Offset: 1631, PUSHI , Operand: 5
+Offset: 1632, PUSHI , Operand: 12570
+Offset: 1633, PUSHS , Operand: Members: Ogre club
+Offset: 1634, PUSHS , Operand: Members can now wield 
+Offset: 1635, PUSHS , Operand: <col=000080>
+Offset: 1636, PUSHS , Operand: ogre clubs
+Offset: 1637, PUSHS , Operand: </col>
+Offset: 1638, PUSHS , Operand: .
+Offset: 1639, CONCAT , Operand: 5
+Offset: 1640, RETURN , Operand: 0
+Offset: 1641, GOTO , Operand: 834
+Offset: 1642, PUSHI , Operand: 15
+Offset: 1643, PUSHI , Operand: 11061
+Offset: 1644, PUSHS , Operand: Members: Ancient Mace
+Offset: 1645, PUSHS , Operand: <br>
+Offset: 1646, PUSHS , Operand:  (after Another Slice of H.A.M. and with 25 Prayer)
+Offset: 1647, CONCAT , Operand: 3
+Offset: 1648, PUSHS , Operand: Members now have the Attack level required to wield the 
+Offset: 1649, PUSHS , Operand: <col=000080>
+Offset: 1650, PUSHS , Operand: Ancient Mace
+Offset: 1651, PUSHS , Operand: </col>
+Offset: 1652, PUSHS , Operand:  (after Another Slice of H.A.M. and with level 25 Prayer).
+Offset: 1653, CONCAT , Operand: 5
+Offset: 1654, RETURN , Operand: 0
+Offset: 1655, GOTO , Operand: 820
+Offset: 1656, PUSHI , Operand: 20
+Offset: 1657, PUSHI , Operand: 35
+Offset: 1658, PUSHS , Operand: Members: Excalibur
+Offset: 1659, PUSHS , Operand: <br>
+Offset: 1660, PUSHS , Operand:  (after starting Merlin's Crystal)
+Offset: 1661, CONCAT , Operand: 3
+Offset: 1662, PUSHS , Operand: Members can now wield 
+Offset: 1663, PUSHS , Operand: <col=000080>
+Offset: 1664, PUSHS , Operand: Excalibur
+Offset: 1665, PUSHS , Operand: </col>
+Offset: 1666, PUSHS , Operand:  (after starting Merlin's Crystal).
+Offset: 1667, CONCAT , Operand: 5
+Offset: 1668, RETURN , Operand: 0
+Offset: 1669, GOTO , Operand: 806
+Offset: 1670, PUSHI , Operand: 20
+Offset: 1671, PUSHI , Operand: 4503
+Offset: 1672, PUSHS , Operand: Members: Detailed decorative sword
+Offset: 1673, PUSHS , Operand: Members can now wield 
+Offset: 1674, PUSHS , Operand: <col=000080>
+Offset: 1675, PUSHS , Operand: detailed decorative swords
+Offset: 1676, PUSHS , Operand: </col>
+Offset: 1677, PUSHS , Operand: .
+Offset: 1678, CONCAT , Operand: 5
+Offset: 1679, RETURN , Operand: 0
+Offset: 1680, GOTO , Operand: 795
+Offset: 1681, PUSHI , Operand: 20
+Offset: 1682, PUSHI , Operand: 13926
+Offset: 1683, PUSHS , Operand: Members: Corrupt Statius's warhammer
+Offset: 1684, PUSHS , Operand: Members now have the Attack level required to wield 
+Offset: 1685, PUSHS , Operand: <col=000080>
+Offset: 1686, PUSHS , Operand: corrupt Statius's warhammer
+Offset: 1687, PUSHS , Operand: </col>
+Offset: 1688, PUSHS , Operand: .
+Offset: 1689, CONCAT , Operand: 5
+Offset: 1690, RETURN , Operand: 0
+Offset: 1691, GOTO , Operand: 784
+Offset: 1692, PUSHI , Operand: 20
+Offset: 1693, PUSHI , Operand: 13923
+Offset: 1694, PUSHS , Operand: Members: Corrupt Vesta's longsword
+Offset: 1695, PUSHS , Operand: Members now have the Attack level required to wield 
+Offset: 1696, PUSHS , Operand: <col=000080>
+Offset: 1697, PUSHS , Operand: corrupt Vesta's longsword
+Offset: 1698, PUSHS , Operand: </col>
+Offset: 1699, PUSHS , Operand: .
+Offset: 1700, CONCAT , Operand: 5
+Offset: 1701, RETURN , Operand: 0
+Offset: 1702, GOTO , Operand: 773
+Offset: 1703, PUSHI , Operand: 20
+Offset: 1704, PUSHI , Operand: 13929
+Offset: 1705, PUSHS , Operand: Members: Corrupt Vesta's spear
+Offset: 1706, PUSHS , Operand: Members now have the Attack level required to wield 
+Offset: 1707, PUSHS , Operand: <col=000080>
+Offset: 1708, PUSHS , Operand: corrupt Vesta's spear
+Offset: 1709, PUSHS , Operand: </col>
+Offset: 1710, PUSHS , Operand: .
+Offset: 1711, CONCAT , Operand: 5
+Offset: 1712, RETURN , Operand: 0
+Offset: 1713, GOTO , Operand: 762
+Offset: 1714, PUSHI , Operand: 20
+Offset: 1715, PUSHI , Operand: 13941
+Offset: 1716, PUSHS , Operand: Members: Corrupt Zuriel's staff
+Offset: 1717, PUSHS , Operand: <br>
+Offset: 1718, PUSHS , Operand:  (with 20 Magic)
+Offset: 1719, CONCAT , Operand: 3
+Offset: 1720, PUSHS , Operand: Members now have the Attack level required to wield 
+Offset: 1721, PUSHS , Operand: <col=000080>
+Offset: 1722, PUSHS , Operand: corrupt Zuriel's staff
+Offset: 1723, PUSHS , Operand: </col>
+Offset: 1724, PUSHS , Operand:  (with level 20 Magic).
+Offset: 1725, CONCAT , Operand: 5
+Offset: 1726, RETURN , Operand: 0
+Offset: 1727, GOTO , Operand: 748
+Offset: 1728, PUSHI , Operand: 30
+Offset: 1729, PUSHI , Operand: 1397
+Offset: 1730, PUSHS , Operand: Members: Air battlestaff
+Offset: 1731, PUSHS , Operand: <br>
+Offset: 1732, PUSHS , Operand:  (with 30 Magic)
+Offset: 1733, CONCAT , Operand: 3
+Offset: 1734, PUSHS , Operand: Members now have the Attack level required to wield 
+Offset: 1735, PUSHS , Operand: <col=000080>
+Offset: 1736, PUSHS , Operand: air battlestaves
+Offset: 1737, PUSHS , Operand: </col>
+Offset: 1738, PUSHS , Operand: . (They also need level 30 Magic.)
+Offset: 1739, CONCAT , Operand: 5
+Offset: 1740, RETURN , Operand: 0
+Offset: 1741, GOTO , Operand: 734
+Offset: 1742, PUSHI , Operand: 30
+Offset: 1743, PUSHI , Operand: 1399
+Offset: 1744, PUSHS , Operand: Members: Earth battlestaff
+Offset: 1745, PUSHS , Operand: <br>
+Offset: 1746, PUSHS , Operand:  (with 30 Magic)
+Offset: 1747, CONCAT , Operand: 3
+Offset: 1748, PUSHS , Operand: Members now have the Attack level required to wield 
+Offset: 1749, PUSHS , Operand: <col=000080>
+Offset: 1750, PUSHS , Operand: earth battlestaves
+Offset: 1751, PUSHS , Operand: </col>
+Offset: 1752, PUSHS , Operand: . (They also need level 30 Magic.)
+Offset: 1753, CONCAT , Operand: 5
+Offset: 1754, RETURN , Operand: 0
+Offset: 1755, GOTO , Operand: 720
+Offset: 1756, PUSHI , Operand: 30
+Offset: 1757, PUSHI , Operand: 1393
+Offset: 1758, PUSHS , Operand: Members: Fire battlestaff
+Offset: 1759, PUSHS , Operand: <br>
+Offset: 1760, PUSHS , Operand:  (with 30 Magic)
+Offset: 1761, CONCAT , Operand: 3
+Offset: 1762, PUSHS , Operand: Members now have the Attack level required to wield 
+Offset: 1763, PUSHS , Operand: <col=000080>
+Offset: 1764, PUSHS , Operand: fire battlestaves
+Offset: 1765, PUSHS , Operand: </col>
+Offset: 1766, PUSHS , Operand: . (They also need level 30 Magic.)
+Offset: 1767, CONCAT , Operand: 5
+Offset: 1768, RETURN , Operand: 0
+Offset: 1769, GOTO , Operand: 706
+Offset: 1770, PUSHI , Operand: 30
+Offset: 1771, PUSHI , Operand: 1395
+Offset: 1772, PUSHS , Operand: Members: Water battlestaff
+Offset: 1773, PUSHS , Operand: <br>
+Offset: 1774, PUSHS , Operand:  (with 30 Magic)
+Offset: 1775, CONCAT , Operand: 3
+Offset: 1776, PUSHS , Operand: Members now have the Attack level required to wield 
+Offset: 1777, PUSHS , Operand: <col=000080>
+Offset: 1778, PUSHS , Operand: water battlestaves
+Offset: 1779, PUSHS , Operand: </col>
+Offset: 1780, PUSHS , Operand: . (They also need level 30 Magic.)
+Offset: 1781, CONCAT , Operand: 5
+Offset: 1782, RETURN , Operand: 0
+Offset: 1783, GOTO , Operand: 692
+Offset: 1784, PUSHI , Operand: 30
+Offset: 1785, PUSHI , Operand: 3053
+Offset: 1786, PUSHS , Operand: Members: Lava battlestaff
+Offset: 1787, PUSHS , Operand: <br>
+Offset: 1788, PUSHS , Operand:  (with 30 Magic)
+Offset: 1789, CONCAT , Operand: 3
+Offset: 1790, PUSHS , Operand: Members now have the Attack level required to wield 
+Offset: 1791, PUSHS , Operand: <col=000080>
+Offset: 1792, PUSHS , Operand: lava battlestaves
+Offset: 1793, PUSHS , Operand: </col>
+Offset: 1794, PUSHS , Operand: . (They also need level 30 Magic.)
+Offset: 1795, CONCAT , Operand: 5
+Offset: 1796, RETURN , Operand: 0
+Offset: 1797, GOTO , Operand: 678
+Offset: 1798, PUSHI , Operand: 30
+Offset: 1799, PUSHI , Operand: 6562
+Offset: 1800, PUSHS , Operand: Members: Mud battlestaff
+Offset: 1801, PUSHS , Operand: <br>
+Offset: 1802, PUSHS , Operand:  (with 30 Magic)
+Offset: 1803, CONCAT , Operand: 3
+Offset: 1804, PUSHS , Operand: Members now have the Attack level required to wield 
+Offset: 1805, PUSHS , Operand: <col=000080>
+Offset: 1806, PUSHS , Operand: mud battlestaves
+Offset: 1807, PUSHS , Operand: </col>
+Offset: 1808, PUSHS , Operand: . (They also need level 30 Magic.)
+Offset: 1809, CONCAT , Operand: 5
+Offset: 1810, RETURN , Operand: 0
+Offset: 1811, GOTO , Operand: 664
+Offset: 1812, PUSHI , Operand: 30
+Offset: 1813, PUSHI , Operand: 4508
+Offset: 1814, PUSHS , Operand: Members: Intricate decorative sword
+Offset: 1815, PUSHS , Operand: Members can now wield 
+Offset: 1816, PUSHS , Operand: <col=000080>
+Offset: 1817, PUSHS , Operand: intricate decorative swords
+Offset: 1818, PUSHS , Operand: </col>
+Offset: 1819, PUSHS , Operand: .
+Offset: 1820, CONCAT , Operand: 5
+Offset: 1821, RETURN , Operand: 0
+Offset: 1822, GOTO , Operand: 653
+Offset: 1823, PUSHI , Operand: 30
+Offset: 1824, PUSHI , Operand: 3757
+Offset: 1825, PUSHS , Operand: Members: Fremennik blade
+Offset: 1826, PUSHS , Operand: Members can now wield 
+Offset: 1827, PUSHS , Operand: <col=000080>
+Offset: 1828, PUSHS , Operand: Fremennik blades
+Offset: 1829, PUSHS , Operand: </col>
+Offset: 1830, PUSHS , Operand: .
+Offset: 1831, CONCAT , Operand: 5
+Offset: 1832, RETURN , Operand: 0
+Offset: 1833, GOTO , Operand: 642
+Offset: 1834, PUSHI , Operand: 40
+Offset: 1835, PUSHI , Operand: 18341
+Offset: 1836, PUSHS , Operand: Nature staff
+Offset: 1837, PUSHS , Operand: <br>
+Offset: 1838, PUSHS , Operand:  (with 53 Magic and 53 Dungeoneering)
+Offset: 1839, CONCAT , Operand: 3
+Offset: 1840, PUSHS , Operand: You can now use 
+Offset: 1841, PUSHS , Operand: <col=000080>
+Offset: 1842, PUSHS , Operand: nature staves
+Offset: 1843, PUSHS , Operand: </col>
+Offset: 1844, PUSHS , Operand: . (You also need level 53 Magic and level 53 Dungeoneering.)
+Offset: 1845, CONCAT , Operand: 5
+Offset: 1846, RETURN , Operand: 0
+Offset: 1847, GOTO , Operand: 628
+Offset: 1848, PUSHI , Operand: 40
+Offset: 1849, PUSHI , Operand: 18342
+Offset: 1850, PUSHS , Operand: Law staff
+Offset: 1851, PUSHS , Operand: <br>
+Offset: 1852, PUSHS , Operand:  (with 45 Magic and 45 Dungeoneering)
+Offset: 1853, CONCAT , Operand: 3
+Offset: 1854, PUSHS , Operand: You can now use 
+Offset: 1855, PUSHS , Operand: <col=000080>
+Offset: 1856, PUSHS , Operand: law staves
+Offset: 1857, PUSHS , Operand: </col>
+Offset: 1858, PUSHS , Operand: . (You also need level 45 Magic and level 45 Dungeoneering.)
+Offset: 1859, CONCAT , Operand: 5
+Offset: 1860, RETURN , Operand: 0
+Offset: 1861, GOTO , Operand: 614
+Offset: 1862, PUSHI , Operand: 40
+Offset: 1863, PUSHI , Operand: 1405
+Offset: 1864, PUSHS , Operand: Members: Mystic air staff
+Offset: 1865, PUSHS , Operand: <br>
+Offset: 1866, PUSHS , Operand:  (with 40 Magic)
+Offset: 1867, CONCAT , Operand: 3
+Offset: 1868, PUSHS , Operand: Members now have the Attack level required to wield 
+Offset: 1869, PUSHS , Operand: <col=000080>
+Offset: 1870, PUSHS , Operand: mystic air staves
+Offset: 1871, PUSHS , Operand: </col>
+Offset: 1872, PUSHS , Operand: . (They also need level 40 Magic.)
+Offset: 1873, CONCAT , Operand: 5
+Offset: 1874, RETURN , Operand: 0
+Offset: 1875, GOTO , Operand: 600
+Offset: 1876, PUSHI , Operand: 40
+Offset: 1877, PUSHI , Operand: 1407
+Offset: 1878, PUSHS , Operand: Members: Mystic earth staff
+Offset: 1879, PUSHS , Operand: <br>
+Offset: 1880, PUSHS , Operand:  (with 40 Magic)
+Offset: 1881, CONCAT , Operand: 3
+Offset: 1882, PUSHS , Operand: Members now have the Attack level required to wield 
+Offset: 1883, PUSHS , Operand: <col=000080>
+Offset: 1884, PUSHS , Operand: mystic earth staves
+Offset: 1885, PUSHS , Operand: </col>
+Offset: 1886, PUSHS , Operand: . (They also need level 40 Magic.)
+Offset: 1887, CONCAT , Operand: 5
+Offset: 1888, RETURN , Operand: 0
+Offset: 1889, GOTO , Operand: 586
+Offset: 1890, PUSHI , Operand: 40
+Offset: 1891, PUSHI , Operand: 1401
+Offset: 1892, PUSHS , Operand: Members: Mystic fire staff
+Offset: 1893, PUSHS , Operand: <br>
+Offset: 1894, PUSHS , Operand:  (with 40 Magic)
+Offset: 1895, CONCAT , Operand: 3
+Offset: 1896, PUSHS , Operand: Members now have the Attack level required to wield 
+Offset: 1897, PUSHS , Operand: <col=000080>
+Offset: 1898, PUSHS , Operand: mystic fire staves
+Offset: 1899, PUSHS , Operand: </col>
+Offset: 1900, PUSHS , Operand: . (They also need level 40 Magic.)
+Offset: 1901, CONCAT , Operand: 5
+Offset: 1902, RETURN , Operand: 0
+Offset: 1903, GOTO , Operand: 572
+Offset: 1904, PUSHI , Operand: 40
+Offset: 1905, PUSHI , Operand: 1403
+Offset: 1906, PUSHS , Operand: Members: Mystic water staff
+Offset: 1907, PUSHS , Operand: <br>
+Offset: 1908, PUSHS , Operand:  (with 40 Magic)
+Offset: 1909, CONCAT , Operand: 3
+Offset: 1910, PUSHS , Operand: Members now have the Attack level required to wield 
+Offset: 1911, PUSHS , Operand: <col=000080>
+Offset: 1912, PUSHS , Operand: mystic water staves
+Offset: 1913, PUSHS , Operand: </col>
+Offset: 1914, PUSHS , Operand: . (They also need level 40 Magic.)
+Offset: 1915, CONCAT , Operand: 5
+Offset: 1916, RETURN , Operand: 0
+Offset: 1917, GOTO , Operand: 558
+Offset: 1918, PUSHI , Operand: 40
+Offset: 1919, PUSHI , Operand: 3054
+Offset: 1920, PUSHS , Operand: Members: Mystic lava staff
+Offset: 1921, PUSHS , Operand: <br>
+Offset: 1922, PUSHS , Operand:  (with 40 Magic)
+Offset: 1923, CONCAT , Operand: 3
+Offset: 1924, PUSHS , Operand: Members now have the Attack level required to wield 
+Offset: 1925, PUSHS , Operand: <col=000080>
+Offset: 1926, PUSHS , Operand: mystic lava staves
+Offset: 1927, PUSHS , Operand: </col>
+Offset: 1928, PUSHS , Operand: . (They also need level 40 Magic.)
+Offset: 1929, CONCAT , Operand: 5
+Offset: 1930, RETURN , Operand: 0
+Offset: 1931, GOTO , Operand: 544
+Offset: 1932, PUSHI , Operand: 40
+Offset: 1933, PUSHI , Operand: 6563
+Offset: 1934, PUSHS , Operand: Members: Mystic mud staff
+Offset: 1935, PUSHS , Operand: <br>
+Offset: 1936, PUSHS , Operand:  (with 40 Magic)
+Offset: 1937, CONCAT , Operand: 3
+Offset: 1938, PUSHS , Operand: Members now have the Attack level required to wield 
+Offset: 1939, PUSHS , Operand: <col=000080>
+Offset: 1940, PUSHS , Operand: mystic mud staves
+Offset: 1941, PUSHS , Operand: </col>
+Offset: 1942, PUSHS , Operand: . (They also need level 40 Magic.)
+Offset: 1943, CONCAT , Operand: 5
+Offset: 1944, RETURN , Operand: 0
+Offset: 1945, GOTO , Operand: 530
+Offset: 1946, PUSHI , Operand: 40
+Offset: 1947, PUSHI , Operand: 11738
+Offset: 1948, PUSHS , Operand: Members: Mystic steam staff
+Offset: 1949, PUSHS , Operand: <br>
+Offset: 1950, PUSHS , Operand:  (with 40 Magic)
+Offset: 1951, CONCAT , Operand: 3
+Offset: 1952, PUSHS , Operand: Members now have the Attack level required to wield 
+Offset: 1953, PUSHS , Operand: <col=000080>
+Offset: 1954, PUSHS , Operand: mystic steam staves
+Offset: 1955, PUSHS , Operand: </col>
+Offset: 1956, PUSHS , Operand: . (They also need level 40 Magic.)
+Offset: 1957, CONCAT , Operand: 5
+Offset: 1958, RETURN , Operand: 0
+Offset: 1959, GOTO , Operand: 516
+Offset: 1960, PUSHI , Operand: 40
+Offset: 1961, PUSHI , Operand: 11037
+Offset: 1962, PUSHS , Operand: Members: Brine sabre
+Offset: 1963, PUSHS , Operand: Members can now wield 
+Offset: 1964, PUSHS , Operand: <col=000080>
+Offset: 1965, PUSHS , Operand: brine sabres
+Offset: 1966, PUSHS , Operand: </col>
+Offset: 1967, PUSHS , Operand: .
+Offset: 1968, CONCAT , Operand: 5
+Offset: 1969, RETURN , Operand: 0
+Offset: 1970, GOTO , Operand: 505
+Offset: 1971, PUSHI , Operand: 40
+Offset: 1972, PUSHI , Operand: 14097
+Offset: 1973, PUSHS , Operand: Members: Sacred clay sword
+Offset: 1974, PUSHS , Operand: Members can now wield 
+Offset: 1975, PUSHS , Operand: <col=000080>
+Offset: 1976, PUSHS , Operand: sacred clay swords
+Offset: 1977, PUSHS , Operand: </col>
+Offset: 1978, PUSHS , Operand: .
+Offset: 1979, CONCAT , Operand: 5
+Offset: 1980, RETURN , Operand: 0
+Offset: 1981, GOTO , Operand: 494
+Offset: 1982, PUSHI , Operand: 40
+Offset: 1983, PUSHI , Operand: 4508
+Offset: 1984, PUSHS , Operand: Members: Profound decorative sword
+Offset: 1985, PUSHS , Operand: Members can now wield 
+Offset: 1986, PUSHS , Operand: <col=000080>
+Offset: 1987, PUSHS , Operand: profound decorative swords
+Offset: 1988, PUSHS , Operand: </col>
+Offset: 1989, PUSHS , Operand: .
+Offset: 1990, CONCAT , Operand: 5
+Offset: 1991, RETURN , Operand: 0
+Offset: 1992, GOTO , Operand: 483
+Offset: 1993, PUSHI , Operand: 40
+Offset: 1994, PUSHI , Operand: 19323
+Offset: 1995, PUSHS , Operand: Members: Dragon staff
+Offset: 1996, PUSHS , Operand: <br>
+Offset: 1997, PUSHS , Operand:  (with 40 Magic, 60 Prayer and 20 Defence)
+Offset: 1998, CONCAT , Operand: 3
+Offset: 1999, PUSHS , Operand: Members now have the Attack level required to wield 
+Offset: 2000, PUSHS , Operand: <col=000080>
+Offset: 2001, PUSHS , Operand: dragon staves
+Offset: 2002, PUSHS , Operand: </col>
+Offset: 2003, PUSHS , Operand: . (They also need level 40 Magic, level 60 Prayer and level 20 Defence.)
+Offset: 2004, CONCAT , Operand: 5
+Offset: 2005, RETURN , Operand: 0
+Offset: 2006, GOTO , Operand: 469
+Offset: 2007, PUSHI , Operand: 40
+Offset: 2008, PUSHI , Operand: 19325
+Offset: 2009, PUSHS , Operand: Members: Penguin staff
+Offset: 2010, PUSHS , Operand: <br>
+Offset: 2011, PUSHS , Operand:  (with 40 Magic, 60 Prayer and 20 Defence)
+Offset: 2012, CONCAT , Operand: 3
+Offset: 2013, PUSHS , Operand: Members now have the Attack level required to wield 
+Offset: 2014, PUSHS , Operand: <col=000080>
+Offset: 2015, PUSHS , Operand: penguin staves
+Offset: 2016, PUSHS , Operand: </col>
+Offset: 2017, PUSHS , Operand: . (They also need level 40 Magic, level 60 Prayer and level 20 Defence.)
+Offset: 2018, CONCAT , Operand: 5
+Offset: 2019, RETURN , Operand: 0
+Offset: 2020, GOTO , Operand: 455
+Offset: 2021, PUSHI , Operand: 40
+Offset: 2022, PUSHI , Operand: 19327
+Offset: 2023, PUSHS , Operand: Members: Bat staff
+Offset: 2024, PUSHS , Operand: <br>
+Offset: 2025, PUSHS , Operand:  (with 40 Magic, 60 Prayer and 20 Defence)
+Offset: 2026, CONCAT , Operand: 3
+Offset: 2027, PUSHS , Operand: Members now have the Attack level required to wield 
+Offset: 2028, PUSHS , Operand: <col=000080>
+Offset: 2029, PUSHS , Operand: bat staves
+Offset: 2030, PUSHS , Operand: </col>
+Offset: 2031, PUSHS , Operand: . (They also need level 40 Magic, level 60 Prayer and level 20 Defence.)
+Offset: 2032, CONCAT , Operand: 5
+Offset: 2033, RETURN , Operand: 0
+Offset: 2034, GOTO , Operand: 441
+Offset: 2035, PUSHI , Operand: 40
+Offset: 2036, PUSHI , Operand: 19329
+Offset: 2037, PUSHS , Operand: Members: Wolf staff
+Offset: 2038, PUSHS , Operand: <br>
+Offset: 2039, PUSHS , Operand:  (with 40 Magic, 60 Prayer and 20 Defence)
+Offset: 2040, CONCAT , Operand: 3
+Offset: 2041, PUSHS , Operand: Members now have the Attack level required to wield 
+Offset: 2042, PUSHS , Operand: <col=000080>
+Offset: 2043, PUSHS , Operand: wolf staves
+Offset: 2044, PUSHS , Operand: </col>
+Offset: 2045, PUSHS , Operand: . (They also need level 40 Magic, level 60 Prayer and level 20 Defence.)
+Offset: 2046, CONCAT , Operand: 5
+Offset: 2047, RETURN , Operand: 0
+Offset: 2048, GOTO , Operand: 427
+Offset: 2049, PUSHI , Operand: 40
+Offset: 2050, PUSHI , Operand: 19331
+Offset: 2051, PUSHS , Operand: Members: Cat staff
+Offset: 2052, PUSHS , Operand: <br>
+Offset: 2053, PUSHS , Operand:  (with 40 Magic, 60 Prayer and 20 Defence)
+Offset: 2054, CONCAT , Operand: 3
+Offset: 2055, PUSHS , Operand: Members now have the Attack level required to wield 
+Offset: 2056, PUSHS , Operand: <col=000080>
+Offset: 2057, PUSHS , Operand: cat staves
+Offset: 2058, PUSHS , Operand: </col>
+Offset: 2059, PUSHS , Operand: . (They also need level 40 Magic, level 60 Prayer and level 20 Defence.)
+Offset: 2060, CONCAT , Operand: 5
+Offset: 2061, RETURN , Operand: 0
+Offset: 2062, GOTO , Operand: 413
+Offset: 2063, PUSHI , Operand: 45
+Offset: 2064, PUSHI , Operand: 18365
+Offset: 2065, PUSHS , Operand: Gravite rapier
+Offset: 2066, PUSHS , Operand: <br>
+Offset: 2067, PUSHS , Operand:  (with 45 Dungeoneering)
+Offset: 2068, CONCAT , Operand: 3
+Offset: 2069, PUSHS , Operand: You can now wield 
+Offset: 2070, PUSHS , Operand: <col=000080>
+Offset: 2071, PUSHS , Operand: gravite rapiers
+Offset: 2072, PUSHS , Operand: </col>
+Offset: 2073, PUSHS , Operand: . (You also need level 45 Dungeoneering.)
+Offset: 2074, CONCAT , Operand: 5
+Offset: 2075, RETURN , Operand: 0
+Offset: 2076, GOTO , Operand: 399
+Offset: 2077, PUSHI , Operand: 45
+Offset: 2078, PUSHI , Operand: 18367
+Offset: 2079, PUSHS , Operand: Gravite longsword
+Offset: 2080, PUSHS , Operand: <br>
+Offset: 2081, PUSHS , Operand:  (with 45 Dungeoneering)
+Offset: 2082, CONCAT , Operand: 3
+Offset: 2083, PUSHS , Operand: You can now wield 
+Offset: 2084, PUSHS , Operand: <col=000080>
+Offset: 2085, PUSHS , Operand: gravite longswords
+Offset: 2086, PUSHS , Operand: </col>
+Offset: 2087, PUSHS , Operand: . (You also need level 45 Dungeoneering.)
+Offset: 2088, CONCAT , Operand: 5
+Offset: 2089, RETURN , Operand: 0
+Offset: 2090, GOTO , Operand: 385
+Offset: 2091, PUSHI , Operand: 45
+Offset: 2092, PUSHI , Operand: 18369
+Offset: 2093, PUSHS , Operand: Gravite two-handed sword
+Offset: 2094, PUSHS , Operand: <br>
+Offset: 2095, PUSHS , Operand:  (with 45 Dungeoneering)
+Offset: 2096, CONCAT , Operand: 3
+Offset: 2097, PUSHS , Operand: You can now wield 
+Offset: 2098, PUSHS , Operand: <col=000080>
+Offset: 2099, PUSHS , Operand: gravite two-handed swords
+Offset: 2100, PUSHS , Operand: </col>
+Offset: 2101, PUSHS , Operand: . (You also need level 45 Dungeoneering.)
+Offset: 2102, CONCAT , Operand: 5
+Offset: 2103, RETURN , Operand: 0
+Offset: 2104, GOTO , Operand: 371
+Offset: 2105, PUSHI , Operand: 50
+Offset: 2106, PUSHI , Operand: 4158
+Offset: 2107, PUSHS , Operand: Members: Leaf-bladed spear
+Offset: 2108, PUSHS , Operand: <br>
+Offset: 2109, PUSHS , Operand:  (with 55 Slayer)
+Offset: 2110, CONCAT , Operand: 3
+Offset: 2111, PUSHS , Operand: Members now have the Attack level required to wield 
+Offset: 2112, PUSHS , Operand: <col=000080>
+Offset: 2113, PUSHS , Operand: leaf-bladed spears
+Offset: 2114, PUSHS , Operand: </col>
+Offset: 2115, PUSHS , Operand: : melee weapons used for killing turoth and kurask. (They also need level 55 Slayer.)
+Offset: 2116, CONCAT , Operand: 5
+Offset: 2117, RETURN , Operand: 0
+Offset: 2118, GOTO , Operand: 357
+Offset: 2119, PUSHI , Operand: 50
+Offset: 2120, PUSHI , Operand: 4675
+Offset: 2121, PUSHS , Operand: Members: Ancient Staff
+Offset: 2122, PUSHS , Operand: <br>
+Offset: 2123, PUSHS , Operand:  (after Desert Treasure and with 50 Magic)
+Offset: 2124, CONCAT , Operand: 3
+Offset: 2125, PUSHS , Operand: Members now have the Attack level required to wield the 
+Offset: 2126, PUSHS , Operand: <col=000080>
+Offset: 2127, PUSHS , Operand: Ancient Staff
+Offset: 2128, PUSHS , Operand: </col>
+Offset: 2129, PUSHS , Operand:  (after Desert Treasure and with level 50 Magic).
+Offset: 2130, CONCAT , Operand: 5
+Offset: 2131, RETURN , Operand: 0
+Offset: 2132, GOTO , Operand: 343
+Offset: 2133, PUSHI , Operand: 50
+Offset: 2134, PUSHI , Operand: 1409
+Offset: 2135, PUSHS , Operand: Members: Iban's Staff
+Offset: 2136, PUSHS , Operand: <br>
+Offset: 2137, PUSHS , Operand:  (after Underground Pass and with 50 Magic)
+Offset: 2138, CONCAT , Operand: 3
+Offset: 2139, PUSHS , Operand: Members now have the Attack level required to wield 
+Offset: 2140, PUSHS , Operand: <col=000080>
+Offset: 2141, PUSHS , Operand: Iban's Staff
+Offset: 2142, PUSHS , Operand: </col>
+Offset: 2143, PUSHS , Operand:  (after Underground Pass and with level 50 Magic).
+Offset: 2144, CONCAT , Operand: 5
+Offset: 2145, RETURN , Operand: 0
+Offset: 2146, GOTO , Operand: 329
+Offset: 2147, PUSHI , Operand: 50
+Offset: 2148, PUSHI , Operand: 4153
+Offset: 2149, PUSHS , Operand: Members: Granite maul
+Offset: 2150, PUSHS , Operand: <br>
+Offset: 2151, PUSHS , Operand:  (with 50 Strength)
+Offset: 2152, CONCAT , Operand: 3
+Offset: 2153, PUSHS , Operand: Members can now wield 
+Offset: 2154, PUSHS , Operand: <col=000080>
+Offset: 2155, PUSHS , Operand: granite mauls
+Offset: 2156, PUSHS , Operand: </col>
+Offset: 2157, PUSHS , Operand: . (They also need level 50 Strength.)
+Offset: 2158, CONCAT , Operand: 5
+Offset: 2159, RETURN , Operand: 0
+Offset: 2160, GOTO , Operand: 315
+Offset: 2161, PUSHI , Operand: 50
+Offset: 2162, PUSHI , Operand: 14679
+Offset: 2163, PUSHS , Operand: Members: Granite mace
+Offset: 2164, PUSHS , Operand: <br>
+Offset: 2165, PUSHS , Operand:  (with 50 Strength)
+Offset: 2166, CONCAT , Operand: 3
+Offset: 2167, PUSHS , Operand: Members can now wield 
+Offset: 2168, PUSHS , Operand: <col=000080>
+Offset: 2169, PUSHS , Operand: granite maces
+Offset: 2170, PUSHS , Operand: </col>
+Offset: 2171, PUSHS , Operand: . (They also need level 50 Strength.)
+Offset: 2172, CONCAT , Operand: 5
+Offset: 2173, RETURN , Operand: 0
+Offset: 2174, GOTO , Operand: 301
+Offset: 2175, PUSHI , Operand: 50
+Offset: 2176, PUSHI , Operand: 10581
+Offset: 2177, PUSHS , Operand: Members: Keris
+Offset: 2178, PUSHS , Operand: <br>
+Offset: 2179, PUSHS , Operand:  (after Contact!)
+Offset: 2180, CONCAT , Operand: 3
+Offset: 2181, PUSHS , Operand: Members can now wield 
+Offset: 2182, PUSHS , Operand: <col=000080>
+Offset: 2183, PUSHS , Operand: Keris
+Offset: 2184, PUSHS , Operand: </col>
+Offset: 2185, PUSHS , Operand:  (after Contact!).
+Offset: 2186, CONCAT , Operand: 5
+Offset: 2187, RETURN , Operand: 0
+Offset: 2188, GOTO , Operand: 287
+Offset: 2189, PUSHI , Operand: 50
+Offset: 2190, PUSHI , Operand: 13290
+Offset: 2191, PUSHS , Operand: Members: Leaf-bladed swords
+Offset: 2192, PUSHS , Operand: <br>
+Offset: 2193, PUSHS , Operand:  (with 55 Slayer)
+Offset: 2194, CONCAT , Operand: 3
+Offset: 2195, PUSHS , Operand: Members can now wield 
+Offset: 2196, PUSHS , Operand: <col=000080>
+Offset: 2197, PUSHS , Operand: leaf-bladed swords
+Offset: 2198, PUSHS , Operand: </col>
+Offset: 2199, PUSHS , Operand: . (They also need level 55 Slayer).
+Offset: 2200, CONCAT , Operand: 5
+Offset: 2201, RETURN , Operand: 0
+Offset: 2202, GOTO , Operand: 273
+Offset: 2203, PUSHI , Operand: 60
+Offset: 2204, PUSHI , Operand: 10887
+Offset: 2205, PUSHS , Operand: Members: Barrelchest Anchor
+Offset: 2206, PUSHS , Operand: <br>
+Offset: 2207, PUSHS , Operand:  (after Great Brain Robbery and with 40 Strength)
+Offset: 2208, CONCAT , Operand: 3
+Offset: 2209, PUSHS , Operand: Members now have the Attack level required to wield the 
+Offset: 2210, PUSHS , Operand: <col=000080>
+Offset: 2211, PUSHS , Operand: Barrelchest Anchor
+Offset: 2212, PUSHS , Operand: </col>
+Offset: 2213, PUSHS , Operand:  (after Great Brain Robbery, with level 40 Strength).
+Offset: 2214, CONCAT , Operand: 5
+Offset: 2215, RETURN , Operand: 0
+Offset: 2216, GOTO , Operand: 259
+Offset: 2217, PUSHI , Operand: 60
+Offset: 2218, PUSHI , Operand: 6523
+Offset: 2219, PUSHS , Operand: Members: TokTz-Xil-Ak
+Offset: 2220, PUSHS , Operand: Members can now wield 
+Offset: 2221, PUSHS , Operand: <col=000080>
+Offset: 2222, PUSHS , Operand: TokTz-Xil-Ak
+Offset: 2223, PUSHS , Operand: </col>
+Offset: 2224, PUSHS , Operand: .
+Offset: 2225, CONCAT , Operand: 5
+Offset: 2226, RETURN , Operand: 0
+Offset: 2227, GOTO , Operand: 248
+Offset: 2228, PUSHI , Operand: 60
+Offset: 2229, PUSHI , Operand: 6527
+Offset: 2230, PUSHS , Operand: Members: TzHaar-Ket-Em
+Offset: 2231, PUSHS , Operand: Members can now wield 
+Offset: 2232, PUSHS , Operand: <col=000080>
+Offset: 2233, PUSHS , Operand: TzHaar-Ket-Em
+Offset: 2234, PUSHS , Operand: </col>
+Offset: 2235, PUSHS , Operand: .
+Offset: 2236, CONCAT , Operand: 5
+Offset: 2237, RETURN , Operand: 0
+Offset: 2238, GOTO , Operand: 237
+Offset: 2239, PUSHI , Operand: 60
+Offset: 2240, PUSHI , Operand: 6525
+Offset: 2241, PUSHS , Operand: Members: TokTz-Xil-Ek
+Offset: 2242, PUSHS , Operand: Members can now wield 
+Offset: 2243, PUSHS , Operand: <col=000080>
+Offset: 2244, PUSHS , Operand: TokTz-Xil-Ek
+Offset: 2245, PUSHS , Operand: </col>
+Offset: 2246, PUSHS , Operand: .
+Offset: 2247, CONCAT , Operand: 5
+Offset: 2248, RETURN , Operand: 0
+Offset: 2249, GOTO , Operand: 226
+Offset: 2250, PUSHI , Operand: 60
+Offset: 2251, PUSHI , Operand: 6526
+Offset: 2252, PUSHS , Operand: Members: Toktz-Mej-Tal
+Offset: 2253, PUSHS , Operand: <br>
+Offset: 2254, PUSHS , Operand:  (with 60 Magic)
+Offset: 2255, CONCAT , Operand: 3
+Offset: 2256, PUSHS , Operand: Members now have the Attack level required to wield 
+Offset: 2257, PUSHS , Operand: <col=000080>
+Offset: 2258, PUSHS , Operand: Toktz-Mej-Tal
+Offset: 2259, PUSHS , Operand: </col>
+Offset: 2260, PUSHS , Operand: . (They also need level 60 Magic.)
+Offset: 2261, CONCAT , Operand: 5
+Offset: 2262, RETURN , Operand: 0
+Offset: 2263, GOTO , Operand: 212
+Offset: 2264, PUSHI , Operand: 62
+Offset: 2265, PUSHI , Operand: 19669
+Offset: 2266, PUSHS , Operand: Members: Ring of vigour
+Offset: 2267, PUSHS , Operand: <br>
+Offset: 2268, PUSHS , Operand:  (with 62 Dungeoneering)
+Offset: 2269, CONCAT , Operand: 3
+Offset: 2270, PUSHS , Operand: Members can now wear 
+Offset: 2271, PUSHS , Operand: <col=000080>
+Offset: 2272, PUSHS , Operand: rings of vigour
+Offset: 2273, PUSHS , Operand: </col>
+Offset: 2274, PUSHS , Operand: . (They also need level 62 Dungeoneering.)
+Offset: 2275, CONCAT , Operand: 5
+Offset: 2276, RETURN , Operand: 0
+Offset: 2277, GOTO , Operand: 198
+Offset: 2278, PUSHI , Operand: 70
+Offset: 2279, PUSHI , Operand: 4151
+Offset: 2280, PUSHS , Operand: Members: Abyssal whip
+Offset: 2281, PUSHS , Operand: Members can now wield 
+Offset: 2282, PUSHS , Operand: <col=000080>
+Offset: 2283, PUSHS , Operand: abyssal whips
+Offset: 2284, PUSHS , Operand: </col>
+Offset: 2285, PUSHS , Operand: .
+Offset: 2286, CONCAT , Operand: 5
+Offset: 2287, RETURN , Operand: 0
+Offset: 2288, GOTO , Operand: 187
+Offset: 2289, PUSHI , Operand: 70
+Offset: 2290, PUSHI , Operand: 15485
+Offset: 2291, PUSHS , Operand: Members: Penance master trident (with 70 Magic)
+Offset: 2292, PUSHS , Operand: Members can now wield 
+Offset: 2293, PUSHS , Operand: <col=000080>
+Offset: 2294, PUSHS , Operand: penance master tridents
+Offset: 2295, PUSHS , Operand: </col>
+Offset: 2296, PUSHS , Operand: . (They also need level 70 Magic.)
+Offset: 2297, CONCAT , Operand: 5
+Offset: 2298, RETURN , Operand: 0
+Offset: 2299, GOTO , Operand: 176
+Offset: 2300, PUSHI , Operand: 70
+Offset: 2301, PUSHI , Operand: 11730
+Offset: 2302, PUSHS , Operand: Members: Saradomin sword
+Offset: 2303, PUSHS , Operand: Members can now wield 
+Offset: 2304, PUSHS , Operand: <col=000080>
+Offset: 2305, PUSHS , Operand: Saradomin swords
+Offset: 2306, PUSHS , Operand: </col>
+Offset: 2307, PUSHS , Operand: .
+Offset: 2308, CONCAT , Operand: 5
+Offset: 2309, RETURN , Operand: 0
+Offset: 2310, GOTO , Operand: 165
+Offset: 2311, PUSHI , Operand: 70
+Offset: 2312, PUSHI , Operand: 11716
+Offset: 2313, PUSHS , Operand: Members: Zamorakian spear
+Offset: 2314, PUSHS , Operand: Members can now wield 
+Offset: 2315, PUSHS , Operand: <col=000080>
+Offset: 2316, PUSHS , Operand: Zamorakian spears
+Offset: 2317, PUSHS , Operand: </col>
+Offset: 2318, PUSHS , Operand: .
+Offset: 2319, CONCAT , Operand: 5
+Offset: 2320, RETURN , Operand: 0
+Offset: 2321, GOTO , Operand: 154
+Offset: 2322, PUSHI , Operand: 75
+Offset: 2323, PUSHI , Operand: 11694
+Offset: 2324, PUSHS , Operand: Members: Armadyl godsword
+Offset: 2325, PUSHS , Operand: Members can now wield the 
+Offset: 2326, PUSHS , Operand: <col=000080>
+Offset: 2327, PUSHS , Operand: Armadyl godsword
+Offset: 2328, PUSHS , Operand: </col>
+Offset: 2329, PUSHS , Operand: .
+Offset: 2330, CONCAT , Operand: 5
+Offset: 2331, RETURN , Operand: 0
+Offset: 2332, GOTO , Operand: 143
+Offset: 2333, PUSHI , Operand: 75
+Offset: 2334, PUSHI , Operand: 11696
+Offset: 2335, PUSHS , Operand: Members: Bandos godsword
+Offset: 2336, PUSHS , Operand: Members can now wield the 
+Offset: 2337, PUSHS , Operand: <col=000080>
+Offset: 2338, PUSHS , Operand: Bandos godsword
+Offset: 2339, PUSHS , Operand: </col>
+Offset: 2340, PUSHS , Operand: .
+Offset: 2341, CONCAT , Operand: 5
+Offset: 2342, RETURN , Operand: 0
+Offset: 2343, GOTO , Operand: 132
+Offset: 2344, PUSHI , Operand: 75
+Offset: 2345, PUSHI , Operand: 11698
+Offset: 2346, PUSHS , Operand: Members: Saradomin godsword
+Offset: 2347, PUSHS , Operand: Members can now wield the 
+Offset: 2348, PUSHS , Operand: <col=000080>
+Offset: 2349, PUSHS , Operand: Saradomin godsword
+Offset: 2350, PUSHS , Operand: </col>
+Offset: 2351, PUSHS , Operand: .
+Offset: 2352, CONCAT , Operand: 5
+Offset: 2353, RETURN , Operand: 0
+Offset: 2354, GOTO , Operand: 121
+Offset: 2355, PUSHI , Operand: 75
+Offset: 2356, PUSHI , Operand: 11700
+Offset: 2357, PUSHS , Operand: Members: Zamorak godsword
+Offset: 2358, PUSHS , Operand: Members can now wield the 
+Offset: 2359, PUSHS , Operand: <col=000080>
+Offset: 2360, PUSHS , Operand: Zamorak godsword
+Offset: 2361, PUSHS , Operand: </col>
+Offset: 2362, PUSHS , Operand: .
+Offset: 2363, CONCAT , Operand: 5
+Offset: 2364, RETURN , Operand: 0
+Offset: 2365, GOTO , Operand: 110
+Offset: 2366, PUSHI , Operand: 75
+Offset: 2367, PUSHI , Operand: 15403
+Offset: 2368, PUSHS , Operand: Members: Balmung (after Blood Runs Deep and with 75 Strength)
+Offset: 2369, PUSHS , Operand: Members can now wield 
+Offset: 2370, PUSHS , Operand: <col=000080>
+Offset: 2371, PUSHS , Operand: Balmung
+Offset: 2372, PUSHS , Operand: </col>
+Offset: 2373, PUSHS , Operand:  (after Blood Runs Deep, with 75 Strength).
+Offset: 2374, CONCAT , Operand: 5
+Offset: 2375, RETURN , Operand: 0
+Offset: 2376, GOTO , Operand: 99
+Offset: 2377, PUSHI , Operand: 75
+Offset: 2378, PUSHI , Operand: 15486
+Offset: 2379, PUSHS , Operand: Members: Staff of Light (with 75 Magic)
+Offset: 2380, PUSHS , Operand: Members can now wield the 
+Offset: 2381, PUSHS , Operand: <col=000080>
+Offset: 2382, PUSHS , Operand: Staff of Light
+Offset: 2383, PUSHS , Operand: </col>
+Offset: 2384, PUSHS , Operand:  (with 75 Magic).
+Offset: 2385, CONCAT , Operand: 5
+Offset: 2386, RETURN , Operand: 0
+Offset: 2387, GOTO , Operand: 88
+Offset: 2388, PUSHI , Operand: 78
+Offset: 2389, PUSHI , Operand: 13902
+Offset: 2390, PUSHS , Operand: Members: Statius's warhammer
+Offset: 2391, PUSHS , Operand: Members now have the Attack level required to wield 
+Offset: 2392, PUSHS , Operand: <col=000080>
+Offset: 2393, PUSHS , Operand: Statius's warhammer
+Offset: 2394, PUSHS , Operand: </col>
+Offset: 2395, PUSHS , Operand: .
+Offset: 2396, CONCAT , Operand: 5
+Offset: 2397, RETURN , Operand: 0
+Offset: 2398, GOTO , Operand: 77
+Offset: 2399, PUSHI , Operand: 78
+Offset: 2400, PUSHI , Operand: 13899
+Offset: 2401, PUSHS , Operand: Members: Vesta's longsword
+Offset: 2402, PUSHS , Operand: Members now have the Attack level required to wield 
+Offset: 2403, PUSHS , Operand: <col=000080>
+Offset: 2404, PUSHS , Operand: Vesta's longsword
+Offset: 2405, PUSHS , Operand: </col>
+Offset: 2406, PUSHS , Operand: .
+Offset: 2407, CONCAT , Operand: 5
+Offset: 2408, RETURN , Operand: 0
+Offset: 2409, GOTO , Operand: 66
+Offset: 2410, PUSHI , Operand: 78
+Offset: 2411, PUSHI , Operand: 13905
+Offset: 2412, PUSHS , Operand: Members: Vesta's spear
+Offset: 2413, PUSHS , Operand: Members now have the Attack level required to wield 
+Offset: 2414, PUSHS , Operand: <col=000080>
+Offset: 2415, PUSHS , Operand: Vesta's spear
+Offset: 2416, PUSHS , Operand: </col>
+Offset: 2417, PUSHS , Operand: .
+Offset: 2418, CONCAT , Operand: 5
+Offset: 2419, RETURN , Operand: 0
+Offset: 2420, GOTO , Operand: 55
+Offset: 2421, PUSHI , Operand: 78
+Offset: 2422, PUSHI , Operand: 13867
+Offset: 2423, PUSHS , Operand: Members: Zuriel's staff
+Offset: 2424, PUSHS , Operand: <br>
+Offset: 2425, PUSHS , Operand:  (with 78 Magic)
+Offset: 2426, CONCAT , Operand: 3
+Offset: 2427, PUSHS , Operand: Members now have the Attack level required to wield 
+Offset: 2428, PUSHS , Operand: <col=000080>
+Offset: 2429, PUSHS , Operand: Zuriel's staff
+Offset: 2430, PUSHS , Operand: </col>
+Offset: 2431, PUSHS , Operand:  (with level 78 Magic).
+Offset: 2432, CONCAT , Operand: 5
+Offset: 2433, RETURN , Operand: 0
+Offset: 2434, GOTO , Operand: 41
+Offset: 2435, PUSHI , Operand: 80
+Offset: 2436, PUSHI , Operand: 18349
+Offset: 2437, PUSHS , Operand: Members: Chaotic rapier
+Offset: 2438, PUSHS , Operand: <br>
+Offset: 2439, PUSHS , Operand:  (with 80 Dungeoneering)
+Offset: 2440, CONCAT , Operand: 3
+Offset: 2441, PUSHS , Operand: Members can now wield 
+Offset: 2442, PUSHS , Operand: <col=000080>
+Offset: 2443, PUSHS , Operand: chaotic rapiers
+Offset: 2444, PUSHS , Operand: </col>
+Offset: 2445, PUSHS , Operand: . (They also need level 80 Dungeoneering.)
+Offset: 2446, CONCAT , Operand: 5
+Offset: 2447, RETURN , Operand: 0
+Offset: 2448, GOTO , Operand: 27
+Offset: 2449, PUSHI , Operand: 80
+Offset: 2450, PUSHI , Operand: 18351
+Offset: 2451, PUSHS , Operand: Members: Chaotic longsword
+Offset: 2452, PUSHS , Operand: <br>
+Offset: 2453, PUSHS , Operand:  (with 80 Dungeoneering)
+Offset: 2454, CONCAT , Operand: 3
+Offset: 2455, PUSHS , Operand: Members can now wield 
+Offset: 2456, PUSHS , Operand: <col=000080>
+Offset: 2457, PUSHS , Operand: chaotic longswords
+Offset: 2458, PUSHS , Operand: </col>
+Offset: 2459, PUSHS , Operand: . (They also need level 80 Dungeoneering.)
+Offset: 2460, CONCAT , Operand: 5
+Offset: 2461, RETURN , Operand: 0
+Offset: 2462, GOTO , Operand: 13
+Offset: 2463, PUSHI , Operand: 80
+Offset: 2464, PUSHI , Operand: 18353
+Offset: 2465, PUSHS , Operand: Members: Chaotic maul
+Offset: 2466, PUSHS , Operand: <br>
+Offset: 2467, PUSHS , Operand:  (with 80 Dungeoneering)
+Offset: 2468, CONCAT , Operand: 3
+Offset: 2469, PUSHS , Operand: Members can now wield 
+Offset: 2470, PUSHS , Operand: <col=000080>
+Offset: 2471, PUSHS , Operand: chaotic mauls
+Offset: 2472, PUSHS , Operand: </col>
+Offset: 2473, PUSHS , Operand: . (They also need level 80 Dungeoneering.)
+Offset: 2474, CONCAT , Operand: 5
+Offset: 2475, RETURN , Operand: 0
+Offset: 2476, GOTO , Operand: 1258
+Offset: 2477, LOADINT , Operand: 1
+Offset: 2478, SWITCH , Operand: 12
+Offset: 2479, GOTO , Operand: 55
+Offset: 2480, PUSHI , Operand: 30
+Offset: 2481, PUSHI , Operand: 10149
+Offset: 2482, PUSHS , Operand: Members: Swamp lizard
+Offset: 2483, PUSHS , Operand: <br>
+Offset: 2484, PUSHS , Operand:  (with 30 Magic and 30 Ranged)
+Offset: 2485, CONCAT , Operand: 3
+Offset: 2486, PUSHS , Operand: Members now have the Attack level required to wield 
+Offset: 2487, PUSHS , Operand: <col=000080>
+Offset: 2488, PUSHS , Operand: swamp lizards
+Offset: 2489, PUSHS , Operand: </col>
+Offset: 2490, PUSHS , Operand: . (They also need level 30 Magic and level 30 Ranged.)
+Offset: 2491, CONCAT , Operand: 5
+Offset: 2492, RETURN , Operand: 0
+Offset: 2493, GOTO , Operand: 41
+Offset: 2494, PUSHI , Operand: 50
+Offset: 2495, PUSHI , Operand: 10146
+Offset: 2496, PUSHS , Operand: Members: Orange salamander
+Offset: 2497, PUSHS , Operand: <br>
+Offset: 2498, PUSHS , Operand:  (with 50 Magic and 50 Ranged)
+Offset: 2499, CONCAT , Operand: 3
+Offset: 2500, PUSHS , Operand: Members now have the Attack level required to wield 
+Offset: 2501, PUSHS , Operand: <col=000080>
+Offset: 2502, PUSHS , Operand: orange salamanders
+Offset: 2503, PUSHS , Operand: </col>
+Offset: 2504, PUSHS , Operand: . (They also need level 50 Magic and level 50 Ranged.)
+Offset: 2505, CONCAT , Operand: 5
+Offset: 2506, RETURN , Operand: 0
+Offset: 2507, GOTO , Operand: 27
+Offset: 2508, PUSHI , Operand: 60
+Offset: 2509, PUSHI , Operand: 10147
+Offset: 2510, PUSHS , Operand: Members: Red salamander
+Offset: 2511, PUSHS , Operand: <br>
+Offset: 2512, PUSHS , Operand:  (with 60 Magic and 60 Ranged)
+Offset: 2513, CONCAT , Operand: 3
+Offset: 2514, PUSHS , Operand: Members now have the Attack level required to wield 
+Offset: 2515, PUSHS , Operand: <col=000080>
+Offset: 2516, PUSHS , Operand: red salamanders
+Offset: 2517, PUSHS , Operand: </col>
+Offset: 2518, PUSHS , Operand: . (They also need level 60 Magic and level 60 Ranged.)
+Offset: 2519, CONCAT , Operand: 5
+Offset: 2520, RETURN , Operand: 0
+Offset: 2521, GOTO , Operand: 13
+Offset: 2522, PUSHI , Operand: 70
+Offset: 2523, PUSHI , Operand: 10148
+Offset: 2524, PUSHS , Operand: Members: Black salamander
+Offset: 2525, PUSHS , Operand: <br>
+Offset: 2526, PUSHS , Operand:  (with 70 Magic and 70 Ranged)
+Offset: 2527, CONCAT , Operand: 3
+Offset: 2528, PUSHS , Operand: Members now have the Attack level required to wield 
+Offset: 2529, PUSHS , Operand: <col=000080>
+Offset: 2530, PUSHS , Operand: black salamanders
+Offset: 2531, PUSHS , Operand: </col>
+Offset: 2532, PUSHS , Operand: . (They also need level 70 Magic and level 70 Ranged.)
+Offset: 2533, CONCAT , Operand: 5
+Offset: 2534, RETURN , Operand: 0
+Offset: 2535, GOTO , Operand: 1199
+Offset: 2536, LOADINT , Operand: 1
+Offset: 2537, SWITCH , Operand: 13
+Offset: 2538, GOTO , Operand: 164
+Offset: 2539, PUSHI , Operand: 1
+Offset: 2540, PUSHI , Operand: 14297
+Offset: 2541, PUSHS , Operand: Members: Stealing Creation - class 1 dagger
+Offset: 2542, PUSHS , Operand: Members can now wield 
+Offset: 2543, PUSHS , Operand: <col=000080>
+Offset: 2544, PUSHS , Operand: class 1 daggers
+Offset: 2545, PUSHS , Operand: </col>
+Offset: 2546, PUSHS , Operand:  in Stealing Creation.
+Offset: 2547, CONCAT , Operand: 5
+Offset: 2548, RETURN , Operand: 0
+Offset: 2549, GOTO , Operand: 153
+Offset: 2550, PUSHI , Operand: 1
+Offset: 2551, PUSHI , Operand: 14287
+Offset: 2552, PUSHS , Operand: Members: Stealing Creation - class 1 scimitar
+Offset: 2553, PUSHS , Operand: Members can now wield 
+Offset: 2554, PUSHS , Operand: <col=000080>
+Offset: 2555, PUSHS , Operand: class 1 scimitars
+Offset: 2556, PUSHS , Operand: </col>
+Offset: 2557, PUSHS , Operand:  in Stealing Creation.
+Offset: 2558, CONCAT , Operand: 5
+Offset: 2559, RETURN , Operand: 0
+Offset: 2560, GOTO , Operand: 142
+Offset: 2561, PUSHI , Operand: 1
+Offset: 2562, PUSHI , Operand: 14307
+Offset: 2563, PUSHS , Operand: Members: Stealing Creation - class 1 warhammer
+Offset: 2564, PUSHS , Operand: Members can now wield 
+Offset: 2565, PUSHS , Operand: <col=000080>
+Offset: 2566, PUSHS , Operand: class 1 warhammers
+Offset: 2567, PUSHS , Operand: </col>
+Offset: 2568, PUSHS , Operand:  in Stealing Creation.
+Offset: 2569, CONCAT , Operand: 5
+Offset: 2570, RETURN , Operand: 0
+Offset: 2571, GOTO , Operand: 131
+Offset: 2572, PUSHI , Operand: 20
+Offset: 2573, PUSHI , Operand: 14299
+Offset: 2574, PUSHS , Operand: Members: Stealing Creation - class 2 dagger
+Offset: 2575, PUSHS , Operand: Members can now wield 
+Offset: 2576, PUSHS , Operand: <col=000080>
+Offset: 2577, PUSHS , Operand: class 2 daggers
+Offset: 2578, PUSHS , Operand: </col>
+Offset: 2579, PUSHS , Operand:  in Stealing Creation.
+Offset: 2580, CONCAT , Operand: 5
+Offset: 2581, RETURN , Operand: 0
+Offset: 2582, GOTO , Operand: 120
+Offset: 2583, PUSHI , Operand: 20
+Offset: 2584, PUSHI , Operand: 14289
+Offset: 2585, PUSHS , Operand: Members: Stealing Creation - class 2 scimitar
+Offset: 2586, PUSHS , Operand: Members can now wield 
+Offset: 2587, PUSHS , Operand: <col=000080>
+Offset: 2588, PUSHS , Operand: class 2 scimitars
+Offset: 2589, PUSHS , Operand: </col>
+Offset: 2590, PUSHS , Operand:  in Stealing Creation.
+Offset: 2591, CONCAT , Operand: 5
+Offset: 2592, RETURN , Operand: 0
+Offset: 2593, GOTO , Operand: 109
+Offset: 2594, PUSHI , Operand: 20
+Offset: 2595, PUSHI , Operand: 14309
+Offset: 2596, PUSHS , Operand: Members: Stealing Creation - class 2 warhammer
+Offset: 2597, PUSHS , Operand: Members can now wield 
+Offset: 2598, PUSHS , Operand: <col=000080>
+Offset: 2599, PUSHS , Operand: class 2 warhammers
+Offset: 2600, PUSHS , Operand: </col>
+Offset: 2601, PUSHS , Operand:  in Stealing Creation.
+Offset: 2602, CONCAT , Operand: 5
+Offset: 2603, RETURN , Operand: 0
+Offset: 2604, GOTO , Operand: 98
+Offset: 2605, PUSHI , Operand: 40
+Offset: 2606, PUSHI , Operand: 14301
+Offset: 2607, PUSHS , Operand: Members: Stealing Creation - class 3 dagger
+Offset: 2608, PUSHS , Operand: Members can now wield 
+Offset: 2609, PUSHS , Operand: <col=000080>
+Offset: 2610, PUSHS , Operand: class 3 daggers
+Offset: 2611, PUSHS , Operand: </col>
+Offset: 2612, PUSHS , Operand:  in Stealing Creation.
+Offset: 2613, CONCAT , Operand: 5
+Offset: 2614, RETURN , Operand: 0
+Offset: 2615, GOTO , Operand: 87
+Offset: 2616, PUSHI , Operand: 40
+Offset: 2617, PUSHI , Operand: 14291
+Offset: 2618, PUSHS , Operand: Members: Stealing Creation - class 3 scimitar
+Offset: 2619, PUSHS , Operand: Members can now wield 
+Offset: 2620, PUSHS , Operand: <col=000080>
+Offset: 2621, PUSHS , Operand: class 3 scimitars
+Offset: 2622, PUSHS , Operand: </col>
+Offset: 2623, PUSHS , Operand:  in Stealing Creation.
+Offset: 2624, CONCAT , Operand: 5
+Offset: 2625, RETURN , Operand: 0
+Offset: 2626, GOTO , Operand: 76
+Offset: 2627, PUSHI , Operand: 40
+Offset: 2628, PUSHI , Operand: 14311
+Offset: 2629, PUSHS , Operand: Members: Stealing Creation - class 3 warhammer
+Offset: 2630, PUSHS , Operand: Members can now wield 
+Offset: 2631, PUSHS , Operand: <col=000080>
+Offset: 2632, PUSHS , Operand: class 3 warhammers
+Offset: 2633, PUSHS , Operand: </col>
+Offset: 2634, PUSHS , Operand:  in Stealing Creation.
+Offset: 2635, CONCAT , Operand: 5
+Offset: 2636, RETURN , Operand: 0
+Offset: 2637, GOTO , Operand: 65
+Offset: 2638, PUSHI , Operand: 60
+Offset: 2639, PUSHI , Operand: 14303
+Offset: 2640, PUSHS , Operand: Members: Stealing Creation - class 4 dagger
+Offset: 2641, PUSHS , Operand: Members can now wield 
+Offset: 2642, PUSHS , Operand: <col=000080>
+Offset: 2643, PUSHS , Operand: class 4 daggers
+Offset: 2644, PUSHS , Operand: </col>
+Offset: 2645, PUSHS , Operand:  in Stealing Creation.
+Offset: 2646, CONCAT , Operand: 5
+Offset: 2647, RETURN , Operand: 0
+Offset: 2648, GOTO , Operand: 54
+Offset: 2649, PUSHI , Operand: 60
+Offset: 2650, PUSHI , Operand: 14293
+Offset: 2651, PUSHS , Operand: Members: Stealing Creation - class 4 scimitar
+Offset: 2652, PUSHS , Operand: Members can now wield 
+Offset: 2653, PUSHS , Operand: <col=000080>
+Offset: 2654, PUSHS , Operand: class 4 scimitars
+Offset: 2655, PUSHS , Operand: </col>
+Offset: 2656, PUSHS , Operand:  in Stealing Creation.
+Offset: 2657, CONCAT , Operand: 5
+Offset: 2658, RETURN , Operand: 0
+Offset: 2659, GOTO , Operand: 43
+Offset: 2660, PUSHI , Operand: 60
+Offset: 2661, PUSHI , Operand: 14313
+Offset: 2662, PUSHS , Operand: Members: Stealing Creation - class 4 warhammer
+Offset: 2663, PUSHS , Operand: Members can now wield 
+Offset: 2664, PUSHS , Operand: <col=000080>
+Offset: 2665, PUSHS , Operand: class 4 warhammers
+Offset: 2666, PUSHS , Operand: </col>
+Offset: 2667, PUSHS , Operand:  in Stealing Creation.
+Offset: 2668, CONCAT , Operand: 5
+Offset: 2669, RETURN , Operand: 0
+Offset: 2670, GOTO , Operand: 32
+Offset: 2671, PUSHI , Operand: 80
+Offset: 2672, PUSHI , Operand: 14305
+Offset: 2673, PUSHS , Operand: Members: Stealing Creation - class 5 dagger
+Offset: 2674, PUSHS , Operand: Members can now wield 
+Offset: 2675, PUSHS , Operand: <col=000080>
+Offset: 2676, PUSHS , Operand: class 5 daggers
+Offset: 2677, PUSHS , Operand: </col>
+Offset: 2678, PUSHS , Operand:  in Stealing Creation.
+Offset: 2679, CONCAT , Operand: 5
+Offset: 2680, RETURN , Operand: 0
+Offset: 2681, GOTO , Operand: 21
+Offset: 2682, PUSHI , Operand: 80
+Offset: 2683, PUSHI , Operand: 14295
+Offset: 2684, PUSHS , Operand: Members: Stealing Creation - class 5 scimitar
+Offset: 2685, PUSHS , Operand: Members can now wield 
+Offset: 2686, PUSHS , Operand: <col=000080>
+Offset: 2687, PUSHS , Operand: class 5 scimitars
+Offset: 2688, PUSHS , Operand: </col>
+Offset: 2689, PUSHS , Operand:  in Stealing Creation.
+Offset: 2690, CONCAT , Operand: 5
+Offset: 2691, RETURN , Operand: 0
+Offset: 2692, GOTO , Operand: 10
+Offset: 2693, PUSHI , Operand: 80
+Offset: 2694, PUSHI , Operand: 14315
+Offset: 2695, PUSHS , Operand: Members: Stealing Creation - class 5 warhammer
+Offset: 2696, PUSHS , Operand: Members can now wield 
+Offset: 2697, PUSHS , Operand: <col=000080>
+Offset: 2698, PUSHS , Operand: class 5 warhammers
+Offset: 2699, PUSHS , Operand: </col>
+Offset: 2700, PUSHS , Operand:  in Stealing Creation.
+Offset: 2701, CONCAT , Operand: 5
+Offset: 2702, RETURN , Operand: 0
+Offset: 2703, GOTO , Operand: 1031
+Offset: 2704, LOADINT , Operand: 1
+Offset: 2705, SWITCH , Operand: 14
+Offset: 2706, GOTO , Operand: 995
+Offset: 2707, PUSHI , Operand: 1
+Offset: 2708, PUSHI , Operand: 16757
+Offset: 2709, PUSHS , Operand: Novite dagger (Tier 1)
+Offset: 2710, PUSHS , Operand: You can now wield 
+Offset: 2711, PUSHS , Operand: <col=000080>
+Offset: 2712, PUSHS , Operand: novite daggers
+Offset: 2713, PUSHS , Operand: </col>
+Offset: 2714, PUSHS , Operand:  within Daemonheim.
+Offset: 2715, CONCAT , Operand: 5
+Offset: 2716, RETURN , Operand: 0
+Offset: 2717, GOTO , Operand: 984
+Offset: 2718, PUSHI , Operand: 1
+Offset: 2719, PUSHI , Operand: 16935
+Offset: 2720, PUSHS , Operand: Novite rapier (Tier 1)
+Offset: 2721, PUSHS , Operand: You can now wield 
+Offset: 2722, PUSHS , Operand: <col=000080>
+Offset: 2723, PUSHS , Operand: novite rapiers
+Offset: 2724, PUSHS , Operand: </col>
+Offset: 2725, PUSHS , Operand:  within Daemonheim.
+Offset: 2726, CONCAT , Operand: 5
+Offset: 2727, RETURN , Operand: 0
+Offset: 2728, GOTO , Operand: 973
+Offset: 2729, PUSHI , Operand: 1
+Offset: 2730, PUSHI , Operand: 16383
+Offset: 2731, PUSHS , Operand: Novite longsword (Tier 1)
+Offset: 2732, PUSHS , Operand: You can now wield 
+Offset: 2733, PUSHS , Operand: <col=000080>
+Offset: 2734, PUSHS , Operand: novite longswords
+Offset: 2735, PUSHS , Operand: </col>
+Offset: 2736, PUSHS , Operand:  within Daemonheim.
+Offset: 2737, CONCAT , Operand: 5
+Offset: 2738, RETURN , Operand: 0
+Offset: 2739, GOTO , Operand: 962
+Offset: 2740, PUSHI , Operand: 1
+Offset: 2741, PUSHI , Operand: 15753
+Offset: 2742, PUSHS , Operand: Novite battleaxe (Tier 1)
+Offset: 2743, PUSHS , Operand: You can now wield 
+Offset: 2744, PUSHS , Operand: <col=000080>
+Offset: 2745, PUSHS , Operand: novite battleaxes
+Offset: 2746, PUSHS , Operand: </col>
+Offset: 2747, PUSHS , Operand:  within Daemonheim.
+Offset: 2748, CONCAT , Operand: 5
+Offset: 2749, RETURN , Operand: 0
+Offset: 2750, GOTO , Operand: 951
+Offset: 2751, PUSHI , Operand: 1
+Offset: 2752, PUSHI , Operand: 16889
+Offset: 2753, PUSHS , Operand: Novite 2h swords (Tier 1)
+Offset: 2754, PUSHS , Operand: You can now wield 
+Offset: 2755, PUSHS , Operand: <col=000080>
+Offset: 2756, PUSHS , Operand: novite 2h swords
+Offset: 2757, PUSHS , Operand: </col>
+Offset: 2758, PUSHS , Operand:  within Daemonheim.
+Offset: 2759, CONCAT , Operand: 5
+Offset: 2760, RETURN , Operand: 0
+Offset: 2761, GOTO , Operand: 940
+Offset: 2762, PUSHI , Operand: 1
+Offset: 2763, PUSHI , Operand: 17019
+Offset: 2764, PUSHS , Operand: Novite warhammer (Tier 1)
+Offset: 2765, PUSHS , Operand: You can now wield 
+Offset: 2766, PUSHS , Operand: <col=000080>
+Offset: 2767, PUSHS , Operand: novite warhammers
+Offset: 2768, PUSHS , Operand: </col>
+Offset: 2769, PUSHS , Operand:  within Daemonheim.
+Offset: 2770, CONCAT , Operand: 5
+Offset: 2771, RETURN , Operand: 0
+Offset: 2772, GOTO , Operand: 929
+Offset: 2773, PUSHI , Operand: 1
+Offset: 2774, PUSHI , Operand: 16361
+Offset: 2775, PUSHS , Operand: Novite hatchet (Tier 1)
+Offset: 2776, PUSHS , Operand: You can now wield 
+Offset: 2777, PUSHS , Operand: <col=000080>
+Offset: 2778, PUSHS , Operand: novite hatchets
+Offset: 2779, PUSHS , Operand: </col>
+Offset: 2780, PUSHS , Operand:  within Daemonheim.
+Offset: 2781, CONCAT , Operand: 5
+Offset: 2782, RETURN , Operand: 0
+Offset: 2783, GOTO , Operand: 918
+Offset: 2784, PUSHI , Operand: 1
+Offset: 2785, PUSHI , Operand: 16295
+Offset: 2786, PUSHS , Operand: Novite pickaxe (Tier 1)
+Offset: 2787, PUSHS , Operand: You can now wield 
+Offset: 2788, PUSHS , Operand: <col=000080>
+Offset: 2789, PUSHS , Operand: novite pickaxes
+Offset: 2790, PUSHS , Operand: </col>
+Offset: 2791, PUSHS , Operand:  within Daemonheim.
+Offset: 2792, CONCAT , Operand: 5
+Offset: 2793, RETURN , Operand: 0
+Offset: 2794, GOTO , Operand: 907
+Offset: 2795, PUSHI , Operand: 10
+Offset: 2796, PUSHI , Operand: 16765
+Offset: 2797, PUSHS , Operand: Bathus dagger (Tier 2)
+Offset: 2798, PUSHS , Operand: You can now wield 
+Offset: 2799, PUSHS , Operand: <col=000080>
+Offset: 2800, PUSHS , Operand: bathus daggers
+Offset: 2801, PUSHS , Operand: </col>
+Offset: 2802, PUSHS , Operand:  within Daemonheim.
+Offset: 2803, CONCAT , Operand: 5
+Offset: 2804, RETURN , Operand: 0
+Offset: 2805, GOTO , Operand: 896
+Offset: 2806, PUSHI , Operand: 10
+Offset: 2807, PUSHI , Operand: 16937
+Offset: 2808, PUSHS , Operand: Bathus rapier (Tier 2)
+Offset: 2809, PUSHS , Operand: You can now wield 
+Offset: 2810, PUSHS , Operand: <col=000080>
+Offset: 2811, PUSHS , Operand: bathus rapiers
+Offset: 2812, PUSHS , Operand: </col>
+Offset: 2813, PUSHS , Operand:  within Daemonheim.
+Offset: 2814, CONCAT , Operand: 5
+Offset: 2815, RETURN , Operand: 0
+Offset: 2816, GOTO , Operand: 885
+Offset: 2817, PUSHI , Operand: 10
+Offset: 2818, PUSHI , Operand: 16385
+Offset: 2819, PUSHS , Operand: Bathus longsword (Tier 2)
+Offset: 2820, PUSHS , Operand: You can now wield 
+Offset: 2821, PUSHS , Operand: <col=000080>
+Offset: 2822, PUSHS , Operand: bathus longswords
+Offset: 2823, PUSHS , Operand: </col>
+Offset: 2824, PUSHS , Operand:  within Daemonheim.
+Offset: 2825, CONCAT , Operand: 5
+Offset: 2826, RETURN , Operand: 0
+Offset: 2827, GOTO , Operand: 874
+Offset: 2828, PUSHI , Operand: 10
+Offset: 2829, PUSHI , Operand: 15755
+Offset: 2830, PUSHS , Operand: Bathus battleaxe (Tier 2)
+Offset: 2831, PUSHS , Operand: You can now wield 
+Offset: 2832, PUSHS , Operand: <col=000080>
+Offset: 2833, PUSHS , Operand: bathus battleaxes
+Offset: 2834, PUSHS , Operand: </col>
+Offset: 2835, PUSHS , Operand:  within Daemonheim.
+Offset: 2836, CONCAT , Operand: 5
+Offset: 2837, RETURN , Operand: 0
+Offset: 2838, GOTO , Operand: 863
+Offset: 2839, PUSHI , Operand: 10
+Offset: 2840, PUSHI , Operand: 16891
+Offset: 2841, PUSHS , Operand: Bathus 2h swords (Tier 2)
+Offset: 2842, PUSHS , Operand: You can now wield 
+Offset: 2843, PUSHS , Operand: <col=000080>
+Offset: 2844, PUSHS , Operand: bathus 2h swords
+Offset: 2845, PUSHS , Operand: </col>
+Offset: 2846, PUSHS , Operand:  within Daemonheim.
+Offset: 2847, CONCAT , Operand: 5
+Offset: 2848, RETURN , Operand: 0
+Offset: 2849, GOTO , Operand: 852
+Offset: 2850, PUSHI , Operand: 10
+Offset: 2851, PUSHI , Operand: 17021
+Offset: 2852, PUSHS , Operand: Bathus warhammer (Tier 2)
+Offset: 2853, PUSHS , Operand: You can now wield 
+Offset: 2854, PUSHS , Operand: <col=000080>
+Offset: 2855, PUSHS , Operand: bathus warhammers
+Offset: 2856, PUSHS , Operand: </col>
+Offset: 2857, PUSHS , Operand:  within Daemonheim.
+Offset: 2858, CONCAT , Operand: 5
+Offset: 2859, RETURN , Operand: 0
+Offset: 2860, GOTO , Operand: 841
+Offset: 2861, PUSHI , Operand: 10
+Offset: 2862, PUSHI , Operand: 16363
+Offset: 2863, PUSHS , Operand: Bathus hatchet (Tier 2)
+Offset: 2864, PUSHS , Operand: You can now wield 
+Offset: 2865, PUSHS , Operand: <col=000080>
+Offset: 2866, PUSHS , Operand: bathus hatchets
+Offset: 2867, PUSHS , Operand: </col>
+Offset: 2868, PUSHS , Operand:  within Daemonheim.
+Offset: 2869, CONCAT , Operand: 5
+Offset: 2870, RETURN , Operand: 0
+Offset: 2871, GOTO , Operand: 830
+Offset: 2872, PUSHI , Operand: 10
+Offset: 2873, PUSHI , Operand: 16297
+Offset: 2874, PUSHS , Operand: Bathus pickaxe (Tier 2)
+Offset: 2875, PUSHS , Operand: You can now wield 
+Offset: 2876, PUSHS , Operand: <col=000080>
+Offset: 2877, PUSHS , Operand: bathus pickaxes
+Offset: 2878, PUSHS , Operand: </col>
+Offset: 2879, PUSHS , Operand:  within Daemonheim.
+Offset: 2880, CONCAT , Operand: 5
+Offset: 2881, RETURN , Operand: 0
+Offset: 2882, GOTO , Operand: 819
+Offset: 2883, PUSHI , Operand: 20
+Offset: 2884, PUSHI , Operand: 16773
+Offset: 2885, PUSHS , Operand: Marmaros dagger (Tier 3)
+Offset: 2886, PUSHS , Operand: You can now wield 
+Offset: 2887, PUSHS , Operand: <col=000080>
+Offset: 2888, PUSHS , Operand: marmaros daggers
+Offset: 2889, PUSHS , Operand: </col>
+Offset: 2890, PUSHS , Operand:  within Daemonheim.
+Offset: 2891, CONCAT , Operand: 5
+Offset: 2892, RETURN , Operand: 0
+Offset: 2893, GOTO , Operand: 808
+Offset: 2894, PUSHI , Operand: 20
+Offset: 2895, PUSHI , Operand: 16939
+Offset: 2896, PUSHS , Operand: Marmaros rapier (Tier 3)
+Offset: 2897, PUSHS , Operand: You can now wield 
+Offset: 2898, PUSHS , Operand: <col=000080>
+Offset: 2899, PUSHS , Operand: marmaros rapiers
+Offset: 2900, PUSHS , Operand: </col>
+Offset: 2901, PUSHS , Operand:  within Daemonheim.
+Offset: 2902, CONCAT , Operand: 5
+Offset: 2903, RETURN , Operand: 0
+Offset: 2904, GOTO , Operand: 797
+Offset: 2905, PUSHI , Operand: 20
+Offset: 2906, PUSHI , Operand: 16387
+Offset: 2907, PUSHS , Operand: Marmaros longsword (Tier 3)
+Offset: 2908, PUSHS , Operand: You can now wield 
+Offset: 2909, PUSHS , Operand: <col=000080>
+Offset: 2910, PUSHS , Operand: marmaros longswords
+Offset: 2911, PUSHS , Operand: </col>
+Offset: 2912, PUSHS , Operand:  within Daemonheim.
+Offset: 2913, CONCAT , Operand: 5
+Offset: 2914, RETURN , Operand: 0
+Offset: 2915, GOTO , Operand: 786
+Offset: 2916, PUSHI , Operand: 20
+Offset: 2917, PUSHI , Operand: 15757
+Offset: 2918, PUSHS , Operand: Marmaros battleaxe (Tier 3)
+Offset: 2919, PUSHS , Operand: You can now wield 
+Offset: 2920, PUSHS , Operand: <col=000080>
+Offset: 2921, PUSHS , Operand: marmaros battleaxes
+Offset: 2922, PUSHS , Operand: </col>
+Offset: 2923, PUSHS , Operand:  within Daemonheim.
+Offset: 2924, CONCAT , Operand: 5
+Offset: 2925, RETURN , Operand: 0
+Offset: 2926, GOTO , Operand: 775
+Offset: 2927, PUSHI , Operand: 20
+Offset: 2928, PUSHI , Operand: 16893
+Offset: 2929, PUSHS , Operand: Marmaros 2h swords (Tier 3)
+Offset: 2930, PUSHS , Operand: You can now wield 
+Offset: 2931, PUSHS , Operand: <col=000080>
+Offset: 2932, PUSHS , Operand: marmaros 2h swords
+Offset: 2933, PUSHS , Operand: </col>
+Offset: 2934, PUSHS , Operand:  within Daemonheim.
+Offset: 2935, CONCAT , Operand: 5
+Offset: 2936, RETURN , Operand: 0
+Offset: 2937, GOTO , Operand: 764
+Offset: 2938, PUSHI , Operand: 20
+Offset: 2939, PUSHI , Operand: 17023
+Offset: 2940, PUSHS , Operand: Marmaros warhammer (Tier 3)
+Offset: 2941, PUSHS , Operand: You can now wield 
+Offset: 2942, PUSHS , Operand: <col=000080>
+Offset: 2943, PUSHS , Operand: marmaros warhammers
+Offset: 2944, PUSHS , Operand: </col>
+Offset: 2945, PUSHS , Operand:  within Daemonheim.
+Offset: 2946, CONCAT , Operand: 5
+Offset: 2947, RETURN , Operand: 0
+Offset: 2948, GOTO , Operand: 753
+Offset: 2949, PUSHI , Operand: 20
+Offset: 2950, PUSHI , Operand: 16365
+Offset: 2951, PUSHS , Operand: Marmaros hatchet (Tier 3)
+Offset: 2952, PUSHS , Operand: You can now wield 
+Offset: 2953, PUSHS , Operand: <col=000080>
+Offset: 2954, PUSHS , Operand: marmaros hatchets
+Offset: 2955, PUSHS , Operand: </col>
+Offset: 2956, PUSHS , Operand:  within Daemonheim.
+Offset: 2957, CONCAT , Operand: 5
+Offset: 2958, RETURN , Operand: 0
+Offset: 2959, GOTO , Operand: 742
+Offset: 2960, PUSHI , Operand: 20
+Offset: 2961, PUSHI , Operand: 16299
+Offset: 2962, PUSHS , Operand: Marmaros pickaxe (Tier 3)
+Offset: 2963, PUSHS , Operand: You can now wield 
+Offset: 2964, PUSHS , Operand: <col=000080>
+Offset: 2965, PUSHS , Operand: marmaros pickaxes
+Offset: 2966, PUSHS , Operand: </col>
+Offset: 2967, PUSHS , Operand:  within Daemonheim.
+Offset: 2968, CONCAT , Operand: 5
+Offset: 2969, RETURN , Operand: 0
+Offset: 2970, GOTO , Operand: 731
+Offset: 2971, PUSHI , Operand: 30
+Offset: 2972, PUSHI , Operand: 16781
+Offset: 2973, PUSHS , Operand: Kratonite dagger (Tier 4)
+Offset: 2974, PUSHS , Operand: You can now wield 
+Offset: 2975, PUSHS , Operand: <col=000080>
+Offset: 2976, PUSHS , Operand: kratonite daggers
+Offset: 2977, PUSHS , Operand: </col>
+Offset: 2978, PUSHS , Operand:  within Daemonheim.
+Offset: 2979, CONCAT , Operand: 5
+Offset: 2980, RETURN , Operand: 0
+Offset: 2981, GOTO , Operand: 720
+Offset: 2982, PUSHI , Operand: 30
+Offset: 2983, PUSHI , Operand: 16941
+Offset: 2984, PUSHS , Operand: Kratonite rapier (Tier 4)
+Offset: 2985, PUSHS , Operand: You can now wield 
+Offset: 2986, PUSHS , Operand: <col=000080>
+Offset: 2987, PUSHS , Operand: kratonite rapiers
+Offset: 2988, PUSHS , Operand: </col>
+Offset: 2989, PUSHS , Operand:  within Daemonheim.
+Offset: 2990, CONCAT , Operand: 5
+Offset: 2991, RETURN , Operand: 0
+Offset: 2992, GOTO , Operand: 709
+Offset: 2993, PUSHI , Operand: 30
+Offset: 2994, PUSHI , Operand: 16389
+Offset: 2995, PUSHS , Operand: Kratonite longsword (Tier 4)
+Offset: 2996, PUSHS , Operand: You can now wield 
+Offset: 2997, PUSHS , Operand: <col=000080>
+Offset: 2998, PUSHS , Operand: kratonite longswords
+Offset: 2999, PUSHS , Operand: </col>
+Offset: 3000, PUSHS , Operand:  within Daemonheim.
+Offset: 3001, CONCAT , Operand: 5
+Offset: 3002, RETURN , Operand: 0
+Offset: 3003, GOTO , Operand: 698
+Offset: 3004, PUSHI , Operand: 30
+Offset: 3005, PUSHI , Operand: 15759
+Offset: 3006, PUSHS , Operand: Kratonite battleaxe (Tier 4)
+Offset: 3007, PUSHS , Operand: You can now wield 
+Offset: 3008, PUSHS , Operand: <col=000080>
+Offset: 3009, PUSHS , Operand: kratonite battleaxes
+Offset: 3010, PUSHS , Operand: </col>
+Offset: 3011, PUSHS , Operand:  within Daemonheim.
+Offset: 3012, CONCAT , Operand: 5
+Offset: 3013, RETURN , Operand: 0
+Offset: 3014, GOTO , Operand: 687
+Offset: 3015, PUSHI , Operand: 30
+Offset: 3016, PUSHI , Operand: 16895
+Offset: 3017, PUSHS , Operand: Kratonite 2h swords (Tier 4)
+Offset: 3018, PUSHS , Operand: You can now wield 
+Offset: 3019, PUSHS , Operand: <col=000080>
+Offset: 3020, PUSHS , Operand: kratonite 2h swords
+Offset: 3021, PUSHS , Operand: </col>
+Offset: 3022, PUSHS , Operand:  within Daemonheim.
+Offset: 3023, CONCAT , Operand: 5
+Offset: 3024, RETURN , Operand: 0
+Offset: 3025, GOTO , Operand: 676
+Offset: 3026, PUSHI , Operand: 30
+Offset: 3027, PUSHI , Operand: 17025
+Offset: 3028, PUSHS , Operand: Kratonite warhammer (Tier 4)
+Offset: 3029, PUSHS , Operand: You can now wield 
+Offset: 3030, PUSHS , Operand: <col=000080>
+Offset: 3031, PUSHS , Operand: kratonite warhammers
+Offset: 3032, PUSHS , Operand: </col>
+Offset: 3033, PUSHS , Operand:  within Daemonheim.
+Offset: 3034, CONCAT , Operand: 5
+Offset: 3035, RETURN , Operand: 0
+Offset: 3036, GOTO , Operand: 665
+Offset: 3037, PUSHI , Operand: 30
+Offset: 3038, PUSHI , Operand: 16367
+Offset: 3039, PUSHS , Operand: Kratonite hatchet (Tier 4)
+Offset: 3040, PUSHS , Operand: You can now wield 
+Offset: 3041, PUSHS , Operand: <col=000080>
+Offset: 3042, PUSHS , Operand: kratonite hatchets
+Offset: 3043, PUSHS , Operand: </col>
+Offset: 3044, PUSHS , Operand:  within Daemonheim.
+Offset: 3045, CONCAT , Operand: 5
+Offset: 3046, RETURN , Operand: 0
+Offset: 3047, GOTO , Operand: 654
+Offset: 3048, PUSHI , Operand: 30
+Offset: 3049, PUSHI , Operand: 16301
+Offset: 3050, PUSHS , Operand: Kratonite pickaxe (Tier 4)
+Offset: 3051, PUSHS , Operand: You can now wield 
+Offset: 3052, PUSHS , Operand: <col=000080>
+Offset: 3053, PUSHS , Operand: kratonite pickaxes
+Offset: 3054, PUSHS , Operand: </col>
+Offset: 3055, PUSHS , Operand:  within Daemonheim.
+Offset: 3056, CONCAT , Operand: 5
+Offset: 3057, RETURN , Operand: 0
+Offset: 3058, GOTO , Operand: 643
+Offset: 3059, PUSHI , Operand: 36
+Offset: 3060, PUSHI , Operand: 17275
+Offset: 3061, PUSHS , Operand: Members: Frostbite dagger
+Offset: 3062, PUSHS , Operand: <br>
+Offset: 3063, PUSHS , Operand:  (with 36 Magic)
+Offset: 3064, CONCAT , Operand: 3
+Offset: 3065, PUSHS , Operand: Members can now wield 
+Offset: 3066, PUSHS , Operand: <col=000080>
+Offset: 3067, PUSHS , Operand: frostbite daggers
+Offset: 3068, PUSHS , Operand: </col>
+Offset: 3069, PUSHS , Operand:  within Daemonheim. (They also need level 36 Magic.)
+Offset: 3070, CONCAT , Operand: 5
+Offset: 3071, RETURN , Operand: 0
+Offset: 3072, GOTO , Operand: 629
+Offset: 3073, PUSHI , Operand: 40
+Offset: 3074, PUSHI , Operand: 16789
+Offset: 3075, PUSHS , Operand: Fractite dagger (Tier 5)
+Offset: 3076, PUSHS , Operand: You can now wield 
+Offset: 3077, PUSHS , Operand: <col=000080>
+Offset: 3078, PUSHS , Operand: fractite daggers
+Offset: 3079, PUSHS , Operand: </col>
+Offset: 3080, PUSHS , Operand:  within Daemonheim.
+Offset: 3081, CONCAT , Operand: 5
+Offset: 3082, RETURN , Operand: 0
+Offset: 3083, GOTO , Operand: 618
+Offset: 3084, PUSHI , Operand: 40
+Offset: 3085, PUSHI , Operand: 16943
+Offset: 3086, PUSHS , Operand: Fractite rapier (Tier 5)
+Offset: 3087, PUSHS , Operand: You can now wield 
+Offset: 3088, PUSHS , Operand: <col=000080>
+Offset: 3089, PUSHS , Operand: fractite rapiers
+Offset: 3090, PUSHS , Operand: </col>
+Offset: 3091, PUSHS , Operand:  within Daemonheim.
+Offset: 3092, CONCAT , Operand: 5
+Offset: 3093, RETURN , Operand: 0
+Offset: 3094, GOTO , Operand: 607
+Offset: 3095, PUSHI , Operand: 40
+Offset: 3096, PUSHI , Operand: 16391
+Offset: 3097, PUSHS , Operand: Fractite longsword (Tier 5)
+Offset: 3098, PUSHS , Operand: You can now wield 
+Offset: 3099, PUSHS , Operand: <col=000080>
+Offset: 3100, PUSHS , Operand: fractite longswords
+Offset: 3101, PUSHS , Operand: </col>
+Offset: 3102, PUSHS , Operand:  within Daemonheim.
+Offset: 3103, CONCAT , Operand: 5
+Offset: 3104, RETURN , Operand: 0
+Offset: 3105, GOTO , Operand: 596
+Offset: 3106, PUSHI , Operand: 40
+Offset: 3107, PUSHI , Operand: 15761
+Offset: 3108, PUSHS , Operand: Fractite battleaxe (Tier 5)
+Offset: 3109, PUSHS , Operand: You can now wield 
+Offset: 3110, PUSHS , Operand: <col=000080>
+Offset: 3111, PUSHS , Operand: fractite battleaxes
+Offset: 3112, PUSHS , Operand: </col>
+Offset: 3113, PUSHS , Operand:  within Daemonheim.
+Offset: 3114, CONCAT , Operand: 5
+Offset: 3115, RETURN , Operand: 0
+Offset: 3116, GOTO , Operand: 585
+Offset: 3117, PUSHI , Operand: 40
+Offset: 3118, PUSHI , Operand: 16897
+Offset: 3119, PUSHS , Operand: Fractite 2h swords (Tier 5)
+Offset: 3120, PUSHS , Operand: You can now wield 
+Offset: 3121, PUSHS , Operand: <col=000080>
+Offset: 3122, PUSHS , Operand: fractite 2h swords
+Offset: 3123, PUSHS , Operand: </col>
+Offset: 3124, PUSHS , Operand:  within Daemonheim.
+Offset: 3125, CONCAT , Operand: 5
+Offset: 3126, RETURN , Operand: 0
+Offset: 3127, GOTO , Operand: 574
+Offset: 3128, PUSHI , Operand: 40
+Offset: 3129, PUSHI , Operand: 17027
+Offset: 3130, PUSHS , Operand: Fractite warhammer (Tier 5)
+Offset: 3131, PUSHS , Operand: You can now wield 
+Offset: 3132, PUSHS , Operand: <col=000080>
+Offset: 3133, PUSHS , Operand: fractite warhammers
+Offset: 3134, PUSHS , Operand: </col>
+Offset: 3135, PUSHS , Operand:  within Daemonheim.
+Offset: 3136, CONCAT , Operand: 5
+Offset: 3137, RETURN , Operand: 0
+Offset: 3138, GOTO , Operand: 563
+Offset: 3139, PUSHI , Operand: 40
+Offset: 3140, PUSHI , Operand: 16369
+Offset: 3141, PUSHS , Operand: Fractite hatchet (Tier 5)
+Offset: 3142, PUSHS , Operand: You can now wield 
+Offset: 3143, PUSHS , Operand: <col=000080>
+Offset: 3144, PUSHS , Operand: fractite hatchets
+Offset: 3145, PUSHS , Operand: </col>
+Offset: 3146, PUSHS , Operand:  within Daemonheim.
+Offset: 3147, CONCAT , Operand: 5
+Offset: 3148, RETURN , Operand: 0
+Offset: 3149, GOTO , Operand: 552
+Offset: 3150, PUSHI , Operand: 40
+Offset: 3151, PUSHI , Operand: 16303
+Offset: 3152, PUSHS , Operand: Fractite pickaxe (Tier 5)
+Offset: 3153, PUSHS , Operand: You can now wield 
+Offset: 3154, PUSHS , Operand: <col=000080>
+Offset: 3155, PUSHS , Operand: fractite pickaxes
+Offset: 3156, PUSHS , Operand: </col>
+Offset: 3157, PUSHS , Operand:  within Daemonheim.
+Offset: 3158, CONCAT , Operand: 5
+Offset: 3159, RETURN , Operand: 0
+Offset: 3160, GOTO , Operand: 541
+Offset: 3161, PUSHI , Operand: 50
+Offset: 3162, PUSHI , Operand: 16797
+Offset: 3163, PUSHS , Operand: Members: Zephyrium dagger (Tier 6)
+Offset: 3164, PUSHS , Operand: Members can now wield 
+Offset: 3165, PUSHS , Operand: <col=000080>
+Offset: 3166, PUSHS , Operand: zephyrium daggers
+Offset: 3167, PUSHS , Operand: </col>
+Offset: 3168, PUSHS , Operand:  within Daemonheim.
+Offset: 3169, CONCAT , Operand: 5
+Offset: 3170, RETURN , Operand: 0
+Offset: 3171, GOTO , Operand: 530
+Offset: 3172, PUSHI , Operand: 50
+Offset: 3173, PUSHI , Operand: 16945
+Offset: 3174, PUSHS , Operand: Members: Zephyrium rapier (Tier 6)
+Offset: 3175, PUSHS , Operand: Members can now wield 
+Offset: 3176, PUSHS , Operand: <col=000080>
+Offset: 3177, PUSHS , Operand: zephyrium rapiers
+Offset: 3178, PUSHS , Operand: </col>
+Offset: 3179, PUSHS , Operand:  within Daemonheim.
+Offset: 3180, CONCAT , Operand: 5
+Offset: 3181, RETURN , Operand: 0
+Offset: 3182, GOTO , Operand: 519
+Offset: 3183, PUSHI , Operand: 50
+Offset: 3184, PUSHI , Operand: 16393
+Offset: 3185, PUSHS , Operand: Members: Zephyrium longsword (Tier 6)
+Offset: 3186, PUSHS , Operand: Members can now wield 
+Offset: 3187, PUSHS , Operand: <col=000080>
+Offset: 3188, PUSHS , Operand: zephyrium longswords
+Offset: 3189, PUSHS , Operand: </col>
+Offset: 3190, PUSHS , Operand:  within Daemonheim.
+Offset: 3191, CONCAT , Operand: 5
+Offset: 3192, RETURN , Operand: 0
+Offset: 3193, GOTO , Operand: 508
+Offset: 3194, PUSHI , Operand: 50
+Offset: 3195, PUSHI , Operand: 15763
+Offset: 3196, PUSHS , Operand: Members: Zephyrium battleaxe (Tier 6)
+Offset: 3197, PUSHS , Operand: Members can now wield 
+Offset: 3198, PUSHS , Operand: <col=000080>
+Offset: 3199, PUSHS , Operand: zephyrium battleaxes
+Offset: 3200, PUSHS , Operand: </col>
+Offset: 3201, PUSHS , Operand:  within Daemonheim.
+Offset: 3202, CONCAT , Operand: 5
+Offset: 3203, RETURN , Operand: 0
+Offset: 3204, GOTO , Operand: 497
+Offset: 3205, PUSHI , Operand: 50
+Offset: 3206, PUSHI , Operand: 16899
+Offset: 3207, PUSHS , Operand: Members: Zephyrium 2h swords (Tier 6)
+Offset: 3208, PUSHS , Operand: Members can now wield 
+Offset: 3209, PUSHS , Operand: <col=000080>
+Offset: 3210, PUSHS , Operand: zephyrium 2h swords
+Offset: 3211, PUSHS , Operand: </col>
+Offset: 3212, PUSHS , Operand:  within Daemonheim.
+Offset: 3213, CONCAT , Operand: 5
+Offset: 3214, RETURN , Operand: 0
+Offset: 3215, GOTO , Operand: 486
+Offset: 3216, PUSHI , Operand: 50
+Offset: 3217, PUSHI , Operand: 17029
+Offset: 3218, PUSHS , Operand: Members: Zephyrium warhammer (Tier 6)
+Offset: 3219, PUSHS , Operand: Members can now wield 
+Offset: 3220, PUSHS , Operand: <col=000080>
+Offset: 3221, PUSHS , Operand: zephyrium warhammers
+Offset: 3222, PUSHS , Operand: </col>
+Offset: 3223, PUSHS , Operand:  within Daemonheim.
+Offset: 3224, CONCAT , Operand: 5
+Offset: 3225, RETURN , Operand: 0
+Offset: 3226, GOTO , Operand: 475
+Offset: 3227, PUSHI , Operand: 50
+Offset: 3228, PUSHI , Operand: 16371
+Offset: 3229, PUSHS , Operand: Members: Zephyrium hatchet (Tier 6)
+Offset: 3230, PUSHS , Operand: Members can now wield 
+Offset: 3231, PUSHS , Operand: <col=000080>
+Offset: 3232, PUSHS , Operand: zephyrium hatchets
+Offset: 3233, PUSHS , Operand: </col>
+Offset: 3234, PUSHS , Operand:  within Daemonheim.
+Offset: 3235, CONCAT , Operand: 5
+Offset: 3236, RETURN , Operand: 0
+Offset: 3237, GOTO , Operand: 464
+Offset: 3238, PUSHI , Operand: 50
+Offset: 3239, PUSHI , Operand: 16305
+Offset: 3240, PUSHS , Operand: Members: Zephyrium pickaxe (Tier 6)
+Offset: 3241, PUSHS , Operand: Members can now wield 
+Offset: 3242, PUSHS , Operand: <col=000080>
+Offset: 3243, PUSHS , Operand: zephyrium pickaxes
+Offset: 3244, PUSHS , Operand: </col>
+Offset: 3245, PUSHS , Operand:  within Daemonheim.
+Offset: 3246, CONCAT , Operand: 5
+Offset: 3247, RETURN , Operand: 0
+Offset: 3248, GOTO , Operand: 453
+Offset: 3249, PUSHI , Operand: 60
+Offset: 3250, PUSHI , Operand: 16805
+Offset: 3251, PUSHS , Operand: Members: Argonite dagger (Tier 7)
+Offset: 3252, PUSHS , Operand: Members can now wield 
+Offset: 3253, PUSHS , Operand: <col=000080>
+Offset: 3254, PUSHS , Operand: argonite daggers
+Offset: 3255, PUSHS , Operand: </col>
+Offset: 3256, PUSHS , Operand:  within Daemonheim.
+Offset: 3257, CONCAT , Operand: 5
+Offset: 3258, RETURN , Operand: 0
+Offset: 3259, GOTO , Operand: 442
+Offset: 3260, PUSHI , Operand: 60
+Offset: 3261, PUSHI , Operand: 16947
+Offset: 3262, PUSHS , Operand: Members: Argonite rapier (Tier 7)
+Offset: 3263, PUSHS , Operand: Members can now wield 
+Offset: 3264, PUSHS , Operand: <col=000080>
+Offset: 3265, PUSHS , Operand: argonite rapiers
+Offset: 3266, PUSHS , Operand: </col>
+Offset: 3267, PUSHS , Operand:  within Daemonheim.
+Offset: 3268, CONCAT , Operand: 5
+Offset: 3269, RETURN , Operand: 0
+Offset: 3270, GOTO , Operand: 431
+Offset: 3271, PUSHI , Operand: 60
+Offset: 3272, PUSHI , Operand: 16395
+Offset: 3273, PUSHS , Operand: Members: Argonite longsword (Tier 7)
+Offset: 3274, PUSHS , Operand: Members can now wield 
+Offset: 3275, PUSHS , Operand: <col=000080>
+Offset: 3276, PUSHS , Operand: argonite longswords
+Offset: 3277, PUSHS , Operand: </col>
+Offset: 3278, PUSHS , Operand:  within Daemonheim.
+Offset: 3279, CONCAT , Operand: 5
+Offset: 3280, RETURN , Operand: 0
+Offset: 3281, GOTO , Operand: 420
+Offset: 3282, PUSHI , Operand: 60
+Offset: 3283, PUSHI , Operand: 15765
+Offset: 3284, PUSHS , Operand: Members: Argonite battleaxe (Tier 7)
+Offset: 3285, PUSHS , Operand: Members can now wield 
+Offset: 3286, PUSHS , Operand: <col=000080>
+Offset: 3287, PUSHS , Operand: argonite battleaxes
+Offset: 3288, PUSHS , Operand: </col>
+Offset: 3289, PUSHS , Operand:  within Daemonheim.
+Offset: 3290, CONCAT , Operand: 5
+Offset: 3291, RETURN , Operand: 0
+Offset: 3292, GOTO , Operand: 409
+Offset: 3293, PUSHI , Operand: 60
+Offset: 3294, PUSHI , Operand: 16901
+Offset: 3295, PUSHS , Operand: Members: Argonite 2h swords (Tier 7)
+Offset: 3296, PUSHS , Operand: Members can now wield 
+Offset: 3297, PUSHS , Operand: <col=000080>
+Offset: 3298, PUSHS , Operand: argonite 2h swords
+Offset: 3299, PUSHS , Operand: </col>
+Offset: 3300, PUSHS , Operand:  within Daemonheim.
+Offset: 3301, CONCAT , Operand: 5
+Offset: 3302, RETURN , Operand: 0
+Offset: 3303, GOTO , Operand: 398
+Offset: 3304, PUSHI , Operand: 60
+Offset: 3305, PUSHI , Operand: 17031
+Offset: 3306, PUSHS , Operand: Members: Argonite warhammer (Tier 7)
+Offset: 3307, PUSHS , Operand: Members can now wield 
+Offset: 3308, PUSHS , Operand: <col=000080>
+Offset: 3309, PUSHS , Operand: argonite warhammers
+Offset: 3310, PUSHS , Operand: </col>
+Offset: 3311, PUSHS , Operand:  within Daemonheim.
+Offset: 3312, CONCAT , Operand: 5
+Offset: 3313, RETURN , Operand: 0
+Offset: 3314, GOTO , Operand: 387
+Offset: 3315, PUSHI , Operand: 60
+Offset: 3316, PUSHI , Operand: 16373
+Offset: 3317, PUSHS , Operand: Members: Argonite hatchet (Tier 7)
+Offset: 3318, PUSHS , Operand: Members can now wield 
+Offset: 3319, PUSHS , Operand: <col=000080>
+Offset: 3320, PUSHS , Operand: argonite hatchets
+Offset: 3321, PUSHS , Operand: </col>
+Offset: 3322, PUSHS , Operand:  within Daemonheim.
+Offset: 3323, CONCAT , Operand: 5
+Offset: 3324, RETURN , Operand: 0
+Offset: 3325, GOTO , Operand: 376
+Offset: 3326, PUSHI , Operand: 60
+Offset: 3327, PUSHI , Operand: 16307
+Offset: 3328, PUSHS , Operand: Members: Argonite pickaxe (Tier 7)
+Offset: 3329, PUSHS , Operand: Members can now wield 
+Offset: 3330, PUSHS , Operand: <col=000080>
+Offset: 3331, PUSHS , Operand: argonite pickaxes
+Offset: 3332, PUSHS , Operand: </col>
+Offset: 3333, PUSHS , Operand:  within Daemonheim.
+Offset: 3334, CONCAT , Operand: 5
+Offset: 3335, RETURN , Operand: 0
+Offset: 3336, GOTO , Operand: 365
+Offset: 3337, PUSHI , Operand: 68
+Offset: 3338, PUSHI , Operand: 17293
+Offset: 3339, PUSHS , Operand: Members: Doomcore staff
+Offset: 3340, PUSHS , Operand: <br>
+Offset: 3341, PUSHS , Operand:  (with 68 Magic)
+Offset: 3342, CONCAT , Operand: 3
+Offset: 3343, PUSHS , Operand: Members can now wield 
+Offset: 3344, PUSHS , Operand: <col=000080>
+Offset: 3345, PUSHS , Operand: doomcore staves
+Offset: 3346, PUSHS , Operand: </col>
+Offset: 3347, PUSHS , Operand:  within Daemonheim. (They also need level 68 Magic.)
+Offset: 3348, CONCAT , Operand: 5
+Offset: 3349, RETURN , Operand: 0
+Offset: 3350, GOTO , Operand: 351
+Offset: 3351, PUSHI , Operand: 70
+Offset: 3352, PUSHI , Operand: 16813
+Offset: 3353, PUSHS , Operand: Members: Katagon dagger (Tier 8)
+Offset: 3354, PUSHS , Operand: Members can now wield 
+Offset: 3355, PUSHS , Operand: <col=000080>
+Offset: 3356, PUSHS , Operand: katagon daggers
+Offset: 3357, PUSHS , Operand: </col>
+Offset: 3358, PUSHS , Operand:  within Daemonheim.
+Offset: 3359, CONCAT , Operand: 5
+Offset: 3360, RETURN , Operand: 0
+Offset: 3361, GOTO , Operand: 340
+Offset: 3362, PUSHI , Operand: 70
+Offset: 3363, PUSHI , Operand: 16949
+Offset: 3364, PUSHS , Operand: Members: Katagon rapier (Tier 8)
+Offset: 3365, PUSHS , Operand: Members can now wield 
+Offset: 3366, PUSHS , Operand: <col=000080>
+Offset: 3367, PUSHS , Operand: katagon rapiers
+Offset: 3368, PUSHS , Operand: </col>
+Offset: 3369, PUSHS , Operand:  within Daemonheim.
+Offset: 3370, CONCAT , Operand: 5
+Offset: 3371, RETURN , Operand: 0
+Offset: 3372, GOTO , Operand: 329
+Offset: 3373, PUSHI , Operand: 70
+Offset: 3374, PUSHI , Operand: 16397
+Offset: 3375, PUSHS , Operand: Members: Katagon longsword (Tier 8)
+Offset: 3376, PUSHS , Operand: Members can now wield 
+Offset: 3377, PUSHS , Operand: <col=000080>
+Offset: 3378, PUSHS , Operand: katagon longswords
+Offset: 3379, PUSHS , Operand: </col>
+Offset: 3380, PUSHS , Operand:  within Daemonheim.
+Offset: 3381, CONCAT , Operand: 5
+Offset: 3382, RETURN , Operand: 0
+Offset: 3383, GOTO , Operand: 318
+Offset: 3384, PUSHI , Operand: 70
+Offset: 3385, PUSHI , Operand: 15767
+Offset: 3386, PUSHS , Operand: Members: Katagon battleaxe (Tier 8)
+Offset: 3387, PUSHS , Operand: Members can now wield 
+Offset: 3388, PUSHS , Operand: <col=000080>
+Offset: 3389, PUSHS , Operand: katagon battleaxes
+Offset: 3390, PUSHS , Operand: </col>
+Offset: 3391, PUSHS , Operand:  within Daemonheim.
+Offset: 3392, CONCAT , Operand: 5
+Offset: 3393, RETURN , Operand: 0
+Offset: 3394, GOTO , Operand: 307
+Offset: 3395, PUSHI , Operand: 70
+Offset: 3396, PUSHI , Operand: 16903
+Offset: 3397, PUSHS , Operand: Members: Katagon 2h swords (Tier 8)
+Offset: 3398, PUSHS , Operand: Members can now wield 
+Offset: 3399, PUSHS , Operand: <col=000080>
+Offset: 3400, PUSHS , Operand: katagon 2h swords
+Offset: 3401, PUSHS , Operand: </col>
+Offset: 3402, PUSHS , Operand:  within Daemonheim.
+Offset: 3403, CONCAT , Operand: 5
+Offset: 3404, RETURN , Operand: 0
+Offset: 3405, GOTO , Operand: 296
+Offset: 3406, PUSHI , Operand: 70
+Offset: 3407, PUSHI , Operand: 17033
+Offset: 3408, PUSHS , Operand: Members: Katagon warhammer (Tier 8)
+Offset: 3409, PUSHS , Operand: Members can now wield 
+Offset: 3410, PUSHS , Operand: <col=000080>
+Offset: 3411, PUSHS , Operand: katagon warhammers
+Offset: 3412, PUSHS , Operand: </col>
+Offset: 3413, PUSHS , Operand:  within Daemonheim.
+Offset: 3414, CONCAT , Operand: 5
+Offset: 3415, RETURN , Operand: 0
+Offset: 3416, GOTO , Operand: 285
+Offset: 3417, PUSHI , Operand: 70
+Offset: 3418, PUSHI , Operand: 16375
+Offset: 3419, PUSHS , Operand: Members: Katagon hatchet (Tier 8)
+Offset: 3420, PUSHS , Operand: Members can now wield 
+Offset: 3421, PUSHS , Operand: <col=000080>
+Offset: 3422, PUSHS , Operand: katagon hatchets
+Offset: 3423, PUSHS , Operand: </col>
+Offset: 3424, PUSHS , Operand:  within Daemonheim.
+Offset: 3425, CONCAT , Operand: 5
+Offset: 3426, RETURN , Operand: 0
+Offset: 3427, GOTO , Operand: 274
+Offset: 3428, PUSHI , Operand: 70
+Offset: 3429, PUSHI , Operand: 16309
+Offset: 3430, PUSHS , Operand: Members: Katagon pickaxe (Tier 8)
+Offset: 3431, PUSHS , Operand: Members can now wield 
+Offset: 3432, PUSHS , Operand: <col=000080>
+Offset: 3433, PUSHS , Operand: katagon pickaxes
+Offset: 3434, PUSHS , Operand: </col>
+Offset: 3435, PUSHS , Operand:  within Daemonheim.
+Offset: 3436, CONCAT , Operand: 5
+Offset: 3437, RETURN , Operand: 0
+Offset: 3438, GOTO , Operand: 263
+Offset: 3439, PUSHI , Operand: 80
+Offset: 3440, PUSHI , Operand: 16821
+Offset: 3441, PUSHS , Operand: Members: Gorgonite dagger (Tier 9)
+Offset: 3442, PUSHS , Operand: Members can now wield 
+Offset: 3443, PUSHS , Operand: <col=000080>
+Offset: 3444, PUSHS , Operand: gorgonite daggers
+Offset: 3445, PUSHS , Operand: </col>
+Offset: 3446, PUSHS , Operand:  within Daemonheim.
+Offset: 3447, CONCAT , Operand: 5
+Offset: 3448, RETURN , Operand: 0
+Offset: 3449, GOTO , Operand: 252
+Offset: 3450, PUSHI , Operand: 80
+Offset: 3451, PUSHI , Operand: 16951
+Offset: 3452, PUSHS , Operand: Members: Gorgonite rapier (Tier 9)
+Offset: 3453, PUSHS , Operand: Members can now wield 
+Offset: 3454, PUSHS , Operand: <col=000080>
+Offset: 3455, PUSHS , Operand: gorgonite rapiers
+Offset: 3456, PUSHS , Operand: </col>
+Offset: 3457, PUSHS , Operand:  within Daemonheim.
+Offset: 3458, CONCAT , Operand: 5
+Offset: 3459, RETURN , Operand: 0
+Offset: 3460, GOTO , Operand: 241
+Offset: 3461, PUSHI , Operand: 80
+Offset: 3462, PUSHI , Operand: 16399
+Offset: 3463, PUSHS , Operand: Members: Gorgonite longsword (Tier 9)
+Offset: 3464, PUSHS , Operand: Members can now wield 
+Offset: 3465, PUSHS , Operand: <col=000080>
+Offset: 3466, PUSHS , Operand: gorgonite longswords
+Offset: 3467, PUSHS , Operand: </col>
+Offset: 3468, PUSHS , Operand:  within Daemonheim.
+Offset: 3469, CONCAT , Operand: 5
+Offset: 3470, RETURN , Operand: 0
+Offset: 3471, GOTO , Operand: 230
+Offset: 3472, PUSHI , Operand: 80
+Offset: 3473, PUSHI , Operand: 15769
+Offset: 3474, PUSHS , Operand: Members: Gorgonite battleaxe (Tier 9)
+Offset: 3475, PUSHS , Operand: Members can now wield 
+Offset: 3476, PUSHS , Operand: <col=000080>
+Offset: 3477, PUSHS , Operand: gorgonite battleaxes
+Offset: 3478, PUSHS , Operand: </col>
+Offset: 3479, PUSHS , Operand:  within Daemonheim.
+Offset: 3480, CONCAT , Operand: 5
+Offset: 3481, RETURN , Operand: 0
+Offset: 3482, GOTO , Operand: 219
+Offset: 3483, PUSHI , Operand: 80
+Offset: 3484, PUSHI , Operand: 16905
+Offset: 3485, PUSHS , Operand: Members: Gorgonite 2h swords (Tier 9)
+Offset: 3486, PUSHS , Operand: Members can now wield 
+Offset: 3487, PUSHS , Operand: <col=000080>
+Offset: 3488, PUSHS , Operand: gorgonite 2h swords
+Offset: 3489, PUSHS , Operand: </col>
+Offset: 3490, PUSHS , Operand:  within Daemonheim.
+Offset: 3491, CONCAT , Operand: 5
+Offset: 3492, RETURN , Operand: 0
+Offset: 3493, GOTO , Operand: 208
+Offset: 3494, PUSHI , Operand: 80
+Offset: 3495, PUSHI , Operand: 17035
+Offset: 3496, PUSHS , Operand: Members: Gorgonite warhammer (Tier 9)
+Offset: 3497, PUSHS , Operand: Members can now wield 
+Offset: 3498, PUSHS , Operand: <col=000080>
+Offset: 3499, PUSHS , Operand: gorgonite warhammers
+Offset: 3500, PUSHS , Operand: </col>
+Offset: 3501, PUSHS , Operand:  within Daemonheim.
+Offset: 3502, CONCAT , Operand: 5
+Offset: 3503, RETURN , Operand: 0
+Offset: 3504, GOTO , Operand: 197
+Offset: 3505, PUSHI , Operand: 80
+Offset: 3506, PUSHI , Operand: 16377
+Offset: 3507, PUSHS , Operand: Members: Gorgonite hatchet (Tier 9)
+Offset: 3508, PUSHS , Operand: Members can now wield 
+Offset: 3509, PUSHS , Operand: <col=000080>
+Offset: 3510, PUSHS , Operand: gorgonite hatchets
+Offset: 3511, PUSHS , Operand: </col>
+Offset: 3512, PUSHS , Operand:  within Daemonheim.
+Offset: 3513, CONCAT , Operand: 5
+Offset: 3514, RETURN , Operand: 0
+Offset: 3515, GOTO , Operand: 186
+Offset: 3516, PUSHI , Operand: 80
+Offset: 3517, PUSHI , Operand: 16311
+Offset: 3518, PUSHS , Operand: Members: Gorgonite pickaxe (Tier 9)
+Offset: 3519, PUSHS , Operand: Members can now wield 
+Offset: 3520, PUSHS , Operand: <col=000080>
+Offset: 3521, PUSHS , Operand: gorgonite pickaxes
+Offset: 3522, PUSHS , Operand: </col>
+Offset: 3523, PUSHS , Operand:  within Daemonheim.
+Offset: 3524, CONCAT , Operand: 5
+Offset: 3525, RETURN , Operand: 0
+Offset: 3526, GOTO , Operand: 175
+Offset: 3527, PUSHI , Operand: 90
+Offset: 3528, PUSHI , Operand: 16829
+Offset: 3529, PUSHS , Operand: Members: Promethium dagger (Tier 10)
+Offset: 3530, PUSHS , Operand: Members can now wield 
+Offset: 3531, PUSHS , Operand: <col=000080>
+Offset: 3532, PUSHS , Operand: promethium daggers
+Offset: 3533, PUSHS , Operand: </col>
+Offset: 3534, PUSHS , Operand:  within Daemonheim.
+Offset: 3535, CONCAT , Operand: 5
+Offset: 3536, RETURN , Operand: 0
+Offset: 3537, GOTO , Operand: 164
+Offset: 3538, PUSHI , Operand: 90
+Offset: 3539, PUSHI , Operand: 16953
+Offset: 3540, PUSHS , Operand: Members: Promethium rapier (Tier 10)
+Offset: 3541, PUSHS , Operand: Members can now wield 
+Offset: 3542, PUSHS , Operand: <col=000080>
+Offset: 3543, PUSHS , Operand: promethium rapiers
+Offset: 3544, PUSHS , Operand: </col>
+Offset: 3545, PUSHS , Operand:  within Daemonheim.
+Offset: 3546, CONCAT , Operand: 5
+Offset: 3547, RETURN , Operand: 0
+Offset: 3548, GOTO , Operand: 153
+Offset: 3549, PUSHI , Operand: 90
+Offset: 3550, PUSHI , Operand: 16401
+Offset: 3551, PUSHS , Operand: Members: Promethium longsword (Tier 10)
+Offset: 3552, PUSHS , Operand: Members can now wield 
+Offset: 3553, PUSHS , Operand: <col=000080>
+Offset: 3554, PUSHS , Operand: promethium longswords
+Offset: 3555, PUSHS , Operand: </col>
+Offset: 3556, PUSHS , Operand:  within Daemonheim.
+Offset: 3557, CONCAT , Operand: 5
+Offset: 3558, RETURN , Operand: 0
+Offset: 3559, GOTO , Operand: 142
+Offset: 3560, PUSHI , Operand: 90
+Offset: 3561, PUSHI , Operand: 15771
+Offset: 3562, PUSHS , Operand: Members: Promethium battleaxe (Tier 10)
+Offset: 3563, PUSHS , Operand: Members can now wield 
+Offset: 3564, PUSHS , Operand: <col=000080>
+Offset: 3565, PUSHS , Operand: promethium battleaxes
+Offset: 3566, PUSHS , Operand: </col>
+Offset: 3567, PUSHS , Operand:  within Daemonheim.
+Offset: 3568, CONCAT , Operand: 5
+Offset: 3569, RETURN , Operand: 0
+Offset: 3570, GOTO , Operand: 131
+Offset: 3571, PUSHI , Operand: 90
+Offset: 3572, PUSHI , Operand: 16907
+Offset: 3573, PUSHS , Operand: Members: Promethium 2h swords (Tier 10)
+Offset: 3574, PUSHS , Operand: Members can now wield 
+Offset: 3575, PUSHS , Operand: <col=000080>
+Offset: 3576, PUSHS , Operand: promethium 2h swords
+Offset: 3577, PUSHS , Operand: </col>
+Offset: 3578, PUSHS , Operand:  within Daemonheim.
+Offset: 3579, CONCAT , Operand: 5
+Offset: 3580, RETURN , Operand: 0
+Offset: 3581, GOTO , Operand: 120
+Offset: 3582, PUSHI , Operand: 90
+Offset: 3583, PUSHI , Operand: 17037
+Offset: 3584, PUSHS , Operand: Members: Promethium warhammer (Tier 10)
+Offset: 3585, PUSHS , Operand: Members can now wield 
+Offset: 3586, PUSHS , Operand: <col=000080>
+Offset: 3587, PUSHS , Operand: promethium warhammers
+Offset: 3588, PUSHS , Operand: </col>
+Offset: 3589, PUSHS , Operand:  within Daemonheim.
+Offset: 3590, CONCAT , Operand: 5
+Offset: 3591, RETURN , Operand: 0
+Offset: 3592, GOTO , Operand: 109
+Offset: 3593, PUSHI , Operand: 90
+Offset: 3594, PUSHI , Operand: 16379
+Offset: 3595, PUSHS , Operand: Members: Promethium hatchet (Tier 10)
+Offset: 3596, PUSHS , Operand: Members can now wield 
+Offset: 3597, PUSHS , Operand: <col=000080>
+Offset: 3598, PUSHS , Operand: promethium hatchets
+Offset: 3599, PUSHS , Operand: </col>
+Offset: 3600, PUSHS , Operand:  within Daemonheim.
+Offset: 3601, CONCAT , Operand: 5
+Offset: 3602, RETURN , Operand: 0
+Offset: 3603, GOTO , Operand: 98
+Offset: 3604, PUSHI , Operand: 90
+Offset: 3605, PUSHI , Operand: 16313
+Offset: 3606, PUSHS , Operand: Members: Promethium pickaxe (Tier 10)
+Offset: 3607, PUSHS , Operand: Members can now wield 
+Offset: 3608, PUSHS , Operand: <col=000080>
+Offset: 3609, PUSHS , Operand: promethium pickaxes
+Offset: 3610, PUSHS , Operand: </col>
+Offset: 3611, PUSHS , Operand:  within Daemonheim.
+Offset: 3612, CONCAT , Operand: 5
+Offset: 3613, RETURN , Operand: 0
+Offset: 3614, GOTO , Operand: 87
+Offset: 3615, PUSHI , Operand: 99
+Offset: 3616, PUSHI , Operand: 16837
+Offset: 3617, PUSHS , Operand: Members: Primal dagger (Tier 11)
+Offset: 3618, PUSHS , Operand: Members can now wield 
+Offset: 3619, PUSHS , Operand: <col=000080>
+Offset: 3620, PUSHS , Operand: primal daggers
+Offset: 3621, PUSHS , Operand: </col>
+Offset: 3622, PUSHS , Operand:  within Daemonheim.
+Offset: 3623, CONCAT , Operand: 5
+Offset: 3624, RETURN , Operand: 0
+Offset: 3625, GOTO , Operand: 76
+Offset: 3626, PUSHI , Operand: 99
+Offset: 3627, PUSHI , Operand: 16955
+Offset: 3628, PUSHS , Operand: Members: Primal rapier (Tier 11)
+Offset: 3629, PUSHS , Operand: Members can now wield 
+Offset: 3630, PUSHS , Operand: <col=000080>
+Offset: 3631, PUSHS , Operand: primal rapiers
+Offset: 3632, PUSHS , Operand: </col>
+Offset: 3633, PUSHS , Operand:  within Daemonheim.
+Offset: 3634, CONCAT , Operand: 5
+Offset: 3635, RETURN , Operand: 0
+Offset: 3636, GOTO , Operand: 65
+Offset: 3637, PUSHI , Operand: 99
+Offset: 3638, PUSHI , Operand: 16403
+Offset: 3639, PUSHS , Operand: Members: Primal longsword (Tier 11)
+Offset: 3640, PUSHS , Operand: Members can now wield 
+Offset: 3641, PUSHS , Operand: <col=000080>
+Offset: 3642, PUSHS , Operand: primal longswords
+Offset: 3643, PUSHS , Operand: </col>
+Offset: 3644, PUSHS , Operand:  within Daemonheim.
+Offset: 3645, CONCAT , Operand: 5
+Offset: 3646, RETURN , Operand: 0
+Offset: 3647, GOTO , Operand: 54
+Offset: 3648, PUSHI , Operand: 99
+Offset: 3649, PUSHI , Operand: 15773
+Offset: 3650, PUSHS , Operand: Members: Primal battleaxe (Tier 11)
+Offset: 3651, PUSHS , Operand: Members can now wield 
+Offset: 3652, PUSHS , Operand: <col=000080>
+Offset: 3653, PUSHS , Operand: primal battleaxes
+Offset: 3654, PUSHS , Operand: </col>
+Offset: 3655, PUSHS , Operand:  within Daemonheim.
+Offset: 3656, CONCAT , Operand: 5
+Offset: 3657, RETURN , Operand: 0
+Offset: 3658, GOTO , Operand: 43
+Offset: 3659, PUSHI , Operand: 99
+Offset: 3660, PUSHI , Operand: 16909
+Offset: 3661, PUSHS , Operand: Members: Primal 2h swords (Tier 11)
+Offset: 3662, PUSHS , Operand: Members can now wield 
+Offset: 3663, PUSHS , Operand: <col=000080>
+Offset: 3664, PUSHS , Operand: primal 2h swords
+Offset: 3665, PUSHS , Operand: </col>
+Offset: 3666, PUSHS , Operand:  within Daemonheim.
+Offset: 3667, CONCAT , Operand: 5
+Offset: 3668, RETURN , Operand: 0
+Offset: 3669, GOTO , Operand: 32
+Offset: 3670, PUSHI , Operand: 99
+Offset: 3671, PUSHI , Operand: 17039
+Offset: 3672, PUSHS , Operand: Members: Primal warhammer (Tier 11)
+Offset: 3673, PUSHS , Operand: Members can now wield 
+Offset: 3674, PUSHS , Operand: <col=000080>
+Offset: 3675, PUSHS , Operand: primal warhammers
+Offset: 3676, PUSHS , Operand: </col>
+Offset: 3677, PUSHS , Operand:  within Daemonheim.
+Offset: 3678, CONCAT , Operand: 5
+Offset: 3679, RETURN , Operand: 0
+Offset: 3680, GOTO , Operand: 21
+Offset: 3681, PUSHI , Operand: 99
+Offset: 3682, PUSHI , Operand: 16381
+Offset: 3683, PUSHS , Operand: Members: Primal hatchet (Tier 11)
+Offset: 3684, PUSHS , Operand: Members can now wield 
+Offset: 3685, PUSHS , Operand: <col=000080>
+Offset: 3686, PUSHS , Operand: primal hatchets
+Offset: 3687, PUSHS , Operand: </col>
+Offset: 3688, PUSHS , Operand:  within Daemonheim.
+Offset: 3689, CONCAT , Operand: 5
+Offset: 3690, RETURN , Operand: 0
+Offset: 3691, GOTO , Operand: 10
+Offset: 3692, PUSHI , Operand: 99
+Offset: 3693, PUSHI , Operand: 16315
+Offset: 3694, PUSHS , Operand: Members: Primal pickaxe (Tier 11)
+Offset: 3695, PUSHS , Operand: Members can now wield 
+Offset: 3696, PUSHS , Operand: <col=000080>
+Offset: 3697, PUSHS , Operand: primal pickaxes
+Offset: 3698, PUSHS , Operand: </col>
+Offset: 3699, PUSHS , Operand:  within Daemonheim.
+Offset: 3700, CONCAT , Operand: 5
+Offset: 3701, RETURN , Operand: 0
+Offset: 3702, GOTO , Operand: 32
+Offset: 3703, LOADINT , Operand: 1
+Offset: 3704, SWITCH , Operand: 15
+Offset: 3705, GOTO , Operand: 29
+Offset: 3706, PUSHI , Operand: -1
+Offset: 3707, PUSHI , Operand: 8855
+Offset: 3708, PUSHS , Operand: You can enter the Warriors' Guild when your Attack and Strength levels add up to 130 or more, or when you reach level 99 in either Attack or Strength.
+Offset: 3709, PUSHS , Operand: 
+Offset: 3710, RETURN , Operand: 0
+Offset: 3711, GOTO , Operand: 23
+Offset: 3712, PUSHI , Operand: 99
+Offset: 3713, PUSHI , Operand: 9747
+Offset: 3714, PUSHS , Operand: Skill mastery
+Offset: 3715, PUSHS , Operand: <col=000080>
+Offset: 3716, PUSHS , Operand: Congratulations! You are now a master of 
+Offset: 3717, PUSHS , Operand: <col=800000>
+Offset: 3718, PUSHS , Operand: Attack
+Offset: 3719, PUSHS , Operand: <col=000080>
+Offset: 3720, PUSHS , Operand: . Members can visit 
+Offset: 3721, PUSHS , Operand: <col=800000>
+Offset: 3722, PUSHS , Operand: Ajjat
+Offset: 3723, PUSHS , Operand: <col=000080>
+Offset: 3724, PUSHS , Operand:  at the 
+Offset: 3725, PUSHS , Operand: <col=800000>
+Offset: 3726, PUSHS , Operand: Warriors' Guild
+Offset: 3727, PUSHS , Operand: <col=000080>
+Offset: 3728, PUSHS , Operand: . He has something special that is only available to true masters of the 
+Offset: 3729, PUSHS , Operand: <col=800000>
+Offset: 3730, PUSHS , Operand: Attack
+Offset: 3731, PUSHS , Operand: <col=000080>
+Offset: 3732, PUSHS , Operand:  skill!
+Offset: 3733, CONCAT , Operand: 18
+Offset: 3734, RETURN , Operand: 0
+Offset: 3735, PUSHI , Operand: 0
+Offset: 3736, PUSHI , Operand: -1
+Offset: 3737, PUSHS , Operand: 
+Offset: 3738, PUSHS , Operand: 
+Offset: 3739, RETURN , Operand: 0
+
+================================================
+                Switch Table 0                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 147
+Key: 2, Value: 293
+Key: 3, Value: 442
+Key: 4, Value: 591
+Key: 5, Value: 710
+Key: 6, Value: 833
+Key: 7, Value: 982
+Key: 8, Value: 1131
+Key: 9, Value: 1339
+Key: 10, Value: 1406
+Key: 11, Value: 2475
+Key: 12, Value: 2534
+Key: 13, Value: 2702
+Key: 14, Value: 3701
+
+================================================
+                Switch Table 1                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 12
+Key: 2, Value: 23
+Key: 3, Value: 34
+Key: 4, Value: 45
+Key: 5, Value: 56
+Key: 6, Value: 67
+Key: 7, Value: 78
+Key: 8, Value: 89
+Key: 9, Value: 100
+Key: 10, Value: 111
+Key: 11, Value: 122
+Key: 12, Value: 133
+
+================================================
+                Switch Table 2                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 12
+Key: 2, Value: 23
+Key: 3, Value: 34
+Key: 4, Value: 45
+Key: 5, Value: 56
+Key: 6, Value: 67
+Key: 7, Value: 78
+Key: 8, Value: 89
+Key: 9, Value: 100
+Key: 10, Value: 111
+Key: 11, Value: 122
+Key: 12, Value: 133
+
+================================================
+                Switch Table 3                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 12
+Key: 2, Value: 23
+Key: 3, Value: 34
+Key: 4, Value: 45
+Key: 5, Value: 56
+Key: 6, Value: 67
+Key: 7, Value: 78
+Key: 8, Value: 89
+Key: 9, Value: 100
+Key: 10, Value: 111
+Key: 11, Value: 122
+Key: 12, Value: 133
+
+================================================
+                Switch Table 4                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 12
+Key: 2, Value: 23
+Key: 3, Value: 34
+Key: 4, Value: 45
+Key: 5, Value: 56
+Key: 6, Value: 67
+Key: 7, Value: 78
+Key: 8, Value: 89
+Key: 9, Value: 100
+Key: 10, Value: 111
+Key: 11, Value: 122
+Key: 12, Value: 133
+
+================================================
+                Switch Table 5                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 7
+Key: 2, Value: 18
+Key: 3, Value: 29
+Key: 4, Value: 40
+Key: 5, Value: 51
+Key: 6, Value: 62
+Key: 7, Value: 73
+Key: 8, Value: 84
+Key: 9, Value: 95
+Key: 10, Value: 106
+
+================================================
+                Switch Table 6                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 10
+Key: 2, Value: 19
+Key: 3, Value: 28
+Key: 4, Value: 37
+Key: 5, Value: 46
+Key: 6, Value: 55
+Key: 7, Value: 64
+Key: 8, Value: 73
+Key: 9, Value: 82
+Key: 10, Value: 91
+Key: 11, Value: 100
+Key: 12, Value: 109
+
+================================================
+                Switch Table 7                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 12
+Key: 2, Value: 23
+Key: 3, Value: 34
+Key: 4, Value: 45
+Key: 5, Value: 56
+Key: 6, Value: 67
+Key: 7, Value: 78
+Key: 8, Value: 89
+Key: 9, Value: 100
+Key: 10, Value: 111
+Key: 11, Value: 122
+Key: 12, Value: 133
+
+================================================
+                Switch Table 8                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 12
+Key: 2, Value: 23
+Key: 3, Value: 34
+Key: 4, Value: 45
+Key: 5, Value: 56
+Key: 6, Value: 67
+Key: 7, Value: 78
+Key: 8, Value: 89
+Key: 9, Value: 100
+Key: 10, Value: 111
+Key: 11, Value: 122
+Key: 12, Value: 133
+
+================================================
+                Switch Table 9                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 15
+Key: 2, Value: 26
+Key: 3, Value: 40
+Key: 4, Value: 51
+Key: 5, Value: 65
+Key: 6, Value: 79
+Key: 7, Value: 90
+Key: 8, Value: 104
+Key: 9, Value: 115
+Key: 10, Value: 129
+Key: 11, Value: 140
+Key: 12, Value: 151
+Key: 13, Value: 162
+Key: 14, Value: 173
+Key: 15, Value: 184
+Key: 16, Value: 195
+
+================================================
+                Switch Table 10                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 15
+Key: 2, Value: 29
+Key: 3, Value: 40
+Key: 4, Value: 54
+
+================================================
+                Switch Table 11                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 15
+Key: 2, Value: 29
+Key: 3, Value: 43
+Key: 4, Value: 57
+Key: 5, Value: 68
+Key: 6, Value: 82
+Key: 7, Value: 93
+Key: 8, Value: 104
+Key: 9, Value: 115
+Key: 10, Value: 126
+Key: 11, Value: 140
+Key: 12, Value: 154
+Key: 13, Value: 168
+Key: 14, Value: 182
+Key: 15, Value: 196
+Key: 17, Value: 221
+Key: 16, Value: 210
+Key: 19, Value: 246
+Key: 18, Value: 232
+Key: 21, Value: 271
+Key: 20, Value: 260
+Key: 23, Value: 293
+Key: 22, Value: 282
+Key: 25, Value: 318
+Key: 24, Value: 304
+Key: 27, Value: 346
+Key: 26, Value: 332
+Key: 29, Value: 374
+Key: 28, Value: 360
+Key: 31, Value: 402
+Key: 30, Value: 388
+Key: 34, Value: 438
+Key: 35, Value: 452
+Key: 32, Value: 413
+Key: 33, Value: 424
+Key: 38, Value: 494
+Key: 39, Value: 508
+Key: 36, Value: 466
+Key: 37, Value: 480
+Key: 42, Value: 550
+Key: 43, Value: 561
+Key: 40, Value: 522
+Key: 41, Value: 536
+Key: 46, Value: 597
+Key: 47, Value: 611
+Key: 44, Value: 572
+Key: 45, Value: 583
+Key: 51, Value: 667
+Key: 50, Value: 653
+Key: 49, Value: 639
+Key: 48, Value: 625
+Key: 55, Value: 723
+Key: 54, Value: 709
+Key: 53, Value: 695
+Key: 52, Value: 681
+Key: 59, Value: 779
+Key: 58, Value: 765
+Key: 57, Value: 751
+Key: 56, Value: 737
+Key: 63, Value: 829
+Key: 62, Value: 818
+Key: 61, Value: 807
+Key: 60, Value: 793
+Key: 68, Value: 890
+Key: 69, Value: 901
+Key: 70, Value: 912
+Key: 71, Value: 923
+Key: 64, Value: 840
+Key: 65, Value: 854
+Key: 66, Value: 868
+Key: 67, Value: 879
+Key: 76, Value: 978
+Key: 77, Value: 989
+Key: 78, Value: 1000
+Key: 79, Value: 1011
+Key: 72, Value: 934
+Key: 73, Value: 945
+Key: 74, Value: 956
+Key: 75, Value: 967
+Key: 81, Value: 1039
+Key: 80, Value: 1025
+Key: 82, Value: 1053
+
+================================================
+                Switch Table 12                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 15
+Key: 2, Value: 29
+Key: 3, Value: 43
+
+================================================
+                Switch Table 13                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 12
+Key: 2, Value: 23
+Key: 3, Value: 34
+Key: 4, Value: 45
+Key: 5, Value: 56
+Key: 6, Value: 67
+Key: 7, Value: 78
+Key: 8, Value: 89
+Key: 9, Value: 100
+Key: 10, Value: 111
+Key: 11, Value: 122
+Key: 12, Value: 133
+Key: 13, Value: 144
+Key: 14, Value: 155
+
+================================================
+                Switch Table 14                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 12
+Key: 2, Value: 23
+Key: 3, Value: 34
+Key: 4, Value: 45
+Key: 5, Value: 56
+Key: 6, Value: 67
+Key: 7, Value: 78
+Key: 8, Value: 89
+Key: 9, Value: 100
+Key: 10, Value: 111
+Key: 11, Value: 122
+Key: 12, Value: 133
+Key: 13, Value: 144
+Key: 14, Value: 155
+Key: 15, Value: 166
+Key: 17, Value: 188
+Key: 16, Value: 177
+Key: 19, Value: 210
+Key: 18, Value: 199
+Key: 21, Value: 232
+Key: 20, Value: 221
+Key: 23, Value: 254
+Key: 22, Value: 243
+Key: 25, Value: 276
+Key: 24, Value: 265
+Key: 27, Value: 298
+Key: 26, Value: 287
+Key: 29, Value: 320
+Key: 28, Value: 309
+Key: 31, Value: 342
+Key: 30, Value: 331
+Key: 34, Value: 378
+Key: 35, Value: 389
+Key: 32, Value: 353
+Key: 33, Value: 367
+Key: 38, Value: 422
+Key: 39, Value: 433
+Key: 36, Value: 400
+Key: 37, Value: 411
+Key: 42, Value: 466
+Key: 43, Value: 477
+Key: 40, Value: 444
+Key: 41, Value: 455
+Key: 46, Value: 510
+Key: 47, Value: 521
+Key: 44, Value: 488
+Key: 45, Value: 499
+Key: 51, Value: 565
+Key: 50, Value: 554
+Key: 49, Value: 543
+Key: 48, Value: 532
+Key: 55, Value: 609
+Key: 54, Value: 598
+Key: 53, Value: 587
+Key: 52, Value: 576
+Key: 59, Value: 656
+Key: 58, Value: 645
+Key: 57, Value: 631
+Key: 56, Value: 620
+Key: 63, Value: 700
+Key: 62, Value: 689
+Key: 61, Value: 678
+Key: 60, Value: 667
+Key: 68, Value: 755
+Key: 69, Value: 766
+Key: 70, Value: 777
+Key: 71, Value: 788
+Key: 64, Value: 711
+Key: 65, Value: 722
+Key: 66, Value: 733
+Key: 67, Value: 744
+Key: 76, Value: 843
+Key: 77, Value: 854
+Key: 78, Value: 865
+Key: 79, Value: 876
+Key: 72, Value: 799
+Key: 73, Value: 810
+Key: 74, Value: 821
+Key: 75, Value: 832
+Key: 85, Value: 942
+Key: 84, Value: 931
+Key: 87, Value: 964
+Key: 86, Value: 953
+Key: 81, Value: 898
+Key: 80, Value: 887
+Key: 83, Value: 920
+Key: 82, Value: 909
+Key: 89, Value: 986
+Key: 88, Value: 975
+
+================================================
+                Switch Table 15                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 7

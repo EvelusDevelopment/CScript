@@ -1,0 +1,88 @@
+================================================
+      Client Script 1751 Dumped by SiniSoul    
+      Instruction Size: 77
+      Integer Arguments: 2 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADINT , Operand: 0
+Offset: 1, PUSHI , Operand: 2
+Offset: 2, IFLT , Operand: 1
+Offset: 3, GOTO , Operand: 2
+Offset: 4, PUSHS , Operand: in a minute
+Offset: 5, RETURN , Operand: 0
+Offset: 6, LOADINT , Operand: 0
+Offset: 7, PUSHI , Operand: 60
+Offset: 8, IDIV , Operand: 0
+Offset: 9, STOREINT , Operand: 1
+Offset: 10, LOADINT , Operand: 0
+Offset: 11, PUSHI , Operand: 60
+Offset: 12, IMOD , Operand: 0
+Offset: 13, STOREINT , Operand: 0
+Offset: 14, LOADINT , Operand: 1
+Offset: 15, PUSHI , Operand: 1
+Offset: 16, IFGT , Operand: 1
+Offset: 17, GOTO , Operand: 29
+Offset: 18, LOADINT , Operand: 0
+Offset: 19, PUSHI , Operand: 1
+Offset: 20, IFGT , Operand: 1
+Offset: 21, GOTO , Operand: 9
+Offset: 22, PUSHS , Operand: in 
+Offset: 23, LOADINT , Operand: 1
+Offset: 24, integerToString , Operand: 0
+Offset: 25, PUSHS , Operand:  hours 
+Offset: 26, LOADINT , Operand: 0
+Offset: 27, integerToString , Operand: 0
+Offset: 28, PUSHS , Operand:  minutes
+Offset: 29, CONCAT , Operand: 5
+Offset: 30, RETURN , Operand: 0
+Offset: 31, LOADINT , Operand: 0
+Offset: 32, PUSHI , Operand: 1
+Offset: 33, IFEQ , Operand: 1
+Offset: 34, GOTO , Operand: 6
+Offset: 35, PUSHS , Operand: in 
+Offset: 36, LOADINT , Operand: 1
+Offset: 37, integerToString , Operand: 0
+Offset: 38, PUSHS , Operand:  hours 1 minute
+Offset: 39, CONCAT , Operand: 3
+Offset: 40, RETURN , Operand: 0
+Offset: 41, PUSHS , Operand: in 
+Offset: 42, LOADINT , Operand: 1
+Offset: 43, integerToString , Operand: 0
+Offset: 44, PUSHS , Operand:  hours
+Offset: 45, CONCAT , Operand: 3
+Offset: 46, RETURN , Operand: 0
+Offset: 47, LOADINT , Operand: 1
+Offset: 48, PUSHI , Operand: 1
+Offset: 49, IFEQ , Operand: 1
+Offset: 50, GOTO , Operand: 18
+Offset: 51, LOADINT , Operand: 0
+Offset: 52, PUSHI , Operand: 1
+Offset: 53, IFGT , Operand: 1
+Offset: 54, GOTO , Operand: 6
+Offset: 55, PUSHS , Operand: in 1 hour 
+Offset: 56, LOADINT , Operand: 0
+Offset: 57, integerToString , Operand: 0
+Offset: 58, PUSHS , Operand:  minutes
+Offset: 59, CONCAT , Operand: 3
+Offset: 60, RETURN , Operand: 0
+Offset: 61, LOADINT , Operand: 0
+Offset: 62, PUSHI , Operand: 1
+Offset: 63, IFEQ , Operand: 1
+Offset: 64, GOTO , Operand: 2
+Offset: 65, PUSHS , Operand: in 1 hour 1 minute
+Offset: 66, RETURN , Operand: 0
+Offset: 67, PUSHS , Operand: in 1 hour
+Offset: 68, RETURN , Operand: 0
+Offset: 69, PUSHS , Operand: in 
+Offset: 70, LOADINT , Operand: 0
+Offset: 71, integerToString , Operand: 0
+Offset: 72, PUSHS , Operand:  minutes
+Offset: 73, CONCAT , Operand: 3
+Offset: 74, RETURN , Operand: 0
+Offset: 75, PUSHS , Operand: 
+Offset: 76, RETURN , Operand: 0

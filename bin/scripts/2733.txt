@@ -1,0 +1,109 @@
+================================================
+      Client Script 2733 Dumped by SiniSoul    
+      Instruction Size: 86
+      Integer Arguments: 0 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, Unref Opcode: 25, Operand: 6501
+Offset: 1, SWITCH , Operand: 0
+Offset: 2, LOADGINT , Operand: 1020
+Offset: 3, PUSHI , Operand: 0
+Offset: 4, IFNE , Operand: 1
+Offset: 5, GOTO , Operand: 8
+Offset: 6, LOADGINT , Operand: 1020
+Offset: 7, PUSHI , Operand: -1
+Offset: 8, IFNE , Operand: 1
+Offset: 9, GOTO , Operand: 2
+Offset: 10, PUSHI , Operand: 0
+Offset: 11, STOREGINT , Operand: 1020
+Offset: 12, PUSHI , Operand: 58982433
+Offset: 13, CALL , Operand: 2739
+Offset: 14, CALL , Operand: 2738
+Offset: 15, GOTO , Operand: 69
+Offset: 16, LOADGINT , Operand: 1020
+Offset: 17, PUSHI , Operand: 1
+Offset: 18, IFNE , Operand: 1
+Offset: 19, GOTO , Operand: 4
+Offset: 20, PUSHI , Operand: 1
+Offset: 21, STOREGINT , Operand: 1020
+Offset: 22, PUSHI , Operand: 58982437
+Offset: 23, CALL , Operand: 2739
+Offset: 24, CALL , Operand: 2738
+Offset: 25, GOTO , Operand: 59
+Offset: 26, LOADGINT , Operand: 1020
+Offset: 27, PUSHI , Operand: 2
+Offset: 28, IFNE , Operand: 1
+Offset: 29, GOTO , Operand: 4
+Offset: 30, PUSHI , Operand: 2
+Offset: 31, STOREGINT , Operand: 1020
+Offset: 32, PUSHI , Operand: 58982441
+Offset: 33, CALL , Operand: 2739
+Offset: 34, CALL , Operand: 2738
+Offset: 35, GOTO , Operand: 49
+Offset: 36, LOADGINT , Operand: 1020
+Offset: 37, PUSHI , Operand: 3
+Offset: 38, IFNE , Operand: 1
+Offset: 39, GOTO , Operand: 4
+Offset: 40, PUSHI , Operand: 3
+Offset: 41, STOREGINT , Operand: 1020
+Offset: 42, PUSHI , Operand: 58982445
+Offset: 43, CALL , Operand: 2739
+Offset: 44, CALL , Operand: 2738
+Offset: 45, GOTO , Operand: 39
+Offset: 46, LOADGINT , Operand: 1020
+Offset: 47, PUSHI , Operand: 4
+Offset: 48, IFNE , Operand: 1
+Offset: 49, GOTO , Operand: 4
+Offset: 50, PUSHI , Operand: 4
+Offset: 51, STOREGINT , Operand: 1020
+Offset: 52, PUSHI , Operand: 58982449
+Offset: 53, CALL , Operand: 2739
+Offset: 54, CALL , Operand: 2738
+Offset: 55, GOTO , Operand: 29
+Offset: 56, LOADGINT , Operand: 1020
+Offset: 57, PUSHI , Operand: 5
+Offset: 58, IFNE , Operand: 1
+Offset: 59, GOTO , Operand: 4
+Offset: 60, PUSHI , Operand: 5
+Offset: 61, STOREGINT , Operand: 1020
+Offset: 62, PUSHI , Operand: 58982453
+Offset: 63, CALL , Operand: 2739
+Offset: 64, CALL , Operand: 2738
+Offset: 65, GOTO , Operand: 19
+Offset: 66, LOADGINT , Operand: 1020
+Offset: 67, PUSHI , Operand: 6
+Offset: 68, IFNE , Operand: 1
+Offset: 69, GOTO , Operand: 4
+Offset: 70, PUSHI , Operand: 6
+Offset: 71, STOREGINT , Operand: 1020
+Offset: 72, PUSHI , Operand: 58982457
+Offset: 73, CALL , Operand: 2739
+Offset: 74, CALL , Operand: 2738
+Offset: 75, GOTO , Operand: 9
+Offset: 76, LOADGINT , Operand: 1020
+Offset: 77, PUSHI , Operand: 7
+Offset: 78, IFNE , Operand: 1
+Offset: 79, GOTO , Operand: 4
+Offset: 80, PUSHI , Operand: 7
+Offset: 81, STOREGINT , Operand: 1020
+Offset: 82, PUSHI , Operand: 58982461
+Offset: 83, CALL , Operand: 2739
+Offset: 84, CALL , Operand: 2738
+Offset: 85, RETURN , Operand: 0
+
+================================================
+                Switch Table 0                
+================================================
+
+Key: 1, Value: 14
+Key: 2, Value: 24
+Key: 3, Value: 34
+Key: 4, Value: 44
+Key: 5, Value: 54
+Key: 6, Value: 64
+Key: 7, Value: 74

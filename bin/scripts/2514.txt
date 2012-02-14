@@ -1,0 +1,39 @@
+================================================
+      Client Script 2514 Dumped by SiniSoul    
+      Instruction Size: 28
+      Integer Arguments: 0 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHS , Operand: 0
+Offset: 1, PUSHI , Operand: 42860555
+Offset: 2, Unref Method: 2112, Operand: 0
+Offset: 3, PUSHS , Operand: 0
+Offset: 4, PUSHI , Operand: 42860604
+Offset: 5, Unref Method: 2112, Operand: 0
+Offset: 6, PUSHS , Operand: 0
+Offset: 7, PUSHI , Operand: 42860596
+Offset: 8, Unref Method: 2112, Operand: 0
+Offset: 9, PUSHS , Operand: 0
+Offset: 10, PUSHI , Operand: 42860588
+Offset: 11, Unref Method: 2112, Operand: 0
+Offset: 12, PUSHS , Operand: 0
+Offset: 13, PUSHI , Operand: 42860613
+Offset: 14, Unref Method: 2112, Operand: 0
+Offset: 15, PUSHS , Operand: 0
+Offset: 16, PUSHI , Operand: 42860618
+Offset: 17, Unref Method: 2112, Operand: 0
+Offset: 18, LOADGINT , Operand: 839
+Offset: 19, PUSHI , Operand: 0
+Offset: 20, IFGTEQ , Operand: 1
+Offset: 21, GOTO , Operand: 5
+Offset: 22, LOADGINT , Operand: 839
+Offset: 23, PUSHS , Operand: ,
+Offset: 24, CALL , Operand: 46
+Offset: 25, PUSHI , Operand: 42860621
+Offset: 26, Unref Method: 2112, Operand: 0
+Offset: 27, RETURN , Operand: 0

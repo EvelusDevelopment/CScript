@@ -1,0 +1,19 @@
+================================================
+      Client Script 1191 Dumped by SiniSoul    
+      Instruction Size: 8
+      Integer Arguments: 2 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, Unref Method: 3335, Operand: 0
+Offset: 1, PUSHI , Operand: 0
+Offset: 2, IFNE , Operand: 1
+Offset: 3, GOTO , Operand: 3
+Offset: 4, LOADINT , Operand: 1
+Offset: 5, LOADINT , Operand: 0
+Offset: 6, Unref Method: 2113, Operand: 0
+Offset: 7, RETURN , Operand: 0

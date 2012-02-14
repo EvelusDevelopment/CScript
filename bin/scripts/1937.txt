@@ -1,0 +1,17 @@
+================================================
+      Client Script 1937 Dumped by SiniSoul    
+      Instruction Size: 6
+      Integer Arguments: 0 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADGINT , Operand: 549
+Offset: 1, integerToString , Operand: 0
+Offset: 2, PUSHI , Operand: 53149728
+Offset: 3, Unref Method: 2112, Operand: 0
+Offset: 4, CALL , Operand: 1928
+Offset: 5, RETURN , Operand: 0

@@ -1,0 +1,66 @@
+================================================
+      Client Script 1025 Dumped by SiniSoul    
+      Instruction Size: 55
+      Integer Arguments: 5 
+      String  Arguments: 1 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHS , Operand: null
+Offset: 1, STORESTR , Operand: 0
+Offset: 2, PUSHI , Operand: -1
+Offset: 3, STOREINT , Operand: 3
+Offset: 4, PUSHI , Operand: 1
+Offset: 5, STOREINT , Operand: 4
+Offset: 6, LOADINT , Operand: 2
+Offset: 7, CALL , Operand: 1024
+Offset: 8, PUSHI , Operand: 0
+Offset: 9, IFEQ , Operand: 1
+Offset: 10, GOTO , Operand: 20
+Offset: 11, PUSHS , Operand: <col=000080>
+Offset: 12, PUSHS , Operand: Level 
+Offset: 13, LOADINT , Operand: 1
+Offset: 14, integerToString , Operand: 0
+Offset: 15, PUSHS , Operand:  
+Offset: 16, PUSHS , Operand: <col=800000>
+Offset: 17, PUSHI , Operand: 680
+Offset: 18, LOADINT , Operand: 0
+Offset: 19, Unref Method: 3400, Operand: 0
+Offset: 20, PUSHS , Operand: <col=000080>
+Offset: 21, PUSHS , Operand:  is one of the requirements for 
+Offset: 22, PUSHS , Operand: <col=800000>
+Offset: 23, PUSHI , Operand: 1481
+Offset: 24, LOADINT , Operand: 2
+Offset: 25, Unref Method: 3400, Operand: 0
+Offset: 26, PUSHS , Operand: <col=000080>
+Offset: 27, PUSHS , Operand: .
+Offset: 28, CONCAT , Operand: 12
+Offset: 29, STORESTR , Operand: 0
+Offset: 30, GOTO , Operand: 10
+Offset: 31, PUSHS , Operand: <col=000080>
+Offset: 32, PUSHS , Operand: You now have all the levels you need to complete 
+Offset: 33, PUSHS , Operand: <col=800000>
+Offset: 34, PUSHI , Operand: 1481
+Offset: 35, LOADINT , Operand: 2
+Offset: 36, Unref Method: 3400, Operand: 0
+Offset: 37, PUSHS , Operand: <col=000080>
+Offset: 38, PUSHS , Operand: .
+Offset: 39, CONCAT , Operand: 6
+Offset: 40, STORESTR , Operand: 0
+Offset: 41, LOADINT , Operand: 3
+Offset: 42, PUSHI , Operand: -1
+Offset: 43, IFEQ , Operand: 1
+Offset: 44, GOTO , Operand: 2
+Offset: 45, PUSHI , Operand: 6513
+Offset: 46, STOREINT , Operand: 3
+Offset: 47, LOADSTR , Operand: 0
+Offset: 48, LOADINT , Operand: 3
+Offset: 49, LOADINT , Operand: 4
+Offset: 50, RETURN , Operand: 0
+Offset: 51, PUSHS , Operand: 
+Offset: 52, PUSHI , Operand: -1
+Offset: 53, PUSHI , Operand: 0
+Offset: 54, RETURN , Operand: 0

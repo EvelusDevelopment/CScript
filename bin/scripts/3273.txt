@@ -1,0 +1,145 @@
+================================================
+      Client Script 3273 Dumped by SiniSoul    
+      Instruction Size: 84
+      Integer Arguments: 3 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHI , Operand: 0
+Offset: 1, STOREINT , Operand: 0
+Offset: 2, LOADGINT , Operand: 1191
+Offset: 3, PUSHI , Operand: 10
+Offset: 4, IDIV , Operand: 0
+Offset: 5, STOREINT , Operand: 1
+Offset: 6, LOADGINT , Operand: 1191
+Offset: 7, LOADGINT , Operand: 1191
+Offset: 8, PUSHI , Operand: 10
+Offset: 9, IDIV , Operand: 0
+Offset: 10, PUSHI , Operand: 10
+Offset: 11, IMUL , Operand: 0
+Offset: 12, ISUB , Operand: 0
+Offset: 13, STOREINT , Operand: 2
+Offset: 14, LOADINT , Operand: 1
+Offset: 15, SWITCH , Operand: 0
+Offset: 16, GOTO , Operand: 59
+Offset: 17, LOADINT , Operand: 2
+Offset: 18, SWITCH , Operand: 1
+Offset: 19, GOTO , Operand: 2
+Offset: 20, PUSHI , Operand: 0
+Offset: 21, STOREINT , Operand: 0
+Offset: 22, GOTO , Operand: 53
+Offset: 23, LOADINT , Operand: 2
+Offset: 24, SWITCH , Operand: 2
+Offset: 25, GOTO , Operand: 5
+Offset: 26, PUSHI , Operand: -760
+Offset: 27, STOREINT , Operand: 0
+Offset: 28, GOTO , Operand: 2
+Offset: 29, PUSHI , Operand: 507
+Offset: 30, STOREINT , Operand: 0
+Offset: 31, GOTO , Operand: 44
+Offset: 32, LOADINT , Operand: 2
+Offset: 33, SWITCH , Operand: 3
+Offset: 34, GOTO , Operand: 8
+Offset: 35, PUSHI , Operand: -1520
+Offset: 36, STOREINT , Operand: 0
+Offset: 37, GOTO , Operand: 5
+Offset: 38, PUSHI , Operand: 190
+Offset: 39, STOREINT , Operand: 0
+Offset: 40, GOTO , Operand: 2
+Offset: 41, PUSHI , Operand: 950
+Offset: 42, STOREINT , Operand: 0
+Offset: 43, GOTO , Operand: 32
+Offset: 44, LOADINT , Operand: 2
+Offset: 45, SWITCH , Operand: 4
+Offset: 46, GOTO , Operand: 11
+Offset: 47, PUSHI , Operand: -2280
+Offset: 48, STOREINT , Operand: 0
+Offset: 49, GOTO , Operand: 8
+Offset: 50, PUSHI , Operand: -760
+Offset: 51, STOREINT , Operand: 0
+Offset: 52, GOTO , Operand: 5
+Offset: 53, PUSHI , Operand: 633
+Offset: 54, STOREINT , Operand: 0
+Offset: 55, GOTO , Operand: 2
+Offset: 56, PUSHI , Operand: 1457
+Offset: 57, STOREINT , Operand: 0
+Offset: 58, GOTO , Operand: 17
+Offset: 59, LOADINT , Operand: 2
+Offset: 60, SWITCH , Operand: 5
+Offset: 61, GOTO , Operand: 14
+Offset: 62, PUSHI , Operand: -3040
+Offset: 63, STOREINT , Operand: 0
+Offset: 64, GOTO , Operand: 11
+Offset: 65, PUSHI , Operand: -1267
+Offset: 66, STOREINT , Operand: 0
+Offset: 67, GOTO , Operand: 8
+Offset: 68, PUSHI , Operand: 380
+Offset: 69, STOREINT , Operand: 0
+Offset: 70, GOTO , Operand: 5
+Offset: 71, PUSHI , Operand: 1140
+Offset: 72, STOREINT , Operand: 0
+Offset: 73, GOTO , Operand: 2
+Offset: 74, PUSHI , Operand: 1900
+Offset: 75, STOREINT , Operand: 0
+Offset: 76, LOADINT , Operand: 1
+Offset: 77, LOADINT , Operand: 2
+Offset: 78, LOADINT , Operand: 0
+Offset: 79, RETURN , Operand: 0
+Offset: 80, PUSHI , Operand: 0
+Offset: 81, PUSHI , Operand: 0
+Offset: 82, PUSHI , Operand: 0
+Offset: 83, RETURN , Operand: 0
+
+================================================
+                Switch Table 0                
+================================================
+
+Key: 1, Value: 1
+Key: 2, Value: 7
+Key: 3, Value: 16
+Key: 4, Value: 28
+Key: 5, Value: 43
+
+================================================
+                Switch Table 1                
+================================================
+
+Key: 1, Value: 1
+
+================================================
+                Switch Table 2                
+================================================
+
+Key: 1, Value: 1
+Key: 2, Value: 4
+
+================================================
+                Switch Table 3                
+================================================
+
+Key: 1, Value: 1
+Key: 2, Value: 4
+Key: 3, Value: 7
+
+================================================
+                Switch Table 4                
+================================================
+
+Key: 1, Value: 1
+Key: 2, Value: 4
+Key: 3, Value: 7
+Key: 4, Value: 10
+
+================================================
+                Switch Table 5                
+================================================
+
+Key: 1, Value: 1
+Key: 2, Value: 4
+Key: 3, Value: 7
+Key: 4, Value: 10
+Key: 5, Value: 13

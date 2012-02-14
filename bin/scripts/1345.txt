@@ -1,0 +1,22 @@
+================================================
+      Client Script 1345 Dumped by SiniSoul    
+      Instruction Size: 11
+      Integer Arguments: 3 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADINT , Operand: 0
+Offset: 1, LOADINT , Operand: 1
+Offset: 2, Unref Method: 2601, Operand: 0
+Offset: 3, IADD , Operand: 0
+Offset: 4, PUSHI , Operand: 15
+Offset: 5, IDIV , Operand: 0
+Offset: 6, STOREINT , Operand: 2
+Offset: 7, LOADINT , Operand: 2
+Offset: 8, RETURN , Operand: 0
+Offset: 9, PUSHI , Operand: 0
+Offset: 10, RETURN , Operand: 0

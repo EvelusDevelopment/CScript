@@ -1,0 +1,44 @@
+================================================
+      Client Script 20 Dumped by SiniSoul    
+      Instruction Size: 33
+      Integer Arguments: 1 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADINT , Operand: 0
+Offset: 1, PUSHI , Operand: 99999999
+Offset: 2, IFGTEQ , Operand: 1
+Offset: 3, GOTO , Operand: 2
+Offset: 4, PUSHS , Operand: *
+Offset: 5, RETURN , Operand: 0
+Offset: 6, LOADINT , Operand: 0
+Offset: 7, PUSHI , Operand: 10000000
+Offset: 8, IFGTEQ , Operand: 1
+Offset: 9, GOTO , Operand: 7
+Offset: 10, LOADINT , Operand: 0
+Offset: 11, PUSHI , Operand: 1000000
+Offset: 12, IDIV , Operand: 0
+Offset: 13, integerToString , Operand: 0
+Offset: 14, PUSHS , Operand: M
+Offset: 15, concatStrings , Operand: 0
+Offset: 16, RETURN , Operand: 0
+Offset: 17, LOADINT , Operand: 0
+Offset: 18, PUSHI , Operand: 10000
+Offset: 19, IFGTEQ , Operand: 1
+Offset: 20, GOTO , Operand: 7
+Offset: 21, LOADINT , Operand: 0
+Offset: 22, PUSHI , Operand: 1000
+Offset: 23, IDIV , Operand: 0
+Offset: 24, integerToString , Operand: 0
+Offset: 25, PUSHS , Operand: K
+Offset: 26, concatStrings , Operand: 0
+Offset: 27, RETURN , Operand: 0
+Offset: 28, LOADINT , Operand: 0
+Offset: 29, integerToString , Operand: 0
+Offset: 30, RETURN , Operand: 0
+Offset: 31, PUSHS , Operand: 
+Offset: 32, RETURN , Operand: 0

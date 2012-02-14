@@ -1,0 +1,64 @@
+================================================
+      Client Script 220 Dumped by SiniSoul    
+      Instruction Size: 53
+      Integer Arguments: 0 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, CALL , Operand: 217
+Offset: 1, LOADGSTR , Operand: 24
+Offset: 2, PUSHS , Operand: 
+Offset: 3, Unref Method: 4107, Operand: 0
+Offset: 4, PUSHI , Operand: 0
+Offset: 5, IFEQ , Operand: 1
+Offset: 6, GOTO , Operand: 1
+Offset: 7, RETURN , Operand: 0
+Offset: 8, PUSHI , Operand: 2
+Offset: 9, STOREGINT , Operand: 790
+Offset: 10, PUSHI , Operand: 1
+Offset: 11, PUSHI , Operand: 38928417
+Offset: 12, Unref Method: 2003, Operand: 0
+Offset: 13, PUSHI , Operand: 1
+Offset: 14, PUSHI , Operand: 38928418
+Offset: 15, Unref Method: 2003, Operand: 0
+Offset: 16, PUSHI , Operand: 1
+Offset: 17, PUSHI , Operand: 38928445
+Offset: 18, Unref Method: 2003, Operand: 0
+Offset: 19, PUSHI , Operand: 1
+Offset: 20, PUSHI , Operand: 38928532
+Offset: 21, Unref Method: 2003, Operand: 0
+Offset: 22, PUSHI , Operand: 1
+Offset: 23, PUSHI , Operand: 38928533
+Offset: 24, Unref Method: 2003, Operand: 0
+Offset: 25, PUSHI , Operand: 1
+Offset: 26, PUSHI , Operand: 38928534
+Offset: 27, Unref Method: 2003, Operand: 0
+Offset: 28, PUSHI , Operand: 1
+Offset: 29, PUSHI , Operand: 38928535
+Offset: 30, Unref Method: 2003, Operand: 0
+Offset: 31, PUSHI , Operand: 1
+Offset: 32, PUSHI , Operand: 38928549
+Offset: 33, Unref Method: 2003, Operand: 0
+Offset: 34, PUSHI , Operand: 1
+Offset: 35, PUSHI , Operand: 38928550
+Offset: 36, Unref Method: 2003, Operand: 0
+Offset: 37, PUSHI , Operand: 0
+Offset: 38, PUSHI , Operand: 38928488
+Offset: 39, Unref Method: 2003, Operand: 0
+Offset: 40, PUSHI , Operand: 1
+Offset: 41, PUSHI , Operand: 38928504
+Offset: 42, Unref Method: 2003, Operand: 0
+Offset: 43, PUSHI , Operand: 1
+Offset: 44, PUSHI , Operand: 38928446
+Offset: 45, Unref Method: 2003, Operand: 0
+Offset: 46, PUSHI , Operand: 1
+Offset: 47, PUSHI , Operand: 38928501
+Offset: 48, Unref Method: 2003, Operand: 0
+Offset: 49, PUSHI , Operand: 1
+Offset: 50, PUSHI , Operand: 38928505
+Offset: 51, Unref Method: 2003, Operand: 0
+Offset: 52, RETURN , Operand: 0

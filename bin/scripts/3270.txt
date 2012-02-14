@@ -1,0 +1,43 @@
+================================================
+      Client Script 3270 Dumped by SiniSoul    
+      Instruction Size: 32
+      Integer Arguments: 3 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHI , Operand: 2
+Offset: 1, STOREINT , Operand: 2
+Offset: 2, LOADINT , Operand: 0
+Offset: 3, LOADINT , Operand: 2
+Offset: 4, PUSHI , Operand: 1
+Offset: 5, ISUB , Operand: 0
+Offset: 6, IADD , Operand: 0
+Offset: 7, LOADINT , Operand: 1
+Offset: 8, IFLT , Operand: 1
+Offset: 9, GOTO , Operand: 5
+Offset: 10, LOADINT , Operand: 0
+Offset: 11, LOADINT , Operand: 2
+Offset: 12, IADD , Operand: 0
+Offset: 13, RETURN , Operand: 0
+Offset: 14, GOTO , Operand: 15
+Offset: 15, LOADINT , Operand: 0
+Offset: 16, LOADINT , Operand: 2
+Offset: 17, PUSHI , Operand: 1
+Offset: 18, ISUB , Operand: 0
+Offset: 19, ISUB , Operand: 0
+Offset: 20, LOADINT , Operand: 1
+Offset: 21, IFGT , Operand: 1
+Offset: 22, GOTO , Operand: 5
+Offset: 23, LOADINT , Operand: 0
+Offset: 24, LOADINT , Operand: 2
+Offset: 25, ISUB , Operand: 0
+Offset: 26, RETURN , Operand: 0
+Offset: 27, GOTO , Operand: 2
+Offset: 28, LOADINT , Operand: 1
+Offset: 29, RETURN , Operand: 0
+Offset: 30, PUSHI , Operand: 0
+Offset: 31, RETURN , Operand: 0

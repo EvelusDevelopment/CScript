@@ -1,0 +1,61 @@
+================================================
+      Client Script 1269 Dumped by SiniSoul    
+      Instruction Size: 50
+      Integer Arguments: 0 
+      String  Arguments: 1 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHS , Operand: null
+Offset: 1, STORESTR , Operand: 0
+Offset: 2, Unref Opcode: 1, Operand: 427
+Offset: 3, PUSHI , Operand: 0
+Offset: 4, IFEQ , Operand: 1
+Offset: 5, GOTO , Operand: 20
+Offset: 6, PUSHI , Operand: 761
+Offset: 7, PUSHI , Operand: 17104903
+Offset: 8, Unref Method: 2105, Operand: 0
+Offset: 9, PUSHS , Operand: Accept aid
+Offset: 10, PUSHS , Operand: <br>
+Offset: 11, PUSHS , Operand: (currently off)
+Offset: 12, CONCAT , Operand: 3
+Offset: 13, STORESTR , Operand: 0
+Offset: 14, PUSHI , Operand: 38
+Offset: 15, PUSHI , Operand: -2147483645
+Offset: 16, PUSHI , Operand: 17104918
+Offset: 17, LOADSTR , Operand: 0
+Offset: 18, PUSHI , Operand: 25
+Offset: 19, PUSHI , Operand: 180
+Offset: 20, PUSHS , Operand: IIsii
+Offset: 21, PUSHI , Operand: 17104903
+Offset: 22, setInterfaceDefinitionScriptParams12 , Operand: 0
+Offset: 23, PUSHI , Operand: 0
+Offset: 24, STOREGINT , Operand: 2
+Offset: 25, GOTO , Operand: 23
+Offset: 26, Unref Opcode: 1, Operand: 427
+Offset: 27, PUSHI , Operand: 1
+Offset: 28, IFEQ , Operand: 1
+Offset: 29, GOTO , Operand: 19
+Offset: 30, PUSHI , Operand: 762
+Offset: 31, PUSHI , Operand: 17104903
+Offset: 32, Unref Method: 2105, Operand: 0
+Offset: 33, PUSHS , Operand: Accept aid
+Offset: 34, PUSHS , Operand: <br>
+Offset: 35, PUSHS , Operand: (currently on)
+Offset: 36, CONCAT , Operand: 3
+Offset: 37, STORESTR , Operand: 0
+Offset: 38, PUSHI , Operand: 38
+Offset: 39, PUSHI , Operand: -2147483645
+Offset: 40, PUSHI , Operand: 17104918
+Offset: 41, LOADSTR , Operand: 0
+Offset: 42, PUSHI , Operand: 25
+Offset: 43, PUSHI , Operand: 180
+Offset: 44, PUSHS , Operand: IIsii
+Offset: 45, PUSHI , Operand: 17104903
+Offset: 46, setInterfaceDefinitionScriptParams12 , Operand: 0
+Offset: 47, PUSHI , Operand: 0
+Offset: 48, STOREGINT , Operand: 2
+Offset: 49, RETURN , Operand: 0

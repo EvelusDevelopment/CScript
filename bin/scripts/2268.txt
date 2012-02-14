@@ -1,0 +1,23 @@
+================================================
+      Client Script 2268 Dumped by SiniSoul    
+      Instruction Size: 12
+      Integer Arguments: 1 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, Unref Opcode: 1, Operand: 170
+Offset: 1, PUSHI , Operand: 0
+Offset: 2, IFEQ , Operand: 1
+Offset: 3, GOTO , Operand: 4
+Offset: 4, PUSHS , Operand: Right-click the object to see more options.
+Offset: 5, LOADINT , Operand: 0
+Offset: 6, Unref Method: 2112, Operand: 0
+Offset: 7, GOTO , Operand: 3
+Offset: 8, PUSHS , Operand: Click the object to see more options.
+Offset: 9, LOADINT , Operand: 0
+Offset: 10, Unref Method: 2112, Operand: 0
+Offset: 11, RETURN , Operand: 0

@@ -1,0 +1,64 @@
+================================================
+      Client Script 3200 Dumped by SiniSoul    
+      Instruction Size: 53
+      Integer Arguments: 1 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADGSTR , Operand: 279
+Offset: 1, getStringLength , Operand: 0
+Offset: 2, PUSHI , Operand: 0
+Offset: 3, IFGT , Operand: 1
+Offset: 4, GOTO , Operand: 5
+Offset: 5, LOADGSTR , Operand: 279
+Offset: 6, LOADINT , Operand: 0
+Offset: 7, LOADGINT , Operand: 6
+Offset: 8, PUSHS , Operand: 
+Offset: 9, Unref Method: 5002, Operand: 0
+Offset: 10, CALL , Operand: 3194
+Offset: 11, LOADGSTR , Operand: 279
+Offset: 12, getStringLength , Operand: 0
+Offset: 13, PUSHI , Operand: 0
+Offset: 14, IFGT , Operand: 1
+Offset: 15, GOTO , Operand: 19
+Offset: 16, LOADGSTR , Operand: 279
+Offset: 17, Unref Method: 3623, Operand: 0
+Offset: 18, PUSHI , Operand: 0
+Offset: 19, IFEQ , Operand: 1
+Offset: 20, GOTO , Operand: 14
+Offset: 21, LOADGSTR , Operand: 279
+Offset: 22, Unref Method: 5015, Operand: 0
+Offset: 23, Unref Method: 4107, Operand: 0
+Offset: 24, PUSHI , Operand: 0
+Offset: 25, IFNE , Operand: 1
+Offset: 26, GOTO , Operand: 8
+Offset: 27, LOADINT , Operand: 0
+Offset: 28, PUSHI , Operand: 5
+Offset: 29, IFEQ , Operand: 1
+Offset: 30, GOTO , Operand: 2
+Offset: 31, PUSHI , Operand: 1
+Offset: 32, STOREGINT , Operand: 1094
+Offset: 33, CALL , Operand: 3203
+Offset: 34, GOTO , Operand: 17
+Offset: 35, PUSHI , Operand: 0
+Offset: 36, STOREGINT , Operand: 1094
+Offset: 37, LOADINT , Operand: 0
+Offset: 38, PUSHI , Operand: 5
+Offset: 39, IFEQ , Operand: 1
+Offset: 40, GOTO , Operand: 11
+Offset: 41, PUSHS , Operand: 
+Offset: 42, PUSHS , Operand: Open a bug report form?
+Offset: 43, PUSHS , Operand: <br>
+Offset: 44, PUSHS , Operand: (opens a new window)
+Offset: 45, CONCAT , Operand: 3
+Offset: 46, PUSHI , Operand: 0
+Offset: 47, PUSHI , Operand: 6
+Offset: 48, PUSHS , Operand: 
+Offset: 49, PUSHS , Operand: 
+Offset: 50, PUSHI , Operand: 1
+Offset: 51, CALL , Operand: 2190
+Offset: 52, RETURN , Operand: 0

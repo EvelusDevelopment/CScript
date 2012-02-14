@@ -1,0 +1,81 @@
+================================================
+      Client Script 60 Dumped by SiniSoul    
+      Instruction Size: 70
+      Integer Arguments: 3 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHI , Operand: 3
+Offset: 1, STOREINT , Operand: 0
+Offset: 2, PUSHI , Operand: 5
+Offset: 3, STOREINT , Operand: 1
+Offset: 4, PUSHI , Operand: 0
+Offset: 5, STOREINT , Operand: 2
+Offset: 6, LOADINT , Operand: 0
+Offset: 7, PUSHI , Operand: 255
+Offset: 8, IFLT , Operand: 1
+Offset: 9, GOTO , Operand: 59
+Offset: 10, LOADINT , Operand: 1
+Offset: 11, PUSHI , Operand: 235
+Offset: 12, IFLT , Operand: 1
+Offset: 13, GOTO , Operand: 48
+Offset: 14, PUSHI , Operand: 17039402
+Offset: 15, PUSHI , Operand: 5
+Offset: 16, LOADINT , Operand: 2
+Offset: 17, Unref Method: 100, Operand: 0
+Offset: 18, PUSHI , Operand: 36
+Offset: 19, PUSHI , Operand: 32
+Offset: 20, PUSHI , Operand: 0
+Offset: 21, PUSHI , Operand: 0
+Offset: 22, Unref Method: 1001, Operand: 0
+Offset: 23, LOADINT , Operand: 1
+Offset: 24, LOADINT , Operand: 0
+Offset: 25, PUSHI , Operand: 0
+Offset: 26, PUSHI , Operand: 0
+Offset: 27, Unref Method: 1000, Operand: 0
+Offset: 28, PUSHI , Operand: 514
+Offset: 29, LOADINT , Operand: 2
+Offset: 30, Unref Method: 3301, Operand: 0
+Offset: 31, PUSHI , Operand: -1
+Offset: 32, IFNE , Operand: 1
+Offset: 33, GOTO , Operand: 19
+Offset: 34, PUSHI , Operand: 514
+Offset: 35, LOADINT , Operand: 2
+Offset: 36, Unref Method: 3301, Operand: 0
+Offset: 37, PUSHI , Operand: 514
+Offset: 38, LOADINT , Operand: 2
+Offset: 39, Unref Method: 3302, Operand: 0
+Offset: 40, Unref Method: 1200, Operand: 0
+Offset: 41, PUSHI , Operand: 514
+Offset: 42, LOADINT , Operand: 2
+Offset: 43, Unref Method: 3301, Operand: 0
+Offset: 44, Unref Method: 4200, Operand: 0
+Offset: 45, Unref Method: 1305, Operand: 0
+Offset: 46, PUSHI , Operand: 1
+Offset: 47, PUSHS , Operand: Withdraw
+Offset: 48, setChildInterfaceText , Operand: 0
+Offset: 49, PUSHI , Operand: 1118481
+Offset: 50, Unref Method: 1117, Operand: 0
+Offset: 51, PUSHI , Operand: 1
+Offset: 52, Unref Method: 1116, Operand: 0
+Offset: 53, LOADINT , Operand: 1
+Offset: 54, PUSHI , Operand: 40
+Offset: 55, IADD , Operand: 0
+Offset: 56, STOREINT , Operand: 1
+Offset: 57, LOADINT , Operand: 2
+Offset: 58, PUSHI , Operand: 1
+Offset: 59, IADD , Operand: 0
+Offset: 60, STOREINT , Operand: 2
+Offset: 61, GOTO , Operand: -52
+Offset: 62, LOADINT , Operand: 0
+Offset: 63, PUSHI , Operand: 44
+Offset: 64, IADD , Operand: 0
+Offset: 65, STOREINT , Operand: 0
+Offset: 66, PUSHI , Operand: 5
+Offset: 67, STOREINT , Operand: 1
+Offset: 68, GOTO , Operand: -63
+Offset: 69, RETURN , Operand: 0

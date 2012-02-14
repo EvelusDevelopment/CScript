@@ -1,0 +1,23 @@
+================================================
+      Client Script 1335 Dumped by SiniSoul    
+      Instruction Size: 12
+      Integer Arguments: 3 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADINT , Operand: 0
+Offset: 1, LOADGSTR , Operand: 278
+Offset: 2, PUSHI , Operand: 494
+Offset: 3, LOADINT , Operand: 1
+Offset: 4, Unref Method: 2500, Operand: 0
+Offset: 5, CALL , Operand: 1401
+Offset: 6, STOREGINT , Operand: 1098
+Offset: 7, LOADINT , Operand: 1
+Offset: 8, LOADINT , Operand: 2
+Offset: 9, LOADGSTR , Operand: 278
+Offset: 10, CALL , Operand: 1390
+Offset: 11, RETURN , Operand: 0

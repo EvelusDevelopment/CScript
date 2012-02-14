@@ -1,0 +1,174 @@
+================================================
+      Client Script 56 Dumped by SiniSoul    
+      Instruction Size: 151
+      Integer Arguments: 1 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADINT , Operand: 0
+Offset: 1, SWITCH , Operand: 0
+Offset: 2, GOTO , Operand: 144
+Offset: 3, Unref Opcode: 25, Operand: 3578
+Offset: 4, Unref Opcode: 25, Operand: 3599
+Offset: 5, IADD , Operand: 0
+Offset: 6, Unref Opcode: 25, Operand: 3611
+Offset: 7, IADD , Operand: 0
+Offset: 8, PUSHI , Operand: 6
+Offset: 9, IFEQ , Operand: 1
+Offset: 10, GOTO , Operand: 3
+Offset: 11, PUSHI , Operand: 2
+Offset: 12, RETURN , Operand: 0
+Offset: 13, GOTO , Operand: 9
+Offset: 14, Unref Opcode: 25, Operand: 3576
+Offset: 15, PUSHI , Operand: 0
+Offset: 16, IFEQ , Operand: 1
+Offset: 17, GOTO , Operand: 3
+Offset: 18, PUSHI , Operand: 0
+Offset: 19, RETURN , Operand: 0
+Offset: 20, GOTO , Operand: 2
+Offset: 21, PUSHI , Operand: 1
+Offset: 22, RETURN , Operand: 0
+Offset: 23, GOTO , Operand: 123
+Offset: 24, Unref Opcode: 25, Operand: 3982
+Offset: 25, Unref Opcode: 25, Operand: 3983
+Offset: 26, IADD , Operand: 0
+Offset: 27, Unref Opcode: 25, Operand: 3984
+Offset: 28, IADD , Operand: 0
+Offset: 29, PUSHI , Operand: 3
+Offset: 30, IFEQ , Operand: 1
+Offset: 31, GOTO , Operand: 3
+Offset: 32, PUSHI , Operand: 2
+Offset: 33, RETURN , Operand: 0
+Offset: 34, GOTO , Operand: 9
+Offset: 35, Unref Opcode: 25, Operand: 3981
+Offset: 36, PUSHI , Operand: 0
+Offset: 37, IFEQ , Operand: 1
+Offset: 38, GOTO , Operand: 3
+Offset: 39, PUSHI , Operand: 0
+Offset: 40, RETURN , Operand: 0
+Offset: 41, GOTO , Operand: 2
+Offset: 42, PUSHI , Operand: 1
+Offset: 43, RETURN , Operand: 0
+Offset: 44, GOTO , Operand: 102
+Offset: 45, Unref Opcode: 25, Operand: 4942
+Offset: 46, Unref Opcode: 25, Operand: 4944
+Offset: 47, IADD , Operand: 0
+Offset: 48, Unref Opcode: 25, Operand: 4945
+Offset: 49, IADD , Operand: 0
+Offset: 50, PUSHI , Operand: 3
+Offset: 51, IFEQ , Operand: 1
+Offset: 52, GOTO , Operand: 3
+Offset: 53, PUSHI , Operand: 2
+Offset: 54, RETURN , Operand: 0
+Offset: 55, GOTO , Operand: 9
+Offset: 56, Unref Opcode: 25, Operand: 4940
+Offset: 57, PUSHI , Operand: 0
+Offset: 58, IFEQ , Operand: 1
+Offset: 59, GOTO , Operand: 3
+Offset: 60, PUSHI , Operand: 0
+Offset: 61, RETURN , Operand: 0
+Offset: 62, GOTO , Operand: 2
+Offset: 63, PUSHI , Operand: 1
+Offset: 64, RETURN , Operand: 0
+Offset: 65, GOTO , Operand: 81
+Offset: 66, CALL , Operand: 1987
+Offset: 67, PUSHI , Operand: 1
+Offset: 68, IFEQ , Operand: 1
+Offset: 69, GOTO , Operand: 3
+Offset: 70, PUSHI , Operand: 2
+Offset: 71, RETURN , Operand: 0
+Offset: 72, GOTO , Operand: 9
+Offset: 73, Unref Opcode: 25, Operand: 5644
+Offset: 74, PUSHI , Operand: 0
+Offset: 75, IFEQ , Operand: 1
+Offset: 76, GOTO , Operand: 3
+Offset: 77, PUSHI , Operand: 0
+Offset: 78, RETURN , Operand: 0
+Offset: 79, GOTO , Operand: 2
+Offset: 80, PUSHI , Operand: 1
+Offset: 81, RETURN , Operand: 0
+Offset: 82, GOTO , Operand: 64
+Offset: 83, Unref Opcode: 25, Operand: 5688
+Offset: 84, Unref Opcode: 25, Operand: 5689
+Offset: 85, IADD , Operand: 0
+Offset: 86, Unref Opcode: 25, Operand: 5690
+Offset: 87, IADD , Operand: 0
+Offset: 88, PUSHI , Operand: 3
+Offset: 89, IFEQ , Operand: 1
+Offset: 90, GOTO , Operand: 3
+Offset: 91, PUSHI , Operand: 2
+Offset: 92, RETURN , Operand: 0
+Offset: 93, GOTO , Operand: 9
+Offset: 94, Unref Opcode: 25, Operand: 5687
+Offset: 95, PUSHI , Operand: 0
+Offset: 96, IFEQ , Operand: 1
+Offset: 97, GOTO , Operand: 3
+Offset: 98, PUSHI , Operand: 0
+Offset: 99, RETURN , Operand: 0
+Offset: 100, GOTO , Operand: 2
+Offset: 101, PUSHI , Operand: 1
+Offset: 102, RETURN , Operand: 0
+Offset: 103, GOTO , Operand: 43
+Offset: 104, Unref Opcode: 25, Operand: 5779
+Offset: 105, Unref Opcode: 25, Operand: 5780
+Offset: 106, IADD , Operand: 0
+Offset: 107, Unref Opcode: 25, Operand: 5781
+Offset: 108, IADD , Operand: 0
+Offset: 109, PUSHI , Operand: 3
+Offset: 110, IFEQ , Operand: 1
+Offset: 111, GOTO , Operand: 3
+Offset: 112, PUSHI , Operand: 2
+Offset: 113, RETURN , Operand: 0
+Offset: 114, GOTO , Operand: 9
+Offset: 115, Unref Opcode: 25, Operand: 5778
+Offset: 116, PUSHI , Operand: 0
+Offset: 117, IFEQ , Operand: 1
+Offset: 118, GOTO , Operand: 3
+Offset: 119, PUSHI , Operand: 0
+Offset: 120, RETURN , Operand: 0
+Offset: 121, GOTO , Operand: 2
+Offset: 122, PUSHI , Operand: 1
+Offset: 123, RETURN , Operand: 0
+Offset: 124, GOTO , Operand: 22
+Offset: 125, Unref Opcode: 25, Operand: 6621
+Offset: 126, Unref Opcode: 25, Operand: 6638
+Offset: 127, IADD , Operand: 0
+Offset: 128, Unref Opcode: 25, Operand: 6656
+Offset: 129, IADD , Operand: 0
+Offset: 130, Unref Opcode: 25, Operand: 6663
+Offset: 131, IADD , Operand: 0
+Offset: 132, PUSHI , Operand: 4
+Offset: 133, IFEQ , Operand: 1
+Offset: 134, GOTO , Operand: 3
+Offset: 135, PUSHI , Operand: 2
+Offset: 136, RETURN , Operand: 0
+Offset: 137, GOTO , Operand: 9
+Offset: 138, Unref Opcode: 25, Operand: 6597
+Offset: 139, PUSHI , Operand: 0
+Offset: 140, IFEQ , Operand: 1
+Offset: 141, GOTO , Operand: 3
+Offset: 142, PUSHI , Operand: 0
+Offset: 143, RETURN , Operand: 0
+Offset: 144, GOTO , Operand: 2
+Offset: 145, PUSHI , Operand: 1
+Offset: 146, RETURN , Operand: 0
+Offset: 147, PUSHI , Operand: -1
+Offset: 148, RETURN , Operand: 0
+Offset: 149, PUSHI , Operand: 0
+Offset: 150, RETURN , Operand: 0
+
+================================================
+                Switch Table 0                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 22
+Key: 2, Value: 43
+Key: 3, Value: 64
+Key: 4, Value: 81
+Key: 5, Value: 102
+Key: 6, Value: 123

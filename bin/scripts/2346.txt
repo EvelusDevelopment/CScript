@@ -1,0 +1,56 @@
+================================================
+      Client Script 2346 Dumped by SiniSoul    
+      Instruction Size: 45
+      Integer Arguments: 0 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADGINT , Operand: 769
+Offset: 1, PUSHI , Operand: 1
+Offset: 2, IADD , Operand: 0
+Offset: 3, STOREGINT , Operand: 769
+Offset: 4, LOADGINT , Operand: 769
+Offset: 5, PUSHI , Operand: 0
+Offset: 6, Unref Method: 5407, Operand: 0
+Offset: 7, PUSHI , Operand: 1
+Offset: 8, ISUB , Operand: 0
+Offset: 9, IFGTEQ , Operand: 1
+Offset: 10, GOTO , Operand: 7
+Offset: 11, PUSHI , Operand: 0
+Offset: 12, STOREGINT , Operand: 769
+Offset: 13, PUSHI , Operand: -1
+Offset: 14, PUSHS , Operand: 
+Offset: 15, PUSHI , Operand: 38141952
+Offset: 16, setInterfaceDefinitionScriptParams26 , Operand: 0
+Offset: 17, RETURN , Operand: 0
+Offset: 18, LOADGINT , Operand: 769
+Offset: 19, PUSHI , Operand: 0
+Offset: 20, Unref Method: 5407, Operand: 0
+Offset: 21, PUSHI , Operand: 2
+Offset: 22, ISUB , Operand: 0
+Offset: 23, IFEQ , Operand: 1
+Offset: 24, GOTO , Operand: 8
+Offset: 25, PUSHI , Operand: 0
+Offset: 26, LOADGINT , Operand: 769
+Offset: 27, PUSHI , Operand: 200
+Offset: 28, PUSHI , Operand: 75
+Offset: 29, PUSHI , Operand: 1
+Offset: 30, LOADGINT , Operand: 769
+Offset: 31, Unref Method: 5502, Operand: 0
+Offset: 32, GOTO , Operand: 7
+Offset: 33, PUSHI , Operand: 0
+Offset: 34, LOADGINT , Operand: 769
+Offset: 35, PUSHI , Operand: 200
+Offset: 36, PUSHI , Operand: 200
+Offset: 37, PUSHI , Operand: 1
+Offset: 38, LOADGINT , Operand: 769
+Offset: 39, Unref Method: 5502, Operand: 0
+Offset: 40, PUSHI , Operand: 2346
+Offset: 41, PUSHS , Operand: 
+Offset: 42, PUSHI , Operand: 38141952
+Offset: 43, setInterfaceDefinitionScriptParams26 , Operand: 0
+Offset: 44, RETURN , Operand: 0

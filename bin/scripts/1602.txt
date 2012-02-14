@@ -1,0 +1,21 @@
+================================================
+      Client Script 1602 Dumped by SiniSoul    
+      Instruction Size: 10
+      Integer Arguments: 0 
+      String  Arguments: 1 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADSTR , Operand: 0
+Offset: 1, PUSHS , Operand: <lt>
+Offset: 2, PUSHI , Operand: 0
+Offset: 3, PUSHI , Operand: 1
+Offset: 4, Unref Method: 4118, Operand: 0
+Offset: 5, PUSHS , Operand: >
+Offset: 6, CALL , Operand: 2332
+Offset: 7, RETURN , Operand: 0
+Offset: 8, PUSHS , Operand: 
+Offset: 9, RETURN , Operand: 0

@@ -1,0 +1,47 @@
+================================================
+      Client Script 1449 Dumped by SiniSoul    
+      Instruction Size: 36
+      Integer Arguments: 0 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHI , Operand: 0
+Offset: 1, STOREGINT , Operand: 188
+Offset: 2, CALL , Operand: 1487
+Offset: 3, CALL , Operand: 1490
+Offset: 4, CALL , Operand: 1450
+Offset: 5, CALL , Operand: 1464
+Offset: 6, CALL , Operand: 1455
+Offset: 7, CALL , Operand: 1459
+Offset: 8, Unref Opcode: 25, Operand: 4893
+Offset: 9, CALL , Operand: 1463
+Offset: 10, PUSHI , Operand: 1472
+Offset: 11, PUSHI , Operand: 190
+Offset: 12, PUSHI , Operand: 1
+Offset: 13, PUSHS , Operand: Y
+Offset: 14, PUSHI , Operand: 49938449
+Offset: 15, setInterfaceDefinitionScriptParams28 , Operand: 0
+Offset: 16, PUSHI , Operand: 1465
+Offset: 17, PUSHI , Operand: 192
+Offset: 18, PUSHI , Operand: 1038
+Offset: 19, PUSHI , Operand: 1324
+Offset: 20, PUSHI , Operand: 3
+Offset: 21, PUSHS , Operand: Y
+Offset: 22, PUSHI , Operand: 49938453
+Offset: 23, setInterfaceDefinitionScriptParams28 , Operand: 0
+Offset: 24, PUSHI , Operand: 0
+Offset: 25, Unref Opcode: 25, Operand: 4893
+Offset: 26, CALL , Operand: 704
+Offset: 27, PUSHI , Operand: 49938525
+Offset: 28, Unref Method: 2100, Operand: 0
+Offset: 29, PUSHI , Operand: 49938546
+Offset: 30, PUSHI , Operand: 49938525
+Offset: 31, PUSHI , Operand: 49938525
+Offset: 32, Unref Method: 2601, Operand: 0
+Offset: 33, PUSHI , Operand: 1
+Offset: 34, CALL , Operand: 157
+Offset: 35, RETURN , Operand: 0

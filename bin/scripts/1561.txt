@@ -1,0 +1,107 @@
+================================================
+      Client Script 1561 Dumped by SiniSoul    
+      Instruction Size: 96
+      Integer Arguments: 2 
+      String  Arguments: 2 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHI , Operand: 0
+Offset: 1, Unref Method: 5003, Operand: 0
+Offset: 2, STORESTR , Operand: 0
+Offset: 3, PUSHI , Operand: 1
+Offset: 4, STOREINT , Operand: 0
+Offset: 5, PUSHI , Operand: 0
+Offset: 6, STOREINT , Operand: 1
+Offset: 7, PUSHS , Operand: 
+Offset: 8, STORESTR , Operand: 1
+Offset: 9, LOADINT , Operand: 1
+Offset: 10, PUSHI , Operand: 0
+Offset: 11, IFEQ , Operand: 1
+Offset: 12, GOTO , Operand: 80
+Offset: 13, LOADINT , Operand: 0
+Offset: 14, Unref Method: 5017, Operand: 0
+Offset: 15, IFLT , Operand: 1
+Offset: 16, GOTO , Operand: 76
+Offset: 17, LOADINT , Operand: 0
+Offset: 18, Unref Method: 5003, Operand: 0
+Offset: 19, STORESTR , Operand: 1
+Offset: 20, LOADINT , Operand: 0
+Offset: 21, Unref Method: 5004, Operand: 0
+Offset: 22, PUSHI , Operand: 0
+Offset: 23, IFNE , Operand: 1
+Offset: 24, GOTO , Operand: 38
+Offset: 25, LOADINT , Operand: 0
+Offset: 26, Unref Method: 5004, Operand: 0
+Offset: 27, PUSHI , Operand: 4
+Offset: 28, IFNE , Operand: 1
+Offset: 29, GOTO , Operand: 33
+Offset: 30, LOADINT , Operand: 0
+Offset: 31, Unref Method: 5004, Operand: 0
+Offset: 32, PUSHI , Operand: 27
+Offset: 33, IFNE , Operand: 1
+Offset: 34, GOTO , Operand: 28
+Offset: 35, LOADINT , Operand: 0
+Offset: 36, Unref Method: 5004, Operand: 0
+Offset: 37, PUSHI , Operand: 28
+Offset: 38, IFNE , Operand: 1
+Offset: 39, GOTO , Operand: 23
+Offset: 40, LOADINT , Operand: 0
+Offset: 41, Unref Method: 5004, Operand: 0
+Offset: 42, PUSHI , Operand: 29
+Offset: 43, IFNE , Operand: 1
+Offset: 44, GOTO , Operand: 18
+Offset: 45, LOADINT , Operand: 0
+Offset: 46, Unref Method: 5004, Operand: 0
+Offset: 47, PUSHI , Operand: 26
+Offset: 48, IFNE , Operand: 1
+Offset: 49, GOTO , Operand: 13
+Offset: 50, LOADINT , Operand: 0
+Offset: 51, Unref Method: 5004, Operand: 0
+Offset: 52, PUSHI , Operand: 30
+Offset: 53, IFNE , Operand: 1
+Offset: 54, GOTO , Operand: 8
+Offset: 55, LOADINT , Operand: 0
+Offset: 56, Unref Method: 5004, Operand: 0
+Offset: 57, PUSHI , Operand: 31
+Offset: 58, IFNE , Operand: 1
+Offset: 59, GOTO , Operand: 3
+Offset: 60, PUSHI , Operand: 1
+Offset: 61, STOREINT , Operand: 1
+Offset: 62, GOTO , Operand: 25
+Offset: 63, LOADINT , Operand: 0
+Offset: 64, Unref Method: 5024, Operand: 0
+Offset: 65, LOADGINT , Operand: 1269
+Offset: 66, IFLTEQ , Operand: 1
+Offset: 67, GOTO , Operand: 3
+Offset: 68, PUSHI , Operand: 1
+Offset: 69, STOREINT , Operand: 1
+Offset: 70, GOTO , Operand: 17
+Offset: 71, LOADSTR , Operand: 1
+Offset: 72, discludeTagsInString , Operand: 0
+Offset: 73, getStringLength , Operand: 0
+Offset: 74, PUSHI , Operand: 0
+Offset: 75, IFGT , Operand: 1
+Offset: 76, GOTO , Operand: 7
+Offset: 77, LOADSTR , Operand: 1
+Offset: 78, PUSHS , Operand: <br>
+Offset: 79, concatStrings , Operand: 0
+Offset: 80, LOADSTR , Operand: 0
+Offset: 81, concatStrings , Operand: 0
+Offset: 82, STORESTR , Operand: 0
+Offset: 83, GOTO , Operand: 4
+Offset: 84, PUSHS , Operand: <br>
+Offset: 85, LOADSTR , Operand: 0
+Offset: 86, concatStrings , Operand: 0
+Offset: 87, STORESTR , Operand: 0
+Offset: 88, LOADINT , Operand: 0
+Offset: 89, PUSHI , Operand: 1
+Offset: 90, IADD , Operand: 0
+Offset: 91, STOREINT , Operand: 0
+Offset: 92, GOTO , Operand: -84
+Offset: 93, LOADSTR , Operand: 0
+Offset: 94, CALL , Operand: 102
+Offset: 95, RETURN , Operand: 0

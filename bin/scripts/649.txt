@@ -1,0 +1,24 @@
+================================================
+      Client Script 649 Dumped by SiniSoul    
+      Instruction Size: 13
+      Integer Arguments: 4 
+      String  Arguments: 1 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHI , Operand: 6881296
+Offset: 1, Unref Method: 2504, Operand: 0
+Offset: 2, PUSHI , Operand: 0
+Offset: 3, IFEQ , Operand: 1
+Offset: 4, GOTO , Operand: 1
+Offset: 5, RETURN , Operand: 0
+Offset: 6, LOADINT , Operand: 0
+Offset: 7, LOADINT , Operand: 1
+Offset: 8, LOADSTR , Operand: 0
+Offset: 9, LOADINT , Operand: 2
+Offset: 10, LOADINT , Operand: 3
+Offset: 11, CALL , Operand: 39
+Offset: 12, RETURN , Operand: 0

@@ -1,0 +1,24 @@
+================================================
+      Client Script 1524 Dumped by SiniSoul    
+      Instruction Size: 13
+      Integer Arguments: 0 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHI , Operand: 18022409
+Offset: 1, PUSHI , Operand: 0
+Offset: 2, Unref Method: 200, Operand: 0
+Offset: 3, PUSHI , Operand: 1
+Offset: 4, IFEQ , Operand: 1
+Offset: 5, GOTO , Operand: 6
+Offset: 6, PUSHI , Operand: 18022409
+Offset: 7, Unref Method: 102, Operand: 0
+Offset: 8, PUSHI , Operand: 1
+Offset: 9, PUSHS , Operand: null
+Offset: 10, PUSHI , Operand: 18022409
+Offset: 11, Unref Method: 2300, Operand: 0
+Offset: 12, RETURN , Operand: 0

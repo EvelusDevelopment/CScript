@@ -1,0 +1,48 @@
+================================================
+      Client Script 1207 Dumped by SiniSoul    
+      Instruction Size: 37
+      Integer Arguments: 2 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADINT , Operand: 0
+Offset: 1, PUSHI , Operand: 11
+Offset: 2, IFLTEQ , Operand: 1
+Offset: 3, GOTO , Operand: 9
+Offset: 4, PUSHI , Operand: 404
+Offset: 5, PUSHI , Operand: 215
+Offset: 6, PUSHI , Operand: 18022406
+Offset: 7, Unref Method: 2120, Operand: 0
+Offset: 8, PUSHI , Operand: 18022407
+Offset: 9, PUSHI , Operand: 18022406
+Offset: 10, PUSHI , Operand: 0
+Offset: 11, CALL , Operand: 72
+Offset: 12, GOTO , Operand: 23
+Offset: 13, PUSHI , Operand: 404
+Offset: 14, LOADINT , Operand: 0
+Offset: 15, PUSHI , Operand: 20
+Offset: 16, IMUL , Operand: 0
+Offset: 17, PUSHI , Operand: 18022406
+Offset: 18, Unref Method: 2120, Operand: 0
+Offset: 19, LOADINT , Operand: 1
+Offset: 20, PUSHI , Operand: 1
+Offset: 21, IFEQ , Operand: 1
+Offset: 22, GOTO , Operand: 5
+Offset: 23, PUSHI , Operand: 18022407
+Offset: 24, PUSHI , Operand: 18022406
+Offset: 25, PUSHI , Operand: 0
+Offset: 26, CALL , Operand: 72
+Offset: 27, GOTO , Operand: 8
+Offset: 28, PUSHI , Operand: 18022407
+Offset: 29, PUSHI , Operand: 18022406
+Offset: 30, LOADINT , Operand: 0
+Offset: 31, PUSHI , Operand: 20
+Offset: 32, IMUL , Operand: 0
+Offset: 33, PUSHI , Operand: 180
+Offset: 34, ISUB , Operand: 0
+Offset: 35, CALL , Operand: 72
+Offset: 36, RETURN , Operand: 0

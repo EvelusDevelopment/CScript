@@ -1,0 +1,25 @@
+================================================
+      Client Script 1169 Dumped by SiniSoul    
+      Instruction Size: 14
+      Integer Arguments: 3 
+      String  Arguments: 1 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHI , Operand: 105
+Offset: 1, PUSHI , Operand: 73
+Offset: 2, PUSHI , Operand: 737
+Offset: 3, LOADINT , Operand: 1
+Offset: 4, Unref Method: 3408, Operand: 0
+Offset: 5, STOREINT , Operand: 2
+Offset: 6, PUSHI , Operand: 1168
+Offset: 7, LOADINT , Operand: 0
+Offset: 8, LOADSTR , Operand: 0
+Offset: 9, LOADINT , Operand: 2
+Offset: 10, PUSHS , Operand: isI
+Offset: 11, LOADINT , Operand: 2
+Offset: 12, setInterfaceDefinitionScriptParams8 , Operand: 0
+Offset: 13, RETURN , Operand: 0

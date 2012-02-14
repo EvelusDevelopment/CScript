@@ -1,0 +1,18 @@
+================================================
+      Client Script 2072 Dumped by SiniSoul    
+      Instruction Size: 7
+      Integer Arguments: 0 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHS , Operand: Zeal: 
+Offset: 1, Unref Opcode: 25, Operand: 5827
+Offset: 2, integerToString , Operand: 0
+Offset: 3, CONCAT , Operand: 2
+Offset: 4, PUSHI , Operand: 18087995
+Offset: 5, Unref Method: 2112, Operand: 0
+Offset: 6, RETURN , Operand: 0

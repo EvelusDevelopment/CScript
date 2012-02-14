@@ -1,0 +1,47 @@
+================================================
+      Client Script 2356 Dumped by SiniSoul    
+      Instruction Size: 36
+      Integer Arguments: 0 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, Unref Method: 3327, Operand: 0
+Offset: 1, PUSHI , Operand: 1
+Offset: 2, IFNE , Operand: 1
+Offset: 3, GOTO , Operand: 31
+Offset: 4, PUSHI , Operand: 0
+Offset: 5, PUSHI , Operand: 20250630
+Offset: 6, Unref Method: 2003, Operand: 0
+Offset: 7, PUSHI , Operand: 0
+Offset: 8, PUSHI , Operand: 20250637
+Offset: 9, Unref Method: 2003, Operand: 0
+Offset: 10, PUSHI , Operand: 1
+Offset: 11, PUSHI , Operand: 20250631
+Offset: 12, Unref Method: 2003, Operand: 0
+Offset: 13, PUSHI , Operand: 1
+Offset: 14, PUSHI , Operand: 20250636
+Offset: 15, Unref Method: 2003, Operand: 0
+Offset: 16, PUSHI , Operand: 1056
+Offset: 17, PUSHI , Operand: 20250640
+Offset: 18, Unref Method: 2105, Operand: 0
+Offset: 19, PUSHI , Operand: 1047
+Offset: 20, PUSHI , Operand: 20250639
+Offset: 21, Unref Method: 2105, Operand: 0
+Offset: 22, PUSHI , Operand: 1
+Offset: 23, STOREGINT , Operand: 776
+Offset: 24, PUSHI , Operand: 700
+Offset: 25, STOREGINT , Operand: 773
+Offset: 26, PUSHI , Operand: 20250630
+Offset: 27, CALL , Operand: 2358
+Offset: 28, PUSHI , Operand: 20250637
+Offset: 29, PUSHI , Operand: 20250630
+Offset: 30, CALL , Operand: 2364
+Offset: 31, PUSHI , Operand: 20250630
+Offset: 32, LOADGINT , Operand: 775
+Offset: 33, CALL , Operand: 2362
+Offset: 34, CALL , Operand: 2366
+Offset: 35, RETURN , Operand: 0

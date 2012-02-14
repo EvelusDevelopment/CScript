@@ -1,0 +1,104 @@
+================================================
+      Client Script 266 Dumped by SiniSoul    
+      Instruction Size: 93
+      Integer Arguments: 0 
+      String  Arguments: 1 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHI , Operand: 4
+Offset: 1, NEWARRAY , Operand: 105
+Offset: 2, LOADGINT , Operand: 1104
+Offset: 3, LOADGINT , Operand: 1104
+Offset: 4, AASTORE , Operand: 0
+Offset: 5, PUSHI , Operand: 1
+Offset: 6, IADD , Operand: 0
+Offset: 7, AALOAD , Operand: 0
+Offset: 8, LOADGINT , Operand: 1105
+Offset: 9, LOADGINT , Operand: 1105
+Offset: 10, AASTORE , Operand: 0
+Offset: 11, PUSHI , Operand: 1
+Offset: 12, IADD , Operand: 0
+Offset: 13, AALOAD , Operand: 0
+Offset: 14, LOADGINT , Operand: 1106
+Offset: 15, LOADGINT , Operand: 1106
+Offset: 16, AASTORE , Operand: 0
+Offset: 17, PUSHI , Operand: 1
+Offset: 18, IADD , Operand: 0
+Offset: 19, AALOAD , Operand: 0
+Offset: 20, LOADGINT , Operand: 1107
+Offset: 21, LOADGINT , Operand: 1107
+Offset: 22, AASTORE , Operand: 0
+Offset: 23, PUSHI , Operand: 1
+Offset: 24, IADD , Operand: 0
+Offset: 25, AALOAD , Operand: 0
+Offset: 26, LOADGINT , Operand: 1108
+Offset: 27, LOADGINT , Operand: 1108
+Offset: 28, AASTORE , Operand: 0
+Offset: 29, PUSHI , Operand: 1
+Offset: 30, IADD , Operand: 0
+Offset: 31, AALOAD , Operand: 0
+Offset: 32, PUSHS , Operand: Small x 
+Offset: 33, PUSHI , Operand: 1
+Offset: 34, AASTORE , Operand: 0
+Offset: 35, integerToString , Operand: 0
+Offset: 36, CONCAT , Operand: 2
+Offset: 37, PUSHI , Operand: 60489781
+Offset: 38, Unref Method: 2112, Operand: 0
+Offset: 39, PUSHS , Operand: Med. x 
+Offset: 40, PUSHI , Operand: 2
+Offset: 41, AASTORE , Operand: 0
+Offset: 42, integerToString , Operand: 0
+Offset: 43, CONCAT , Operand: 2
+Offset: 44, PUSHI , Operand: 60489782
+Offset: 45, Unref Method: 2112, Operand: 0
+Offset: 46, PUSHS , Operand: Large x 
+Offset: 47, PUSHI , Operand: 3
+Offset: 48, AASTORE , Operand: 0
+Offset: 49, integerToString , Operand: 0
+Offset: 50, CONCAT , Operand: 2
+Offset: 51, PUSHI , Operand: 60489783
+Offset: 52, Unref Method: 2112, Operand: 0
+Offset: 53, PUSHS , Operand: 
+Offset: 54, STORESTR , Operand: 0
+Offset: 55, PUSHI , Operand: 1
+Offset: 56, AASTORE , Operand: 0
+Offset: 57, PUSHI , Operand: 0
+Offset: 58, IFGT , Operand: 1
+Offset: 59, GOTO , Operand: 2
+Offset: 60, PUSHS , Operand: Remove-weight
+Offset: 61, STORESTR , Operand: 0
+Offset: 62, PUSHI , Operand: 1
+Offset: 63, LOADSTR , Operand: 0
+Offset: 64, PUSHI , Operand: 60489781
+Offset: 65, Unref Method: 2300, Operand: 0
+Offset: 66, PUSHS , Operand: 
+Offset: 67, STORESTR , Operand: 0
+Offset: 68, PUSHI , Operand: 2
+Offset: 69, AASTORE , Operand: 0
+Offset: 70, PUSHI , Operand: 0
+Offset: 71, IFGT , Operand: 1
+Offset: 72, GOTO , Operand: 2
+Offset: 73, PUSHS , Operand: Remove-weight
+Offset: 74, STORESTR , Operand: 0
+Offset: 75, PUSHI , Operand: 1
+Offset: 76, LOADSTR , Operand: 0
+Offset: 77, PUSHI , Operand: 60489782
+Offset: 78, Unref Method: 2300, Operand: 0
+Offset: 79, PUSHS , Operand: 
+Offset: 80, STORESTR , Operand: 0
+Offset: 81, PUSHI , Operand: 3
+Offset: 82, AASTORE , Operand: 0
+Offset: 83, PUSHI , Operand: 0
+Offset: 84, IFGT , Operand: 1
+Offset: 85, GOTO , Operand: 2
+Offset: 86, PUSHS , Operand: Remove-weight
+Offset: 87, STORESTR , Operand: 0
+Offset: 88, PUSHI , Operand: 1
+Offset: 89, LOADSTR , Operand: 0
+Offset: 90, PUSHI , Operand: 60489783
+Offset: 91, Unref Method: 2300, Operand: 0
+Offset: 92, RETURN , Operand: 0

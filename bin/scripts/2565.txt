@@ -1,0 +1,31 @@
+================================================
+      Client Script 2565 Dumped by SiniSoul    
+      Instruction Size: 20
+      Integer Arguments: 1 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHI , Operand: 0
+Offset: 1, STOREINT , Operand: 0
+Offset: 2, Unref Opcode: 25, Operand: 6380
+Offset: 3, STOREGINT , Operand: 846
+Offset: 4, Unref Opcode: 25, Operand: 6380
+Offset: 5, integerToString , Operand: 0
+Offset: 6, PUSHI , Operand: 56557598
+Offset: 7, Unref Method: 2112, Operand: 0
+Offset: 8, LOADGINT , Operand: 839
+Offset: 9, PUSHI , Operand: 100
+Offset: 10, LOADGINT , Operand: 846
+Offset: 11, IMUL , Operand: 0
+Offset: 12, ISUB , Operand: 0
+Offset: 13, STOREINT , Operand: 0
+Offset: 14, LOADINT , Operand: 0
+Offset: 15, PUSHS , Operand: ,
+Offset: 16, CALL , Operand: 46
+Offset: 17, PUSHI , Operand: 56557582
+Offset: 18, Unref Method: 2112, Operand: 0
+Offset: 19, RETURN , Operand: 0

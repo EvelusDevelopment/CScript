@@ -1,0 +1,24 @@
+================================================
+      Client Script 686 Dumped by SiniSoul    
+      Instruction Size: 13
+      Integer Arguments: 2 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADINT , Operand: 0
+Offset: 1, PUSHI , Operand: 0
+Offset: 2, IFLT , Operand: 1
+Offset: 3, GOTO , Operand: 5
+Offset: 4, LOADINT , Operand: 0
+Offset: 5, LOADINT , Operand: 1
+Offset: 6, IADD , Operand: 0
+Offset: 7, STOREINT , Operand: 0
+Offset: 8, GOTO , Operand: -9
+Offset: 9, LOADINT , Operand: 0
+Offset: 10, RETURN , Operand: 0
+Offset: 11, PUSHI , Operand: 0
+Offset: 12, RETURN , Operand: 0

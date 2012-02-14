@@ -1,0 +1,161 @@
+================================================
+      Client Script 2606 Dumped by SiniSoul    
+      Instruction Size: 122
+      Integer Arguments: 2 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHI , Operand: 2277
+Offset: 1, PUSHI , Operand: 1
+Offset: 2, PUSHI , Operand: 0
+Offset: 3, Unref Method: 3200, Operand: 0
+Offset: 4, PUSHI , Operand: -1
+Offset: 5, STOREINT , Operand: 1
+Offset: 6, LOADGINT , Operand: 929
+Offset: 7, SWITCH , Operand: 0
+Offset: 8, GOTO , Operand: 89
+Offset: 9, LOADGINT , Operand: 930
+Offset: 10, PUSHI , Operand: -1
+Offset: 11, IFNE , Operand: 1
+Offset: 12, GOTO , Operand: 4
+Offset: 13, PUSHI , Operand: 93
+Offset: 14, LOADGINT , Operand: 930
+Offset: 15, Unref Method: 3301, Operand: 0
+Offset: 16, STOREINT , Operand: 1
+Offset: 17, GOTO , Operand: 80
+Offset: 18, LOADGINT , Operand: 931
+Offset: 19, PUSHI , Operand: -1
+Offset: 20, IFNE , Operand: 1
+Offset: 21, GOTO , Operand: 4
+Offset: 22, PUSHI , Operand: 93
+Offset: 23, LOADGINT , Operand: 931
+Offset: 24, Unref Method: 3301, Operand: 0
+Offset: 25, STOREINT , Operand: 1
+Offset: 26, GOTO , Operand: 71
+Offset: 27, LOADGINT , Operand: 932
+Offset: 28, PUSHI , Operand: -1
+Offset: 29, IFNE , Operand: 1
+Offset: 30, GOTO , Operand: 4
+Offset: 31, PUSHI , Operand: 93
+Offset: 32, LOADGINT , Operand: 932
+Offset: 33, Unref Method: 3301, Operand: 0
+Offset: 34, STOREINT , Operand: 1
+Offset: 35, GOTO , Operand: 62
+Offset: 36, LOADGINT , Operand: 933
+Offset: 37, PUSHI , Operand: -1
+Offset: 38, IFNE , Operand: 1
+Offset: 39, GOTO , Operand: 4
+Offset: 40, PUSHI , Operand: 93
+Offset: 41, LOADGINT , Operand: 933
+Offset: 42, Unref Method: 3301, Operand: 0
+Offset: 43, STOREINT , Operand: 1
+Offset: 44, GOTO , Operand: 53
+Offset: 45, LOADGINT , Operand: 934
+Offset: 46, PUSHI , Operand: -1
+Offset: 47, IFNE , Operand: 1
+Offset: 48, GOTO , Operand: 4
+Offset: 49, PUSHI , Operand: 93
+Offset: 50, LOADGINT , Operand: 934
+Offset: 51, Unref Method: 3301, Operand: 0
+Offset: 52, STOREINT , Operand: 1
+Offset: 53, GOTO , Operand: 44
+Offset: 54, LOADGINT , Operand: 935
+Offset: 55, PUSHI , Operand: -1
+Offset: 56, IFNE , Operand: 1
+Offset: 57, GOTO , Operand: 4
+Offset: 58, PUSHI , Operand: 93
+Offset: 59, LOADGINT , Operand: 935
+Offset: 60, Unref Method: 3301, Operand: 0
+Offset: 61, STOREINT , Operand: 1
+Offset: 62, GOTO , Operand: 35
+Offset: 63, LOADGINT , Operand: 936
+Offset: 64, PUSHI , Operand: -1
+Offset: 65, IFNE , Operand: 1
+Offset: 66, GOTO , Operand: 4
+Offset: 67, PUSHI , Operand: 93
+Offset: 68, LOADGINT , Operand: 936
+Offset: 69, Unref Method: 3301, Operand: 0
+Offset: 70, STOREINT , Operand: 1
+Offset: 71, GOTO , Operand: 26
+Offset: 72, LOADGINT , Operand: 937
+Offset: 73, PUSHI , Operand: -1
+Offset: 74, IFNE , Operand: 1
+Offset: 75, GOTO , Operand: 4
+Offset: 76, PUSHI , Operand: 93
+Offset: 77, LOADGINT , Operand: 937
+Offset: 78, Unref Method: 3301, Operand: 0
+Offset: 79, STOREINT , Operand: 1
+Offset: 80, GOTO , Operand: 17
+Offset: 81, LOADGINT , Operand: 938
+Offset: 82, PUSHI , Operand: -1
+Offset: 83, IFNE , Operand: 1
+Offset: 84, GOTO , Operand: 4
+Offset: 85, PUSHI , Operand: 93
+Offset: 86, LOADGINT , Operand: 938
+Offset: 87, Unref Method: 3301, Operand: 0
+Offset: 88, STOREINT , Operand: 1
+Offset: 89, GOTO , Operand: 8
+Offset: 90, LOADGINT , Operand: 939
+Offset: 91, PUSHI , Operand: -1
+Offset: 92, IFNE , Operand: 1
+Offset: 93, GOTO , Operand: 4
+Offset: 94, PUSHI , Operand: 93
+Offset: 95, LOADGINT , Operand: 939
+Offset: 96, Unref Method: 3301, Operand: 0
+Offset: 97, STOREINT , Operand: 1
+Offset: 98, LOADINT , Operand: 0
+Offset: 99, SWITCH , Operand: 1
+Offset: 100, GOTO , Operand: 20
+Offset: 101, PUSHI , Operand: 93
+Offset: 102, PUSHI , Operand: 803
+Offset: 103, Unref Method: 3331, Operand: 0
+Offset: 104, PUSHI , Operand: 0
+Offset: 105, IFEQ , Operand: 1
+Offset: 106, GOTO , Operand: 3
+Offset: 107, PUSHS , Operand: You have no squads that need resupplying.
+Offset: 108, Unref Method: 3100, Operand: 0
+Offset: 109, GOTO , Operand: 2
+Offset: 110, PUSHS , Operand: You do not have sufficient investment credits to resupply all your squads.
+Offset: 111, Unref Method: 3100, Operand: 0
+Offset: 112, GOTO , Operand: 8
+Offset: 113, PUSHS , Operand: You do not have sufficient investment credits to apply the selected changes.
+Offset: 114, Unref Method: 3100, Operand: 0
+Offset: 115, GOTO , Operand: 5
+Offset: 116, PUSHS , Operand: You must resupply this squad first.
+Offset: 117, Unref Method: 3100, Operand: 0
+Offset: 118, GOTO , Operand: 2
+Offset: 119, PUSHS , Operand: This squad does not need resupplying.
+Offset: 120, Unref Method: 3100, Operand: 0
+Offset: 121, RETURN , Operand: 0
+
+================================================
+                Switch Table 0                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 10
+Key: 2, Value: 19
+Key: 3, Value: 28
+Key: 4, Value: 37
+Key: 5, Value: 46
+Key: 6, Value: 55
+Key: 7, Value: 64
+Key: 8, Value: 73
+Key: 9, Value: 82
+
+================================================
+                Switch Table 1                
+================================================
+
+Key: 19136615, Value: 16
+Key: 19136631, Value: 1
+Key: 19136614, Value: 16
+Key: 19136625, Value: 19
+Key: 19136623, Value: 16
+Key: 19136622, Value: 16
+Key: 19136616, Value: 16
+Key: 19136634, Value: 13

@@ -1,0 +1,2582 @@
+================================================
+      Client Script 1018 Dumped by SiniSoul    
+      Instruction Size: 2251
+      Integer Arguments: 2 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADINT , Operand: 0
+Offset: 1, SWITCH , Operand: 0
+Offset: 2, GOTO , Operand: 2243
+Offset: 3, LOADINT , Operand: 1
+Offset: 4, SWITCH , Operand: 1
+Offset: 5, GOTO , Operand: 472
+Offset: 6, PUSHI , Operand: 1
+Offset: 7, PUSHI , Operand: 2142
+Offset: 8, PUSHS , Operand: Meat
+Offset: 9, PUSHS , Operand: You can now cook 
+Offset: 10, PUSHS , Operand: <col=000080>
+Offset: 11, PUSHS , Operand: meat
+Offset: 12, PUSHS , Operand: </col>
+Offset: 13, PUSHS , Operand: .
+Offset: 14, CONCAT , Operand: 5
+Offset: 15, RETURN , Operand: 0
+Offset: 16, GOTO , Operand: 461
+Offset: 17, PUSHI , Operand: 1
+Offset: 18, PUSHI , Operand: 9436
+Offset: 19, PUSHS , Operand: Members: Sinew
+Offset: 20, PUSHS , Operand: You can now make 
+Offset: 21, PUSHS , Operand: <col=000080>
+Offset: 22, PUSHS , Operand: sinew
+Offset: 23, PUSHS , Operand: </col>
+Offset: 24, PUSHS , Operand:  by drying beef or bear meat on a range.
+Offset: 25, CONCAT , Operand: 5
+Offset: 26, RETURN , Operand: 0
+Offset: 27, GOTO , Operand: 450
+Offset: 28, PUSHI , Operand: 1
+Offset: 29, PUSHI , Operand: 315
+Offset: 30, PUSHS , Operand: Shrimp
+Offset: 31, PUSHS , Operand: You can now cook 
+Offset: 32, PUSHS , Operand: <col=000080>
+Offset: 33, PUSHS , Operand: shrimp
+Offset: 34, PUSHS , Operand: </col>
+Offset: 35, PUSHS , Operand: .
+Offset: 36, CONCAT , Operand: 5
+Offset: 37, RETURN , Operand: 0
+Offset: 38, GOTO , Operand: 439
+Offset: 39, PUSHI , Operand: 1
+Offset: 40, PUSHI , Operand: 13433
+Offset: 41, PUSHS , Operand: Crayfish
+Offset: 42, PUSHS , Operand: You can now cook 
+Offset: 43, PUSHS , Operand: <col=000080>
+Offset: 44, PUSHS , Operand: crayfish
+Offset: 45, PUSHS , Operand: </col>
+Offset: 46, PUSHS , Operand: .
+Offset: 47, CONCAT , Operand: 5
+Offset: 48, RETURN , Operand: 0
+Offset: 49, GOTO , Operand: 428
+Offset: 50, PUSHI , Operand: 1
+Offset: 51, PUSHI , Operand: 2140
+Offset: 52, PUSHS , Operand: Chicken
+Offset: 53, PUSHS , Operand: You can now cook 
+Offset: 54, PUSHS , Operand: <col=000080>
+Offset: 55, PUSHS , Operand: chicken
+Offset: 56, PUSHS , Operand: </col>
+Offset: 57, PUSHS , Operand: .
+Offset: 58, CONCAT , Operand: 5
+Offset: 59, RETURN , Operand: 0
+Offset: 60, GOTO , Operand: 417
+Offset: 61, PUSHI , Operand: 1
+Offset: 62, PUSHI , Operand: 3228
+Offset: 63, PUSHS , Operand: Members: Rabbit
+Offset: 64, PUSHS , Operand: Members can now cook 
+Offset: 65, PUSHS , Operand: <col=000080>
+Offset: 66, PUSHS , Operand: rabbits
+Offset: 67, PUSHS , Operand: </col>
+Offset: 68, PUSHS , Operand: .
+Offset: 69, CONCAT , Operand: 5
+Offset: 70, RETURN , Operand: 0
+Offset: 71, GOTO , Operand: 406
+Offset: 72, PUSHI , Operand: 1
+Offset: 73, PUSHI , Operand: 319
+Offset: 74, PUSHS , Operand: Anchovies
+Offset: 75, PUSHS , Operand: You can now cook 
+Offset: 76, PUSHS , Operand: <col=000080>
+Offset: 77, PUSHS , Operand: anchovies
+Offset: 78, PUSHS , Operand: </col>
+Offset: 79, PUSHS , Operand: .
+Offset: 80, CONCAT , Operand: 5
+Offset: 81, RETURN , Operand: 0
+Offset: 82, GOTO , Operand: 395
+Offset: 83, PUSHI , Operand: 1
+Offset: 84, PUSHI , Operand: 325
+Offset: 85, PUSHS , Operand: Sardine
+Offset: 86, PUSHS , Operand: You can now cook 
+Offset: 87, PUSHS , Operand: <col=000080>
+Offset: 88, PUSHS , Operand: sardines
+Offset: 89, PUSHS , Operand: </col>
+Offset: 90, PUSHS , Operand: .
+Offset: 91, CONCAT , Operand: 5
+Offset: 92, RETURN , Operand: 0
+Offset: 93, GOTO , Operand: 384
+Offset: 94, PUSHI , Operand: 1
+Offset: 95, PUSHI , Operand: 3151
+Offset: 96, PUSHS , Operand: Members: Karambwanji
+Offset: 97, PUSHS , Operand: Members can now cook 
+Offset: 98, PUSHS , Operand: <col=000080>
+Offset: 99, PUSHS , Operand: karambwanji
+Offset: 100, PUSHS , Operand: </col>
+Offset: 101, PUSHS , Operand: .
+Offset: 102, CONCAT , Operand: 5
+Offset: 103, RETURN , Operand: 0
+Offset: 104, GOTO , Operand: 373
+Offset: 105, PUSHI , Operand: 1
+Offset: 106, PUSHI , Operand: 3146
+Offset: 107, PUSHS , Operand: Members: Karambwan
+Offset: 108, PUSHS , Operand: Members can now cook 
+Offset: 109, PUSHS , Operand: <col=000080>
+Offset: 110, PUSHS , Operand: karambwan
+Offset: 111, PUSHS , Operand: </col>
+Offset: 112, PUSHS , Operand: .
+Offset: 113, CONCAT , Operand: 5
+Offset: 114, RETURN , Operand: 0
+Offset: 115, GOTO , Operand: 362
+Offset: 116, PUSHI , Operand: 1
+Offset: 117, PUSHI , Operand: 1885
+Offset: 118, PUSHS , Operand: Members: Ugthanki kebab
+Offset: 119, PUSHS , Operand: Members can now cook 
+Offset: 120, PUSHS , Operand: <col=000080>
+Offset: 121, PUSHS , Operand: ugthanki kebabs
+Offset: 122, PUSHS , Operand: </col>
+Offset: 123, PUSHS , Operand: .
+Offset: 124, CONCAT , Operand: 5
+Offset: 125, RETURN , Operand: 0
+Offset: 126, GOTO , Operand: 351
+Offset: 127, PUSHI , Operand: 5
+Offset: 128, PUSHI , Operand: 347
+Offset: 129, PUSHS , Operand: Herring
+Offset: 130, PUSHS , Operand: You can now cook 
+Offset: 131, PUSHS , Operand: <col=000080>
+Offset: 132, PUSHS , Operand: herring
+Offset: 133, PUSHS , Operand: </col>
+Offset: 134, PUSHS , Operand: .
+Offset: 135, CONCAT , Operand: 5
+Offset: 136, RETURN , Operand: 0
+Offset: 137, GOTO , Operand: 340
+Offset: 138, PUSHI , Operand: 10
+Offset: 139, PUSHI , Operand: 355
+Offset: 140, PUSHS , Operand: Members: Mackerel
+Offset: 141, PUSHS , Operand: Members can now cook 
+Offset: 142, PUSHS , Operand: <col=000080>
+Offset: 143, PUSHS , Operand: mackerel
+Offset: 144, PUSHS , Operand: </col>
+Offset: 145, PUSHS , Operand: .
+Offset: 146, CONCAT , Operand: 5
+Offset: 147, RETURN , Operand: 0
+Offset: 148, GOTO , Operand: 329
+Offset: 149, PUSHI , Operand: 11
+Offset: 150, PUSHI , Operand: 9980
+Offset: 151, PUSHS , Operand: Members: Roasted bird meat
+Offset: 152, PUSHS , Operand: Members can now roast 
+Offset: 153, PUSHS , Operand: <col=000080>
+Offset: 154, PUSHS , Operand: bird meat
+Offset: 155, PUSHS , Operand: </col>
+Offset: 156, PUSHS , Operand:  on an iron spit.
+Offset: 157, CONCAT , Operand: 5
+Offset: 158, RETURN , Operand: 0
+Offset: 159, GOTO , Operand: 318
+Offset: 160, PUSHI , Operand: 12
+Offset: 161, PUSHI , Operand: 3369
+Offset: 162, PUSHS , Operand: Members: Thin snail
+Offset: 163, PUSHS , Operand: Members can now cook 
+Offset: 164, PUSHS , Operand: <col=000080>
+Offset: 165, PUSHS , Operand: thin snails
+Offset: 166, PUSHS , Operand: </col>
+Offset: 167, PUSHS , Operand: .
+Offset: 168, CONCAT , Operand: 5
+Offset: 169, RETURN , Operand: 0
+Offset: 170, GOTO , Operand: 307
+Offset: 171, PUSHI , Operand: 15
+Offset: 172, PUSHI , Operand: 333
+Offset: 173, PUSHS , Operand: Trout
+Offset: 174, PUSHS , Operand: You can now cook 
+Offset: 175, PUSHS , Operand: <col=000080>
+Offset: 176, PUSHS , Operand: trout
+Offset: 177, PUSHS , Operand: </col>
+Offset: 178, PUSHS , Operand: .
+Offset: 179, CONCAT , Operand: 5
+Offset: 180, RETURN , Operand: 0
+Offset: 181, GOTO , Operand: 296
+Offset: 182, PUSHI , Operand: 16
+Offset: 183, PUSHI , Operand: 6297
+Offset: 184, PUSHS , Operand: Members: Spider
+Offset: 185, PUSHS , Operand: Members can now cook 
+Offset: 186, PUSHS , Operand: <col=000080>
+Offset: 187, PUSHS , Operand: spiders
+Offset: 188, PUSHS , Operand: </col>
+Offset: 189, PUSHS , Operand: .
+Offset: 190, CONCAT , Operand: 5
+Offset: 191, RETURN , Operand: 0
+Offset: 192, GOTO , Operand: 285
+Offset: 193, PUSHI , Operand: 16
+Offset: 194, PUSHI , Operand: 7223
+Offset: 195, PUSHS , Operand: Members: Roasted rabbit
+Offset: 196, PUSHS , Operand: Members can now roast 
+Offset: 197, PUSHS , Operand: <col=000080>
+Offset: 198, PUSHS , Operand: rabbits
+Offset: 199, PUSHS , Operand: </col>
+Offset: 200, PUSHS , Operand:  on a spit.
+Offset: 201, CONCAT , Operand: 5
+Offset: 202, RETURN , Operand: 0
+Offset: 203, GOTO , Operand: 274
+Offset: 204, PUSHI , Operand: 17
+Offset: 205, PUSHI , Operand: 3371
+Offset: 206, PUSHS , Operand: Members: Lean snail
+Offset: 207, PUSHS , Operand: Members can now cook 
+Offset: 208, PUSHS , Operand: <col=000080>
+Offset: 209, PUSHS , Operand: lean snails
+Offset: 210, PUSHS , Operand: </col>
+Offset: 211, PUSHS , Operand: .
+Offset: 212, CONCAT , Operand: 5
+Offset: 213, RETURN , Operand: 0
+Offset: 214, GOTO , Operand: 263
+Offset: 215, PUSHI , Operand: 18
+Offset: 216, PUSHI , Operand: 339
+Offset: 217, PUSHS , Operand: Members: Cod
+Offset: 218, PUSHS , Operand: Members can now cook 
+Offset: 219, PUSHS , Operand: <col=000080>
+Offset: 220, PUSHS , Operand: cod
+Offset: 221, PUSHS , Operand: </col>
+Offset: 222, PUSHS , Operand: .
+Offset: 223, CONCAT , Operand: 5
+Offset: 224, RETURN , Operand: 0
+Offset: 225, GOTO , Operand: 252
+Offset: 226, PUSHI , Operand: 20
+Offset: 227, PUSHI , Operand: 351
+Offset: 228, PUSHS , Operand: Pike
+Offset: 229, PUSHS , Operand: You can now cook 
+Offset: 230, PUSHS , Operand: <col=000080>
+Offset: 231, PUSHS , Operand: pike
+Offset: 232, PUSHS , Operand: </col>
+Offset: 233, PUSHS , Operand: .
+Offset: 234, CONCAT , Operand: 5
+Offset: 235, RETURN , Operand: 0
+Offset: 236, GOTO , Operand: 241
+Offset: 237, PUSHI , Operand: 21
+Offset: 238, PUSHI , Operand: 9988
+Offset: 239, PUSHS , Operand: Members: Roasted beast meat
+Offset: 240, PUSHS , Operand: Members can now roast 
+Offset: 241, PUSHS , Operand: <col=000080>
+Offset: 242, PUSHS , Operand: beast meat
+Offset: 243, PUSHS , Operand: </col>
+Offset: 244, PUSHS , Operand:  on a spit.
+Offset: 245, CONCAT , Operand: 5
+Offset: 246, RETURN , Operand: 0
+Offset: 247, GOTO , Operand: 230
+Offset: 248, PUSHI , Operand: 21
+Offset: 249, PUSHI , Operand: 7521
+Offset: 250, PUSHS , Operand: Members: Giant crab meat
+Offset: 251, PUSHS , Operand: Members can now cook 
+Offset: 252, PUSHS , Operand: <col=000080>
+Offset: 253, PUSHS , Operand: giant crab meat
+Offset: 254, PUSHS , Operand: </col>
+Offset: 255, PUSHS , Operand: .
+Offset: 256, CONCAT , Operand: 5
+Offset: 257, RETURN , Operand: 0
+Offset: 258, GOTO , Operand: 219
+Offset: 259, PUSHI , Operand: 22
+Offset: 260, PUSHI , Operand: 3373
+Offset: 261, PUSHS , Operand: Members: Fat snail
+Offset: 262, PUSHS , Operand: Members can now cook 
+Offset: 263, PUSHS , Operand: <col=000080>
+Offset: 264, PUSHS , Operand: fat snails
+Offset: 265, PUSHS , Operand: </col>
+Offset: 266, PUSHS , Operand: .
+Offset: 267, CONCAT , Operand: 5
+Offset: 268, RETURN , Operand: 0
+Offset: 269, GOTO , Operand: 208
+Offset: 270, PUSHI , Operand: 25
+Offset: 271, PUSHI , Operand: 329
+Offset: 272, PUSHS , Operand: Salmon
+Offset: 273, PUSHS , Operand: You can now cook 
+Offset: 274, PUSHS , Operand: <col=000080>
+Offset: 275, PUSHS , Operand: salmon
+Offset: 276, PUSHS , Operand: </col>
+Offset: 277, PUSHS , Operand: .
+Offset: 278, CONCAT , Operand: 5
+Offset: 279, RETURN , Operand: 0
+Offset: 280, GOTO , Operand: 197
+Offset: 281, PUSHI , Operand: 28
+Offset: 282, PUSHI , Operand: 3381
+Offset: 283, PUSHS , Operand: Members: Slimy eel
+Offset: 284, PUSHS , Operand: Members can now cook 
+Offset: 285, PUSHS , Operand: <col=000080>
+Offset: 286, PUSHS , Operand: slimy eels
+Offset: 287, PUSHS , Operand: </col>
+Offset: 288, PUSHS , Operand: .
+Offset: 289, CONCAT , Operand: 5
+Offset: 290, RETURN , Operand: 0
+Offset: 291, GOTO , Operand: 186
+Offset: 292, PUSHI , Operand: 30
+Offset: 293, PUSHI , Operand: 361
+Offset: 294, PUSHS , Operand: Tuna
+Offset: 295, PUSHS , Operand: You can now cook 
+Offset: 296, PUSHS , Operand: <col=000080>
+Offset: 297, PUSHS , Operand: tuna
+Offset: 298, PUSHS , Operand: </col>
+Offset: 299, PUSHS , Operand: .
+Offset: 300, CONCAT , Operand: 5
+Offset: 301, RETURN , Operand: 0
+Offset: 302, GOTO , Operand: 175
+Offset: 303, PUSHI , Operand: 30
+Offset: 304, PUSHI , Operand: 2878
+Offset: 305, PUSHS , Operand: Members: Roasted chompy
+Offset: 306, PUSHS , Operand: Members can now roast 
+Offset: 307, PUSHS , Operand: <col=000080>
+Offset: 308, PUSHS , Operand: chompies
+Offset: 309, PUSHS , Operand: </col>
+Offset: 310, PUSHS , Operand:  on a spit.
+Offset: 311, CONCAT , Operand: 5
+Offset: 312, RETURN , Operand: 0
+Offset: 313, GOTO , Operand: 164
+Offset: 314, PUSHI , Operand: 31
+Offset: 315, PUSHI , Operand: 7530
+Offset: 316, PUSHS , Operand: Members: Fishcake
+Offset: 317, PUSHS , Operand: Members can now cook 
+Offset: 318, PUSHS , Operand: <col=000080>
+Offset: 319, PUSHS , Operand: fishcakes
+Offset: 320, PUSHS , Operand: </col>
+Offset: 321, PUSHS , Operand: .
+Offset: 322, CONCAT , Operand: 5
+Offset: 323, RETURN , Operand: 0
+Offset: 324, GOTO , Operand: 153
+Offset: 325, PUSHI , Operand: 35
+Offset: 326, PUSHI , Operand: 10136
+Offset: 327, PUSHS , Operand: Members: Rainbow fish
+Offset: 328, PUSHS , Operand: Members can now cook 
+Offset: 329, PUSHS , Operand: <col=000080>
+Offset: 330, PUSHS , Operand: rainbow fish
+Offset: 331, PUSHS , Operand: </col>
+Offset: 332, PUSHS , Operand: .
+Offset: 333, CONCAT , Operand: 5
+Offset: 334, RETURN , Operand: 0
+Offset: 335, GOTO , Operand: 142
+Offset: 336, PUSHI , Operand: 38
+Offset: 337, PUSHI , Operand: 5003
+Offset: 338, PUSHS , Operand: Members: Cave eel
+Offset: 339, PUSHS , Operand: Members can now cook 
+Offset: 340, PUSHS , Operand: <col=000080>
+Offset: 341, PUSHS , Operand: cave eels
+Offset: 342, PUSHS , Operand: </col>
+Offset: 343, PUSHS , Operand: .
+Offset: 344, CONCAT , Operand: 5
+Offset: 345, RETURN , Operand: 0
+Offset: 346, GOTO , Operand: 131
+Offset: 347, PUSHI , Operand: 40
+Offset: 348, PUSHI , Operand: 379
+Offset: 349, PUSHS , Operand: Lobster
+Offset: 350, PUSHS , Operand: You can now cook 
+Offset: 351, PUSHS , Operand: <col=000080>
+Offset: 352, PUSHS , Operand: lobsters
+Offset: 353, PUSHS , Operand: </col>
+Offset: 354, PUSHS , Operand: .
+Offset: 355, CONCAT , Operand: 5
+Offset: 356, RETURN , Operand: 0
+Offset: 357, GOTO , Operand: 120
+Offset: 358, PUSHI , Operand: 41
+Offset: 359, PUSHI , Operand: 7568
+Offset: 360, PUSHS , Operand: Members: Jubbly
+Offset: 361, PUSHS , Operand: Members can now cook 
+Offset: 362, PUSHS , Operand: <col=000080>
+Offset: 363, PUSHS , Operand: jubblies
+Offset: 364, PUSHS , Operand: </col>
+Offset: 365, PUSHS , Operand: .
+Offset: 366, CONCAT , Operand: 5
+Offset: 367, RETURN , Operand: 0
+Offset: 368, GOTO , Operand: 109
+Offset: 369, PUSHI , Operand: 43
+Offset: 370, PUSHI , Operand: 365
+Offset: 371, PUSHS , Operand: Members: Bass
+Offset: 372, PUSHS , Operand: Members can now cook 
+Offset: 373, PUSHS , Operand: <col=000080>
+Offset: 374, PUSHS , Operand: bass
+Offset: 375, PUSHS , Operand: </col>
+Offset: 376, PUSHS , Operand: .
+Offset: 377, CONCAT , Operand: 5
+Offset: 378, RETURN , Operand: 0
+Offset: 379, GOTO , Operand: 98
+Offset: 380, PUSHI , Operand: 45
+Offset: 381, PUSHI , Operand: 373
+Offset: 382, PUSHS , Operand: Swordfish
+Offset: 383, PUSHS , Operand: You can now cook 
+Offset: 384, PUSHS , Operand: <col=000080>
+Offset: 385, PUSHS , Operand: swordfish
+Offset: 386, PUSHS , Operand: </col>
+Offset: 387, PUSHS , Operand: .
+Offset: 388, CONCAT , Operand: 5
+Offset: 389, RETURN , Operand: 0
+Offset: 390, GOTO , Operand: 87
+Offset: 391, PUSHI , Operand: 50
+Offset: 392, PUSHI , Operand: 2343
+Offset: 393, PUSHS , Operand: Members: Oomlie wrap
+Offset: 394, PUSHS , Operand: Members can now cook 
+Offset: 395, PUSHS , Operand: <col=000080>
+Offset: 396, PUSHS , Operand: oomlie wraps
+Offset: 397, PUSHS , Operand: </col>
+Offset: 398, PUSHS , Operand: .
+Offset: 399, CONCAT , Operand: 5
+Offset: 400, RETURN , Operand: 0
+Offset: 401, GOTO , Operand: 76
+Offset: 402, PUSHI , Operand: 53
+Offset: 403, PUSHI , Operand: 2149
+Offset: 404, PUSHS , Operand: Members: Lava eel
+Offset: 405, PUSHS , Operand: Members can now cook 
+Offset: 406, PUSHS , Operand: <col=000080>
+Offset: 407, PUSHS , Operand: lava eels
+Offset: 408, PUSHS , Operand: </col>
+Offset: 409, PUSHS , Operand: .
+Offset: 410, CONCAT , Operand: 5
+Offset: 411, RETURN , Operand: 0
+Offset: 412, GOTO , Operand: 65
+Offset: 413, PUSHI , Operand: 62
+Offset: 414, PUSHI , Operand: 7946
+Offset: 415, PUSHS , Operand: Members: Monkfish
+Offset: 416, PUSHS , Operand: Members can now cook 
+Offset: 417, PUSHS , Operand: <col=000080>
+Offset: 418, PUSHS , Operand: monkfish
+Offset: 419, PUSHS , Operand: </col>
+Offset: 420, PUSHS , Operand: .
+Offset: 421, CONCAT , Operand: 5
+Offset: 422, RETURN , Operand: 0
+Offset: 423, GOTO , Operand: 54
+Offset: 424, PUSHI , Operand: 80
+Offset: 425, PUSHI , Operand: 385
+Offset: 426, PUSHS , Operand: Members: Shark
+Offset: 427, PUSHS , Operand: Members can now cook 
+Offset: 428, PUSHS , Operand: <col=000080>
+Offset: 429, PUSHS , Operand: sharks
+Offset: 430, PUSHS , Operand: </col>
+Offset: 431, PUSHS , Operand: .
+Offset: 432, CONCAT , Operand: 5
+Offset: 433, RETURN , Operand: 0
+Offset: 434, GOTO , Operand: 43
+Offset: 435, PUSHI , Operand: 82
+Offset: 436, PUSHI , Operand: 397
+Offset: 437, PUSHS , Operand: Members: Sea turtle
+Offset: 438, PUSHS , Operand: Members can now cook 
+Offset: 439, PUSHS , Operand: <col=000080>
+Offset: 440, PUSHS , Operand: sea turtles
+Offset: 441, PUSHS , Operand: </col>
+Offset: 442, PUSHS , Operand: .
+Offset: 443, CONCAT , Operand: 5
+Offset: 444, RETURN , Operand: 0
+Offset: 445, GOTO , Operand: 32
+Offset: 446, PUSHI , Operand: 88
+Offset: 447, PUSHI , Operand: 15266
+Offset: 448, PUSHS , Operand: Members: Cavefish
+Offset: 449, PUSHS , Operand: Members can now cook 
+Offset: 450, PUSHS , Operand: <col=000080>
+Offset: 451, PUSHS , Operand: cavefish
+Offset: 452, PUSHS , Operand: </col>
+Offset: 453, PUSHS , Operand: .
+Offset: 454, CONCAT , Operand: 5
+Offset: 455, RETURN , Operand: 0
+Offset: 456, GOTO , Operand: 21
+Offset: 457, PUSHI , Operand: 91
+Offset: 458, PUSHI , Operand: 391
+Offset: 459, PUSHS , Operand: Members: Manta ray
+Offset: 460, PUSHS , Operand: Members can now cook 
+Offset: 461, PUSHS , Operand: <col=000080>
+Offset: 462, PUSHS , Operand: manta rays
+Offset: 463, PUSHS , Operand: </col>
+Offset: 464, PUSHS , Operand: .
+Offset: 465, CONCAT , Operand: 5
+Offset: 466, RETURN , Operand: 0
+Offset: 467, GOTO , Operand: 10
+Offset: 468, PUSHI , Operand: 93
+Offset: 469, PUSHI , Operand: 15272
+Offset: 470, PUSHS , Operand: Members: Rocktail
+Offset: 471, PUSHS , Operand: Members can now cook 
+Offset: 472, PUSHS , Operand: <col=000080>
+Offset: 473, PUSHS , Operand: rocktails
+Offset: 474, PUSHS , Operand: </col>
+Offset: 475, PUSHS , Operand: .
+Offset: 476, CONCAT , Operand: 5
+Offset: 477, RETURN , Operand: 0
+Offset: 478, GOTO , Operand: 1767
+Offset: 479, LOADINT , Operand: 1
+Offset: 480, SWITCH , Operand: 2
+Offset: 481, GOTO , Operand: 57
+Offset: 482, PUSHI , Operand: 1
+Offset: 483, PUSHI , Operand: 2309
+Offset: 484, PUSHS , Operand: Bread
+Offset: 485, PUSHS , Operand: You can now bake 
+Offset: 486, PUSHS , Operand: <col=000080>
+Offset: 487, PUSHS , Operand: bread
+Offset: 488, PUSHS , Operand: </col>
+Offset: 489, PUSHS , Operand: .
+Offset: 490, CONCAT , Operand: 5
+Offset: 491, RETURN , Operand: 0
+Offset: 492, GOTO , Operand: 46
+Offset: 493, PUSHI , Operand: 58
+Offset: 494, PUSHI , Operand: 1865
+Offset: 495, PUSHS , Operand: Members: Pitta bread
+Offset: 496, PUSHS , Operand: Members can now bake 
+Offset: 497, PUSHS , Operand: <col=000080>
+Offset: 498, PUSHS , Operand: pitta bread
+Offset: 499, PUSHS , Operand: </col>
+Offset: 500, PUSHS , Operand: .
+Offset: 501, CONCAT , Operand: 5
+Offset: 502, RETURN , Operand: 0
+Offset: 503, GOTO , Operand: 35
+Offset: 504, PUSHI , Operand: -1
+Offset: 505, PUSHI , Operand: 7620
+Offset: 506, PUSHS , Operand: To make bread:
+Offset: 507, PUSHS , Operand: 
+Offset: 508, RETURN , Operand: 0
+Offset: 509, GOTO , Operand: 29
+Offset: 510, PUSHI , Operand: -1
+Offset: 511, PUSHI , Operand: 7620
+Offset: 512, PUSHS , Operand: 1. Pick some grain and take it to a windmill to make flour.
+Offset: 513, PUSHS , Operand: 
+Offset: 514, RETURN , Operand: 0
+Offset: 515, GOTO , Operand: 23
+Offset: 516, PUSHI , Operand: -1
+Offset: 517, PUSHI , Operand: 7620
+Offset: 518, PUSHS , Operand: 2. Use a pot to collect the flour you have made.
+Offset: 519, PUSHS , Operand: 
+Offset: 520, RETURN , Operand: 0
+Offset: 521, GOTO , Operand: 17
+Offset: 522, PUSHI , Operand: -1
+Offset: 523, PUSHI , Operand: 7620
+Offset: 524, PUSHS , Operand: 3. Fill a bucket or jug with water from a sink or fountain.
+Offset: 525, PUSHS , Operand: 
+Offset: 526, RETURN , Operand: 0
+Offset: 527, GOTO , Operand: 11
+Offset: 528, PUSHI , Operand: -1
+Offset: 529, PUSHI , Operand: 7620
+Offset: 530, PUSHS , Operand: 4. Mix the flour and water to make some bread dough.
+Offset: 531, PUSHS , Operand: 
+Offset: 532, RETURN , Operand: 0
+Offset: 533, GOTO , Operand: 5
+Offset: 534, PUSHI , Operand: -1
+Offset: 535, PUSHI , Operand: 7620
+Offset: 536, PUSHS , Operand: 5. Cook the dough by using it with a stove.
+Offset: 537, PUSHS , Operand: 
+Offset: 538, RETURN , Operand: 0
+Offset: 539, GOTO , Operand: 1706
+Offset: 540, LOADINT , Operand: 1
+Offset: 541, SWITCH , Operand: 3
+Offset: 542, GOTO , Operand: 128
+Offset: 543, PUSHI , Operand: 10
+Offset: 544, PUSHI , Operand: 2325
+Offset: 545, PUSHS , Operand: Redberry pie
+Offset: 546, PUSHS , Operand: You can now bake 
+Offset: 547, PUSHS , Operand: <col=000080>
+Offset: 548, PUSHS , Operand: redberry pies
+Offset: 549, PUSHS , Operand: </col>
+Offset: 550, PUSHS , Operand: .
+Offset: 551, CONCAT , Operand: 5
+Offset: 552, RETURN , Operand: 0
+Offset: 553, GOTO , Operand: 117
+Offset: 554, PUSHI , Operand: 20
+Offset: 555, PUSHI , Operand: 2327
+Offset: 556, PUSHS , Operand: Meat pie
+Offset: 557, PUSHS , Operand: You can now bake 
+Offset: 558, PUSHS , Operand: <col=000080>
+Offset: 559, PUSHS , Operand: meat pies
+Offset: 560, PUSHS , Operand: </col>
+Offset: 561, PUSHS , Operand: .
+Offset: 562, CONCAT , Operand: 5
+Offset: 563, RETURN , Operand: 0
+Offset: 564, GOTO , Operand: 106
+Offset: 565, PUSHI , Operand: 29
+Offset: 566, PUSHI , Operand: 7170
+Offset: 567, PUSHS , Operand: Members: Mud pie
+Offset: 568, PUSHS , Operand: Members can now bake 
+Offset: 569, PUSHS , Operand: <col=000080>
+Offset: 570, PUSHS , Operand: mud pies
+Offset: 571, PUSHS , Operand: </col>
+Offset: 572, PUSHS , Operand: .
+Offset: 573, CONCAT , Operand: 5
+Offset: 574, RETURN , Operand: 0
+Offset: 575, GOTO , Operand: 95
+Offset: 576, PUSHI , Operand: 30
+Offset: 577, PUSHI , Operand: 2323
+Offset: 578, PUSHS , Operand: Apple pie
+Offset: 579, PUSHS , Operand: You can now bake 
+Offset: 580, PUSHS , Operand: <col=000080>
+Offset: 581, PUSHS , Operand: apple pies
+Offset: 582, PUSHS , Operand: </col>
+Offset: 583, PUSHS , Operand: .
+Offset: 584, CONCAT , Operand: 5
+Offset: 585, RETURN , Operand: 0
+Offset: 586, GOTO , Operand: 84
+Offset: 587, PUSHI , Operand: 34
+Offset: 588, PUSHI , Operand: 7178
+Offset: 589, PUSHS , Operand: Members: Garden pie
+Offset: 590, PUSHS , Operand: Members can now bake 
+Offset: 591, PUSHS , Operand: <col=000080>
+Offset: 592, PUSHS , Operand: garden pies
+Offset: 593, PUSHS , Operand: </col>
+Offset: 594, PUSHS , Operand: .
+Offset: 595, CONCAT , Operand: 5
+Offset: 596, RETURN , Operand: 0
+Offset: 597, GOTO , Operand: 73
+Offset: 598, PUSHI , Operand: 47
+Offset: 599, PUSHI , Operand: 7188
+Offset: 600, PUSHS , Operand: Members: Fish pie
+Offset: 601, PUSHS , Operand: Members can now bake 
+Offset: 602, PUSHS , Operand: <col=000080>
+Offset: 603, PUSHS , Operand: fish pies
+Offset: 604, PUSHS , Operand: </col>
+Offset: 605, PUSHS , Operand: .
+Offset: 606, CONCAT , Operand: 5
+Offset: 607, RETURN , Operand: 0
+Offset: 608, GOTO , Operand: 62
+Offset: 609, PUSHI , Operand: 70
+Offset: 610, PUSHI , Operand: 7198
+Offset: 611, PUSHS , Operand: Members: Admiral pie
+Offset: 612, PUSHS , Operand: Members can now bake 
+Offset: 613, PUSHS , Operand: <col=000080>
+Offset: 614, PUSHS , Operand: admiral pies
+Offset: 615, PUSHS , Operand: </col>
+Offset: 616, PUSHS , Operand: .
+Offset: 617, CONCAT , Operand: 5
+Offset: 618, RETURN , Operand: 0
+Offset: 619, GOTO , Operand: 51
+Offset: 620, PUSHI , Operand: 85
+Offset: 621, PUSHI , Operand: 7208
+Offset: 622, PUSHS , Operand: Members: Wild pie
+Offset: 623, PUSHS , Operand: Members can now bake 
+Offset: 624, PUSHS , Operand: <col=000080>
+Offset: 625, PUSHS , Operand: wild pies
+Offset: 626, PUSHS , Operand: </col>
+Offset: 627, PUSHS , Operand: .
+Offset: 628, CONCAT , Operand: 5
+Offset: 629, RETURN , Operand: 0
+Offset: 630, GOTO , Operand: 40
+Offset: 631, PUSHI , Operand: 95
+Offset: 632, PUSHI , Operand: 7218
+Offset: 633, PUSHS , Operand: Members: Summer pie
+Offset: 634, PUSHS , Operand: Members can now bake 
+Offset: 635, PUSHS , Operand: <col=000080>
+Offset: 636, PUSHS , Operand: summer pies
+Offset: 637, PUSHS , Operand: </col>
+Offset: 638, PUSHS , Operand: .
+Offset: 639, CONCAT , Operand: 5
+Offset: 640, RETURN , Operand: 0
+Offset: 641, GOTO , Operand: 29
+Offset: 642, PUSHI , Operand: -1
+Offset: 643, PUSHI , Operand: 7620
+Offset: 644, PUSHS , Operand: To make a pie:
+Offset: 645, PUSHS , Operand: 
+Offset: 646, RETURN , Operand: 0
+Offset: 647, GOTO , Operand: 23
+Offset: 648, PUSHI , Operand: -1
+Offset: 649, PUSHI , Operand: 7620
+Offset: 650, PUSHS , Operand: 1. Mix flour and water to make pastry dough.
+Offset: 651, PUSHS , Operand: 
+Offset: 652, RETURN , Operand: 0
+Offset: 653, GOTO , Operand: 17
+Offset: 654, PUSHI , Operand: -1
+Offset: 655, PUSHI , Operand: 7620
+Offset: 656, PUSHS , Operand: 2. Place the dough in an empty pie dish.
+Offset: 657, PUSHS , Operand: 
+Offset: 658, RETURN , Operand: 0
+Offset: 659, GOTO , Operand: 11
+Offset: 660, PUSHI , Operand: -1
+Offset: 661, PUSHI , Operand: 7620
+Offset: 662, PUSHS , Operand: 3. Use your choice of filling with the empty pie (refer to pie recipe book).
+Offset: 663, PUSHS , Operand: 
+Offset: 664, RETURN , Operand: 0
+Offset: 665, GOTO , Operand: 5
+Offset: 666, PUSHI , Operand: -1
+Offset: 667, PUSHI , Operand: 7620
+Offset: 668, PUSHS , Operand: 4. Cook the pie by using it with a stove.
+Offset: 669, PUSHS , Operand: 
+Offset: 670, RETURN , Operand: 0
+Offset: 671, GOTO , Operand: 1574
+Offset: 672, LOADINT , Operand: 1
+Offset: 673, SWITCH , Operand: 4
+Offset: 674, GOTO , Operand: 63
+Offset: 675, PUSHI , Operand: 25
+Offset: 676, PUSHI , Operand: 2003
+Offset: 677, PUSHS , Operand: Stew
+Offset: 678, PUSHS , Operand: You can now make 
+Offset: 679, PUSHS , Operand: <col=000080>
+Offset: 680, PUSHS , Operand: stews
+Offset: 681, PUSHS , Operand: </col>
+Offset: 682, PUSHS , Operand: .
+Offset: 683, CONCAT , Operand: 5
+Offset: 684, RETURN , Operand: 0
+Offset: 685, GOTO , Operand: 52
+Offset: 686, PUSHI , Operand: 60
+Offset: 687, PUSHI , Operand: 2011
+Offset: 688, PUSHS , Operand: Members: Curry
+Offset: 689, PUSHS , Operand: Members can now make 
+Offset: 690, PUSHS , Operand: <col=000080>
+Offset: 691, PUSHS , Operand: curries
+Offset: 692, PUSHS , Operand: </col>
+Offset: 693, PUSHS , Operand: .
+Offset: 694, CONCAT , Operand: 5
+Offset: 695, RETURN , Operand: 0
+Offset: 696, GOTO , Operand: 41
+Offset: 697, PUSHI , Operand: -1
+Offset: 698, PUSHI , Operand: 7620
+Offset: 699, PUSHS , Operand: To make stew:
+Offset: 700, PUSHS , Operand: 
+Offset: 701, RETURN , Operand: 0
+Offset: 702, GOTO , Operand: 35
+Offset: 703, PUSHI , Operand: -1
+Offset: 704, PUSHI , Operand: 7620
+Offset: 705, PUSHS , Operand: 1. Obtain a bowl and fill it with water from a sink or fountain.
+Offset: 706, PUSHS , Operand: 
+Offset: 707, RETURN , Operand: 0
+Offset: 708, GOTO , Operand: 29
+Offset: 709, PUSHI , Operand: -1
+Offset: 710, PUSHI , Operand: 7620
+Offset: 711, PUSHS , Operand: 2. Pick a potato and place it in the bowl.
+Offset: 712, PUSHS , Operand: 
+Offset: 713, RETURN , Operand: 0
+Offset: 714, GOTO , Operand: 23
+Offset: 715, PUSHI , Operand: -1
+Offset: 716, PUSHI , Operand: 7620
+Offset: 717, PUSHS , Operand: 3. Cook some meat and place it in the bowl.
+Offset: 718, PUSHS , Operand: 
+Offset: 719, RETURN , Operand: 0
+Offset: 720, GOTO , Operand: 17
+Offset: 721, PUSHI , Operand: -1
+Offset: 722, PUSHI , Operand: 7620
+Offset: 723, PUSHS , Operand: 4. Cook the stew by using it with a stove or fire.
+Offset: 724, PUSHS , Operand: 
+Offset: 725, RETURN , Operand: 0
+Offset: 726, GOTO , Operand: 11
+Offset: 727, PUSHI , Operand: -1
+Offset: 728, PUSHI , Operand: 7620
+Offset: 729, PUSHS , Operand: After completing Evil Dave's subquest from Recipe for Disaster, I can add spices to cooked stew.
+Offset: 730, PUSHS , Operand: 
+Offset: 731, RETURN , Operand: 0
+Offset: 732, GOTO , Operand: 5
+Offset: 733, PUSHI , Operand: -1
+Offset: 734, PUSHI , Operand: 7620
+Offset: 735, PUSHS , Operand: To make curry: make uncooked stew as above. Before cooking, add some spices or 3 curry leaves.
+Offset: 736, PUSHS , Operand: 
+Offset: 737, RETURN , Operand: 0
+Offset: 738, GOTO , Operand: 1507
+Offset: 739, LOADINT , Operand: 1
+Offset: 740, SWITCH , Operand: 5
+Offset: 741, GOTO , Operand: 79
+Offset: 742, PUSHI , Operand: 35
+Offset: 743, PUSHI , Operand: 2289
+Offset: 744, PUSHS , Operand: Plain pizza
+Offset: 745, PUSHS , Operand: You can now cook 
+Offset: 746, PUSHS , Operand: <col=000080>
+Offset: 747, PUSHS , Operand: plain pizzas
+Offset: 748, PUSHS , Operand: </col>
+Offset: 749, PUSHS , Operand: .
+Offset: 750, CONCAT , Operand: 5
+Offset: 751, RETURN , Operand: 0
+Offset: 752, GOTO , Operand: 68
+Offset: 753, PUSHI , Operand: 45
+Offset: 754, PUSHI , Operand: 2293
+Offset: 755, PUSHS , Operand: Meat pizza
+Offset: 756, PUSHS , Operand: You can now cook 
+Offset: 757, PUSHS , Operand: <col=000080>
+Offset: 758, PUSHS , Operand: meat pizzas
+Offset: 759, PUSHS , Operand: </col>
+Offset: 760, PUSHS , Operand: .
+Offset: 761, CONCAT , Operand: 5
+Offset: 762, RETURN , Operand: 0
+Offset: 763, GOTO , Operand: 57
+Offset: 764, PUSHI , Operand: 55
+Offset: 765, PUSHI , Operand: 2297
+Offset: 766, PUSHS , Operand: Anchovy pizza
+Offset: 767, PUSHS , Operand: You can now cook 
+Offset: 768, PUSHS , Operand: <col=000080>
+Offset: 769, PUSHS , Operand: anchovy pizzas
+Offset: 770, PUSHS , Operand: </col>
+Offset: 771, PUSHS , Operand: .
+Offset: 772, CONCAT , Operand: 5
+Offset: 773, RETURN , Operand: 0
+Offset: 774, GOTO , Operand: 46
+Offset: 775, PUSHI , Operand: 65
+Offset: 776, PUSHI , Operand: 2301
+Offset: 777, PUSHS , Operand: Members: Pineapple pizza
+Offset: 778, PUSHS , Operand: Members can now make 
+Offset: 779, PUSHS , Operand: <col=000080>
+Offset: 780, PUSHS , Operand: pineapple pizzas
+Offset: 781, PUSHS , Operand: </col>
+Offset: 782, PUSHS , Operand: .
+Offset: 783, CONCAT , Operand: 5
+Offset: 784, RETURN , Operand: 0
+Offset: 785, GOTO , Operand: 35
+Offset: 786, PUSHI , Operand: -1
+Offset: 787, PUSHI , Operand: 7620
+Offset: 788, PUSHS , Operand: To make a pizza:
+Offset: 789, PUSHS , Operand: 
+Offset: 790, RETURN , Operand: 0
+Offset: 791, GOTO , Operand: 29
+Offset: 792, PUSHI , Operand: -1
+Offset: 793, PUSHI , Operand: 7620
+Offset: 794, PUSHS , Operand: 1. Mix flour and water to make a pizza base.
+Offset: 795, PUSHS , Operand: 
+Offset: 796, RETURN , Operand: 0
+Offset: 797, GOTO , Operand: 23
+Offset: 798, PUSHI , Operand: -1
+Offset: 799, PUSHI , Operand: 7620
+Offset: 800, PUSHS , Operand: 2. Add a tomato to the pizza.
+Offset: 801, PUSHS , Operand: 
+Offset: 802, RETURN , Operand: 0
+Offset: 803, GOTO , Operand: 17
+Offset: 804, PUSHI , Operand: -1
+Offset: 805, PUSHI , Operand: 7620
+Offset: 806, PUSHS , Operand: 3. Add some cheese to the pizza.
+Offset: 807, PUSHS , Operand: 
+Offset: 808, RETURN , Operand: 0
+Offset: 809, GOTO , Operand: 11
+Offset: 810, PUSHI , Operand: -1
+Offset: 811, PUSHI , Operand: 7620
+Offset: 812, PUSHS , Operand: 4. Cook the pizza by using it with a stove.
+Offset: 813, PUSHS , Operand: 
+Offset: 814, RETURN , Operand: 0
+Offset: 815, GOTO , Operand: 5
+Offset: 816, PUSHI , Operand: -1
+Offset: 817, PUSHI , Operand: 7620
+Offset: 818, PUSHS , Operand: 5. Add your choice of topping to the pizza.
+Offset: 819, PUSHS , Operand: 
+Offset: 820, RETURN , Operand: 0
+Offset: 821, GOTO , Operand: 1424
+Offset: 822, LOADINT , Operand: 1
+Offset: 823, SWITCH , Operand: 6
+Offset: 824, GOTO , Operand: 45
+Offset: 825, PUSHI , Operand: 40
+Offset: 826, PUSHI , Operand: 1891
+Offset: 827, PUSHS , Operand: Cake
+Offset: 828, PUSHS , Operand: You can now bake 
+Offset: 829, PUSHS , Operand: <col=000080>
+Offset: 830, PUSHS , Operand: cakes
+Offset: 831, PUSHS , Operand: </col>
+Offset: 832, PUSHS , Operand: .
+Offset: 833, CONCAT , Operand: 5
+Offset: 834, RETURN , Operand: 0
+Offset: 835, GOTO , Operand: 34
+Offset: 836, PUSHI , Operand: 50
+Offset: 837, PUSHI , Operand: 1897
+Offset: 838, PUSHS , Operand: Chocolate cake
+Offset: 839, PUSHS , Operand: You can now bake 
+Offset: 840, PUSHS , Operand: <col=000080>
+Offset: 841, PUSHS , Operand: chocolate cakes
+Offset: 842, PUSHS , Operand: </col>
+Offset: 843, PUSHS , Operand: .
+Offset: 844, CONCAT , Operand: 5
+Offset: 845, RETURN , Operand: 0
+Offset: 846, GOTO , Operand: 23
+Offset: 847, PUSHI , Operand: -1
+Offset: 848, PUSHI , Operand: 7620
+Offset: 849, PUSHS , Operand: To make a cake:
+Offset: 850, PUSHS , Operand: 
+Offset: 851, RETURN , Operand: 0
+Offset: 852, GOTO , Operand: 17
+Offset: 853, PUSHI , Operand: -1
+Offset: 854, PUSHI , Operand: 7620
+Offset: 855, PUSHS , Operand: 1. Mix flour, eggs and milk together in a cake tin.
+Offset: 856, PUSHS , Operand: 
+Offset: 857, RETURN , Operand: 0
+Offset: 858, GOTO , Operand: 11
+Offset: 859, PUSHI , Operand: -1
+Offset: 860, PUSHI , Operand: 7620
+Offset: 861, PUSHS , Operand: 2. Cook the cake by using it with a stove.
+Offset: 862, PUSHS , Operand: 
+Offset: 863, RETURN , Operand: 0
+Offset: 864, GOTO , Operand: 5
+Offset: 865, PUSHI , Operand: -1
+Offset: 866, PUSHI , Operand: 7620
+Offset: 867, PUSHS , Operand: 3. Optional: Buy some chocolate and add it to the cake to make a chocolate cake.
+Offset: 868, PUSHS , Operand: 
+Offset: 869, RETURN , Operand: 0
+Offset: 870, GOTO , Operand: 1375
+Offset: 871, LOADINT , Operand: 1
+Offset: 872, SWITCH , Operand: 7
+Offset: 873, GOTO , Operand: 40
+Offset: 874, PUSHI , Operand: 35
+Offset: 875, PUSHI , Operand: 1993
+Offset: 876, PUSHS , Operand: Wine
+Offset: 877, PUSHS , Operand: You can now ferment 
+Offset: 878, PUSHS , Operand: <col=000080>
+Offset: 879, PUSHS , Operand: wine
+Offset: 880, PUSHS , Operand: </col>
+Offset: 881, PUSHS , Operand: .
+Offset: 882, CONCAT , Operand: 5
+Offset: 883, RETURN , Operand: 0
+Offset: 884, GOTO , Operand: 29
+Offset: 885, PUSHI , Operand: -1
+Offset: 886, PUSHI , Operand: 7620
+Offset: 887, PUSHS , Operand: To make wine:
+Offset: 888, PUSHS , Operand: 
+Offset: 889, RETURN , Operand: 0
+Offset: 890, GOTO , Operand: 23
+Offset: 891, PUSHI , Operand: -1
+Offset: 892, PUSHI , Operand: 7620
+Offset: 893, PUSHS , Operand: 1. Fill a jug with water.
+Offset: 894, PUSHS , Operand: 
+Offset: 895, RETURN , Operand: 0
+Offset: 896, GOTO , Operand: 17
+Offset: 897, PUSHI , Operand: -1
+Offset: 898, PUSHI , Operand: 7620
+Offset: 899, PUSHS , Operand: 2. Use grapes with the jug of water.
+Offset: 900, PUSHS , Operand: 
+Offset: 901, RETURN , Operand: 0
+Offset: 902, GOTO , Operand: 11
+Offset: 903, PUSHI , Operand: -1
+Offset: 904, PUSHI , Operand: 7620
+Offset: 905, PUSHS , Operand: 3. Wait until the wine ferments.
+Offset: 906, PUSHS , Operand: 
+Offset: 907, RETURN , Operand: 0
+Offset: 908, GOTO , Operand: 5
+Offset: 909, PUSHI , Operand: -1
+Offset: 910, PUSHI , Operand: 7620
+Offset: 911, PUSHS , Operand: The wine will ferment while left in your inventory or the bank.
+Offset: 912, PUSHS , Operand: 
+Offset: 913, RETURN , Operand: 0
+Offset: 914, GOTO , Operand: 1331
+Offset: 915, LOADINT , Operand: 1
+Offset: 916, SWITCH , Operand: 8
+Offset: 917, GOTO , Operand: 46
+Offset: 918, PUSHI , Operand: 20
+Offset: 919, PUSHI , Operand: 4242
+Offset: 920, PUSHS , Operand: Nettle tea
+Offset: 921, PUSHS , Operand: Members can now make 
+Offset: 922, PUSHS , Operand: <col=000080>
+Offset: 923, PUSHS , Operand: nettle tea
+Offset: 924, PUSHS , Operand: </col>
+Offset: 925, PUSHS , Operand: .
+Offset: 926, CONCAT , Operand: 5
+Offset: 927, RETURN , Operand: 0
+Offset: 928, GOTO , Operand: 35
+Offset: 929, PUSHI , Operand: -1
+Offset: 930, PUSHI , Operand: 7620
+Offset: 931, PUSHS , Operand: To make nettle tea:
+Offset: 932, PUSHS , Operand: 
+Offset: 933, RETURN , Operand: 0
+Offset: 934, GOTO , Operand: 29
+Offset: 935, PUSHI , Operand: -1
+Offset: 936, PUSHI , Operand: 7620
+Offset: 937, PUSHS , Operand: 1. Fill a bowl with water.
+Offset: 938, PUSHS , Operand: 
+Offset: 939, RETURN , Operand: 0
+Offset: 940, GOTO , Operand: 23
+Offset: 941, PUSHI , Operand: -1
+Offset: 942, PUSHI , Operand: 7620
+Offset: 943, PUSHS , Operand: 2. Put some picked nettles into the bowl of water.
+Offset: 944, PUSHS , Operand: 
+Offset: 945, RETURN , Operand: 0
+Offset: 946, GOTO , Operand: 17
+Offset: 947, PUSHI , Operand: -1
+Offset: 948, PUSHI , Operand: 7620
+Offset: 949, PUSHS , Operand: 3. Boil the nettle-water by using it with a range or a fire.
+Offset: 950, PUSHS , Operand: 
+Offset: 951, RETURN , Operand: 0
+Offset: 952, GOTO , Operand: 11
+Offset: 953, PUSHI , Operand: -1
+Offset: 954, PUSHI , Operand: 7620
+Offset: 955, PUSHS , Operand: 4. Use the bowl of nettle tea with a cup.
+Offset: 956, PUSHS , Operand: 
+Offset: 957, RETURN , Operand: 0
+Offset: 958, GOTO , Operand: 5
+Offset: 959, PUSHI , Operand: -1
+Offset: 960, PUSHI , Operand: 7620
+Offset: 961, PUSHS , Operand: 5. If you take milk, use a bucket of milk on the nettle tea.
+Offset: 962, PUSHS , Operand: 
+Offset: 963, RETURN , Operand: 0
+Offset: 964, GOTO , Operand: 1281
+Offset: 965, LOADINT , Operand: 1
+Offset: 966, SWITCH , Operand: 9
+Offset: 967, GOTO , Operand: 139
+Offset: 968, PUSHI , Operand: 14
+Offset: 969, PUSHI , Operand: 5763
+Offset: 970, PUSHS , Operand: Members: Cider
+Offset: 971, PUSHS , Operand: <br>
+Offset: 972, PUSHS , Operand: 4 Apple mush
+Offset: 973, CONCAT , Operand: 3
+Offset: 974, PUSHS , Operand: Members can now make 
+Offset: 975, PUSHS , Operand: <col=000080>
+Offset: 976, PUSHS , Operand: apple mush
+Offset: 977, PUSHS , Operand: </col>
+Offset: 978, PUSHS , Operand: .
+Offset: 979, CONCAT , Operand: 5
+Offset: 980, RETURN , Operand: 0
+Offset: 981, GOTO , Operand: 125
+Offset: 982, PUSHI , Operand: 19
+Offset: 983, PUSHI , Operand: 1913
+Offset: 984, PUSHS , Operand: Members: Dwarven Stout
+Offset: 985, PUSHS , Operand: <br>
+Offset: 986, PUSHS , Operand: 4 Hammerstone hops
+Offset: 987, CONCAT , Operand: 3
+Offset: 988, PUSHS , Operand: Members can now brew 
+Offset: 989, PUSHS , Operand: <col=000080>
+Offset: 990, PUSHS , Operand: Dwarven Stout
+Offset: 991, PUSHS , Operand: </col>
+Offset: 992, PUSHS , Operand: .
+Offset: 993, CONCAT , Operand: 5
+Offset: 994, RETURN , Operand: 0
+Offset: 995, GOTO , Operand: 111
+Offset: 996, PUSHI , Operand: 24
+Offset: 997, PUSHI , Operand: 1905
+Offset: 998, PUSHS , Operand: Members: Asgarnian Ale
+Offset: 999, PUSHS , Operand: <br>
+Offset: 1000, PUSHS , Operand: 4 Asgarnian hops
+Offset: 1001, CONCAT , Operand: 3
+Offset: 1002, PUSHS , Operand: Members can now brew 
+Offset: 1003, PUSHS , Operand: <col=000080>
+Offset: 1004, PUSHS , Operand: Asgarnian Ale
+Offset: 1005, PUSHS , Operand: </col>
+Offset: 1006, PUSHS , Operand: .
+Offset: 1007, CONCAT , Operand: 5
+Offset: 1008, RETURN , Operand: 0
+Offset: 1009, GOTO , Operand: 97
+Offset: 1010, PUSHI , Operand: 29
+Offset: 1011, PUSHI , Operand: 1909
+Offset: 1012, PUSHS , Operand: Members: Greenman's Ale
+Offset: 1013, PUSHS , Operand: <br>
+Offset: 1014, PUSHS , Operand: 4 Harralander leaves
+Offset: 1015, CONCAT , Operand: 3
+Offset: 1016, PUSHS , Operand: Members can now brew 
+Offset: 1017, PUSHS , Operand: <col=000080>
+Offset: 1018, PUSHS , Operand: Greenman's Ale
+Offset: 1019, PUSHS , Operand: </col>
+Offset: 1020, PUSHS , Operand: .
+Offset: 1021, CONCAT , Operand: 5
+Offset: 1022, RETURN , Operand: 0
+Offset: 1023, GOTO , Operand: 83
+Offset: 1024, PUSHI , Operand: 34
+Offset: 1025, PUSHI , Operand: 1907
+Offset: 1026, PUSHS , Operand: Members: Wizard's mind bomb
+Offset: 1027, PUSHS , Operand: <br>
+Offset: 1028, PUSHS , Operand: 4 Yanillian hops
+Offset: 1029, CONCAT , Operand: 3
+Offset: 1030, PUSHS , Operand: Members can now brew 
+Offset: 1031, PUSHS , Operand: <col=000080>
+Offset: 1032, PUSHS , Operand: Wizard's Mind Bomb
+Offset: 1033, PUSHS , Operand: </col>
+Offset: 1034, PUSHS , Operand: .
+Offset: 1035, CONCAT , Operand: 5
+Offset: 1036, RETURN , Operand: 0
+Offset: 1037, GOTO , Operand: 69
+Offset: 1038, PUSHI , Operand: 39
+Offset: 1039, PUSHI , Operand: 1911
+Offset: 1040, PUSHS , Operand: Members: Dragon Bitter
+Offset: 1041, PUSHS , Operand: <br>
+Offset: 1042, PUSHS , Operand: 4 Krandorian hops
+Offset: 1043, CONCAT , Operand: 3
+Offset: 1044, PUSHS , Operand: Members can now brew 
+Offset: 1045, PUSHS , Operand: <col=000080>
+Offset: 1046, PUSHS , Operand: Dragon Bitter
+Offset: 1047, PUSHS , Operand: </col>
+Offset: 1048, PUSHS , Operand: .
+Offset: 1049, CONCAT , Operand: 5
+Offset: 1050, RETURN , Operand: 0
+Offset: 1051, GOTO , Operand: 55
+Offset: 1052, PUSHI , Operand: 44
+Offset: 1053, PUSHI , Operand: 2955
+Offset: 1054, PUSHS , Operand: Members: Moonlight Mead
+Offset: 1055, PUSHS , Operand: <br>
+Offset: 1056, PUSHS , Operand: 4 Bittercap mushrooms
+Offset: 1057, CONCAT , Operand: 3
+Offset: 1058, PUSHS , Operand: Members can now brew 
+Offset: 1059, PUSHS , Operand: <col=000080>
+Offset: 1060, PUSHS , Operand: Moonlight Mead
+Offset: 1061, PUSHS , Operand: </col>
+Offset: 1062, PUSHS , Operand: .
+Offset: 1063, CONCAT , Operand: 5
+Offset: 1064, RETURN , Operand: 0
+Offset: 1065, GOTO , Operand: 41
+Offset: 1066, PUSHI , Operand: 49
+Offset: 1067, PUSHI , Operand: 5751
+Offset: 1068, PUSHS , Operand: Members: Axeman's folly
+Offset: 1069, PUSHS , Operand: <br>
+Offset: 1070, PUSHS , Operand: 1 Oak root
+Offset: 1071, CONCAT , Operand: 3
+Offset: 1072, PUSHS , Operand: Members can now brew 
+Offset: 1073, PUSHS , Operand: <col=000080>
+Offset: 1074, PUSHS , Operand: Axeman's Folly
+Offset: 1075, PUSHS , Operand: </col>
+Offset: 1076, PUSHS , Operand: .
+Offset: 1077, CONCAT , Operand: 5
+Offset: 1078, RETURN , Operand: 0
+Offset: 1079, GOTO , Operand: 27
+Offset: 1080, PUSHI , Operand: 54
+Offset: 1081, PUSHI , Operand: 5755
+Offset: 1082, PUSHS , Operand: Members: Chef's Delight
+Offset: 1083, PUSHS , Operand: <br>
+Offset: 1084, PUSHS , Operand: 4 Portions of chocolate dust
+Offset: 1085, CONCAT , Operand: 3
+Offset: 1086, PUSHS , Operand: Members can now brew 
+Offset: 1087, PUSHS , Operand: <col=000080>
+Offset: 1088, PUSHS , Operand: Chef's Delight
+Offset: 1089, PUSHS , Operand: </col>
+Offset: 1090, PUSHS , Operand: .
+Offset: 1091, CONCAT , Operand: 5
+Offset: 1092, RETURN , Operand: 0
+Offset: 1093, GOTO , Operand: 13
+Offset: 1094, PUSHI , Operand: 59
+Offset: 1095, PUSHI , Operand: 5759
+Offset: 1096, PUSHS , Operand: Members: Slayer's Respite
+Offset: 1097, PUSHS , Operand: <br>
+Offset: 1098, PUSHS , Operand: 4 Wildblood hops
+Offset: 1099, CONCAT , Operand: 3
+Offset: 1100, PUSHS , Operand: Members can now brew 
+Offset: 1101, PUSHS , Operand: <col=000080>
+Offset: 1102, PUSHS , Operand: Slayer's Respite
+Offset: 1103, PUSHS , Operand: </col>
+Offset: 1104, PUSHS , Operand: .
+Offset: 1105, CONCAT , Operand: 5
+Offset: 1106, RETURN , Operand: 0
+Offset: 1107, GOTO , Operand: 1138
+Offset: 1108, LOADINT , Operand: 1
+Offset: 1109, SWITCH , Operand: 10
+Offset: 1110, GOTO , Operand: 229
+Offset: 1111, PUSHI , Operand: 7
+Offset: 1112, PUSHI , Operand: 6701
+Offset: 1113, PUSHS , Operand: Members: Baked potato
+Offset: 1114, PUSHS , Operand: Members can now cook 
+Offset: 1115, PUSHS , Operand: <col=000080>
+Offset: 1116, PUSHS , Operand: baked potatoes
+Offset: 1117, PUSHS , Operand: </col>
+Offset: 1118, PUSHS , Operand: .
+Offset: 1119, CONCAT , Operand: 5
+Offset: 1120, RETURN , Operand: 0
+Offset: 1121, GOTO , Operand: 218
+Offset: 1122, PUSHI , Operand: 9
+Offset: 1123, PUSHI , Operand: 7072
+Offset: 1124, PUSHS , Operand: Members: Spicy sauce (topping ingredient)
+Offset: 1125, PUSHS , Operand: Members can now make 
+Offset: 1126, PUSHS , Operand: <col=000080>
+Offset: 1127, PUSHS , Operand: spicy sauce
+Offset: 1128, PUSHS , Operand: </col>
+Offset: 1129, PUSHS , Operand:  toppings.
+Offset: 1130, CONCAT , Operand: 5
+Offset: 1131, RETURN , Operand: 0
+Offset: 1132, GOTO , Operand: 207
+Offset: 1133, PUSHI , Operand: 11
+Offset: 1134, PUSHI , Operand: 7062
+Offset: 1135, PUSHS , Operand: Members: Chilli con carne (topping)
+Offset: 1136, PUSHS , Operand: Members can now make 
+Offset: 1137, PUSHS , Operand: <col=000080>
+Offset: 1138, PUSHS , Operand: chilli con carne
+Offset: 1139, PUSHS , Operand: </col>
+Offset: 1140, PUSHS , Operand:  toppings.
+Offset: 1141, CONCAT , Operand: 5
+Offset: 1142, RETURN , Operand: 0
+Offset: 1143, GOTO , Operand: 196
+Offset: 1144, PUSHI , Operand: 13
+Offset: 1145, PUSHI , Operand: 7078
+Offset: 1146, PUSHS , Operand: Members: Scrambled egg (topping ingredient)
+Offset: 1147, PUSHS , Operand: Members can now make 
+Offset: 1148, PUSHS , Operand: <col=000080>
+Offset: 1149, PUSHS , Operand: scrambled egg
+Offset: 1150, PUSHS , Operand: </col>
+Offset: 1151, PUSHS , Operand:  toppings.
+Offset: 1152, CONCAT , Operand: 5
+Offset: 1153, RETURN , Operand: 0
+Offset: 1154, GOTO , Operand: 185
+Offset: 1155, PUSHI , Operand: 23
+Offset: 1156, PUSHI , Operand: 7064
+Offset: 1157, PUSHS , Operand: Members: Scrambled egg and tomato (topping)
+Offset: 1158, PUSHS , Operand: Members can now make 
+Offset: 1159, PUSHS , Operand: <col=000080>
+Offset: 1160, PUSHS , Operand: scrambled egg and tomato
+Offset: 1161, PUSHS , Operand: </col>
+Offset: 1162, PUSHS , Operand:  toppings.
+Offset: 1163, CONCAT , Operand: 5
+Offset: 1164, RETURN , Operand: 0
+Offset: 1165, GOTO , Operand: 174
+Offset: 1166, PUSHI , Operand: 28
+Offset: 1167, PUSHI , Operand: 5988
+Offset: 1168, PUSHS , Operand: Members: Sweetcorn
+Offset: 1169, PUSHS , Operand: Members can now cook 
+Offset: 1170, PUSHS , Operand: <col=000080>
+Offset: 1171, PUSHS , Operand: sweetcorn
+Offset: 1172, PUSHS , Operand: </col>
+Offset: 1173, PUSHS , Operand: .
+Offset: 1174, CONCAT , Operand: 5
+Offset: 1175, RETURN , Operand: 0
+Offset: 1176, GOTO , Operand: 163
+Offset: 1177, PUSHI , Operand: 39
+Offset: 1178, PUSHI , Operand: 6703
+Offset: 1179, PUSHS , Operand: Members: Baked potato with butter
+Offset: 1180, PUSHS , Operand: Members can now cook 
+Offset: 1181, PUSHS , Operand: <col=000080>
+Offset: 1182, PUSHS , Operand: baked potatoes with butter
+Offset: 1183, PUSHS , Operand: </col>
+Offset: 1184, PUSHS , Operand: .
+Offset: 1185, CONCAT , Operand: 5
+Offset: 1186, RETURN , Operand: 0
+Offset: 1187, GOTO , Operand: 152
+Offset: 1188, PUSHI , Operand: 41
+Offset: 1189, PUSHI , Operand: 7054
+Offset: 1190, PUSHS , Operand: Members: Baked potato with chilli con carne
+Offset: 1191, PUSHS , Operand: Members can now cook 
+Offset: 1192, PUSHS , Operand: <col=000080>
+Offset: 1193, PUSHS , Operand: baked potatoes with chilli con carne
+Offset: 1194, PUSHS , Operand: </col>
+Offset: 1195, PUSHS , Operand: .
+Offset: 1196, CONCAT , Operand: 5
+Offset: 1197, RETURN , Operand: 0
+Offset: 1198, GOTO , Operand: 141
+Offset: 1199, PUSHI , Operand: 42
+Offset: 1200, PUSHI , Operand: 7084
+Offset: 1201, PUSHS , Operand: Members: Fried onion (topping ingredient)
+Offset: 1202, PUSHS , Operand: Members can now make 
+Offset: 1203, PUSHS , Operand: <col=000080>
+Offset: 1204, PUSHS , Operand: fried onion
+Offset: 1205, PUSHS , Operand: </col>
+Offset: 1206, PUSHS , Operand:  toppings.
+Offset: 1207, CONCAT , Operand: 5
+Offset: 1208, RETURN , Operand: 0
+Offset: 1209, GOTO , Operand: 130
+Offset: 1210, PUSHI , Operand: 46
+Offset: 1211, PUSHI , Operand: 7082
+Offset: 1212, PUSHS , Operand: Members: Fried mushroom (topping ingredient)
+Offset: 1213, PUSHS , Operand: Members can now make 
+Offset: 1214, PUSHS , Operand: <col=000080>
+Offset: 1215, PUSHS , Operand: fried mushroom
+Offset: 1216, PUSHS , Operand: </col>
+Offset: 1217, PUSHS , Operand:  toppings.
+Offset: 1218, CONCAT , Operand: 5
+Offset: 1219, RETURN , Operand: 0
+Offset: 1220, GOTO , Operand: 119
+Offset: 1221, PUSHI , Operand: 47
+Offset: 1222, PUSHI , Operand: 6705
+Offset: 1223, PUSHS , Operand: Members: Baked potato with butter and cheese
+Offset: 1224, PUSHS , Operand: Members can now cook 
+Offset: 1225, PUSHS , Operand: <col=000080>
+Offset: 1226, PUSHS , Operand: baked potatoes with butter and cheese
+Offset: 1227, PUSHS , Operand: </col>
+Offset: 1228, PUSHS , Operand: .
+Offset: 1229, CONCAT , Operand: 5
+Offset: 1230, RETURN , Operand: 0
+Offset: 1231, GOTO , Operand: 108
+Offset: 1232, PUSHI , Operand: 51
+Offset: 1233, PUSHI , Operand: 7056
+Offset: 1234, PUSHS , Operand: Members: Baked potato with egg and tomato
+Offset: 1235, PUSHS , Operand: Members can now cook 
+Offset: 1236, PUSHS , Operand: <col=000080>
+Offset: 1237, PUSHS , Operand: baked potatoes with egg and tomato
+Offset: 1238, PUSHS , Operand: </col>
+Offset: 1239, PUSHS , Operand: .
+Offset: 1240, CONCAT , Operand: 5
+Offset: 1241, RETURN , Operand: 0
+Offset: 1242, GOTO , Operand: 97
+Offset: 1243, PUSHI , Operand: 57
+Offset: 1244, PUSHI , Operand: 7066
+Offset: 1245, PUSHS , Operand: Members: Fried mushroom and onion (topping)
+Offset: 1246, PUSHS , Operand: Members can now make 
+Offset: 1247, PUSHS , Operand: <col=000080>
+Offset: 1248, PUSHS , Operand: fried mushroom and onion
+Offset: 1249, PUSHS , Operand: </col>
+Offset: 1250, PUSHS , Operand:  toppings.
+Offset: 1251, CONCAT , Operand: 5
+Offset: 1252, RETURN , Operand: 0
+Offset: 1253, GOTO , Operand: 86
+Offset: 1254, PUSHI , Operand: 64
+Offset: 1255, PUSHI , Operand: 7058
+Offset: 1256, PUSHS , Operand: Members: Baked potato with mushroom and onion
+Offset: 1257, PUSHS , Operand: Members can now cook 
+Offset: 1258, PUSHS , Operand: <col=000080>
+Offset: 1259, PUSHS , Operand: baked potatoes with mushroom and onion
+Offset: 1260, PUSHS , Operand: </col>
+Offset: 1261, PUSHS , Operand: .
+Offset: 1262, CONCAT , Operand: 5
+Offset: 1263, RETURN , Operand: 0
+Offset: 1264, GOTO , Operand: 75
+Offset: 1265, PUSHI , Operand: 67
+Offset: 1266, PUSHI , Operand: 7068
+Offset: 1267, PUSHS , Operand: Members: Tuna and sweetcorn (topping)
+Offset: 1268, PUSHS , Operand: Members can now make 
+Offset: 1269, PUSHS , Operand: <col=000080>
+Offset: 1270, PUSHS , Operand: tuna and sweetcorn
+Offset: 1271, PUSHS , Operand: </col>
+Offset: 1272, PUSHS , Operand:  toppings.
+Offset: 1273, CONCAT , Operand: 5
+Offset: 1274, RETURN , Operand: 0
+Offset: 1275, GOTO , Operand: 64
+Offset: 1276, PUSHI , Operand: 68
+Offset: 1277, PUSHI , Operand: 7060
+Offset: 1278, PUSHS , Operand: Members: Baked potato with tuna and sweetcorn
+Offset: 1279, PUSHS , Operand: Members can now cook 
+Offset: 1280, PUSHS , Operand: <col=000080>
+Offset: 1281, PUSHS , Operand: baked potatoes with tuna and sweetcorn
+Offset: 1282, PUSHS , Operand: </col>
+Offset: 1283, PUSHS , Operand: .
+Offset: 1284, CONCAT , Operand: 5
+Offset: 1285, RETURN , Operand: 0
+Offset: 1286, GOTO , Operand: 53
+Offset: 1287, PUSHI , Operand: -1
+Offset: 1288, PUSHI , Operand: 7620
+Offset: 1289, PUSHS , Operand: To make baked potatoes with toppings:
+Offset: 1290, PUSHS , Operand: 
+Offset: 1291, RETURN , Operand: 0
+Offset: 1292, GOTO , Operand: 47
+Offset: 1293, PUSHI , Operand: -1
+Offset: 1294, PUSHI , Operand: 7620
+Offset: 1295, PUSHS , Operand: 1. Bake the potato on a range.
+Offset: 1296, PUSHS , Operand: 
+Offset: 1297, RETURN , Operand: 0
+Offset: 1298, GOTO , Operand: 41
+Offset: 1299, PUSHI , Operand: -1
+Offset: 1300, PUSHI , Operand: 7620
+Offset: 1301, PUSHS , Operand: 2. Add some butter.
+Offset: 1302, PUSHS , Operand: 
+Offset: 1303, RETURN , Operand: 0
+Offset: 1304, GOTO , Operand: 35
+Offset: 1305, PUSHI , Operand: -1
+Offset: 1306, PUSHI , Operand: 7620
+Offset: 1307, PUSHS , Operand: 3. If needed, combine topping ingredients by chopping them into a bowl.
+Offset: 1308, PUSHS , Operand: 
+Offset: 1309, RETURN , Operand: 0
+Offset: 1310, GOTO , Operand: 29
+Offset: 1311, PUSHI , Operand: -1
+Offset: 1312, PUSHI , Operand: 7620
+Offset: 1313, PUSHS , Operand: Ingredients for toppings:
+Offset: 1314, PUSHS , Operand: 
+Offset: 1315, RETURN , Operand: 0
+Offset: 1316, GOTO , Operand: 23
+Offset: 1317, PUSHI , Operand: -1
+Offset: 1318, PUSHI , Operand: 7620
+Offset: 1319, PUSHS , Operand: 1. Chilli con carne: meat and spicy sauce (made from garlic and gnome spice)
+Offset: 1320, PUSHS , Operand: 
+Offset: 1321, RETURN , Operand: 0
+Offset: 1322, GOTO , Operand: 17
+Offset: 1323, PUSHI , Operand: -1
+Offset: 1324, PUSHI , Operand: 7620
+Offset: 1325, PUSHS , Operand: 2. Egg and tomato: scrambled egg and tomato
+Offset: 1326, PUSHS , Operand: 
+Offset: 1327, RETURN , Operand: 0
+Offset: 1328, GOTO , Operand: 11
+Offset: 1329, PUSHI , Operand: -1
+Offset: 1330, PUSHI , Operand: 7620
+Offset: 1331, PUSHS , Operand: 3. Mushroom and onion: fried bittercap mushroom and fried onion
+Offset: 1332, PUSHS , Operand: 
+Offset: 1333, RETURN , Operand: 0
+Offset: 1334, GOTO , Operand: 5
+Offset: 1335, PUSHI , Operand: -1
+Offset: 1336, PUSHI , Operand: 7620
+Offset: 1337, PUSHS , Operand: 4. Tuna and sweetcorn: tuna and cooked sweetcorn
+Offset: 1338, PUSHS , Operand: 
+Offset: 1339, RETURN , Operand: 0
+Offset: 1340, GOTO , Operand: 905
+Offset: 1341, LOADINT , Operand: 1
+Offset: 1342, SWITCH , Operand: 11
+Offset: 1343, GOTO , Operand: 67
+Offset: 1344, PUSHI , Operand: 4
+Offset: 1345, PUSHI , Operand: 1977
+Offset: 1346, PUSHS , Operand: Members: Chocolate milk
+Offset: 1347, PUSHS , Operand: Members can now make 
+Offset: 1348, PUSHS , Operand: <col=000080>
+Offset: 1349, PUSHS , Operand: chocolate milk
+Offset: 1350, PUSHS , Operand: </col>
+Offset: 1351, PUSHS , Operand: .
+Offset: 1352, CONCAT , Operand: 5
+Offset: 1353, RETURN , Operand: 0
+Offset: 1354, GOTO , Operand: 56
+Offset: 1355, PUSHI , Operand: 21
+Offset: 1356, PUSHI , Operand: 2130
+Offset: 1357, PUSHS , Operand: Members: Cream
+Offset: 1358, PUSHS , Operand: Members can now churn 
+Offset: 1359, PUSHS , Operand: <col=000080>
+Offset: 1360, PUSHS , Operand: cream
+Offset: 1361, PUSHS , Operand: </col>
+Offset: 1362, PUSHS , Operand: .
+Offset: 1363, CONCAT , Operand: 5
+Offset: 1364, RETURN , Operand: 0
+Offset: 1365, GOTO , Operand: 45
+Offset: 1366, PUSHI , Operand: 38
+Offset: 1367, PUSHI , Operand: 6697
+Offset: 1368, PUSHS , Operand: Members: Butter
+Offset: 1369, PUSHS , Operand: Members can now churn 
+Offset: 1370, PUSHS , Operand: <col=000080>
+Offset: 1371, PUSHS , Operand: butter
+Offset: 1372, PUSHS , Operand: </col>
+Offset: 1373, PUSHS , Operand: .
+Offset: 1374, CONCAT , Operand: 5
+Offset: 1375, RETURN , Operand: 0
+Offset: 1376, GOTO , Operand: 34
+Offset: 1377, PUSHI , Operand: 48
+Offset: 1378, PUSHI , Operand: 1985
+Offset: 1379, PUSHS , Operand: Members: Cheese
+Offset: 1380, PUSHS , Operand: Members can now churn 
+Offset: 1381, PUSHS , Operand: <col=000080>
+Offset: 1382, PUSHS , Operand: cheese
+Offset: 1383, PUSHS , Operand: </col>
+Offset: 1384, PUSHS , Operand: .
+Offset: 1385, CONCAT , Operand: 5
+Offset: 1386, RETURN , Operand: 0
+Offset: 1387, GOTO , Operand: 23
+Offset: 1388, PUSHI , Operand: -1
+Offset: 1389, PUSHI , Operand: 7620
+Offset: 1390, PUSHS , Operand: To make churned dairy products:
+Offset: 1391, PUSHS , Operand:  
+Offset: 1392, RETURN , Operand: 0
+Offset: 1393, GOTO , Operand: 17
+Offset: 1394, PUSHI , Operand: -1
+Offset: 1395, PUSHI , Operand: 7620
+Offset: 1396, PUSHS , Operand: 1. Get a bucket of milk, a pot of cream or a pot of butter.
+Offset: 1397, PUSHS , Operand:  
+Offset: 1398, RETURN , Operand: 0
+Offset: 1399, GOTO , Operand: 11
+Offset: 1400, PUSHI , Operand: -1
+Offset: 1401, PUSHI , Operand: 7620
+Offset: 1402, PUSHS , Operand: 2. Use the milk, cream or butter in a churn.
+Offset: 1403, PUSHS , Operand:  
+Offset: 1404, RETURN , Operand: 0
+Offset: 1405, GOTO , Operand: 5
+Offset: 1406, PUSHI , Operand: -1
+Offset: 1407, PUSHI , Operand: 7620
+Offset: 1408, PUSHS , Operand: 3. Milk can be churned into cream, then into butter, then into cheese.
+Offset: 1409, PUSHS , Operand:  
+Offset: 1410, RETURN , Operand: 0
+Offset: 1411, GOTO , Operand: 834
+Offset: 1412, LOADINT , Operand: 1
+Offset: 1413, SWITCH , Operand: 12
+Offset: 1414, GOTO , Operand: 219
+Offset: 1415, PUSHI , Operand: 6
+Offset: 1416, PUSHI , Operand: 2084
+Offset: 1417, PUSHS , Operand: Members: Fruit Blast
+Offset: 1418, PUSHS , Operand: Members can now mix 
+Offset: 1419, PUSHS , Operand: <col=000080>
+Offset: 1420, PUSHS , Operand: Fruit Blasts
+Offset: 1421, PUSHS , Operand: </col>
+Offset: 1422, PUSHS , Operand: .
+Offset: 1423, CONCAT , Operand: 5
+Offset: 1424, RETURN , Operand: 0
+Offset: 1425, GOTO , Operand: 208
+Offset: 1426, PUSHI , Operand: 8
+Offset: 1427, PUSHI , Operand: 2048
+Offset: 1428, PUSHS , Operand: Members: Pineapple punch
+Offset: 1429, PUSHS , Operand: Members can now mix 
+Offset: 1430, PUSHS , Operand: <col=000080>
+Offset: 1431, PUSHS , Operand: pineapple punch
+Offset: 1432, PUSHS , Operand: </col>
+Offset: 1433, PUSHS , Operand: .
+Offset: 1434, CONCAT , Operand: 5
+Offset: 1435, RETURN , Operand: 0
+Offset: 1436, GOTO , Operand: 197
+Offset: 1437, PUSHI , Operand: 10
+Offset: 1438, PUSHI , Operand: 2217
+Offset: 1439, PUSHS , Operand: Members: Toad crunchies
+Offset: 1440, PUSHS , Operand: Members can now cook 
+Offset: 1441, PUSHS , Operand: <col=000080>
+Offset: 1442, PUSHS , Operand: toad crunchies
+Offset: 1443, PUSHS , Operand: </col>
+Offset: 1444, PUSHS , Operand: .
+Offset: 1445, CONCAT , Operand: 5
+Offset: 1446, RETURN , Operand: 0
+Offset: 1447, GOTO , Operand: 186
+Offset: 1448, PUSHI , Operand: 12
+Offset: 1449, PUSHI , Operand: 2213
+Offset: 1450, PUSHS , Operand: Members: Spicy crunchies
+Offset: 1451, PUSHS , Operand: Members can now cook 
+Offset: 1452, PUSHS , Operand: <col=000080>
+Offset: 1453, PUSHS , Operand: spicy crunchies
+Offset: 1454, PUSHS , Operand: </col>
+Offset: 1455, PUSHS , Operand: .
+Offset: 1456, CONCAT , Operand: 5
+Offset: 1457, RETURN , Operand: 0
+Offset: 1458, GOTO , Operand: 175
+Offset: 1459, PUSHI , Operand: 14
+Offset: 1460, PUSHI , Operand: 2205
+Offset: 1461, PUSHS , Operand: Members: Worm crunchies
+Offset: 1462, PUSHS , Operand: Members can now cook 
+Offset: 1463, PUSHS , Operand: <col=000080>
+Offset: 1464, PUSHS , Operand: worm crunchies
+Offset: 1465, PUSHS , Operand: </col>
+Offset: 1466, PUSHS , Operand: .
+Offset: 1467, CONCAT , Operand: 5
+Offset: 1468, RETURN , Operand: 0
+Offset: 1469, GOTO , Operand: 164
+Offset: 1470, PUSHI , Operand: 16
+Offset: 1471, PUSHI , Operand: 2209
+Offset: 1472, PUSHS , Operand: Members: Chocolate chip crunchies
+Offset: 1473, PUSHS , Operand: Members can now cook 
+Offset: 1474, PUSHS , Operand: <col=000080>
+Offset: 1475, PUSHS , Operand: chocolate chip crunchies
+Offset: 1476, PUSHS , Operand: </col>
+Offset: 1477, PUSHS , Operand: .
+Offset: 1478, CONCAT , Operand: 5
+Offset: 1479, RETURN , Operand: 0
+Offset: 1480, GOTO , Operand: 153
+Offset: 1481, PUSHI , Operand: 18
+Offset: 1482, PUSHI , Operand: 2054
+Offset: 1483, PUSHS , Operand: Members: Wizard Blizzard
+Offset: 1484, PUSHS , Operand: Members can now mix 
+Offset: 1485, PUSHS , Operand: <col=000080>
+Offset: 1486, PUSHS , Operand: Wizard Blizzards
+Offset: 1487, PUSHS , Operand: </col>
+Offset: 1488, PUSHS , Operand: .
+Offset: 1489, CONCAT , Operand: 5
+Offset: 1490, RETURN , Operand: 0
+Offset: 1491, GOTO , Operand: 142
+Offset: 1492, PUSHI , Operand: 20
+Offset: 1493, PUSHI , Operand: 2080
+Offset: 1494, PUSHS , Operand: Members: Short Green Guy (SGG)
+Offset: 1495, PUSHS , Operand: Members can now mix 
+Offset: 1496, PUSHS , Operand: <col=000080>
+Offset: 1497, PUSHS , Operand: Short Green Guys
+Offset: 1498, PUSHS , Operand: </col>
+Offset: 1499, PUSHS , Operand: .
+Offset: 1500, CONCAT , Operand: 5
+Offset: 1501, RETURN , Operand: 0
+Offset: 1502, GOTO , Operand: 131
+Offset: 1503, PUSHI , Operand: 25
+Offset: 1504, PUSHI , Operand: 2277
+Offset: 1505, PUSHS , Operand: Members: Fruit batta
+Offset: 1506, PUSHS , Operand: Members can now cook 
+Offset: 1507, PUSHS , Operand: <col=000080>
+Offset: 1508, PUSHS , Operand: fruit battas
+Offset: 1509, PUSHS , Operand: </col>
+Offset: 1510, PUSHS , Operand: .
+Offset: 1511, CONCAT , Operand: 5
+Offset: 1512, RETURN , Operand: 0
+Offset: 1513, GOTO , Operand: 120
+Offset: 1514, PUSHI , Operand: 26
+Offset: 1515, PUSHI , Operand: 2255
+Offset: 1516, PUSHS , Operand: Members: Toad batta
+Offset: 1517, PUSHS , Operand: Members can now cook 
+Offset: 1518, PUSHS , Operand: <col=000080>
+Offset: 1519, PUSHS , Operand: toad battas
+Offset: 1520, PUSHS , Operand: </col>
+Offset: 1521, PUSHS , Operand: .
+Offset: 1522, CONCAT , Operand: 5
+Offset: 1523, RETURN , Operand: 0
+Offset: 1524, GOTO , Operand: 109
+Offset: 1525, PUSHI , Operand: 27
+Offset: 1526, PUSHI , Operand: 2253
+Offset: 1527, PUSHS , Operand: Members: Worm batta
+Offset: 1528, PUSHS , Operand: Members can now cook 
+Offset: 1529, PUSHS , Operand: <col=000080>
+Offset: 1530, PUSHS , Operand: worm battas
+Offset: 1531, PUSHS , Operand: </col>
+Offset: 1532, PUSHS , Operand: .
+Offset: 1533, CONCAT , Operand: 5
+Offset: 1534, RETURN , Operand: 0
+Offset: 1535, GOTO , Operand: 98
+Offset: 1536, PUSHI , Operand: 28
+Offset: 1537, PUSHI , Operand: 2281
+Offset: 1538, PUSHS , Operand: Members: Vegetable batta
+Offset: 1539, PUSHS , Operand: Members can now cook 
+Offset: 1540, PUSHS , Operand: <col=000080>
+Offset: 1541, PUSHS , Operand: vegetable battas
+Offset: 1542, PUSHS , Operand: </col>
+Offset: 1543, PUSHS , Operand: .
+Offset: 1544, CONCAT , Operand: 5
+Offset: 1545, RETURN , Operand: 0
+Offset: 1546, GOTO , Operand: 87
+Offset: 1547, PUSHI , Operand: 29
+Offset: 1548, PUSHI , Operand: 2259
+Offset: 1549, PUSHS , Operand: Members: Cheese and tomato batta
+Offset: 1550, PUSHS , Operand: Members can now cook 
+Offset: 1551, PUSHS , Operand: <col=000080>
+Offset: 1552, PUSHS , Operand: cheese and tomato battas
+Offset: 1553, PUSHS , Operand: </col>
+Offset: 1554, PUSHS , Operand: .
+Offset: 1555, CONCAT , Operand: 5
+Offset: 1556, RETURN , Operand: 0
+Offset: 1557, GOTO , Operand: 76
+Offset: 1558, PUSHI , Operand: 30
+Offset: 1559, PUSHI , Operand: 2191
+Offset: 1560, PUSHS , Operand: Members: Worm hole
+Offset: 1561, PUSHS , Operand: Members can now cook 
+Offset: 1562, PUSHS , Operand: <col=000080>
+Offset: 1563, PUSHS , Operand: worm holes
+Offset: 1564, PUSHS , Operand: </col>
+Offset: 1565, PUSHS , Operand: .
+Offset: 1566, CONCAT , Operand: 5
+Offset: 1567, RETURN , Operand: 0
+Offset: 1568, GOTO , Operand: 65
+Offset: 1569, PUSHI , Operand: 32
+Offset: 1570, PUSHI , Operand: 2092
+Offset: 1571, PUSHS , Operand: Members: Drunk Dragon
+Offset: 1572, PUSHS , Operand: Members can now mix 
+Offset: 1573, PUSHS , Operand: <col=000080>
+Offset: 1574, PUSHS , Operand: Drunk Dragons
+Offset: 1575, PUSHS , Operand: </col>
+Offset: 1576, PUSHS , Operand: .
+Offset: 1577, CONCAT , Operand: 5
+Offset: 1578, RETURN , Operand: 0
+Offset: 1579, GOTO , Operand: 54
+Offset: 1580, PUSHI , Operand: 33
+Offset: 1581, PUSHI , Operand: 2074
+Offset: 1582, PUSHS , Operand: Members: Chocolate Saturday
+Offset: 1583, PUSHS , Operand: Members can now mix 
+Offset: 1584, PUSHS , Operand: <col=000080>
+Offset: 1585, PUSHS , Operand: Chocolate Saturdays
+Offset: 1586, PUSHS , Operand: </col>
+Offset: 1587, PUSHS , Operand: .
+Offset: 1588, CONCAT , Operand: 5
+Offset: 1589, RETURN , Operand: 0
+Offset: 1590, GOTO , Operand: 43
+Offset: 1591, PUSHI , Operand: 35
+Offset: 1592, PUSHI , Operand: 2195
+Offset: 1593, PUSHS , Operand: Members: Vegetable ball
+Offset: 1594, PUSHS , Operand: Members can now cook 
+Offset: 1595, PUSHS , Operand: <col=000080>
+Offset: 1596, PUSHS , Operand: vegetable balls
+Offset: 1597, PUSHS , Operand: </col>
+Offset: 1598, PUSHS , Operand: .
+Offset: 1599, CONCAT , Operand: 5
+Offset: 1600, RETURN , Operand: 0
+Offset: 1601, GOTO , Operand: 32
+Offset: 1602, PUSHI , Operand: 37
+Offset: 1603, PUSHI , Operand: 2064
+Offset: 1604, PUSHS , Operand: Members: Blurberry Special
+Offset: 1605, PUSHS , Operand: Members can now mix 
+Offset: 1606, PUSHS , Operand: <col=000080>
+Offset: 1607, PUSHS , Operand: Blurberry Specials
+Offset: 1608, PUSHS , Operand: </col>
+Offset: 1609, PUSHS , Operand: .
+Offset: 1610, CONCAT , Operand: 5
+Offset: 1611, RETURN , Operand: 0
+Offset: 1612, GOTO , Operand: 21
+Offset: 1613, PUSHI , Operand: 40
+Offset: 1614, PUSHI , Operand: 2187
+Offset: 1615, PUSHS , Operand: Members: Tangled toads' legs
+Offset: 1616, PUSHS , Operand: Members can now cook 
+Offset: 1617, PUSHS , Operand: <col=000080>
+Offset: 1618, PUSHS , Operand: tangled toads' legs
+Offset: 1619, PUSHS , Operand: </col>
+Offset: 1620, PUSHS , Operand: .
+Offset: 1621, CONCAT , Operand: 5
+Offset: 1622, RETURN , Operand: 0
+Offset: 1623, GOTO , Operand: 10
+Offset: 1624, PUSHI , Operand: 42
+Offset: 1625, PUSHI , Operand: 2185
+Offset: 1626, PUSHS , Operand: Members: Chocolate bomb
+Offset: 1627, PUSHS , Operand: Members can now cook 
+Offset: 1628, PUSHS , Operand: <col=000080>
+Offset: 1629, PUSHS , Operand: chocolate bombs
+Offset: 1630, PUSHS , Operand: </col>
+Offset: 1631, PUSHS , Operand: .
+Offset: 1632, CONCAT , Operand: 5
+Offset: 1633, RETURN , Operand: 0
+Offset: 1634, GOTO , Operand: 611
+Offset: 1635, LOADINT , Operand: 1
+Offset: 1636, SWITCH , Operand: 13
+Offset: 1637, GOTO , Operand: 49
+Offset: 1638, PUSHI , Operand: 91
+Offset: 1639, PUSHI , Operand: 18778
+Offset: 1640, PUSHS , Operand: Members: Starved ancient effigies
+Offset: 1641, PUSHS , Operand: Members can now investigate 
+Offset: 1642, PUSHS , Operand: <col=000080>
+Offset: 1643, PUSHS , Operand: starved ancient effigies
+Offset: 1644, PUSHS , Operand: </col>
+Offset: 1645, PUSHS , Operand:  using their knowledge of Cooking.
+Offset: 1646, CONCAT , Operand: 5
+Offset: 1647, RETURN , Operand: 0
+Offset: 1648, GOTO , Operand: 38
+Offset: 1649, PUSHI , Operand: 93
+Offset: 1650, PUSHI , Operand: 18779
+Offset: 1651, PUSHS , Operand: Members: Nourished ancient effigies
+Offset: 1652, PUSHS , Operand: Members can now investigate 
+Offset: 1653, PUSHS , Operand: <col=000080>
+Offset: 1654, PUSHS , Operand: nourished ancient effigies
+Offset: 1655, PUSHS , Operand: </col>
+Offset: 1656, PUSHS , Operand:  using their knowledge of Cooking.
+Offset: 1657, PUSHS , Operand: </col>
+Offset: 1658, PUSHS , Operand: .
+Offset: 1659, CONCAT , Operand: 7
+Offset: 1660, RETURN , Operand: 0
+Offset: 1661, GOTO , Operand: 25
+Offset: 1662, PUSHI , Operand: 95
+Offset: 1663, PUSHI , Operand: 18780
+Offset: 1664, PUSHS , Operand: Members: Sated ancient effigies
+Offset: 1665, PUSHS , Operand: Members can now investigate 
+Offset: 1666, PUSHS , Operand: <col=000080>
+Offset: 1667, PUSHS , Operand: sated ancient effigies
+Offset: 1668, PUSHS , Operand: </col>
+Offset: 1669, PUSHS , Operand:  using their knowledge of Cooking.
+Offset: 1670, PUSHS , Operand: </col>
+Offset: 1671, PUSHS , Operand: .
+Offset: 1672, CONCAT , Operand: 7
+Offset: 1673, RETURN , Operand: 0
+Offset: 1674, GOTO , Operand: 12
+Offset: 1675, PUSHI , Operand: 97
+Offset: 1676, PUSHI , Operand: 18781
+Offset: 1677, PUSHS , Operand: Members: Gorged ancient effigies
+Offset: 1678, PUSHS , Operand: Members can now investigate 
+Offset: 1679, PUSHS , Operand: <col=000080>
+Offset: 1680, PUSHS , Operand: gorged ancient effigies
+Offset: 1681, PUSHS , Operand: </col>
+Offset: 1682, PUSHS , Operand:  using their knowledge of Cooking.
+Offset: 1683, PUSHS , Operand: </col>
+Offset: 1684, PUSHS , Operand: .
+Offset: 1685, CONCAT , Operand: 7
+Offset: 1686, RETURN , Operand: 0
+Offset: 1687, GOTO , Operand: 558
+Offset: 1688, LOADINT , Operand: 1
+Offset: 1689, SWITCH , Operand: 14
+Offset: 1690, GOTO , Operand: 54
+Offset: 1691, PUSHI , Operand: 1
+Offset: 1692, PUSHI , Operand: 14162
+Offset: 1693, PUSHS , Operand: Members: Stealing Creation - class 1 food
+Offset: 1694, PUSHS , Operand: Members can now cook 
+Offset: 1695, PUSHS , Operand: <col=000080>
+Offset: 1696, PUSHS , Operand: class 1 food
+Offset: 1697, PUSHS , Operand: </col>
+Offset: 1698, PUSHS , Operand:  in Stealing Creation.
+Offset: 1699, CONCAT , Operand: 5
+Offset: 1700, RETURN , Operand: 0
+Offset: 1701, GOTO , Operand: 43
+Offset: 1702, PUSHI , Operand: 20
+Offset: 1703, PUSHI , Operand: 14164
+Offset: 1704, PUSHS , Operand: Members: Stealing Creation - class 2 food
+Offset: 1705, PUSHS , Operand: Members can now cook 
+Offset: 1706, PUSHS , Operand: <col=000080>
+Offset: 1707, PUSHS , Operand: class 2 food
+Offset: 1708, PUSHS , Operand: </col>
+Offset: 1709, PUSHS , Operand:  in Stealing Creation.
+Offset: 1710, CONCAT , Operand: 5
+Offset: 1711, RETURN , Operand: 0
+Offset: 1712, GOTO , Operand: 32
+Offset: 1713, PUSHI , Operand: 40
+Offset: 1714, PUSHI , Operand: 14166
+Offset: 1715, PUSHS , Operand: Members: Stealing Creation - class 3 food
+Offset: 1716, PUSHS , Operand: Members can now cook 
+Offset: 1717, PUSHS , Operand: <col=000080>
+Offset: 1718, PUSHS , Operand: class 3 food
+Offset: 1719, PUSHS , Operand: </col>
+Offset: 1720, PUSHS , Operand:  in Stealing Creation.
+Offset: 1721, CONCAT , Operand: 5
+Offset: 1722, RETURN , Operand: 0
+Offset: 1723, GOTO , Operand: 21
+Offset: 1724, PUSHI , Operand: 60
+Offset: 1725, PUSHI , Operand: 14168
+Offset: 1726, PUSHS , Operand: Members: Stealing Creation - class 4 food
+Offset: 1727, PUSHS , Operand: Members can now cook 
+Offset: 1728, PUSHS , Operand: <col=000080>
+Offset: 1729, PUSHS , Operand: class 4 food
+Offset: 1730, PUSHS , Operand: </col>
+Offset: 1731, PUSHS , Operand:  in Stealing Creation.
+Offset: 1732, CONCAT , Operand: 5
+Offset: 1733, RETURN , Operand: 0
+Offset: 1734, GOTO , Operand: 10
+Offset: 1735, PUSHI , Operand: 80
+Offset: 1736, PUSHI , Operand: 14170
+Offset: 1737, PUSHS , Operand: Members: Stealing Creation - class 5 food
+Offset: 1738, PUSHS , Operand: Members can now cook 
+Offset: 1739, PUSHS , Operand: <col=000080>
+Offset: 1740, PUSHS , Operand: class 5 food
+Offset: 1741, PUSHS , Operand: </col>
+Offset: 1742, PUSHS , Operand:  in Stealing Creation.
+Offset: 1743, CONCAT , Operand: 5
+Offset: 1744, RETURN , Operand: 0
+Offset: 1745, GOTO , Operand: 500
+Offset: 1746, LOADINT , Operand: 1
+Offset: 1747, SWITCH , Operand: 15
+Offset: 1748, GOTO , Operand: 459
+Offset: 1749, PUSHI , Operand: -1
+Offset: 1750, PUSHI , Operand: 15707
+Offset: 1751, PUSHS , Operand: Dungeoneering skill tasks
+Offset: 1752, PUSHS , Operand: <br>
+Offset: 1753, PUSHS , Operand: As your Cooking level increases, you will be able to attempt higher-level cooking tasks within Daemonheim. You will also be more likely to succeed when attempting cooking tasks within Daemonheim.
+Offset: 1754, CONCAT , Operand: 3
+Offset: 1755, PUSHS , Operand: 
+Offset: 1756, RETURN , Operand: 0
+Offset: 1757, GOTO , Operand: 450
+Offset: 1758, PUSHI , Operand: 1
+Offset: 1759, PUSHI , Operand: 18093
+Offset: 1760, PUSHS , Operand: Cave potato
+Offset: 1761, PUSHS , Operand: You can now cook 
+Offset: 1762, PUSHS , Operand: <col=000080>
+Offset: 1763, PUSHS , Operand: cave potatoes
+Offset: 1764, PUSHS , Operand: </col>
+Offset: 1765, PUSHS , Operand:  within Daemonheim.
+Offset: 1766, CONCAT , Operand: 5
+Offset: 1767, RETURN , Operand: 0
+Offset: 1768, GOTO , Operand: 439
+Offset: 1769, PUSHI , Operand: 1
+Offset: 1770, PUSHI , Operand: 18159
+Offset: 1771, PUSHS , Operand: Heim crab (Tier 1)
+Offset: 1772, PUSHS , Operand: You can now cook 
+Offset: 1773, PUSHS , Operand: <col=000080>
+Offset: 1774, PUSHS , Operand: heim crabs
+Offset: 1775, PUSHS , Operand: </col>
+Offset: 1776, PUSHS , Operand:  within Daemonheim.
+Offset: 1777, CONCAT , Operand: 5
+Offset: 1778, RETURN , Operand: 0
+Offset: 1779, GOTO , Operand: 428
+Offset: 1780, PUSHI , Operand: 3
+Offset: 1781, PUSHI , Operand: 18099
+Offset: 1782, PUSHS , Operand: Heim crab potato (Tier 1)
+Offset: 1783, PUSHS , Operand: You can now cook 
+Offset: 1784, PUSHS , Operand: <col=000080>
+Offset: 1785, PUSHS , Operand: heim crab potatoes
+Offset: 1786, PUSHS , Operand: </col>
+Offset: 1787, PUSHS , Operand:  within Daemonheim.
+Offset: 1788, CONCAT , Operand: 5
+Offset: 1789, RETURN , Operand: 0
+Offset: 1790, GOTO , Operand: 417
+Offset: 1791, PUSHI , Operand: 6
+Offset: 1792, PUSHI , Operand: 18119
+Offset: 1793, PUSHS , Operand: Heim crab & gissel potato (Tier 1)
+Offset: 1794, PUSHS , Operand: You can now cook 
+Offset: 1795, PUSHS , Operand: <col=000080>
+Offset: 1796, PUSHS , Operand: heim crab & gissel potatoes
+Offset: 1797, PUSHS , Operand: </col>
+Offset: 1798, PUSHS , Operand:  within Daemonheim.
+Offset: 1799, CONCAT , Operand: 5
+Offset: 1800, RETURN , Operand: 0
+Offset: 1801, GOTO , Operand: 406
+Offset: 1802, PUSHI , Operand: 9
+Offset: 1803, PUSHI , Operand: 18139
+Offset: 1804, PUSHS , Operand: Heim crab & edicap potato (Tier 1)
+Offset: 1805, PUSHS , Operand: You can now cook 
+Offset: 1806, PUSHS , Operand: <col=000080>
+Offset: 1807, PUSHS , Operand: heim crab & edicap potatoes
+Offset: 1808, PUSHS , Operand: </col>
+Offset: 1809, PUSHS , Operand:  within Daemonheim.
+Offset: 1810, CONCAT , Operand: 5
+Offset: 1811, RETURN , Operand: 0
+Offset: 1812, GOTO , Operand: 395
+Offset: 1813, PUSHI , Operand: 10
+Offset: 1814, PUSHI , Operand: 18161
+Offset: 1815, PUSHS , Operand: Red-eye (Tier 2)
+Offset: 1816, PUSHS , Operand: You can now cook 
+Offset: 1817, PUSHS , Operand: <col=000080>
+Offset: 1818, PUSHS , Operand: red-eyes
+Offset: 1819, PUSHS , Operand: </col>
+Offset: 1820, PUSHS , Operand:  within Daemonheim.
+Offset: 1821, CONCAT , Operand: 5
+Offset: 1822, RETURN , Operand: 0
+Offset: 1823, GOTO , Operand: 384
+Offset: 1824, PUSHI , Operand: 13
+Offset: 1825, PUSHI , Operand: 18101
+Offset: 1826, PUSHS , Operand: Red-eye potato (Tier 2)
+Offset: 1827, PUSHS , Operand: You can now cook 
+Offset: 1828, PUSHS , Operand: <col=000080>
+Offset: 1829, PUSHS , Operand: red-eye potatoes
+Offset: 1830, PUSHS , Operand: </col>
+Offset: 1831, PUSHS , Operand:  within Daemonheim.
+Offset: 1832, CONCAT , Operand: 5
+Offset: 1833, RETURN , Operand: 0
+Offset: 1834, GOTO , Operand: 373
+Offset: 1835, PUSHI , Operand: 16
+Offset: 1836, PUSHI , Operand: 18121
+Offset: 1837, PUSHS , Operand: Red-eye & gissel potato (Tier 2)
+Offset: 1838, PUSHS , Operand: You can now cook 
+Offset: 1839, PUSHS , Operand: <col=000080>
+Offset: 1840, PUSHS , Operand: red-eye & gissel potatoes
+Offset: 1841, PUSHS , Operand: </col>
+Offset: 1842, PUSHS , Operand:  within Daemonheim.
+Offset: 1843, CONCAT , Operand: 5
+Offset: 1844, RETURN , Operand: 0
+Offset: 1845, GOTO , Operand: 362
+Offset: 1846, PUSHI , Operand: 19
+Offset: 1847, PUSHI , Operand: 18141
+Offset: 1848, PUSHS , Operand: Red-eye & edicap potato (Tier 2)
+Offset: 1849, PUSHS , Operand: You can now cook 
+Offset: 1850, PUSHS , Operand: <col=000080>
+Offset: 1851, PUSHS , Operand: red-eye & edicap potatoes
+Offset: 1852, PUSHS , Operand: </col>
+Offset: 1853, PUSHS , Operand:  within Daemonheim.
+Offset: 1854, CONCAT , Operand: 5
+Offset: 1855, RETURN , Operand: 0
+Offset: 1856, GOTO , Operand: 351
+Offset: 1857, PUSHI , Operand: 20
+Offset: 1858, PUSHI , Operand: 18163
+Offset: 1859, PUSHS , Operand: Dusk eel (Tier 3)
+Offset: 1860, PUSHS , Operand: You can now cook 
+Offset: 1861, PUSHS , Operand: <col=000080>
+Offset: 1862, PUSHS , Operand: dusk eels
+Offset: 1863, PUSHS , Operand: </col>
+Offset: 1864, PUSHS , Operand:  within Daemonheim.
+Offset: 1865, CONCAT , Operand: 5
+Offset: 1866, RETURN , Operand: 0
+Offset: 1867, GOTO , Operand: 340
+Offset: 1868, PUSHI , Operand: 23
+Offset: 1869, PUSHI , Operand: 18103
+Offset: 1870, PUSHS , Operand: Dusk eel potato (Tier 3)
+Offset: 1871, PUSHS , Operand: You can now cook 
+Offset: 1872, PUSHS , Operand: <col=000080>
+Offset: 1873, PUSHS , Operand: dusk eel potatoes
+Offset: 1874, PUSHS , Operand: </col>
+Offset: 1875, PUSHS , Operand:  within Daemonheim.
+Offset: 1876, CONCAT , Operand: 5
+Offset: 1877, RETURN , Operand: 0
+Offset: 1878, GOTO , Operand: 329
+Offset: 1879, PUSHI , Operand: 26
+Offset: 1880, PUSHI , Operand: 18123
+Offset: 1881, PUSHS , Operand: Dusk eel & gissel potato (Tier 3)
+Offset: 1882, PUSHS , Operand: You can now cook 
+Offset: 1883, PUSHS , Operand: <col=000080>
+Offset: 1884, PUSHS , Operand: dusk eel & gissel potatoes
+Offset: 1885, PUSHS , Operand: </col>
+Offset: 1886, PUSHS , Operand:  within Daemonheim.
+Offset: 1887, CONCAT , Operand: 5
+Offset: 1888, RETURN , Operand: 0
+Offset: 1889, GOTO , Operand: 318
+Offset: 1890, PUSHI , Operand: 29
+Offset: 1891, PUSHI , Operand: 18143
+Offset: 1892, PUSHS , Operand: Dusk eel & edicap potato (Tier 3)
+Offset: 1893, PUSHS , Operand: You can now cook 
+Offset: 1894, PUSHS , Operand: <col=000080>
+Offset: 1895, PUSHS , Operand: dusk eel & edicap potatoes
+Offset: 1896, PUSHS , Operand: </col>
+Offset: 1897, PUSHS , Operand:  within Daemonheim.
+Offset: 1898, CONCAT , Operand: 5
+Offset: 1899, RETURN , Operand: 0
+Offset: 1900, GOTO , Operand: 307
+Offset: 1901, PUSHI , Operand: 30
+Offset: 1902, PUSHI , Operand: 18165
+Offset: 1903, PUSHS , Operand: Giant flatfish (Tier 4)
+Offset: 1904, PUSHS , Operand: You can now cook 
+Offset: 1905, PUSHS , Operand: <col=000080>
+Offset: 1906, PUSHS , Operand: giant flatfish
+Offset: 1907, PUSHS , Operand: </col>
+Offset: 1908, PUSHS , Operand:  within Daemonheim.
+Offset: 1909, CONCAT , Operand: 5
+Offset: 1910, RETURN , Operand: 0
+Offset: 1911, GOTO , Operand: 296
+Offset: 1912, PUSHI , Operand: 33
+Offset: 1913, PUSHI , Operand: 18105
+Offset: 1914, PUSHS , Operand: Flatfish potato (Tier 4)
+Offset: 1915, PUSHS , Operand: You can now cook 
+Offset: 1916, PUSHS , Operand: <col=000080>
+Offset: 1917, PUSHS , Operand: flatfish potatoes
+Offset: 1918, PUSHS , Operand: </col>
+Offset: 1919, PUSHS , Operand:  within Daemonheim.
+Offset: 1920, CONCAT , Operand: 5
+Offset: 1921, RETURN , Operand: 0
+Offset: 1922, GOTO , Operand: 285
+Offset: 1923, PUSHI , Operand: 36
+Offset: 1924, PUSHI , Operand: 18125
+Offset: 1925, PUSHS , Operand: Flatfish & gissel potato (Tier 4)
+Offset: 1926, PUSHS , Operand: You can now cook 
+Offset: 1927, PUSHS , Operand: <col=000080>
+Offset: 1928, PUSHS , Operand: flatfish & gissel potatoes
+Offset: 1929, PUSHS , Operand: </col>
+Offset: 1930, PUSHS , Operand:  within Daemonheim.
+Offset: 1931, CONCAT , Operand: 5
+Offset: 1932, RETURN , Operand: 0
+Offset: 1933, GOTO , Operand: 274
+Offset: 1934, PUSHI , Operand: 39
+Offset: 1935, PUSHI , Operand: 18145
+Offset: 1936, PUSHS , Operand: Flatfish & edicap potato (Tier 4)
+Offset: 1937, PUSHS , Operand: You can now cook 
+Offset: 1938, PUSHS , Operand: <col=000080>
+Offset: 1939, PUSHS , Operand: flatfish & edicap potatoes
+Offset: 1940, PUSHS , Operand: </col>
+Offset: 1941, PUSHS , Operand:  within Daemonheim.
+Offset: 1942, CONCAT , Operand: 5
+Offset: 1943, RETURN , Operand: 0
+Offset: 1944, GOTO , Operand: 263
+Offset: 1945, PUSHI , Operand: 40
+Offset: 1946, PUSHI , Operand: 18167
+Offset: 1947, PUSHS , Operand: Short-finned eel (Tier 5)
+Offset: 1948, PUSHS , Operand: You can now cook 
+Offset: 1949, PUSHS , Operand: <col=000080>
+Offset: 1950, PUSHS , Operand: short-finned eels
+Offset: 1951, PUSHS , Operand: </col>
+Offset: 1952, PUSHS , Operand:  within Daemonheim.
+Offset: 1953, CONCAT , Operand: 5
+Offset: 1954, RETURN , Operand: 0
+Offset: 1955, GOTO , Operand: 252
+Offset: 1956, PUSHI , Operand: 43
+Offset: 1957, PUSHI , Operand: 18107
+Offset: 1958, PUSHS , Operand: Short-fin potato (Tier 5)
+Offset: 1959, PUSHS , Operand: You can now cook 
+Offset: 1960, PUSHS , Operand: <col=000080>
+Offset: 1961, PUSHS , Operand: short-fin potatoes
+Offset: 1962, PUSHS , Operand: </col>
+Offset: 1963, PUSHS , Operand:  within Daemonheim.
+Offset: 1964, CONCAT , Operand: 5
+Offset: 1965, RETURN , Operand: 0
+Offset: 1966, GOTO , Operand: 241
+Offset: 1967, PUSHI , Operand: 46
+Offset: 1968, PUSHI , Operand: 18127
+Offset: 1969, PUSHS , Operand: Short-fin & gissel potato (Tier 5)
+Offset: 1970, PUSHS , Operand: You can now cook 
+Offset: 1971, PUSHS , Operand: <col=000080>
+Offset: 1972, PUSHS , Operand: short-fin & gissel potatoes
+Offset: 1973, PUSHS , Operand: </col>
+Offset: 1974, PUSHS , Operand:  within Daemonheim.
+Offset: 1975, CONCAT , Operand: 5
+Offset: 1976, RETURN , Operand: 0
+Offset: 1977, GOTO , Operand: 230
+Offset: 1978, PUSHI , Operand: 49
+Offset: 1979, PUSHI , Operand: 18147
+Offset: 1980, PUSHS , Operand: Short-fin & edicap potato (Tier 5)
+Offset: 1981, PUSHS , Operand: You can now cook 
+Offset: 1982, PUSHS , Operand: <col=000080>
+Offset: 1983, PUSHS , Operand: short-fin & edicap potatoes
+Offset: 1984, PUSHS , Operand: </col>
+Offset: 1985, PUSHS , Operand:  within Daemonheim.
+Offset: 1986, CONCAT , Operand: 5
+Offset: 1987, RETURN , Operand: 0
+Offset: 1988, GOTO , Operand: 219
+Offset: 1989, PUSHI , Operand: 50
+Offset: 1990, PUSHI , Operand: 18169
+Offset: 1991, PUSHS , Operand: Members: Web snipper (Tier 6)
+Offset: 1992, PUSHS , Operand: Members can now cook 
+Offset: 1993, PUSHS , Operand: <col=000080>
+Offset: 1994, PUSHS , Operand: web snippers
+Offset: 1995, PUSHS , Operand: </col>
+Offset: 1996, PUSHS , Operand:  within Daemonheim.
+Offset: 1997, CONCAT , Operand: 5
+Offset: 1998, RETURN , Operand: 0
+Offset: 1999, GOTO , Operand: 208
+Offset: 2000, PUSHI , Operand: 53
+Offset: 2001, PUSHI , Operand: 18109
+Offset: 2002, PUSHS , Operand: Members: Snipper potato (Tier 6)
+Offset: 2003, PUSHS , Operand: Members can now cook 
+Offset: 2004, PUSHS , Operand: <col=000080>
+Offset: 2005, PUSHS , Operand: spinner potatoes
+Offset: 2006, PUSHS , Operand: </col>
+Offset: 2007, PUSHS , Operand:  within Daemonheim.
+Offset: 2008, CONCAT , Operand: 5
+Offset: 2009, RETURN , Operand: 0
+Offset: 2010, GOTO , Operand: 197
+Offset: 2011, PUSHI , Operand: 56
+Offset: 2012, PUSHI , Operand: 18129
+Offset: 2013, PUSHS , Operand: Members: Snipper & gissel potato (Tier 6)
+Offset: 2014, PUSHS , Operand: Members can now cook 
+Offset: 2015, PUSHS , Operand: <col=000080>
+Offset: 2016, PUSHS , Operand: snipper & gissel potatoes
+Offset: 2017, PUSHS , Operand: </col>
+Offset: 2018, PUSHS , Operand:  within Daemonheim.
+Offset: 2019, CONCAT , Operand: 5
+Offset: 2020, RETURN , Operand: 0
+Offset: 2021, GOTO , Operand: 186
+Offset: 2022, PUSHI , Operand: 59
+Offset: 2023, PUSHI , Operand: 18149
+Offset: 2024, PUSHS , Operand: Members: Snipper & edicap potato (Tier 6)
+Offset: 2025, PUSHS , Operand: Members can now cook 
+Offset: 2026, PUSHS , Operand: <col=000080>
+Offset: 2027, PUSHS , Operand: snipper & edicap potatoes
+Offset: 2028, PUSHS , Operand: </col>
+Offset: 2029, PUSHS , Operand:  within Daemonheim.
+Offset: 2030, CONCAT , Operand: 5
+Offset: 2031, RETURN , Operand: 0
+Offset: 2032, GOTO , Operand: 175
+Offset: 2033, PUSHI , Operand: 60
+Offset: 2034, PUSHI , Operand: 18171
+Offset: 2035, PUSHS , Operand: Members: Bouldabass (Tier 7)
+Offset: 2036, PUSHS , Operand: Members can now cook 
+Offset: 2037, PUSHS , Operand: <col=000080>
+Offset: 2038, PUSHS , Operand: bouldabass
+Offset: 2039, PUSHS , Operand: </col>
+Offset: 2040, PUSHS , Operand:  within Daemonheim.
+Offset: 2041, CONCAT , Operand: 5
+Offset: 2042, RETURN , Operand: 0
+Offset: 2043, GOTO , Operand: 164
+Offset: 2044, PUSHI , Operand: 63
+Offset: 2045, PUSHI , Operand: 18111
+Offset: 2046, PUSHS , Operand: Members: Bouldabass potato (Tier 7)
+Offset: 2047, PUSHS , Operand: Members can now cook 
+Offset: 2048, PUSHS , Operand: <col=000080>
+Offset: 2049, PUSHS , Operand: bouldabass potatoes
+Offset: 2050, PUSHS , Operand: </col>
+Offset: 2051, PUSHS , Operand:  within Daemonheim.
+Offset: 2052, CONCAT , Operand: 5
+Offset: 2053, RETURN , Operand: 0
+Offset: 2054, GOTO , Operand: 153
+Offset: 2055, PUSHI , Operand: 66
+Offset: 2056, PUSHI , Operand: 18131
+Offset: 2057, PUSHS , Operand: Members: Bouldabass & gissel potato (Tier 7)
+Offset: 2058, PUSHS , Operand: Members can now cook 
+Offset: 2059, PUSHS , Operand: <col=000080>
+Offset: 2060, PUSHS , Operand: bouldabass & gissel potatoes
+Offset: 2061, PUSHS , Operand: </col>
+Offset: 2062, PUSHS , Operand:  within Daemonheim.
+Offset: 2063, CONCAT , Operand: 5
+Offset: 2064, RETURN , Operand: 0
+Offset: 2065, GOTO , Operand: 142
+Offset: 2066, PUSHI , Operand: 69
+Offset: 2067, PUSHI , Operand: 18151
+Offset: 2068, PUSHS , Operand: Members: Bouldabass & edicap potato (Tier 7)
+Offset: 2069, PUSHS , Operand: Members can now cook 
+Offset: 2070, PUSHS , Operand: <col=000080>
+Offset: 2071, PUSHS , Operand: bouldabass & edicap potatoes
+Offset: 2072, PUSHS , Operand: </col>
+Offset: 2073, PUSHS , Operand:  within Daemonheim.
+Offset: 2074, CONCAT , Operand: 5
+Offset: 2075, RETURN , Operand: 0
+Offset: 2076, GOTO , Operand: 131
+Offset: 2077, PUSHI , Operand: 70
+Offset: 2078, PUSHI , Operand: 18173
+Offset: 2079, PUSHS , Operand: Members: Salve eel (Tier 8)
+Offset: 2080, PUSHS , Operand: Members can now cook 
+Offset: 2081, PUSHS , Operand: <col=000080>
+Offset: 2082, PUSHS , Operand: salve eels
+Offset: 2083, PUSHS , Operand: </col>
+Offset: 2084, PUSHS , Operand:  within Daemonheim.
+Offset: 2085, CONCAT , Operand: 5
+Offset: 2086, RETURN , Operand: 0
+Offset: 2087, GOTO , Operand: 120
+Offset: 2088, PUSHI , Operand: 73
+Offset: 2089, PUSHI , Operand: 18113
+Offset: 2090, PUSHS , Operand: Members: Salve eel potato (Tier 8)
+Offset: 2091, PUSHS , Operand: Members can now cook 
+Offset: 2092, PUSHS , Operand: <col=000080>
+Offset: 2093, PUSHS , Operand: salve eel potatoes
+Offset: 2094, PUSHS , Operand: </col>
+Offset: 2095, PUSHS , Operand:  within Daemonheim.
+Offset: 2096, CONCAT , Operand: 5
+Offset: 2097, RETURN , Operand: 0
+Offset: 2098, GOTO , Operand: 109
+Offset: 2099, PUSHI , Operand: 76
+Offset: 2100, PUSHI , Operand: 18133
+Offset: 2101, PUSHS , Operand: Members: Salve eel & gissel potato (Tier 8)
+Offset: 2102, PUSHS , Operand: Members can now cook 
+Offset: 2103, PUSHS , Operand: <col=000080>
+Offset: 2104, PUSHS , Operand: salve eel & gissel potatoes
+Offset: 2105, PUSHS , Operand: </col>
+Offset: 2106, PUSHS , Operand:  within Daemonheim.
+Offset: 2107, CONCAT , Operand: 5
+Offset: 2108, RETURN , Operand: 0
+Offset: 2109, GOTO , Operand: 98
+Offset: 2110, PUSHI , Operand: 79
+Offset: 2111, PUSHI , Operand: 18153
+Offset: 2112, PUSHS , Operand: Members: Salve eel & edicap potato (Tier 8)
+Offset: 2113, PUSHS , Operand: Members can now cook 
+Offset: 2114, PUSHS , Operand: <col=000080>
+Offset: 2115, PUSHS , Operand: salve eel & edicap potatoes
+Offset: 2116, PUSHS , Operand: </col>
+Offset: 2117, PUSHS , Operand:  within Daemonheim.
+Offset: 2118, CONCAT , Operand: 5
+Offset: 2119, RETURN , Operand: 0
+Offset: 2120, GOTO , Operand: 87
+Offset: 2121, PUSHI , Operand: 80
+Offset: 2122, PUSHI , Operand: 18175
+Offset: 2123, PUSHS , Operand: Members: Blue crab (Tier 9)
+Offset: 2124, PUSHS , Operand: Members can now cook 
+Offset: 2125, PUSHS , Operand: <col=000080>
+Offset: 2126, PUSHS , Operand: blue crabs
+Offset: 2127, PUSHS , Operand: </col>
+Offset: 2128, PUSHS , Operand:  within Daemonheim.
+Offset: 2129, CONCAT , Operand: 5
+Offset: 2130, RETURN , Operand: 0
+Offset: 2131, GOTO , Operand: 76
+Offset: 2132, PUSHI , Operand: 83
+Offset: 2133, PUSHI , Operand: 18115
+Offset: 2134, PUSHS , Operand: Members: Blue crab potato (Tier 9)
+Offset: 2135, PUSHS , Operand: Members can now cook 
+Offset: 2136, PUSHS , Operand: <col=000080>
+Offset: 2137, PUSHS , Operand: blue crab potatoes
+Offset: 2138, PUSHS , Operand: </col>
+Offset: 2139, PUSHS , Operand:  within Daemonheim.
+Offset: 2140, CONCAT , Operand: 5
+Offset: 2141, RETURN , Operand: 0
+Offset: 2142, GOTO , Operand: 65
+Offset: 2143, PUSHI , Operand: 86
+Offset: 2144, PUSHI , Operand: 18135
+Offset: 2145, PUSHS , Operand: Members: blue crab & gissel potato (Tier 9)
+Offset: 2146, PUSHS , Operand: Members can now cook 
+Offset: 2147, PUSHS , Operand: <col=000080>
+Offset: 2148, PUSHS , Operand: blue crab & gissel potatoes
+Offset: 2149, PUSHS , Operand: </col>
+Offset: 2150, PUSHS , Operand:  within Daemonheim.
+Offset: 2151, CONCAT , Operand: 5
+Offset: 2152, RETURN , Operand: 0
+Offset: 2153, GOTO , Operand: 54
+Offset: 2154, PUSHI , Operand: 89
+Offset: 2155, PUSHI , Operand: 18155
+Offset: 2156, PUSHS , Operand: Members: Blue crab & edicap potato (Tier 9)
+Offset: 2157, PUSHS , Operand: Members can now cook 
+Offset: 2158, PUSHS , Operand: <col=000080>
+Offset: 2159, PUSHS , Operand: blue crab & edicap potatoes
+Offset: 2160, PUSHS , Operand: </col>
+Offset: 2161, PUSHS , Operand:  within Daemonheim.
+Offset: 2162, CONCAT , Operand: 5
+Offset: 2163, RETURN , Operand: 0
+Offset: 2164, GOTO , Operand: 43
+Offset: 2165, PUSHI , Operand: 90
+Offset: 2166, PUSHI , Operand: 18177
+Offset: 2167, PUSHS , Operand: Members: Cave moray (Tier 10)
+Offset: 2168, PUSHS , Operand: Members can now cook 
+Offset: 2169, PUSHS , Operand: <col=000080>
+Offset: 2170, PUSHS , Operand: cave morays
+Offset: 2171, PUSHS , Operand: </col>
+Offset: 2172, PUSHS , Operand:  within Daemonheim.
+Offset: 2173, CONCAT , Operand: 5
+Offset: 2174, RETURN , Operand: 0
+Offset: 2175, GOTO , Operand: 32
+Offset: 2176, PUSHI , Operand: 93
+Offset: 2177, PUSHI , Operand: 18117
+Offset: 2178, PUSHS , Operand: Members: Moray potato (Tier 10)
+Offset: 2179, PUSHS , Operand: Members can now cook 
+Offset: 2180, PUSHS , Operand: <col=000080>
+Offset: 2181, PUSHS , Operand: moray potatoes
+Offset: 2182, PUSHS , Operand: </col>
+Offset: 2183, PUSHS , Operand:  within Daemonheim.
+Offset: 2184, CONCAT , Operand: 5
+Offset: 2185, RETURN , Operand: 0
+Offset: 2186, GOTO , Operand: 21
+Offset: 2187, PUSHI , Operand: 96
+Offset: 2188, PUSHI , Operand: 18137
+Offset: 2189, PUSHS , Operand: Members: Moray & gissel potato (Tier 10)
+Offset: 2190, PUSHS , Operand: Members can now cook 
+Offset: 2191, PUSHS , Operand: <col=000080>
+Offset: 2192, PUSHS , Operand: moray & gissel potatoes
+Offset: 2193, PUSHS , Operand: </col>
+Offset: 2194, PUSHS , Operand:  within Daemonheim.
+Offset: 2195, CONCAT , Operand: 5
+Offset: 2196, RETURN , Operand: 0
+Offset: 2197, GOTO , Operand: 10
+Offset: 2198, PUSHI , Operand: 99
+Offset: 2199, PUSHI , Operand: 18157
+Offset: 2200, PUSHS , Operand: Members: Moray & edicap potato (Tier 10)
+Offset: 2201, PUSHS , Operand: Members can now cook 
+Offset: 2202, PUSHS , Operand: <col=000080>
+Offset: 2203, PUSHS , Operand: moray & edicap potatoes
+Offset: 2204, PUSHS , Operand: </col>
+Offset: 2205, PUSHS , Operand:  within Daemonheim.
+Offset: 2206, CONCAT , Operand: 5
+Offset: 2207, RETURN , Operand: 0
+Offset: 2208, GOTO , Operand: 37
+Offset: 2209, LOADINT , Operand: 1
+Offset: 2210, SWITCH , Operand: 16
+Offset: 2211, GOTO , Operand: 34
+Offset: 2212, PUSHI , Operand: 32
+Offset: 2213, PUSHI , Operand: 1949
+Offset: 2214, PUSHS , Operand: Chefs' Guild
+Offset: 2215, PUSHS , Operand: You are now qualified to enter the prestigious 
+Offset: 2216, PUSHS , Operand: <col=000080>
+Offset: 2217, PUSHS , Operand: Chefs' Guild
+Offset: 2218, PUSHS , Operand: </col>
+Offset: 2219, PUSHS , Operand: .
+Offset: 2220, CONCAT , Operand: 5
+Offset: 2221, RETURN , Operand: 0
+Offset: 2222, GOTO , Operand: 23
+Offset: 2223, PUSHI , Operand: 99
+Offset: 2224, PUSHI , Operand: 9801
+Offset: 2225, PUSHS , Operand: Skill mastery
+Offset: 2226, PUSHS , Operand: <col=000080>
+Offset: 2227, PUSHS , Operand: Congratulations! You are now a master of 
+Offset: 2228, PUSHS , Operand: <col=800000>
+Offset: 2229, PUSHS , Operand: Cooking
+Offset: 2230, PUSHS , Operand: <col=000080>
+Offset: 2231, PUSHS , Operand: . Members can visit the 
+Offset: 2232, PUSHS , Operand: <col=800000>
+Offset: 2233, PUSHS , Operand: head chef
+Offset: 2234, PUSHS , Operand: <col=000080>
+Offset: 2235, PUSHS , Operand:  at the 
+Offset: 2236, PUSHS , Operand: <col=800000>
+Offset: 2237, PUSHS , Operand: Cooking Guild
+Offset: 2238, PUSHS , Operand: <col=000080>
+Offset: 2239, PUSHS , Operand: . He has something special that is only available to true masters of the 
+Offset: 2240, PUSHS , Operand: <col=800000>
+Offset: 2241, PUSHS , Operand: Cooking
+Offset: 2242, PUSHS , Operand: <col=000080>
+Offset: 2243, PUSHS , Operand:  skill!
+Offset: 2244, CONCAT , Operand: 18
+Offset: 2245, RETURN , Operand: 0
+Offset: 2246, PUSHI , Operand: 0
+Offset: 2247, PUSHI , Operand: -1
+Offset: 2248, PUSHS , Operand: 
+Offset: 2249, PUSHS , Operand: 
+Offset: 2250, RETURN , Operand: 0
+
+================================================
+                Switch Table 0                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 477
+Key: 2, Value: 538
+Key: 3, Value: 670
+Key: 4, Value: 737
+Key: 5, Value: 820
+Key: 6, Value: 869
+Key: 7, Value: 913
+Key: 8, Value: 963
+Key: 9, Value: 1106
+Key: 10, Value: 1339
+Key: 11, Value: 1410
+Key: 12, Value: 1633
+Key: 13, Value: 1686
+Key: 14, Value: 1744
+Key: 15, Value: 2207
+
+================================================
+                Switch Table 1                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 12
+Key: 2, Value: 23
+Key: 3, Value: 34
+Key: 4, Value: 45
+Key: 5, Value: 56
+Key: 6, Value: 67
+Key: 7, Value: 78
+Key: 8, Value: 89
+Key: 9, Value: 100
+Key: 10, Value: 111
+Key: 11, Value: 122
+Key: 12, Value: 133
+Key: 13, Value: 144
+Key: 14, Value: 155
+Key: 15, Value: 166
+Key: 17, Value: 188
+Key: 16, Value: 177
+Key: 19, Value: 210
+Key: 18, Value: 199
+Key: 21, Value: 232
+Key: 20, Value: 221
+Key: 23, Value: 254
+Key: 22, Value: 243
+Key: 25, Value: 276
+Key: 24, Value: 265
+Key: 27, Value: 298
+Key: 26, Value: 287
+Key: 29, Value: 320
+Key: 28, Value: 309
+Key: 31, Value: 342
+Key: 30, Value: 331
+Key: 34, Value: 375
+Key: 35, Value: 386
+Key: 32, Value: 353
+Key: 33, Value: 364
+Key: 38, Value: 419
+Key: 39, Value: 430
+Key: 36, Value: 397
+Key: 37, Value: 408
+Key: 42, Value: 463
+Key: 40, Value: 441
+Key: 41, Value: 452
+
+================================================
+                Switch Table 2                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 12
+Key: 2, Value: 23
+Key: 3, Value: 29
+Key: 4, Value: 35
+Key: 5, Value: 41
+Key: 6, Value: 47
+Key: 7, Value: 53
+
+================================================
+                Switch Table 3                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 12
+Key: 2, Value: 23
+Key: 3, Value: 34
+Key: 4, Value: 45
+Key: 5, Value: 56
+Key: 6, Value: 67
+Key: 7, Value: 78
+Key: 8, Value: 89
+Key: 9, Value: 100
+Key: 10, Value: 106
+Key: 11, Value: 112
+Key: 12, Value: 118
+Key: 13, Value: 124
+
+================================================
+                Switch Table 4                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 12
+Key: 2, Value: 23
+Key: 3, Value: 29
+Key: 4, Value: 35
+Key: 5, Value: 41
+Key: 6, Value: 47
+Key: 7, Value: 53
+Key: 8, Value: 59
+
+================================================
+                Switch Table 5                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 12
+Key: 2, Value: 23
+Key: 3, Value: 34
+Key: 4, Value: 45
+Key: 5, Value: 51
+Key: 6, Value: 57
+Key: 7, Value: 63
+Key: 8, Value: 69
+Key: 9, Value: 75
+
+================================================
+                Switch Table 6                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 12
+Key: 2, Value: 23
+Key: 3, Value: 29
+Key: 4, Value: 35
+Key: 5, Value: 41
+
+================================================
+                Switch Table 7                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 12
+Key: 2, Value: 18
+Key: 3, Value: 24
+Key: 4, Value: 30
+Key: 5, Value: 36
+
+================================================
+                Switch Table 8                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 12
+Key: 2, Value: 18
+Key: 3, Value: 24
+Key: 4, Value: 30
+Key: 5, Value: 36
+Key: 6, Value: 42
+
+================================================
+                Switch Table 9                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 15
+Key: 2, Value: 29
+Key: 3, Value: 43
+Key: 4, Value: 57
+Key: 5, Value: 71
+Key: 6, Value: 85
+Key: 7, Value: 99
+Key: 8, Value: 113
+Key: 9, Value: 127
+
+================================================
+                Switch Table 10                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 12
+Key: 2, Value: 23
+Key: 3, Value: 34
+Key: 4, Value: 45
+Key: 5, Value: 56
+Key: 6, Value: 67
+Key: 7, Value: 78
+Key: 8, Value: 89
+Key: 9, Value: 100
+Key: 10, Value: 111
+Key: 11, Value: 122
+Key: 12, Value: 133
+Key: 13, Value: 144
+Key: 14, Value: 155
+Key: 15, Value: 166
+Key: 17, Value: 183
+Key: 16, Value: 177
+Key: 19, Value: 195
+Key: 18, Value: 189
+Key: 21, Value: 207
+Key: 20, Value: 201
+Key: 23, Value: 219
+Key: 22, Value: 213
+Key: 24, Value: 225
+
+================================================
+                Switch Table 11                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 12
+Key: 2, Value: 23
+Key: 3, Value: 34
+Key: 4, Value: 45
+Key: 5, Value: 51
+Key: 6, Value: 57
+Key: 7, Value: 63
+
+================================================
+                Switch Table 12                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 12
+Key: 2, Value: 23
+Key: 3, Value: 34
+Key: 4, Value: 45
+Key: 5, Value: 56
+Key: 6, Value: 67
+Key: 7, Value: 78
+Key: 8, Value: 89
+Key: 9, Value: 100
+Key: 10, Value: 111
+Key: 11, Value: 122
+Key: 12, Value: 133
+Key: 13, Value: 144
+Key: 14, Value: 155
+Key: 15, Value: 166
+Key: 17, Value: 188
+Key: 16, Value: 177
+Key: 19, Value: 210
+Key: 18, Value: 199
+
+================================================
+                Switch Table 13                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 12
+Key: 2, Value: 25
+Key: 3, Value: 38
+
+================================================
+                Switch Table 14                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 12
+Key: 2, Value: 23
+Key: 3, Value: 34
+Key: 4, Value: 45
+
+================================================
+                Switch Table 15                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 10
+Key: 2, Value: 21
+Key: 3, Value: 32
+Key: 4, Value: 43
+Key: 5, Value: 54
+Key: 6, Value: 65
+Key: 7, Value: 76
+Key: 8, Value: 87
+Key: 9, Value: 98
+Key: 10, Value: 109
+Key: 11, Value: 120
+Key: 12, Value: 131
+Key: 13, Value: 142
+Key: 14, Value: 153
+Key: 15, Value: 164
+Key: 17, Value: 186
+Key: 16, Value: 175
+Key: 19, Value: 208
+Key: 18, Value: 197
+Key: 21, Value: 230
+Key: 20, Value: 219
+Key: 23, Value: 252
+Key: 22, Value: 241
+Key: 25, Value: 274
+Key: 24, Value: 263
+Key: 27, Value: 296
+Key: 26, Value: 285
+Key: 29, Value: 318
+Key: 28, Value: 307
+Key: 31, Value: 340
+Key: 30, Value: 329
+Key: 34, Value: 373
+Key: 35, Value: 384
+Key: 32, Value: 351
+Key: 33, Value: 362
+Key: 38, Value: 417
+Key: 39, Value: 428
+Key: 36, Value: 395
+Key: 37, Value: 406
+Key: 40, Value: 439
+Key: 41, Value: 450
+
+================================================
+                Switch Table 16                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 12

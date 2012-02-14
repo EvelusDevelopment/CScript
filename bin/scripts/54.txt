@@ -1,0 +1,48 @@
+================================================
+      Client Script 54 Dumped by SiniSoul    
+      Instruction Size: 37
+      Integer Arguments: 4 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, Unref Method: 3308, Operand: 0
+Offset: 1, Unref Method: 3311, Operand: 0
+Offset: 2, STOREINT , Operand: 1
+Offset: 3, LOADINT , Operand: 1
+Offset: 4, PUSHI , Operand: 9920
+Offset: 5, ISUB , Operand: 0
+Offset: 6, PUSHI , Operand: 8
+Offset: 7, IDIV , Operand: 0
+Offset: 8, PUSHI , Operand: 1
+Offset: 9, IADD , Operand: 0
+Offset: 10, STOREINT , Operand: 2
+Offset: 11, LOADINT , Operand: 1
+Offset: 12, PUSHI , Operand: 3520
+Offset: 13, ISUB , Operand: 0
+Offset: 14, PUSHI , Operand: 8
+Offset: 15, IDIV , Operand: 0
+Offset: 16, PUSHI , Operand: 1
+Offset: 17, IADD , Operand: 0
+Offset: 18, STOREINT , Operand: 3
+Offset: 19, LOADINT , Operand: 1
+Offset: 20, PUSHI , Operand: 6400
+Offset: 21, IFGT , Operand: 1
+Offset: 22, GOTO , Operand: 7
+Offset: 23, PUSHS , Operand: Level: 
+Offset: 24, LOADINT , Operand: 2
+Offset: 25, integerToString , Operand: 0
+Offset: 26, CONCAT , Operand: 2
+Offset: 27, LOADINT , Operand: 0
+Offset: 28, Unref Method: 2112, Operand: 0
+Offset: 29, GOTO , Operand: 6
+Offset: 30, PUSHS , Operand: Level: 
+Offset: 31, LOADINT , Operand: 3
+Offset: 32, integerToString , Operand: 0
+Offset: 33, CONCAT , Operand: 2
+Offset: 34, LOADINT , Operand: 0
+Offset: 35, Unref Method: 2112, Operand: 0
+Offset: 36, RETURN , Operand: 0

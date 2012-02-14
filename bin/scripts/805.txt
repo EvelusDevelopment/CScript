@@ -1,0 +1,43 @@
+================================================
+      Client Script 805 Dumped by SiniSoul    
+      Instruction Size: 32
+      Integer Arguments: 3 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADINT , Operand: 0
+Offset: 1, CALL , Operand: 807
+Offset: 2, STOREINT , Operand: 1
+Offset: 3, PUSHI , Operand: 5592405
+Offset: 4, STOREINT , Operand: 2
+Offset: 5, LOADINT , Operand: 1
+Offset: 6, PUSHI , Operand: 75
+Offset: 7, IFGT , Operand: 1
+Offset: 8, GOTO , Operand: 3
+Offset: 9, PUSHI , Operand: 65280
+Offset: 10, STOREINT , Operand: 2
+Offset: 11, GOTO , Operand: 16
+Offset: 12, LOADINT , Operand: 1
+Offset: 13, PUSHI , Operand: 50
+Offset: 14, IFGT , Operand: 1
+Offset: 15, GOTO , Operand: 3
+Offset: 16, PUSHI , Operand: 16776960
+Offset: 17, STOREINT , Operand: 2
+Offset: 18, GOTO , Operand: 9
+Offset: 19, LOADINT , Operand: 1
+Offset: 20, PUSHI , Operand: 25
+Offset: 21, IFGT , Operand: 1
+Offset: 22, GOTO , Operand: 3
+Offset: 23, PUSHI , Operand: 16750623
+Offset: 24, STOREINT , Operand: 2
+Offset: 25, GOTO , Operand: 2
+Offset: 26, PUSHI , Operand: 16711680
+Offset: 27, STOREINT , Operand: 2
+Offset: 28, LOADINT , Operand: 2
+Offset: 29, RETURN , Operand: 0
+Offset: 30, PUSHI , Operand: 0
+Offset: 31, RETURN , Operand: 0

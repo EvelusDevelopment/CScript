@@ -1,0 +1,28 @@
+================================================
+      Client Script 2758 Dumped by SiniSoul    
+      Instruction Size: 17
+      Integer Arguments: 1 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHI , Operand: 2759
+Offset: 1, PUSHI , Operand: -2147483645
+Offset: 2, PUSHI , Operand: 466
+Offset: 3, PUSHI , Operand: 1
+Offset: 4, PUSHS , Operand: IY
+Offset: 5, LOADINT , Operand: 0
+Offset: 6, setInterfaceDefinitionScriptParams7 , Operand: 0
+Offset: 7, PUSHI , Operand: 2759
+Offset: 8, PUSHI , Operand: -2147483645
+Offset: 9, PUSHI , Operand: 173
+Offset: 10, PUSHI , Operand: 1
+Offset: 11, PUSHS , Operand: IY
+Offset: 12, LOADINT , Operand: 0
+Offset: 13, setInterfaceDefinitionScriptParams28 , Operand: 0
+Offset: 14, LOADINT , Operand: 0
+Offset: 15, CALL , Operand: 2760
+Offset: 16, RETURN , Operand: 0

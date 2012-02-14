@@ -1,0 +1,259 @@
+================================================
+      Client Script 2970 Dumped by SiniSoul    
+      Instruction Size: 248
+      Integer Arguments: 0 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHI , Operand: 59310130
+Offset: 1, PUSHI , Operand: 16170813
+Offset: 2, PUSHI , Operand: 2563072
+Offset: 3, CALL , Operand: 2971
+Offset: 4, PUSHI , Operand: 59310108
+Offset: 5, PUSHI , Operand: 0
+Offset: 6, PUSHI , Operand: 2103057
+Offset: 7, CALL , Operand: 2971
+Offset: 8, PUSHI , Operand: 59310147
+Offset: 9, PUSHS , Operand: No hidden costs
+Offset: 10, PUSHI , Operand: 1
+Offset: 11, CALL , Operand: 2972
+Offset: 12, PUSHI , Operand: 59310148
+Offset: 13, PUSHS , Operand: Chat
+Offset: 14, PUSHI , Operand: 1
+Offset: 15, CALL , Operand: 2972
+Offset: 16, PUSHI , Operand: 59310149
+Offset: 17, PUSHS , Operand: Quests
+Offset: 18, PUSHS , Operand: 20
+Offset: 19, PUSHI , Operand: 36
+Offset: 20, CALL , Operand: 2973
+Offset: 21, PUSHI , Operand: 59310150
+Offset: 22, PUSHS , Operand: World size
+Offset: 23, PUSHS , Operand: Large
+Offset: 24, PUSHI , Operand: 66
+Offset: 25, CALL , Operand: 2973
+Offset: 26, PUSHI , Operand: 59310140
+Offset: 27, PUSHS , Operand: Fullscreen mode
+Offset: 28, PUSHI , Operand: 0
+Offset: 29, CALL , Operand: 2972
+Offset: 30, PUSHI , Operand: 59310141
+Offset: 31, PUSHS , Operand: Player-owned house
+Offset: 32, PUSHI , Operand: 0
+Offset: 33, CALL , Operand: 2972
+Offset: 34, PUSHI , Operand: 59310142
+Offset: 35, PUSHS , Operand: Creature companions
+Offset: 36, PUSHI , Operand: 0
+Offset: 37, CALL , Operand: 2972
+Offset: 38, PUSHI , Operand: 59310143
+Offset: 39, PUSHS , Operand: Password protected
+Offset: 40, PUSHI , Operand: 1
+Offset: 41, CALL , Operand: 2972
+Offset: 42, PUSHI , Operand: 59310145
+Offset: 43, PUSHS , Operand: Bank space
+Offset: 44, PUSHI , Operand: 516
+Offset: 45, PUSHI , Operand: 439
+Offset: 46, ISUB , Operand: 0
+Offset: 47, PUSHI , Operand: 1
+Offset: 48, IADD , Operand: 0
+Offset: 49, integerToString , Operand: 0
+Offset: 50, PUSHI , Operand: 36
+Offset: 51, CALL , Operand: 2973
+Offset: 52, PUSHI , Operand: 59310146
+Offset: 53, PUSHS , Operand: Activities
+Offset: 54, PUSHS , Operand: 4
+Offset: 55, PUSHI , Operand: 36
+Offset: 56, CALL , Operand: 2973
+Offset: 57, PUSHI , Operand: 59310144
+Offset: 58, PUSHS , Operand: Remove adverts
+Offset: 59, PUSHI , Operand: 0
+Offset: 60, CALL , Operand: 2972
+Offset: 61, PUSHI , Operand: 59310126
+Offset: 62, PUSHS , Operand: No hidden costs
+Offset: 63, PUSHI , Operand: 1
+Offset: 64, CALL , Operand: 2972
+Offset: 65, PUSHI , Operand: 59310127
+Offset: 66, PUSHS , Operand: Chat
+Offset: 67, PUSHI , Operand: 1
+Offset: 68, CALL , Operand: 2972
+Offset: 69, PUSHI , Operand: 59310128
+Offset: 70, PUSHS , Operand: Quests
+Offset: 71, PUSHS , Operand: 160+
+Offset: 72, PUSHI , Operand: 36
+Offset: 73, CALL , Operand: 2973
+Offset: 74, PUSHI , Operand: 59310129
+Offset: 75, PUSHS , Operand: World size
+Offset: 76, PUSHS , Operand: Epic
+Offset: 77, PUSHI , Operand: 66
+Offset: 78, CALL , Operand: 2973
+Offset: 79, PUSHI , Operand: 59310119
+Offset: 80, PUSHS , Operand: Fullscreen mode
+Offset: 81, PUSHI , Operand: 1
+Offset: 82, CALL , Operand: 2972
+Offset: 83, PUSHI , Operand: 59310120
+Offset: 84, PUSHS , Operand: Player-owned house
+Offset: 85, PUSHI , Operand: 1
+Offset: 86, CALL , Operand: 2972
+Offset: 87, PUSHI , Operand: 59310121
+Offset: 88, PUSHS , Operand: Creature companions
+Offset: 89, PUSHI , Operand: 1
+Offset: 90, CALL , Operand: 2972
+Offset: 91, PUSHI , Operand: 59310122
+Offset: 92, PUSHS , Operand: Password protected
+Offset: 93, PUSHI , Operand: 1
+Offset: 94, CALL , Operand: 2972
+Offset: 95, PUSHI , Operand: 59310124
+Offset: 96, PUSHS , Operand: Bank space
+Offset: 97, PUSHI , Operand: 516
+Offset: 98, integerToString , Operand: 0
+Offset: 99, PUSHI , Operand: 36
+Offset: 100, CALL , Operand: 2973
+Offset: 101, PUSHI , Operand: 59310125
+Offset: 102, PUSHS , Operand: Activities
+Offset: 103, PUSHS , Operand: 20
+Offset: 104, PUSHI , Operand: 36
+Offset: 105, CALL , Operand: 2973
+Offset: 106, PUSHI , Operand: 59310123
+Offset: 107, PUSHS , Operand: Remove adverts
+Offset: 108, PUSHI , Operand: 1
+Offset: 109, CALL , Operand: 2972
+Offset: 110, PUSHI , Operand: 59310131
+Offset: 111, PUSHS , Operand: Free Game
+Offset: 112, PUSHI , Operand: 12558164
+Offset: 113, CALL , Operand: 2974
+Offset: 114, PUSHI , Operand: 59310109
+Offset: 115, PUSHS , Operand: Members Game
+Offset: 116, PUSHI , Operand: 0
+Offset: 117, CALL , Operand: 2974
+Offset: 118, PUSHI , Operand: 59310138
+Offset: 119, PUSHS , Operand: Register
+Offset: 120, CALL , Operand: 2976
+Offset: 121, PUSHI , Operand: 59310139
+Offset: 122, PUSHS , Operand: Log in
+Offset: 123, CALL , Operand: 2977
+Offset: 124, PUSHI , Operand: 59310117
+Offset: 125, PUSHS , Operand: Register
+Offset: 126, CALL , Operand: 2976
+Offset: 127, PUSHI , Operand: 59310118
+Offset: 128, PUSHS , Operand: Log in
+Offset: 129, CALL , Operand: 2977
+Offset: 130, CALL , Operand: 2192
+Offset: 131, PUSHI , Operand: 1
+Offset: 132, IFEQ , Operand: 1
+Offset: 133, GOTO , Operand: 64
+Offset: 134, PUSHI , Operand: 59310087
+Offset: 135, PUSHI , Operand: 0
+Offset: 136, PUSHI , Operand: 2103057
+Offset: 137, CALL , Operand: 2971
+Offset: 138, PUSHI , Operand: 59310104
+Offset: 139, PUSHS , Operand: No hidden costs
+Offset: 140, PUSHI , Operand: 1
+Offset: 141, CALL , Operand: 2972
+Offset: 142, PUSHI , Operand: 59310105
+Offset: 143, PUSHS , Operand: Chat
+Offset: 144, PUSHI , Operand: 0
+Offset: 145, CALL , Operand: 2972
+Offset: 146, PUSHI , Operand: 59310106
+Offset: 147, PUSHS , Operand: Quests
+Offset: 148, PUSHS , Operand: 10
+Offset: 149, PUSHI , Operand: 36
+Offset: 150, CALL , Operand: 2973
+Offset: 151, PUSHI , Operand: 59310107
+Offset: 152, PUSHS , Operand: World size
+Offset: 153, PUSHS , Operand: Regular
+Offset: 154, PUSHI , Operand: 66
+Offset: 155, CALL , Operand: 2973
+Offset: 156, PUSHI , Operand: 59310097
+Offset: 157, PUSHS , Operand: Fullscreen mode
+Offset: 158, PUSHI , Operand: 0
+Offset: 159, CALL , Operand: 2972
+Offset: 160, PUSHI , Operand: 59310098
+Offset: 161, PUSHS , Operand: Player-owned house
+Offset: 162, PUSHI , Operand: 0
+Offset: 163, CALL , Operand: 2972
+Offset: 164, PUSHI , Operand: 59310099
+Offset: 165, PUSHS , Operand: Creature companions
+Offset: 166, PUSHI , Operand: 0
+Offset: 167, CALL , Operand: 2972
+Offset: 168, PUSHI , Operand: 59310100
+Offset: 169, PUSHS , Operand: Password protected
+Offset: 170, PUSHI , Operand: 0
+Offset: 171, CALL , Operand: 2972
+Offset: 172, PUSHI , Operand: 59310102
+Offset: 173, PUSHS , Operand: Bank space
+Offset: 174, PUSHI , Operand: 34
+Offset: 175, integerToString , Operand: 0
+Offset: 176, PUSHI , Operand: 36
+Offset: 177, CALL , Operand: 2973
+Offset: 178, PUSHI , Operand: 59310103
+Offset: 179, PUSHS , Operand: Activities
+Offset: 180, PUSHS , Operand: 0
+Offset: 181, PUSHI , Operand: 36
+Offset: 182, CALL , Operand: 2973
+Offset: 183, PUSHI , Operand: 59310101
+Offset: 184, PUSHS , Operand: Remove adverts
+Offset: 185, PUSHI , Operand: 0
+Offset: 186, CALL , Operand: 2972
+Offset: 187, PUSHI , Operand: 59310088
+Offset: 188, PUSHS , Operand: Instant Demo
+Offset: 189, PUSHI , Operand: 0
+Offset: 190, CALL , Operand: 2974
+Offset: 191, PUSHI , Operand: 59310095
+Offset: 192, PUSHS , Operand: Play Now
+Offset: 193, CALL , Operand: 2977
+Offset: 194, PUSHI , Operand: 59310096
+Offset: 195, PUSHS , Operand: 
+Offset: 196, CALL , Operand: 2978
+Offset: 197, GOTO , Operand: 43
+Offset: 198, PUSHI , Operand: 1
+Offset: 199, PUSHI , Operand: 59310085
+Offset: 200, Unref Method: 2003, Operand: 0
+Offset: 201, PUSHI , Operand: 0
+Offset: 202, PUSHI , Operand: 0
+Offset: 203, PUSHI , Operand: 0
+Offset: 204, PUSHI , Operand: 0
+Offset: 205, PUSHI , Operand: 59310083
+Offset: 206, Unref Method: 2000, Operand: 0
+Offset: 207, PUSHI , Operand: 0
+Offset: 208, PUSHI , Operand: 0
+Offset: 209, PUSHI , Operand: 2
+Offset: 210, PUSHI , Operand: 0
+Offset: 211, PUSHI , Operand: 59310084
+Offset: 212, Unref Method: 2000, Operand: 0
+Offset: 213, PUSHI , Operand: 59310083
+Offset: 214, Unref Method: 2502, Operand: 0
+Offset: 215, PUSHI , Operand: 59310084
+Offset: 216, Unref Method: 2502, Operand: 0
+Offset: 217, IADD , Operand: 0
+Offset: 218, PUSHI , Operand: 4
+Offset: 219, IADD , Operand: 0
+Offset: 220, PUSHI , Operand: 364
+Offset: 221, PUSHI , Operand: 0
+Offset: 222, PUSHI , Operand: 0
+Offset: 223, PUSHI , Operand: 59310082
+Offset: 224, Unref Method: 2001, Operand: 0
+Offset: 225, PUSHI , Operand: 0
+Offset: 226, PUSHI , Operand: 31
+Offset: 227, PUSHI , Operand: 1
+Offset: 228, PUSHI , Operand: 0
+Offset: 229, PUSHI , Operand: 59310086
+Offset: 230, Unref Method: 2001, Operand: 0
+Offset: 231, PUSHI , Operand: 59310082
+Offset: 232, Unref Method: 2502, Operand: 0
+Offset: 233, PUSHI , Operand: 30
+Offset: 234, IADD , Operand: 0
+Offset: 235, PUSHI , Operand: 59310081
+Offset: 236, Unref Method: 2503, Operand: 0
+Offset: 237, PUSHI , Operand: 0
+Offset: 238, PUSHI , Operand: 0
+Offset: 239, PUSHI , Operand: 59310081
+Offset: 240, Unref Method: 2001, Operand: 0
+Offset: 241, PUSHI , Operand: 59310086
+Offset: 242, PUSHS , Operand: More information
+Offset: 243, CALL , Operand: 2975
+Offset: 244, PUSHI , Operand: 1
+Offset: 245, CALL , Operand: 2985
+Offset: 246, RETURN , Operand: 0
+Offset: 247, RETURN , Operand: 0

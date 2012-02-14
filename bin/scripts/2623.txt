@@ -1,0 +1,76 @@
+================================================
+      Client Script 2623 Dumped by SiniSoul    
+      Instruction Size: 56
+      Integer Arguments: 1 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHI , Operand: 1
+Offset: 1, STOREINT , Operand: 0
+Offset: 2, PUSHI , Operand: 105
+Offset: 3, PUSHI , Operand: 73
+Offset: 4, PUSHI , Operand: 2451
+Offset: 5, LOADINT , Operand: 0
+Offset: 6, Unref Method: 3408, Operand: 0
+Offset: 7, PUSHI , Operand: 55705624
+Offset: 8, IFNE , Operand: 1
+Offset: 9, GOTO , Operand: 12
+Offset: 10, PUSHS , Operand: 
+Offset: 11, PUSHI , Operand: 105
+Offset: 12, PUSHI , Operand: 73
+Offset: 13, PUSHI , Operand: 2451
+Offset: 14, LOADINT , Operand: 0
+Offset: 15, Unref Method: 3408, Operand: 0
+Offset: 16, Unref Method: 2112, Operand: 0
+Offset: 17, LOADINT , Operand: 0
+Offset: 18, PUSHI , Operand: 1
+Offset: 19, IADD , Operand: 0
+Offset: 20, STOREINT , Operand: 0
+Offset: 21, GOTO , Operand: -20
+Offset: 22, PUSHS , Operand: Welcome to Mobilising Armies.
+Offset: 23, PUSHI , Operand: 55705625
+Offset: 24, Unref Method: 2112, Operand: 0
+Offset: 25, Unref Opcode: 25, Operand: 6352
+Offset: 26, SWITCH , Operand: 0
+Offset: 27, GOTO , Operand: 15
+Offset: 28, PUSHI , Operand: 1906
+Offset: 29, PUSHI , Operand: 55705650
+Offset: 30, Unref Method: 2105, Operand: 0
+Offset: 31, GOTO , Operand: 11
+Offset: 32, PUSHI , Operand: 1904
+Offset: 33, PUSHI , Operand: 55705650
+Offset: 34, Unref Method: 2105, Operand: 0
+Offset: 35, GOTO , Operand: 7
+Offset: 36, PUSHI , Operand: 1905
+Offset: 37, PUSHI , Operand: 55705650
+Offset: 38, Unref Method: 2105, Operand: 0
+Offset: 39, GOTO , Operand: 3
+Offset: 40, PUSHI , Operand: 1907
+Offset: 41, PUSHI , Operand: 55705650
+Offset: 42, Unref Method: 2105, Operand: 0
+Offset: 43, PUSHI , Operand: 55705645
+Offset: 44, PUSHI , Operand: 55705646
+Offset: 45, PUSHI , Operand: 55705646
+Offset: 46, Unref Method: 2604, Operand: 0
+Offset: 47, PUSHI , Operand: 1
+Offset: 48, CALL , Operand: 157
+Offset: 49, PUSHI , Operand: 2625
+Offset: 50, PUSHI , Operand: -2147483640
+Offset: 51, PUSHI , Operand: -2147483639
+Offset: 52, PUSHS , Operand: iz
+Offset: 53, PUSHI , Operand: 55705648
+Offset: 54, setInterfaceDefinitionScriptParams19 , Operand: 0
+Offset: 55, RETURN , Operand: 0
+
+================================================
+                Switch Table 0                
+================================================
+
+Key: 1, Value: 1
+Key: 2, Value: 5
+Key: 3, Value: 9
+Key: 4, Value: 13

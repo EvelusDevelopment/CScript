@@ -1,0 +1,30 @@
+================================================
+      Client Script 1945 Dumped by SiniSoul    
+      Instruction Size: 19
+      Integer Arguments: 1 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, Unref Opcode: 1, Operand: 1332
+Offset: 1, Unref Opcode: 1, Operand: 1334
+Offset: 2, IADD , Operand: 0
+Offset: 3, Unref Opcode: 1, Operand: 1337
+Offset: 4, IADD , Operand: 0
+Offset: 5, PUSHI , Operand: 2
+Offset: 6, Unref Opcode: 1, Operand: 1333
+Offset: 7, Unref Opcode: 1, Operand: 1335
+Offset: 8, ISUB , Operand: 0
+Offset: 9, IMUL , Operand: 0
+Offset: 10, IADD , Operand: 0
+Offset: 11, STOREINT , Operand: 0
+Offset: 12, PUSHS , Operand: Score: 
+Offset: 13, LOADINT , Operand: 0
+Offset: 14, integerToString , Operand: 0
+Offset: 15, CONCAT , Operand: 2
+Offset: 16, PUSHI , Operand: 52559880
+Offset: 17, Unref Method: 2112, Operand: 0
+Offset: 18, RETURN , Operand: 0

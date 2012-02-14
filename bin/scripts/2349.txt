@@ -1,0 +1,43 @@
+================================================
+      Client Script 2349 Dumped by SiniSoul    
+      Instruction Size: 32
+      Integer Arguments: 3 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADINT , Operand: 1
+Offset: 1, PUSHI , Operand: -1
+Offset: 2, CALL , Operand: 19
+Offset: 3, LOADINT , Operand: 2
+Offset: 4, IFGTEQ , Operand: 1
+Offset: 5, GOTO , Operand: 12
+Offset: 6, PUSHI , Operand: 52224
+Offset: 7, LOADINT , Operand: 0
+Offset: 8, Unref Method: 2101, Operand: 0
+Offset: 9, LOADINT , Operand: 2
+Offset: 10, integerToString , Operand: 0
+Offset: 11, PUSHS , Operand: /
+Offset: 12, LOADINT , Operand: 2
+Offset: 13, integerToString , Operand: 0
+Offset: 14, CONCAT , Operand: 3
+Offset: 15, LOADINT , Operand: 0
+Offset: 16, Unref Method: 2112, Operand: 0
+Offset: 17, GOTO , Operand: 13
+Offset: 18, PUSHI , Operand: 12582912
+Offset: 19, LOADINT , Operand: 0
+Offset: 20, Unref Method: 2101, Operand: 0
+Offset: 21, LOADINT , Operand: 1
+Offset: 22, PUSHI , Operand: -1
+Offset: 23, CALL , Operand: 19
+Offset: 24, CALL , Operand: 20
+Offset: 25, PUSHS , Operand: /
+Offset: 26, LOADINT , Operand: 2
+Offset: 27, integerToString , Operand: 0
+Offset: 28, CONCAT , Operand: 3
+Offset: 29, LOADINT , Operand: 0
+Offset: 30, Unref Method: 2112, Operand: 0
+Offset: 31, RETURN , Operand: 0

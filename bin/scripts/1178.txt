@@ -1,0 +1,34 @@
+================================================
+      Client Script 1178 Dumped by SiniSoul    
+      Instruction Size: 23
+      Integer Arguments: 0 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHI , Operand: 0
+Offset: 1, LOADGINT , Operand: 548
+Offset: 2, PUSHI , Operand: 1
+Offset: 3, ISUB , Operand: 0
+Offset: 4, Unref Method: 4017, Operand: 0
+Offset: 5, STOREGINT , Operand: 548
+Offset: 6, LOADGINT , Operand: 548
+Offset: 7, PUSHI , Operand: 2
+Offset: 8, IMUL , Operand: 0
+Offset: 9, PUSHI , Operand: 100
+Offset: 10, IDIV , Operand: 0
+Offset: 11, integerToString , Operand: 0
+Offset: 12, PUSHI , Operand: 48824325
+Offset: 13, Unref Method: 2112, Operand: 0
+Offset: 14, LOADGINT , Operand: 548
+Offset: 15, PUSHI , Operand: 0
+Offset: 16, IFLTEQ , Operand: 1
+Offset: 17, GOTO , Operand: 4
+Offset: 18, PUSHI , Operand: -1
+Offset: 19, PUSHS , Operand: 
+Offset: 20, PUSHI , Operand: 48824325
+Offset: 21, setInterfaceDefinitionScriptParams8 , Operand: 0
+Offset: 22, RETURN , Operand: 0

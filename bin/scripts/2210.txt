@@ -1,0 +1,31 @@
+================================================
+      Client Script 2210 Dumped by SiniSoul    
+      Instruction Size: 20
+      Integer Arguments: 0 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADGINT , Operand: 1136
+Offset: 1, Unref Method: 2500, Operand: 0
+Offset: 2, PUSHI , Operand: 200
+Offset: 3, IFLT , Operand: 1
+Offset: 4, GOTO , Operand: 14
+Offset: 5, PUSHI , Operand: 2210
+Offset: 6, PUSHS , Operand: 
+Offset: 7, PUSHI , Operand: 61079553
+Offset: 8, setInterfaceDefinitionScriptParams8 , Operand: 0
+Offset: 9, PUSHI , Operand: 1
+Offset: 10, LOADGINT , Operand: 1136
+Offset: 11, Unref Method: 2500, Operand: 0
+Offset: 12, IADD , Operand: 0
+Offset: 13, LOADGINT , Operand: 1136
+Offset: 14, Unref Method: 2501, Operand: 0
+Offset: 15, PUSHI , Operand: 0
+Offset: 16, PUSHI , Operand: 0
+Offset: 17, LOADGINT , Operand: 1136
+Offset: 18, Unref Method: 2000, Operand: 0
+Offset: 19, RETURN , Operand: 0

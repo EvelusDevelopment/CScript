@@ -1,0 +1,54 @@
+================================================
+      Client Script 3139 Dumped by SiniSoul    
+      Instruction Size: 43
+      Integer Arguments: 1 
+      String  Arguments: 1 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADGINT , Operand: 998
+Offset: 1, LOADINT , Operand: 0
+Offset: 2, IFEQ , Operand: 1
+Offset: 3, GOTO , Operand: 5
+Offset: 4, CALL , Operand: 1854
+Offset: 5, CALL , Operand: 1857
+Offset: 6, PUSHI , Operand: 0
+Offset: 7, CALL , Operand: 1858
+Offset: 8, GOTO , Operand: 6
+Offset: 9, LOADGINT , Operand: 999
+Offset: 10, LOADINT , Operand: 0
+Offset: 11, IFEQ , Operand: 1
+Offset: 12, GOTO , Operand: 2
+Offset: 13, PUSHI , Operand: 0
+Offset: 14, CALL , Operand: 1858
+Offset: 15, CALL , Operand: 1853
+Offset: 16, STOREGINT , Operand: 998
+Offset: 17, CALL , Operand: 1854
+Offset: 18, STOREGINT , Operand: 999
+Offset: 19, CALL , Operand: 3113
+Offset: 20, PUSHS , Operand: Your changes cannot be saved because
+Offset: 21, PUSHS , Operand: <br>
+Offset: 22, PUSHS , Operand: you are using the unsigned client.
+Offset: 23, CONCAT , Operand: 3
+Offset: 24, STORESTR , Operand: 0
+Offset: 25, Unref Method: 5420, Operand: 0
+Offset: 26, PUSHI , Operand: 1
+Offset: 27, IFEQ , Operand: 1
+Offset: 28, GOTO , Operand: 4
+Offset: 29, PUSHI , Operand: 1
+Offset: 30, LOADSTR , Operand: 0
+Offset: 31, CALL , Operand: 3143
+Offset: 32, GOTO , Operand: 7
+Offset: 33, PUSHI , Operand: 0
+Offset: 34, PUSHS , Operand: World 
+Offset: 35, LOADINT , Operand: 0
+Offset: 36, integerToString , Operand: 0
+Offset: 37, PUSHS , Operand:  has been removed from your favourites.
+Offset: 38, CONCAT , Operand: 3
+Offset: 39, CALL , Operand: 3143
+Offset: 40, PUSHI , Operand: 1
+Offset: 41, CALL , Operand: 3065
+Offset: 42, RETURN , Operand: 0

@@ -1,0 +1,42 @@
+================================================
+      Client Script 647 Dumped by SiniSoul    
+      Instruction Size: 31
+      Integer Arguments: 5 
+      String  Arguments: 1 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHI , Operand: 0
+Offset: 1, STOREINT , Operand: 4
+Offset: 2, LOADGINT , Operand: 2
+Offset: 3, PUSHI , Operand: 1
+Offset: 4, IFEQ , Operand: 1
+Offset: 5, GOTO , Operand: 12
+Offset: 6, LOADINT , Operand: 4
+Offset: 7, PUSHI , Operand: 6
+Offset: 8, IFLT , Operand: 1
+Offset: 9, GOTO , Operand: 8
+Offset: 10, LOADINT , Operand: 4
+Offset: 11, CALL , Operand: 626
+Offset: 12, CALL , Operand: 41
+Offset: 13, LOADINT , Operand: 4
+Offset: 14, PUSHI , Operand: 1
+Offset: 15, IADD , Operand: 0
+Offset: 16, STOREINT , Operand: 4
+Offset: 17, GOTO , Operand: -12
+Offset: 18, PUSHI , Operand: 6881296
+Offset: 19, Unref Method: 2504, Operand: 0
+Offset: 20, PUSHI , Operand: 1
+Offset: 21, IFEQ , Operand: 1
+Offset: 22, GOTO , Operand: 1
+Offset: 23, RETURN , Operand: 0
+Offset: 24, LOADINT , Operand: 0
+Offset: 25, LOADINT , Operand: 1
+Offset: 26, LOADSTR , Operand: 0
+Offset: 27, LOADINT , Operand: 2
+Offset: 28, LOADINT , Operand: 3
+Offset: 29, CALL , Operand: 39
+Offset: 30, RETURN , Operand: 0

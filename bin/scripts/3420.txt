@@ -1,0 +1,40 @@
+================================================
+      Client Script 3420 Dumped by SiniSoul    
+      Instruction Size: 29
+      Integer Arguments: 0 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADGINT , Operand: 1279
+Offset: 1, PUSHI , Operand: 1
+Offset: 2, IFNE , Operand: 1
+Offset: 3, GOTO , Operand: 4
+Offset: 4, PUSHI , Operand: 9445
+Offset: 5, PUSHI , Operand: 1
+Offset: 6, PUSHI , Operand: 0
+Offset: 7, Unref Method: 3200, Operand: 0
+Offset: 8, PUSHI , Operand: 1
+Offset: 9, STOREGINT , Operand: 1279
+Offset: 10, PUSHI , Operand: 1
+Offset: 11, PUSHI , Operand: 3932205
+Offset: 12, Unref Method: 2003, Operand: 0
+Offset: 13, PUSHI , Operand: 0
+Offset: 14, PUSHI , Operand: 3932206
+Offset: 15, Unref Method: 2003, Operand: 0
+Offset: 16, PUSHI , Operand: 1
+Offset: 17, PUSHI , Operand: 3932247
+Offset: 18, Unref Method: 2003, Operand: 0
+Offset: 19, PUSHI , Operand: 1
+Offset: 20, PUSHI , Operand: 3932180
+Offset: 21, Unref Method: 2003, Operand: 0
+Offset: 22, PUSHI , Operand: 0
+Offset: 23, PUSHI , Operand: 3932177
+Offset: 24, Unref Method: 2003, Operand: 0
+Offset: 25, PUSHI , Operand: 1
+Offset: 26, PUSHI , Operand: 3932174
+Offset: 27, Unref Method: 2003, Operand: 0
+Offset: 28, RETURN , Operand: 0

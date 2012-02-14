@@ -1,0 +1,54 @@
+================================================
+      Client Script 2584 Dumped by SiniSoul    
+      Instruction Size: 43
+      Integer Arguments: 0 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHI , Operand: 16750901
+Offset: 1, PUSHI , Operand: 19136629
+Offset: 2, Unref Method: 2101, Operand: 0
+Offset: 3, PUSHI , Operand: 1
+Offset: 4, PUSHS , Operand: Select dwarf
+Offset: 5, PUSHI , Operand: 19136614
+Offset: 6, Unref Method: 2300, Operand: 0
+Offset: 7, PUSHI , Operand: 1
+Offset: 8, PUSHS , Operand: Select goblin
+Offset: 9, PUSHI , Operand: 19136616
+Offset: 10, Unref Method: 2300, Operand: 0
+Offset: 11, PUSHI , Operand: 1
+Offset: 12, PUSHS , Operand: Select elf
+Offset: 13, PUSHI , Operand: 19136615
+Offset: 14, Unref Method: 2300, Operand: 0
+Offset: 15, PUSHI , Operand: 2586
+Offset: 16, PUSHI , Operand: -2147483645
+Offset: 17, PUSHS , Operand: I
+Offset: 18, PUSHI , Operand: 19136614
+Offset: 19, setInterfaceDefinitionScriptParams9 , Operand: 0
+Offset: 20, PUSHI , Operand: 2586
+Offset: 21, PUSHI , Operand: -2147483645
+Offset: 22, PUSHS , Operand: I
+Offset: 23, PUSHI , Operand: 19136616
+Offset: 24, setInterfaceDefinitionScriptParams9 , Operand: 0
+Offset: 25, PUSHI , Operand: 2586
+Offset: 26, PUSHI , Operand: -2147483645
+Offset: 27, PUSHS , Operand: I
+Offset: 28, PUSHI , Operand: 19136615
+Offset: 29, setInterfaceDefinitionScriptParams9 , Operand: 0
+Offset: 30, PUSHI , Operand: -1
+Offset: 31, PUSHS , Operand: 
+Offset: 32, PUSHI , Operand: 19136614
+Offset: 33, setInterfaceDefinitionScriptParams0 , Operand: 0
+Offset: 34, PUSHI , Operand: -1
+Offset: 35, PUSHS , Operand: 
+Offset: 36, PUSHI , Operand: 19136616
+Offset: 37, setInterfaceDefinitionScriptParams0 , Operand: 0
+Offset: 38, PUSHI , Operand: -1
+Offset: 39, PUSHS , Operand: 
+Offset: 40, PUSHI , Operand: 19136615
+Offset: 41, setInterfaceDefinitionScriptParams0 , Operand: 0
+Offset: 42, RETURN , Operand: 0

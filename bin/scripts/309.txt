@@ -1,0 +1,119 @@
+================================================
+      Client Script 309 Dumped by SiniSoul    
+      Instruction Size: 108
+      Integer Arguments: 4 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHI , Operand: 0
+Offset: 1, STOREINT , Operand: 3
+Offset: 2, LOADGINT , Operand: 623
+Offset: 3, PUSHI , Operand: -1
+Offset: 4, IFNE , Operand: 1
+Offset: 5, GOTO , Operand: 11
+Offset: 6, LOADGINT , Operand: 623
+Offset: 7, Unref Method: 5206, Operand: 0
+Offset: 8, LOADINT , Operand: 0
+Offset: 9, IFEQ , Operand: 1
+Offset: 10, GOTO , Operand: 6
+Offset: 11, LOADGINT , Operand: 624
+Offset: 12, LOADINT , Operand: 1
+Offset: 13, LOADINT , Operand: 2
+Offset: 14, LOADINT , Operand: 3
+Offset: 15, CALL , Operand: 292
+Offset: 16, STOREINT , Operand: 3
+Offset: 17, LOADGINT , Operand: 625
+Offset: 18, PUSHI , Operand: -1
+Offset: 19, IFNE , Operand: 1
+Offset: 20, GOTO , Operand: 11
+Offset: 21, LOADGINT , Operand: 625
+Offset: 22, Unref Method: 5206, Operand: 0
+Offset: 23, LOADINT , Operand: 0
+Offset: 24, IFEQ , Operand: 1
+Offset: 25, GOTO , Operand: 6
+Offset: 26, LOADGINT , Operand: 626
+Offset: 27, LOADINT , Operand: 1
+Offset: 28, LOADINT , Operand: 2
+Offset: 29, LOADINT , Operand: 3
+Offset: 30, CALL , Operand: 292
+Offset: 31, STOREINT , Operand: 3
+Offset: 32, LOADGINT , Operand: 627
+Offset: 33, PUSHI , Operand: -1
+Offset: 34, IFNE , Operand: 1
+Offset: 35, GOTO , Operand: 11
+Offset: 36, LOADGINT , Operand: 627
+Offset: 37, Unref Method: 5206, Operand: 0
+Offset: 38, LOADINT , Operand: 0
+Offset: 39, IFEQ , Operand: 1
+Offset: 40, GOTO , Operand: 6
+Offset: 41, LOADGINT , Operand: 628
+Offset: 42, LOADINT , Operand: 1
+Offset: 43, LOADINT , Operand: 2
+Offset: 44, LOADINT , Operand: 3
+Offset: 45, CALL , Operand: 292
+Offset: 46, STOREINT , Operand: 3
+Offset: 47, LOADGINT , Operand: 629
+Offset: 48, PUSHI , Operand: -1
+Offset: 49, IFNE , Operand: 1
+Offset: 50, GOTO , Operand: 11
+Offset: 51, LOADGINT , Operand: 629
+Offset: 52, Unref Method: 5206, Operand: 0
+Offset: 53, LOADINT , Operand: 0
+Offset: 54, IFEQ , Operand: 1
+Offset: 55, GOTO , Operand: 6
+Offset: 56, LOADGINT , Operand: 630
+Offset: 57, LOADINT , Operand: 1
+Offset: 58, LOADINT , Operand: 2
+Offset: 59, LOADINT , Operand: 3
+Offset: 60, CALL , Operand: 292
+Offset: 61, STOREINT , Operand: 3
+Offset: 62, Unref Opcode: 1, Operand: 1159
+Offset: 63, PUSHI , Operand: -1
+Offset: 64, IFNE , Operand: 1
+Offset: 65, GOTO , Operand: 11
+Offset: 66, Unref Opcode: 1, Operand: 1159
+Offset: 67, Unref Method: 5206, Operand: 0
+Offset: 68, LOADINT , Operand: 0
+Offset: 69, IFEQ , Operand: 1
+Offset: 70, GOTO , Operand: 6
+Offset: 71, PUSHI , Operand: 972
+Offset: 72, LOADINT , Operand: 1
+Offset: 73, LOADINT , Operand: 2
+Offset: 74, LOADINT , Operand: 3
+Offset: 75, CALL , Operand: 292
+Offset: 76, STOREINT , Operand: 3
+Offset: 77, LOADGINT , Operand: 940
+Offset: 78, PUSHI , Operand: -1
+Offset: 79, IFNE , Operand: 1
+Offset: 80, GOTO , Operand: 11
+Offset: 81, LOADGINT , Operand: 940
+Offset: 82, Unref Method: 5206, Operand: 0
+Offset: 83, LOADINT , Operand: 0
+Offset: 84, IFEQ , Operand: 1
+Offset: 85, GOTO , Operand: 6
+Offset: 86, LOADGINT , Operand: 941
+Offset: 87, LOADINT , Operand: 1
+Offset: 88, LOADINT , Operand: 2
+Offset: 89, LOADINT , Operand: 3
+Offset: 90, CALL , Operand: 292
+Offset: 91, STOREINT , Operand: 3
+Offset: 92, LOADGINT , Operand: 674
+Offset: 93, PUSHI , Operand: -1
+Offset: 94, IFNE , Operand: 1
+Offset: 95, GOTO , Operand: 11
+Offset: 96, LOADGINT , Operand: 674
+Offset: 97, Unref Method: 5206, Operand: 0
+Offset: 98, LOADINT , Operand: 0
+Offset: 99, IFEQ , Operand: 1
+Offset: 100, GOTO , Operand: 6
+Offset: 101, PUSHI , Operand: 280
+Offset: 102, LOADINT , Operand: 1
+Offset: 103, LOADINT , Operand: 2
+Offset: 104, LOADINT , Operand: 3
+Offset: 105, CALL , Operand: 292
+Offset: 106, STOREINT , Operand: 3
+Offset: 107, RETURN , Operand: 0

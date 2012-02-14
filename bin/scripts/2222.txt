@@ -1,0 +1,43 @@
+================================================
+      Client Script 2222 Dumped by SiniSoul    
+      Instruction Size: 25
+      Integer Arguments: 1 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADINT , Operand: 0
+Offset: 1, SWITCH , Operand: 0
+Offset: 2, GOTO , Operand: 21
+Offset: 3, LOADGINT , Operand: 1088
+Offset: 4, PUSHI , Operand: 1
+Offset: 5, IFEQ , Operand: 1
+Offset: 6, GOTO , Operand: 3
+Offset: 7, PUSHI , Operand: 4
+Offset: 8, CALL , Operand: 1174
+Offset: 9, GOTO , Operand: 2
+Offset: 10, PUSHI , Operand: 3
+Offset: 11, CALL , Operand: 1174
+Offset: 12, GOTO , Operand: 11
+Offset: 13, LOADGINT , Operand: 1088
+Offset: 14, PUSHI , Operand: 1
+Offset: 15, IFEQ , Operand: 1
+Offset: 16, GOTO , Operand: 3
+Offset: 17, PUSHI , Operand: 4
+Offset: 18, CALL , Operand: 1174
+Offset: 19, GOTO , Operand: 4
+Offset: 20, PUSHS , Operand: dob
+Offset: 21, PUSHS , Operand: set_members_dob.ws
+Offset: 22, PUSHI , Operand: 0
+Offset: 23, CALL , Operand: 2932
+Offset: 24, RETURN , Operand: 0
+
+================================================
+                Switch Table 0                
+================================================
+
+Key: 13, Value: 1
+Key: 84, Value: 11

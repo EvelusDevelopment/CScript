@@ -1,0 +1,87 @@
+================================================
+      Client Script 3116 Dumped by SiniSoul    
+      Instruction Size: 76
+      Integer Arguments: 5 
+      String  Arguments: 4 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, Unref Method: 3318, Operand: 0
+Offset: 1, PUSHI , Operand: -1
+Offset: 2, IFEQ , Operand: 1
+Offset: 3, GOTO , Operand: 7
+Offset: 4, PUSHI , Operand: 1
+Offset: 5, PUSHI , Operand: 59637771
+Offset: 6, Unref Method: 2003, Operand: 0
+Offset: 7, PUSHS , Operand: World: Auto
+Offset: 8, PUSHI , Operand: 59637770
+Offset: 9, Unref Method: 2112, Operand: 0
+Offset: 10, RETURN , Operand: 0
+Offset: 11, PUSHI , Operand: 0
+Offset: 12, STOREINT , Operand: 0
+Offset: 13, PUSHS , Operand: 
+Offset: 14, STORESTR , Operand: 0
+Offset: 15, PUSHI , Operand: 0
+Offset: 16, STOREINT , Operand: 1
+Offset: 17, PUSHS , Operand: 
+Offset: 18, STORESTR , Operand: 1
+Offset: 19, PUSHI , Operand: 0
+Offset: 20, STOREINT , Operand: 2
+Offset: 21, PUSHI , Operand: 0
+Offset: 22, STOREINT , Operand: 3
+Offset: 23, PUSHS , Operand: 
+Offset: 24, STORESTR , Operand: 2
+Offset: 25, Unref Method: 3318, Operand: 0
+Offset: 26, Unref Method: 6506, Operand: 0
+Offset: 27, STORESTR , Operand: 2
+Offset: 28, STOREINT , Operand: 3
+Offset: 29, STOREINT , Operand: 2
+Offset: 30, STORESTR , Operand: 1
+Offset: 31, STOREINT , Operand: 1
+Offset: 32, STORESTR , Operand: 0
+Offset: 33, STOREINT , Operand: 0
+Offset: 34, PUSHI , Operand: 0
+Offset: 35, STOREINT , Operand: 4
+Offset: 36, LOADINT , Operand: 0
+Offset: 37, PUSHI , Operand: 0
+Offset: 38, isBitToggled , Operand: 0
+Offset: 39, PUSHI , Operand: 1
+Offset: 40, IFEQ , Operand: 1
+Offset: 41, GOTO , Operand: 3
+Offset: 42, PUSHI , Operand: 1
+Offset: 43, STOREINT , Operand: 4
+Offset: 44, GOTO , Operand: 2
+Offset: 45, PUSHI , Operand: 0
+Offset: 46, STOREINT , Operand: 4
+Offset: 47, PUSHS , Operand: World 
+Offset: 48, Unref Method: 3318, Operand: 0
+Offset: 49, integerToString , Operand: 0
+Offset: 50, CONCAT , Operand: 2
+Offset: 51, STORESTR , Operand: 3
+Offset: 52, LOADSTR , Operand: 3
+Offset: 53, PUSHI , Operand: 59637770
+Offset: 54, Unref Method: 2112, Operand: 0
+Offset: 55, LOADSTR , Operand: 3
+Offset: 56, PUSHI , Operand: 495
+Offset: 57, Unref Method: 4125, Operand: 0
+Offset: 58, PUSHI , Operand: 0
+Offset: 59, PUSHI , Operand: 2
+Offset: 60, PUSHI , Operand: 2
+Offset: 61, PUSHI , Operand: 59637771
+Offset: 62, Unref Method: 2000, Operand: 0
+Offset: 63, LOADINT , Operand: 4
+Offset: 64, PUSHI , Operand: 1
+Offset: 65, IFEQ , Operand: 1
+Offset: 66, GOTO , Operand: 4
+Offset: 67, PUSHI , Operand: 1531
+Offset: 68, PUSHI , Operand: 59637771
+Offset: 69, Unref Method: 2105, Operand: 0
+Offset: 70, GOTO , Operand: 3
+Offset: 71, PUSHI , Operand: 1532
+Offset: 72, PUSHI , Operand: 59637771
+Offset: 73, Unref Method: 2105, Operand: 0
+Offset: 74, RETURN , Operand: 0
+Offset: 75, RETURN , Operand: 0

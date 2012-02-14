@@ -1,0 +1,37 @@
+================================================
+      Client Script 576 Dumped by SiniSoul    
+      Instruction Size: 26
+      Integer Arguments: 0 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHI , Operand: -1
+Offset: 1, PUSHI , Operand: -1
+Offset: 2, PUSHI , Operand: 25493519
+Offset: 3, Unref Method: 2200, Operand: 0
+Offset: 4, PUSHI , Operand: 25493508
+Offset: 5, Unref Method: 102, Operand: 0
+Offset: 6, LOADGSTR , Operand: 22
+Offset: 7, getStringLength , Operand: 0
+Offset: 8, PUSHI , Operand: 0
+Offset: 9, IFGT , Operand: 1
+Offset: 10, GOTO , Operand: 6
+Offset: 11, PUSHI , Operand: 1
+Offset: 12, PUSHI , Operand: 25493509
+Offset: 13, Unref Method: 2003, Operand: 0
+Offset: 14, LOADGSTR , Operand: 22
+Offset: 15, CALL , Operand: 577
+Offset: 16, GOTO , Operand: 8
+Offset: 17, PUSHI , Operand: 0
+Offset: 18, PUSHI , Operand: 25493509
+Offset: 19, Unref Method: 2003, Operand: 0
+Offset: 20, PUSHI , Operand: 0
+Offset: 21, PUSHI , Operand: 15
+Offset: 22, PUSHI , Operand: 25493508
+Offset: 23, Unref Method: 2120, Operand: 0
+Offset: 24, CALL , Operand: 578
+Offset: 25, RETURN , Operand: 0

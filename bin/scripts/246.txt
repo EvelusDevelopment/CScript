@@ -1,0 +1,41 @@
+================================================
+      Client Script 246 Dumped by SiniSoul    
+      Instruction Size: 30
+      Integer Arguments: 0 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHI , Operand: 247
+Offset: 1, PUSHI , Operand: -2147483640
+Offset: 2, PUSHI , Operand: -2147483639
+Offset: 3, PUSHS , Operand: iz
+Offset: 4, PUSHI , Operand: 38928437
+Offset: 5, setInterfaceDefinitionScriptParams19 , Operand: 0
+Offset: 6, PUSHI , Operand: -1
+Offset: 7, PUSHS , Operand: 
+Offset: 8, PUSHI , Operand: 8978487
+Offset: 9, setInterfaceDefinitionScriptParams19 , Operand: 0
+Offset: 10, PUSHI , Operand: 0
+Offset: 11, STOREGINT , Operand: 6
+Offset: 12, PUSHI , Operand: 1
+Offset: 13, STOREGINT , Operand: 11
+Offset: 14, PUSHI , Operand: 49283075
+Offset: 15, Unref Method: 2504, Operand: 0
+Offset: 16, PUSHI , Operand: 0
+Offset: 17, IFEQ , Operand: 1
+Offset: 18, GOTO , Operand: 10
+Offset: 19, PUSHI , Operand: 1
+Offset: 20, PUSHI , Operand: 49283075
+Offset: 21, Unref Method: 2003, Operand: 0
+Offset: 22, PUSHI , Operand: 0
+Offset: 23, PUSHI , Operand: 49283080
+Offset: 24, Unref Method: 2003, Operand: 0
+Offset: 25, PUSHI , Operand: 0
+Offset: 26, STOREGINT , Operand: 5
+Offset: 27, PUSHS , Operand: 
+Offset: 28, STOREGSTR , Operand: 22
+Offset: 29, RETURN , Operand: 0

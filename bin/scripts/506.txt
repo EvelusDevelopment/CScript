@@ -1,0 +1,86 @@
+================================================
+      Client Script 506 Dumped by SiniSoul    
+      Instruction Size: 61
+      Integer Arguments: 2 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADINT , Operand: 0
+Offset: 1, Unref Method: 5004, Operand: 0
+Offset: 2, STOREINT , Operand: 1
+Offset: 3, LOADGINT , Operand: 41
+Offset: 4, PUSHI , Operand: 5
+Offset: 5, IFEQ , Operand: 1
+Offset: 6, GOTO , Operand: 50
+Offset: 7, LOADGSTR , Operand: 0
+Offset: 8, getStringLength , Operand: 0
+Offset: 9, PUSHI , Operand: 0
+Offset: 10, IFGT , Operand: 1
+Offset: 11, GOTO , Operand: 45
+Offset: 12, LOADINT , Operand: 1
+Offset: 13, SWITCH , Operand: 0
+Offset: 14, GOTO , Operand: 42
+Offset: 15, LOADINT , Operand: 0
+Offset: 16, Unref Method: 5010, Operand: 0
+Offset: 17, discludeTagsInString , Operand: 0
+Offset: 18, LOADGSTR , Operand: 0
+Offset: 19, Unref Method: 4107, Operand: 0
+Offset: 20, PUSHI , Operand: 0
+Offset: 21, IFEQ , Operand: 8
+Offset: 22, LOADINT , Operand: 0
+Offset: 23, Unref Method: 5010, Operand: 0
+Offset: 24, discludeTagsInString , Operand: 0
+Offset: 25, Unref Method: 5015, Operand: 0
+Offset: 26, Unref Method: 4107, Operand: 0
+Offset: 27, PUSHI , Operand: 0
+Offset: 28, IFEQ , Operand: 1
+Offset: 29, GOTO , Operand: 27
+Offset: 30, Unref Method: 5016, Operand: 0
+Offset: 31, PUSHI , Operand: 0
+Offset: 32, IFEQ , Operand: 1
+Offset: 33, GOTO , Operand: 2
+Offset: 34, PUSHI , Operand: 1
+Offset: 35, RETURN , Operand: 0
+Offset: 36, Unref Method: 5016, Operand: 0
+Offset: 37, PUSHI , Operand: 1
+Offset: 38, IFEQ , Operand: 1
+Offset: 39, GOTO , Operand: 8
+Offset: 40, LOADINT , Operand: 0
+Offset: 41, Unref Method: 5019, Operand: 0
+Offset: 42, Unref Method: 3609, Operand: 0
+Offset: 43, PUSHI , Operand: 1
+Offset: 44, IFEQ , Operand: 1
+Offset: 45, GOTO , Operand: 2
+Offset: 46, PUSHI , Operand: 1
+Offset: 47, RETURN , Operand: 0
+Offset: 48, LOADINT , Operand: 1
+Offset: 49, PUSHI , Operand: 1
+Offset: 50, IFEQ , Operand: 4
+Offset: 51, LOADINT , Operand: 1
+Offset: 52, PUSHI , Operand: 7
+Offset: 53, IFEQ , Operand: 1
+Offset: 54, GOTO , Operand: 2
+Offset: 55, PUSHI , Operand: 1
+Offset: 56, RETURN , Operand: 0
+Offset: 57, PUSHI , Operand: 0
+Offset: 58, RETURN , Operand: 0
+Offset: 59, PUSHI , Operand: -1
+Offset: 60, RETURN , Operand: 0
+
+================================================
+                Switch Table 0                
+================================================
+
+Key: 1, Value: 1
+Key: 19, Value: 1
+Key: 2, Value: 1
+Key: 18, Value: 1
+Key: 3, Value: 1
+Key: 20, Value: 1
+Key: 6, Value: 1
+Key: 7, Value: 1
+Key: 9, Value: 1

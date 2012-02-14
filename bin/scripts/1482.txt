@@ -1,0 +1,36 @@
+================================================
+      Client Script 1482 Dumped by SiniSoul    
+      Instruction Size: 25
+      Integer Arguments: 2 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHI , Operand: 73
+Offset: 1, PUSHI , Operand: 105
+Offset: 2, PUSHI , Operand: 1613
+Offset: 3, LOADINT , Operand: 0
+Offset: 4, Unref Method: 3408, Operand: 0
+Offset: 5, STOREINT , Operand: 1
+Offset: 6, LOADINT , Operand: 1
+Offset: 7, PUSHI , Operand: -1
+Offset: 8, IFNE , Operand: 1
+Offset: 9, GOTO , Operand: 14
+Offset: 10, LOADINT , Operand: 1
+Offset: 11, Unref Opcode: 25, Operand: 4893
+Offset: 12, IFNE , Operand: 1
+Offset: 13, GOTO , Operand: 10
+Offset: 14, LOADINT , Operand: 1
+Offset: 15, CALL , Operand: 1463
+Offset: 16, PUSHI , Operand: 1483
+Offset: 17, Unref Method: 3300, Operand: 0
+Offset: 18, PUSHI , Operand: 15
+Offset: 19, IADD , Operand: 0
+Offset: 20, PUSHI , Operand: -2147483645
+Offset: 21, PUSHS , Operand: iI
+Offset: 22, LOADINT , Operand: 0
+Offset: 23, setInterfaceDefinitionScriptParams8 , Operand: 0
+Offset: 24, RETURN , Operand: 0

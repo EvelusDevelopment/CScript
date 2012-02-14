@@ -1,0 +1,93 @@
+================================================
+      Client Script 912 Dumped by SiniSoul    
+      Instruction Size: 71
+      Integer Arguments: 1 
+      String  Arguments: 1 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHI , Operand: 111
+Offset: 1, PUSHI , Operand: 115
+Offset: 2, PUSHI , Operand: 1440
+Offset: 3, LOADINT , Operand: 0
+Offset: 4, Unref Method: 3408, Operand: 0
+Offset: 5, STORESTR , Operand: 0
+Offset: 6, LOADSTR , Operand: 0
+Offset: 7, PUSHS , Operand: 
+Offset: 8, Unref Method: 4107, Operand: 0
+Offset: 9, PUSHI , Operand: 0
+Offset: 10, IFNE , Operand: 1
+Offset: 11, GOTO , Operand: 4
+Offset: 12, PUSHS , Operand: <br>
+Offset: 13, LOADSTR , Operand: 0
+Offset: 14, CONCAT , Operand: 2
+Offset: 15, RETURN , Operand: 0
+Offset: 16, LOADGINT , Operand: 746
+Offset: 17, SWITCH , Operand: 0
+Offset: 18, GOTO , Operand: 48
+Offset: 19, PUSHS , Operand: <br>
+Offset: 20, PUSHI , Operand: 105
+Offset: 21, PUSHI , Operand: 115
+Offset: 22, PUSHI , Operand: 1437
+Offset: 23, LOADINT , Operand: 0
+Offset: 24, PUSHI , Operand: 23
+Offset: 25, Unref Method: 4208, Operand: 0
+Offset: 26, Unref Method: 3408, Operand: 0
+Offset: 27, CONCAT , Operand: 2
+Offset: 28, RETURN , Operand: 0
+Offset: 29, GOTO , Operand: 37
+Offset: 30, PUSHS , Operand: <br>
+Offset: 31, PUSHI , Operand: 105
+Offset: 32, PUSHI , Operand: 115
+Offset: 33, PUSHI , Operand: 1439
+Offset: 34, LOADINT , Operand: 0
+Offset: 35, PUSHI , Operand: 23
+Offset: 36, Unref Method: 4208, Operand: 0
+Offset: 37, Unref Method: 3408, Operand: 0
+Offset: 38, CONCAT , Operand: 2
+Offset: 39, RETURN , Operand: 0
+Offset: 40, GOTO , Operand: 26
+Offset: 41, PUSHS , Operand: <br>
+Offset: 42, PUSHI , Operand: 105
+Offset: 43, PUSHI , Operand: 115
+Offset: 44, PUSHI , Operand: 1436
+Offset: 45, LOADINT , Operand: 0
+Offset: 46, PUSHI , Operand: 23
+Offset: 47, Unref Method: 4208, Operand: 0
+Offset: 48, Unref Method: 3408, Operand: 0
+Offset: 49, CONCAT , Operand: 2
+Offset: 50, RETURN , Operand: 0
+Offset: 51, GOTO , Operand: 15
+Offset: 52, PUSHS , Operand: <br>
+Offset: 53, PUSHI , Operand: 105
+Offset: 54, PUSHI , Operand: 115
+Offset: 55, PUSHI , Operand: 1438
+Offset: 56, LOADINT , Operand: 0
+Offset: 57, PUSHI , Operand: 23
+Offset: 58, Unref Method: 4208, Operand: 0
+Offset: 59, Unref Method: 3408, Operand: 0
+Offset: 60, CONCAT , Operand: 2
+Offset: 61, RETURN , Operand: 0
+Offset: 62, GOTO , Operand: 4
+Offset: 63, PUSHS , Operand: <br>
+Offset: 64, PUSHS , Operand: Requires an ogre composite bow.
+Offset: 65, CONCAT , Operand: 2
+Offset: 66, RETURN , Operand: 0
+Offset: 67, PUSHS , Operand: 
+Offset: 68, RETURN , Operand: 0
+Offset: 69, PUSHS , Operand: 
+Offset: 70, RETURN , Operand: 0
+
+================================================
+                Switch Table 0                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 12
+Key: 2, Value: 23
+Key: 3, Value: 34
+Key: 4, Value: 45
+Key: 5, Value: 23

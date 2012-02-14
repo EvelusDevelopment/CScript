@@ -1,0 +1,120 @@
+================================================
+      Client Script 1363 Dumped by SiniSoul    
+      Instruction Size: 109
+      Integer Arguments: 7 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADINT , Operand: 0
+Offset: 1, Unref Method: 102, Operand: 0
+Offset: 2, LOADINT , Operand: 0
+Offset: 3, Unref Method: 2502, Operand: 0
+Offset: 4, STOREINT , Operand: 1
+Offset: 5, LOADINT , Operand: 0
+Offset: 6, Unref Method: 2503, Operand: 0
+Offset: 7, STOREINT , Operand: 2
+Offset: 8, LOADINT , Operand: 1
+Offset: 9, PUSHI , Operand: 9
+Offset: 10, ISUB , Operand: 0
+Offset: 11, STOREINT , Operand: 3
+Offset: 12, LOADINT , Operand: 2
+Offset: 13, PUSHI , Operand: 9
+Offset: 14, ISUB , Operand: 0
+Offset: 15, STOREINT , Operand: 4
+Offset: 16, LOADINT , Operand: 1
+Offset: 17, PUSHI , Operand: 18
+Offset: 18, ISUB , Operand: 0
+Offset: 19, STOREINT , Operand: 5
+Offset: 20, LOADINT , Operand: 2
+Offset: 21, PUSHI , Operand: 18
+Offset: 22, ISUB , Operand: 0
+Offset: 23, STOREINT , Operand: 6
+Offset: 24, LOADINT , Operand: 0
+Offset: 25, PUSHI , Operand: 3
+Offset: 26, PUSHI , Operand: 0
+Offset: 27, Unref Method: 100, Operand: 0
+Offset: 28, PUSHI , Operand: 0
+Offset: 29, PUSHI , Operand: 0
+Offset: 30, PUSHI , Operand: 0
+Offset: 31, PUSHI , Operand: 0
+Offset: 32, Unref Method: 1000, Operand: 0
+Offset: 33, LOADINT , Operand: 1
+Offset: 34, LOADINT , Operand: 2
+Offset: 35, PUSHI , Operand: 0
+Offset: 36, PUSHI , Operand: 0
+Offset: 37, Unref Method: 1001, Operand: 0
+Offset: 38, PUSHI , Operand: 1
+Offset: 39, Unref Method: 1102, Operand: 0
+Offset: 40, PUSHI , Operand: 16777215
+Offset: 41, Unref Method: 1101, Operand: 0
+Offset: 42, PUSHI , Operand: 240
+Offset: 43, Unref Method: 1103, Operand: 0
+Offset: 44, LOADINT , Operand: 0
+Offset: 45, PUSHI , Operand: 1
+Offset: 46, PUSHI , Operand: 929
+Offset: 47, PUSHI , Operand: 0
+Offset: 48, PUSHI , Operand: 0
+Offset: 49, PUSHI , Operand: 9
+Offset: 50, PUSHI , Operand: 9
+Offset: 51, CALL , Operand: 98
+Offset: 52, LOADINT , Operand: 0
+Offset: 53, PUSHI , Operand: 2
+Offset: 54, PUSHI , Operand: 930
+Offset: 55, LOADINT , Operand: 3
+Offset: 56, PUSHI , Operand: 0
+Offset: 57, PUSHI , Operand: 9
+Offset: 58, PUSHI , Operand: 9
+Offset: 59, CALL , Operand: 98
+Offset: 60, LOADINT , Operand: 0
+Offset: 61, PUSHI , Operand: 3
+Offset: 62, PUSHI , Operand: 931
+Offset: 63, PUSHI , Operand: 0
+Offset: 64, LOADINT , Operand: 4
+Offset: 65, PUSHI , Operand: 9
+Offset: 66, PUSHI , Operand: 9
+Offset: 67, CALL , Operand: 98
+Offset: 68, LOADINT , Operand: 0
+Offset: 69, PUSHI , Operand: 4
+Offset: 70, PUSHI , Operand: 932
+Offset: 71, LOADINT , Operand: 3
+Offset: 72, LOADINT , Operand: 4
+Offset: 73, PUSHI , Operand: 9
+Offset: 74, PUSHI , Operand: 9
+Offset: 75, CALL , Operand: 98
+Offset: 76, LOADINT , Operand: 0
+Offset: 77, PUSHI , Operand: 5
+Offset: 78, PUSHI , Operand: 933
+Offset: 79, PUSHI , Operand: 0
+Offset: 80, PUSHI , Operand: 9
+Offset: 81, PUSHI , Operand: 9
+Offset: 82, LOADINT , Operand: 6
+Offset: 83, CALL , Operand: 98
+Offset: 84, LOADINT , Operand: 0
+Offset: 85, PUSHI , Operand: 6
+Offset: 86, PUSHI , Operand: 934
+Offset: 87, PUSHI , Operand: 9
+Offset: 88, PUSHI , Operand: 0
+Offset: 89, LOADINT , Operand: 5
+Offset: 90, PUSHI , Operand: 9
+Offset: 91, CALL , Operand: 98
+Offset: 92, LOADINT , Operand: 0
+Offset: 93, PUSHI , Operand: 7
+Offset: 94, PUSHI , Operand: 935
+Offset: 95, LOADINT , Operand: 3
+Offset: 96, PUSHI , Operand: 9
+Offset: 97, PUSHI , Operand: 9
+Offset: 98, LOADINT , Operand: 6
+Offset: 99, CALL , Operand: 98
+Offset: 100, LOADINT , Operand: 0
+Offset: 101, PUSHI , Operand: 8
+Offset: 102, PUSHI , Operand: 936
+Offset: 103, PUSHI , Operand: 9
+Offset: 104, LOADINT , Operand: 4
+Offset: 105, LOADINT , Operand: 5
+Offset: 106, PUSHI , Operand: 9
+Offset: 107, CALL , Operand: 98
+Offset: 108, RETURN , Operand: 0

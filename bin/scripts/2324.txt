@@ -1,0 +1,42 @@
+================================================
+      Client Script 2324 Dumped by SiniSoul    
+      Instruction Size: 31
+      Integer Arguments: 1 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHI , Operand: 20054025
+Offset: 1, STOREINT , Operand: 0
+Offset: 2, PUSHI , Operand: 105
+Offset: 3, PUSHI , Operand: 109
+Offset: 4, PUSHI , Operand: 208
+Offset: 5, PUSHI , Operand: 208
+Offset: 6, Unref Method: 3411, Operand: 0
+Offset: 7, getRandom , Operand: 0
+Offset: 8, Unref Method: 3408, Operand: 0
+Offset: 9, STOREGINT , Operand: 764
+Offset: 10, LOADGINT , Operand: 764
+Offset: 11, PUSHI , Operand: -1
+Offset: 12, IFNE , Operand: 1
+Offset: 13, GOTO , Operand: 3
+Offset: 14, LOADGINT , Operand: 764
+Offset: 15, LOADINT , Operand: 0
+Offset: 16, Unref Method: 2108, Operand: 0
+Offset: 17, PUSHI , Operand: 0
+Offset: 18, LOADINT , Operand: 0
+Offset: 19, Unref Method: 2502, Operand: 0
+Offset: 20, ISUB , Operand: 0
+Offset: 21, PUSHI , Operand: 120
+Offset: 22, PUSHI , Operand: 0
+Offset: 23, PUSHI , Operand: 0
+Offset: 24, LOADINT , Operand: 0
+Offset: 25, Unref Method: 2000, Operand: 0
+Offset: 26, PUSHI , Operand: -1
+Offset: 27, PUSHS , Operand: 
+Offset: 28, PUSHI , Operand: 20054038
+Offset: 29, setInterfaceDefinitionScriptParams8 , Operand: 0
+Offset: 30, RETURN , Operand: 0

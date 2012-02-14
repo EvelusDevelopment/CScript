@@ -1,0 +1,80 @@
+================================================
+      Client Script 2699 Dumped by SiniSoul    
+      Instruction Size: 69
+      Integer Arguments: 8 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADINT , Operand: 1
+Offset: 1, LOADINT , Operand: 0
+Offset: 2, LOADINT , Operand: 6
+Offset: 3, CALL , Operand: 2582
+Offset: 4, STOREINT , Operand: 7
+Offset: 5, LOADINT , Operand: 7
+Offset: 6, PUSHI , Operand: 0
+Offset: 7, IFEQ , Operand: 1
+Offset: 8, GOTO , Operand: 37
+Offset: 9, LOADINT , Operand: 1
+Offset: 10, PUSHI , Operand: 845
+Offset: 11, IFEQ , Operand: 1
+Offset: 12, GOTO , Operand: 15
+Offset: 13, Unref Method: 5308, Operand: 0
+Offset: 14, STOREINT , Operand: 5
+Offset: 15, LOADINT , Operand: 5
+Offset: 16, Unref Method: 5307, Operand: 0
+Offset: 17, LOADINT , Operand: 6
+Offset: 18, PUSHI , Operand: 0
+Offset: 19, PUSHS , Operand: RuneScape was unable to change to that resolution.
+Offset: 20, PUSHS , Operand: <br>
+Offset: 21, PUSHS , Operand: <br>
+Offset: 22, PUSHS , Operand: Please visit our Knowledge Base for more information.
+Offset: 23, CONCAT , Operand: 4
+Offset: 24, PUSHS , Operand: Consult Knowledge Base
+Offset: 25, PUSHS , Operand: kbase/view.ws?guid=controls_display_options
+Offset: 26, CALL , Operand: 2694
+Offset: 27, GOTO , Operand: 17
+Offset: 28, LOADINT , Operand: 1
+Offset: 29, PUSHI , Operand: 1009
+Offset: 30, IFEQ , Operand: 1
+Offset: 31, GOTO , Operand: 3
+Offset: 32, LOADINT , Operand: 6
+Offset: 33, CALL , Operand: 3413
+Offset: 34, GOTO , Operand: 10
+Offset: 35, LOADINT , Operand: 6
+Offset: 36, PUSHI , Operand: 1
+Offset: 37, PUSHS , Operand: RuneScape was unable to implement that setting.
+Offset: 38, PUSHS , Operand: <br>
+Offset: 39, PUSHS , Operand: <br>
+Offset: 40, PUSHS , Operand: Please visit our Knowledge Base for more information.
+Offset: 41, CONCAT , Operand: 4
+Offset: 42, PUSHS , Operand: Consult Knowledge Base
+Offset: 43, PUSHS , Operand: kbase/view.ws?guid=controls_display_options
+Offset: 44, CALL , Operand: 2694
+Offset: 45, GOTO , Operand: 5
+Offset: 46, Unref Method: 7007, Operand: 0
+Offset: 47, PUSHI , Operand: 0
+Offset: 48, IFNE , Operand: 1
+Offset: 49, GOTO , Operand: 1
+Offset: 50, Unref Method: 7005, Operand: 0
+Offset: 51, LOADINT , Operand: 1
+Offset: 52, PUSHI , Operand: 845
+Offset: 53, IFEQ , Operand: 1
+Offset: 54, GOTO , Operand: 7
+Offset: 55, LOADINT , Operand: 4
+Offset: 56, LOADINT , Operand: 5
+Offset: 57, LOADINT , Operand: 2
+Offset: 58, LOADINT , Operand: 3
+Offset: 59, LOADINT , Operand: 6
+Offset: 60, CALL , Operand: 2596
+Offset: 61, GOTO , Operand: 6
+Offset: 62, LOADINT , Operand: 4
+Offset: 63, LOADINT , Operand: 5
+Offset: 64, LOADINT , Operand: 2
+Offset: 65, LOADINT , Operand: 3
+Offset: 66, LOADINT , Operand: 6
+Offset: 67, CALL , Operand: 3387
+Offset: 68, RETURN , Operand: 0

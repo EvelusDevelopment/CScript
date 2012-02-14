@@ -1,0 +1,172 @@
+================================================
+      Client Script 161 Dumped by SiniSoul    
+      Instruction Size: 161
+      Integer Arguments: 6 
+      String  Arguments: 9 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADINT , Operand: 2
+Offset: 1, LOADINT , Operand: 3
+Offset: 2, Unref Method: 200, Operand: 0
+Offset: 3, PUSHI , Operand: 1
+Offset: 4, IFEQ , Operand: 1
+Offset: 5, GOTO , Operand: 154
+Offset: 6, LOADINT , Operand: 0
+Offset: 7, LOADINT , Operand: 1
+Offset: 8, Unref Method: 3313, Operand: 0
+Offset: 9, PUSHI , Operand: -1
+Offset: 10, IFNE , Operand: 1
+Offset: 11, GOTO , Operand: 102
+Offset: 12, LOADINT , Operand: 0
+Offset: 13, LOADINT , Operand: 1
+Offset: 14, Unref Method: 3313, Operand: 0
+Offset: 15, LOADINT , Operand: 0
+Offset: 16, LOADINT , Operand: 1
+Offset: 17, Unref Method: 3314, Operand: 0
+Offset: 18, Unref Method: 1200, Operand: 0
+Offset: 19, LOADINT , Operand: 0
+Offset: 20, LOADINT , Operand: 1
+Offset: 21, Unref Method: 3313, Operand: 0
+Offset: 22, Unref Method: 4200, Operand: 0
+Offset: 23, Unref Method: 1305, Operand: 0
+Offset: 24, PUSHI , Operand: 1
+Offset: 25, LOADSTR , Operand: 0
+Offset: 26, setChildInterfaceText , Operand: 0
+Offset: 27, PUSHI , Operand: 2
+Offset: 28, LOADSTR , Operand: 1
+Offset: 29, setChildInterfaceText , Operand: 0
+Offset: 30, PUSHI , Operand: 3
+Offset: 31, LOADSTR , Operand: 2
+Offset: 32, setChildInterfaceText , Operand: 0
+Offset: 33, PUSHI , Operand: 4
+Offset: 34, LOADSTR , Operand: 3
+Offset: 35, setChildInterfaceText , Operand: 0
+Offset: 36, PUSHI , Operand: 5
+Offset: 37, LOADSTR , Operand: 4
+Offset: 38, setChildInterfaceText , Operand: 0
+Offset: 39, PUSHI , Operand: 6
+Offset: 40, LOADSTR , Operand: 5
+Offset: 41, setChildInterfaceText , Operand: 0
+Offset: 42, PUSHI , Operand: 7
+Offset: 43, LOADSTR , Operand: 6
+Offset: 44, setChildInterfaceText , Operand: 0
+Offset: 45, PUSHI , Operand: 8
+Offset: 46, LOADSTR , Operand: 7
+Offset: 47, setChildInterfaceText , Operand: 0
+Offset: 48, PUSHI , Operand: 9
+Offset: 49, LOADSTR , Operand: 8
+Offset: 50, setChildInterfaceText , Operand: 0
+Offset: 51, PUSHI , Operand: 10
+Offset: 52, PUSHS , Operand: Examine
+Offset: 53, PUSHS , Operand: <col=ff9040>
+Offset: 54, CONCAT , Operand: 2
+Offset: 55, setChildInterfaceText , Operand: 0
+Offset: 56, LOADINT , Operand: 4
+Offset: 57, PUSHI , Operand: 0
+Offset: 58, IFGT , Operand: 1
+Offset: 59, GOTO , Operand: 4
+Offset: 60, PUSHI , Operand: 5
+Offset: 61, Unref Method: 1303, Operand: 0
+Offset: 62, PUSHI , Operand: 10
+Offset: 63, Unref Method: 1304, Operand: 0
+Offset: 64, LOADINT , Operand: 4
+Offset: 65, PUSHI , Operand: 1
+Offset: 66, IFEQ , Operand: 1
+Offset: 67, GOTO , Operand: 19
+Offset: 68, PUSHI , Operand: 155
+Offset: 69, LOADINT , Operand: 0
+Offset: 70, PUSHI , Operand: -2147483643
+Offset: 71, PUSHI , Operand: -2147483641
+Offset: 72, PUSHI , Operand: -2147483645
+Offset: 73, LOADINT , Operand: 4
+Offset: 74, LOADINT , Operand: 5
+Offset: 75, LOADSTR , Operand: 0
+Offset: 76, LOADSTR , Operand: 1
+Offset: 77, LOADSTR , Operand: 2
+Offset: 78, LOADSTR , Operand: 3
+Offset: 79, LOADSTR , Operand: 4
+Offset: 80, LOADSTR , Operand: 5
+Offset: 81, LOADSTR , Operand: 6
+Offset: 82, LOADSTR , Operand: 7
+Offset: 83, LOADSTR , Operand: 8
+Offset: 84, PUSHS , Operand: viiIiIsssssssss
+Offset: 85, Unref Method: 1410, Operand: 0
+Offset: 86, GOTO , Operand: 22
+Offset: 87, LOADINT , Operand: 4
+Offset: 88, PUSHI , Operand: 2
+Offset: 89, IFEQ , Operand: 1
+Offset: 90, GOTO , Operand: 18
+Offset: 91, PUSHI , Operand: 156
+Offset: 92, LOADINT , Operand: 0
+Offset: 93, PUSHI , Operand: -2147483643
+Offset: 94, PUSHI , Operand: -2147483641
+Offset: 95, PUSHI , Operand: -2147483645
+Offset: 96, LOADINT , Operand: 4
+Offset: 97, LOADINT , Operand: 5
+Offset: 98, LOADSTR , Operand: 0
+Offset: 99, LOADSTR , Operand: 1
+Offset: 100, LOADSTR , Operand: 2
+Offset: 101, LOADSTR , Operand: 3
+Offset: 102, LOADSTR , Operand: 4
+Offset: 103, LOADSTR , Operand: 5
+Offset: 104, LOADSTR , Operand: 6
+Offset: 105, LOADSTR , Operand: 7
+Offset: 106, LOADSTR , Operand: 8
+Offset: 107, PUSHS , Operand: viiIiIsssssssss
+Offset: 108, Unref Method: 1410, Operand: 0
+Offset: 109, PUSHI , Operand: 3355443
+Offset: 110, Unref Method: 1117, Operand: 0
+Offset: 111, PUSHI , Operand: 1
+Offset: 112, Unref Method: 1116, Operand: 0
+Offset: 113, GOTO , Operand: 46
+Offset: 114, PUSHI , Operand: -1
+Offset: 115, PUSHI , Operand: 0
+Offset: 116, Unref Method: 1200, Operand: 0
+Offset: 117, PUSHS , Operand: 
+Offset: 118, Unref Method: 1305, Operand: 0
+Offset: 119, PUSHI , Operand: 1
+Offset: 120, PUSHS , Operand: 
+Offset: 121, setChildInterfaceText , Operand: 0
+Offset: 122, PUSHI , Operand: 2
+Offset: 123, PUSHS , Operand: 
+Offset: 124, setChildInterfaceText , Operand: 0
+Offset: 125, PUSHI , Operand: 3
+Offset: 126, PUSHS , Operand: 
+Offset: 127, setChildInterfaceText , Operand: 0
+Offset: 128, PUSHI , Operand: 4
+Offset: 129, PUSHS , Operand: 
+Offset: 130, setChildInterfaceText , Operand: 0
+Offset: 131, PUSHI , Operand: 5
+Offset: 132, PUSHS , Operand: 
+Offset: 133, setChildInterfaceText , Operand: 0
+Offset: 134, PUSHI , Operand: 6
+Offset: 135, PUSHS , Operand: 
+Offset: 136, setChildInterfaceText , Operand: 0
+Offset: 137, PUSHI , Operand: 7
+Offset: 138, PUSHS , Operand: 
+Offset: 139, setChildInterfaceText , Operand: 0
+Offset: 140, PUSHI , Operand: 8
+Offset: 141, PUSHS , Operand: 
+Offset: 142, setChildInterfaceText , Operand: 0
+Offset: 143, PUSHI , Operand: 9
+Offset: 144, PUSHS , Operand: 
+Offset: 145, setChildInterfaceText , Operand: 0
+Offset: 146, PUSHI , Operand: 10
+Offset: 147, PUSHS , Operand: 
+Offset: 148, setChildInterfaceText , Operand: 0
+Offset: 149, LOADINT , Operand: 4
+Offset: 150, PUSHI , Operand: 0
+Offset: 151, IFGT , Operand: 1
+Offset: 152, GOTO , Operand: 4
+Offset: 153, PUSHI , Operand: 0
+Offset: 154, Unref Method: 1303, Operand: 0
+Offset: 155, PUSHI , Operand: 0
+Offset: 156, Unref Method: 1304, Operand: 0
+Offset: 157, PUSHI , Operand: -1
+Offset: 158, PUSHS , Operand: 
+Offset: 159, Unref Method: 1410, Operand: 0
+Offset: 160, RETURN , Operand: 0

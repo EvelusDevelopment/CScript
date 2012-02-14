@@ -1,0 +1,23 @@
+================================================
+      Client Script 539 Dumped by SiniSoul    
+      Instruction Size: 12
+      Integer Arguments: 2 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHI , Operand: 2350
+Offset: 1, LOADINT , Operand: 0
+Offset: 2, LOADINT , Operand: 1
+Offset: 3, PUSHI , Operand: 93
+Offset: 4, PUSHI , Operand: 1
+Offset: 5, PUSHS , Operand: IoY
+Offset: 6, LOADINT , Operand: 0
+Offset: 7, setInterfaceDefinitionScriptParams14 , Operand: 0
+Offset: 8, LOADINT , Operand: 0
+Offset: 9, LOADINT , Operand: 1
+Offset: 10, CALL , Operand: 2351
+Offset: 11, RETURN , Operand: 0

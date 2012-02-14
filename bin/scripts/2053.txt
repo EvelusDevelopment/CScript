@@ -1,0 +1,25 @@
+================================================
+      Client Script 2053 Dumped by SiniSoul    
+      Instruction Size: 14
+      Integer Arguments: 3 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADINT , Operand: 0
+Offset: 1, PUSHI , Operand: 1
+Offset: 2, IFEQ , Operand: 1
+Offset: 3, GOTO , Operand: 9
+Offset: 4, PUSHI , Operand: 2054
+Offset: 5, Unref Method: 3300, Operand: 0
+Offset: 6, PUSHI , Operand: 3
+Offset: 7, IADD , Operand: 0
+Offset: 8, LOADINT , Operand: 1
+Offset: 9, LOADINT , Operand: 2
+Offset: 10, PUSHS , Operand: iIc
+Offset: 11, LOADINT , Operand: 1
+Offset: 12, setInterfaceDefinitionScriptParams8 , Operand: 0
+Offset: 13, RETURN , Operand: 0

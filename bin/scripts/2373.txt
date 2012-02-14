@@ -1,0 +1,62 @@
+================================================
+      Client Script 2373 Dumped by SiniSoul    
+      Instruction Size: 51
+      Integer Arguments: 3 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHI , Operand: 0
+Offset: 1, STOREINT , Operand: 1
+Offset: 2, PUSHI , Operand: 0
+Offset: 3, STOREINT , Operand: 2
+Offset: 4, LOADINT , Operand: 0
+Offset: 5, PUSHI , Operand: 20250628
+Offset: 6, IFEQ , Operand: 1
+Offset: 7, GOTO , Operand: 4
+Offset: 8, PUSHI , Operand: 2343
+Offset: 9, Unref Method: 3411, Operand: 0
+Offset: 10, STOREINT , Operand: 1
+Offset: 11, GOTO , Operand: 7
+Offset: 12, LOADINT , Operand: 0
+Offset: 13, PUSHI , Operand: 47775823
+Offset: 14, IFEQ , Operand: 1
+Offset: 15, GOTO , Operand: 3
+Offset: 16, PUSHI , Operand: 2347
+Offset: 17, Unref Method: 3411, Operand: 0
+Offset: 18, STOREINT , Operand: 1
+Offset: 19, PUSHI , Operand: 2
+Offset: 20, LOADINT , Operand: 1
+Offset: 21, IMUL , Operand: 0
+Offset: 22, STOREINT , Operand: 2
+Offset: 23, LOADINT , Operand: 1
+Offset: 24, LOADINT , Operand: 2
+Offset: 25, IFLT , Operand: 1
+Offset: 26, GOTO , Operand: 23
+Offset: 27, LOADINT , Operand: 0
+Offset: 28, LOADINT , Operand: 1
+Offset: 29, Unref Method: 200, Operand: 0
+Offset: 30, PUSHI , Operand: 1
+Offset: 31, IFEQ , Operand: 1
+Offset: 32, GOTO , Operand: 12
+Offset: 33, PUSHI , Operand: 1041
+Offset: 34, Unref Method: 1105, Operand: 0
+Offset: 35, PUSHI , Operand: 2368
+Offset: 36, LOADINT , Operand: 0
+Offset: 37, LOADINT , Operand: 1
+Offset: 38, PUSHS , Operand: Ii
+Offset: 39, Unref Method: 1412, Operand: 0
+Offset: 40, PUSHI , Operand: 2369
+Offset: 41, LOADINT , Operand: 0
+Offset: 42, LOADINT , Operand: 1
+Offset: 43, PUSHS , Operand: Ii
+Offset: 44, Unref Method: 1404, Operand: 0
+Offset: 45, LOADINT , Operand: 1
+Offset: 46, PUSHI , Operand: 1
+Offset: 47, IADD , Operand: 0
+Offset: 48, STOREINT , Operand: 1
+Offset: 49, GOTO , Operand: -27
+Offset: 50, RETURN , Operand: 0

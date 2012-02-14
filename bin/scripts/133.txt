@@ -1,0 +1,71 @@
+================================================
+      Client Script 133 Dumped by SiniSoul    
+      Instruction Size: 60
+      Integer Arguments: 3 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADINT , Operand: 2
+Offset: 1, Unref Method: 3309, Operand: 0
+Offset: 2, LOADINT , Operand: 0
+Offset: 3, Unref Method: 3309, Operand: 0
+Offset: 4, LOADINT , Operand: 1
+Offset: 5, Unref Method: 3309, Operand: 0
+Offset: 6, Unref Method: 4016, Operand: 0
+Offset: 7, IFGTEQ , Operand: 1
+Offset: 8, GOTO , Operand: 47
+Offset: 9, LOADINT , Operand: 2
+Offset: 10, Unref Method: 3311, Operand: 0
+Offset: 11, LOADINT , Operand: 0
+Offset: 12, Unref Method: 3311, Operand: 0
+Offset: 13, LOADINT , Operand: 1
+Offset: 14, Unref Method: 3311, Operand: 0
+Offset: 15, Unref Method: 4016, Operand: 0
+Offset: 16, IFGTEQ , Operand: 1
+Offset: 17, GOTO , Operand: 38
+Offset: 18, LOADINT , Operand: 2
+Offset: 19, Unref Method: 3310, Operand: 0
+Offset: 20, LOADINT , Operand: 0
+Offset: 21, Unref Method: 3310, Operand: 0
+Offset: 22, LOADINT , Operand: 1
+Offset: 23, Unref Method: 3310, Operand: 0
+Offset: 24, Unref Method: 4016, Operand: 0
+Offset: 25, IFGTEQ , Operand: 1
+Offset: 26, GOTO , Operand: 29
+Offset: 27, LOADINT , Operand: 2
+Offset: 28, Unref Method: 3309, Operand: 0
+Offset: 29, LOADINT , Operand: 0
+Offset: 30, Unref Method: 3309, Operand: 0
+Offset: 31, LOADINT , Operand: 1
+Offset: 32, Unref Method: 3309, Operand: 0
+Offset: 33, Unref Method: 4017, Operand: 0
+Offset: 34, IFLTEQ , Operand: 1
+Offset: 35, GOTO , Operand: 20
+Offset: 36, LOADINT , Operand: 2
+Offset: 37, Unref Method: 3311, Operand: 0
+Offset: 38, LOADINT , Operand: 0
+Offset: 39, Unref Method: 3311, Operand: 0
+Offset: 40, LOADINT , Operand: 1
+Offset: 41, Unref Method: 3311, Operand: 0
+Offset: 42, Unref Method: 4017, Operand: 0
+Offset: 43, IFLTEQ , Operand: 1
+Offset: 44, GOTO , Operand: 11
+Offset: 45, LOADINT , Operand: 2
+Offset: 46, Unref Method: 3310, Operand: 0
+Offset: 47, LOADINT , Operand: 0
+Offset: 48, Unref Method: 3310, Operand: 0
+Offset: 49, LOADINT , Operand: 1
+Offset: 50, Unref Method: 3310, Operand: 0
+Offset: 51, Unref Method: 4017, Operand: 0
+Offset: 52, IFLTEQ , Operand: 1
+Offset: 53, GOTO , Operand: 2
+Offset: 54, PUSHI , Operand: 1
+Offset: 55, RETURN , Operand: 0
+Offset: 56, PUSHI , Operand: 0
+Offset: 57, RETURN , Operand: 0
+Offset: 58, PUSHI , Operand: -1
+Offset: 59, RETURN , Operand: 0

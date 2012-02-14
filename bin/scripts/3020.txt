@@ -1,0 +1,155 @@
+================================================
+      Client Script 3020 Dumped by SiniSoul    
+      Instruction Size: 132
+      Integer Arguments: 3 
+      String  Arguments: 5 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHI , Operand: 0
+Offset: 1, STOREINT , Operand: 1
+Offset: 2, PUSHS , Operand: 
+Offset: 3, STORESTR , Operand: 1
+Offset: 4, PUSHS , Operand: 
+Offset: 5, STORESTR , Operand: 2
+Offset: 6, PUSHI , Operand: -1
+Offset: 7, STOREINT , Operand: 2
+Offset: 8, PUSHS , Operand: 
+Offset: 9, STORESTR , Operand: 3
+Offset: 10, PUSHS , Operand: 
+Offset: 11, STORESTR , Operand: 4
+Offset: 12, LOADGSTR , Operand: 277
+Offset: 13, getStringLength , Operand: 0
+Offset: 14, PUSHI , Operand: 0
+Offset: 15, IFGT , Operand: 1
+Offset: 16, GOTO , Operand: 102
+Offset: 17, LOADINT , Operand: 0
+Offset: 18, SWITCH , Operand: 0
+Offset: 19, GOTO , Operand: 99
+Offset: 20, LOADGSTR , Operand: 277
+Offset: 21, getStringLength , Operand: 0
+Offset: 22, PUSHI , Operand: 0
+Offset: 23, IFGT , Operand: 1
+Offset: 24, GOTO , Operand: 15
+Offset: 25, LOADSTR , Operand: 0
+Offset: 26, getStringLength , Operand: 0
+Offset: 27, PUSHI , Operand: 0
+Offset: 28, IFGT , Operand: 1
+Offset: 29, GOTO , Operand: 10
+Offset: 30, Unref Method: 5005, Operand: 0
+Offset: 31, PUSHI , Operand: 2
+Offset: 32, IFEQ , Operand: 1
+Offset: 33, GOTO , Operand: 2
+Offset: 34, PUSHI , Operand: 1
+Offset: 35, CALL , Operand: 3047
+Offset: 36, LOADSTR , Operand: 0
+Offset: 37, discludeTagsInString , Operand: 0
+Offset: 38, LOADGSTR , Operand: 277
+Offset: 39, Unref Method: 5009, Operand: 0
+Offset: 40, GOTO , Operand: 78
+Offset: 41, Unref Method: 3600, Operand: 0
+Offset: 42, PUSHI , Operand: 0
+Offset: 43, IFLT , Operand: 1
+Offset: 44, GOTO , Operand: 3
+Offset: 45, PUSHS , Operand: Unable to update Friends List - system busy.
+Offset: 46, Unref Method: 3100, Operand: 0
+Offset: 47, GOTO , Operand: 7
+Offset: 48, LOADGSTR , Operand: 277
+Offset: 49, getStringLength , Operand: 0
+Offset: 50, PUSHI , Operand: 0
+Offset: 51, IFGT , Operand: 1
+Offset: 52, GOTO , Operand: 2
+Offset: 53, LOADGSTR , Operand: 277
+Offset: 54, Unref Method: 3605, Operand: 0
+Offset: 55, GOTO , Operand: 63
+Offset: 56, Unref Method: 3621, Operand: 0
+Offset: 57, PUSHI , Operand: 0
+Offset: 58, IFLT , Operand: 1
+Offset: 59, GOTO , Operand: 3
+Offset: 60, PUSHS , Operand: Unable to update Ignore List - system busy.
+Offset: 61, Unref Method: 3100, Operand: 0
+Offset: 62, GOTO , Operand: 7
+Offset: 63, LOADGSTR , Operand: 277
+Offset: 64, getStringLength , Operand: 0
+Offset: 65, PUSHI , Operand: 0
+Offset: 66, IFGT , Operand: 1
+Offset: 67, GOTO , Operand: 2
+Offset: 68, LOADGSTR , Operand: 277
+Offset: 69, Unref Method: 3607, Operand: 0
+Offset: 70, GOTO , Operand: 48
+Offset: 71, Unref Method: 3600, Operand: 0
+Offset: 72, PUSHI , Operand: 0
+Offset: 73, IFLT , Operand: 1
+Offset: 74, GOTO , Operand: 3
+Offset: 75, PUSHS , Operand: Unable to update Friends List - system busy.
+Offset: 76, Unref Method: 3100, Operand: 0
+Offset: 77, GOTO , Operand: 7
+Offset: 78, LOADGSTR , Operand: 277
+Offset: 79, getStringLength , Operand: 0
+Offset: 80, PUSHI , Operand: 0
+Offset: 81, IFGT , Operand: 1
+Offset: 82, GOTO , Operand: 2
+Offset: 83, LOADGSTR , Operand: 277
+Offset: 84, Unref Method: 3606, Operand: 0
+Offset: 85, GOTO , Operand: 33
+Offset: 86, Unref Method: 3621, Operand: 0
+Offset: 87, PUSHI , Operand: 0
+Offset: 88, IFLT , Operand: 1
+Offset: 89, GOTO , Operand: 3
+Offset: 90, PUSHS , Operand: Unable to update Ignore List - system busy.
+Offset: 91, Unref Method: 3100, Operand: 0
+Offset: 92, GOTO , Operand: 7
+Offset: 93, LOADGSTR , Operand: 277
+Offset: 94, getStringLength , Operand: 0
+Offset: 95, PUSHI , Operand: 0
+Offset: 96, IFGT , Operand: 1
+Offset: 97, GOTO , Operand: 2
+Offset: 98, LOADGSTR , Operand: 277
+Offset: 99, Unref Method: 3608, Operand: 0
+Offset: 100, GOTO , Operand: 18
+Offset: 101, Unref Method: 3612, Operand: 0
+Offset: 102, PUSHI , Operand: 0
+Offset: 103, IFLTEQ , Operand: 1
+Offset: 104, GOTO , Operand: 7
+Offset: 105, LOADGSTR , Operand: 277
+Offset: 106, getStringLength , Operand: 0
+Offset: 107, PUSHI , Operand: 0
+Offset: 108, IFGT , Operand: 1
+Offset: 109, GOTO , Operand: 2
+Offset: 110, LOADGSTR , Operand: 277
+Offset: 111, Unref Method: 3619, Operand: 0
+Offset: 112, GOTO , Operand: 6
+Offset: 113, PUSHI , Operand: 0
+Offset: 114, STOREGINT , Operand: 1094
+Offset: 115, PUSHS , Operand: bugtracker_v4
+Offset: 116, PUSHS , Operand: index.html
+Offset: 117, PUSHI , Operand: 0
+Offset: 118, Unref Method: 5400, Operand: 0
+Offset: 119, LOADINT , Operand: 1
+Offset: 120, PUSHI , Operand: 1
+Offset: 121, IFEQ , Operand: 1
+Offset: 122, GOTO , Operand: 7
+Offset: 123, LOADSTR , Operand: 1
+Offset: 124, LOADSTR , Operand: 2
+Offset: 125, LOADINT , Operand: 2
+Offset: 126, LOADSTR , Operand: 3
+Offset: 127, LOADSTR , Operand: 4
+Offset: 128, CALL , Operand: 3015
+Offset: 129, GOTO , Operand: 1
+Offset: 130, CALL , Operand: 3017
+Offset: 131, RETURN , Operand: 0
+
+================================================
+                Switch Table 0                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 22
+Key: 2, Value: 37
+Key: 3, Value: 52
+Key: 4, Value: 67
+Key: 5, Value: 82
+Key: 6, Value: 94

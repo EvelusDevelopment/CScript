@@ -1,0 +1,36 @@
+================================================
+      Client Script 3368 Dumped by SiniSoul    
+      Instruction Size: 25
+      Integer Arguments: 1 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADINT , Operand: 0
+Offset: 1, integerToString , Operand: 0
+Offset: 2, PUSHS , Operand: xp
+Offset: 3, CONCAT , Operand: 2
+Offset: 4, PUSHI , Operand: 35913749
+Offset: 5, Unref Method: 2112, Operand: 0
+Offset: 6, LOADINT , Operand: 0
+Offset: 7, integerToString , Operand: 0
+Offset: 8, PUSHS , Operand: xp
+Offset: 9, CONCAT , Operand: 2
+Offset: 10, PUSHI , Operand: 48890037
+Offset: 11, Unref Method: 2112, Operand: 0
+Offset: 12, PUSHI , Operand: 3369
+Offset: 13, PUSHI , Operand: 35913746
+Offset: 14, Unref Method: 3300, Operand: 0
+Offset: 15, PUSHS , Operand: Ii
+Offset: 16, PUSHI , Operand: 35913746
+Offset: 17, setInterfaceDefinitionScriptParams8 , Operand: 0
+Offset: 18, PUSHI , Operand: 3370
+Offset: 19, PUSHI , Operand: 48890034
+Offset: 20, Unref Method: 3300, Operand: 0
+Offset: 21, PUSHS , Operand: Ii
+Offset: 22, PUSHI , Operand: 48890034
+Offset: 23, setInterfaceDefinitionScriptParams8 , Operand: 0
+Offset: 24, RETURN , Operand: 0

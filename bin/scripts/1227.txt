@@ -1,0 +1,86 @@
+================================================
+      Client Script 1227 Dumped by SiniSoul    
+      Instruction Size: 75
+      Integer Arguments: 4 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, Unref Opcode: 25, Operand: 1549
+Offset: 1, PUSHI , Operand: 1
+Offset: 2, IFLT , Operand: 4
+Offset: 3, Unref Opcode: 25, Operand: 1549
+Offset: 4, PUSHI , Operand: 63
+Offset: 5, IFGT , Operand: 1
+Offset: 6, GOTO , Operand: 7
+Offset: 7, PUSHI , Operand: 1
+Offset: 8, LOADINT , Operand: 1
+Offset: 9, Unref Method: 2003, Operand: 0
+Offset: 10, PUSHI , Operand: 1
+Offset: 11, LOADINT , Operand: 2
+Offset: 12, Unref Method: 2003, Operand: 0
+Offset: 13, RETURN , Operand: 0
+Offset: 14, Unref Opcode: 25, Operand: 1549
+Offset: 15, PUSHI , Operand: 63
+Offset: 16, IFEQ , Operand: 1
+Offset: 17, GOTO , Operand: 7
+Offset: 18, PUSHS , Operand: Final
+Offset: 19, PUSHS , Operand: <br>
+Offset: 20, PUSHS , Operand: Challenge
+Offset: 21, CONCAT , Operand: 3
+Offset: 22, LOADINT , Operand: 2
+Offset: 23, Unref Method: 2112, Operand: 0
+Offset: 24, GOTO , Operand: 6
+Offset: 25, PUSHS , Operand: Wave 
+Offset: 26, Unref Opcode: 25, Operand: 1549
+Offset: 27, integerToString , Operand: 0
+Offset: 28, CONCAT , Operand: 2
+Offset: 29, LOADINT , Operand: 2
+Offset: 30, Unref Method: 2112, Operand: 0
+Offset: 31, PUSHI , Operand: 0
+Offset: 32, LOADINT , Operand: 0
+Offset: 33, Unref Method: 2503, Operand: 0
+Offset: 34, ISUB , Operand: 0
+Offset: 35, STOREINT , Operand: 3
+Offset: 36, PUSHI , Operand: 0
+Offset: 37, LOADINT , Operand: 3
+Offset: 38, PUSHI , Operand: 1
+Offset: 39, PUSHI , Operand: 1
+Offset: 40, LOADINT , Operand: 1
+Offset: 41, Unref Method: 2000, Operand: 0
+Offset: 42, PUSHI , Operand: 0
+Offset: 43, LOADINT , Operand: 3
+Offset: 44, PUSHI , Operand: 1
+Offset: 45, PUSHI , Operand: 1
+Offset: 46, LOADINT , Operand: 2
+Offset: 47, Unref Method: 2000, Operand: 0
+Offset: 48, PUSHI , Operand: 0
+Offset: 49, LOADINT , Operand: 1
+Offset: 50, Unref Method: 2003, Operand: 0
+Offset: 51, PUSHI , Operand: 0
+Offset: 52, LOADINT , Operand: 2
+Offset: 53, Unref Method: 2003, Operand: 0
+Offset: 54, PUSHI , Operand: 1228
+Offset: 55, LOADINT , Operand: 0
+Offset: 56, LOADINT , Operand: 1
+Offset: 57, LOADINT , Operand: 2
+Offset: 58, Unref Method: 3300, Operand: 0
+Offset: 59, PUSHS , Operand: IIIi
+Offset: 60, LOADINT , Operand: 0
+Offset: 61, setInterfaceDefinitionScriptParams8 , Operand: 0
+Offset: 62, PUSHI , Operand: 1
+Offset: 63, PUSHS , Operand: Dismiss
+Offset: 64, LOADINT , Operand: 1
+Offset: 65, Unref Method: 2300, Operand: 0
+Offset: 66, PUSHI , Operand: 1229
+Offset: 67, PUSHI , Operand: -2147483644
+Offset: 68, LOADINT , Operand: 0
+Offset: 69, LOADINT , Operand: 1
+Offset: 70, LOADINT , Operand: 2
+Offset: 71, PUSHS , Operand: iIII
+Offset: 72, LOADINT , Operand: 1
+Offset: 73, setInterfaceDefinitionScriptParams9 , Operand: 0
+Offset: 74, RETURN , Operand: 0

@@ -1,0 +1,105 @@
+================================================
+      Client Script 2 Dumped by SiniSoul    
+      Instruction Size: 73
+      Integer Arguments: 1 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADINT , Operand: 0
+Offset: 1, SWITCH , Operand: 0
+Offset: 2, GOTO , Operand: 64
+Offset: 3, PUSHS , Operand: Rooms
+Offset: 4, PUSHI , Operand: 1
+Offset: 5, RETURN , Operand: 0
+Offset: 6, GOTO , Operand: 63
+Offset: 7, PUSHS , Operand: Skills
+Offset: 8, PUSHI , Operand: 1
+Offset: 9, RETURN , Operand: 0
+Offset: 10, GOTO , Operand: 59
+Offset: 11, PUSHS , Operand: Surfaces
+Offset: 12, PUSHI , Operand: 1
+Offset: 13, RETURN , Operand: 0
+Offset: 14, GOTO , Operand: 55
+Offset: 15, PUSHS , Operand: Storage
+Offset: 16, PUSHI , Operand: 1
+Offset: 17, RETURN , Operand: 0
+Offset: 18, GOTO , Operand: 51
+Offset: 19, PUSHS , Operand: Decorative
+Offset: 20, PUSHI , Operand: 1
+Offset: 21, RETURN , Operand: 0
+Offset: 22, GOTO , Operand: 47
+Offset: 23, PUSHS , Operand: Trophies
+Offset: 24, PUSHI , Operand: 1
+Offset: 25, RETURN , Operand: 0
+Offset: 26, GOTO , Operand: 43
+Offset: 27, PUSHS , Operand: Games & Sport
+Offset: 28, PUSHI , Operand: 1
+Offset: 29, RETURN , Operand: 0
+Offset: 30, GOTO , Operand: 39
+Offset: 31, PUSHS , Operand: Garden
+Offset: 32, PUSHI , Operand: 1
+Offset: 33, RETURN , Operand: 0
+Offset: 34, GOTO , Operand: 35
+Offset: 35, PUSHS , Operand: Dungeon
+Offset: 36, PUSHI , Operand: 1
+Offset: 37, RETURN , Operand: 0
+Offset: 38, GOTO , Operand: 31
+Offset: 39, PUSHS , Operand: Chapel
+Offset: 40, PUSHI , Operand: 1
+Offset: 41, RETURN , Operand: 0
+Offset: 42, GOTO , Operand: 27
+Offset: 43, PUSHS , Operand: Other
+Offset: 44, PUSHI , Operand: 1
+Offset: 45, RETURN , Operand: 0
+Offset: 46, GOTO , Operand: 23
+Offset: 47, PUSHS , Operand: Menagerie
+Offset: 48, PUSHI , Operand: 1
+Offset: 49, RETURN , Operand: 0
+Offset: 50, GOTO , Operand: 19
+Offset: 51, PUSHS , Operand: Servants
+Offset: 52, PUSHI , Operand: 1
+Offset: 53, RETURN , Operand: 0
+Offset: 54, GOTO , Operand: 15
+Offset: 55, PUSHS , Operand: Activities
+Offset: 56, PUSHI , Operand: 1
+Offset: 57, RETURN , Operand: 0
+Offset: 58, GOTO , Operand: 11
+Offset: 59, PUSHS , Operand: Dungeoneering
+Offset: 60, PUSHI , Operand: 1
+Offset: 61, RETURN , Operand: 0
+Offset: 62, GOTO , Operand: 7
+Offset: 63, PUSHS , Operand: Milestones
+Offset: 64, PUSHI , Operand: 1
+Offset: 65, RETURN , Operand: 0
+Offset: 66, GOTO , Operand: 3
+Offset: 67, PUSHS , Operand: 
+Offset: 68, PUSHI , Operand: -1
+Offset: 69, RETURN , Operand: 0
+Offset: 70, PUSHS , Operand: 
+Offset: 71, PUSHI , Operand: 0
+Offset: 72, RETURN , Operand: 0
+
+================================================
+                Switch Table 0                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 5
+Key: 2, Value: 9
+Key: 3, Value: 13
+Key: 4, Value: 17
+Key: 5, Value: 21
+Key: 6, Value: 25
+Key: 7, Value: 29
+Key: 8, Value: 33
+Key: 9, Value: 37
+Key: 10, Value: 41
+Key: 11, Value: 45
+Key: 12, Value: 49
+Key: 13, Value: 53
+Key: 14, Value: 57
+Key: 15, Value: 61

@@ -1,0 +1,32 @@
+================================================
+      Client Script 633 Dumped by SiniSoul    
+      Instruction Size: 21
+      Integer Arguments: 5 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADINT , Operand: 0
+Offset: 1, Unref Method: 2609, Operand: 0
+Offset: 2, LOADINT , Operand: 3
+Offset: 3, IADD , Operand: 0
+Offset: 4, STOREINT , Operand: 4
+Offset: 5, LOADINT , Operand: 4
+Offset: 6, LOADINT , Operand: 0
+Offset: 7, Unref Method: 2103, Operand: 0
+Offset: 8, LOADINT , Operand: 4
+Offset: 9, LOADINT , Operand: 2
+Offset: 10, IFGTEQ , Operand: 1
+Offset: 11, GOTO , Operand: 8
+Offset: 12, PUSHI , Operand: 634
+Offset: 13, LOADINT , Operand: 0
+Offset: 14, LOADINT , Operand: 1
+Offset: 15, LOADINT , Operand: 2
+Offset: 16, LOADINT , Operand: 3
+Offset: 17, PUSHS , Operand: Iiii
+Offset: 18, LOADINT , Operand: 0
+Offset: 19, setInterfaceDefinitionScriptParams8 , Operand: 0
+Offset: 20, RETURN , Operand: 0

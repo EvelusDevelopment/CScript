@@ -1,0 +1,71 @@
+================================================
+      Client Script 2756 Dumped by SiniSoul    
+      Instruction Size: 60
+      Integer Arguments: 0 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, Unref Opcode: 25, Operand: 3756
+Offset: 1, PUSHI , Operand: 16
+Offset: 2, PUSHI , Operand: 1
+Offset: 3, IADD , Operand: 0
+Offset: 4, IFEQ , Operand: 1
+Offset: 5, GOTO , Operand: 6
+Offset: 6, PUSHI , Operand: 48890029
+Offset: 7, PUSHI , Operand: -1
+Offset: 8, PUSHI , Operand: 35913907
+Offset: 9, PUSHI , Operand: -1
+Offset: 10, CALL , Operand: 736
+Offset: 11, GOTO , Operand: 47
+Offset: 12, Unref Opcode: 25, Operand: 3756
+Offset: 13, PUSHI , Operand: 17
+Offset: 14, PUSHI , Operand: 1
+Offset: 15, IADD , Operand: 0
+Offset: 16, IFEQ , Operand: 1
+Offset: 17, GOTO , Operand: 6
+Offset: 18, PUSHI , Operand: 48890025
+Offset: 19, PUSHI , Operand: -1
+Offset: 20, PUSHI , Operand: 35913905
+Offset: 21, PUSHI , Operand: -1
+Offset: 22, CALL , Operand: 736
+Offset: 23, GOTO , Operand: 35
+Offset: 24, Unref Opcode: 25, Operand: 3756
+Offset: 25, PUSHI , Operand: 18
+Offset: 26, PUSHI , Operand: 1
+Offset: 27, IADD , Operand: 0
+Offset: 28, IFEQ , Operand: 1
+Offset: 29, GOTO , Operand: 6
+Offset: 30, PUSHI , Operand: 48890031
+Offset: 31, PUSHI , Operand: -1
+Offset: 32, PUSHI , Operand: 35913901
+Offset: 33, PUSHI , Operand: -1
+Offset: 34, CALL , Operand: 736
+Offset: 35, GOTO , Operand: 23
+Offset: 36, Unref Opcode: 25, Operand: 3756
+Offset: 37, PUSHI , Operand: 19
+Offset: 38, PUSHI , Operand: 1
+Offset: 39, IADD , Operand: 0
+Offset: 40, IFEQ , Operand: 1
+Offset: 41, GOTO , Operand: 6
+Offset: 42, PUSHI , Operand: 48890024
+Offset: 43, PUSHI , Operand: -1
+Offset: 44, PUSHI , Operand: 35913899
+Offset: 45, PUSHI , Operand: -1
+Offset: 46, CALL , Operand: 736
+Offset: 47, GOTO , Operand: 11
+Offset: 48, Unref Opcode: 25, Operand: 3756
+Offset: 49, PUSHI , Operand: 1
+Offset: 50, ISUB , Operand: 0
+Offset: 51, CALL , Operand: 1742
+Offset: 52, PUSHI , Operand: -1
+Offset: 53, Unref Opcode: 25, Operand: 3756
+Offset: 54, PUSHI , Operand: 1
+Offset: 55, ISUB , Operand: 0
+Offset: 56, CALL , Operand: 121
+Offset: 57, PUSHI , Operand: -1
+Offset: 58, CALL , Operand: 736
+Offset: 59, RETURN , Operand: 0

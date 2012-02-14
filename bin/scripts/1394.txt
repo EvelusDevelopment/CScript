@@ -1,0 +1,160 @@
+================================================
+      Client Script 1394 Dumped by SiniSoul    
+      Instruction Size: 149
+      Integer Arguments: 3 
+      String  Arguments: 1 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHS , Operand: 
+Offset: 1, STORESTR , Operand: 0
+Offset: 2, PUSHI , Operand: 0
+Offset: 3, STOREINT , Operand: 0
+Offset: 4, PUSHI , Operand: 0
+Offset: 5, STOREINT , Operand: 1
+Offset: 6, Unref Opcode: 25, Operand: 457
+Offset: 7, PUSHI , Operand: 1
+Offset: 8, IFEQ , Operand: 1
+Offset: 9, GOTO , Operand: 14
+Offset: 10, LOADSTR , Operand: 0
+Offset: 11, PUSHS , Operand: Ahrim
+Offset: 12, PUSHS , Operand: <br>
+Offset: 13, CONCAT , Operand: 2
+Offset: 14, concatStrings , Operand: 0
+Offset: 15, STORESTR , Operand: 0
+Offset: 16, LOADINT , Operand: 0
+Offset: 17, PUSHI , Operand: 1
+Offset: 18, IADD , Operand: 0
+Offset: 19, STOREINT , Operand: 0
+Offset: 20, LOADINT , Operand: 1
+Offset: 21, PUSHI , Operand: 1
+Offset: 22, IADD , Operand: 0
+Offset: 23, STOREINT , Operand: 1
+Offset: 24, Unref Opcode: 25, Operand: 458
+Offset: 25, PUSHI , Operand: 1
+Offset: 26, IFEQ , Operand: 1
+Offset: 27, GOTO , Operand: 14
+Offset: 28, LOADSTR , Operand: 0
+Offset: 29, PUSHS , Operand: Dharok
+Offset: 30, PUSHS , Operand: <br>
+Offset: 31, CONCAT , Operand: 2
+Offset: 32, concatStrings , Operand: 0
+Offset: 33, STORESTR , Operand: 0
+Offset: 34, LOADINT , Operand: 0
+Offset: 35, PUSHI , Operand: 1
+Offset: 36, IADD , Operand: 0
+Offset: 37, STOREINT , Operand: 0
+Offset: 38, LOADINT , Operand: 1
+Offset: 39, PUSHI , Operand: 1
+Offset: 40, IADD , Operand: 0
+Offset: 41, STOREINT , Operand: 1
+Offset: 42, Unref Opcode: 25, Operand: 459
+Offset: 43, PUSHI , Operand: 1
+Offset: 44, IFEQ , Operand: 1
+Offset: 45, GOTO , Operand: 14
+Offset: 46, LOADSTR , Operand: 0
+Offset: 47, PUSHS , Operand: Guthan
+Offset: 48, PUSHS , Operand: <br>
+Offset: 49, CONCAT , Operand: 2
+Offset: 50, concatStrings , Operand: 0
+Offset: 51, STORESTR , Operand: 0
+Offset: 52, LOADINT , Operand: 0
+Offset: 53, PUSHI , Operand: 1
+Offset: 54, IADD , Operand: 0
+Offset: 55, STOREINT , Operand: 0
+Offset: 56, LOADINT , Operand: 1
+Offset: 57, PUSHI , Operand: 1
+Offset: 58, IADD , Operand: 0
+Offset: 59, STOREINT , Operand: 1
+Offset: 60, Unref Opcode: 25, Operand: 460
+Offset: 61, PUSHI , Operand: 1
+Offset: 62, IFEQ , Operand: 1
+Offset: 63, GOTO , Operand: 14
+Offset: 64, LOADSTR , Operand: 0
+Offset: 65, PUSHS , Operand: Karil
+Offset: 66, PUSHS , Operand: <br>
+Offset: 67, CONCAT , Operand: 2
+Offset: 68, concatStrings , Operand: 0
+Offset: 69, STORESTR , Operand: 0
+Offset: 70, LOADINT , Operand: 0
+Offset: 71, PUSHI , Operand: 1
+Offset: 72, IADD , Operand: 0
+Offset: 73, STOREINT , Operand: 0
+Offset: 74, LOADINT , Operand: 1
+Offset: 75, PUSHI , Operand: 1
+Offset: 76, IADD , Operand: 0
+Offset: 77, STOREINT , Operand: 1
+Offset: 78, Unref Opcode: 25, Operand: 461
+Offset: 79, PUSHI , Operand: 1
+Offset: 80, IFEQ , Operand: 1
+Offset: 81, GOTO , Operand: 14
+Offset: 82, LOADSTR , Operand: 0
+Offset: 83, PUSHS , Operand: Torag
+Offset: 84, PUSHS , Operand: <br>
+Offset: 85, CONCAT , Operand: 2
+Offset: 86, concatStrings , Operand: 0
+Offset: 87, STORESTR , Operand: 0
+Offset: 88, LOADINT , Operand: 0
+Offset: 89, PUSHI , Operand: 1
+Offset: 90, IADD , Operand: 0
+Offset: 91, STOREINT , Operand: 0
+Offset: 92, LOADINT , Operand: 1
+Offset: 93, PUSHI , Operand: 1
+Offset: 94, IADD , Operand: 0
+Offset: 95, STOREINT , Operand: 1
+Offset: 96, Unref Opcode: 25, Operand: 462
+Offset: 97, PUSHI , Operand: 1
+Offset: 98, IFEQ , Operand: 1
+Offset: 99, GOTO , Operand: 14
+Offset: 100, LOADSTR , Operand: 0
+Offset: 101, PUSHS , Operand: Verac
+Offset: 102, PUSHS , Operand: <br>
+Offset: 103, CONCAT , Operand: 2
+Offset: 104, concatStrings , Operand: 0
+Offset: 105, STORESTR , Operand: 0
+Offset: 106, LOADINT , Operand: 0
+Offset: 107, PUSHI , Operand: 1
+Offset: 108, IADD , Operand: 0
+Offset: 109, STOREINT , Operand: 0
+Offset: 110, LOADINT , Operand: 1
+Offset: 111, PUSHI , Operand: 1
+Offset: 112, IADD , Operand: 0
+Offset: 113, STOREINT , Operand: 1
+Offset: 114, LOADSTR , Operand: 0
+Offset: 115, PUSHS , Operand: 
+Offset: 116, Unref Method: 4107, Operand: 0
+Offset: 117, PUSHI , Operand: 0
+Offset: 118, IFEQ , Operand: 1
+Offset: 119, GOTO , Operand: 4
+Offset: 120, PUSHS , Operand: None
+Offset: 121, STORESTR , Operand: 0
+Offset: 122, PUSHI , Operand: 1
+Offset: 123, STOREINT , Operand: 0
+Offset: 124, PUSHI , Operand: 52
+Offset: 125, LOADINT , Operand: 0
+Offset: 126, PUSHI , Operand: 12
+Offset: 127, IMUL , Operand: 0
+Offset: 128, IADD , Operand: 0
+Offset: 129, STOREINT , Operand: 2
+Offset: 130, PUSHI , Operand: 1572865
+Offset: 131, Unref Method: 2502, Operand: 0
+Offset: 132, LOADINT , Operand: 2
+Offset: 133, PUSHI , Operand: 0
+Offset: 134, PUSHI , Operand: 0
+Offset: 135, PUSHI , Operand: 1572865
+Offset: 136, Unref Method: 2001, Operand: 0
+Offset: 137, LOADSTR , Operand: 0
+Offset: 138, PUSHI , Operand: 1572867
+Offset: 139, Unref Method: 2112, Operand: 0
+Offset: 140, PUSHI , Operand: 0
+Offset: 141, Unref Opcode: 25, Operand: 464
+Offset: 142, LOADINT , Operand: 1
+Offset: 143, ISUB , Operand: 0
+Offset: 144, Unref Method: 4017, Operand: 0
+Offset: 145, integerToString , Operand: 0
+Offset: 146, PUSHI , Operand: 1572870
+Offset: 147, Unref Method: 2112, Operand: 0
+Offset: 148, RETURN , Operand: 0

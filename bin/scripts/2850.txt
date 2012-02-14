@@ -1,0 +1,94 @@
+================================================
+      Client Script 2850 Dumped by SiniSoul    
+      Instruction Size: 83
+      Integer Arguments: 0 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHI , Operand: 500
+Offset: 1, STOREGINT , Operand: 1069
+Offset: 2, Unref Method: 3308, Operand: 0
+Offset: 3, PUSHI , Operand: 0
+Offset: 4, PUSHI , Operand: 0
+Offset: 5, PUSHI , Operand: -8
+Offset: 6, Unref Method: 3336, Operand: 0
+Offset: 7, STOREGINT , Operand: 1070
+Offset: 8, PUSHI , Operand: 0
+Offset: 9, STOREGINT , Operand: 1071
+Offset: 10, Unref Method: 3308, Operand: 0
+Offset: 11, STOREGINT , Operand: 1072
+Offset: 12, PUSHI , Operand: 450
+Offset: 13, STOREGINT , Operand: 1073
+Offset: 14, PUSHI , Operand: 0
+Offset: 15, STOREGINT , Operand: 1074
+Offset: 16, PUSHI , Operand: 25
+Offset: 17, STOREGINT , Operand: 1282
+Offset: 18, LOADGINT , Operand: 1070
+Offset: 19, LOADGINT , Operand: 1069
+Offset: 20, PUSHI , Operand: 10
+Offset: 21, PUSHI , Operand: 3
+Offset: 22, Unref Method: 5500, Operand: 0
+Offset: 23, LOADGINT , Operand: 1070
+Offset: 24, LOADGINT , Operand: 1071
+Offset: 25, CALL , Operand: 2865
+Offset: 26, LOADGINT , Operand: 1073
+Offset: 27, PUSHI , Operand: 10
+Offset: 28, PUSHI , Operand: 3
+Offset: 29, Unref Method: 5501, Operand: 0
+Offset: 30, PUSHI , Operand: 0
+Offset: 31, STOREGINT , Operand: 1075
+Offset: 32, PUSHI , Operand: 0
+Offset: 33, STOREGINT , Operand: 1076
+Offset: 34, PUSHI , Operand: 2851
+Offset: 35, PUSHI , Operand: -2147483645
+Offset: 36, PUSHI , Operand: -2147483640
+Offset: 37, PUSHI , Operand: 0
+Offset: 38, PUSHS , Operand: Iii
+Offset: 39, PUSHI , Operand: 31129601
+Offset: 40, setInterfaceDefinitionScriptParams19 , Operand: 0
+Offset: 41, PUSHI , Operand: 0
+Offset: 42, PUSHI , Operand: 31129654
+Offset: 43, Unref Method: 2003, Operand: 0
+Offset: 44, PUSHI , Operand: 0
+Offset: 45, PUSHI , Operand: 31129607
+Offset: 46, Unref Method: 2003, Operand: 0
+Offset: 47, PUSHI , Operand: 0
+Offset: 48, PUSHI , Operand: 31129658
+Offset: 49, Unref Method: 2003, Operand: 0
+Offset: 50, PUSHI , Operand: 1
+Offset: 51, PUSHI , Operand: 31129633
+Offset: 52, Unref Method: 2003, Operand: 0
+Offset: 53, PUSHI , Operand: 1232
+Offset: 54, PUSHI , Operand: 31129628
+Offset: 55, Unref Method: 2105, Operand: 0
+Offset: 56, PUSHS , Operand: You are now in Aim Mode
+Offset: 57, PUSHI , Operand: 31129629
+Offset: 58, Unref Method: 2112, Operand: 0
+Offset: 59, PUSHI , Operand: 2853
+Offset: 60, PUSHI , Operand: 31129601
+Offset: 61, Unref Method: 3300, Operand: 0
+Offset: 62, PUSHS , Operand: Ii
+Offset: 63, PUSHI , Operand: 31129601
+Offset: 64, setInterfaceDefinitionScriptParams8 , Operand: 0
+Offset: 65, PUSHI , Operand: 2852
+Offset: 66, PUSHI , Operand: 31129607
+Offset: 67, PUSHS , Operand: I
+Offset: 68, PUSHI , Operand: 31129607
+Offset: 69, setInterfaceDefinitionScriptParams8 , Operand: 0
+Offset: 70, PUSHI , Operand: 0
+Offset: 71, PUSHI , Operand: 31129602
+Offset: 72, Unref Method: 2003, Operand: 0
+Offset: 73, PUSHI , Operand: 2870
+Offset: 74, PUSHI , Operand: -2147483645
+Offset: 75, Unref Method: 3300, Operand: 0
+Offset: 76, PUSHI , Operand: 150
+Offset: 77, IADD , Operand: 0
+Offset: 78, PUSHS , Operand: Ii
+Offset: 79, PUSHI , Operand: 31129602
+Offset: 80, setInterfaceDefinitionScriptParams8 , Operand: 0
+Offset: 81, CALL , Operand: 3455
+Offset: 82, RETURN , Operand: 0

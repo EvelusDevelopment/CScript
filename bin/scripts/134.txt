@@ -1,0 +1,70 @@
+================================================
+      Client Script 134 Dumped by SiniSoul    
+      Instruction Size: 59
+      Integer Arguments: 0 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, Unref Method: 3324, Operand: 0
+Offset: 1, PUSHI , Operand: 5
+Offset: 2, IFEQ , Operand: 4
+Offset: 3, Unref Method: 3324, Operand: 0
+Offset: 4, PUSHI , Operand: 6
+Offset: 5, IFEQ , Operand: 1
+Offset: 6, GOTO , Operand: 10
+Offset: 7, PUSHS , Operand: Suggest to mute this player for 48 hours
+Offset: 8, PUSHI , Operand: 38928467
+Offset: 9, Unref Method: 2112, Operand: 0
+Offset: 10, PUSHS , Operand: Suggest to mute this player for 48 hours
+Offset: 11, PUSHI , Operand: 38928394
+Offset: 12, Unref Method: 2112, Operand: 0
+Offset: 13, PUSHS , Operand: Suggest to mute this player for 48 hours
+Offset: 14, PUSHI , Operand: 38928444
+Offset: 15, Unref Method: 2112, Operand: 0
+Offset: 16, GOTO , Operand: 9
+Offset: 17, PUSHS , Operand: Mute this player for 48 hours
+Offset: 18, PUSHI , Operand: 38928467
+Offset: 19, Unref Method: 2112, Operand: 0
+Offset: 20, PUSHS , Operand: Mute this player for 48 hours
+Offset: 21, PUSHI , Operand: 38928394
+Offset: 22, Unref Method: 2112, Operand: 0
+Offset: 23, PUSHS , Operand: Mute this player for 48 hours
+Offset: 24, PUSHI , Operand: 38928444
+Offset: 25, Unref Method: 2112, Operand: 0
+Offset: 26, LOADGINT , Operand: 6
+Offset: 27, PUSHI , Operand: 1
+Offset: 28, IFEQ , Operand: 1
+Offset: 29, GOTO , Operand: 3
+Offset: 30, PUSHI , Operand: 0
+Offset: 31, STOREGINT , Operand: 6
+Offset: 32, GOTO , Operand: 2
+Offset: 33, PUSHI , Operand: 1
+Offset: 34, STOREGINT , Operand: 6
+Offset: 35, LOADGINT , Operand: 6
+Offset: 36, PUSHI , Operand: 0
+Offset: 37, IFEQ , Operand: 1
+Offset: 38, GOTO , Operand: 10
+Offset: 39, PUSHI , Operand: 1768
+Offset: 40, PUSHI , Operand: 38928466
+Offset: 41, Unref Method: 2105, Operand: 0
+Offset: 42, PUSHI , Operand: 1768
+Offset: 43, PUSHI , Operand: 38928393
+Offset: 44, Unref Method: 2105, Operand: 0
+Offset: 45, PUSHI , Operand: 1768
+Offset: 46, PUSHI , Operand: 38928443
+Offset: 47, Unref Method: 2105, Operand: 0
+Offset: 48, GOTO , Operand: 9
+Offset: 49, PUSHI , Operand: 1770
+Offset: 50, PUSHI , Operand: 38928466
+Offset: 51, Unref Method: 2105, Operand: 0
+Offset: 52, PUSHI , Operand: 1770
+Offset: 53, PUSHI , Operand: 38928393
+Offset: 54, Unref Method: 2105, Operand: 0
+Offset: 55, PUSHI , Operand: 1770
+Offset: 56, PUSHI , Operand: 38928443
+Offset: 57, Unref Method: 2105, Operand: 0
+Offset: 58, RETURN , Operand: 0

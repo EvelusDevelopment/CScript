@@ -1,0 +1,78 @@
+================================================
+      Client Script 88 Dumped by SiniSoul    
+      Instruction Size: 58
+      Integer Arguments: 2 
+      String  Arguments: 1 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADSTR , Operand: 0
+Offset: 1, discludeTagsInString , Operand: 0
+Offset: 2, STORESTR , Operand: 0
+Offset: 3, LOADINT , Operand: 0
+Offset: 4, SWITCH , Operand: 0
+Offset: 5, GOTO , Operand: 51
+Offset: 6, CALL , Operand: 2047
+Offset: 7, PUSHI , Operand: 1
+Offset: 8, IFEQ , Operand: 1
+Offset: 9, GOTO , Operand: 3
+Offset: 10, PUSHS , Operand: You cannot add any friends whilst in demo mode.
+Offset: 11, Unref Method: 3100, Operand: 0
+Offset: 12, RETURN , Operand: 0
+Offset: 13, CALL , Operand: 2709
+Offset: 14, PUSHI , Operand: 0
+Offset: 15, IFEQ , Operand: 1
+Offset: 16, GOTO , Operand: 3
+Offset: 17, PUSHS , Operand: You cannot add a friend until you have entered your date of birth
+Offset: 18, Unref Method: 3100, Operand: 0
+Offset: 19, RETURN , Operand: 0
+Offset: 20, LOADSTR , Operand: 0
+Offset: 21, Unref Method: 3609, Operand: 0
+Offset: 22, PUSHI , Operand: 1
+Offset: 23, IFEQ , Operand: 1
+Offset: 24, GOTO , Operand: 11
+Offset: 25, Unref Method: 3329, Operand: 0
+Offset: 26, PUSHI , Operand: 0
+Offset: 27, IFEQ , Operand: 1
+Offset: 28, GOTO , Operand: 6
+Offset: 29, Unref Method: 6900, Operand: 0
+Offset: 30, PUSHI , Operand: 0
+Offset: 31, IFEQ , Operand: 1
+Offset: 32, GOTO , Operand: 2
+Offset: 33, LOADSTR , Operand: 0
+Offset: 34, CALL , Operand: 107
+Offset: 35, GOTO , Operand: 2
+Offset: 36, LOADSTR , Operand: 0
+Offset: 37, Unref Method: 3605, Operand: 0
+Offset: 38, GOTO , Operand: 18
+Offset: 39, CALL , Operand: 2047
+Offset: 40, PUSHI , Operand: 1
+Offset: 41, IFEQ , Operand: 1
+Offset: 42, GOTO , Operand: 3
+Offset: 43, PUSHS , Operand: You cannot ignore anyone whilst in demo mode.
+Offset: 44, Unref Method: 3100, Operand: 0
+Offset: 45, RETURN , Operand: 0
+Offset: 46, LOADSTR , Operand: 0
+Offset: 47, Unref Method: 3607, Operand: 0
+Offset: 48, GOTO , Operand: 8
+Offset: 49, PUSHI , Operand: 5
+Offset: 50, LOADSTR , Operand: 0
+Offset: 51, LOADINT , Operand: 1
+Offset: 52, Unref Method: 5012, Operand: 0
+Offset: 53, CALL , Operand: 1052
+Offset: 54, GOTO , Operand: 2
+Offset: 55, LOADSTR , Operand: 0
+Offset: 56, STOREGSTR , Operand: 24
+Offset: 57, RETURN , Operand: 0
+
+================================================
+                Switch Table 0                
+================================================
+
+Key: 8, Value: 34
+Key: 9, Value: 44
+Key: 10, Value: 50
+Key: 7, Value: 1

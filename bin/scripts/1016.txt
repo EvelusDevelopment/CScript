@@ -1,0 +1,1073 @@
+================================================
+      Client Script 1016 Dumped by SiniSoul    
+      Instruction Size: 935
+      Integer Arguments: 2 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADINT , Operand: 0
+Offset: 1, SWITCH , Operand: 0
+Offset: 2, GOTO , Operand: 927
+Offset: 3, LOADINT , Operand: 1
+Offset: 4, SWITCH , Operand: 1
+Offset: 5, GOTO , Operand: 207
+Offset: 6, PUSHI , Operand: 1
+Offset: 7, PUSHI , Operand: 1436
+Offset: 8, PUSHS , Operand: Rune essence
+Offset: 9, PUSHS , Operand: <br>
+Offset: 10, PUSHS , Operand:  (after Rune Mysteries)
+Offset: 11, CONCAT , Operand: 3
+Offset: 12, PUSHS , Operand: You now have the Mining level required to mine 
+Offset: 13, PUSHS , Operand: <col=000080>
+Offset: 14, PUSHS , Operand: rune essence
+Offset: 15, PUSHS , Operand: </col>
+Offset: 16, PUSHS , Operand:  (after Rune Mysteries).
+Offset: 17, CONCAT , Operand: 5
+Offset: 18, RETURN , Operand: 0
+Offset: 19, GOTO , Operand: 193
+Offset: 20, PUSHI , Operand: 1
+Offset: 21, PUSHI , Operand: 434
+Offset: 22, PUSHS , Operand: Clay
+Offset: 23, PUSHS , Operand: You can now mine 
+Offset: 24, PUSHS , Operand: <col=000080>
+Offset: 25, PUSHS , Operand: clay
+Offset: 26, PUSHS , Operand: </col>
+Offset: 27, PUSHS , Operand: .
+Offset: 28, CONCAT , Operand: 5
+Offset: 29, RETURN , Operand: 0
+Offset: 30, GOTO , Operand: 182
+Offset: 31, PUSHI , Operand: 1
+Offset: 32, PUSHI , Operand: 436
+Offset: 33, PUSHS , Operand: Copper ore
+Offset: 34, PUSHS , Operand: You can now mine 
+Offset: 35, PUSHS , Operand: <col=000080>
+Offset: 36, PUSHS , Operand: copper ore
+Offset: 37, PUSHS , Operand: </col>
+Offset: 38, PUSHS , Operand: .
+Offset: 39, CONCAT , Operand: 5
+Offset: 40, RETURN , Operand: 0
+Offset: 41, GOTO , Operand: 171
+Offset: 42, PUSHI , Operand: 1
+Offset: 43, PUSHI , Operand: 438
+Offset: 44, PUSHS , Operand: Tin ore
+Offset: 45, PUSHS , Operand: You can now mine 
+Offset: 46, PUSHS , Operand: <col=000080>
+Offset: 47, PUSHS , Operand: tin ore
+Offset: 48, PUSHS , Operand: </col>
+Offset: 49, PUSHS , Operand: .
+Offset: 50, CONCAT , Operand: 5
+Offset: 51, RETURN , Operand: 0
+Offset: 52, GOTO , Operand: 160
+Offset: 53, PUSHI , Operand: 10
+Offset: 54, PUSHI , Operand: 3211
+Offset: 55, PUSHS , Operand: Members: Limestone
+Offset: 56, PUSHS , Operand: Members can now mine 
+Offset: 57, PUSHS , Operand: <col=000080>
+Offset: 58, PUSHS , Operand: limestone
+Offset: 59, PUSHS , Operand: </col>
+Offset: 60, PUSHS , Operand: .
+Offset: 61, CONCAT , Operand: 5
+Offset: 62, RETURN , Operand: 0
+Offset: 63, GOTO , Operand: 149
+Offset: 64, PUSHI , Operand: 10
+Offset: 65, PUSHI , Operand: 668
+Offset: 66, PUSHS , Operand: Blurite ore
+Offset: 67, PUSHS , Operand: You can now mine 
+Offset: 68, PUSHS , Operand: <col=000080>
+Offset: 69, PUSHS , Operand: blurite ore
+Offset: 70, PUSHS , Operand: </col>
+Offset: 71, PUSHS , Operand: .
+Offset: 72, CONCAT , Operand: 5
+Offset: 73, RETURN , Operand: 0
+Offset: 74, GOTO , Operand: 138
+Offset: 75, PUSHI , Operand: 15
+Offset: 76, PUSHI , Operand: 440
+Offset: 77, PUSHS , Operand: Iron ore
+Offset: 78, PUSHS , Operand: You can now mine 
+Offset: 79, PUSHS , Operand: <col=000080>
+Offset: 80, PUSHS , Operand: iron ore
+Offset: 81, PUSHS , Operand: </col>
+Offset: 82, PUSHS , Operand: .
+Offset: 83, CONCAT , Operand: 5
+Offset: 84, RETURN , Operand: 0
+Offset: 85, GOTO , Operand: 127
+Offset: 86, PUSHI , Operand: 20
+Offset: 87, PUSHI , Operand: 2892
+Offset: 88, PUSHS , Operand: Members: Elemental ore
+Offset: 89, PUSHS , Operand: <br>
+Offset: 90, PUSHS , Operand:  (after starting Elemental Workshop)
+Offset: 91, CONCAT , Operand: 3
+Offset: 92, PUSHS , Operand: Members now have the Mining level required to mine 
+Offset: 93, PUSHS , Operand: <col=000080>
+Offset: 94, PUSHS , Operand: elemental ore
+Offset: 95, PUSHS , Operand: </col>
+Offset: 96, PUSHS , Operand:  (after starting Elemental Workshop).
+Offset: 97, CONCAT , Operand: 5
+Offset: 98, RETURN , Operand: 0
+Offset: 99, GOTO , Operand: 113
+Offset: 100, PUSHI , Operand: 20
+Offset: 101, PUSHI , Operand: 442
+Offset: 102, PUSHS , Operand: Silver ore
+Offset: 103, PUSHS , Operand: You can now mine 
+Offset: 104, PUSHS , Operand: <col=000080>
+Offset: 105, PUSHS , Operand: silver ore
+Offset: 106, PUSHS , Operand: </col>
+Offset: 107, PUSHS , Operand: .
+Offset: 108, CONCAT , Operand: 5
+Offset: 109, RETURN , Operand: 0
+Offset: 110, GOTO , Operand: 102
+Offset: 111, PUSHI , Operand: 30
+Offset: 112, PUSHI , Operand: 453
+Offset: 113, PUSHS , Operand: Coal
+Offset: 114, PUSHS , Operand: You can now mine 
+Offset: 115, PUSHS , Operand: <col=000080>
+Offset: 116, PUSHS , Operand: coal
+Offset: 117, PUSHS , Operand: </col>
+Offset: 118, PUSHS , Operand: .
+Offset: 119, CONCAT , Operand: 5
+Offset: 120, RETURN , Operand: 0
+Offset: 121, GOTO , Operand: 91
+Offset: 122, PUSHI , Operand: 30
+Offset: 123, PUSHI , Operand: 7936
+Offset: 124, PUSHS , Operand: Members: Pure essence
+Offset: 125, PUSHS , Operand: <br>
+Offset: 126, PUSHS , Operand:  (after Rune Mysteries)
+Offset: 127, CONCAT , Operand: 3
+Offset: 128, PUSHS , Operand: Members now have the Mining level required to mine 
+Offset: 129, PUSHS , Operand: <col=000080>
+Offset: 130, PUSHS , Operand: pure essence
+Offset: 131, PUSHS , Operand: </col>
+Offset: 132, PUSHS , Operand:  (after Rune Mysteries).
+Offset: 133, CONCAT , Operand: 5
+Offset: 134, RETURN , Operand: 0
+Offset: 135, GOTO , Operand: 77
+Offset: 136, PUSHI , Operand: 35
+Offset: 137, PUSHI , Operand: 6977
+Offset: 138, PUSHS , Operand: Members: Sandstone
+Offset: 139, PUSHS , Operand: Members can now mine 
+Offset: 140, PUSHS , Operand: <col=000080>
+Offset: 141, PUSHS , Operand: sandstone
+Offset: 142, PUSHS , Operand: </col>
+Offset: 143, PUSHS , Operand: .
+Offset: 144, CONCAT , Operand: 5
+Offset: 145, RETURN , Operand: 0
+Offset: 146, GOTO , Operand: 66
+Offset: 147, PUSHI , Operand: 40
+Offset: 148, PUSHI , Operand: 444
+Offset: 149, PUSHS , Operand: Gold
+Offset: 150, PUSHS , Operand: You can now mine 
+Offset: 151, PUSHS , Operand: <col=000080>
+Offset: 152, PUSHS , Operand: gold
+Offset: 153, PUSHS , Operand: </col>
+Offset: 154, PUSHS , Operand: .
+Offset: 155, CONCAT , Operand: 5
+Offset: 156, RETURN , Operand: 0
+Offset: 157, GOTO , Operand: 55
+Offset: 158, PUSHI , Operand: 45
+Offset: 159, PUSHI , Operand: 6983
+Offset: 160, PUSHS , Operand: Members: Granite
+Offset: 161, PUSHS , Operand: Members can now mine 
+Offset: 162, PUSHS , Operand: <col=000080>
+Offset: 163, PUSHS , Operand: granite.
+Offset: 164, CONCAT , Operand: 3
+Offset: 165, RETURN , Operand: 0
+Offset: 166, GOTO , Operand: 46
+Offset: 167, PUSHI , Operand: 46
+Offset: 168, PUSHI , Operand: 12630
+Offset: 169, PUSHS , Operand: Members: Rubium ore
+Offset: 170, PUSHS , Operand: <br>
+Offset: 171, PUSHS , Operand:  (after Kennith's Concerns)
+Offset: 172, CONCAT , Operand: 3
+Offset: 173, PUSHS , Operand: Members can now mine 
+Offset: 174, PUSHS , Operand: <col=000080>
+Offset: 175, PUSHS , Operand: rubium ore
+Offset: 176, PUSHS , Operand: </col>
+Offset: 177, PUSHS , Operand:  (after Kennith's Concerns).
+Offset: 178, CONCAT , Operand: 5
+Offset: 179, RETURN , Operand: 0
+Offset: 180, GOTO , Operand: 32
+Offset: 181, PUSHI , Operand: 55
+Offset: 182, PUSHI , Operand: 447
+Offset: 183, PUSHS , Operand: Mithril ore
+Offset: 184, PUSHS , Operand: You can now mine 
+Offset: 185, PUSHS , Operand: <col=000080>
+Offset: 186, PUSHS , Operand: mithril ore
+Offset: 187, PUSHS , Operand: </col>
+Offset: 188, PUSHS , Operand: .
+Offset: 189, CONCAT , Operand: 5
+Offset: 190, RETURN , Operand: 0
+Offset: 191, GOTO , Operand: 21
+Offset: 192, PUSHI , Operand: 70
+Offset: 193, PUSHI , Operand: 449
+Offset: 194, PUSHS , Operand: Adamantite ore
+Offset: 195, PUSHS , Operand: You can now mine 
+Offset: 196, PUSHS , Operand: <col=000080>
+Offset: 197, PUSHS , Operand: adamantite ore
+Offset: 198, PUSHS , Operand: </col>
+Offset: 199, PUSHS , Operand: .
+Offset: 200, CONCAT , Operand: 5
+Offset: 201, RETURN , Operand: 0
+Offset: 202, GOTO , Operand: 10
+Offset: 203, PUSHI , Operand: 85
+Offset: 204, PUSHI , Operand: 451
+Offset: 205, PUSHS , Operand: Runite ore
+Offset: 206, PUSHS , Operand: You can now mine 
+Offset: 207, PUSHS , Operand: <col=000080>
+Offset: 208, PUSHS , Operand: runite ore
+Offset: 209, PUSHS , Operand: </col>
+Offset: 210, PUSHS , Operand: .
+Offset: 211, CONCAT , Operand: 5
+Offset: 212, RETURN , Operand: 0
+Offset: 213, GOTO , Operand: 716
+Offset: 214, LOADINT , Operand: 1
+Offset: 215, SWITCH , Operand: 2
+Offset: 216, GOTO , Operand: 126
+Offset: 217, PUSHI , Operand: 1
+Offset: 218, PUSHI , Operand: 1265
+Offset: 219, PUSHS , Operand: Bronze pickaxe
+Offset: 220, PUSHS , Operand: You can now use 
+Offset: 221, PUSHS , Operand: <col=000080>
+Offset: 222, PUSHS , Operand: bronze pickaxes
+Offset: 223, PUSHS , Operand: </col>
+Offset: 224, PUSHS , Operand: .
+Offset: 225, CONCAT , Operand: 5
+Offset: 226, RETURN , Operand: 0
+Offset: 227, GOTO , Operand: 115
+Offset: 228, PUSHI , Operand: 1
+Offset: 229, PUSHI , Operand: 1267
+Offset: 230, PUSHS , Operand: Iron pickaxe
+Offset: 231, PUSHS , Operand: You can now use 
+Offset: 232, PUSHS , Operand: <col=000080>
+Offset: 233, PUSHS , Operand: iron pickaxes
+Offset: 234, PUSHS , Operand: </col>
+Offset: 235, PUSHS , Operand: .
+Offset: 236, CONCAT , Operand: 5
+Offset: 237, RETURN , Operand: 0
+Offset: 238, GOTO , Operand: 104
+Offset: 239, PUSHI , Operand: 6
+Offset: 240, PUSHI , Operand: 1269
+Offset: 241, PUSHS , Operand: Steel pickaxe
+Offset: 242, PUSHS , Operand: You can now use 
+Offset: 243, PUSHS , Operand: <col=000080>
+Offset: 244, PUSHS , Operand: steel pickaxes
+Offset: 245, PUSHS , Operand: </col>
+Offset: 246, PUSHS , Operand: .
+Offset: 247, CONCAT , Operand: 5
+Offset: 248, RETURN , Operand: 0
+Offset: 249, GOTO , Operand: 93
+Offset: 250, PUSHI , Operand: 21
+Offset: 251, PUSHI , Operand: 1273
+Offset: 252, PUSHS , Operand: Mithril pickaxe
+Offset: 253, PUSHS , Operand: You can now use 
+Offset: 254, PUSHS , Operand: <col=000080>
+Offset: 255, PUSHS , Operand: mithril pickaxes
+Offset: 256, PUSHS , Operand: </col>
+Offset: 257, PUSHS , Operand: .
+Offset: 258, CONCAT , Operand: 5
+Offset: 259, RETURN , Operand: 0
+Offset: 260, GOTO , Operand: 82
+Offset: 261, PUSHI , Operand: 31
+Offset: 262, PUSHI , Operand: 1271
+Offset: 263, PUSHS , Operand: Adamant pickaxe
+Offset: 264, PUSHS , Operand: You can now use 
+Offset: 265, PUSHS , Operand: <col=000080>
+Offset: 266, PUSHS , Operand: adamant pickaxes
+Offset: 267, PUSHS , Operand: </col>
+Offset: 268, PUSHS , Operand: .
+Offset: 269, CONCAT , Operand: 5
+Offset: 270, RETURN , Operand: 0
+Offset: 271, GOTO , Operand: 71
+Offset: 272, PUSHI , Operand: 35
+Offset: 273, PUSHI , Operand: 18339
+Offset: 274, PUSHS , Operand: Coal bag
+Offset: 275, PUSHS , Operand: <br>
+Offset: 276, PUSHS , Operand:  (with 35 Dungeoneering)
+Offset: 277, CONCAT , Operand: 3
+Offset: 278, PUSHS , Operand: You can now use 
+Offset: 279, PUSHS , Operand: <col=000080>
+Offset: 280, PUSHS , Operand: coal bags
+Offset: 281, PUSHS , Operand: </col>
+Offset: 282, PUSHS , Operand: . (You also need level 35 Dungeoneering.)
+Offset: 283, CONCAT , Operand: 5
+Offset: 284, RETURN , Operand: 0
+Offset: 285, GOTO , Operand: 57
+Offset: 286, PUSHI , Operand: 40
+Offset: 287, PUSHI , Operand: 14107
+Offset: 288, PUSHS , Operand: Members: Sacred clay pickaxe
+Offset: 289, PUSHS , Operand: Members can now use 
+Offset: 290, PUSHS , Operand: <col=000080>
+Offset: 291, PUSHS , Operand: sacred clay pickaxes
+Offset: 292, PUSHS , Operand: </col>
+Offset: 293, PUSHS , Operand: .
+Offset: 294, CONCAT , Operand: 5
+Offset: 295, RETURN , Operand: 0
+Offset: 296, GOTO , Operand: 46
+Offset: 297, PUSHI , Operand: 40
+Offset: 298, PUSHI , Operand: 14099
+Offset: 299, PUSHS , Operand: Members: Volatile pickaxe
+Offset: 300, PUSHS , Operand: Members can now use 
+Offset: 301, PUSHS , Operand: <col=000080>
+Offset: 302, PUSHS , Operand: volatile pickaxes
+Offset: 303, PUSHS , Operand: </col>
+Offset: 304, PUSHS , Operand: .
+Offset: 305, CONCAT , Operand: 5
+Offset: 306, RETURN , Operand: 0
+Offset: 307, GOTO , Operand: 35
+Offset: 308, PUSHI , Operand: 41
+Offset: 309, PUSHI , Operand: 1275
+Offset: 310, PUSHS , Operand: Rune pickaxe
+Offset: 311, PUSHS , Operand: You can now use 
+Offset: 312, PUSHS , Operand: <col=000080>
+Offset: 313, PUSHS , Operand: rune pickaxes
+Offset: 314, PUSHS , Operand: </col>
+Offset: 315, PUSHS , Operand: .
+Offset: 316, CONCAT , Operand: 5
+Offset: 317, RETURN , Operand: 0
+Offset: 318, GOTO , Operand: 24
+Offset: 319, PUSHI , Operand: 41
+Offset: 320, PUSHI , Operand: 13661
+Offset: 321, PUSHS , Operand: Members: Inferno Adze
+Offset: 322, PUSHS , Operand: <br>
+Offset: 323, PUSHS , Operand:  (after All Fired Up, with 92 Firemaking)
+Offset: 324, CONCAT , Operand: 3
+Offset: 325, PUSHS , Operand: Members can now use the 
+Offset: 326, PUSHS , Operand: <col=000080>
+Offset: 327, PUSHS , Operand: Inferno Adze
+Offset: 328, PUSHS , Operand: </col>
+Offset: 329, PUSHS , Operand:  to mine with (after All Fired Up and with level 92 Firemaking).
+Offset: 330, CONCAT , Operand: 5
+Offset: 331, RETURN , Operand: 0
+Offset: 332, GOTO , Operand: 10
+Offset: 333, PUSHI , Operand: 61
+Offset: 334, PUSHI , Operand: 15259
+Offset: 335, PUSHS , Operand: Members: Dragon pickaxe
+Offset: 336, PUSHS , Operand: Members can now use 
+Offset: 337, PUSHS , Operand: <col=000080>
+Offset: 338, PUSHS , Operand: dragon pickaxes
+Offset: 339, PUSHS , Operand: </col>
+Offset: 340, PUSHS , Operand: .
+Offset: 341, CONCAT , Operand: 5
+Offset: 342, RETURN , Operand: 0
+Offset: 343, GOTO , Operand: 586
+Offset: 344, LOADINT , Operand: 1
+Offset: 345, SWITCH , Operand: 3
+Offset: 346, GOTO , Operand: 104
+Offset: 347, PUSHI , Operand: 40
+Offset: 348, PUSHI , Operand: 1603
+Offset: 349, PUSHS , Operand: Members: Gem rocks
+Offset: 350, PUSHS , Operand: <br>
+Offset: 351, PUSHS , Operand:  (after Shilo Village)
+Offset: 352, CONCAT , Operand: 3
+Offset: 353, PUSHS , Operand: Members now have the Mining level required to mine 
+Offset: 354, PUSHS , Operand: <col=000080>
+Offset: 355, PUSHS , Operand: gem rocks
+Offset: 356, PUSHS , Operand: </col>
+Offset: 357, PUSHS , Operand:  (after Shilo Village).
+Offset: 358, CONCAT , Operand: 5
+Offset: 359, RETURN , Operand: 0
+Offset: 360, GOTO , Operand: 90
+Offset: 361, PUSHI , Operand: 41
+Offset: 362, PUSHI , Operand: 13245
+Offset: 363, PUSHS , Operand: Members: Stone slab
+Offset: 364, PUSHS , Operand: <br>
+Offset: 365, PUSHS , Operand:  (with rune pickaxe, after starting TokTz-Ket-Dill)
+Offset: 366, CONCAT , Operand: 3
+Offset: 367, PUSHS , Operand: Members now have the Mining level required to mine 
+Offset: 368, PUSHS , Operand: <col=000080>
+Offset: 369, PUSHS , Operand: stone slabs
+Offset: 370, PUSHS , Operand: </col>
+Offset: 371, PUSHS , Operand:  with rune pickaxes (after starting TokTz-Ket-Dill).
+Offset: 372, CONCAT , Operand: 5
+Offset: 373, RETURN , Operand: 0
+Offset: 374, GOTO , Operand: 76
+Offset: 375, PUSHI , Operand: 73
+Offset: 376, PUSHI , Operand: 15263
+Offset: 377, PUSHS , Operand: Members: Living rock remains
+Offset: 378, PUSHS , Operand: Members now have the Mining level required to mine 
+Offset: 379, PUSHS , Operand: <col=000080>
+Offset: 380, PUSHS , Operand: living rock remains
+Offset: 381, PUSHS , Operand: </col>
+Offset: 382, PUSHS , Operand: .
+Offset: 383, CONCAT , Operand: 5
+Offset: 384, RETURN , Operand: 0
+Offset: 385, GOTO , Operand: 65
+Offset: 386, PUSHI , Operand: 77
+Offset: 387, PUSHI , Operand: 453
+Offset: 388, PUSHS , Operand: Members: Concentrated coal deposits
+Offset: 389, PUSHS , Operand: Members now have the Mining level required to mine 
+Offset: 390, PUSHS , Operand: <col=000080>
+Offset: 391, PUSHS , Operand: concentrated coal deposits
+Offset: 392, PUSHS , Operand: </col>
+Offset: 393, PUSHS , Operand: .
+Offset: 394, CONCAT , Operand: 5
+Offset: 395, RETURN , Operand: 0
+Offset: 396, GOTO , Operand: 54
+Offset: 397, PUSHI , Operand: 80
+Offset: 398, PUSHI , Operand: 444
+Offset: 399, PUSHS , Operand: Members: Concentrated gold deposits
+Offset: 400, PUSHS , Operand: Members now have the Mining level required to mine 
+Offset: 401, PUSHS , Operand: <col=000080>
+Offset: 402, PUSHS , Operand: concentrated gold deposits
+Offset: 403, PUSHS , Operand: </col>
+Offset: 404, PUSHS , Operand: .
+Offset: 405, CONCAT , Operand: 5
+Offset: 406, RETURN , Operand: 0
+Offset: 407, GOTO , Operand: 43
+Offset: 408, PUSHI , Operand: 91
+Offset: 409, PUSHI , Operand: 18778
+Offset: 410, PUSHS , Operand: Members: Starved ancient effigies
+Offset: 411, PUSHS , Operand: Members can now investigate 
+Offset: 412, PUSHS , Operand: <col=000080>
+Offset: 413, PUSHS , Operand: starved ancient effigies
+Offset: 414, PUSHS , Operand: </col>
+Offset: 415, PUSHS , Operand:  using their knowledge of Mining.
+Offset: 416, CONCAT , Operand: 5
+Offset: 417, RETURN , Operand: 0
+Offset: 418, GOTO , Operand: 32
+Offset: 419, PUSHI , Operand: 93
+Offset: 420, PUSHI , Operand: 18779
+Offset: 421, PUSHS , Operand: Members: Nourished ancient effigies
+Offset: 422, PUSHS , Operand: Members can now investigate 
+Offset: 423, PUSHS , Operand: <col=000080>
+Offset: 424, PUSHS , Operand: nourished ancient effigies
+Offset: 425, PUSHS , Operand: </col>
+Offset: 426, PUSHS , Operand:  using their knowledge of Mining.
+Offset: 427, CONCAT , Operand: 5
+Offset: 428, RETURN , Operand: 0
+Offset: 429, GOTO , Operand: 21
+Offset: 430, PUSHI , Operand: 95
+Offset: 431, PUSHI , Operand: 18780
+Offset: 432, PUSHS , Operand: Members: Sated ancient effigies
+Offset: 433, PUSHS , Operand: Members can now investigate 
+Offset: 434, PUSHS , Operand: <col=000080>
+Offset: 435, PUSHS , Operand: sated ancient effigies
+Offset: 436, PUSHS , Operand: </col>
+Offset: 437, PUSHS , Operand:  using their knowledge of Mining.
+Offset: 438, CONCAT , Operand: 5
+Offset: 439, RETURN , Operand: 0
+Offset: 440, GOTO , Operand: 10
+Offset: 441, PUSHI , Operand: 97
+Offset: 442, PUSHI , Operand: 18781
+Offset: 443, PUSHS , Operand: Members: Gorged ancient effigies
+Offset: 444, PUSHS , Operand: Members can now investigate 
+Offset: 445, PUSHS , Operand: <col=000080>
+Offset: 446, PUSHS , Operand: gorged ancient effigies
+Offset: 447, PUSHS , Operand: </col>
+Offset: 448, PUSHS , Operand:  using their knowledge of Mining.
+Offset: 449, CONCAT , Operand: 5
+Offset: 450, RETURN , Operand: 0
+Offset: 451, GOTO , Operand: 478
+Offset: 452, LOADINT , Operand: 1
+Offset: 453, SWITCH , Operand: 4
+Offset: 454, GOTO , Operand: 98
+Offset: 455, PUSHI , Operand: 10
+Offset: 456, PUSHI , Operand: 13727
+Offset: 457, PUSHS , Operand: Members: Size-1 stars
+Offset: 458, PUSHS , Operand: Members can now mine size-1 
+Offset: 459, PUSHS , Operand: <col=000080>
+Offset: 460, PUSHS , Operand: crashed stars
+Offset: 461, PUSHS , Operand: </col>
+Offset: 462, PUSHS , Operand: .
+Offset: 463, CONCAT , Operand: 5
+Offset: 464, RETURN , Operand: 0
+Offset: 465, GOTO , Operand: 87
+Offset: 466, PUSHI , Operand: 20
+Offset: 467, PUSHI , Operand: 13727
+Offset: 468, PUSHS , Operand: Members: Size-2 stars
+Offset: 469, PUSHS , Operand: Members can now mine size-2 
+Offset: 470, PUSHS , Operand: <col=000080>
+Offset: 471, PUSHS , Operand: crashed stars
+Offset: 472, PUSHS , Operand: </col>
+Offset: 473, PUSHS , Operand: .
+Offset: 474, CONCAT , Operand: 5
+Offset: 475, RETURN , Operand: 0
+Offset: 476, GOTO , Operand: 76
+Offset: 477, PUSHI , Operand: 30
+Offset: 478, PUSHI , Operand: 13727
+Offset: 479, PUSHS , Operand: Members: Size-3 stars
+Offset: 480, PUSHS , Operand: Members can now mine size-3 
+Offset: 481, PUSHS , Operand: <col=000080>
+Offset: 482, PUSHS , Operand: crashed stars
+Offset: 483, PUSHS , Operand: </col>
+Offset: 484, PUSHS , Operand: .
+Offset: 485, CONCAT , Operand: 5
+Offset: 486, RETURN , Operand: 0
+Offset: 487, GOTO , Operand: 65
+Offset: 488, PUSHI , Operand: 40
+Offset: 489, PUSHI , Operand: 13727
+Offset: 490, PUSHS , Operand: Members: Size-4 stars
+Offset: 491, PUSHS , Operand: Members can now mine size-4 
+Offset: 492, PUSHS , Operand: <col=000080>
+Offset: 493, PUSHS , Operand: crashed stars
+Offset: 494, PUSHS , Operand: </col>
+Offset: 495, PUSHS , Operand: .
+Offset: 496, CONCAT , Operand: 5
+Offset: 497, RETURN , Operand: 0
+Offset: 498, GOTO , Operand: 54
+Offset: 499, PUSHI , Operand: 50
+Offset: 500, PUSHI , Operand: 13727
+Offset: 501, PUSHS , Operand: Members: Size-5 stars
+Offset: 502, PUSHS , Operand: Members can now mine size-5 
+Offset: 503, PUSHS , Operand: <col=000080>
+Offset: 504, PUSHS , Operand: crashed stars
+Offset: 505, PUSHS , Operand: </col>
+Offset: 506, PUSHS , Operand: .
+Offset: 507, CONCAT , Operand: 5
+Offset: 508, RETURN , Operand: 0
+Offset: 509, GOTO , Operand: 43
+Offset: 510, PUSHI , Operand: 60
+Offset: 511, PUSHI , Operand: 13727
+Offset: 512, PUSHS , Operand: Members: Size-6 stars
+Offset: 513, PUSHS , Operand: Members can now mine size-6 
+Offset: 514, PUSHS , Operand: <col=000080>
+Offset: 515, PUSHS , Operand: crashed stars
+Offset: 516, PUSHS , Operand: </col>
+Offset: 517, PUSHS , Operand: .
+Offset: 518, CONCAT , Operand: 5
+Offset: 519, RETURN , Operand: 0
+Offset: 520, GOTO , Operand: 32
+Offset: 521, PUSHI , Operand: 70
+Offset: 522, PUSHI , Operand: 13727
+Offset: 523, PUSHS , Operand: Members: Size-7 stars
+Offset: 524, PUSHS , Operand: Members can now mine size-7 
+Offset: 525, PUSHS , Operand: <col=000080>
+Offset: 526, PUSHS , Operand: crashed stars
+Offset: 527, PUSHS , Operand: </col>
+Offset: 528, PUSHS , Operand: .
+Offset: 529, CONCAT , Operand: 5
+Offset: 530, RETURN , Operand: 0
+Offset: 531, GOTO , Operand: 21
+Offset: 532, PUSHI , Operand: 80
+Offset: 533, PUSHI , Operand: 13727
+Offset: 534, PUSHS , Operand: Members: Size-8 stars
+Offset: 535, PUSHS , Operand: Members can now mine size-8 
+Offset: 536, PUSHS , Operand: <col=000080>
+Offset: 537, PUSHS , Operand: crashed stars
+Offset: 538, PUSHS , Operand: </col>
+Offset: 539, PUSHS , Operand: .
+Offset: 540, CONCAT , Operand: 5
+Offset: 541, RETURN , Operand: 0
+Offset: 542, GOTO , Operand: 10
+Offset: 543, PUSHI , Operand: 90
+Offset: 544, PUSHI , Operand: 13727
+Offset: 545, PUSHS , Operand: Members: Size-9 stars
+Offset: 546, PUSHS , Operand: Members can now mine size-9 
+Offset: 547, PUSHS , Operand: <col=000080>
+Offset: 548, PUSHS , Operand: crashed stars
+Offset: 549, PUSHS , Operand: </col>
+Offset: 550, PUSHS , Operand: .
+Offset: 551, CONCAT , Operand: 5
+Offset: 552, RETURN , Operand: 0
+Offset: 553, GOTO , Operand: 376
+Offset: 554, LOADINT , Operand: 1
+Offset: 555, SWITCH , Operand: 5
+Offset: 556, GOTO , Operand: 98
+Offset: 557, PUSHI , Operand: 1
+Offset: 558, PUSHI , Operand: 14122
+Offset: 559, PUSHS , Operand: Members: Stealing Creation - class 1 pickaxe
+Offset: 560, PUSHS , Operand: Members can now use 
+Offset: 561, PUSHS , Operand: <col=000080>
+Offset: 562, PUSHS , Operand: class 1 pickaxes
+Offset: 563, PUSHS , Operand: </col>
+Offset: 564, PUSHS , Operand:  in Stealing Creation.
+Offset: 565, CONCAT , Operand: 5
+Offset: 566, RETURN , Operand: 0
+Offset: 567, GOTO , Operand: 87
+Offset: 568, PUSHI , Operand: 20
+Offset: 569, PUSHI , Operand: 14184
+Offset: 570, PUSHS , Operand: Members: Stealing Creation - mine class 2 sacred clay
+Offset: 571, PUSHS , Operand: Members can now mine 
+Offset: 572, PUSHS , Operand: <col=000080>
+Offset: 573, PUSHS , Operand: class 2 sacred clay
+Offset: 574, PUSHS , Operand: </col>
+Offset: 575, PUSHS , Operand:  in Stealing Creation.
+Offset: 576, CONCAT , Operand: 5
+Offset: 577, RETURN , Operand: 0
+Offset: 578, GOTO , Operand: 76
+Offset: 579, PUSHI , Operand: 20
+Offset: 580, PUSHI , Operand: 14124
+Offset: 581, PUSHS , Operand: Members: Stealing Creation - class 2 pickaxe
+Offset: 582, PUSHS , Operand: Members can now use 
+Offset: 583, PUSHS , Operand: <col=000080>
+Offset: 584, PUSHS , Operand: class 2 pickaxes
+Offset: 585, PUSHS , Operand: </col>
+Offset: 586, PUSHS , Operand:  in Stealing Creation.
+Offset: 587, CONCAT , Operand: 5
+Offset: 588, RETURN , Operand: 0
+Offset: 589, GOTO , Operand: 65
+Offset: 590, PUSHI , Operand: 40
+Offset: 591, PUSHI , Operand: 14186
+Offset: 592, PUSHS , Operand: Members: Stealing Creation - mine class 3 sacred clay
+Offset: 593, PUSHS , Operand: Members can now mine 
+Offset: 594, PUSHS , Operand: <col=000080>
+Offset: 595, PUSHS , Operand: class 3 sacred clay
+Offset: 596, PUSHS , Operand: </col>
+Offset: 597, PUSHS , Operand:  in Stealing Creation.
+Offset: 598, CONCAT , Operand: 5
+Offset: 599, RETURN , Operand: 0
+Offset: 600, GOTO , Operand: 54
+Offset: 601, PUSHI , Operand: 40
+Offset: 602, PUSHI , Operand: 14126
+Offset: 603, PUSHS , Operand: Members: Stealing Creation - class 3 pickaxe
+Offset: 604, PUSHS , Operand: Members can now use 
+Offset: 605, PUSHS , Operand: <col=000080>
+Offset: 606, PUSHS , Operand: class 3 pickaxes
+Offset: 607, PUSHS , Operand: </col>
+Offset: 608, PUSHS , Operand:  in Stealing Creation.
+Offset: 609, CONCAT , Operand: 5
+Offset: 610, RETURN , Operand: 0
+Offset: 611, GOTO , Operand: 43
+Offset: 612, PUSHI , Operand: 60
+Offset: 613, PUSHI , Operand: 14188
+Offset: 614, PUSHS , Operand: Members: Stealing Creation - mine class 4 sacred clay
+Offset: 615, PUSHS , Operand: Members can now mine 
+Offset: 616, PUSHS , Operand: <col=000080>
+Offset: 617, PUSHS , Operand: class 4 sacred clay
+Offset: 618, PUSHS , Operand: </col>
+Offset: 619, PUSHS , Operand:  in Stealing Creation.
+Offset: 620, CONCAT , Operand: 5
+Offset: 621, RETURN , Operand: 0
+Offset: 622, GOTO , Operand: 32
+Offset: 623, PUSHI , Operand: 60
+Offset: 624, PUSHI , Operand: 14128
+Offset: 625, PUSHS , Operand: Members: Stealing Creation - class 4 pickaxe
+Offset: 626, PUSHS , Operand: Members can now use 
+Offset: 627, PUSHS , Operand: <col=000080>
+Offset: 628, PUSHS , Operand: class 4 pickaxes
+Offset: 629, PUSHS , Operand: </col>
+Offset: 630, PUSHS , Operand:  in Stealing Creation.
+Offset: 631, CONCAT , Operand: 5
+Offset: 632, RETURN , Operand: 0
+Offset: 633, GOTO , Operand: 21
+Offset: 634, PUSHI , Operand: 80
+Offset: 635, PUSHI , Operand: 14190
+Offset: 636, PUSHS , Operand: Members: Stealing Creation - mine class 5 sacred clay
+Offset: 637, PUSHS , Operand: Members can now mine 
+Offset: 638, PUSHS , Operand: <col=000080>
+Offset: 639, PUSHS , Operand: class 5 sacred clay
+Offset: 640, PUSHS , Operand: </col>
+Offset: 641, PUSHS , Operand:  in Stealing Creation.
+Offset: 642, CONCAT , Operand: 5
+Offset: 643, RETURN , Operand: 0
+Offset: 644, GOTO , Operand: 10
+Offset: 645, PUSHI , Operand: 80
+Offset: 646, PUSHI , Operand: 14130
+Offset: 647, PUSHS , Operand: Members: Stealing Creation - class 5 pickaxe
+Offset: 648, PUSHS , Operand: Members can now use 
+Offset: 649, PUSHS , Operand: <col=000080>
+Offset: 650, PUSHS , Operand: class 5 pickaxes
+Offset: 651, PUSHS , Operand: </col>
+Offset: 652, PUSHS , Operand:  in Stealing Creation.
+Offset: 653, CONCAT , Operand: 5
+Offset: 654, RETURN , Operand: 0
+Offset: 655, GOTO , Operand: 274
+Offset: 656, LOADINT , Operand: 1
+Offset: 657, SWITCH , Operand: 6
+Offset: 658, GOTO , Operand: 237
+Offset: 659, PUSHI , Operand: -1
+Offset: 660, PUSHI , Operand: 15707
+Offset: 661, PUSHS , Operand: Dungeoneering skill tasks
+Offset: 662, PUSHS , Operand: <br>
+Offset: 663, PUSHS , Operand: As your Mining level increases, you will be able to attempt higher-level mining tasks within Daemonheim. You will also be more likely to succeed when attempting mining tasks within Daemonheim.
+Offset: 664, CONCAT , Operand: 3
+Offset: 665, PUSHS , Operand: 
+Offset: 666, RETURN , Operand: 0
+Offset: 667, GOTO , Operand: 228
+Offset: 668, PUSHI , Operand: 1
+Offset: 669, PUSHI , Operand: 17630
+Offset: 670, PUSHS , Operand: Novite ore (Tier 1)
+Offset: 671, PUSHS , Operand: You can now mine 
+Offset: 672, PUSHS , Operand: <col=000080>
+Offset: 673, PUSHS , Operand: novite ore
+Offset: 674, PUSHS , Operand: </col>
+Offset: 675, PUSHS , Operand:  within Daemonheim.
+Offset: 676, CONCAT , Operand: 5
+Offset: 677, RETURN , Operand: 0
+Offset: 678, GOTO , Operand: 217
+Offset: 679, PUSHI , Operand: 1
+Offset: 680, PUSHI , Operand: 16295
+Offset: 681, PUSHS , Operand: Novite pickaxe (Tier 1)
+Offset: 682, PUSHS , Operand: You can now use 
+Offset: 683, PUSHS , Operand: <col=000080>
+Offset: 684, PUSHS , Operand: novite pickaxes
+Offset: 685, PUSHS , Operand: </col>
+Offset: 686, PUSHS , Operand:  within Daemonheim.
+Offset: 687, CONCAT , Operand: 5
+Offset: 688, RETURN , Operand: 0
+Offset: 689, GOTO , Operand: 206
+Offset: 690, PUSHI , Operand: 10
+Offset: 691, PUSHI , Operand: 17632
+Offset: 692, PUSHS , Operand: Bathus ore (Tier 2)
+Offset: 693, PUSHS , Operand: You can now mine 
+Offset: 694, PUSHS , Operand: <col=000080>
+Offset: 695, PUSHS , Operand: bathus ore
+Offset: 696, PUSHS , Operand: </col>
+Offset: 697, PUSHS , Operand:  within Daemonheim.
+Offset: 698, CONCAT , Operand: 5
+Offset: 699, RETURN , Operand: 0
+Offset: 700, GOTO , Operand: 195
+Offset: 701, PUSHI , Operand: 10
+Offset: 702, PUSHI , Operand: 16297
+Offset: 703, PUSHS , Operand: Bathus pickaxe (Tier 2)
+Offset: 704, PUSHS , Operand: You can now use 
+Offset: 705, PUSHS , Operand: <col=000080>
+Offset: 706, PUSHS , Operand: bathus pickaxes
+Offset: 707, PUSHS , Operand: </col>
+Offset: 708, PUSHS , Operand:  within Daemonheim.
+Offset: 709, CONCAT , Operand: 5
+Offset: 710, RETURN , Operand: 0
+Offset: 711, GOTO , Operand: 184
+Offset: 712, PUSHI , Operand: 20
+Offset: 713, PUSHI , Operand: 17634
+Offset: 714, PUSHS , Operand: Marmaros ore (Tier 3)
+Offset: 715, PUSHS , Operand: You can now mine 
+Offset: 716, PUSHS , Operand: <col=000080>
+Offset: 717, PUSHS , Operand: marmaros ore
+Offset: 718, PUSHS , Operand: </col>
+Offset: 719, PUSHS , Operand:  within Daemonheim.
+Offset: 720, CONCAT , Operand: 5
+Offset: 721, RETURN , Operand: 0
+Offset: 722, GOTO , Operand: 173
+Offset: 723, PUSHI , Operand: 20
+Offset: 724, PUSHI , Operand: 16299
+Offset: 725, PUSHS , Operand: Marmaros pickaxe (Tier 3)
+Offset: 726, PUSHS , Operand: You can now use 
+Offset: 727, PUSHS , Operand: <col=000080>
+Offset: 728, PUSHS , Operand: marmaros pickaxes
+Offset: 729, PUSHS , Operand: </col>
+Offset: 730, PUSHS , Operand:  within Daemonheim.
+Offset: 731, CONCAT , Operand: 5
+Offset: 732, RETURN , Operand: 0
+Offset: 733, GOTO , Operand: 162
+Offset: 734, PUSHI , Operand: 30
+Offset: 735, PUSHI , Operand: 17636
+Offset: 736, PUSHS , Operand: Kratonium ore (Tier 4)
+Offset: 737, PUSHS , Operand: You can now mine 
+Offset: 738, PUSHS , Operand: <col=000080>
+Offset: 739, PUSHS , Operand: kratonite ore
+Offset: 740, PUSHS , Operand: </col>
+Offset: 741, PUSHS , Operand:  within Daemonheim.
+Offset: 742, CONCAT , Operand: 5
+Offset: 743, RETURN , Operand: 0
+Offset: 744, GOTO , Operand: 151
+Offset: 745, PUSHI , Operand: 30
+Offset: 746, PUSHI , Operand: 16301
+Offset: 747, PUSHS , Operand: Kratonite pickaxe (Tier 4)
+Offset: 748, PUSHS , Operand: You can now use 
+Offset: 749, PUSHS , Operand: <col=000080>
+Offset: 750, PUSHS , Operand: kratonite pickaxes
+Offset: 751, PUSHS , Operand: </col>
+Offset: 752, PUSHS , Operand:  within Daemonheim.
+Offset: 753, CONCAT , Operand: 5
+Offset: 754, RETURN , Operand: 0
+Offset: 755, GOTO , Operand: 140
+Offset: 756, PUSHI , Operand: 40
+Offset: 757, PUSHI , Operand: 17638
+Offset: 758, PUSHS , Operand: Fractite ore (Tier 5)
+Offset: 759, PUSHS , Operand: You can now mine 
+Offset: 760, PUSHS , Operand: <col=000080>
+Offset: 761, PUSHS , Operand: fractite ore
+Offset: 762, PUSHS , Operand: </col>
+Offset: 763, PUSHS , Operand:  within Daemonheim.
+Offset: 764, CONCAT , Operand: 5
+Offset: 765, RETURN , Operand: 0
+Offset: 766, GOTO , Operand: 129
+Offset: 767, PUSHI , Operand: 40
+Offset: 768, PUSHI , Operand: 16303
+Offset: 769, PUSHS , Operand: Fractite pickaxe (Tier 5)
+Offset: 770, PUSHS , Operand: You can now use 
+Offset: 771, PUSHS , Operand: <col=000080>
+Offset: 772, PUSHS , Operand: fractite pickaxes
+Offset: 773, PUSHS , Operand: </col>
+Offset: 774, PUSHS , Operand:  within Daemonheim.
+Offset: 775, CONCAT , Operand: 5
+Offset: 776, RETURN , Operand: 0
+Offset: 777, GOTO , Operand: 118
+Offset: 778, PUSHI , Operand: 50
+Offset: 779, PUSHI , Operand: 17640
+Offset: 780, PUSHS , Operand: Members: Zephyrium ore (Tier 6)
+Offset: 781, PUSHS , Operand: Members can now mine 
+Offset: 782, PUSHS , Operand: <col=000080>
+Offset: 783, PUSHS , Operand: zephyrium ore
+Offset: 784, PUSHS , Operand: </col>
+Offset: 785, PUSHS , Operand:  within Daemonheim.
+Offset: 786, CONCAT , Operand: 5
+Offset: 787, RETURN , Operand: 0
+Offset: 788, GOTO , Operand: 107
+Offset: 789, PUSHI , Operand: 50
+Offset: 790, PUSHI , Operand: 16305
+Offset: 791, PUSHS , Operand: Members: Zephyrium pickaxe (Tier 6)
+Offset: 792, PUSHS , Operand: Members can now use 
+Offset: 793, PUSHS , Operand: <col=000080>
+Offset: 794, PUSHS , Operand: zephyrium pickaxes
+Offset: 795, PUSHS , Operand: </col>
+Offset: 796, PUSHS , Operand:  within Daemonheim.
+Offset: 797, CONCAT , Operand: 5
+Offset: 798, RETURN , Operand: 0
+Offset: 799, GOTO , Operand: 96
+Offset: 800, PUSHI , Operand: 60
+Offset: 801, PUSHI , Operand: 17642
+Offset: 802, PUSHS , Operand: Members: Argonite ore (Tier 7)
+Offset: 803, PUSHS , Operand: Members can now mine 
+Offset: 804, PUSHS , Operand: <col=000080>
+Offset: 805, PUSHS , Operand: argonite ore
+Offset: 806, PUSHS , Operand: </col>
+Offset: 807, PUSHS , Operand:  within Daemonheim.
+Offset: 808, CONCAT , Operand: 5
+Offset: 809, RETURN , Operand: 0
+Offset: 810, GOTO , Operand: 85
+Offset: 811, PUSHI , Operand: 60
+Offset: 812, PUSHI , Operand: 16307
+Offset: 813, PUSHS , Operand: Members: Argonite pickaxe (Tier 7)
+Offset: 814, PUSHS , Operand: Members can now use 
+Offset: 815, PUSHS , Operand: <col=000080>
+Offset: 816, PUSHS , Operand: argonite pickaxes
+Offset: 817, PUSHS , Operand: </col>
+Offset: 818, PUSHS , Operand:  within Daemonheim.
+Offset: 819, CONCAT , Operand: 5
+Offset: 820, RETURN , Operand: 0
+Offset: 821, GOTO , Operand: 74
+Offset: 822, PUSHI , Operand: 70
+Offset: 823, PUSHI , Operand: 17644
+Offset: 824, PUSHS , Operand: Members: Katagon ore (Tier 8)
+Offset: 825, PUSHS , Operand: Members can now mine 
+Offset: 826, PUSHS , Operand: <col=000080>
+Offset: 827, PUSHS , Operand: katagon ore
+Offset: 828, PUSHS , Operand: </col>
+Offset: 829, PUSHS , Operand:  within Daemonheim.
+Offset: 830, CONCAT , Operand: 5
+Offset: 831, RETURN , Operand: 0
+Offset: 832, GOTO , Operand: 63
+Offset: 833, PUSHI , Operand: 70
+Offset: 834, PUSHI , Operand: 16309
+Offset: 835, PUSHS , Operand: Members: Katagon pickaxe (Tier 8)
+Offset: 836, PUSHS , Operand: Members can now use 
+Offset: 837, PUSHS , Operand: <col=000080>
+Offset: 838, PUSHS , Operand: katagon pickaxes
+Offset: 839, PUSHS , Operand: </col>
+Offset: 840, PUSHS , Operand:  within Daemonheim.
+Offset: 841, CONCAT , Operand: 5
+Offset: 842, RETURN , Operand: 0
+Offset: 843, GOTO , Operand: 52
+Offset: 844, PUSHI , Operand: 80
+Offset: 845, PUSHI , Operand: 17646
+Offset: 846, PUSHS , Operand: Members: Gorgonite ore (Tier 9)
+Offset: 847, PUSHS , Operand: Members can now mine 
+Offset: 848, PUSHS , Operand: <col=000080>
+Offset: 849, PUSHS , Operand: gorgonite ore
+Offset: 850, PUSHS , Operand: </col>
+Offset: 851, PUSHS , Operand:  within Daemonheim.
+Offset: 852, CONCAT , Operand: 5
+Offset: 853, RETURN , Operand: 0
+Offset: 854, GOTO , Operand: 41
+Offset: 855, PUSHI , Operand: 80
+Offset: 856, PUSHI , Operand: 16311
+Offset: 857, PUSHS , Operand: Members: Gorgonite pickaxe (Tier 9)
+Offset: 858, PUSHS , Operand: Members can now use 
+Offset: 859, PUSHS , Operand: <col=000080>
+Offset: 860, PUSHS , Operand: gorgonite pickaxes
+Offset: 861, PUSHS , Operand: </col>
+Offset: 862, PUSHS , Operand:  within Daemonheim.
+Offset: 863, CONCAT , Operand: 5
+Offset: 864, RETURN , Operand: 0
+Offset: 865, GOTO , Operand: 30
+Offset: 866, PUSHI , Operand: 90
+Offset: 867, PUSHI , Operand: 17648
+Offset: 868, PUSHS , Operand: Members: Promethium ore (Tier 10)
+Offset: 869, PUSHS , Operand: Members can now mine 
+Offset: 870, PUSHS , Operand: <col=000080>
+Offset: 871, PUSHS , Operand: promethium ore
+Offset: 872, PUSHS , Operand: </col>
+Offset: 873, PUSHS , Operand:  within Daemonheim.
+Offset: 874, CONCAT , Operand: 5
+Offset: 875, RETURN , Operand: 0
+Offset: 876, GOTO , Operand: 19
+Offset: 877, PUSHI , Operand: 90
+Offset: 878, PUSHI , Operand: 16313
+Offset: 879, PUSHS , Operand: Members: Promethium pickaxe (Tier 10)
+Offset: 880, PUSHS , Operand: Members can now use 
+Offset: 881, PUSHS , Operand: <col=000080>
+Offset: 882, PUSHS , Operand: promethium pickaxes
+Offset: 883, PUSHS , Operand: </col>
+Offset: 884, PUSHS , Operand:  within Daemonheim.
+Offset: 885, CONCAT , Operand: 5
+Offset: 886, RETURN , Operand: 0
+Offset: 887, GOTO , Operand: 8
+Offset: 888, PUSHI , Operand: 99
+Offset: 889, PUSHI , Operand: 16315
+Offset: 890, PUSHS , Operand: Members: Primal pickaxe (Tier 11)
+Offset: 891, PUSHS , Operand: Members can now use primal pickaxes
+Offset: 892, PUSHS , Operand: </col>
+Offset: 893, PUSHS , Operand:  within Daemonheim.
+Offset: 894, CONCAT , Operand: 3
+Offset: 895, RETURN , Operand: 0
+Offset: 896, GOTO , Operand: 33
+Offset: 897, LOADINT , Operand: 1
+Offset: 898, SWITCH , Operand: 7
+Offset: 899, GOTO , Operand: 30
+Offset: 900, PUSHI , Operand: 60
+Offset: 901, PUSHI , Operand: 447
+Offset: 902, PUSHS , Operand: Mining Guild
+Offset: 903, PUSHS , Operand: You can now enter the world-famous 
+Offset: 904, PUSHS , Operand: <col=000080>
+Offset: 905, PUSHS , Operand: Mining Guild
+Offset: 906, PUSHS , Operand: </col>
+Offset: 907, PUSHS , Operand: .
+Offset: 908, CONCAT , Operand: 5
+Offset: 909, RETURN , Operand: 0
+Offset: 910, GOTO , Operand: 19
+Offset: 911, PUSHI , Operand: 99
+Offset: 912, PUSHI , Operand: 9792
+Offset: 913, PUSHS , Operand: Skill mastery
+Offset: 914, PUSHS , Operand: <col=000080>
+Offset: 915, PUSHS , Operand: Congratulations! You are now a master miner. Members can visit the 
+Offset: 916, PUSHS , Operand: <col=800000>
+Offset: 917, PUSHS , Operand: dwarf
+Offset: 918, PUSHS , Operand: <col=000080>
+Offset: 919, PUSHS , Operand:  who guards the entrance to the 
+Offset: 920, PUSHS , Operand: <col=800000>
+Offset: 921, PUSHS , Operand: Mining Guild
+Offset: 922, PUSHS , Operand: <col=000080>
+Offset: 923, PUSHS , Operand: . He has something special that is only available to true masters of the 
+Offset: 924, PUSHS , Operand: <col=800000>
+Offset: 925, PUSHS , Operand: Mining
+Offset: 926, PUSHS , Operand: <col=000080>
+Offset: 927, PUSHS , Operand:  skill!
+Offset: 928, CONCAT , Operand: 14
+Offset: 929, RETURN , Operand: 0
+Offset: 930, PUSHI , Operand: 0
+Offset: 931, PUSHI , Operand: -1
+Offset: 932, PUSHS , Operand: 
+Offset: 933, PUSHS , Operand: 
+Offset: 934, RETURN , Operand: 0
+
+================================================
+                Switch Table 0                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 212
+Key: 2, Value: 342
+Key: 3, Value: 450
+Key: 4, Value: 552
+Key: 5, Value: 654
+Key: 6, Value: 895
+
+================================================
+                Switch Table 1                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 15
+Key: 2, Value: 26
+Key: 3, Value: 37
+Key: 4, Value: 48
+Key: 5, Value: 59
+Key: 6, Value: 70
+Key: 7, Value: 81
+Key: 8, Value: 95
+Key: 9, Value: 106
+Key: 10, Value: 117
+Key: 11, Value: 131
+Key: 12, Value: 142
+Key: 13, Value: 153
+Key: 14, Value: 162
+Key: 15, Value: 176
+Key: 17, Value: 198
+Key: 16, Value: 187
+
+================================================
+                Switch Table 2                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 12
+Key: 2, Value: 23
+Key: 3, Value: 34
+Key: 4, Value: 45
+Key: 5, Value: 56
+Key: 6, Value: 70
+Key: 7, Value: 81
+Key: 8, Value: 92
+Key: 9, Value: 103
+Key: 10, Value: 117
+
+================================================
+                Switch Table 3                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 15
+Key: 2, Value: 29
+Key: 3, Value: 40
+Key: 4, Value: 51
+Key: 5, Value: 62
+Key: 6, Value: 73
+Key: 7, Value: 84
+Key: 8, Value: 95
+
+================================================
+                Switch Table 4                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 12
+Key: 2, Value: 23
+Key: 3, Value: 34
+Key: 4, Value: 45
+Key: 5, Value: 56
+Key: 6, Value: 67
+Key: 7, Value: 78
+Key: 8, Value: 89
+
+================================================
+                Switch Table 5                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 12
+Key: 2, Value: 23
+Key: 3, Value: 34
+Key: 4, Value: 45
+Key: 5, Value: 56
+Key: 6, Value: 67
+Key: 7, Value: 78
+Key: 8, Value: 89
+
+================================================
+                Switch Table 6                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 10
+Key: 2, Value: 21
+Key: 3, Value: 32
+Key: 4, Value: 43
+Key: 5, Value: 54
+Key: 6, Value: 65
+Key: 7, Value: 76
+Key: 8, Value: 87
+Key: 9, Value: 98
+Key: 10, Value: 109
+Key: 11, Value: 120
+Key: 12, Value: 131
+Key: 13, Value: 142
+Key: 14, Value: 153
+Key: 15, Value: 164
+Key: 17, Value: 186
+Key: 16, Value: 175
+Key: 19, Value: 208
+Key: 18, Value: 197
+Key: 21, Value: 230
+Key: 20, Value: 219
+
+================================================
+                Switch Table 7                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 12

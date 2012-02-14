@@ -1,0 +1,43 @@
+================================================
+      Client Script 1807 Dumped by SiniSoul    
+      Instruction Size: 32
+      Integer Arguments: 3 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADGINT , Operand: 266
+Offset: 1, CALL , Operand: 42
+Offset: 2, PUSHI , Operand: 0
+Offset: 3, IFEQ , Operand: 1
+Offset: 4, GOTO , Operand: 6
+Offset: 5, PUSHS , Operand: 
+Offset: 6, STOREGSTR , Operand: 38
+Offset: 7, PUSHS , Operand: 
+Offset: 8, STOREGSTR , Operand: 39
+Offset: 9, PUSHI , Operand: 1
+Offset: 10, STOREGINT , Operand: 266
+Offset: 11, LOADINT , Operand: 0
+Offset: 12, LOADINT , Operand: 1
+Offset: 13, LOADINT , Operand: 2
+Offset: 14, CALL , Operand: 1809
+Offset: 15, PUSHI , Operand: 1808
+Offset: 16, LOADINT , Operand: 0
+Offset: 17, LOADINT , Operand: 1
+Offset: 18, LOADINT , Operand: 2
+Offset: 19, PUSHI , Operand: 38
+Offset: 20, PUSHI , Operand: 1
+Offset: 21, PUSHS , Operand: IIIY
+Offset: 22, LOADINT , Operand: 0
+Offset: 23, setInterfaceDefinitionScriptParams29 , Operand: 0
+Offset: 24, PUSHI , Operand: 1810
+Offset: 25, LOADINT , Operand: 0
+Offset: 26, LOADINT , Operand: 1
+Offset: 27, LOADINT , Operand: 2
+Offset: 28, PUSHS , Operand: III
+Offset: 29, LOADINT , Operand: 0
+Offset: 30, setInterfaceDefinitionScriptParams18 , Operand: 0
+Offset: 31, RETURN , Operand: 0

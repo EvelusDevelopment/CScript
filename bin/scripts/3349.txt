@@ -1,0 +1,31 @@
+================================================
+      Client Script 3349 Dumped by SiniSoul    
+      Instruction Size: 20
+      Integer Arguments: 0 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADGINT , Operand: 1177
+Offset: 1, PUSHI , Operand: 0
+Offset: 2, IFEQ , Operand: 1
+Offset: 3, GOTO , Operand: 8
+Offset: 4, PUSHI , Operand: 61538370
+Offset: 5, PUSHI , Operand: -1
+Offset: 6, PUSHI , Operand: 61538418
+Offset: 7, PUSHS , Operand: P3: Shared XP is ON
+Offset: 8, PUSHI , Operand: 25
+Offset: 9, PUSHI , Operand: 200
+Offset: 10, CALL , Operand: 1163
+Offset: 11, GOTO , Operand: 7
+Offset: 12, PUSHI , Operand: 61538370
+Offset: 13, PUSHI , Operand: -1
+Offset: 14, PUSHI , Operand: 61538418
+Offset: 15, PUSHS , Operand: P3: Shared XP is OFF
+Offset: 16, PUSHI , Operand: 25
+Offset: 17, PUSHI , Operand: 200
+Offset: 18, CALL , Operand: 1163
+Offset: 19, RETURN , Operand: 0

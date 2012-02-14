@@ -1,0 +1,62 @@
+================================================
+      Client Script 2438 Dumped by SiniSoul    
+      Instruction Size: 51
+      Integer Arguments: 3 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHI , Operand: 0
+Offset: 1, STOREINT , Operand: 0
+Offset: 2, PUSHI , Operand: 0
+Offset: 3, STOREINT , Operand: 1
+Offset: 4, Unref Opcode: 25, Operand: 651
+Offset: 5, PUSHI , Operand: 1000
+Offset: 6, PUSHI , Operand: 100
+Offset: 7, Unref Method: 4018, Operand: 0
+Offset: 8, STOREINT , Operand: 2
+Offset: 9, LOADINT , Operand: 2
+Offset: 10, PUSHI , Operand: 100
+Offset: 11, IFGT , Operand: 1
+Offset: 12, GOTO , Operand: 2
+Offset: 13, PUSHI , Operand: 100
+Offset: 14, STOREINT , Operand: 2
+Offset: 15, PUSHI , Operand: 105
+Offset: 16, PUSHI , Operand: 105
+Offset: 17, PUSHI , Operand: 1090
+Offset: 18, LOADINT , Operand: 2
+Offset: 19, Unref Method: 3408, Operand: 0
+Offset: 20, STOREINT , Operand: 0
+Offset: 21, PUSHI , Operand: 105
+Offset: 22, PUSHI , Operand: 105
+Offset: 23, PUSHI , Operand: 1091
+Offset: 24, LOADINT , Operand: 2
+Offset: 25, Unref Method: 3408, Operand: 0
+Offset: 26, STOREINT , Operand: 1
+Offset: 27, PUSHI , Operand: 40
+Offset: 28, LOADINT , Operand: 0
+Offset: 29, PUSHI , Operand: 2
+Offset: 30, PUSHI , Operand: 0
+Offset: 31, PUSHI , Operand: 983054
+Offset: 32, Unref Method: 2000, Operand: 0
+Offset: 33, PUSHI , Operand: 18
+Offset: 34, LOADINT , Operand: 1
+Offset: 35, PUSHI , Operand: 0
+Offset: 36, PUSHI , Operand: 0
+Offset: 37, PUSHI , Operand: 983054
+Offset: 38, Unref Method: 2001, Operand: 0
+Offset: 39, LOADINT , Operand: 2
+Offset: 40, PUSHI , Operand: 25
+Offset: 41, IFLT , Operand: 1
+Offset: 42, GOTO , Operand: 4
+Offset: 43, PUSHI , Operand: 16750848
+Offset: 44, PUSHI , Operand: 983054
+Offset: 45, Unref Method: 2101, Operand: 0
+Offset: 46, GOTO , Operand: 3
+Offset: 47, PUSHI , Operand: 26112
+Offset: 48, PUSHI , Operand: 983054
+Offset: 49, Unref Method: 2101, Operand: 0
+Offset: 50, RETURN , Operand: 0

@@ -1,0 +1,41 @@
+================================================
+      Client Script 699 Dumped by SiniSoul    
+      Instruction Size: 30
+      Integer Arguments: 1 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, Unref Opcode: 25, Operand: 1009
+Offset: 1, PUSHI , Operand: 2
+Offset: 2, IFLT , Operand: 1
+Offset: 3, GOTO , Operand: 14
+Offset: 4, PUSHS , Operand: I don't know it.
+Offset: 5, LOADINT , Operand: 0
+Offset: 6, Unref Method: 2112, Operand: 0
+Offset: 7, PUSHI , Operand: 1
+Offset: 8, PUSHS , Operand: I don't know it.
+Offset: 9, LOADINT , Operand: 0
+Offset: 10, Unref Method: 2300, Operand: 0
+Offset: 11, PUSHI , Operand: 327
+Offset: 12, PUSHI , Operand: 252
+Offset: 13, PUSHI , Operand: 0
+Offset: 14, PUSHI , Operand: 0
+Offset: 15, PUSHI , Operand: 851998
+Offset: 16, Unref Method: 2000, Operand: 0
+Offset: 17, GOTO , Operand: 11
+Offset: 18, PUSHS , Operand: 
+Offset: 19, LOADINT , Operand: 0
+Offset: 20, Unref Method: 2112, Operand: 0
+Offset: 21, LOADINT , Operand: 0
+Offset: 22, Unref Method: 2307, Operand: 0
+Offset: 23, PUSHI , Operand: 327
+Offset: 24, PUSHI , Operand: 263
+Offset: 25, PUSHI , Operand: 0
+Offset: 26, PUSHI , Operand: 0
+Offset: 27, PUSHI , Operand: 851998
+Offset: 28, Unref Method: 2000, Operand: 0
+Offset: 29, RETURN , Operand: 0

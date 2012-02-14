@@ -1,0 +1,56 @@
+================================================
+      Client Script 507 Dumped by SiniSoul    
+      Instruction Size: 45
+      Integer Arguments: 7 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHI , Operand: 712
+Offset: 1, LOADINT , Operand: 0
+Offset: 2, LOADINT , Operand: 1
+Offset: 3, LOADINT , Operand: 2
+Offset: 4, LOADINT , Operand: 3
+Offset: 5, LOADINT , Operand: 4
+Offset: 6, LOADINT , Operand: 5
+Offset: 7, LOADINT , Operand: 6
+Offset: 8, PUSHI , Operand: 541
+Offset: 9, PUSHI , Operand: 1
+Offset: 10, PUSHS , Operand: IIIIIIIY
+Offset: 11, LOADINT , Operand: 0
+Offset: 12, setInterfaceDefinitionScriptParams14 , Operand: 0
+Offset: 13, PUSHI , Operand: 712
+Offset: 14, LOADINT , Operand: 0
+Offset: 15, LOADINT , Operand: 1
+Offset: 16, LOADINT , Operand: 2
+Offset: 17, LOADINT , Operand: 3
+Offset: 18, LOADINT , Operand: 4
+Offset: 19, LOADINT , Operand: 5
+Offset: 20, LOADINT , Operand: 6
+Offset: 21, PUSHI , Operand: 259
+Offset: 22, PUSHI , Operand: 1
+Offset: 23, PUSHS , Operand: IIIIIIIY
+Offset: 24, LOADINT , Operand: 0
+Offset: 25, setInterfaceDefinitionScriptParams7 , Operand: 0
+Offset: 26, LOADINT , Operand: 0
+Offset: 27, PUSHI , Operand: 0
+Offset: 28, PUSHI , Operand: 0
+Offset: 29, PUSHI , Operand: 0
+Offset: 30, CALL , Operand: 1086
+Offset: 31, LOADINT , Operand: 4
+Offset: 32, PUSHI , Operand: 0
+Offset: 33, PUSHI , Operand: 0
+Offset: 34, PUSHI , Operand: 0
+Offset: 35, CALL , Operand: 1086
+Offset: 36, LOADINT , Operand: 0
+Offset: 37, LOADINT , Operand: 1
+Offset: 38, LOADINT , Operand: 2
+Offset: 39, LOADINT , Operand: 3
+Offset: 40, LOADINT , Operand: 4
+Offset: 41, LOADINT , Operand: 5
+Offset: 42, LOADINT , Operand: 6
+Offset: 43, CALL , Operand: 713
+Offset: 44, RETURN , Operand: 0

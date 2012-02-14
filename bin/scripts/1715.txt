@@ -1,0 +1,71 @@
+================================================
+      Client Script 1715 Dumped by SiniSoul    
+      Instruction Size: 43
+      Integer Arguments: 1 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHI , Operand: -1
+Offset: 1, STOREINT , Operand: 0
+Offset: 2, LOADGINT , Operand: 1043
+Offset: 3, PUSHI , Operand: -1
+Offset: 4, IFEQ , Operand: 1
+Offset: 5, GOTO , Operand: 1
+Offset: 6, RETURN , Operand: 0
+Offset: 7, LOADGINT , Operand: 1043
+Offset: 8, SWITCH , Operand: 0
+Offset: 9, GOTO , Operand: 17
+Offset: 10, PUSHI , Operand: 1572874
+Offset: 11, STOREINT , Operand: 0
+Offset: 12, GOTO , Operand: 14
+Offset: 13, PUSHI , Operand: 1572872
+Offset: 14, STOREINT , Operand: 0
+Offset: 15, GOTO , Operand: 11
+Offset: 16, PUSHI , Operand: 1572873
+Offset: 17, STOREINT , Operand: 0
+Offset: 18, GOTO , Operand: 8
+Offset: 19, PUSHI , Operand: 1572875
+Offset: 20, STOREINT , Operand: 0
+Offset: 21, GOTO , Operand: 5
+Offset: 22, PUSHI , Operand: 1572876
+Offset: 23, STOREINT , Operand: 0
+Offset: 24, GOTO , Operand: 2
+Offset: 25, PUSHI , Operand: 1572877
+Offset: 26, STOREINT , Operand: 0
+Offset: 27, LOADINT , Operand: 0
+Offset: 28, PUSHI , Operand: -1
+Offset: 29, IFEQ , Operand: 1
+Offset: 30, GOTO , Operand: 1
+Offset: 31, RETURN , Operand: 0
+Offset: 32, LOADGINT , Operand: 1043
+Offset: 33, PUSHI , Operand: -1
+Offset: 34, LOADINT , Operand: 0
+Offset: 35, Unref Method: 2200, Operand: 0
+Offset: 36, PUSHI , Operand: 1600
+Offset: 37, LOADINT , Operand: 0
+Offset: 38, Unref Method: 2123, Operand: 0
+Offset: 39, PUSHI , Operand: 12554
+Offset: 40, LOADINT , Operand: 0
+Offset: 41, Unref Method: 2110, Operand: 0
+Offset: 42, RETURN , Operand: 0
+
+================================================
+                Switch Table 0                
+================================================
+
+Key: 4765, Value: 7
+Key: 4764, Value: 4
+Key: 4767, Value: 10
+Key: 4766, Value: 7
+Key: 4761, Value: 1
+Key: 4763, Value: 4
+Key: 4762, Value: 1
+Key: 4772, Value: 16
+Key: 4770, Value: 13
+Key: 4771, Value: 16
+Key: 4768, Value: 10
+Key: 4769, Value: 13

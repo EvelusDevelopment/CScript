@@ -1,0 +1,26 @@
+================================================
+      Client Script 910 Dumped by SiniSoul    
+      Instruction Size: 15
+      Integer Arguments: 0 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADGINT , Operand: 116
+Offset: 1, PUSHI , Operand: 1
+Offset: 2, IFEQ , Operand: 4
+Offset: 3, LOADGINT , Operand: 117
+Offset: 4, PUSHI , Operand: 1
+Offset: 5, IFEQ , Operand: 1
+Offset: 6, GOTO , Operand: 4
+Offset: 7, PUSHI , Operand: 2
+Offset: 8, PUSHI , Operand: 46923807
+Offset: 9, Unref Method: 2116, Operand: 0
+Offset: 10, GOTO , Operand: 3
+Offset: 11, PUSHI , Operand: 0
+Offset: 12, PUSHI , Operand: 46923807
+Offset: 13, Unref Method: 2116, Operand: 0
+Offset: 14, RETURN , Operand: 0

@@ -1,0 +1,28 @@
+================================================
+      Client Script 1832 Dumped by SiniSoul    
+      Instruction Size: 17
+      Integer Arguments: 1 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADINT , Operand: 0
+Offset: 1, CALL , Operand: 1820
+Offset: 2, PUSHI , Operand: 0
+Offset: 3, IFEQ , Operand: 1
+Offset: 4, GOTO , Operand: 1
+Offset: 5, RETURN , Operand: 0
+Offset: 6, LOADGINT , Operand: 255
+Offset: 7, PUSHI , Operand: 0
+Offset: 8, IFEQ , Operand: 1
+Offset: 9, GOTO , Operand: 3
+Offset: 10, PUSHI , Operand: 1
+Offset: 11, STOREGINT , Operand: 255
+Offset: 12, GOTO , Operand: 2
+Offset: 13, PUSHI , Operand: 0
+Offset: 14, STOREGINT , Operand: 255
+Offset: 15, CALL , Operand: 1780
+Offset: 16, RETURN , Operand: 0

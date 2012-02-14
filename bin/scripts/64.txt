@@ -1,0 +1,27 @@
+================================================
+      Client Script 64 Dumped by SiniSoul    
+      Instruction Size: 16
+      Integer Arguments: 0 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, Unref Opcode: 25, Operand: 3637
+Offset: 1, integerToString , Operand: 0
+Offset: 2, PUSHS , Operand: /
+Offset: 3, PUSHI , Operand: 183
+Offset: 4, integerToString , Operand: 0
+Offset: 5, CONCAT , Operand: 3
+Offset: 6, PUSHI , Operand: 34865153
+Offset: 7, Unref Method: 2112, Operand: 0
+Offset: 8, Unref Opcode: 25, Operand: 3637
+Offset: 9, PUSHI , Operand: 183
+Offset: 10, IFEQ , Operand: 1
+Offset: 11, GOTO , Operand: 3
+Offset: 12, PUSHI , Operand: 65280
+Offset: 13, PUSHI , Operand: 34865153
+Offset: 14, Unref Method: 2101, Operand: 0
+Offset: 15, RETURN , Operand: 0

@@ -1,0 +1,61 @@
+================================================
+      Client Script 286 Dumped by SiniSoul    
+      Instruction Size: 50
+      Integer Arguments: 6 
+      String  Arguments: 1 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADINT , Operand: 0
+Offset: 1, PUSHI , Operand: 1
+Offset: 2, IFNE , Operand: 1
+Offset: 3, GOTO , Operand: 1
+Offset: 4, RETURN , Operand: 0
+Offset: 5, LOADINT , Operand: 1
+Offset: 6, LOADINT , Operand: 2
+Offset: 7, Unref Method: 200, Operand: 0
+Offset: 8, PUSHI , Operand: 1
+Offset: 9, IFEQ , Operand: 1
+Offset: 10, GOTO , Operand: 3
+Offset: 11, PUSHI , Operand: 1
+Offset: 12, LOADSTR , Operand: 0
+Offset: 13, setChildInterfaceText , Operand: 0
+Offset: 14, LOADINT , Operand: 1
+Offset: 15, LOADINT , Operand: 3
+Offset: 16, Unref Method: 200, Operand: 0
+Offset: 17, PUSHI , Operand: 1
+Offset: 18, IFEQ , Operand: 1
+Offset: 19, GOTO , Operand: 3
+Offset: 20, PUSHI , Operand: 1
+Offset: 21, LOADSTR , Operand: 0
+Offset: 22, setChildInterfaceText , Operand: 0
+Offset: 23, LOADINT , Operand: 1
+Offset: 24, LOADINT , Operand: 4
+Offset: 25, Unref Method: 200, Operand: 0
+Offset: 26, PUSHI , Operand: 1
+Offset: 27, IFEQ , Operand: 1
+Offset: 28, GOTO , Operand: 9
+Offset: 29, LOADINT , Operand: 5
+Offset: 30, PUSHI , Operand: 1
+Offset: 31, IFEQ , Operand: 1
+Offset: 32, GOTO , Operand: 3
+Offset: 33, PUSHI , Operand: 0
+Offset: 34, Unref Method: 1003, Operand: 0
+Offset: 35, GOTO , Operand: 2
+Offset: 36, PUSHI , Operand: 1
+Offset: 37, Unref Method: 1003, Operand: 0
+Offset: 38, LOADINT , Operand: 2
+Offset: 39, PUSHI , Operand: 11
+Offset: 40, IFEQ , Operand: 1
+Offset: 41, GOTO , Operand: 3
+Offset: 42, PUSHI , Operand: 950
+Offset: 43, LOADINT , Operand: 5
+Offset: 44, Unref Method: 5231, Operand: 0
+Offset: 45, PUSHI , Operand: 2266
+Offset: 46, PUSHI , Operand: 1
+Offset: 47, PUSHI , Operand: 0
+Offset: 48, Unref Method: 3200, Operand: 0
+Offset: 49, RETURN , Operand: 0

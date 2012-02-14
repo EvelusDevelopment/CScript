@@ -1,0 +1,113 @@
+================================================
+      Client Script 1843 Dumped by SiniSoul    
+      Instruction Size: 102
+      Integer Arguments: 10 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADINT , Operand: 1
+Offset: 1, LOADINT , Operand: 2
+Offset: 2, IADD , Operand: 0
+Offset: 3, PUSHI , Operand: 2
+Offset: 4, IDIV , Operand: 0
+Offset: 5, STOREINT , Operand: 3
+Offset: 6, LOADINT , Operand: 3
+Offset: 7, AASTORE , Operand: 0
+Offset: 8, STOREINT , Operand: 4
+Offset: 9, LOADINT , Operand: 3
+Offset: 10, LOADINT , Operand: 2
+Offset: 11, AASTORE , Operand: 0
+Offset: 12, AALOAD , Operand: 0
+Offset: 13, LOADINT , Operand: 2
+Offset: 14, LOADINT , Operand: 4
+Offset: 15, AALOAD , Operand: 0
+Offset: 16, LOADINT , Operand: 1
+Offset: 17, STOREINT , Operand: 5
+Offset: 18, LOADINT , Operand: 1
+Offset: 19, STOREINT , Operand: 6
+Offset: 20, PUSHI , Operand: 0
+Offset: 21, STOREINT , Operand: 7
+Offset: 22, PUSHI , Operand: -1
+Offset: 23, STOREINT , Operand: 8
+Offset: 24, PUSHI , Operand: -1
+Offset: 25, STOREINT , Operand: 9
+Offset: 26, LOADINT , Operand: 6
+Offset: 27, LOADINT , Operand: 2
+Offset: 28, IFLT , Operand: 1
+Offset: 29, GOTO , Operand: 40
+Offset: 30, PUSHI , Operand: 105
+Offset: 31, PUSHI , Operand: 74
+Offset: 32, PUSHI , Operand: 1805
+Offset: 33, LOADINT , Operand: 6
+Offset: 34, AASTORE , Operand: 0
+Offset: 35, Unref Method: 3408, Operand: 0
+Offset: 36, STOREINT , Operand: 8
+Offset: 37, PUSHI , Operand: 105
+Offset: 38, PUSHI , Operand: 74
+Offset: 39, PUSHI , Operand: 1805
+Offset: 40, LOADINT , Operand: 4
+Offset: 41, Unref Method: 3408, Operand: 0
+Offset: 42, STOREINT , Operand: 9
+Offset: 43, LOADINT , Operand: 8
+Offset: 44, PUSHI , Operand: 597
+Offset: 45, Unref Method: 4500, Operand: 0
+Offset: 46, LOADINT , Operand: 9
+Offset: 47, PUSHI , Operand: 597
+Offset: 48, Unref Method: 4500, Operand: 0
+Offset: 49, IFLT , Operand: 1
+Offset: 50, GOTO , Operand: 14
+Offset: 51, LOADINT , Operand: 6
+Offset: 52, AASTORE , Operand: 0
+Offset: 53, STOREINT , Operand: 7
+Offset: 54, LOADINT , Operand: 6
+Offset: 55, LOADINT , Operand: 5
+Offset: 56, AASTORE , Operand: 0
+Offset: 57, AALOAD , Operand: 0
+Offset: 58, LOADINT , Operand: 5
+Offset: 59, LOADINT , Operand: 7
+Offset: 60, AALOAD , Operand: 0
+Offset: 61, LOADINT , Operand: 5
+Offset: 62, PUSHI , Operand: 1
+Offset: 63, IADD , Operand: 0
+Offset: 64, STOREINT , Operand: 5
+Offset: 65, LOADINT , Operand: 6
+Offset: 66, PUSHI , Operand: 1
+Offset: 67, IADD , Operand: 0
+Offset: 68, STOREINT , Operand: 6
+Offset: 69, GOTO , Operand: -44
+Offset: 70, LOADINT , Operand: 2
+Offset: 71, LOADINT , Operand: 5
+Offset: 72, AASTORE , Operand: 0
+Offset: 73, AALOAD , Operand: 0
+Offset: 74, LOADINT , Operand: 5
+Offset: 75, LOADINT , Operand: 4
+Offset: 76, AALOAD , Operand: 0
+Offset: 77, LOADINT , Operand: 1
+Offset: 78, LOADINT , Operand: 5
+Offset: 79, PUSHI , Operand: 1
+Offset: 80, ISUB , Operand: 0
+Offset: 81, IFLT , Operand: 1
+Offset: 82, GOTO , Operand: 6
+Offset: 83, PUSHI , Operand: 0
+Offset: 84, LOADINT , Operand: 1
+Offset: 85, LOADINT , Operand: 5
+Offset: 86, PUSHI , Operand: 1
+Offset: 87, ISUB , Operand: 0
+Offset: 88, CALL , Operand: 1843
+Offset: 89, LOADINT , Operand: 5
+Offset: 90, PUSHI , Operand: 1
+Offset: 91, IADD , Operand: 0
+Offset: 92, LOADINT , Operand: 2
+Offset: 93, IFLT , Operand: 1
+Offset: 94, GOTO , Operand: 6
+Offset: 95, PUSHI , Operand: 0
+Offset: 96, LOADINT , Operand: 5
+Offset: 97, PUSHI , Operand: 1
+Offset: 98, IADD , Operand: 0
+Offset: 99, LOADINT , Operand: 2
+Offset: 100, CALL , Operand: 1843
+Offset: 101, RETURN , Operand: 0

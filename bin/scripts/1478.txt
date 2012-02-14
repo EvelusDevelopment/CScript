@@ -1,0 +1,51 @@
+================================================
+      Client Script 1478 Dumped by SiniSoul    
+      Instruction Size: 40
+      Integer Arguments: 1 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADGSTR , Operand: 22
+Offset: 1, STOREGSTR , Operand: 138
+Offset: 2, LOADGSTR , Operand: 138
+Offset: 3, CALL , Operand: 1479
+Offset: 4, STOREINT , Operand: 0
+Offset: 5, LOADINT , Operand: 0
+Offset: 6, PUSHI , Operand: 1
+Offset: 7, IFGT , Operand: 1
+Offset: 8, GOTO , Operand: 10
+Offset: 9, PUSHS , Operand: Search for '
+Offset: 10, LOADGSTR , Operand: 138
+Offset: 11, Unref Method: 4111, Operand: 0
+Offset: 12, PUSHS , Operand: ' returned 
+Offset: 13, LOADINT , Operand: 0
+Offset: 14, integerToString , Operand: 0
+Offset: 15, PUSHS , Operand:  results.
+Offset: 16, CONCAT , Operand: 5
+Offset: 17, Unref Method: 3100, Operand: 0
+Offset: 18, GOTO , Operand: 20
+Offset: 19, LOADINT , Operand: 0
+Offset: 20, PUSHI , Operand: 1
+Offset: 21, IFEQ , Operand: 1
+Offset: 22, GOTO , Operand: 10
+Offset: 23, PUSHS , Operand: Search for '
+Offset: 24, LOADGSTR , Operand: 138
+Offset: 25, Unref Method: 4111, Operand: 0
+Offset: 26, PUSHS , Operand: ' returned 
+Offset: 27, LOADINT , Operand: 0
+Offset: 28, integerToString , Operand: 0
+Offset: 29, PUSHS , Operand:  result.
+Offset: 30, CONCAT , Operand: 5
+Offset: 31, Unref Method: 3100, Operand: 0
+Offset: 32, GOTO , Operand: 6
+Offset: 33, PUSHS , Operand: Search for '
+Offset: 34, LOADGSTR , Operand: 138
+Offset: 35, Unref Method: 4111, Operand: 0
+Offset: 36, PUSHS , Operand: ' returned 0 results.
+Offset: 37, CONCAT , Operand: 3
+Offset: 38, Unref Method: 3100, Operand: 0
+Offset: 39, RETURN , Operand: 0

@@ -1,0 +1,42 @@
+================================================
+      Client Script 1391 Dumped by SiniSoul    
+      Instruction Size: 31
+      Integer Arguments: 2 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, Unref Method: 3612, Operand: 0
+Offset: 1, PUSHI , Operand: 0
+Offset: 2, IFLTEQ , Operand: 1
+Offset: 3, GOTO , Operand: 7
+Offset: 4, PUSHS , Operand: 
+Offset: 5, PUSHI , Operand: 59768857
+Offset: 6, Unref Method: 2112, Operand: 0
+Offset: 7, PUSHI , Operand: 1
+Offset: 8, LOADINT , Operand: 1
+Offset: 9, Unref Method: 2003, Operand: 0
+Offset: 10, RETURN , Operand: 0
+Offset: 11, Unref Method: 3300, Operand: 0
+Offset: 12, LOADINT , Operand: 0
+Offset: 13, ISUB , Operand: 0
+Offset: 14, PUSHI , Operand: 40
+Offset: 15, IMOD , Operand: 0
+Offset: 16, PUSHI , Operand: 20
+Offset: 17, IFLT , Operand: 1
+Offset: 18, GOTO , Operand: 8
+Offset: 19, Unref Method: 3340, Operand: 0
+Offset: 20, PUSHI , Operand: 1
+Offset: 21, IFEQ , Operand: 1
+Offset: 22, GOTO , Operand: 4
+Offset: 23, PUSHI , Operand: 0
+Offset: 24, LOADINT , Operand: 1
+Offset: 25, Unref Method: 2003, Operand: 0
+Offset: 26, GOTO , Operand: 3
+Offset: 27, PUSHI , Operand: 1
+Offset: 28, LOADINT , Operand: 1
+Offset: 29, Unref Method: 2003, Operand: 0
+Offset: 30, RETURN , Operand: 0

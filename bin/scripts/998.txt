@@ -1,0 +1,1137 @@
+================================================
+      Client Script 998 Dumped by SiniSoul    
+      Instruction Size: 991
+      Integer Arguments: 2 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADINT , Operand: 0
+Offset: 1, SWITCH , Operand: 0
+Offset: 2, GOTO , Operand: 983
+Offset: 3, LOADINT , Operand: 1
+Offset: 4, SWITCH , Operand: 1
+Offset: 5, GOTO , Operand: 158
+Offset: 6, PUSHI , Operand: 1
+Offset: 7, PUSHI , Operand: 303
+Offset: 8, PUSHS , Operand: Small net
+Offset: 9, PUSHS , Operand: You can now fish with a 
+Offset: 10, PUSHS , Operand: <col=000080>
+Offset: 11, PUSHS , Operand: small net
+Offset: 12, PUSHS , Operand: </col>
+Offset: 13, PUSHS , Operand: .
+Offset: 14, CONCAT , Operand: 5
+Offset: 15, RETURN , Operand: 0
+Offset: 16, GOTO , Operand: 147
+Offset: 17, PUSHI , Operand: 1
+Offset: 18, PUSHI , Operand: 13431
+Offset: 19, PUSHS , Operand: Crayfish cage
+Offset: 20, PUSHS , Operand: You can now fish with a 
+Offset: 21, PUSHS , Operand: <col=000080>
+Offset: 22, PUSHS , Operand: crayfish cage
+Offset: 23, PUSHS , Operand: </col>
+Offset: 24, PUSHS , Operand: .
+Offset: 25, CONCAT , Operand: 5
+Offset: 26, RETURN , Operand: 0
+Offset: 27, GOTO , Operand: 136
+Offset: 28, PUSHI , Operand: 5
+Offset: 29, PUSHI , Operand: 307
+Offset: 30, PUSHS , Operand: Bait fishing
+Offset: 31, PUSHS , Operand: You can now fish with 
+Offset: 32, PUSHS , Operand: <col=000080>
+Offset: 33, PUSHS , Operand: fishing rods
+Offset: 34, PUSHS , Operand: </col>
+Offset: 35, PUSHS , Operand:  and bait
+Offset: 36, PUSHS , Operand: </col>
+Offset: 37, PUSHS , Operand: .
+Offset: 38, CONCAT , Operand: 7
+Offset: 39, RETURN , Operand: 0
+Offset: 40, GOTO , Operand: 123
+Offset: 41, PUSHI , Operand: 16
+Offset: 42, PUSHI , Operand: 305
+Offset: 43, PUSHS , Operand: Members: Big net fishing
+Offset: 44, PUSHS , Operand: Members can now fish with 
+Offset: 45, PUSHS , Operand: <col=000080>
+Offset: 46, PUSHS , Operand: big nets
+Offset: 47, PUSHS , Operand: </col>
+Offset: 48, PUSHS , Operand: .
+Offset: 49, CONCAT , Operand: 5
+Offset: 50, RETURN , Operand: 0
+Offset: 51, GOTO , Operand: 112
+Offset: 52, PUSHI , Operand: 20
+Offset: 53, PUSHI , Operand: 309
+Offset: 54, PUSHS , Operand: Fly fishing rod
+Offset: 55, PUSHS , Operand: You can now fish with 
+Offset: 56, PUSHS , Operand: <col=000080>
+Offset: 57, PUSHS , Operand: fly-fishing rods
+Offset: 58, PUSHS , Operand: </col>
+Offset: 59, PUSHS , Operand:  and 
+Offset: 60, PUSHS , Operand: <col=000080>
+Offset: 61, PUSHS , Operand: feathers
+Offset: 62, PUSHS , Operand: </col>
+Offset: 63, PUSHS , Operand: .
+Offset: 64, CONCAT , Operand: 9
+Offset: 65, RETURN , Operand: 0
+Offset: 66, GOTO , Operand: 97
+Offset: 67, PUSHI , Operand: 35
+Offset: 68, PUSHI , Operand: 311
+Offset: 69, PUSHS , Operand: Harpoon
+Offset: 70, PUSHS , Operand: You can now fish with 
+Offset: 71, PUSHS , Operand: <col=000080>
+Offset: 72, PUSHS , Operand: harpoons
+Offset: 73, PUSHS , Operand: </col>
+Offset: 74, PUSHS , Operand: .
+Offset: 75, CONCAT , Operand: 5
+Offset: 76, RETURN , Operand: 0
+Offset: 77, GOTO , Operand: 86
+Offset: 78, PUSHI , Operand: 40
+Offset: 79, PUSHI , Operand: 301
+Offset: 80, PUSHS , Operand: Lobster pot
+Offset: 81, PUSHS , Operand: You can now fish with 
+Offset: 82, PUSHS , Operand: <col=000080>
+Offset: 83, PUSHS , Operand: lobster pots
+Offset: 84, PUSHS , Operand: </col>
+Offset: 85, PUSHS , Operand: .
+Offset: 86, CONCAT , Operand: 5
+Offset: 87, RETURN , Operand: 0
+Offset: 88, GOTO , Operand: 75
+Offset: 89, PUSHI , Operand: 40
+Offset: 90, PUSHI , Operand: 14109
+Offset: 91, PUSHS , Operand: Members: Sacred clay harpoon
+Offset: 92, PUSHS , Operand: Members can now use 
+Offset: 93, PUSHS , Operand: <col=000080>
+Offset: 94, PUSHS , Operand: sacred clay harpoons
+Offset: 95, PUSHS , Operand: </col>
+Offset: 96, PUSHS , Operand: .
+Offset: 97, CONCAT , Operand: 5
+Offset: 98, RETURN , Operand: 0
+Offset: 99, GOTO , Operand: 64
+Offset: 100, PUSHI , Operand: 40
+Offset: 101, PUSHI , Operand: 14101
+Offset: 102, PUSHS , Operand: Members: Volatile harpoon
+Offset: 103, PUSHS , Operand: Members can now use 
+Offset: 104, PUSHS , Operand: <col=000080>
+Offset: 105, PUSHS , Operand: volatile harpoons
+Offset: 106, PUSHS , Operand: </col>
+Offset: 107, PUSHS , Operand: .
+Offset: 108, CONCAT , Operand: 5
+Offset: 109, RETURN , Operand: 0
+Offset: 110, GOTO , Operand: 53
+Offset: 111, PUSHI , Operand: 48
+Offset: 112, PUSHI , Operand: 11323
+Offset: 113, PUSHS , Operand: Members: Heavy rod
+Offset: 114, PUSHS , Operand: <br>
+Offset: 115, PUSHS , Operand:  (with 15 Agility and 15 Strength)
+Offset: 116, CONCAT , Operand: 3
+Offset: 117, PUSHS , Operand: Members who are versed in the art of barbarian fishing now have the Fishing level required to fish with 
+Offset: 118, PUSHS , Operand: <col=000080>
+Offset: 119, PUSHS , Operand: heavy rods
+Offset: 120, PUSHS , Operand: </col>
+Offset: 121, PUSHS , Operand: . (They also need level 15 Agility and level 15 Strength.)
+Offset: 122, CONCAT , Operand: 5
+Offset: 123, RETURN , Operand: 0
+Offset: 124, GOTO , Operand: 39
+Offset: 125, PUSHI , Operand: 65
+Offset: 126, PUSHI , Operand: 3157
+Offset: 127, PUSHS , Operand: Members: Vessel fishing
+Offset: 128, PUSHS , Operand: <br>
+Offset: 129, PUSHS , Operand:  (after starting Tai Bwo Wannai Trio)
+Offset: 130, CONCAT , Operand: 3
+Offset: 131, PUSHS , Operand: Members now have the Fishing level required to use 
+Offset: 132, PUSHS , Operand: <col=000080>
+Offset: 133, PUSHS , Operand: karambwan vessels
+Offset: 134, PUSHS , Operand: </col>
+Offset: 135, PUSHS , Operand:  to fish for 
+Offset: 136, PUSHS , Operand: <col=000080>
+Offset: 137, PUSHS , Operand: karambwan
+Offset: 138, PUSHS , Operand: </col>
+Offset: 139, PUSHS , Operand:  (after starting Tai Bwo Wannai Trio).
+Offset: 140, CONCAT , Operand: 9
+Offset: 141, RETURN , Operand: 0
+Offset: 142, GOTO , Operand: 21
+Offset: 143, PUSHI , Operand: 65
+Offset: 144, PUSHI , Operand: 12860
+Offset: 145, PUSHS , Operand: Swordfish gloves
+Offset: 146, PUSHS , Operand: You can now wear 
+Offset: 147, PUSHS , Operand: <col=000080>
+Offset: 148, PUSHS , Operand: swordfish gloves
+Offset: 149, PUSHS , Operand: </col>
+Offset: 150, PUSHS , Operand: .
+Offset: 151, CONCAT , Operand: 5
+Offset: 152, RETURN , Operand: 0
+Offset: 153, GOTO , Operand: 10
+Offset: 154, PUSHI , Operand: 90
+Offset: 155, PUSHI , Operand: 12861
+Offset: 156, PUSHS , Operand: Members: Shark gloves
+Offset: 157, PUSHS , Operand: Members can now wear 
+Offset: 158, PUSHS , Operand: <col=000080>
+Offset: 159, PUSHS , Operand: shark gloves
+Offset: 160, PUSHS , Operand: </col>
+Offset: 161, PUSHS , Operand: .
+Offset: 162, CONCAT , Operand: 5
+Offset: 163, RETURN , Operand: 0
+Offset: 164, GOTO , Operand: 821
+Offset: 165, LOADINT , Operand: 1
+Offset: 166, SWITCH , Operand: 2
+Offset: 167, GOTO , Operand: 329
+Offset: 168, PUSHI , Operand: 1
+Offset: 169, PUSHI , Operand: 317
+Offset: 170, PUSHS , Operand: Shrimp - Net fishing
+Offset: 171, PUSHS , Operand: You can now catch 
+Offset: 172, PUSHS , Operand: <col=000080>
+Offset: 173, PUSHS , Operand: shrimp
+Offset: 174, PUSHS , Operand: </col>
+Offset: 175, PUSHS , Operand:  with a net.
+Offset: 176, CONCAT , Operand: 5
+Offset: 177, RETURN , Operand: 0
+Offset: 178, GOTO , Operand: 318
+Offset: 179, PUSHI , Operand: 1
+Offset: 180, PUSHI , Operand: 13435
+Offset: 181, PUSHS , Operand: Crayfish - Crayfish cage
+Offset: 182, PUSHS , Operand: You can now catch 
+Offset: 183, PUSHS , Operand: <col=000080>
+Offset: 184, PUSHS , Operand: crayfish
+Offset: 185, PUSHS , Operand: </col>
+Offset: 186, PUSHS , Operand:  with a crayfish cage.
+Offset: 187, CONCAT , Operand: 5
+Offset: 188, RETURN , Operand: 0
+Offset: 189, GOTO , Operand: 307
+Offset: 190, PUSHI , Operand: 5
+Offset: 191, PUSHI , Operand: 327
+Offset: 192, PUSHS , Operand: Sardine - Sea bait fishing
+Offset: 193, PUSHS , Operand: You can now catch 
+Offset: 194, PUSHS , Operand: <col=000080>
+Offset: 195, PUSHS , Operand: sardines
+Offset: 196, PUSHS , Operand: </col>
+Offset: 197, PUSHS , Operand:  with a fishing rod.
+Offset: 198, CONCAT , Operand: 5
+Offset: 199, RETURN , Operand: 0
+Offset: 200, GOTO , Operand: 296
+Offset: 201, PUSHI , Operand: 5
+Offset: 202, PUSHI , Operand: 3150
+Offset: 203, PUSHS , Operand: Members: Karambwanji - Net fishing
+Offset: 204, PUSHS , Operand: Members can now catch 
+Offset: 205, PUSHS , Operand: <col=000080>
+Offset: 206, PUSHS , Operand: karabwanji
+Offset: 207, PUSHS , Operand: </col>
+Offset: 208, PUSHS , Operand:  with a net.
+Offset: 209, CONCAT , Operand: 5
+Offset: 210, RETURN , Operand: 0
+Offset: 211, GOTO , Operand: 285
+Offset: 212, PUSHI , Operand: 10
+Offset: 213, PUSHI , Operand: 345
+Offset: 214, PUSHS , Operand: Herring - Sea bait fishing
+Offset: 215, PUSHS , Operand: You can now catch 
+Offset: 216, PUSHS , Operand: <col=000080>
+Offset: 217, PUSHS , Operand: herring
+Offset: 218, PUSHS , Operand: </col>
+Offset: 219, PUSHS , Operand:  with a fishing rod.
+Offset: 220, CONCAT , Operand: 5
+Offset: 221, RETURN , Operand: 0
+Offset: 222, GOTO , Operand: 274
+Offset: 223, PUSHI , Operand: 15
+Offset: 224, PUSHI , Operand: 321
+Offset: 225, PUSHS , Operand: Anchovie - Net fishing
+Offset: 226, PUSHS , Operand: You can now catch 
+Offset: 227, PUSHS , Operand: <col=000080>
+Offset: 228, PUSHS , Operand: anchovies
+Offset: 229, PUSHS , Operand: </col>
+Offset: 230, PUSHS , Operand:  with a net.
+Offset: 231, CONCAT , Operand: 5
+Offset: 232, RETURN , Operand: 0
+Offset: 233, GOTO , Operand: 263
+Offset: 234, PUSHI , Operand: 16
+Offset: 235, PUSHI , Operand: 353
+Offset: 236, PUSHS , Operand: Members: Mackerel - Big net fishing
+Offset: 237, PUSHS , Operand: Members can now catch 
+Offset: 238, PUSHS , Operand: <col=000080>
+Offset: 239, PUSHS , Operand: mackerel
+Offset: 240, PUSHS , Operand: </col>
+Offset: 241, PUSHS , Operand:  with a big net.
+Offset: 242, CONCAT , Operand: 5
+Offset: 243, RETURN , Operand: 0
+Offset: 244, GOTO , Operand: 252
+Offset: 245, PUSHI , Operand: 16
+Offset: 246, PUSHI , Operand: 407
+Offset: 247, PUSHS , Operand: Members: Oyster - Big net fishing
+Offset: 248, PUSHS , Operand: Members can now catch 
+Offset: 249, PUSHS , Operand: <col=000080>
+Offset: 250, PUSHS , Operand: oysters
+Offset: 251, PUSHS , Operand: </col>
+Offset: 252, PUSHS , Operand:  with a big net.
+Offset: 253, CONCAT , Operand: 5
+Offset: 254, RETURN , Operand: 0
+Offset: 255, GOTO , Operand: 241
+Offset: 256, PUSHI , Operand: 16
+Offset: 257, PUSHI , Operand: 405
+Offset: 258, PUSHS , Operand: Members: Casket - Big net fishing
+Offset: 259, PUSHS , Operand: Members can now catch 
+Offset: 260, PUSHS , Operand: <col=000080>
+Offset: 261, PUSHS , Operand: caskets
+Offset: 262, PUSHS , Operand: </col>
+Offset: 263, PUSHS , Operand:  with a big net.
+Offset: 264, CONCAT , Operand: 5
+Offset: 265, RETURN , Operand: 0
+Offset: 266, GOTO , Operand: 230
+Offset: 267, PUSHI , Operand: 16
+Offset: 268, PUSHI , Operand: 401
+Offset: 269, PUSHS , Operand: Members: Seaweed - Big net fishing
+Offset: 270, PUSHS , Operand: Members can now catch 
+Offset: 271, PUSHS , Operand: <col=000080>
+Offset: 272, PUSHS , Operand: seaweed
+Offset: 273, PUSHS , Operand: </col>
+Offset: 274, PUSHS , Operand:  with a big net.
+Offset: 275, CONCAT , Operand: 5
+Offset: 276, RETURN , Operand: 0
+Offset: 277, GOTO , Operand: 219
+Offset: 278, PUSHI , Operand: 20
+Offset: 279, PUSHI , Operand: 335
+Offset: 280, PUSHS , Operand: Trout - Fly-fishing
+Offset: 281, PUSHS , Operand: You can now catch 
+Offset: 282, PUSHS , Operand: <col=000080>
+Offset: 283, PUSHS , Operand: trout
+Offset: 284, PUSHS , Operand: </col>
+Offset: 285, PUSHS , Operand:  with a fly-fishing rod.
+Offset: 286, CONCAT , Operand: 5
+Offset: 287, RETURN , Operand: 0
+Offset: 288, GOTO , Operand: 208
+Offset: 289, PUSHI , Operand: 23
+Offset: 290, PUSHI , Operand: 341
+Offset: 291, PUSHS , Operand: Members: Cod - Big net fishing
+Offset: 292, PUSHS , Operand: Members can now catch 
+Offset: 293, PUSHS , Operand: <col=000080>
+Offset: 294, PUSHS , Operand: cod
+Offset: 295, PUSHS , Operand: </col>
+Offset: 296, PUSHS , Operand:  with a big net.
+Offset: 297, CONCAT , Operand: 5
+Offset: 298, RETURN , Operand: 0
+Offset: 299, GOTO , Operand: 197
+Offset: 300, PUSHI , Operand: 25
+Offset: 301, PUSHI , Operand: 349
+Offset: 302, PUSHS , Operand: Pike - River bait fishing
+Offset: 303, PUSHS , Operand: You can now catch 
+Offset: 304, PUSHS , Operand: <col=000080>
+Offset: 305, PUSHS , Operand: pike
+Offset: 306, PUSHS , Operand: </col>
+Offset: 307, PUSHS , Operand:  with a fishing rod.
+Offset: 308, CONCAT , Operand: 5
+Offset: 309, RETURN , Operand: 0
+Offset: 310, GOTO , Operand: 186
+Offset: 311, PUSHI , Operand: 28
+Offset: 312, PUSHI , Operand: 3379
+Offset: 313, PUSHS , Operand: Members: Slimy eel - River bait fishing
+Offset: 314, PUSHS , Operand: Members can now catch 
+Offset: 315, PUSHS , Operand: <col=000080>
+Offset: 316, PUSHS , Operand: slimy eels
+Offset: 317, PUSHS , Operand: </col>
+Offset: 318, PUSHS , Operand:  with a fishing rod.
+Offset: 319, CONCAT , Operand: 5
+Offset: 320, RETURN , Operand: 0
+Offset: 321, GOTO , Operand: 175
+Offset: 322, PUSHI , Operand: 30
+Offset: 323, PUSHI , Operand: 331
+Offset: 324, PUSHS , Operand: Salmon - Fly-fishing
+Offset: 325, PUSHS , Operand: You can now catch 
+Offset: 326, PUSHS , Operand: <col=000080>
+Offset: 327, PUSHS , Operand: salmon
+Offset: 328, PUSHS , Operand: </col>
+Offset: 329, PUSHS , Operand:  with a fly-fishing rod.
+Offset: 330, CONCAT , Operand: 5
+Offset: 331, RETURN , Operand: 0
+Offset: 332, GOTO , Operand: 164
+Offset: 333, PUSHI , Operand: 33
+Offset: 334, PUSHI , Operand: 5004
+Offset: 335, PUSHS , Operand: Members: Giant frogspawn - Net fishing
+Offset: 336, PUSHS , Operand: Members can now catch 
+Offset: 337, PUSHS , Operand: <col=000080>
+Offset: 338, PUSHS , Operand: giant frogspawn
+Offset: 339, PUSHS , Operand: </col>
+Offset: 340, PUSHS , Operand:  with a net.
+Offset: 341, CONCAT , Operand: 5
+Offset: 342, RETURN , Operand: 0
+Offset: 343, GOTO , Operand: 153
+Offset: 344, PUSHI , Operand: 35
+Offset: 345, PUSHI , Operand: 359
+Offset: 346, PUSHS , Operand: Tuna - Harpoon fishing
+Offset: 347, PUSHS , Operand: You can now catch 
+Offset: 348, PUSHS , Operand: <col=000080>
+Offset: 349, PUSHS , Operand: tuna
+Offset: 350, PUSHS , Operand: </col>
+Offset: 351, PUSHS , Operand:  with a harpoon.
+Offset: 352, CONCAT , Operand: 5
+Offset: 353, RETURN , Operand: 0
+Offset: 354, GOTO , Operand: 142
+Offset: 355, PUSHI , Operand: 38
+Offset: 356, PUSHI , Operand: 10138
+Offset: 357, PUSHS , Operand: Members: Rainbow fish - Stripy fly-fishing
+Offset: 358, PUSHS , Operand: Members can now catch 
+Offset: 359, PUSHS , Operand: <col=000080>
+Offset: 360, PUSHS , Operand: rainbow fish
+Offset: 361, PUSHS , Operand: </col>
+Offset: 362, PUSHS , Operand:  with a fly-fishing rod.
+Offset: 363, CONCAT , Operand: 5
+Offset: 364, RETURN , Operand: 0
+Offset: 365, GOTO , Operand: 131
+Offset: 366, PUSHI , Operand: 38
+Offset: 367, PUSHI , Operand: 5001
+Offset: 368, PUSHS , Operand: Members: Cave eel - River bait fishing
+Offset: 369, PUSHS , Operand: Members can now catch 
+Offset: 370, PUSHS , Operand: <col=000080>
+Offset: 371, PUSHS , Operand: cave eels
+Offset: 372, PUSHS , Operand: </col>
+Offset: 373, PUSHS , Operand:  with a fishing rod.
+Offset: 374, CONCAT , Operand: 5
+Offset: 375, RETURN , Operand: 0
+Offset: 376, GOTO , Operand: 120
+Offset: 377, PUSHI , Operand: 40
+Offset: 378, PUSHI , Operand: 377
+Offset: 379, PUSHS , Operand: Lobster - Lobster pot fishing
+Offset: 380, PUSHS , Operand: You can now catch 
+Offset: 381, PUSHS , Operand: <col=000080>
+Offset: 382, PUSHS , Operand: lobsters
+Offset: 383, PUSHS , Operand: </col>
+Offset: 384, PUSHS , Operand:  with a lobster pot.
+Offset: 385, CONCAT , Operand: 5
+Offset: 386, RETURN , Operand: 0
+Offset: 387, GOTO , Operand: 109
+Offset: 388, PUSHI , Operand: 46
+Offset: 389, PUSHI , Operand: 363
+Offset: 390, PUSHS , Operand: Members: Bass - Big net fishing
+Offset: 391, PUSHS , Operand: Members can now catch 
+Offset: 392, PUSHS , Operand: <col=000080>
+Offset: 393, PUSHS , Operand: bass
+Offset: 394, PUSHS , Operand: </col>
+Offset: 395, PUSHS , Operand:  with a big net.
+Offset: 396, CONCAT , Operand: 5
+Offset: 397, RETURN , Operand: 0
+Offset: 398, GOTO , Operand: 98
+Offset: 399, PUSHI , Operand: 50
+Offset: 400, PUSHI , Operand: 371
+Offset: 401, PUSHS , Operand: Swordfish - Harpoon fishing
+Offset: 402, PUSHS , Operand: You can now catch 
+Offset: 403, PUSHS , Operand: <col=000080>
+Offset: 404, PUSHS , Operand: swordfish
+Offset: 405, PUSHS , Operand: </col>
+Offset: 406, PUSHS , Operand:  with a harpoon.
+Offset: 407, CONCAT , Operand: 5
+Offset: 408, RETURN , Operand: 0
+Offset: 409, GOTO , Operand: 87
+Offset: 410, PUSHI , Operand: 53
+Offset: 411, PUSHI , Operand: 2148
+Offset: 412, PUSHS , Operand: Members: Lava eel - Bait fishing (oily fishing rod)
+Offset: 413, PUSHS , Operand: Members can now catch 
+Offset: 414, PUSHS , Operand: <col=000080>
+Offset: 415, PUSHS , Operand: lava eels
+Offset: 416, PUSHS , Operand: </col>
+Offset: 417, PUSHS , Operand:  with an oily fishing rod.
+Offset: 418, CONCAT , Operand: 5
+Offset: 419, RETURN , Operand: 0
+Offset: 420, GOTO , Operand: 76
+Offset: 421, PUSHI , Operand: 62
+Offset: 422, PUSHI , Operand: 7944
+Offset: 423, PUSHS , Operand: Members: Monkfish - Net fishing
+Offset: 424, PUSHS , Operand: Members can now catch 
+Offset: 425, PUSHS , Operand: <col=000080>
+Offset: 426, PUSHS , Operand: monkfish
+Offset: 427, PUSHS , Operand: </col>
+Offset: 428, PUSHS , Operand:  with a net.
+Offset: 429, CONCAT , Operand: 5
+Offset: 430, RETURN , Operand: 0
+Offset: 431, GOTO , Operand: 65
+Offset: 432, PUSHI , Operand: 65
+Offset: 433, PUSHI , Operand: 3142
+Offset: 434, PUSHS , Operand: Members: Karambwan - Vessel fishing
+Offset: 435, PUSHS , Operand: Members can now catch 
+Offset: 436, PUSHS , Operand: <col=000080>
+Offset: 437, PUSHS , Operand: karambwan
+Offset: 438, PUSHS , Operand: </col>
+Offset: 439, PUSHS , Operand:  with a karambwan vessel in Karamja.
+Offset: 440, CONCAT , Operand: 5
+Offset: 441, RETURN , Operand: 0
+Offset: 442, GOTO , Operand: 54
+Offset: 443, PUSHI , Operand: 76
+Offset: 444, PUSHI , Operand: 383
+Offset: 445, PUSHS , Operand: Members: Shark - Harpoon fishing
+Offset: 446, PUSHS , Operand: Members can now catch 
+Offset: 447, PUSHS , Operand: <col=000080>
+Offset: 448, PUSHS , Operand: sharks
+Offset: 449, PUSHS , Operand: </col>
+Offset: 450, PUSHS , Operand:  with a harpoon.
+Offset: 451, CONCAT , Operand: 5
+Offset: 452, RETURN , Operand: 0
+Offset: 453, GOTO , Operand: 43
+Offset: 454, PUSHI , Operand: 79
+Offset: 455, PUSHI , Operand: 395
+Offset: 456, PUSHS , Operand: Members: Sea turtle - Fishing Trawler
+Offset: 457, PUSHS , Operand: Members can now catch 
+Offset: 458, PUSHS , Operand: <col=000080>
+Offset: 459, PUSHS , Operand: sea turtles
+Offset: 460, PUSHS , Operand: </col>
+Offset: 461, PUSHS , Operand:  in Fishing Trawler.
+Offset: 462, CONCAT , Operand: 5
+Offset: 463, RETURN , Operand: 0
+Offset: 464, GOTO , Operand: 32
+Offset: 465, PUSHI , Operand: 81
+Offset: 466, PUSHI , Operand: 389
+Offset: 467, PUSHS , Operand: Members: Manta ray - Fishing Trawler
+Offset: 468, PUSHS , Operand: Members can now catch 
+Offset: 469, PUSHS , Operand: <col=000080>
+Offset: 470, PUSHS , Operand: manta rays
+Offset: 471, PUSHS , Operand: </col>
+Offset: 472, PUSHS , Operand:  in Fishing Trawler.
+Offset: 473, CONCAT , Operand: 5
+Offset: 474, RETURN , Operand: 0
+Offset: 475, GOTO , Operand: 21
+Offset: 476, PUSHI , Operand: 85
+Offset: 477, PUSHI , Operand: 15264
+Offset: 478, PUSHS , Operand: Members: Cavefish - Cave bait fishing
+Offset: 479, PUSHS , Operand: Members can now catch 
+Offset: 480, PUSHS , Operand: <col=000080>
+Offset: 481, PUSHS , Operand: cavefish
+Offset: 482, PUSHS , Operand: </col>
+Offset: 483, PUSHS , Operand:  with a fishing rod.
+Offset: 484, CONCAT , Operand: 5
+Offset: 485, RETURN , Operand: 0
+Offset: 486, GOTO , Operand: 10
+Offset: 487, PUSHI , Operand: 90
+Offset: 488, PUSHI , Operand: 15270
+Offset: 489, PUSHS , Operand: Members: Rocktail - Living minerals cave bait fishing
+Offset: 490, PUSHS , Operand: Members can now catch 
+Offset: 491, PUSHS , Operand: <col=000080>
+Offset: 492, PUSHS , Operand: rocktails
+Offset: 493, PUSHS , Operand: </col>
+Offset: 494, PUSHS , Operand:  with a fishing rod.
+Offset: 495, CONCAT , Operand: 5
+Offset: 496, RETURN , Operand: 0
+Offset: 497, GOTO , Operand: 488
+Offset: 498, LOADINT , Operand: 1
+Offset: 499, SWITCH , Operand: 3
+Offset: 500, GOTO , Operand: 131
+Offset: 501, PUSHI , Operand: -1
+Offset: 502, PUSHI , Operand: 7620
+Offset: 503, PUSHS , Operand: To start fishing like a barbarian, talk to Otto Godblessed when you have at least level 48 Fishing, level 15 Agility and level 15 Strength.
+Offset: 504, PUSHS , Operand: 
+Offset: 505, RETURN , Operand: 0
+Offset: 506, GOTO , Operand: 125
+Offset: 507, PUSHI , Operand: 48
+Offset: 508, PUSHI , Operand: 11328
+Offset: 509, PUSHS , Operand: Members: Leaping trout
+Offset: 510, PUSHS , Operand: <br>
+Offset: 511, PUSHS , Operand:  (with 15 Strength and 15 Agility)
+Offset: 512, CONCAT , Operand: 3
+Offset: 513, PUSHS , Operand: Members who are versed in the art of barbarian fishing now have the Fishing level required to catch 
+Offset: 514, PUSHS , Operand: <col=000080>
+Offset: 515, PUSHS , Operand: leaping trout
+Offset: 516, PUSHS , Operand: </col>
+Offset: 517, PUSHS , Operand:  with a heavy rod. (They also need level 15 Agility and level 15 Strength.)
+Offset: 518, CONCAT , Operand: 5
+Offset: 519, RETURN , Operand: 0
+Offset: 520, GOTO , Operand: 111
+Offset: 521, PUSHI , Operand: 55
+Offset: 522, PUSHI , Operand: 359
+Offset: 523, PUSHS , Operand: Members: Tuna
+Offset: 524, PUSHS , Operand: <br>
+Offset: 525, PUSHS , Operand:  (with 35 Strength)
+Offset: 526, CONCAT , Operand: 3
+Offset: 527, PUSHS , Operand: Members who are versed in the art of barbarian fishing now have the Fishing level required to catch 
+Offset: 528, PUSHS , Operand: <col=000080>
+Offset: 529, PUSHS , Operand: tuna
+Offset: 530, PUSHS , Operand: </col>
+Offset: 531, PUSHS , Operand:  without a harpoon. (They also need level 35 Strength.)
+Offset: 532, CONCAT , Operand: 5
+Offset: 533, RETURN , Operand: 0
+Offset: 534, GOTO , Operand: 97
+Offset: 535, PUSHI , Operand: 55
+Offset: 536, PUSHI , Operand: 359
+Offset: 537, PUSHS , Operand: Members: Possibility of catching two tuna in one fishing attempt
+Offset: 538, PUSHS , Operand: <br>
+Offset: 539, PUSHS , Operand:  (with 35 Strength and 35 Agility)
+Offset: 540, CONCAT , Operand: 3
+Offset: 541, PUSHS , Operand: Members who are versed in the art of barbarian fishing now have the Fishing level required to potentially catch two 
+Offset: 542, PUSHS , Operand: <col=000080>
+Offset: 543, PUSHS , Operand: tuna
+Offset: 544, PUSHS , Operand: </col>
+Offset: 545, PUSHS , Operand:  in one attempt without a harpoon. (They also need level 35 Strength and 35 Agility.)
+Offset: 546, CONCAT , Operand: 5
+Offset: 547, RETURN , Operand: 0
+Offset: 548, GOTO , Operand: 83
+Offset: 549, PUSHI , Operand: 58
+Offset: 550, PUSHI , Operand: 11330
+Offset: 551, PUSHS , Operand: Members: Leaping salmon
+Offset: 552, PUSHS , Operand: <br>
+Offset: 553, PUSHS , Operand:  (with 30 Strength and 30 Agility)
+Offset: 554, CONCAT , Operand: 3
+Offset: 555, PUSHS , Operand: Members who are versed in the art of barbarian fishing now have the Fishing level required to catch 
+Offset: 556, PUSHS , Operand: <col=000080>
+Offset: 557, PUSHS , Operand: leaping salmon
+Offset: 558, PUSHS , Operand: </col>
+Offset: 559, PUSHS , Operand:  with a heavy rod. (They also need level 30 Agility and level 30 Strength.)
+Offset: 560, CONCAT , Operand: 5
+Offset: 561, RETURN , Operand: 0
+Offset: 562, GOTO , Operand: 69
+Offset: 563, PUSHI , Operand: 70
+Offset: 564, PUSHI , Operand: 371
+Offset: 565, PUSHS , Operand: Members: Swordfish
+Offset: 566, PUSHS , Operand: <br>
+Offset: 567, PUSHS , Operand:  (with 50 Strength)
+Offset: 568, CONCAT , Operand: 3
+Offset: 569, PUSHS , Operand: Members who are versed in the art of barbarian fishing now have the Fishing level required to potentially catch two 
+Offset: 570, PUSHS , Operand: <col=000080>
+Offset: 571, PUSHS , Operand: swordfish
+Offset: 572, PUSHS , Operand: </col>
+Offset: 573, PUSHS , Operand:  in one attempt without a harpoon. (They also need level 50 Strength.)
+Offset: 574, CONCAT , Operand: 5
+Offset: 575, RETURN , Operand: 0
+Offset: 576, GOTO , Operand: 55
+Offset: 577, PUSHI , Operand: 70
+Offset: 578, PUSHI , Operand: 371
+Offset: 579, PUSHS , Operand: Members: Possibility of catching two swordfish in one fishing attempt
+Offset: 580, PUSHS , Operand: <br>
+Offset: 581, PUSHS , Operand:  (with 50 Strength and 50 Agility)
+Offset: 582, CONCAT , Operand: 3
+Offset: 583, PUSHS , Operand: Members who are versed in the art of barbarian fishing now have the Fishing level required to catch 
+Offset: 584, PUSHS , Operand: <col=000080>
+Offset: 585, PUSHS , Operand: swordfish
+Offset: 586, PUSHS , Operand: </col>
+Offset: 587, PUSHS , Operand:  without a harpoon. (They also need level 50 Strength and 50 Agility.)
+Offset: 588, CONCAT , Operand: 5
+Offset: 589, RETURN , Operand: 0
+Offset: 590, GOTO , Operand: 41
+Offset: 591, PUSHI , Operand: 70
+Offset: 592, PUSHI , Operand: 11332
+Offset: 593, PUSHS , Operand: Members: Leaping sturgeon
+Offset: 594, PUSHS , Operand: <br>
+Offset: 595, PUSHS , Operand:  (with 45 Strength and 45 Agility)
+Offset: 596, CONCAT , Operand: 3
+Offset: 597, PUSHS , Operand: Members who are versed in the art of barbarian fishing now have the Fishing level required to catch 
+Offset: 598, PUSHS , Operand: <col=000080>
+Offset: 599, PUSHS , Operand: leaping sturgeon
+Offset: 600, PUSHS , Operand: </col>
+Offset: 601, PUSHS , Operand:  with a heavy rod. (They also need level 45 Agility and level 45 Strength.)
+Offset: 602, CONCAT , Operand: 5
+Offset: 603, RETURN , Operand: 0
+Offset: 604, GOTO , Operand: 27
+Offset: 605, PUSHI , Operand: 96
+Offset: 606, PUSHI , Operand: 383
+Offset: 607, PUSHS , Operand: Members: Shark
+Offset: 608, PUSHS , Operand: <br>
+Offset: 609, PUSHS , Operand:  (with 76 Strength)
+Offset: 610, CONCAT , Operand: 3
+Offset: 611, PUSHS , Operand: Members who are versed in the art of barbarian fishing now have the Fishing level required to catch 
+Offset: 612, PUSHS , Operand: <col=000080>
+Offset: 613, PUSHS , Operand: sharks
+Offset: 614, PUSHS , Operand: </col>
+Offset: 615, PUSHS , Operand:  without a harpoon. (They also need level 76 Strength.)
+Offset: 616, CONCAT , Operand: 5
+Offset: 617, RETURN , Operand: 0
+Offset: 618, GOTO , Operand: 13
+Offset: 619, PUSHI , Operand: 96
+Offset: 620, PUSHI , Operand: 383
+Offset: 621, PUSHS , Operand: Members: Possibility of catching two sharks in one fishing attempt
+Offset: 622, PUSHS , Operand: <br>
+Offset: 623, PUSHS , Operand:  (with 76 Strength and 76 Agility)
+Offset: 624, CONCAT , Operand: 3
+Offset: 625, PUSHS , Operand: Members who are versed in the art of barbarian fishing now have the Fishing level required to potentially catch two 
+Offset: 626, PUSHS , Operand: <col=000080>
+Offset: 627, PUSHS , Operand: sharks
+Offset: 628, PUSHS , Operand: </col>
+Offset: 629, PUSHS , Operand:  in one attempt without a harpoon. (They also need level 76 Strength and 76 Agility.)
+Offset: 630, CONCAT , Operand: 5
+Offset: 631, RETURN , Operand: 0
+Offset: 632, GOTO , Operand: 353
+Offset: 633, LOADINT , Operand: 1
+Offset: 634, SWITCH , Operand: 4
+Offset: 635, GOTO , Operand: 41
+Offset: 636, PUSHI , Operand: 35
+Offset: 637, PUSHI , Operand: 359
+Offset: 638, PUSHS , Operand: Possibility of catching two tuna in one fishing attempt
+Offset: 639, PUSHS , Operand: <br>
+Offset: 640, PUSHS , Operand:  (with 35 Agility)
+Offset: 641, CONCAT , Operand: 3
+Offset: 642, PUSHS , Operand: You now have the Fishing level required to potentially catch two 
+Offset: 643, PUSHS , Operand: <col=000080>
+Offset: 644, PUSHS , Operand: tuna
+Offset: 645, PUSHS , Operand: </col>
+Offset: 646, PUSHS , Operand:  in one fishing attempt. (You also need level 35 Agility.)
+Offset: 647, CONCAT , Operand: 5
+Offset: 648, RETURN , Operand: 0
+Offset: 649, GOTO , Operand: 27
+Offset: 650, PUSHI , Operand: 50
+Offset: 651, PUSHI , Operand: 371
+Offset: 652, PUSHS , Operand: Possibility of catching two swordfish in one fishing attempt
+Offset: 653, PUSHS , Operand: <br>
+Offset: 654, PUSHS , Operand:  (with 50 Agility)
+Offset: 655, CONCAT , Operand: 3
+Offset: 656, PUSHS , Operand: You now have the Fishing level required to potentially catch two 
+Offset: 657, PUSHS , Operand: <col=000080>
+Offset: 658, PUSHS , Operand: swordfish
+Offset: 659, PUSHS , Operand: </col>
+Offset: 660, PUSHS , Operand:  in one fishing attempt. (You also need level 50 Agility.)
+Offset: 661, CONCAT , Operand: 5
+Offset: 662, RETURN , Operand: 0
+Offset: 663, GOTO , Operand: 13
+Offset: 664, PUSHI , Operand: 76
+Offset: 665, PUSHI , Operand: 383
+Offset: 666, PUSHS , Operand: Possibility of catching two sharks in one fishing attempt
+Offset: 667, PUSHS , Operand: <br>
+Offset: 668, PUSHS , Operand:  (with 76 Agility)
+Offset: 669, CONCAT , Operand: 3
+Offset: 670, PUSHS , Operand: You now have the Fishing level required to potentially catch two 
+Offset: 671, PUSHS , Operand: <col=000080>
+Offset: 672, PUSHS , Operand: sharks
+Offset: 673, PUSHS , Operand: </col>
+Offset: 674, PUSHS , Operand:  in one fishing attempt. (You also need level 76 Agility.)
+Offset: 675, CONCAT , Operand: 5
+Offset: 676, RETURN , Operand: 0
+Offset: 677, GOTO , Operand: 308
+Offset: 678, LOADINT , Operand: 1
+Offset: 679, SWITCH , Operand: 5
+Offset: 680, GOTO , Operand: 43
+Offset: 681, PUSHI , Operand: 91
+Offset: 682, PUSHI , Operand: 18778
+Offset: 683, PUSHS , Operand: Members: Starved ancient effigies
+Offset: 684, PUSHS , Operand: Members can now investigate 
+Offset: 685, PUSHS , Operand: <col=000080>
+Offset: 686, PUSHS , Operand: starved ancient effigies
+Offset: 687, PUSHS , Operand: </col>
+Offset: 688, PUSHS , Operand:  using their knowledge of Fishing.
+Offset: 689, CONCAT , Operand: 5
+Offset: 690, RETURN , Operand: 0
+Offset: 691, GOTO , Operand: 32
+Offset: 692, PUSHI , Operand: 93
+Offset: 693, PUSHI , Operand: 18779
+Offset: 694, PUSHS , Operand: Members: Nourished ancient effigies
+Offset: 695, PUSHS , Operand: Members can now investigate 
+Offset: 696, PUSHS , Operand: <col=000080>
+Offset: 697, PUSHS , Operand: nourished ancient effigies
+Offset: 698, PUSHS , Operand: </col>
+Offset: 699, PUSHS , Operand:  using their knowledge of Fishing.
+Offset: 700, CONCAT , Operand: 5
+Offset: 701, RETURN , Operand: 0
+Offset: 702, GOTO , Operand: 21
+Offset: 703, PUSHI , Operand: 95
+Offset: 704, PUSHI , Operand: 18780
+Offset: 705, PUSHS , Operand: Members: Sated ancient effigies
+Offset: 706, PUSHS , Operand: Members can now investigate 
+Offset: 707, PUSHS , Operand: <col=000080>
+Offset: 708, PUSHS , Operand: sated ancient effigies
+Offset: 709, PUSHS , Operand: </col>
+Offset: 710, PUSHS , Operand:  using their knowledge of Fishing.
+Offset: 711, CONCAT , Operand: 5
+Offset: 712, RETURN , Operand: 0
+Offset: 713, GOTO , Operand: 10
+Offset: 714, PUSHI , Operand: 97
+Offset: 715, PUSHI , Operand: 18781
+Offset: 716, PUSHS , Operand: Members: Gorged ancient effigies
+Offset: 717, PUSHS , Operand: Members can now investigate 
+Offset: 718, PUSHS , Operand: <col=000080>
+Offset: 719, PUSHS , Operand: gorged ancient effigies
+Offset: 720, PUSHS , Operand: </col>
+Offset: 721, PUSHS , Operand:  using their knowledge of Fishing.
+Offset: 722, CONCAT , Operand: 5
+Offset: 723, RETURN , Operand: 0
+Offset: 724, GOTO , Operand: 261
+Offset: 725, LOADINT , Operand: 1
+Offset: 726, SWITCH , Operand: 6
+Offset: 727, GOTO , Operand: 98
+Offset: 728, PUSHI , Operand: 1
+Offset: 729, PUSHI , Operand: 14142
+Offset: 730, PUSHS , Operand: Members: Stealing Creation - class 1 harpoon
+Offset: 731, PUSHS , Operand: Members can now use 
+Offset: 732, PUSHS , Operand: <col=000080>
+Offset: 733, PUSHS , Operand: class 1 harpoons
+Offset: 734, PUSHS , Operand: </col>
+Offset: 735, PUSHS , Operand:  in Stealing Creation.
+Offset: 736, CONCAT , Operand: 5
+Offset: 737, RETURN , Operand: 0
+Offset: 738, GOTO , Operand: 87
+Offset: 739, PUSHI , Operand: 20
+Offset: 740, PUSHI , Operand: 14184
+Offset: 741, PUSHS , Operand: Members: Stealing Creation - catch class 2 sacred clay
+Offset: 742, PUSHS , Operand: Members can now catch 
+Offset: 743, PUSHS , Operand: <col=000080>
+Offset: 744, PUSHS , Operand: class 2 sacred clay
+Offset: 745, PUSHS , Operand: </col>
+Offset: 746, PUSHS , Operand:  in Stealing Creation.
+Offset: 747, CONCAT , Operand: 5
+Offset: 748, RETURN , Operand: 0
+Offset: 749, GOTO , Operand: 76
+Offset: 750, PUSHI , Operand: 20
+Offset: 751, PUSHI , Operand: 14144
+Offset: 752, PUSHS , Operand: Members: Stealing Creation - class 2 harpoon
+Offset: 753, PUSHS , Operand: Members can now use 
+Offset: 754, PUSHS , Operand: <col=000080>
+Offset: 755, PUSHS , Operand: class 2 harpoons
+Offset: 756, PUSHS , Operand: </col>
+Offset: 757, PUSHS , Operand:  in Stealing Creation.
+Offset: 758, CONCAT , Operand: 5
+Offset: 759, RETURN , Operand: 0
+Offset: 760, GOTO , Operand: 65
+Offset: 761, PUSHI , Operand: 40
+Offset: 762, PUSHI , Operand: 14186
+Offset: 763, PUSHS , Operand: Members: Stealing Creation - catch class 3 sacred clay
+Offset: 764, PUSHS , Operand: Members can now catch 
+Offset: 765, PUSHS , Operand: <col=000080>
+Offset: 766, PUSHS , Operand: class 3 sacred clay
+Offset: 767, PUSHS , Operand: </col>
+Offset: 768, PUSHS , Operand:  in Stealing Creation.
+Offset: 769, CONCAT , Operand: 5
+Offset: 770, RETURN , Operand: 0
+Offset: 771, GOTO , Operand: 54
+Offset: 772, PUSHI , Operand: 40
+Offset: 773, PUSHI , Operand: 14146
+Offset: 774, PUSHS , Operand: Members: Stealing Creation - class 3 harpoon
+Offset: 775, PUSHS , Operand: Members can now use 
+Offset: 776, PUSHS , Operand: <col=000080>
+Offset: 777, PUSHS , Operand: class 3 harpoons
+Offset: 778, PUSHS , Operand: </col>
+Offset: 779, PUSHS , Operand:  in Stealing Creation.
+Offset: 780, CONCAT , Operand: 5
+Offset: 781, RETURN , Operand: 0
+Offset: 782, GOTO , Operand: 43
+Offset: 783, PUSHI , Operand: 60
+Offset: 784, PUSHI , Operand: 14188
+Offset: 785, PUSHS , Operand: Members: Stealing Creation - catch class 4 sacred clay
+Offset: 786, PUSHS , Operand: Members can now catch 
+Offset: 787, PUSHS , Operand: <col=000080>
+Offset: 788, PUSHS , Operand: class 4 sacred clay
+Offset: 789, PUSHS , Operand: </col>
+Offset: 790, PUSHS , Operand:  in Stealing Creation.
+Offset: 791, CONCAT , Operand: 5
+Offset: 792, RETURN , Operand: 0
+Offset: 793, GOTO , Operand: 32
+Offset: 794, PUSHI , Operand: 60
+Offset: 795, PUSHI , Operand: 14148
+Offset: 796, PUSHS , Operand: Members: Stealing Creation - class 4 harpoon
+Offset: 797, PUSHS , Operand: Members can now use 
+Offset: 798, PUSHS , Operand: <col=000080>
+Offset: 799, PUSHS , Operand: class 4 harpoons
+Offset: 800, PUSHS , Operand: </col>
+Offset: 801, PUSHS , Operand:  in Stealing Creation.
+Offset: 802, CONCAT , Operand: 5
+Offset: 803, RETURN , Operand: 0
+Offset: 804, GOTO , Operand: 21
+Offset: 805, PUSHI , Operand: 80
+Offset: 806, PUSHI , Operand: 14190
+Offset: 807, PUSHS , Operand: Members: Stealing Creation - catch class 5 sacred clay
+Offset: 808, PUSHS , Operand: Members can now catch 
+Offset: 809, PUSHS , Operand: <col=000080>
+Offset: 810, PUSHS , Operand: class 5 sacred clay
+Offset: 811, PUSHS , Operand: </col>
+Offset: 812, PUSHS , Operand:  in Stealing Creation.
+Offset: 813, CONCAT , Operand: 5
+Offset: 814, RETURN , Operand: 0
+Offset: 815, GOTO , Operand: 10
+Offset: 816, PUSHI , Operand: 80
+Offset: 817, PUSHI , Operand: 14150
+Offset: 818, PUSHS , Operand: Members: Stealing Creation - class 5 harpoon
+Offset: 819, PUSHS , Operand: Members can now use 
+Offset: 820, PUSHS , Operand: <col=000080>
+Offset: 821, PUSHS , Operand: class 5 harpoons
+Offset: 822, PUSHS , Operand: </col>
+Offset: 823, PUSHS , Operand:  in Stealing Creation.
+Offset: 824, CONCAT , Operand: 5
+Offset: 825, RETURN , Operand: 0
+Offset: 826, GOTO , Operand: 159
+Offset: 827, LOADINT , Operand: 1
+Offset: 828, SWITCH , Operand: 7
+Offset: 829, GOTO , Operand: 118
+Offset: 830, PUSHI , Operand: -1
+Offset: 831, PUSHI , Operand: 15707
+Offset: 832, PUSHS , Operand: Dungeoneering skill tasks
+Offset: 833, PUSHS , Operand: <br>
+Offset: 834, PUSHS , Operand: As your Fishing level increases, you will be able to attempt higher-level fishing tasks within Daemonheim. You will also be more likely to succeed when attempting fishing tasks within Daemonheim.
+Offset: 835, CONCAT , Operand: 3
+Offset: 836, PUSHS , Operand: 
+Offset: 837, RETURN , Operand: 0
+Offset: 838, GOTO , Operand: 109
+Offset: 839, PUSHI , Operand: 1
+Offset: 840, PUSHI , Operand: 17797
+Offset: 841, PUSHS , Operand: Heim crab (Tier 1)
+Offset: 842, PUSHS , Operand: You can now catch 
+Offset: 843, PUSHS , Operand: <col=000080>
+Offset: 844, PUSHS , Operand: heim crabs
+Offset: 845, PUSHS , Operand: </col>
+Offset: 846, PUSHS , Operand:  within Daemonheim.
+Offset: 847, CONCAT , Operand: 5
+Offset: 848, RETURN , Operand: 0
+Offset: 849, GOTO , Operand: 98
+Offset: 850, PUSHI , Operand: 10
+Offset: 851, PUSHI , Operand: 17799
+Offset: 852, PUSHS , Operand: Red-eye (Tier 2)
+Offset: 853, PUSHS , Operand: You can now catch 
+Offset: 854, PUSHS , Operand: <col=000080>
+Offset: 855, PUSHS , Operand: red-eye
+Offset: 856, PUSHS , Operand: </col>
+Offset: 857, PUSHS , Operand:  within Daemonheim.
+Offset: 858, CONCAT , Operand: 5
+Offset: 859, RETURN , Operand: 0
+Offset: 860, GOTO , Operand: 87
+Offset: 861, PUSHI , Operand: 20
+Offset: 862, PUSHI , Operand: 17801
+Offset: 863, PUSHS , Operand: Dusk eel (Tier 3)
+Offset: 864, PUSHS , Operand: You can now catch 
+Offset: 865, PUSHS , Operand: <col=000080>
+Offset: 866, PUSHS , Operand: dusk eels
+Offset: 867, PUSHS , Operand: </col>
+Offset: 868, PUSHS , Operand:  within Daemonheim.
+Offset: 869, CONCAT , Operand: 5
+Offset: 870, RETURN , Operand: 0
+Offset: 871, GOTO , Operand: 76
+Offset: 872, PUSHI , Operand: 30
+Offset: 873, PUSHI , Operand: 17803
+Offset: 874, PUSHS , Operand: Giant flatfish (Tier 4)
+Offset: 875, PUSHS , Operand: You can now catch 
+Offset: 876, PUSHS , Operand: <col=000080>
+Offset: 877, PUSHS , Operand: giant flatfish
+Offset: 878, PUSHS , Operand: </col>
+Offset: 879, PUSHS , Operand:  within Daemonheim.
+Offset: 880, CONCAT , Operand: 5
+Offset: 881, RETURN , Operand: 0
+Offset: 882, GOTO , Operand: 65
+Offset: 883, PUSHI , Operand: 40
+Offset: 884, PUSHI , Operand: 17805
+Offset: 885, PUSHS , Operand: Short-finned eel (Tier 5)
+Offset: 886, PUSHS , Operand: You can now catch 
+Offset: 887, PUSHS , Operand: <col=000080>
+Offset: 888, PUSHS , Operand: short-finned eels
+Offset: 889, PUSHS , Operand: </col>
+Offset: 890, PUSHS , Operand:  within Daemonheim.
+Offset: 891, CONCAT , Operand: 5
+Offset: 892, RETURN , Operand: 0
+Offset: 893, GOTO , Operand: 54
+Offset: 894, PUSHI , Operand: 50
+Offset: 895, PUSHI , Operand: 17807
+Offset: 896, PUSHS , Operand: Members: Web snipper (Tier 6)
+Offset: 897, PUSHS , Operand: Members can now catch 
+Offset: 898, PUSHS , Operand: <col=000080>
+Offset: 899, PUSHS , Operand: web snippers
+Offset: 900, PUSHS , Operand: </col>
+Offset: 901, PUSHS , Operand:  within Daemonheim.
+Offset: 902, CONCAT , Operand: 5
+Offset: 903, RETURN , Operand: 0
+Offset: 904, GOTO , Operand: 43
+Offset: 905, PUSHI , Operand: 60
+Offset: 906, PUSHI , Operand: 17809
+Offset: 907, PUSHS , Operand: Members: Bouldabass (Tier 7)
+Offset: 908, PUSHS , Operand: Members can now catch 
+Offset: 909, PUSHS , Operand: <col=000080>
+Offset: 910, PUSHS , Operand: bouldabass
+Offset: 911, PUSHS , Operand: </col>
+Offset: 912, PUSHS , Operand:  within Daemonheim.
+Offset: 913, CONCAT , Operand: 5
+Offset: 914, RETURN , Operand: 0
+Offset: 915, GOTO , Operand: 32
+Offset: 916, PUSHI , Operand: 70
+Offset: 917, PUSHI , Operand: 17811
+Offset: 918, PUSHS , Operand: Members: Salve eel (Tier 8)
+Offset: 919, PUSHS , Operand: Members can now catch 
+Offset: 920, PUSHS , Operand: <col=000080>
+Offset: 921, PUSHS , Operand: salve eels
+Offset: 922, PUSHS , Operand: </col>
+Offset: 923, PUSHS , Operand:  within Daemonheim.
+Offset: 924, CONCAT , Operand: 5
+Offset: 925, RETURN , Operand: 0
+Offset: 926, GOTO , Operand: 21
+Offset: 927, PUSHI , Operand: 80
+Offset: 928, PUSHI , Operand: 17813
+Offset: 929, PUSHS , Operand: Members: Blue crab (Tier 9)
+Offset: 930, PUSHS , Operand: Members can now catch 
+Offset: 931, PUSHS , Operand: <col=000080>
+Offset: 932, PUSHS , Operand: blue crabs
+Offset: 933, PUSHS , Operand: </col>
+Offset: 934, PUSHS , Operand:  within Daemonheim.
+Offset: 935, CONCAT , Operand: 5
+Offset: 936, RETURN , Operand: 0
+Offset: 937, GOTO , Operand: 10
+Offset: 938, PUSHI , Operand: 90
+Offset: 939, PUSHI , Operand: 17815
+Offset: 940, PUSHS , Operand: Members: Cave moray (Tier 10)
+Offset: 941, PUSHS , Operand: Members can now catch 
+Offset: 942, PUSHS , Operand: <col=000080>
+Offset: 943, PUSHS , Operand: cave morays
+Offset: 944, PUSHS , Operand: </col>
+Offset: 945, PUSHS , Operand:  within Daemonheim.
+Offset: 946, CONCAT , Operand: 5
+Offset: 947, RETURN , Operand: 0
+Offset: 948, GOTO , Operand: 37
+Offset: 949, LOADINT , Operand: 1
+Offset: 950, SWITCH , Operand: 8
+Offset: 951, GOTO , Operand: 34
+Offset: 952, PUSHI , Operand: 68
+Offset: 953, PUSHI , Operand: 383
+Offset: 954, PUSHS , Operand: Members: Fishing Guild
+Offset: 955, PUSHS , Operand: Members can now enter the 
+Offset: 956, PUSHS , Operand: <col=000080>
+Offset: 957, PUSHS , Operand: Fishing Guild
+Offset: 958, PUSHS , Operand: </col>
+Offset: 959, PUSHS , Operand: .
+Offset: 960, CONCAT , Operand: 5
+Offset: 961, RETURN , Operand: 0
+Offset: 962, GOTO , Operand: 23
+Offset: 963, PUSHI , Operand: 99
+Offset: 964, PUSHI , Operand: 9798
+Offset: 965, PUSHS , Operand: Skill mastery
+Offset: 966, PUSHS , Operand: <col=000080>
+Offset: 967, PUSHS , Operand: Congratulations! You are now a master of 
+Offset: 968, PUSHS , Operand: <col=800000>
+Offset: 969, PUSHS , Operand: Fishing
+Offset: 970, PUSHS , Operand: <col=000080>
+Offset: 971, PUSHS , Operand: . Members can visit the 
+Offset: 972, PUSHS , Operand: <col=800000>
+Offset: 973, PUSHS , Operand: Master Fisherman
+Offset: 974, PUSHS , Operand: <col=000080>
+Offset: 975, PUSHS , Operand:  at the 
+Offset: 976, PUSHS , Operand: <col=800000>
+Offset: 977, PUSHS , Operand: Fishing Guild
+Offset: 978, PUSHS , Operand: <col=000080>
+Offset: 979, PUSHS , Operand: . He has something special that is only available to true masters of the 
+Offset: 980, PUSHS , Operand: <col=800000>
+Offset: 981, PUSHS , Operand: Fishing
+Offset: 982, PUSHS , Operand: <col=000080>
+Offset: 983, PUSHS , Operand:  skill!
+Offset: 984, CONCAT , Operand: 18
+Offset: 985, RETURN , Operand: 0
+Offset: 986, PUSHI , Operand: 0
+Offset: 987, PUSHI , Operand: -1
+Offset: 988, PUSHS , Operand: 
+Offset: 989, PUSHS , Operand: 
+Offset: 990, RETURN , Operand: 0
+
+================================================
+                Switch Table 0                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 163
+Key: 2, Value: 496
+Key: 3, Value: 631
+Key: 4, Value: 676
+Key: 5, Value: 723
+Key: 6, Value: 825
+Key: 7, Value: 947
+
+================================================
+                Switch Table 1                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 12
+Key: 2, Value: 23
+Key: 3, Value: 36
+Key: 4, Value: 47
+Key: 5, Value: 62
+Key: 6, Value: 73
+Key: 7, Value: 84
+Key: 8, Value: 95
+Key: 9, Value: 106
+Key: 10, Value: 120
+Key: 11, Value: 138
+Key: 12, Value: 149
+
+================================================
+                Switch Table 2                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 12
+Key: 2, Value: 23
+Key: 3, Value: 34
+Key: 4, Value: 45
+Key: 5, Value: 56
+Key: 6, Value: 67
+Key: 7, Value: 78
+Key: 8, Value: 89
+Key: 9, Value: 100
+Key: 10, Value: 111
+Key: 11, Value: 122
+Key: 12, Value: 133
+Key: 13, Value: 144
+Key: 14, Value: 155
+Key: 15, Value: 166
+Key: 17, Value: 188
+Key: 16, Value: 177
+Key: 19, Value: 210
+Key: 18, Value: 199
+Key: 21, Value: 232
+Key: 20, Value: 221
+Key: 23, Value: 254
+Key: 22, Value: 243
+Key: 25, Value: 276
+Key: 24, Value: 265
+Key: 27, Value: 298
+Key: 26, Value: 287
+Key: 29, Value: 320
+Key: 28, Value: 309
+
+================================================
+                Switch Table 3                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 7
+Key: 2, Value: 21
+Key: 3, Value: 35
+Key: 4, Value: 49
+Key: 5, Value: 63
+Key: 6, Value: 77
+Key: 7, Value: 91
+Key: 8, Value: 105
+Key: 9, Value: 119
+
+================================================
+                Switch Table 4                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 15
+Key: 2, Value: 29
+
+================================================
+                Switch Table 5                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 12
+Key: 2, Value: 23
+Key: 3, Value: 34
+
+================================================
+                Switch Table 6                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 12
+Key: 2, Value: 23
+Key: 3, Value: 34
+Key: 4, Value: 45
+Key: 5, Value: 56
+Key: 6, Value: 67
+Key: 7, Value: 78
+Key: 8, Value: 89
+
+================================================
+                Switch Table 7                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 10
+Key: 2, Value: 21
+Key: 3, Value: 32
+Key: 4, Value: 43
+Key: 5, Value: 54
+Key: 6, Value: 65
+Key: 7, Value: 76
+Key: 8, Value: 87
+Key: 9, Value: 98
+Key: 10, Value: 109
+
+================================================
+                Switch Table 8                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 12

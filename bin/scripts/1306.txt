@@ -1,0 +1,19 @@
+================================================
+      Client Script 1306 Dumped by SiniSoul    
+      Instruction Size: 8
+      Integer Arguments: 0 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, Unref Method: 5306, Operand: 0
+Offset: 1, PUSHI , Operand: 2
+Offset: 2, IFGTEQ , Operand: 1
+Offset: 3, GOTO , Operand: 2
+Offset: 4, CALL , Operand: 1385
+Offset: 5, GOTO , Operand: 1
+Offset: 6, CALL , Operand: 1386
+Offset: 7, RETURN , Operand: 0

@@ -1,0 +1,26 @@
+================================================
+      Client Script 3545 Dumped by SiniSoul    
+      Instruction Size: 15
+      Integer Arguments: 1 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHI , Operand: 105
+Offset: 1, PUSHI , Operand: 105
+Offset: 2, Unref Opcode: 25, Operand: 7392
+Offset: 3, CALL , Operand: 3548
+Offset: 4, LOADINT , Operand: 0
+Offset: 5, Unref Opcode: 25, Operand: 7388
+Offset: 6, IADD , Operand: 0
+Offset: 7, Unref Opcode: 25, Operand: 7392
+Offset: 8, CALL , Operand: 3548
+Offset: 9, Unref Method: 3411, Operand: 0
+Offset: 10, IMOD , Operand: 0
+Offset: 11, Unref Method: 3408, Operand: 0
+Offset: 12, RETURN , Operand: 0
+Offset: 13, PUSHI , Operand: 0
+Offset: 14, RETURN , Operand: 0

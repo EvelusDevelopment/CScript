@@ -1,0 +1,43 @@
+================================================
+      Client Script 2687 Dumped by SiniSoul    
+      Instruction Size: 32
+      Integer Arguments: 0 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, Unref Opcode: 1, Operand: 1447
+Offset: 1, PUSHI , Operand: 100
+Offset: 2, IFLT , Operand: 1
+Offset: 3, GOTO , Operand: 3
+Offset: 4, PUSHI , Operand: 10000
+Offset: 5, RETURN , Operand: 0
+Offset: 6, GOTO , Operand: 23
+Offset: 7, Unref Opcode: 1, Operand: 1447
+Offset: 8, PUSHI , Operand: 200
+Offset: 9, IFLT , Operand: 1
+Offset: 10, GOTO , Operand: 3
+Offset: 11, PUSHI , Operand: 12500
+Offset: 12, RETURN , Operand: 0
+Offset: 13, GOTO , Operand: 16
+Offset: 14, Unref Opcode: 1, Operand: 1447
+Offset: 15, PUSHI , Operand: 300
+Offset: 16, IFLT , Operand: 1
+Offset: 17, GOTO , Operand: 3
+Offset: 18, PUSHI , Operand: 15000
+Offset: 19, RETURN , Operand: 0
+Offset: 20, GOTO , Operand: 9
+Offset: 21, Unref Opcode: 1, Operand: 1447
+Offset: 22, PUSHI , Operand: 400
+Offset: 23, IFLT , Operand: 1
+Offset: 24, GOTO , Operand: 3
+Offset: 25, PUSHI , Operand: 17500
+Offset: 26, RETURN , Operand: 0
+Offset: 27, GOTO , Operand: 2
+Offset: 28, PUSHI , Operand: 20000
+Offset: 29, RETURN , Operand: 0
+Offset: 30, PUSHI , Operand: 0
+Offset: 31, RETURN , Operand: 0

@@ -1,0 +1,26 @@
+================================================
+      Client Script 306 Dumped by SiniSoul    
+      Instruction Size: 15
+      Integer Arguments: 2 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, Unref Method: 3300, Operand: 0
+Offset: 1, LOADINT , Operand: 0
+Offset: 2, ISUB , Operand: 0
+Offset: 3, PUSHI , Operand: 15
+Offset: 4, IFLT , Operand: 1
+Offset: 5, GOTO , Operand: 1
+Offset: 6, RETURN , Operand: 0
+Offset: 7, PUSHI , Operand: -1
+Offset: 8, PUSHS , Operand: 
+Offset: 9, LOADINT , Operand: 1
+Offset: 10, setInterfaceDefinitionScriptParams8 , Operand: 0
+Offset: 11, PUSHI , Operand: 16777215
+Offset: 12, LOADINT , Operand: 1
+Offset: 13, Unref Method: 2101, Operand: 0
+Offset: 14, RETURN , Operand: 0

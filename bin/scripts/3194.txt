@@ -1,0 +1,34 @@
+================================================
+      Client Script 3194 Dumped by SiniSoul    
+      Instruction Size: 23
+      Integer Arguments: 0 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHI , Operand: 59375690
+Offset: 1, Unref Method: 3112, Operand: 0
+Offset: 2, PUSHI , Operand: 1
+Offset: 3, PUSHI , Operand: 59375647
+Offset: 4, Unref Method: 2003, Operand: 0
+Offset: 5, PUSHI , Operand: -1
+Offset: 6, PUSHS , Operand: 
+Offset: 7, PUSHI , Operand: 59965440
+Offset: 8, setInterfaceDefinitionScriptParams19 , Operand: 0
+Offset: 9, PUSHI , Operand: 0
+Offset: 10, STOREGINT , Operand: 1094
+Offset: 11, PUSHI , Operand: 105
+Offset: 12, PUSHI , Operand: 73
+Offset: 13, PUSHI , Operand: 941
+Offset: 14, PUSHI , Operand: 3
+Offset: 15, Unref Method: 3408, Operand: 0
+Offset: 16, Unref Method: 2504, Operand: 0
+Offset: 17, PUSHI , Operand: 0
+Offset: 18, IFEQ , Operand: 1
+Offset: 19, GOTO , Operand: 2
+Offset: 20, PUSHI , Operand: 1
+Offset: 21, CALL , Operand: 3161
+Offset: 22, RETURN , Operand: 0

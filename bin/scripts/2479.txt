@@ -1,0 +1,30 @@
+================================================
+      Client Script 2479 Dumped by SiniSoul    
+      Instruction Size: 19
+      Integer Arguments: 0 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADGINT , Operand: 825
+Offset: 1, PUSHI , Operand: 1
+Offset: 2, IFLT , Operand: 1
+Offset: 3, GOTO , Operand: 2
+Offset: 4, PUSHI , Operand: 6
+Offset: 5, STOREGINT , Operand: 825
+Offset: 6, LOADGINT , Operand: 825
+Offset: 7, PUSHI , Operand: 0
+Offset: 8, IFGT , Operand: 1
+Offset: 9, GOTO , Operand: 4
+Offset: 10, LOADGINT , Operand: 825
+Offset: 11, PUSHI , Operand: 1
+Offset: 12, ISUB , Operand: 0
+Offset: 13, STOREGINT , Operand: 825
+Offset: 14, LOADGINT , Operand: 825
+Offset: 15, integerToString , Operand: 0
+Offset: 16, PUSHI , Operand: 2424867
+Offset: 17, Unref Method: 2112, Operand: 0
+Offset: 18, RETURN , Operand: 0

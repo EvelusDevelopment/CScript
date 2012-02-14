@@ -1,0 +1,64 @@
+================================================
+      Client Script 1433 Dumped by SiniSoul    
+      Instruction Size: 53
+      Integer Arguments: 0 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, Unref Method: 5306, Operand: 0
+Offset: 1, PUSHI , Operand: 1
+Offset: 2, IFGTEQ , Operand: 1
+Offset: 3, GOTO , Operand: 12
+Offset: 4, PUSHI , Operand: 1434
+Offset: 5, PUSHI , Operand: 184
+Offset: 6, PUSHI , Operand: 1
+Offset: 7, PUSHS , Operand: Y
+Offset: 8, PUSHI , Operand: 48889862
+Offset: 9, setInterfaceDefinitionScriptParams28 , Operand: 0
+Offset: 10, PUSHI , Operand: 1434
+Offset: 11, PUSHI , Operand: 184
+Offset: 12, PUSHI , Operand: 1
+Offset: 13, PUSHS , Operand: Y
+Offset: 14, PUSHI , Operand: 35913729
+Offset: 15, setInterfaceDefinitionScriptParams28 , Operand: 0
+Offset: 16, PUSHI , Operand: 1547
+Offset: 17, PUSHI , Operand: 5
+Offset: 18, PUSHI , Operand: 1
+Offset: 19, PUSHS , Operand: Y
+Offset: 20, PUSHI , Operand: 49283075
+Offset: 21, setInterfaceDefinitionScriptParams28 , Operand: 0
+Offset: 22, PUSHI , Operand: 721
+Offset: 23, PUSHS , Operand: 
+Offset: 24, PUSHI , Operand: 48889857
+Offset: 25, setInterfaceDefinitionScriptParams27 , Operand: 0
+Offset: 26, Unref Method: 5306, Operand: 0
+Offset: 27, PUSHI , Operand: 2
+Offset: 28, IFGTEQ , Operand: 1
+Offset: 29, GOTO , Operand: 11
+Offset: 30, PUSHI , Operand: 1850
+Offset: 31, PUSHI , Operand: 48890025
+Offset: 32, PUSHI , Operand: 281
+Offset: 33, PUSHI , Operand: 1255
+Offset: 34, PUSHI , Operand: 2
+Offset: 35, PUSHS , Operand: IY
+Offset: 36, PUSHI , Operand: 48889865
+Offset: 37, setInterfaceDefinitionScriptParams7 , Operand: 0
+Offset: 38, PUSHI , Operand: 48890025
+Offset: 39, CALL , Operand: 1886
+Offset: 40, GOTO , Operand: 10
+Offset: 41, PUSHI , Operand: 1850
+Offset: 42, PUSHI , Operand: 35913905
+Offset: 43, PUSHI , Operand: 281
+Offset: 44, PUSHI , Operand: 1255
+Offset: 45, PUSHI , Operand: 2
+Offset: 46, PUSHS , Operand: IY
+Offset: 47, PUSHI , Operand: 35913788
+Offset: 48, setInterfaceDefinitionScriptParams7 , Operand: 0
+Offset: 49, PUSHI , Operand: 35913905
+Offset: 50, CALL , Operand: 1886
+Offset: 51, CALL , Operand: 51
+Offset: 52, RETURN , Operand: 0

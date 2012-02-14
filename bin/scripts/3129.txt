@@ -1,0 +1,83 @@
+================================================
+      Client Script 3129 Dumped by SiniSoul    
+      Instruction Size: 72
+      Integer Arguments: 3 
+      String  Arguments: 1 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADINT , Operand: 0
+Offset: 1, PUSHI , Operand: 1
+Offset: 2, IFEQ , Operand: 1
+Offset: 3, GOTO , Operand: 66
+Offset: 4, LOADINT , Operand: 2
+Offset: 5, LOADSTR , Operand: 0
+Offset: 6, CALL , Operand: 3141
+Offset: 7, LOADINT , Operand: 1
+Offset: 8, PUSHI , Operand: -1
+Offset: 9, IFGT , Operand: 1
+Offset: 10, GOTO , Operand: 15
+Offset: 11, PUSHI , Operand: 59637823
+Offset: 12, LOADINT , Operand: 1
+Offset: 13, Unref Method: 200, Operand: 0
+Offset: 14, PUSHI , Operand: 1
+Offset: 15, IFEQ , Operand: 1
+Offset: 16, GOTO , Operand: 9
+Offset: 17, PUSHI , Operand: 0
+Offset: 18, PUSHI , Operand: 59637826
+Offset: 19, Unref Method: 2003, Operand: 0
+Offset: 20, PUSHI , Operand: 0
+Offset: 21, Unref Method: 1501, Operand: 0
+Offset: 22, PUSHI , Operand: 0
+Offset: 23, PUSHI , Operand: 0
+Offset: 24, PUSHI , Operand: 59637826
+Offset: 25, Unref Method: 2000, Operand: 0
+Offset: 26, Unref Method: 3318, Operand: 0
+Offset: 27, LOADGINT , Operand: 998
+Offset: 28, IFEQ , Operand: 1
+Offset: 29, GOTO , Operand: 9
+Offset: 30, PUSHI , Operand: 59637780
+Offset: 31, PUSHI , Operand: 3
+Offset: 32, Unref Method: 200, Operand: 0
+Offset: 33, PUSHI , Operand: 1
+Offset: 34, IFEQ , Operand: 1
+Offset: 35, GOTO , Operand: 2
+Offset: 36, PUSHI , Operand: 0
+Offset: 37, Unref Method: 1003, Operand: 0
+Offset: 38, GOTO , Operand: 8
+Offset: 39, PUSHI , Operand: 59637780
+Offset: 40, PUSHI , Operand: 3
+Offset: 41, Unref Method: 200, Operand: 0
+Offset: 42, PUSHI , Operand: 1
+Offset: 43, IFEQ , Operand: 1
+Offset: 44, GOTO , Operand: 2
+Offset: 45, PUSHI , Operand: 1
+Offset: 46, Unref Method: 1003, Operand: 0
+Offset: 47, Unref Method: 3318, Operand: 0
+Offset: 48, LOADGINT , Operand: 999
+Offset: 49, IFEQ , Operand: 1
+Offset: 50, GOTO , Operand: 9
+Offset: 51, PUSHI , Operand: 59637781
+Offset: 52, PUSHI , Operand: 3
+Offset: 53, Unref Method: 200, Operand: 0
+Offset: 54, PUSHI , Operand: 1
+Offset: 55, IFEQ , Operand: 1
+Offset: 56, GOTO , Operand: 2
+Offset: 57, PUSHI , Operand: 0
+Offset: 58, Unref Method: 1003, Operand: 0
+Offset: 59, GOTO , Operand: 8
+Offset: 60, PUSHI , Operand: 59637781
+Offset: 61, PUSHI , Operand: 3
+Offset: 62, Unref Method: 200, Operand: 0
+Offset: 63, PUSHI , Operand: 1
+Offset: 64, IFEQ , Operand: 1
+Offset: 65, GOTO , Operand: 2
+Offset: 66, PUSHI , Operand: 1
+Offset: 67, Unref Method: 1003, Operand: 0
+Offset: 68, PUSHI , Operand: 1
+Offset: 69, CALL , Operand: 3064
+Offset: 70, RETURN , Operand: 0
+Offset: 71, RETURN , Operand: 0

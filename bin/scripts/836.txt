@@ -1,0 +1,67 @@
+================================================
+      Client Script 836 Dumped by SiniSoul    
+      Instruction Size: 56
+      Integer Arguments: 4 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, Unref Method: 3300, Operand: 0
+Offset: 1, LOADINT , Operand: 1
+Offset: 2, ISUB , Operand: 0
+Offset: 3, STOREINT , Operand: 2
+Offset: 4, PUSHI , Operand: 0
+Offset: 5, STOREINT , Operand: 3
+Offset: 6, LOADINT , Operand: 2
+Offset: 7, PUSHI , Operand: 20
+Offset: 8, IFLTEQ , Operand: 1
+Offset: 9, GOTO , Operand: 13
+Offset: 10, PUSHI , Operand: 1
+Offset: 11, LOADINT , Operand: 2
+Offset: 12, IMUL , Operand: 0
+Offset: 13, PUSHI , Operand: 50
+Offset: 14, IADD , Operand: 0
+Offset: 15, STOREINT , Operand: 3
+Offset: 16, PUSHI , Operand: 43
+Offset: 17, LOADINT , Operand: 3
+Offset: 18, PUSHI , Operand: 0
+Offset: 19, PUSHI , Operand: 0
+Offset: 20, PUSHI , Operand: 35913776
+Offset: 21, Unref Method: 2000, Operand: 0
+Offset: 22, RETURN , Operand: 0
+Offset: 23, PUSHI , Operand: 1
+Offset: 24, PUSHI , Operand: 35913776
+Offset: 25, Unref Method: 2003, Operand: 0
+Offset: 26, PUSHI , Operand: 43
+Offset: 27, PUSHI , Operand: 50
+Offset: 28, PUSHI , Operand: 0
+Offset: 29, PUSHI , Operand: 0
+Offset: 30, PUSHI , Operand: 35913776
+Offset: 31, Unref Method: 2000, Operand: 0
+Offset: 32, PUSHI , Operand: -1
+Offset: 33, PUSHS , Operand: 
+Offset: 34, LOADINT , Operand: 0
+Offset: 35, setInterfaceDefinitionScriptParams8 , Operand: 0
+Offset: 36, Unref Opcode: 25, Operand: 7230
+Offset: 37, PUSHI , Operand: 999999
+Offset: 38, IFGT , Operand: 1
+Offset: 39, GOTO , Operand: 9
+Offset: 40, Unref Opcode: 25, Operand: 7230
+Offset: 41, PUSHI , Operand: 1000000
+Offset: 42, IDIV , Operand: 0
+Offset: 43, integerToString , Operand: 0
+Offset: 44, PUSHS , Operand: mil. xp
+Offset: 45, CONCAT , Operand: 2
+Offset: 46, PUSHI , Operand: 35913784
+Offset: 47, Unref Method: 2112, Operand: 0
+Offset: 48, GOTO , Operand: 6
+Offset: 49, Unref Opcode: 25, Operand: 7230
+Offset: 50, integerToString , Operand: 0
+Offset: 51, PUSHS , Operand: xp
+Offset: 52, CONCAT , Operand: 2
+Offset: 53, PUSHI , Operand: 35913784
+Offset: 54, Unref Method: 2112, Operand: 0
+Offset: 55, RETURN , Operand: 0

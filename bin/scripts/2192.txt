@@ -1,0 +1,33 @@
+================================================
+      Client Script 2192 Dumped by SiniSoul    
+      Instruction Size: 22
+      Integer Arguments: 0 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, Unref Method: 5420, Operand: 0
+Offset: 1, PUSHI , Operand: 1
+Offset: 2, IFEQ , Operand: 1
+Offset: 3, GOTO , Operand: 2
+Offset: 4, PUSHI , Operand: 0
+Offset: 5, RETURN , Operand: 0
+Offset: 6, Unref Method: 3335, Operand: 0
+Offset: 7, PUSHI , Operand: 0
+Offset: 8, IFNE , Operand: 1
+Offset: 9, GOTO , Operand: 2
+Offset: 10, PUSHI , Operand: 0
+Offset: 11, RETURN , Operand: 0
+Offset: 12, isPreferenceStrNull , Operand: 0
+Offset: 13, PUSHI , Operand: 1
+Offset: 14, IFEQ , Operand: 1
+Offset: 15, GOTO , Operand: 2
+Offset: 16, PUSHI , Operand: 1
+Offset: 17, RETURN , Operand: 0
+Offset: 18, PUSHI , Operand: 0
+Offset: 19, RETURN , Operand: 0
+Offset: 20, PUSHI , Operand: -1
+Offset: 21, RETURN , Operand: 0

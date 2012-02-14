@@ -1,0 +1,24 @@
+================================================
+      Client Script 2509 Dumped by SiniSoul    
+      Instruction Size: 13
+      Integer Arguments: 1 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADGINT , Operand: 840
+Offset: 1, CALL , Operand: 2687
+Offset: 2, LOADINT , Operand: 0
+Offset: 3, ISUB , Operand: 0
+Offset: 4, IFLTEQ , Operand: 1
+Offset: 5, GOTO , Operand: 3
+Offset: 6, PUSHI , Operand: 1
+Offset: 7, RETURN , Operand: 0
+Offset: 8, GOTO , Operand: 2
+Offset: 9, PUSHI , Operand: 0
+Offset: 10, RETURN , Operand: 0
+Offset: 11, PUSHI , Operand: 0
+Offset: 12, RETURN , Operand: 0

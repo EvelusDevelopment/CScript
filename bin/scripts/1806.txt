@@ -1,0 +1,109 @@
+================================================
+      Client Script 1806 Dumped by SiniSoul    
+      Instruction Size: 98
+      Integer Arguments: 1 
+      String  Arguments: 1 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHI , Operand: 12
+Offset: 1, CALL , Operand: 1548
+Offset: 2, LOADSTR , Operand: 0
+Offset: 3, discludeTagsInString , Operand: 0
+Offset: 4, toLowerCase , Operand: 0
+Offset: 5, STORESTR , Operand: 0
+Offset: 6, LOADSTR , Operand: 0
+Offset: 7, getStringLength , Operand: 0
+Offset: 8, STOREINT , Operand: 0
+Offset: 9, LOADSTR , Operand: 0
+Offset: 10, PUSHS , Operand: _
+Offset: 11, PUSHS , Operand: ﾠ
+Offset: 12, CALL , Operand: 2332
+Offset: 13, STORESTR , Operand: 0
+Offset: 14, LOADSTR , Operand: 0
+Offset: 15, PUSHS , Operand:  
+Offset: 16, PUSHS , Operand: ﾠ
+Offset: 17, CALL , Operand: 2332
+Offset: 18, STORESTR , Operand: 0
+Offset: 19, LOADSTR , Operand: 0
+Offset: 20, PUSHS , Operand:  
+Offset: 21, PUSHI , Operand: 0
+Offset: 22, indexOfStrInString , Operand: 0
+Offset: 23, PUSHI , Operand: 0
+Offset: 24, IFEQ , Operand: 1
+Offset: 25, GOTO , Operand: 13
+Offset: 26, LOADINT , Operand: 0
+Offset: 27, PUSHI , Operand: 0
+Offset: 28, IFGT , Operand: 1
+Offset: 29, GOTO , Operand: 9
+Offset: 30, LOADSTR , Operand: 0
+Offset: 31, PUSHI , Operand: 1
+Offset: 32, LOADINT , Operand: 0
+Offset: 33, Unref Method: 4118, Operand: 0
+Offset: 34, STORESTR , Operand: 0
+Offset: 35, LOADSTR , Operand: 0
+Offset: 36, getStringLength , Operand: 0
+Offset: 37, STOREINT , Operand: 0
+Offset: 38, GOTO , Operand: -20
+Offset: 39, LOADSTR , Operand: 0
+Offset: 40, PUSHS , Operand:  
+Offset: 41, LOADINT , Operand: 0
+Offset: 42, PUSHI , Operand: 1
+Offset: 43, ISUB , Operand: 0
+Offset: 44, indexOfStrInString , Operand: 0
+Offset: 45, LOADINT , Operand: 0
+Offset: 46, PUSHI , Operand: 1
+Offset: 47, ISUB , Operand: 0
+Offset: 48, IFEQ , Operand: 1
+Offset: 49, GOTO , Operand: 15
+Offset: 50, LOADINT , Operand: 0
+Offset: 51, PUSHI , Operand: 0
+Offset: 52, IFGT , Operand: 1
+Offset: 53, GOTO , Operand: 11
+Offset: 54, LOADSTR , Operand: 0
+Offset: 55, PUSHI , Operand: 0
+Offset: 56, LOADINT , Operand: 0
+Offset: 57, PUSHI , Operand: 1
+Offset: 58, ISUB , Operand: 0
+Offset: 59, Unref Method: 4118, Operand: 0
+Offset: 60, STORESTR , Operand: 0
+Offset: 61, LOADSTR , Operand: 0
+Offset: 62, getStringLength , Operand: 0
+Offset: 63, STOREINT , Operand: 0
+Offset: 64, GOTO , Operand: -26
+Offset: 65, LOADGSTR , Operand: 38
+Offset: 66, LOADSTR , Operand: 0
+Offset: 67, Unref Method: 4107, Operand: 0
+Offset: 68, PUSHI , Operand: 0
+Offset: 69, IFEQ , Operand: 1
+Offset: 70, GOTO , Operand: 3
+Offset: 71, PUSHS , Operand: Caller not changed.
+Offset: 72, Unref Method: 3100, Operand: 0
+Offset: 73, RETURN , Operand: 0
+Offset: 74, LOADSTR , Operand: 0
+Offset: 75, STOREGSTR , Operand: 38
+Offset: 76, LOADGSTR , Operand: 38
+Offset: 77, getStringLength , Operand: 0
+Offset: 78, PUSHI , Operand: 0
+Offset: 79, IFGT , Operand: 1
+Offset: 80, GOTO , Operand: 6
+Offset: 81, PUSHS , Operand: Caller set: 
+Offset: 82, LOADGSTR , Operand: 38
+Offset: 83, CALL , Operand: 1814
+Offset: 84, CONCAT , Operand: 2
+Offset: 85, Unref Method: 3100, Operand: 0
+Offset: 86, GOTO , Operand: 2
+Offset: 87, PUSHS , Operand: Caller feature disabled.
+Offset: 88, Unref Method: 3100, Operand: 0
+Offset: 89, PUSHI , Operand: 17367062
+Offset: 90, PUSHI , Operand: 17367064
+Offset: 91, PUSHI , Operand: 17367065
+Offset: 92, CALL , Operand: 1809
+Offset: 93, PUSHI , Operand: 51707918
+Offset: 94, PUSHI , Operand: 51707920
+Offset: 95, PUSHI , Operand: 51707921
+Offset: 96, CALL , Operand: 1809
+Offset: 97, RETURN , Operand: 0

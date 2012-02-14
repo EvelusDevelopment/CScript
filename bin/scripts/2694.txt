@@ -1,0 +1,117 @@
+================================================
+      Client Script 2694 Dumped by SiniSoul    
+      Instruction Size: 106
+      Integer Arguments: 3 
+      String  Arguments: 3 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHI , Operand: 0
+Offset: 1, STOREINT , Operand: 2
+Offset: 2, LOADINT , Operand: 0
+Offset: 3, PUSHI , Operand: 1
+Offset: 4, IFEQ , Operand: 1
+Offset: 5, GOTO , Operand: 24
+Offset: 6, LOADSTR , Operand: 0
+Offset: 7, getStringLength , Operand: 0
+Offset: 8, PUSHI , Operand: 0
+Offset: 9, IFGT , Operand: 1
+Offset: 10, GOTO , Operand: 17
+Offset: 11, LOADSTR , Operand: 0
+Offset: 12, PUSHS , Operand: <br>
+Offset: 13, PUSHI , Operand: 0
+Offset: 14, indexOfStrInString , Operand: 0
+Offset: 15, STOREINT , Operand: 2
+Offset: 16, LOADINT , Operand: 2
+Offset: 17, PUSHI , Operand: -1
+Offset: 18, IFEQ , Operand: 1
+Offset: 19, GOTO , Operand: 3
+Offset: 20, LOADSTR , Operand: 0
+Offset: 21, Unref Method: 3100, Operand: 0
+Offset: 22, RETURN , Operand: 0
+Offset: 23, LOADSTR , Operand: 0
+Offset: 24, PUSHI , Operand: 0
+Offset: 25, LOADINT , Operand: 2
+Offset: 26, Unref Method: 4118, Operand: 0
+Offset: 27, Unref Method: 3100, Operand: 0
+Offset: 28, RETURN , Operand: 0
+Offset: 29, GOTO , Operand: 35
+Offset: 30, LOADINT , Operand: 0
+Offset: 31, PUSHI , Operand: 2
+Offset: 32, IFEQ , Operand: 1
+Offset: 33, GOTO , Operand: 31
+Offset: 34, LOADSTR , Operand: 0
+Offset: 35, PUSHS , Operand: <br>
+Offset: 36, PUSHS , Operand:  
+Offset: 37, CALL , Operand: 400
+Offset: 38, PUSHI , Operand: 64094210
+Offset: 39, Unref Method: 2112, Operand: 0
+Offset: 40, PUSHS , Operand: 
+Offset: 41, LOADSTR , Operand: 0
+Offset: 42, PUSHI , Operand: 0
+Offset: 43, PUSHI , Operand: -1
+Offset: 44, PUSHS , Operand: 
+Offset: 45, LOADSTR , Operand: 1
+Offset: 46, PUSHI , Operand: 0
+Offset: 47, CALL , Operand: 2190
+Offset: 48, LOADSTR , Operand: 1
+Offset: 49, getStringLength , Operand: 0
+Offset: 50, PUSHI , Operand: 0
+Offset: 51, IFGT , Operand: 1
+Offset: 52, GOTO , Operand: 7
+Offset: 53, PUSHI , Operand: 702
+Offset: 54, LOADSTR , Operand: 2
+Offset: 55, PUSHI , Operand: 1
+Offset: 56, PUSHS , Operand: s1
+Offset: 57, PUSHI , Operand: 59375771
+Offset: 58, setInterfaceDefinitionScriptParams0 , Operand: 0
+Offset: 59, GOTO , Operand: 4
+Offset: 60, PUSHI , Operand: -1
+Offset: 61, PUSHS , Operand: 
+Offset: 62, PUSHI , Operand: 59375771
+Offset: 63, setInterfaceDefinitionScriptParams0 , Operand: 0
+Offset: 64, RETURN , Operand: 0
+Offset: 65, LOADSTR , Operand: 0
+Offset: 66, PUSHS , Operand: <br>
+Offset: 67, PUSHS , Operand:  
+Offset: 68, CALL , Operand: 400
+Offset: 69, PUSHI , Operand: 64094210
+Offset: 70, Unref Method: 2112, Operand: 0
+Offset: 71, LOADSTR , Operand: 0
+Offset: 72, PUSHI , Operand: 48758858
+Offset: 73, Unref Method: 2112, Operand: 0
+Offset: 74, PUSHI , Operand: 3452
+Offset: 75, PUSHI , Operand: 6
+Offset: 76, PUSHI , Operand: 0
+Offset: 77, PUSHI , Operand: 1
+Offset: 78, PUSHS , Operand: i11
+Offset: 79, PUSHI , Operand: 48758861
+Offset: 80, setInterfaceDefinitionScriptParams0 , Operand: 0
+Offset: 81, LOADSTR , Operand: 1
+Offset: 82, getStringLength , Operand: 0
+Offset: 83, PUSHI , Operand: 0
+Offset: 84, IFGT , Operand: 1
+Offset: 85, GOTO , Operand: 10
+Offset: 86, LOADSTR , Operand: 1
+Offset: 87, PUSHI , Operand: 48758860
+Offset: 88, Unref Method: 2112, Operand: 0
+Offset: 89, PUSHI , Operand: 702
+Offset: 90, LOADSTR , Operand: 2
+Offset: 91, PUSHI , Operand: 1
+Offset: 92, PUSHS , Operand: s1
+Offset: 93, PUSHI , Operand: 48758860
+Offset: 94, setInterfaceDefinitionScriptParams0 , Operand: 0
+Offset: 95, GOTO , Operand: 7
+Offset: 96, PUSHS , Operand: 
+Offset: 97, PUSHI , Operand: 48758860
+Offset: 98, Unref Method: 2112, Operand: 0
+Offset: 99, PUSHI , Operand: -1
+Offset: 100, PUSHS , Operand: 
+Offset: 101, PUSHI , Operand: 48758859
+Offset: 102, setInterfaceDefinitionScriptParams0 , Operand: 0
+Offset: 103, PUSHI , Operand: 9
+Offset: 104, CALL , Operand: 1174
+Offset: 105, RETURN , Operand: 0

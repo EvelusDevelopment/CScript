@@ -1,0 +1,103 @@
+================================================
+      Client Script 3283 Dumped by SiniSoul    
+      Instruction Size: 92
+      Integer Arguments: 5 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADINT , Operand: 3
+Offset: 1, PUSHI , Operand: 0
+Offset: 2, IFEQ , Operand: 1
+Offset: 3, GOTO , Operand: 2
+Offset: 4, PUSHI , Operand: 12
+Offset: 5, STOREINT , Operand: 3
+Offset: 6, LOADINT , Operand: 1
+Offset: 7, Unref Method: 2602, Operand: 0
+Offset: 8, LOADINT , Operand: 1
+Offset: 9, Unref Method: 2502, Operand: 0
+Offset: 10, PUSHI , Operand: 16
+Offset: 11, IADD , Operand: 0
+Offset: 12, LOADINT , Operand: 2
+Offset: 13, Unref Method: 4108, Operand: 0
+Offset: 14, STOREINT , Operand: 4
+Offset: 15, LOADINT , Operand: 4
+Offset: 16, LOADINT , Operand: 3
+Offset: 17, IMUL , Operand: 0
+Offset: 18, STOREINT , Operand: 4
+Offset: 19, PUSHS , Operand: txt 
+Offset: 20, LOADINT , Operand: 4
+Offset: 21, integerToString , Operand: 0
+Offset: 22, PUSHS , Operand: , layer 
+Offset: 23, LOADINT , Operand: 1
+Offset: 24, Unref Method: 2503, Operand: 0
+Offset: 25, integerToString , Operand: 0
+Offset: 26, CONCAT , Operand: 4
+Offset: 27, Unref Method: 3100, Operand: 0
+Offset: 28, LOADINT , Operand: 1
+Offset: 29, Unref Method: 2503, Operand: 0
+Offset: 30, LOADINT , Operand: 4
+Offset: 31, IFGTEQ , Operand: 1
+Offset: 32, GOTO , Operand: 23
+Offset: 33, PUSHS , Operand: No scroll txt 
+Offset: 34, LOADINT , Operand: 4
+Offset: 35, integerToString , Operand: 0
+Offset: 36, PUSHS , Operand: , layer 
+Offset: 37, LOADINT , Operand: 1
+Offset: 38, Unref Method: 2503, Operand: 0
+Offset: 39, integerToString , Operand: 0
+Offset: 40, CONCAT , Operand: 4
+Offset: 41, Unref Method: 3100, Operand: 0
+Offset: 42, LOADINT , Operand: 1
+Offset: 43, Unref Method: 2502, Operand: 0
+Offset: 44, PUSHI , Operand: 16
+Offset: 45, IADD , Operand: 0
+Offset: 46, LOADINT , Operand: 1
+Offset: 47, Unref Method: 2503, Operand: 0
+Offset: 48, PUSHI , Operand: 0
+Offset: 49, PUSHI , Operand: 0
+Offset: 50, LOADINT , Operand: 1
+Offset: 51, Unref Method: 2001, Operand: 0
+Offset: 52, PUSHI , Operand: 1
+Offset: 53, LOADINT , Operand: 0
+Offset: 54, Unref Method: 2003, Operand: 0
+Offset: 55, GOTO , Operand: 35
+Offset: 56, LOADINT , Operand: 1
+Offset: 57, Unref Method: 2602, Operand: 0
+Offset: 58, LOADINT , Operand: 1
+Offset: 59, Unref Method: 2502, Operand: 0
+Offset: 60, LOADINT , Operand: 2
+Offset: 61, Unref Method: 4108, Operand: 0
+Offset: 62, STOREINT , Operand: 4
+Offset: 63, LOADINT , Operand: 4
+Offset: 64, LOADINT , Operand: 3
+Offset: 65, IMUL , Operand: 0
+Offset: 66, STOREINT , Operand: 4
+Offset: 67, PUSHI , Operand: 0
+Offset: 68, LOADINT , Operand: 4
+Offset: 69, PUSHI , Operand: 10
+Offset: 70, IADD , Operand: 0
+Offset: 71, LOADINT , Operand: 1
+Offset: 72, Unref Method: 2120, Operand: 0
+Offset: 73, PUSHS , Operand: Scroll txt 
+Offset: 74, LOADINT , Operand: 4
+Offset: 75, integerToString , Operand: 0
+Offset: 76, PUSHS , Operand: , layer 
+Offset: 77, LOADINT , Operand: 1
+Offset: 78, Unref Method: 2503, Operand: 0
+Offset: 79, integerToString , Operand: 0
+Offset: 80, CONCAT , Operand: 4
+Offset: 81, Unref Method: 3100, Operand: 0
+Offset: 82, LOADINT , Operand: 0
+Offset: 83, LOADINT , Operand: 1
+Offset: 84, PUSHI , Operand: 792
+Offset: 85, PUSHI , Operand: 789
+Offset: 86, PUSHI , Operand: 790
+Offset: 87, PUSHI , Operand: 791
+Offset: 88, PUSHI , Operand: 773
+Offset: 89, PUSHI , Operand: 788
+Offset: 90, CALL , Operand: 31
+Offset: 91, RETURN , Operand: 0

@@ -1,0 +1,156 @@
+================================================
+      Client Script 994 Dumped by SiniSoul    
+      Instruction Size: 135
+      Integer Arguments: 2 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADINT , Operand: 0
+Offset: 1, PUSHI , Operand: 0
+Offset: 2, IFEQ , Operand: 1
+Offset: 3, GOTO , Operand: 49
+Offset: 4, LOADINT , Operand: 1
+Offset: 5, SWITCH , Operand: 0
+Offset: 6, GOTO , Operand: 46
+Offset: 7, PUSHI , Operand: -1
+Offset: 8, PUSHI , Operand: 7620
+Offset: 9, PUSHS , Operand: Your Constitution tells you how healthy your character can be. A character with low Constitution will only have a small number of life points when they're fully healed, whereas a character with high Constitution can have many more life points.
+Offset: 10, PUSHS , Operand: 
+Offset: 11, RETURN , Operand: 0
+Offset: 12, GOTO , Operand: 40
+Offset: 13, PUSHI , Operand: -1
+Offset: 14, PUSHI , Operand: 7620
+Offset: 15, PUSHS , Operand: If you see any 
+Offset: 16, PUSHS , Operand: <col=800000>
+Offset: 17, PUSHS , Operand: red 'hitsplats'
+Offset: 18, PUSHS , Operand: </col>
+Offset: 19, PUSHS , Operand:  during combat, the number shown corresponds to the number of life points lost as a result of that strike.
+Offset: 20, CONCAT , Operand: 5
+Offset: 21, PUSHS , Operand: 
+Offset: 22, RETURN , Operand: 0
+Offset: 23, GOTO , Operand: 29
+Offset: 24, PUSHI , Operand: -1
+Offset: 25, PUSHI , Operand: 7620
+Offset: 26, PUSHS , Operand: <col=800000>
+Offset: 27, PUSHS , Operand: Blue hitsplats
+Offset: 28, PUSHS , Operand: </col>
+Offset: 29, PUSHS , Operand:  mean no damage has been dealt.
+Offset: 30, CONCAT , Operand: 4
+Offset: 31, PUSHS , Operand: 
+Offset: 32, RETURN , Operand: 0
+Offset: 33, GOTO , Operand: 19
+Offset: 34, PUSHI , Operand: -1
+Offset: 35, PUSHI , Operand: 7620
+Offset: 36, PUSHS , Operand: <col=800000>
+Offset: 37, PUSHS , Operand: Green hitsplats
+Offset: 38, PUSHS , Operand: </col>
+Offset: 39, PUSHS , Operand:  are poison damage (members).
+Offset: 40, CONCAT , Operand: 4
+Offset: 41, PUSHS , Operand: 
+Offset: 42, RETURN , Operand: 0
+Offset: 43, GOTO , Operand: 9
+Offset: 44, PUSHI , Operand: -1
+Offset: 45, PUSHI , Operand: 7620
+Offset: 46, PUSHS , Operand: <col=800000>
+Offset: 47, PUSHS , Operand: Yellow hitsplats
+Offset: 48, PUSHS , Operand: </col>
+Offset: 49, PUSHS , Operand:  are disease damage (members).
+Offset: 50, CONCAT , Operand: 4
+Offset: 51, PUSHS , Operand: 
+Offset: 52, RETURN , Operand: 0
+Offset: 53, LOADINT , Operand: 0
+Offset: 54, PUSHI , Operand: 1
+Offset: 55, IFEQ , Operand: 1
+Offset: 56, GOTO , Operand: 73
+Offset: 57, LOADINT , Operand: 1
+Offset: 58, PUSHI , Operand: 0
+Offset: 59, IFEQ , Operand: 1
+Offset: 60, GOTO , Operand: 10
+Offset: 61, PUSHI , Operand: 35
+Offset: 62, PUSHI , Operand: 14936
+Offset: 63, PUSHS , Operand: Members: Agile top (with 35 Defence)
+Offset: 64, PUSHS , Operand: Members now have the Constitution level required to wear 
+Offset: 65, PUSHS , Operand: <col=000080>
+Offset: 66, PUSHS , Operand: agile tops
+Offset: 67, PUSHS , Operand: </col>
+Offset: 68, PUSHS , Operand: . (They also need level 35 Defence.)
+Offset: 69, CONCAT , Operand: 5
+Offset: 70, RETURN , Operand: 0
+Offset: 71, LOADINT , Operand: 1
+Offset: 72, PUSHI , Operand: 1
+Offset: 73, IFEQ , Operand: 1
+Offset: 74, GOTO , Operand: 10
+Offset: 75, PUSHI , Operand: 35
+Offset: 76, PUSHI , Operand: 14938
+Offset: 77, PUSHS , Operand: Members: Agile legs (with 35 Defence)
+Offset: 78, PUSHS , Operand: Members now have the Constitution level required to wear 
+Offset: 79, PUSHS , Operand: <col=000080>
+Offset: 80, PUSHS , Operand: agile legs
+Offset: 81, PUSHS , Operand: </col>
+Offset: 82, PUSHS , Operand: . (They also need level 35 Defence.)
+Offset: 83, CONCAT , Operand: 5
+Offset: 84, RETURN , Operand: 0
+Offset: 85, LOADINT , Operand: 1
+Offset: 86, PUSHI , Operand: 2
+Offset: 87, IFEQ , Operand: 1
+Offset: 88, GOTO , Operand: 14
+Offset: 89, PUSHI , Operand: 70
+Offset: 90, PUSHI , Operand: 8122
+Offset: 91, PUSHS , Operand: Members: Zamorak's Fortress in the God Wars Dungeon
+Offset: 92, PUSHS , Operand: Members can now access the 
+Offset: 93, PUSHS , Operand: <col=000080>
+Offset: 94, PUSHS , Operand: Zamorak Fortress
+Offset: 95, PUSHS , Operand: </col>
+Offset: 96, PUSHS , Operand:  in the 
+Offset: 97, PUSHS , Operand: <col=000080>
+Offset: 98, PUSHS , Operand: God Wars Dungeon
+Offset: 99, PUSHS , Operand: </col>
+Offset: 100, PUSHS , Operand: .
+Offset: 101, CONCAT , Operand: 9
+Offset: 102, RETURN , Operand: 0
+Offset: 103, LOADINT , Operand: 1
+Offset: 104, PUSHI , Operand: 3
+Offset: 105, IFEQ , Operand: 1
+Offset: 106, GOTO , Operand: 23
+Offset: 107, PUSHI , Operand: 99
+Offset: 108, PUSHI , Operand: 9768
+Offset: 109, PUSHS , Operand: Skill mastery
+Offset: 110, PUSHS , Operand: <col=000080>
+Offset: 111, PUSHS , Operand: Congratulations! You are now a master of 
+Offset: 112, PUSHS , Operand: <col=800000>
+Offset: 113, PUSHS , Operand: Constitution
+Offset: 114, PUSHS , Operand: <col=000080>
+Offset: 115, PUSHS , Operand: . Members can visit 
+Offset: 116, PUSHS , Operand: <col=800000>
+Offset: 117, PUSHS , Operand: Surgeon General Tafani
+Offset: 118, PUSHS , Operand: <col=000080>
+Offset: 119, PUSHS , Operand:  at the 
+Offset: 120, PUSHS , Operand: <col=800000>
+Offset: 121, PUSHS , Operand: Duel Arena Hospital
+Offset: 122, PUSHS , Operand: <col=000080>
+Offset: 123, PUSHS , Operand: . She has something special that is only available to true masters of the 
+Offset: 124, PUSHS , Operand: <col=800000>
+Offset: 125, PUSHS , Operand: Constitution
+Offset: 126, PUSHS , Operand: <col=000080>
+Offset: 127, PUSHS , Operand:  skill!
+Offset: 128, CONCAT , Operand: 18
+Offset: 129, RETURN , Operand: 0
+Offset: 130, PUSHI , Operand: 0
+Offset: 131, PUSHI , Operand: -1
+Offset: 132, PUSHS , Operand: 
+Offset: 133, PUSHS , Operand: 
+Offset: 134, RETURN , Operand: 0
+
+================================================
+                Switch Table 0                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 7
+Key: 2, Value: 18
+Key: 3, Value: 28
+Key: 4, Value: 38

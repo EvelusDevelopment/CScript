@@ -1,0 +1,66 @@
+================================================
+      Client Script 3137 Dumped by SiniSoul    
+      Instruction Size: 55
+      Integer Arguments: 1 
+      String  Arguments: 1 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADGINT , Operand: 998
+Offset: 1, PUSHI , Operand: 0
+Offset: 2, IFGT , Operand: 1
+Offset: 3, GOTO , Operand: 9
+Offset: 4, LOADGINT , Operand: 999
+Offset: 5, PUSHI , Operand: 0
+Offset: 6, IFGT , Operand: 1
+Offset: 7, GOTO , Operand: 5
+Offset: 8, PUSHI , Operand: 1
+Offset: 9, PUSHS , Operand: Please delete one of your existing favourite worlds before setting another.
+Offset: 10, CALL , Operand: 3143
+Offset: 11, RETURN , Operand: 0
+Offset: 12, GOTO , Operand: 13
+Offset: 13, LOADGINT , Operand: 998
+Offset: 14, PUSHI , Operand: 1
+Offset: 15, IFLT , Operand: 1
+Offset: 16, GOTO , Operand: 3
+Offset: 17, LOADINT , Operand: 0
+Offset: 18, CALL , Operand: 1857
+Offset: 19, GOTO , Operand: 6
+Offset: 20, LOADGINT , Operand: 999
+Offset: 21, PUSHI , Operand: 1
+Offset: 22, IFLT , Operand: 1
+Offset: 23, GOTO , Operand: 2
+Offset: 24, LOADINT , Operand: 0
+Offset: 25, CALL , Operand: 1858
+Offset: 26, CALL , Operand: 1853
+Offset: 27, STOREGINT , Operand: 998
+Offset: 28, CALL , Operand: 1854
+Offset: 29, STOREGINT , Operand: 999
+Offset: 30, CALL , Operand: 3113
+Offset: 31, PUSHS , Operand: Your changes cannot be saved because
+Offset: 32, PUSHS , Operand: <br>
+Offset: 33, PUSHS , Operand: you are using the unsigned client.
+Offset: 34, CONCAT , Operand: 3
+Offset: 35, STORESTR , Operand: 0
+Offset: 36, Unref Method: 5420, Operand: 0
+Offset: 37, PUSHI , Operand: 1
+Offset: 38, IFEQ , Operand: 1
+Offset: 39, GOTO , Operand: 4
+Offset: 40, PUSHI , Operand: 1
+Offset: 41, LOADSTR , Operand: 0
+Offset: 42, CALL , Operand: 3143
+Offset: 43, GOTO , Operand: 7
+Offset: 44, PUSHI , Operand: 0
+Offset: 45, PUSHS , Operand: World 
+Offset: 46, LOADINT , Operand: 0
+Offset: 47, integerToString , Operand: 0
+Offset: 48, PUSHS , Operand:  has been added to your favourites.
+Offset: 49, CONCAT , Operand: 3
+Offset: 50, CALL , Operand: 3143
+Offset: 51, PUSHI , Operand: 1
+Offset: 52, CALL , Operand: 3065
+Offset: 53, RETURN , Operand: 0
+Offset: 54, RETURN , Operand: 0

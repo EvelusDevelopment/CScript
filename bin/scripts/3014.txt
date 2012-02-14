@@ -1,0 +1,53 @@
+================================================
+      Client Script 3014 Dumped by SiniSoul    
+      Instruction Size: 42
+      Integer Arguments: 0 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, Unref Method: 6901, Operand: 0
+Offset: 1, PUSHI , Operand: 0
+Offset: 2, IFEQ , Operand: 1
+Offset: 3, GOTO , Operand: 31
+Offset: 4, Unref Method: 6911, Operand: 0
+Offset: 5, PUSHI , Operand: 0
+Offset: 6, IFEQ , Operand: 1
+Offset: 7, GOTO , Operand: 27
+Offset: 8, Unref Method: 3335, Operand: 0
+Offset: 9, PUSHI , Operand: 0
+Offset: 10, IFEQ , Operand: 1
+Offset: 11, GOTO , Operand: 23
+Offset: 12, PUSHI , Operand: 3177
+Offset: 13, PUSHI , Operand: 59506713
+Offset: 14, Unref Method: 2105, Operand: 0
+Offset: 15, PUSHI , Operand: 2783
+Offset: 16, PUSHI , Operand: 0
+Offset: 17, PUSHI , Operand: 59375616
+Offset: 18, PUSHS , Operand: iI
+Offset: 19, PUSHI , Operand: 59506713
+Offset: 20, setInterfaceDefinitionScriptParams0 , Operand: 0
+Offset: 21, PUSHI , Operand: 2782
+Offset: 22, PUSHI , Operand: 1
+Offset: 23, PUSHS , Operand: 1
+Offset: 24, PUSHI , Operand: 59506713
+Offset: 25, setInterfaceDefinitionScriptParams3 , Operand: 0
+Offset: 26, PUSHI , Operand: 2782
+Offset: 27, PUSHI , Operand: 0
+Offset: 28, PUSHS , Operand: 1
+Offset: 29, PUSHI , Operand: 59506713
+Offset: 30, setInterfaceDefinitionScriptParams4 , Operand: 0
+Offset: 31, PUSHI , Operand: 0
+Offset: 32, PUSHI , Operand: 59506712
+Offset: 33, Unref Method: 2003, Operand: 0
+Offset: 34, RETURN , Operand: 0
+Offset: 35, PUSHI , Operand: 0
+Offset: 36, PUSHI , Operand: 59506698
+Offset: 37, Unref Method: 2003, Operand: 0
+Offset: 38, PUSHS , Operand: Jagex Moderators will have a Gold Crown and Player Moderators have a Silver Crown next to their name in chat.
+Offset: 39, PUSHI , Operand: 59506702
+Offset: 40, Unref Method: 2112, Operand: 0
+Offset: 41, RETURN , Operand: 0

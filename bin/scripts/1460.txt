@@ -1,0 +1,83 @@
+================================================
+      Client Script 1460 Dumped by SiniSoul    
+      Instruction Size: 72
+      Integer Arguments: 4 
+      String  Arguments: 1 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHI , Operand: 105
+Offset: 1, PUSHI , Operand: 73
+Offset: 2, PUSHI , Operand: 1614
+Offset: 3, LOADINT , Operand: 0
+Offset: 4, Unref Method: 3408, Operand: 0
+Offset: 5, STOREINT , Operand: 2
+Offset: 6, PUSHI , Operand: 105
+Offset: 7, PUSHI , Operand: 73
+Offset: 8, PUSHI , Operand: 1615
+Offset: 9, LOADINT , Operand: 0
+Offset: 10, Unref Method: 3408, Operand: 0
+Offset: 11, STOREINT , Operand: 3
+Offset: 12, PUSHI , Operand: 0
+Offset: 13, LOADINT , Operand: 2
+Offset: 14, Unref Method: 2003, Operand: 0
+Offset: 15, PUSHI , Operand: 0
+Offset: 16, LOADINT , Operand: 3
+Offset: 17, Unref Method: 2003, Operand: 0
+Offset: 18, PUSHI , Operand: 95
+Offset: 19, LOADINT , Operand: 1
+Offset: 20, Unref Method: 3301, Operand: 0
+Offset: 21, PUSHI , Operand: 95
+Offset: 22, LOADINT , Operand: 1
+Offset: 23, Unref Method: 3302, Operand: 0
+Offset: 24, LOADINT , Operand: 3
+Offset: 25, Unref Method: 2205, Operand: 0
+Offset: 26, PUSHI , Operand: 1
+Offset: 27, LOADINT , Operand: 3
+Offset: 28, Unref Method: 2116, Operand: 0
+Offset: 29, PUSHI , Operand: 3355443
+Offset: 30, LOADINT , Operand: 3
+Offset: 31, Unref Method: 2117, Operand: 0
+Offset: 32, LOADINT , Operand: 2
+Offset: 33, Unref Method: 2307, Operand: 0
+Offset: 34, PUSHI , Operand: 1
+Offset: 35, PUSHS , Operand: View tab 
+Offset: 36, LOADINT , Operand: 0
+Offset: 37, integerToString , Operand: 0
+Offset: 38, CONCAT , Operand: 2
+Offset: 39, LOADINT , Operand: 2
+Offset: 40, Unref Method: 2300, Operand: 0
+Offset: 41, PUSHI , Operand: 2
+Offset: 42, PUSHS , Operand: Collapse tab 
+Offset: 43, LOADINT , Operand: 0
+Offset: 44, integerToString , Operand: 0
+Offset: 45, CONCAT , Operand: 2
+Offset: 46, LOADINT , Operand: 2
+Offset: 47, Unref Method: 2300, Operand: 0
+Offset: 48, PUSHI , Operand: -1
+Offset: 49, PUSHS , Operand: 
+Offset: 50, LOADINT , Operand: 2
+Offset: 51, setInterfaceDefinitionScriptParams0 , Operand: 0
+Offset: 52, PUSHS , Operand: Click here to select tab 
+Offset: 53, LOADINT , Operand: 0
+Offset: 54, integerToString , Operand: 0
+Offset: 55, CONCAT , Operand: 2
+Offset: 56, STORESTR , Operand: 0
+Offset: 57, PUSHI , Operand: 38
+Offset: 58, PUSHI , Operand: -2147483645
+Offset: 59, PUSHI , Operand: 49938549
+Offset: 60, LOADSTR , Operand: 0
+Offset: 61, PUSHI , Operand: 25
+Offset: 62, PUSHI , Operand: 150
+Offset: 63, PUSHS , Operand: IIsii
+Offset: 64, LOADINT , Operand: 2
+Offset: 65, setInterfaceDefinitionScriptParams12 , Operand: 0
+Offset: 66, PUSHI , Operand: 40
+Offset: 67, PUSHI , Operand: 49938549
+Offset: 68, PUSHS , Operand: I
+Offset: 69, LOADINT , Operand: 2
+Offset: 70, setInterfaceDefinitionScriptParams4 , Operand: 0
+Offset: 71, RETURN , Operand: 0

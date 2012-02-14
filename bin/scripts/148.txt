@@ -1,0 +1,136 @@
+================================================
+      Client Script 148 Dumped by SiniSoul    
+      Instruction Size: 91
+      Integer Arguments: 1 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADINT , Operand: 0
+Offset: 1, SWITCH , Operand: 0
+Offset: 2, GOTO , Operand: 86
+Offset: 3, LOADGINT , Operand: 12
+Offset: 4, RETURN , Operand: 0
+Offset: 5, GOTO , Operand: 83
+Offset: 6, LOADGINT , Operand: 13
+Offset: 7, RETURN , Operand: 0
+Offset: 8, GOTO , Operand: 80
+Offset: 9, LOADGINT , Operand: 14
+Offset: 10, RETURN , Operand: 0
+Offset: 11, GOTO , Operand: 77
+Offset: 12, LOADGINT , Operand: 15
+Offset: 13, RETURN , Operand: 0
+Offset: 14, GOTO , Operand: 74
+Offset: 15, LOADGINT , Operand: 16
+Offset: 16, RETURN , Operand: 0
+Offset: 17, GOTO , Operand: 71
+Offset: 18, LOADGINT , Operand: 17
+Offset: 19, RETURN , Operand: 0
+Offset: 20, GOTO , Operand: 68
+Offset: 21, LOADGINT , Operand: 18
+Offset: 22, RETURN , Operand: 0
+Offset: 23, GOTO , Operand: 65
+Offset: 24, LOADGINT , Operand: 19
+Offset: 25, RETURN , Operand: 0
+Offset: 26, GOTO , Operand: 62
+Offset: 27, LOADGINT , Operand: 20
+Offset: 28, RETURN , Operand: 0
+Offset: 29, GOTO , Operand: 59
+Offset: 30, LOADGINT , Operand: 21
+Offset: 31, RETURN , Operand: 0
+Offset: 32, GOTO , Operand: 56
+Offset: 33, LOADGINT , Operand: 22
+Offset: 34, RETURN , Operand: 0
+Offset: 35, GOTO , Operand: 53
+Offset: 36, LOADGINT , Operand: 23
+Offset: 37, RETURN , Operand: 0
+Offset: 38, GOTO , Operand: 50
+Offset: 39, LOADGINT , Operand: 24
+Offset: 40, RETURN , Operand: 0
+Offset: 41, GOTO , Operand: 47
+Offset: 42, LOADGINT , Operand: 25
+Offset: 43, RETURN , Operand: 0
+Offset: 44, GOTO , Operand: 44
+Offset: 45, LOADGINT , Operand: 26
+Offset: 46, RETURN , Operand: 0
+Offset: 47, GOTO , Operand: 41
+Offset: 48, LOADGINT , Operand: 27
+Offset: 49, RETURN , Operand: 0
+Offset: 50, GOTO , Operand: 38
+Offset: 51, LOADGINT , Operand: 28
+Offset: 52, RETURN , Operand: 0
+Offset: 53, GOTO , Operand: 35
+Offset: 54, LOADGINT , Operand: 29
+Offset: 55, RETURN , Operand: 0
+Offset: 56, GOTO , Operand: 32
+Offset: 57, LOADGINT , Operand: 30
+Offset: 58, RETURN , Operand: 0
+Offset: 59, GOTO , Operand: 29
+Offset: 60, LOADGINT , Operand: 31
+Offset: 61, RETURN , Operand: 0
+Offset: 62, GOTO , Operand: 26
+Offset: 63, LOADGINT , Operand: 32
+Offset: 64, RETURN , Operand: 0
+Offset: 65, GOTO , Operand: 23
+Offset: 66, LOADGINT , Operand: 33
+Offset: 67, RETURN , Operand: 0
+Offset: 68, GOTO , Operand: 20
+Offset: 69, LOADGINT , Operand: 34
+Offset: 70, RETURN , Operand: 0
+Offset: 71, GOTO , Operand: 17
+Offset: 72, LOADGINT , Operand: 35
+Offset: 73, RETURN , Operand: 0
+Offset: 74, GOTO , Operand: 14
+Offset: 75, LOADGINT , Operand: 36
+Offset: 76, RETURN , Operand: 0
+Offset: 77, GOTO , Operand: 11
+Offset: 78, LOADGINT , Operand: 37
+Offset: 79, RETURN , Operand: 0
+Offset: 80, GOTO , Operand: 8
+Offset: 81, LOADGINT , Operand: 38
+Offset: 82, RETURN , Operand: 0
+Offset: 83, GOTO , Operand: 5
+Offset: 84, LOADGINT , Operand: 39
+Offset: 85, RETURN , Operand: 0
+Offset: 86, GOTO , Operand: 2
+Offset: 87, LOADGINT , Operand: 212
+Offset: 88, RETURN , Operand: 0
+Offset: 89, PUSHI , Operand: 0
+Offset: 90, RETURN , Operand: 0
+
+================================================
+                Switch Table 0                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 4
+Key: 2, Value: 7
+Key: 3, Value: 10
+Key: 4, Value: 13
+Key: 5, Value: 16
+Key: 6, Value: 19
+Key: 7, Value: 22
+Key: 8, Value: 25
+Key: 9, Value: 28
+Key: 10, Value: 31
+Key: 11, Value: 34
+Key: 12, Value: 37
+Key: 13, Value: 40
+Key: 14, Value: 43
+Key: 15, Value: 46
+Key: 17, Value: 52
+Key: 16, Value: 49
+Key: 19, Value: 58
+Key: 18, Value: 55
+Key: 21, Value: 64
+Key: 20, Value: 61
+Key: 23, Value: 70
+Key: 22, Value: 67
+Key: 25, Value: 76
+Key: 24, Value: 73
+Key: 27, Value: 82
+Key: 26, Value: 79
+Key: -1, Value: 85

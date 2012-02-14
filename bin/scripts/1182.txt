@@ -1,0 +1,83 @@
+================================================
+      Client Script 1182 Dumped by SiniSoul    
+      Instruction Size: 72
+      Integer Arguments: 3 
+      String  Arguments: 2 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, Unref Method: 6500, Operand: 0
+Offset: 1, PUSHI , Operand: 0
+Offset: 2, IFEQ , Operand: 1
+Offset: 3, GOTO , Operand: 7
+Offset: 4, PUSHI , Operand: 1181
+Offset: 5, LOADINT , Operand: 0
+Offset: 6, PUSHS , Operand: i
+Offset: 7, PUSHI , Operand: 59572225
+Offset: 8, setInterfaceDefinitionScriptParams8 , Operand: 0
+Offset: 9, RETURN , Operand: 0
+Offset: 10, GOTO , Operand: 4
+Offset: 11, PUSHI , Operand: -1
+Offset: 12, PUSHS , Operand: 
+Offset: 13, PUSHI , Operand: 59572225
+Offset: 14, setInterfaceDefinitionScriptParams8 , Operand: 0
+Offset: 15, PUSHI , Operand: 0
+Offset: 16, STOREINT , Operand: 1
+Offset: 17, PUSHS , Operand: 
+Offset: 18, STORESTR , Operand: 0
+Offset: 19, PUSHI , Operand: 0
+Offset: 20, STOREINT , Operand: 2
+Offset: 21, PUSHS , Operand: 
+Offset: 22, STORESTR , Operand: 1
+Offset: 23, LOADINT , Operand: 0
+Offset: 24, Unref Method: 6506, Operand: 0
+Offset: 25, STORESTR , Operand: 1
+Offset: 26, STOREINT , Operand: 1
+Offset: 27, STOREINT , Operand: 1
+Offset: 28, STORESTR , Operand: 0
+Offset: 29, STOREINT , Operand: 1
+Offset: 30, STORESTR , Operand: 0
+Offset: 31, STOREINT , Operand: 2
+Offset: 32, LOADINT , Operand: 2
+Offset: 33, PUSHI , Operand: -1
+Offset: 34, IFEQ , Operand: 1
+Offset: 35, GOTO , Operand: 3
+Offset: 36, PUSHS , Operand: Sorry, you can't join that person.
+Offset: 37, Unref Method: 3100, Operand: 0
+Offset: 38, GOTO , Operand: 32
+Offset: 39, LOADINT , Operand: 0
+Offset: 40, LOADSTR , Operand: 1
+Offset: 41, Unref Method: 6503, Operand: 0
+Offset: 42, PUSHI , Operand: 1
+Offset: 43, IFEQ , Operand: 1
+Offset: 44, GOTO , Operand: 11
+Offset: 45, PUSHI , Operand: 0
+Offset: 46, STOREGINT , Operand: 547
+Offset: 47, PUSHI , Operand: 0
+Offset: 48, PUSHS , Operand: Switched to game world 
+Offset: 49, LOADINT , Operand: 0
+Offset: 50, integerToString , Operand: 0
+Offset: 51, CONCAT , Operand: 2
+Offset: 52, CALL , Operand: 3143
+Offset: 53, PUSHI , Operand: 59375786
+Offset: 54, CALL , Operand: 3062
+Offset: 55, GOTO , Operand: 15
+Offset: 56, PUSHI , Operand: 1
+Offset: 57, PUSHS , Operand: Sorry, we couldn't contact world 
+Offset: 58, LOADINT , Operand: 0
+Offset: 59, integerToString , Operand: 0
+Offset: 60, PUSHS , Operand: .
+Offset: 61, PUSHS , Operand: <br>
+Offset: 62, PUSHS , Operand: Please choose a different world.
+Offset: 63, CONCAT , Operand: 5
+Offset: 64, CALL , Operand: 3143
+Offset: 65, PUSHS , Operand: Sorry, we couldn't contact world 
+Offset: 66, LOADINT , Operand: 0
+Offset: 67, integerToString , Operand: 0
+Offset: 68, PUSHS , Operand: . Please choose a different world.
+Offset: 69, CONCAT , Operand: 3
+Offset: 70, Unref Method: 3100, Operand: 0
+Offset: 71, RETURN , Operand: 0

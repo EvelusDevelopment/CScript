@@ -1,0 +1,179 @@
+================================================
+      Client Script 2508 Dumped by SiniSoul    
+      Instruction Size: 156
+      Integer Arguments: 1 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADINT , Operand: 0
+Offset: 1, SWITCH , Operand: 0
+Offset: 2, GOTO , Operand: 142
+Offset: 3, PUSHI , Operand: 0
+Offset: 4, STOREGINT , Operand: 840
+Offset: 5, GOTO , Operand: 139
+Offset: 6, LOADGINT , Operand: 840
+Offset: 7, PUSHI , Operand: 2147483647
+Offset: 8, PUSHI , Operand: 10
+Offset: 9, ISUB , Operand: 0
+Offset: 10, IFLT , Operand: 1
+Offset: 11, GOTO , Operand: 17
+Offset: 12, LOADGINT , Operand: 839
+Offset: 13, PUSHI , Operand: 10
+Offset: 14, IFGTEQ , Operand: 1
+Offset: 15, GOTO , Operand: 13
+Offset: 16, PUSHI , Operand: 10
+Offset: 17, CALL , Operand: 2509
+Offset: 18, PUSHI , Operand: 1
+Offset: 19, IFEQ , Operand: 1
+Offset: 20, GOTO , Operand: 8
+Offset: 21, LOADGINT , Operand: 840
+Offset: 22, PUSHI , Operand: 10
+Offset: 23, IADD , Operand: 0
+Offset: 24, STOREGINT , Operand: 840
+Offset: 25, LOADGINT , Operand: 839
+Offset: 26, PUSHI , Operand: 10
+Offset: 27, ISUB , Operand: 0
+Offset: 28, STOREGINT , Operand: 839
+Offset: 29, GOTO , Operand: 115
+Offset: 30, LOADGINT , Operand: 840
+Offset: 31, PUSHI , Operand: 2147483647
+Offset: 32, PUSHI , Operand: 100
+Offset: 33, ISUB , Operand: 0
+Offset: 34, IFLT , Operand: 1
+Offset: 35, GOTO , Operand: 17
+Offset: 36, LOADGINT , Operand: 839
+Offset: 37, PUSHI , Operand: 100
+Offset: 38, IFGTEQ , Operand: 1
+Offset: 39, GOTO , Operand: 13
+Offset: 40, PUSHI , Operand: 100
+Offset: 41, CALL , Operand: 2509
+Offset: 42, PUSHI , Operand: 1
+Offset: 43, IFEQ , Operand: 1
+Offset: 44, GOTO , Operand: 8
+Offset: 45, LOADGINT , Operand: 840
+Offset: 46, PUSHI , Operand: 100
+Offset: 47, IADD , Operand: 0
+Offset: 48, STOREGINT , Operand: 840
+Offset: 49, LOADGINT , Operand: 839
+Offset: 50, PUSHI , Operand: 100
+Offset: 51, ISUB , Operand: 0
+Offset: 52, STOREGINT , Operand: 839
+Offset: 53, GOTO , Operand: 91
+Offset: 54, LOADGINT , Operand: 840
+Offset: 55, PUSHI , Operand: 2147483647
+Offset: 56, PUSHI , Operand: 500
+Offset: 57, ISUB , Operand: 0
+Offset: 58, IFLT , Operand: 1
+Offset: 59, GOTO , Operand: 17
+Offset: 60, LOADGINT , Operand: 839
+Offset: 61, PUSHI , Operand: 500
+Offset: 62, IFGTEQ , Operand: 1
+Offset: 63, GOTO , Operand: 13
+Offset: 64, PUSHI , Operand: 500
+Offset: 65, CALL , Operand: 2509
+Offset: 66, PUSHI , Operand: 1
+Offset: 67, IFEQ , Operand: 1
+Offset: 68, GOTO , Operand: 8
+Offset: 69, LOADGINT , Operand: 840
+Offset: 70, PUSHI , Operand: 500
+Offset: 71, IADD , Operand: 0
+Offset: 72, STOREGINT , Operand: 840
+Offset: 73, LOADGINT , Operand: 839
+Offset: 74, PUSHI , Operand: 500
+Offset: 75, ISUB , Operand: 0
+Offset: 76, STOREGINT , Operand: 839
+Offset: 77, GOTO , Operand: 67
+Offset: 78, LOADGINT , Operand: 840
+Offset: 79, PUSHI , Operand: 2147483647
+Offset: 80, PUSHI , Operand: 1000
+Offset: 81, ISUB , Operand: 0
+Offset: 82, IFLT , Operand: 1
+Offset: 83, GOTO , Operand: 17
+Offset: 84, LOADGINT , Operand: 839
+Offset: 85, PUSHI , Operand: 1000
+Offset: 86, IFGTEQ , Operand: 1
+Offset: 87, GOTO , Operand: 13
+Offset: 88, PUSHI , Operand: 1000
+Offset: 89, CALL , Operand: 2509
+Offset: 90, PUSHI , Operand: 1
+Offset: 91, IFEQ , Operand: 1
+Offset: 92, GOTO , Operand: 8
+Offset: 93, LOADGINT , Operand: 840
+Offset: 94, PUSHI , Operand: 1000
+Offset: 95, IADD , Operand: 0
+Offset: 96, STOREGINT , Operand: 840
+Offset: 97, LOADGINT , Operand: 839
+Offset: 98, PUSHI , Operand: 1000
+Offset: 99, ISUB , Operand: 0
+Offset: 100, STOREGINT , Operand: 839
+Offset: 101, GOTO , Operand: 43
+Offset: 102, LOADGINT , Operand: 840
+Offset: 103, PUSHI , Operand: 2147483647
+Offset: 104, PUSHI , Operand: 10000
+Offset: 105, ISUB , Operand: 0
+Offset: 106, IFLT , Operand: 1
+Offset: 107, GOTO , Operand: 17
+Offset: 108, LOADGINT , Operand: 839
+Offset: 109, PUSHI , Operand: 10000
+Offset: 110, IFGTEQ , Operand: 1
+Offset: 111, GOTO , Operand: 13
+Offset: 112, PUSHI , Operand: 10000
+Offset: 113, CALL , Operand: 2509
+Offset: 114, PUSHI , Operand: 1
+Offset: 115, IFEQ , Operand: 1
+Offset: 116, GOTO , Operand: 8
+Offset: 117, LOADGINT , Operand: 840
+Offset: 118, PUSHI , Operand: 10000
+Offset: 119, IADD , Operand: 0
+Offset: 120, STOREGINT , Operand: 840
+Offset: 121, LOADGINT , Operand: 839
+Offset: 122, PUSHI , Operand: 10000
+Offset: 123, ISUB , Operand: 0
+Offset: 124, STOREGINT , Operand: 839
+Offset: 125, GOTO , Operand: 19
+Offset: 126, LOADGINT , Operand: 839
+Offset: 127, CALL , Operand: 2687
+Offset: 128, IFLT , Operand: 1
+Offset: 129, GOTO , Operand: 5
+Offset: 130, LOADGINT , Operand: 839
+Offset: 131, STOREGINT , Operand: 840
+Offset: 132, PUSHI , Operand: 0
+Offset: 133, STOREGINT , Operand: 839
+Offset: 134, GOTO , Operand: 10
+Offset: 135, LOADGINT , Operand: 840
+Offset: 136, CALL , Operand: 2687
+Offset: 137, IFLT , Operand: 1
+Offset: 138, GOTO , Operand: 6
+Offset: 139, CALL , Operand: 2687
+Offset: 140, STOREGINT , Operand: 840
+Offset: 141, LOADGINT , Operand: 839
+Offset: 142, CALL , Operand: 2687
+Offset: 143, ISUB , Operand: 0
+Offset: 144, STOREGINT , Operand: 839
+Offset: 145, LOADGINT , Operand: 840
+Offset: 146, PUSHS , Operand: ,
+Offset: 147, CALL , Operand: 46
+Offset: 148, PUSHI , Operand: 55836735
+Offset: 149, Unref Method: 2112, Operand: 0
+Offset: 150, LOADGINT , Operand: 839
+Offset: 151, PUSHS , Operand: ,
+Offset: 152, CALL , Operand: 46
+Offset: 153, PUSHI , Operand: 55836734
+Offset: 154, Unref Method: 2112, Operand: 0
+Offset: 155, RETURN , Operand: 0
+
+================================================
+                Switch Table 0                
+================================================
+
+Key: 55836715, Value: 28
+Key: 55836713, Value: 4
+Key: 55836719, Value: 1
+Key: 55836717, Value: 124
+Key: 55836723, Value: 76
+Key: 55836721, Value: 52
+Key: 55836725, Value: 100

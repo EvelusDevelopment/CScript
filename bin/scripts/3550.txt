@@ -1,0 +1,38 @@
+================================================
+      Client Script 3550 Dumped by SiniSoul    
+      Instruction Size: 18
+      Integer Arguments: 1 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADINT , Operand: 0
+Offset: 1, SWITCH , Operand: 0
+Offset: 2, PUSHI , Operand: 3209
+Offset: 3, RETURN , Operand: 0
+Offset: 4, GOTO , Operand: 11
+Offset: 5, PUSHI , Operand: 3212
+Offset: 6, RETURN , Operand: 0
+Offset: 7, GOTO , Operand: 8
+Offset: 8, PUSHI , Operand: 3215
+Offset: 9, RETURN , Operand: 0
+Offset: 10, GOTO , Operand: 5
+Offset: 11, PUSHI , Operand: 3218
+Offset: 12, RETURN , Operand: 0
+Offset: 13, GOTO , Operand: 2
+Offset: 14, PUSHI , Operand: 3221
+Offset: 15, RETURN , Operand: 0
+Offset: 16, PUSHI , Operand: -1
+Offset: 17, RETURN , Operand: 0
+
+================================================
+                Switch Table 0                
+================================================
+
+Key: 2, Value: 3
+Key: 3, Value: 6
+Key: 4, Value: 9
+Key: 5, Value: 12

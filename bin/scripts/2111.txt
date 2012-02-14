@@ -1,0 +1,72 @@
+================================================
+      Client Script 2111 Dumped by SiniSoul    
+      Instruction Size: 61
+      Integer Arguments: 9 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADINT , Operand: 0
+Offset: 1, PUSHI , Operand: 1
+Offset: 2, IFNE , Operand: 1
+Offset: 3, GOTO , Operand: 1
+Offset: 4, RETURN , Operand: 0
+Offset: 5, PUSHI , Operand: 0
+Offset: 6, STOREINT , Operand: 7
+Offset: 7, PUSHI , Operand: 0
+Offset: 8, STOREINT , Operand: 8
+Offset: 9, PUSHI , Operand: 4911
+Offset: 10, PUSHI , Operand: 1
+Offset: 11, PUSHI , Operand: 0
+Offset: 12, Unref Method: 3200, Operand: 0
+Offset: 13, LOADINT , Operand: 1
+Offset: 14, PUSHI , Operand: 1
+Offset: 15, IFEQ , Operand: 1
+Offset: 16, GOTO , Operand: 11
+Offset: 17, Unref Opcode: 25, Operand: 693
+Offset: 18, LOADINT , Operand: 2
+Offset: 19, IADD , Operand: 0
+Offset: 20, PUSHI , Operand: 4
+Offset: 21, IMOD , Operand: 0
+Offset: 22, PUSHI , Operand: 4
+Offset: 23, CALL , Operand: 686
+Offset: 24, STOREINT , Operand: 7
+Offset: 25, Unref Opcode: 25, Operand: 5851
+Offset: 26, STOREINT , Operand: 8
+Offset: 27, GOTO , Operand: 25
+Offset: 28, LOADINT , Operand: 1
+Offset: 29, PUSHI , Operand: 2
+Offset: 30, IFEQ , Operand: 1
+Offset: 31, GOTO , Operand: 11
+Offset: 32, Unref Opcode: 25, Operand: 694
+Offset: 33, LOADINT , Operand: 2
+Offset: 34, IADD , Operand: 0
+Offset: 35, PUSHI , Operand: 4
+Offset: 36, IMOD , Operand: 0
+Offset: 37, PUSHI , Operand: 4
+Offset: 38, CALL , Operand: 686
+Offset: 39, STOREINT , Operand: 7
+Offset: 40, Unref Opcode: 25, Operand: 5852
+Offset: 41, STOREINT , Operand: 8
+Offset: 42, GOTO , Operand: 10
+Offset: 43, Unref Opcode: 25, Operand: 695
+Offset: 44, LOADINT , Operand: 2
+Offset: 45, IADD , Operand: 0
+Offset: 46, PUSHI , Operand: 4
+Offset: 47, IMOD , Operand: 0
+Offset: 48, PUSHI , Operand: 4
+Offset: 49, CALL , Operand: 686
+Offset: 50, STOREINT , Operand: 7
+Offset: 51, Unref Opcode: 25, Operand: 5853
+Offset: 52, STOREINT , Operand: 8
+Offset: 53, LOADINT , Operand: 3
+Offset: 54, LOADINT , Operand: 4
+Offset: 55, LOADINT , Operand: 5
+Offset: 56, LOADINT , Operand: 6
+Offset: 57, LOADINT , Operand: 7
+Offset: 58, LOADINT , Operand: 8
+Offset: 59, CALL , Operand: 2112
+Offset: 60, RETURN , Operand: 0

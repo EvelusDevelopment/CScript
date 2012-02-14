@@ -1,0 +1,28 @@
+================================================
+      Client Script 913 Dumped by SiniSoul    
+      Instruction Size: 17
+      Integer Arguments: 2 
+      String  Arguments: 1 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADINT , Operand: 0
+Offset: 1, LOADINT , Operand: 1
+Offset: 2, IFLT , Operand: 1
+Offset: 3, GOTO , Operand: 6
+Offset: 4, PUSHS , Operand: <br>
+Offset: 5, PUSHS , Operand: <col=ff0000>
+Offset: 6, LOADSTR , Operand: 0
+Offset: 7, CONCAT , Operand: 3
+Offset: 8, RETURN , Operand: 0
+Offset: 9, GOTO , Operand: 5
+Offset: 10, PUSHS , Operand: <br>
+Offset: 11, PUSHS , Operand: <col=00ff00>
+Offset: 12, LOADSTR , Operand: 0
+Offset: 13, CONCAT , Operand: 3
+Offset: 14, RETURN , Operand: 0
+Offset: 15, PUSHS , Operand: 
+Offset: 16, RETURN , Operand: 0

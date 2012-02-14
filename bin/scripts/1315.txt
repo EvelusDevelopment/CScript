@@ -1,0 +1,39 @@
+================================================
+      Client Script 1315 Dumped by SiniSoul    
+      Instruction Size: 28
+      Integer Arguments: 1 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, Unref Opcode: 1, Operand: 173
+Offset: 1, STOREGINT , Operand: 119
+Offset: 2, PUSHI , Operand: 1316
+Offset: 3, LOADINT , Operand: 0
+Offset: 4, PUSHI , Operand: 173
+Offset: 5, PUSHI , Operand: 1
+Offset: 6, PUSHS , Operand: IY
+Offset: 7, LOADINT , Operand: 0
+Offset: 8, setInterfaceDefinitionScriptParams7 , Operand: 0
+Offset: 9, PUSHI , Operand: 1533
+Offset: 10, LOADINT , Operand: 0
+Offset: 11, PUSHS , Operand: I
+Offset: 12, LOADINT , Operand: 0
+Offset: 13, setInterfaceDefinitionScriptParams12 , Operand: 0
+Offset: 14, PUSHI , Operand: 2307
+Offset: 15, LOADINT , Operand: 0
+Offset: 16, PUSHS , Operand: I
+Offset: 17, LOADINT , Operand: 0
+Offset: 18, setInterfaceDefinitionScriptParams4 , Operand: 0
+Offset: 19, PUSHI , Operand: 1534
+Offset: 20, LOADINT , Operand: 0
+Offset: 21, PUSHI , Operand: -2147483644
+Offset: 22, PUSHS , Operand: Ii
+Offset: 23, LOADINT , Operand: 0
+Offset: 24, setInterfaceDefinitionScriptParams9 , Operand: 0
+Offset: 25, LOADINT , Operand: 0
+Offset: 26, CALL , Operand: 1741
+Offset: 27, RETURN , Operand: 0

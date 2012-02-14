@@ -1,0 +1,164 @@
+================================================
+      Client Script 3067 Dumped by SiniSoul    
+      Instruction Size: 153
+      Integer Arguments: 8 
+      String  Arguments: 3 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, Unref Method: 6500, Operand: 0
+Offset: 1, PUSHI , Operand: 0
+Offset: 2, IFEQ , Operand: 1
+Offset: 3, GOTO , Operand: 7
+Offset: 4, PUSHI , Operand: 3067
+Offset: 5, LOADINT , Operand: 0
+Offset: 6, PUSHS , Operand: i
+Offset: 7, PUSHI , Operand: 59375787
+Offset: 8, setInterfaceDefinitionScriptParams8 , Operand: 0
+Offset: 9, RETURN , Operand: 0
+Offset: 10, GOTO , Operand: 4
+Offset: 11, PUSHI , Operand: -1
+Offset: 12, PUSHS , Operand: 
+Offset: 13, PUSHI , Operand: 59375787
+Offset: 14, setInterfaceDefinitionScriptParams8 , Operand: 0
+Offset: 15, PUSHI , Operand: 0
+Offset: 16, STOREINT , Operand: 1
+Offset: 17, PUSHI , Operand: 0
+Offset: 18, STOREINT , Operand: 2
+Offset: 19, PUSHS , Operand: 
+Offset: 20, STORESTR , Operand: 0
+Offset: 21, PUSHI , Operand: 0
+Offset: 22, STOREINT , Operand: 3
+Offset: 23, PUSHS , Operand: 
+Offset: 24, STORESTR , Operand: 1
+Offset: 25, PUSHI , Operand: 0
+Offset: 26, STOREINT , Operand: 4
+Offset: 27, PUSHI , Operand: 0
+Offset: 28, STOREINT , Operand: 5
+Offset: 29, PUSHS , Operand: 
+Offset: 30, STORESTR , Operand: 2
+Offset: 31, PUSHI , Operand: -1
+Offset: 32, STOREINT , Operand: 6
+Offset: 33, LOADINT , Operand: 0
+Offset: 34, PUSHI , Operand: 1
+Offset: 35, IFEQ , Operand: 1
+Offset: 36, GOTO , Operand: 3
+Offset: 37, LOADGINT , Operand: 998
+Offset: 38, STOREINT , Operand: 6
+Offset: 39, GOTO , Operand: 8
+Offset: 40, LOADINT , Operand: 0
+Offset: 41, PUSHI , Operand: 2
+Offset: 42, IFEQ , Operand: 1
+Offset: 43, GOTO , Operand: 3
+Offset: 44, LOADGINT , Operand: 999
+Offset: 45, STOREINT , Operand: 6
+Offset: 46, GOTO , Operand: 1
+Offset: 47, RETURN , Operand: 0
+Offset: 48, Unref Method: 6501, Operand: 0
+Offset: 49, STORESTR , Operand: 2
+Offset: 50, STOREINT , Operand: 5
+Offset: 51, STOREINT , Operand: 4
+Offset: 52, STORESTR , Operand: 1
+Offset: 53, STOREINT , Operand: 3
+Offset: 54, STORESTR , Operand: 0
+Offset: 55, STOREINT , Operand: 2
+Offset: 56, STOREINT , Operand: 1
+Offset: 57, PUSHI , Operand: 0
+Offset: 58, STOREINT , Operand: 7
+Offset: 59, LOADINT , Operand: 1
+Offset: 60, PUSHI , Operand: -1
+Offset: 61, IFNE , Operand: 1
+Offset: 62, GOTO , Operand: 21
+Offset: 63, LOADINT , Operand: 7
+Offset: 64, PUSHI , Operand: 0
+Offset: 65, IFEQ , Operand: 1
+Offset: 66, GOTO , Operand: 17
+Offset: 67, LOADINT , Operand: 1
+Offset: 68, LOADINT , Operand: 6
+Offset: 69, IFEQ , Operand: 1
+Offset: 70, GOTO , Operand: 3
+Offset: 71, PUSHI , Operand: 1
+Offset: 72, STOREINT , Operand: 7
+Offset: 73, GOTO , Operand: 9
+Offset: 74, Unref Method: 6502, Operand: 0
+Offset: 75, STORESTR , Operand: 2
+Offset: 76, STOREINT , Operand: 5
+Offset: 77, STOREINT , Operand: 4
+Offset: 78, STORESTR , Operand: 1
+Offset: 79, STOREINT , Operand: 3
+Offset: 80, STORESTR , Operand: 0
+Offset: 81, STOREINT , Operand: 2
+Offset: 82, STOREINT , Operand: 1
+Offset: 83, GOTO , Operand: -25
+Offset: 84, LOADINT , Operand: 0
+Offset: 85, PUSHI , Operand: 1
+Offset: 86, IFEQ , Operand: 1
+Offset: 87, GOTO , Operand: 3
+Offset: 88, PUSHI , Operand: 59375789
+Offset: 89, CALL , Operand: 3382
+Offset: 90, GOTO , Operand: 6
+Offset: 91, LOADINT , Operand: 0
+Offset: 92, PUSHI , Operand: 2
+Offset: 93, IFEQ , Operand: 1
+Offset: 94, GOTO , Operand: 2
+Offset: 95, PUSHI , Operand: 59375790
+Offset: 96, CALL , Operand: 3382
+Offset: 97, LOADINT , Operand: 1
+Offset: 98, PUSHI , Operand: 0
+Offset: 99, IFGT , Operand: 1
+Offset: 100, GOTO , Operand: 34
+Offset: 101, Unref Method: 3318, Operand: 0
+Offset: 102, LOADINT , Operand: 1
+Offset: 103, IFNE , Operand: 1
+Offset: 104, GOTO , Operand: 27
+Offset: 105, LOADINT , Operand: 1
+Offset: 106, LOADSTR , Operand: 2
+Offset: 107, Unref Method: 6503, Operand: 0
+Offset: 108, PUSHI , Operand: 1
+Offset: 109, IFEQ , Operand: 1
+Offset: 110, GOTO , Operand: 5
+Offset: 111, PUSHI , Operand: 0
+Offset: 112, STOREGINT , Operand: 547
+Offset: 113, PUSHI , Operand: 59375786
+Offset: 114, CALL , Operand: 3062
+Offset: 115, GOTO , Operand: 15
+Offset: 116, PUSHI , Operand: 1
+Offset: 117, CALL , Operand: 3064
+Offset: 118, PUSHI , Operand: -5
+Offset: 119, PUSHI , Operand: 1
+Offset: 120, PUSHS , Operand: COULD NOT CONNECT YOU TO THAT WORLD. PLEASE CHOOSE ANOTHER.
+Offset: 121, PUSHI , Operand: 0
+Offset: 122, PUSHI , Operand: 2608
+Offset: 123, PUSHI , Operand: 0
+Offset: 124, PUSHI , Operand: -1
+Offset: 125, PUSHS , Operand: 
+Offset: 126, PUSHS , Operand: 
+Offset: 127, PUSHI , Operand: 1
+Offset: 128, PUSHS , Operand: BACK
+Offset: 129, PUSHS , Operand: Back
+Offset: 130, CALL , Operand: 3093
+Offset: 131, GOTO , Operand: 2
+Offset: 132, PUSHI , Operand: 59375786
+Offset: 133, CALL , Operand: 3062
+Offset: 134, GOTO , Operand: 17
+Offset: 135, PUSHI , Operand: -5
+Offset: 136, PUSHI , Operand: 1
+Offset: 137, PUSHS , Operand: WORLD 
+Offset: 138, LOADINT , Operand: 6
+Offset: 139, integerToString , Operand: 0
+Offset: 140, PUSHS , Operand:  IS RUNNING IN A DIFFERENT LANGUAGE OR IS UNAVAILABLE.
+Offset: 141, CONCAT , Operand: 3
+Offset: 142, PUSHI , Operand: 0
+Offset: 143, PUSHI , Operand: 2608
+Offset: 144, PUSHI , Operand: 0
+Offset: 145, PUSHI , Operand: -1
+Offset: 146, PUSHS , Operand: 
+Offset: 147, PUSHS , Operand: 
+Offset: 148, PUSHI , Operand: 1
+Offset: 149, PUSHS , Operand: BACK
+Offset: 150, PUSHS , Operand: Back
+Offset: 151, CALL , Operand: 3093
+Offset: 152, RETURN , Operand: 0

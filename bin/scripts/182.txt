@@ -1,0 +1,52 @@
+================================================
+      Client Script 182 Dumped by SiniSoul    
+      Instruction Size: 41
+      Integer Arguments: 3 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADINT , Operand: 0
+Offset: 1, CALL , Operand: 179
+Offset: 2, STOREINT , Operand: 1
+Offset: 3, PUSHI , Operand: 0
+Offset: 4, STOREINT , Operand: 2
+Offset: 5, LOADINT , Operand: 1
+Offset: 6, PUSHI , Operand: 25
+Offset: 7, IMOD , Operand: 0
+Offset: 8, PUSHI , Operand: 0
+Offset: 9, IFEQ , Operand: 1
+Offset: 10, GOTO , Operand: 24
+Offset: 11, CALL , Operand: 178
+Offset: 12, LOADINT , Operand: 1
+Offset: 13, PUSHI , Operand: 25
+Offset: 14, IDIV , Operand: 0
+Offset: 15, STOREINT , Operand: 2
+Offset: 16, LOADINT , Operand: 2
+Offset: 17, PUSHI , Operand: 1
+Offset: 18, IFLTEQ , Operand: 1
+Offset: 19, GOTO , Operand: 9
+Offset: 20, PUSHI , Operand: -1
+Offset: 21, PUSHS , Operand: 
+Offset: 22, PUSHI , Operand: 105
+Offset: 23, PUSHI , Operand: 73
+Offset: 24, PUSHI , Operand: 683
+Offset: 25, LOADINT , Operand: 0
+Offset: 26, Unref Method: 3408, Operand: 0
+Offset: 27, setInterfaceDefinitionScriptParams8 , Operand: 0
+Offset: 28, GOTO , Operand: 5
+Offset: 29, LOADINT , Operand: 0
+Offset: 30, LOADINT , Operand: 1
+Offset: 31, PUSHI , Operand: 1
+Offset: 32, ISUB , Operand: 0
+Offset: 33, CALL , Operand: 183
+Offset: 34, GOTO , Operand: 5
+Offset: 35, LOADINT , Operand: 0
+Offset: 36, LOADINT , Operand: 1
+Offset: 37, PUSHI , Operand: 1
+Offset: 38, ISUB , Operand: 0
+Offset: 39, CALL , Operand: 183
+Offset: 40, RETURN , Operand: 0

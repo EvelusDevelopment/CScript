@@ -1,0 +1,50 @@
+================================================
+      Client Script 2825 Dumped by SiniSoul    
+      Instruction Size: 39
+      Integer Arguments: 1 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADGINT , Operand: 1064
+Offset: 1, PUSHI , Operand: 0
+Offset: 2, Unref Method: 5407, Operand: 0
+Offset: 3, PUSHI , Operand: 1
+Offset: 4, ISUB , Operand: 0
+Offset: 5, IFEQ , Operand: 1
+Offset: 6, GOTO , Operand: 10
+Offset: 7, LOADINT , Operand: 0
+Offset: 8, PUSHI , Operand: 1
+Offset: 9, IFEQ , Operand: 1
+Offset: 10, GOTO , Operand: 1
+Offset: 11, Unref Method: 5512, Operand: 0
+Offset: 12, PUSHI , Operand: -1
+Offset: 13, PUSHS , Operand: 
+Offset: 14, PUSHI , Operand: 5832704
+Offset: 15, setInterfaceDefinitionScriptParams26 , Operand: 0
+Offset: 16, RETURN , Operand: 0
+Offset: 17, PUSHI , Operand: 0
+Offset: 18, LOADGINT , Operand: 1064
+Offset: 19, PUSHI , Operand: 105
+Offset: 20, PUSHI , Operand: 105
+Offset: 21, LOADGINT , Operand: 1067
+Offset: 22, LOADGINT , Operand: 1064
+Offset: 23, Unref Method: 3408, Operand: 0
+Offset: 24, PUSHI , Operand: 105
+Offset: 25, PUSHI , Operand: 105
+Offset: 26, LOADGINT , Operand: 1067
+Offset: 27, LOADGINT , Operand: 1064
+Offset: 28, PUSHI , Operand: 1
+Offset: 29, IADD , Operand: 0
+Offset: 30, Unref Method: 3408, Operand: 0
+Offset: 31, PUSHI , Operand: 1
+Offset: 32, LOADGINT , Operand: 1064
+Offset: 33, Unref Method: 5502, Operand: 0
+Offset: 34, LOADGINT , Operand: 1064
+Offset: 35, PUSHI , Operand: 1
+Offset: 36, IADD , Operand: 0
+Offset: 37, STOREGINT , Operand: 1064
+Offset: 38, RETURN , Operand: 0

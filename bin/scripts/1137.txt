@@ -1,0 +1,30 @@
+================================================
+      Client Script 1137 Dumped by SiniSoul    
+      Instruction Size: 19
+      Integer Arguments: 2 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, Unref Opcode: 1, Operand: 300
+Offset: 1, PUSHI , Operand: 1000
+Offset: 2, PUSHI , Operand: 143
+Offset: 3, Unref Method: 4018, Operand: 0
+Offset: 4, PUSHI , Operand: 13
+Offset: 5, PUSHI , Operand: 0
+Offset: 6, PUSHI , Operand: 0
+Offset: 7, LOADINT , Operand: 0
+Offset: 8, Unref Method: 2001, Operand: 0
+Offset: 9, PUSHS , Operand: Special Attack (
+Offset: 10, Unref Opcode: 1, Operand: 300
+Offset: 11, PUSHI , Operand: 10
+Offset: 12, IDIV , Operand: 0
+Offset: 13, integerToString , Operand: 0
+Offset: 14, PUSHS , Operand: %)
+Offset: 15, CONCAT , Operand: 3
+Offset: 16, LOADINT , Operand: 1
+Offset: 17, Unref Method: 2112, Operand: 0
+Offset: 18, RETURN , Operand: 0

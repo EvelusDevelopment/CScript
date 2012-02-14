@@ -1,0 +1,52 @@
+================================================
+      Client Script 49 Dumped by SiniSoul    
+      Instruction Size: 41
+      Integer Arguments: 3 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADINT , Operand: 2
+Offset: 1, CALL , Operand: 2296
+Offset: 2, PUSHI , Operand: 1
+Offset: 3, IFEQ , Operand: 1
+Offset: 4, GOTO , Operand: 18
+Offset: 5, LOADINT , Operand: 0
+Offset: 6, LOADINT , Operand: 2
+Offset: 7, Unref Method: 200, Operand: 0
+Offset: 8, PUSHI , Operand: 1
+Offset: 9, IFEQ , Operand: 1
+Offset: 10, GOTO , Operand: 3
+Offset: 11, PUSHI , Operand: 1
+Offset: 12, PUSHS , Operand: Deactivate
+Offset: 13, setChildInterfaceText , Operand: 0
+Offset: 14, LOADINT , Operand: 1
+Offset: 15, LOADINT , Operand: 2
+Offset: 16, Unref Method: 200, Operand: 0
+Offset: 17, PUSHI , Operand: 1
+Offset: 18, IFEQ , Operand: 1
+Offset: 19, GOTO , Operand: 2
+Offset: 20, PUSHI , Operand: 155
+Offset: 21, Unref Method: 1105, Operand: 0
+Offset: 22, GOTO , Operand: 17
+Offset: 23, LOADINT , Operand: 0
+Offset: 24, LOADINT , Operand: 2
+Offset: 25, Unref Method: 200, Operand: 0
+Offset: 26, PUSHI , Operand: 1
+Offset: 27, IFEQ , Operand: 1
+Offset: 28, GOTO , Operand: 3
+Offset: 29, PUSHI , Operand: 1
+Offset: 30, PUSHS , Operand: Activate
+Offset: 31, setChildInterfaceText , Operand: 0
+Offset: 32, LOADINT , Operand: 1
+Offset: 33, LOADINT , Operand: 2
+Offset: 34, Unref Method: 200, Operand: 0
+Offset: 35, PUSHI , Operand: 1
+Offset: 36, IFEQ , Operand: 1
+Offset: 37, GOTO , Operand: 2
+Offset: 38, PUSHI , Operand: -1
+Offset: 39, Unref Method: 1105, Operand: 0
+Offset: 40, RETURN , Operand: 0

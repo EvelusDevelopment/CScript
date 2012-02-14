@@ -1,0 +1,149 @@
+================================================
+      Client Script 1077 Dumped by SiniSoul    
+      Instruction Size: 129
+      Integer Arguments: 5 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADINT , Operand: 0
+Offset: 1, STOREINT , Operand: 1
+Offset: 2, LOADINT , Operand: 0
+Offset: 3, PUSHI , Operand: 105
+Offset: 4, IFEQ , Operand: 1
+Offset: 5, GOTO , Operand: 13
+Offset: 6, Unref Opcode: 25, Operand: 7774
+Offset: 7, PUSHI , Operand: 0
+Offset: 8, IFNE , Operand: 1
+Offset: 9, GOTO , Operand: 3
+Offset: 10, PUSHI , Operand: 1021
+Offset: 11, STOREINT , Operand: 0
+Offset: 12, GOTO , Operand: 6
+Offset: 13, Unref Opcode: 1, Operand: 394
+Offset: 14, PUSHI , Operand: 0
+Offset: 15, IFEQ , Operand: 1
+Offset: 16, GOTO , Operand: 2
+Offset: 17, PUSHI , Operand: 561
+Offset: 18, STOREINT , Operand: 0
+Offset: 19, LOADINT , Operand: 0
+Offset: 20, Unref Method: 5058, Operand: 0
+Offset: 21, PUSHI , Operand: 0
+Offset: 22, STOREINT , Operand: 2
+Offset: 23, LOADINT , Operand: 0
+Offset: 24, Unref Method: 5066, Operand: 0
+Offset: 25, STOREINT , Operand: 3
+Offset: 26, PUSHI , Operand: -1
+Offset: 27, STOREINT , Operand: 4
+Offset: 28, LOADINT , Operand: 2
+Offset: 29, LOADINT , Operand: 3
+Offset: 30, IFLT , Operand: 1
+Offset: 31, GOTO , Operand: 25
+Offset: 32, LOADINT , Operand: 2
+Offset: 33, PUSHI , Operand: 10
+Offset: 34, IFLT , Operand: 1
+Offset: 35, GOTO , Operand: 21
+Offset: 36, LOADINT , Operand: 0
+Offset: 37, LOADINT , Operand: 2
+Offset: 38, Unref Method: 5067, Operand: 0
+Offset: 39, SWITCH , Operand: 0
+Offset: 40, GOTO , Operand: 11
+Offset: 41, LOADINT , Operand: 2
+Offset: 42, CALL , Operand: 1078
+Offset: 43, GOTO , Operand: 8
+Offset: 44, LOADINT , Operand: 2
+Offset: 45, CALL , Operand: 1079
+Offset: 46, GOTO , Operand: 5
+Offset: 47, LOADINT , Operand: 2
+Offset: 48, CALL , Operand: 1079
+Offset: 49, GOTO , Operand: 2
+Offset: 50, LOADINT , Operand: 2
+Offset: 51, CALL , Operand: 1078
+Offset: 52, LOADINT , Operand: 2
+Offset: 53, PUSHI , Operand: 1
+Offset: 54, IADD , Operand: 0
+Offset: 55, STOREINT , Operand: 2
+Offset: 56, GOTO , Operand: -29
+Offset: 57, LOADGINT , Operand: 126
+Offset: 58, PUSHI , Operand: 0
+Offset: 59, IFEQ , Operand: 4
+Offset: 60, LOADGINT , Operand: 126
+Offset: 61, PUSHI , Operand: 4
+Offset: 62, IFEQ , Operand: 1
+Offset: 63, GOTO , Operand: 2
+Offset: 64, Unref Method: 5059, Operand: 0
+Offset: 65, GOTO , Operand: 55
+Offset: 66, LOADGINT , Operand: 126
+Offset: 67, PUSHI , Operand: 1
+Offset: 68, IFEQ , Operand: 1
+Offset: 69, GOTO , Operand: 22
+Offset: 70, LOADGSTR , Operand: 27
+Offset: 71, CALL , Operand: 1090
+Offset: 72, STOREINT , Operand: 4
+Offset: 73, LOADINT , Operand: 4
+Offset: 74, PUSHI , Operand: 1
+Offset: 75, IFEQ , Operand: 1
+Offset: 76, GOTO , Operand: 5
+Offset: 77, LOADGSTR , Operand: 27
+Offset: 78, discludeTagsInString , Operand: 0
+Offset: 79, Unref Method: 5060, Operand: 0
+Offset: 80, CALL , Operand: 1089
+Offset: 81, GOTO , Operand: 9
+Offset: 82, LOADINT , Operand: 4
+Offset: 83, PUSHI , Operand: -1
+Offset: 84, IFEQ , Operand: 1
+Offset: 85, GOTO , Operand: 3
+Offset: 86, PUSHS , Operand: Sorry, this user is not on your Friends List.
+Offset: 87, Unref Method: 3100, Operand: 0
+Offset: 88, GOTO , Operand: 2
+Offset: 89, PUSHS , Operand: Sorry, your friend is no longer playing RuneScape.
+Offset: 90, Unref Method: 3100, Operand: 0
+Offset: 91, GOTO , Operand: 29
+Offset: 92, LOADGINT , Operand: 126
+Offset: 93, PUSHI , Operand: 5
+Offset: 94, IFEQ , Operand: 1
+Offset: 95, GOTO , Operand: 5
+Offset: 96, LOADGSTR , Operand: 27
+Offset: 97, discludeTagsInString , Operand: 0
+Offset: 98, Unref Method: 5060, Operand: 0
+Offset: 99, CALL , Operand: 1089
+Offset: 100, GOTO , Operand: 20
+Offset: 101, LOADGINT , Operand: 126
+Offset: 102, PUSHI , Operand: 3
+Offset: 103, IFEQ , Operand: 4
+Offset: 104, LOADGINT , Operand: 126
+Offset: 105, PUSHI , Operand: 7
+Offset: 106, IFEQ , Operand: 1
+Offset: 107, GOTO , Operand: 5
+Offset: 108, LOADGSTR , Operand: 27
+Offset: 109, discludeTagsInString , Operand: 0
+Offset: 110, Unref Method: 5060, Operand: 0
+Offset: 111, CALL , Operand: 1089
+Offset: 112, GOTO , Operand: 8
+Offset: 113, LOADGINT , Operand: 126
+Offset: 114, PUSHI , Operand: 2
+Offset: 115, IFEQ , Operand: 4
+Offset: 116, LOADGINT , Operand: 126
+Offset: 117, PUSHI , Operand: 6
+Offset: 118, IFEQ , Operand: 1
+Offset: 119, GOTO , Operand: 1
+Offset: 120, Unref Method: 5061, Operand: 0
+Offset: 121, LOADINT , Operand: 1
+Offset: 122, STOREGINT , Operand: 130
+Offset: 123, LOADGINT , Operand: 126
+Offset: 124, STOREGINT , Operand: 131
+Offset: 125, LOADGSTR , Operand: 27
+Offset: 126, STOREGSTR , Operand: 28
+Offset: 127, CALL , Operand: 1054
+Offset: 128, RETURN , Operand: 0
+
+================================================
+                Switch Table 0                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 4
+Key: 10, Value: 7
+Key: 2, Value: 10

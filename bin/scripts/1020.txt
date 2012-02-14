@@ -1,0 +1,4599 @@
+================================================
+      Client Script 1020 Dumped by SiniSoul    
+      Instruction Size: 4208
+      Integer Arguments: 2 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADINT , Operand: 0
+Offset: 1, SWITCH , Operand: 0
+Offset: 2, GOTO , Operand: 4200
+Offset: 3, LOADINT , Operand: 1
+Offset: 4, SWITCH , Operand: 1
+Offset: 5, GOTO , Operand: 1107
+Offset: 6, PUSHI , Operand: 1
+Offset: 7, PUSHI , Operand: 12047
+Offset: 8, PUSHS , Operand: Spirit wolf - Attack XP
+Offset: 9, PUSHS , Operand: <br>
+Offset: 10, PUSHS , Operand: Gold charm, wolf bones, 7 shards
+Offset: 11, CONCAT , Operand: 3
+Offset: 12, PUSHS , Operand: You can now infuse 
+Offset: 13, PUSHS , Operand: <col=000080>
+Offset: 14, PUSHS , Operand: spirit wolf pouches
+Offset: 15, PUSHS , Operand: </col>
+Offset: 16, PUSHS , Operand: .
+Offset: 17, CONCAT , Operand: 5
+Offset: 18, RETURN , Operand: 0
+Offset: 19, GOTO , Operand: 1093
+Offset: 20, PUSHI , Operand: 4
+Offset: 21, PUSHI , Operand: 12043
+Offset: 22, PUSHS , Operand: Dreadfowl - Magic XP
+Offset: 23, PUSHS , Operand: <br>
+Offset: 24, PUSHS , Operand: Gold charm, raw chicken, 8 shards
+Offset: 25, CONCAT , Operand: 3
+Offset: 26, PUSHS , Operand: You can now infuse 
+Offset: 27, PUSHS , Operand: <col=000080>
+Offset: 28, PUSHS , Operand: dreadfowl pouches
+Offset: 29, PUSHS , Operand: </col>
+Offset: 30, PUSHS , Operand: .
+Offset: 31, CONCAT , Operand: 5
+Offset: 32, RETURN , Operand: 0
+Offset: 33, GOTO , Operand: 1079
+Offset: 34, PUSHI , Operand: 4
+Offset: 35, PUSHI , Operand: 19622
+Offset: 36, PUSHS , Operand: Meerkats
+Offset: 37, PUSHS , Operand: <br>
+Offset: 38, PUSHS , Operand: Obtained from Treasure Trails.
+Offset: 39, CONCAT , Operand: 3
+Offset: 40, PUSHS , Operand: You can now summon 
+Offset: 41, PUSHS , Operand: <col=000080>
+Offset: 42, PUSHS , Operand: meerkats
+Offset: 43, PUSHS , Operand: </col>
+Offset: 44, PUSHS , Operand: .
+Offset: 45, CONCAT , Operand: 5
+Offset: 46, RETURN , Operand: 0
+Offset: 47, GOTO , Operand: 1065
+Offset: 48, PUSHI , Operand: 10
+Offset: 49, PUSHI , Operand: 12059
+Offset: 50, PUSHS , Operand: Spirit spider - Controlled XP
+Offset: 51, PUSHS , Operand: <br>
+Offset: 52, PUSHS , Operand: Gold charm, spider carcass, 8 shards
+Offset: 53, CONCAT , Operand: 3
+Offset: 54, PUSHS , Operand: You can now infuse 
+Offset: 55, PUSHS , Operand: <col=000080>
+Offset: 56, PUSHS , Operand: spirit spider pouches
+Offset: 57, PUSHS , Operand: </col>
+Offset: 58, PUSHS , Operand: .
+Offset: 59, CONCAT , Operand: 5
+Offset: 60, RETURN , Operand: 0
+Offset: 61, GOTO , Operand: 1051
+Offset: 62, PUSHI , Operand: 13
+Offset: 63, PUSHI , Operand: 12019
+Offset: 64, PUSHS , Operand: Thorny snail - Ranged XP
+Offset: 65, PUSHS , Operand: <br>
+Offset: 66, PUSHS , Operand: Gold charm, raw thin snail, 9 shards
+Offset: 67, CONCAT , Operand: 3
+Offset: 68, PUSHS , Operand: You can now infuse 
+Offset: 69, PUSHS , Operand: <col=000080>
+Offset: 70, PUSHS , Operand: thorny snail pouches
+Offset: 71, PUSHS , Operand: </col>
+Offset: 72, PUSHS , Operand: .
+Offset: 73, CONCAT , Operand: 5
+Offset: 74, RETURN , Operand: 0
+Offset: 75, GOTO , Operand: 1037
+Offset: 76, PUSHI , Operand: 16
+Offset: 77, PUSHI , Operand: 12009
+Offset: 78, PUSHS , Operand: Granite crab - Defence XP
+Offset: 79, PUSHS , Operand: <br>
+Offset: 80, PUSHS , Operand: Gold charm, iron ore, 7 shards
+Offset: 81, CONCAT , Operand: 3
+Offset: 82, PUSHS , Operand: You can now infuse 
+Offset: 83, PUSHS , Operand: <col=000080>
+Offset: 84, PUSHS , Operand: granite crab pouches
+Offset: 85, PUSHS , Operand: </col>
+Offset: 86, PUSHS , Operand: .
+Offset: 87, CONCAT , Operand: 5
+Offset: 88, RETURN , Operand: 0
+Offset: 89, GOTO , Operand: 1023
+Offset: 90, PUSHI , Operand: 17
+Offset: 91, PUSHI , Operand: 12778
+Offset: 92, PUSHS , Operand: Spirit mosquito - Attack XP
+Offset: 93, PUSHS , Operand: <br>
+Offset: 94, PUSHS , Operand: Gold charm, proboscis, 1 shard
+Offset: 95, CONCAT , Operand: 3
+Offset: 96, PUSHS , Operand: You can now infuse 
+Offset: 97, PUSHS , Operand: <col=000080>
+Offset: 98, PUSHS , Operand: spirit mosquito pouches
+Offset: 99, PUSHS , Operand: </col>
+Offset: 100, PUSHS , Operand: .
+Offset: 101, CONCAT , Operand: 5
+Offset: 102, RETURN , Operand: 0
+Offset: 103, GOTO , Operand: 1009
+Offset: 104, PUSHI , Operand: 18
+Offset: 105, PUSHI , Operand: 12049
+Offset: 106, PUSHS , Operand: Desert wyrm - Strength XP
+Offset: 107, PUSHS , Operand: <br>
+Offset: 108, PUSHS , Operand: Green charm, bucket of sand, 45 shards
+Offset: 109, CONCAT , Operand: 3
+Offset: 110, PUSHS , Operand: You can now infuse 
+Offset: 111, PUSHS , Operand: <col=000080>
+Offset: 112, PUSHS , Operand: desert wyrm pouches
+Offset: 113, PUSHS , Operand: </col>
+Offset: 114, PUSHS , Operand: .
+Offset: 115, CONCAT , Operand: 5
+Offset: 116, RETURN , Operand: 0
+Offset: 117, GOTO , Operand: 995
+Offset: 118, PUSHI , Operand: 19
+Offset: 119, PUSHI , Operand: 12055
+Offset: 120, PUSHS , Operand: Spirit scorpion - Controlled XP
+Offset: 121, PUSHS , Operand: <br>
+Offset: 122, PUSHS , Operand: Crimson charm, bronze claws, 57 shards
+Offset: 123, CONCAT , Operand: 3
+Offset: 124, PUSHS , Operand: You can now infuse 
+Offset: 125, PUSHS , Operand: <col=000080>
+Offset: 126, PUSHS , Operand: spirit scorpion pouches
+Offset: 127, PUSHS , Operand: </col>
+Offset: 128, PUSHS , Operand: .
+Offset: 129, CONCAT , Operand: 5
+Offset: 130, RETURN , Operand: 0
+Offset: 131, GOTO , Operand: 981
+Offset: 132, PUSHI , Operand: 22
+Offset: 133, PUSHI , Operand: 12808
+Offset: 134, PUSHS , Operand: Spirit Tz-Kih - Magic XP
+Offset: 135, PUSHS , Operand: <br>
+Offset: 136, PUSHS , Operand: Crimson charm, obsidian charm, 64 shards
+Offset: 137, CONCAT , Operand: 3
+Offset: 138, PUSHS , Operand: You can now infuse 
+Offset: 139, PUSHS , Operand: <col=000080>
+Offset: 140, PUSHS , Operand: spirit Tz-Kih pouches
+Offset: 141, PUSHS , Operand: </col>
+Offset: 142, PUSHS , Operand: .
+Offset: 143, CONCAT , Operand: 5
+Offset: 144, RETURN , Operand: 0
+Offset: 145, GOTO , Operand: 967
+Offset: 146, PUSHI , Operand: 23
+Offset: 147, PUSHI , Operand: 12067
+Offset: 148, PUSHS , Operand: Albino rat - Attack XP
+Offset: 149, PUSHS , Operand: <br>
+Offset: 150, PUSHS , Operand: Blue charm, raw rat meat, 75 shards
+Offset: 151, CONCAT , Operand: 3
+Offset: 152, PUSHS , Operand: You can now infuse 
+Offset: 153, PUSHS , Operand: <col=000080>
+Offset: 154, PUSHS , Operand: albino rat pouches
+Offset: 155, PUSHS , Operand: </col>
+Offset: 156, PUSHS , Operand: .
+Offset: 157, CONCAT , Operand: 5
+Offset: 158, RETURN , Operand: 0
+Offset: 159, GOTO , Operand: 953
+Offset: 160, PUSHI , Operand: 25
+Offset: 161, PUSHI , Operand: 12063
+Offset: 162, PUSHS , Operand: Spirit kalphite - Defence XP
+Offset: 163, PUSHS , Operand: <br>
+Offset: 164, PUSHS , Operand: Blue charm, potato cactus, 51 shards
+Offset: 165, CONCAT , Operand: 3
+Offset: 166, PUSHS , Operand: You can now infuse 
+Offset: 167, PUSHS , Operand: <col=000080>
+Offset: 168, PUSHS , Operand: spirit kalphite pouches
+Offset: 169, PUSHS , Operand: </col>
+Offset: 170, PUSHS , Operand: .
+Offset: 171, CONCAT , Operand: 5
+Offset: 172, RETURN , Operand: 0
+Offset: 173, GOTO , Operand: 939
+Offset: 174, PUSHI , Operand: 28
+Offset: 175, PUSHI , Operand: 12091
+Offset: 176, PUSHS , Operand: Compost mound - Strength XP
+Offset: 177, PUSHS , Operand: <br>
+Offset: 178, PUSHS , Operand: Green charm, compost, 47 shards
+Offset: 179, CONCAT , Operand: 3
+Offset: 180, PUSHS , Operand: You can now infuse 
+Offset: 181, PUSHS , Operand: <col=000080>
+Offset: 182, PUSHS , Operand: compost mound pouches
+Offset: 183, PUSHS , Operand: </col>
+Offset: 184, PUSHS , Operand: .
+Offset: 185, CONCAT , Operand: 5
+Offset: 186, RETURN , Operand: 0
+Offset: 187, GOTO , Operand: 925
+Offset: 188, PUSHI , Operand: 29
+Offset: 189, PUSHI , Operand: 12800
+Offset: 190, PUSHS , Operand: Giant chinchompa - Ranged XP
+Offset: 191, PUSHS , Operand: <br>
+Offset: 192, PUSHS , Operand: Blue charm, chinchompa, 84 shards
+Offset: 193, CONCAT , Operand: 3
+Offset: 194, PUSHS , Operand: You can now infuse 
+Offset: 195, PUSHS , Operand: <col=000080>
+Offset: 196, PUSHS , Operand: giant chinchompa pouches
+Offset: 197, PUSHS , Operand: </col>
+Offset: 198, PUSHS , Operand: .
+Offset: 199, CONCAT , Operand: 5
+Offset: 200, RETURN , Operand: 0
+Offset: 201, GOTO , Operand: 911
+Offset: 202, PUSHI , Operand: 31
+Offset: 203, PUSHI , Operand: 12053
+Offset: 204, PUSHS , Operand: Vampire bat - Controlled XP
+Offset: 205, PUSHS , Operand: <br>
+Offset: 206, PUSHS , Operand: Crimson charm, vampire dust, 81 shards
+Offset: 207, CONCAT , Operand: 3
+Offset: 208, PUSHS , Operand: You can now infuse 
+Offset: 209, PUSHS , Operand: <col=000080>
+Offset: 210, PUSHS , Operand: vampire bat pouches
+Offset: 211, PUSHS , Operand: </col>
+Offset: 212, PUSHS , Operand: .
+Offset: 213, CONCAT , Operand: 5
+Offset: 214, RETURN , Operand: 0
+Offset: 215, GOTO , Operand: 897
+Offset: 216, PUSHI , Operand: 32
+Offset: 217, PUSHI , Operand: 12065
+Offset: 218, PUSHS , Operand: Honey badger - Strength XP
+Offset: 219, PUSHS , Operand: <br>
+Offset: 220, PUSHS , Operand: Crimson charm, honeycomb, 84 shards
+Offset: 221, CONCAT , Operand: 3
+Offset: 222, PUSHS , Operand: You can now infuse 
+Offset: 223, PUSHS , Operand: <col=000080>
+Offset: 224, PUSHS , Operand: honey badger pouches
+Offset: 225, PUSHS , Operand: </col>
+Offset: 226, PUSHS , Operand: .
+Offset: 227, CONCAT , Operand: 5
+Offset: 228, RETURN , Operand: 0
+Offset: 229, GOTO , Operand: 883
+Offset: 230, PUSHI , Operand: 33
+Offset: 231, PUSHI , Operand: 12021
+Offset: 232, PUSHS , Operand: Beaver
+Offset: 233, PUSHS , Operand: <br>
+Offset: 234, PUSHS , Operand: Green charm, willow logs, 72 shards
+Offset: 235, CONCAT , Operand: 3
+Offset: 236, PUSHS , Operand: You can now infuse 
+Offset: 237, PUSHS , Operand: <col=000080>
+Offset: 238, PUSHS , Operand: beaver pouches
+Offset: 239, PUSHS , Operand: </col>
+Offset: 240, PUSHS , Operand: .
+Offset: 241, CONCAT , Operand: 5
+Offset: 242, RETURN , Operand: 0
+Offset: 243, GOTO , Operand: 869
+Offset: 244, PUSHI , Operand: 34
+Offset: 245, PUSHI , Operand: 12818
+Offset: 246, PUSHS , Operand: Void ravager - Strength XP
+Offset: 247, PUSHS , Operand: <br>
+Offset: 248, PUSHS , Operand: Green charm, ravager charm, 74 shards
+Offset: 249, CONCAT , Operand: 3
+Offset: 250, PUSHS , Operand: You can now infuse 
+Offset: 251, PUSHS , Operand: <col=000080>
+Offset: 252, PUSHS , Operand: void ravager pouches
+Offset: 253, PUSHS , Operand: </col>
+Offset: 254, PUSHS , Operand: .
+Offset: 255, CONCAT , Operand: 5
+Offset: 256, RETURN , Operand: 0
+Offset: 257, GOTO , Operand: 855
+Offset: 258, PUSHI , Operand: 34
+Offset: 259, PUSHI , Operand: 12780
+Offset: 260, PUSHS , Operand: Void spinner - Defence XP
+Offset: 261, PUSHS , Operand: <br>
+Offset: 262, PUSHS , Operand: Blue charm, spinner charm, 74 shards
+Offset: 263, CONCAT , Operand: 3
+Offset: 264, PUSHS , Operand: You can now infuse 
+Offset: 265, PUSHS , Operand: <col=000080>
+Offset: 266, PUSHS , Operand: void spinner pouches
+Offset: 267, PUSHS , Operand: </col>
+Offset: 268, PUSHS , Operand: .
+Offset: 269, CONCAT , Operand: 5
+Offset: 270, RETURN , Operand: 0
+Offset: 271, GOTO , Operand: 841
+Offset: 272, PUSHI , Operand: 34
+Offset: 273, PUSHI , Operand: 12798
+Offset: 274, PUSHS , Operand: Void torcher - Magic XP
+Offset: 275, PUSHS , Operand: <br>
+Offset: 276, PUSHS , Operand: Blue charm, torcher charm, 74 shards
+Offset: 277, CONCAT , Operand: 3
+Offset: 278, PUSHS , Operand: You can now infuse 
+Offset: 279, PUSHS , Operand: <col=000080>
+Offset: 280, PUSHS , Operand: void torcher pouches
+Offset: 281, PUSHS , Operand: </col>
+Offset: 282, PUSHS , Operand: .
+Offset: 283, CONCAT , Operand: 5
+Offset: 284, RETURN , Operand: 0
+Offset: 285, GOTO , Operand: 827
+Offset: 286, PUSHI , Operand: 34
+Offset: 287, PUSHI , Operand: 12814
+Offset: 288, PUSHS , Operand: Void shifter - Attack XP
+Offset: 289, PUSHS , Operand: <br>
+Offset: 290, PUSHS , Operand: Blue charm, shifter charm, 74 shards
+Offset: 291, CONCAT , Operand: 3
+Offset: 292, PUSHS , Operand: You can now infuse 
+Offset: 293, PUSHS , Operand: <col=000080>
+Offset: 294, PUSHS , Operand: void shifter pouches
+Offset: 295, PUSHS , Operand: </col>
+Offset: 296, PUSHS , Operand: .
+Offset: 297, CONCAT , Operand: 5
+Offset: 298, RETURN , Operand: 0
+Offset: 299, GOTO , Operand: 813
+Offset: 300, PUSHI , Operand: 36
+Offset: 301, PUSHI , Operand: 12073
+Offset: 302, PUSHS , Operand: Bronze minotaur - Defence XP
+Offset: 303, PUSHS , Operand: <br>
+Offset: 304, PUSHS , Operand: Blue charm, bronze bar, 102 shards
+Offset: 305, CONCAT , Operand: 3
+Offset: 306, PUSHS , Operand: You can now infuse 
+Offset: 307, PUSHS , Operand: <col=000080>
+Offset: 308, PUSHS , Operand: bronze minotaur pouches
+Offset: 309, PUSHS , Operand: </col>
+Offset: 310, PUSHS , Operand: .
+Offset: 311, CONCAT , Operand: 5
+Offset: 312, RETURN , Operand: 0
+Offset: 313, GOTO , Operand: 799
+Offset: 314, PUSHI , Operand: 40
+Offset: 315, PUSHI , Operand: 12087
+Offset: 316, PUSHS , Operand: Bull ant - Controlled XP
+Offset: 317, PUSHS , Operand: <br>
+Offset: 318, PUSHS , Operand: Gold charm, marigolds, 11 shards
+Offset: 319, CONCAT , Operand: 3
+Offset: 320, PUSHS , Operand: You can now infuse 
+Offset: 321, PUSHS , Operand: <col=000080>
+Offset: 322, PUSHS , Operand: bull ant pouches
+Offset: 323, PUSHS , Operand: </col>
+Offset: 324, PUSHS , Operand: .
+Offset: 325, CONCAT , Operand: 5
+Offset: 326, RETURN , Operand: 0
+Offset: 327, GOTO , Operand: 785
+Offset: 328, PUSHI , Operand: 41
+Offset: 329, PUSHI , Operand: 12071
+Offset: 330, PUSHS , Operand: Macaw
+Offset: 331, PUSHS , Operand: <br>
+Offset: 332, PUSHS , Operand: Green charm, guam, 78 shards
+Offset: 333, CONCAT , Operand: 3
+Offset: 334, PUSHS , Operand: You can now infuse 
+Offset: 335, PUSHS , Operand: <col=000080>
+Offset: 336, PUSHS , Operand: macaw pouches
+Offset: 337, PUSHS , Operand: </col>
+Offset: 338, PUSHS , Operand: .
+Offset: 339, CONCAT , Operand: 5
+Offset: 340, RETURN , Operand: 0
+Offset: 341, GOTO , Operand: 771
+Offset: 342, PUSHI , Operand: 42
+Offset: 343, PUSHI , Operand: 12051
+Offset: 344, PUSHS , Operand: Evil turnip - Ranged XP
+Offset: 345, PUSHS , Operand: <br>
+Offset: 346, PUSHS , Operand: Crimson charm, carved turnip, 104 shards
+Offset: 347, CONCAT , Operand: 3
+Offset: 348, PUSHS , Operand: You can now infuse 
+Offset: 349, PUSHS , Operand: <col=000080>
+Offset: 350, PUSHS , Operand: evil turnip pouches
+Offset: 351, PUSHS , Operand: </col>
+Offset: 352, PUSHS , Operand: .
+Offset: 353, CONCAT , Operand: 5
+Offset: 354, RETURN , Operand: 0
+Offset: 355, GOTO , Operand: 757
+Offset: 356, PUSHI , Operand: 43
+Offset: 357, PUSHI , Operand: 12095
+Offset: 358, PUSHS , Operand: Spirit cockatrice - Magic XP
+Offset: 359, PUSHS , Operand: <br>
+Offset: 360, PUSHS , Operand: Green charm, cockatrice egg, 88 shards
+Offset: 361, CONCAT , Operand: 3
+Offset: 362, PUSHS , Operand: You can now infuse 
+Offset: 363, PUSHS , Operand: <col=000080>
+Offset: 364, PUSHS , Operand: spirit cockatrice pouches
+Offset: 365, PUSHS , Operand: </col>
+Offset: 366, PUSHS , Operand: .
+Offset: 367, CONCAT , Operand: 5
+Offset: 368, RETURN , Operand: 0
+Offset: 369, GOTO , Operand: 743
+Offset: 370, PUSHI , Operand: 43
+Offset: 371, PUSHI , Operand: 12097
+Offset: 372, PUSHS , Operand: Spirit guthatrice - Magic XP
+Offset: 373, PUSHS , Operand: <br>
+Offset: 374, PUSHS , Operand: Green charm, guthatrice egg, 88 shards
+Offset: 375, CONCAT , Operand: 3
+Offset: 376, PUSHS , Operand: You can now infuse 
+Offset: 377, PUSHS , Operand: <col=000080>
+Offset: 378, PUSHS , Operand: spirit guthatrice pouches
+Offset: 379, PUSHS , Operand: </col>
+Offset: 380, PUSHS , Operand: .
+Offset: 381, CONCAT , Operand: 5
+Offset: 382, RETURN , Operand: 0
+Offset: 383, GOTO , Operand: 729
+Offset: 384, PUSHI , Operand: 43
+Offset: 385, PUSHI , Operand: 12099
+Offset: 386, PUSHS , Operand: Spirit saratrice - Magic XP
+Offset: 387, PUSHS , Operand: <br>
+Offset: 388, PUSHS , Operand: Green charm, saratrice egg, 88 shards
+Offset: 389, CONCAT , Operand: 3
+Offset: 390, PUSHS , Operand: You can now infuse 
+Offset: 391, PUSHS , Operand: <col=000080>
+Offset: 392, PUSHS , Operand: spirit saratrice pouches
+Offset: 393, PUSHS , Operand: </col>
+Offset: 394, PUSHS , Operand: .
+Offset: 395, CONCAT , Operand: 5
+Offset: 396, RETURN , Operand: 0
+Offset: 397, GOTO , Operand: 715
+Offset: 398, PUSHI , Operand: 43
+Offset: 399, PUSHI , Operand: 12101
+Offset: 400, PUSHS , Operand: Spirit zamatrice - Magic XP
+Offset: 401, PUSHS , Operand: <br>
+Offset: 402, PUSHS , Operand: Green charm, zamatrice egg, 88 shards
+Offset: 403, CONCAT , Operand: 3
+Offset: 404, PUSHS , Operand: You can now infuse 
+Offset: 405, PUSHS , Operand: <col=000080>
+Offset: 406, PUSHS , Operand: spirit zamatrice pouches
+Offset: 407, PUSHS , Operand: </col>
+Offset: 408, PUSHS , Operand: .
+Offset: 409, CONCAT , Operand: 5
+Offset: 410, RETURN , Operand: 0
+Offset: 411, GOTO , Operand: 701
+Offset: 412, PUSHI , Operand: 43
+Offset: 413, PUSHI , Operand: 12103
+Offset: 414, PUSHS , Operand: Spirit pengatrice - Magic XP
+Offset: 415, PUSHS , Operand: <br>
+Offset: 416, PUSHS , Operand: Green charm, pengatrice egg, 88 shards
+Offset: 417, CONCAT , Operand: 3
+Offset: 418, PUSHS , Operand: You can now infuse 
+Offset: 419, PUSHS , Operand: <col=000080>
+Offset: 420, PUSHS , Operand: spirit pengatrice pouches
+Offset: 421, PUSHS , Operand: </col>
+Offset: 422, PUSHS , Operand: .
+Offset: 423, CONCAT , Operand: 5
+Offset: 424, RETURN , Operand: 0
+Offset: 425, GOTO , Operand: 687
+Offset: 426, PUSHI , Operand: 43
+Offset: 427, PUSHI , Operand: 12105
+Offset: 428, PUSHS , Operand: Spirit coraxatrice - Magic XP
+Offset: 429, PUSHS , Operand: <br>
+Offset: 430, PUSHS , Operand: Green charm, coraxatrice egg, 88 shards
+Offset: 431, CONCAT , Operand: 3
+Offset: 432, PUSHS , Operand: You can now infuse 
+Offset: 433, PUSHS , Operand: <col=000080>
+Offset: 434, PUSHS , Operand: spirit coraxatrice pouches
+Offset: 435, PUSHS , Operand: </col>
+Offset: 436, PUSHS , Operand: .
+Offset: 437, CONCAT , Operand: 5
+Offset: 438, RETURN , Operand: 0
+Offset: 439, GOTO , Operand: 673
+Offset: 440, PUSHI , Operand: 43
+Offset: 441, PUSHI , Operand: 12107
+Offset: 442, PUSHS , Operand: Spirit vulatrice - Magic XP
+Offset: 443, PUSHS , Operand: <br>
+Offset: 444, PUSHS , Operand: Green charm, vulatrice egg, 88 shards
+Offset: 445, CONCAT , Operand: 3
+Offset: 446, PUSHS , Operand: You can now infuse 
+Offset: 447, PUSHS , Operand: <col=000080>
+Offset: 448, PUSHS , Operand: spirit vulatrice pouches
+Offset: 449, PUSHS , Operand: </col>
+Offset: 450, PUSHS , Operand: .
+Offset: 451, CONCAT , Operand: 5
+Offset: 452, RETURN , Operand: 0
+Offset: 453, GOTO , Operand: 659
+Offset: 454, PUSHI , Operand: 46
+Offset: 455, PUSHI , Operand: 12075
+Offset: 456, PUSHS , Operand: Iron minotaur - Defence XP
+Offset: 457, PUSHS , Operand: <br>
+Offset: 458, PUSHS , Operand: Blue charm, iron bar, 125 shards
+Offset: 459, CONCAT , Operand: 3
+Offset: 460, PUSHS , Operand: You can now infuse 
+Offset: 461, PUSHS , Operand: <col=000080>
+Offset: 462, PUSHS , Operand: iron minotaur pouches
+Offset: 463, PUSHS , Operand: </col>
+Offset: 464, PUSHS , Operand: .
+Offset: 465, CONCAT , Operand: 5
+Offset: 466, RETURN , Operand: 0
+Offset: 467, GOTO , Operand: 645
+Offset: 468, PUSHI , Operand: 46
+Offset: 469, PUSHI , Operand: 12816
+Offset: 470, PUSHS , Operand: Pyrelord - Strength XP
+Offset: 471, PUSHS , Operand: <br>
+Offset: 472, PUSHS , Operand: Crimson charm, tinderbox, 111 shards
+Offset: 473, CONCAT , Operand: 3
+Offset: 474, PUSHS , Operand: You can now infuse 
+Offset: 475, PUSHS , Operand: <col=000080>
+Offset: 476, PUSHS , Operand: pyrelord
+Offset: 477, PUSHS , Operand: </col>
+Offset: 478, PUSHS , Operand:  pouches.
+Offset: 479, CONCAT , Operand: 5
+Offset: 480, RETURN , Operand: 0
+Offset: 481, GOTO , Operand: 631
+Offset: 482, PUSHI , Operand: 47
+Offset: 483, PUSHI , Operand: 12041
+Offset: 484, PUSHS , Operand: Magpie
+Offset: 485, PUSHS , Operand: <br>
+Offset: 486, PUSHS , Operand: Green charm, gold ring, 88 shards
+Offset: 487, CONCAT , Operand: 3
+Offset: 488, PUSHS , Operand: You can now infuse 
+Offset: 489, PUSHS , Operand: <col=000080>
+Offset: 490, PUSHS , Operand: magpie pouches
+Offset: 491, PUSHS , Operand: </col>
+Offset: 492, PUSHS , Operand: .
+Offset: 493, CONCAT , Operand: 5
+Offset: 494, RETURN , Operand: 0
+Offset: 495, GOTO , Operand: 617
+Offset: 496, PUSHI , Operand: 49
+Offset: 497, PUSHI , Operand: 12061
+Offset: 498, PUSHS , Operand: Bloated leech - Attack XP
+Offset: 499, PUSHS , Operand: <br>
+Offset: 500, PUSHS , Operand: Crimson charm, raw beef, 117 shards
+Offset: 501, CONCAT , Operand: 3
+Offset: 502, PUSHS , Operand: You can now infuse 
+Offset: 503, PUSHS , Operand: <col=000080>
+Offset: 504, PUSHS , Operand: bloated leech pouches
+Offset: 505, PUSHS , Operand: </col>
+Offset: 506, PUSHS , Operand: .
+Offset: 507, CONCAT , Operand: 5
+Offset: 508, RETURN , Operand: 0
+Offset: 509, GOTO , Operand: 603
+Offset: 510, PUSHI , Operand: 52
+Offset: 511, PUSHI , Operand: 12007
+Offset: 512, PUSHS , Operand: Spirit terrorbird - Controlled XP
+Offset: 513, PUSHS , Operand: <br>
+Offset: 514, PUSHS , Operand: Gold charm, raw bird meat, 12 shards
+Offset: 515, CONCAT , Operand: 3
+Offset: 516, PUSHS , Operand: You can now infuse 
+Offset: 517, PUSHS , Operand: <col=000080>
+Offset: 518, PUSHS , Operand: spirit terrorbird pouches
+Offset: 519, PUSHS , Operand: </col>
+Offset: 520, PUSHS , Operand: .
+Offset: 521, CONCAT , Operand: 5
+Offset: 522, RETURN , Operand: 0
+Offset: 523, GOTO , Operand: 589
+Offset: 524, PUSHI , Operand: 54
+Offset: 525, PUSHI , Operand: 12035
+Offset: 526, PUSHS , Operand: Abyssal parasite - Magic XP
+Offset: 527, PUSHS , Operand: <br>
+Offset: 528, PUSHS , Operand: Green charm, abyssal charm, 106 shards
+Offset: 529, CONCAT , Operand: 3
+Offset: 530, PUSHS , Operand: You can now infuse 
+Offset: 531, PUSHS , Operand: <col=000080>
+Offset: 532, PUSHS , Operand: abyssal parasite pouches
+Offset: 533, PUSHS , Operand: </col>
+Offset: 534, PUSHS , Operand: .
+Offset: 535, CONCAT , Operand: 5
+Offset: 536, RETURN , Operand: 0
+Offset: 537, GOTO , Operand: 575
+Offset: 538, PUSHI , Operand: 55
+Offset: 539, PUSHI , Operand: 12027
+Offset: 540, PUSHS , Operand: Spirit jelly - Strength XP
+Offset: 541, PUSHS , Operand: <br>
+Offset: 542, PUSHS , Operand: Blue charm, jug of water, 151 shards
+Offset: 543, CONCAT , Operand: 3
+Offset: 544, PUSHS , Operand: You can now infuse 
+Offset: 545, PUSHS , Operand: <col=000080>
+Offset: 546, PUSHS , Operand: spirit jelly pouches
+Offset: 547, PUSHS , Operand: </col>
+Offset: 548, PUSHS , Operand: .
+Offset: 549, CONCAT , Operand: 5
+Offset: 550, RETURN , Operand: 0
+Offset: 551, GOTO , Operand: 561
+Offset: 552, PUSHI , Operand: 56
+Offset: 553, PUSHI , Operand: 12077
+Offset: 554, PUSHS , Operand: Steel minotaur - Defence XP
+Offset: 555, PUSHS , Operand: <br>
+Offset: 556, PUSHS , Operand: Blue charm, steel bar, 141 shards
+Offset: 557, CONCAT , Operand: 3
+Offset: 558, PUSHS , Operand: You can now infuse 
+Offset: 559, PUSHS , Operand: <col=000080>
+Offset: 560, PUSHS , Operand: steel minotaur pouches
+Offset: 561, PUSHS , Operand: </col>
+Offset: 562, PUSHS , Operand: .
+Offset: 563, CONCAT , Operand: 5
+Offset: 564, RETURN , Operand: 0
+Offset: 565, GOTO , Operand: 547
+Offset: 566, PUSHI , Operand: 56
+Offset: 567, PUSHI , Operand: 12531
+Offset: 568, PUSHS , Operand: Ibis
+Offset: 569, PUSHS , Operand: <br>
+Offset: 570, PUSHS , Operand: Green charm, harpoon, 109 shards
+Offset: 571, CONCAT , Operand: 3
+Offset: 572, PUSHS , Operand: You can now infuse 
+Offset: 573, PUSHS , Operand: <col=000080>
+Offset: 574, PUSHS , Operand: ibis pouches
+Offset: 575, PUSHS , Operand: </col>
+Offset: 576, PUSHS , Operand: .
+Offset: 577, CONCAT , Operand: 5
+Offset: 578, RETURN , Operand: 0
+Offset: 579, GOTO , Operand: 533
+Offset: 580, PUSHI , Operand: 57
+Offset: 581, PUSHI , Operand: 12812
+Offset: 582, PUSHS , Operand: Spirit kyatt - Attack XP
+Offset: 583, PUSHS , Operand: <br>
+Offset: 584, PUSHS , Operand: Blue charm, kyatt fur, 153 shards
+Offset: 585, CONCAT , Operand: 3
+Offset: 586, PUSHS , Operand: You can now infuse 
+Offset: 587, PUSHS , Operand: <col=000080>
+Offset: 588, PUSHS , Operand: spirit kyatt pouches
+Offset: 589, PUSHS , Operand: </col>
+Offset: 590, PUSHS , Operand: .
+Offset: 591, CONCAT , Operand: 5
+Offset: 592, RETURN , Operand: 0
+Offset: 593, GOTO , Operand: 519
+Offset: 594, PUSHI , Operand: 57
+Offset: 595, PUSHI , Operand: 12784
+Offset: 596, PUSHS , Operand: Spirit larupia - Controlled XP
+Offset: 597, PUSHS , Operand: <br>
+Offset: 598, PUSHS , Operand: Blue charm, larupia fur, 155 shards
+Offset: 599, CONCAT , Operand: 3
+Offset: 600, PUSHS , Operand: You can now infuse 
+Offset: 601, PUSHS , Operand: <col=000080>
+Offset: 602, PUSHS , Operand: spirit larupia pouches
+Offset: 603, PUSHS , Operand: </col>
+Offset: 604, PUSHS , Operand: .
+Offset: 605, CONCAT , Operand: 5
+Offset: 606, RETURN , Operand: 0
+Offset: 607, GOTO , Operand: 505
+Offset: 608, PUSHI , Operand: 57
+Offset: 609, PUSHI , Operand: 12810
+Offset: 610, PUSHS , Operand: Spirit graahk - Strength XP
+Offset: 611, PUSHS , Operand: <br>
+Offset: 612, PUSHS , Operand: Blue charm, graahk fur, 154 shards
+Offset: 613, CONCAT , Operand: 3
+Offset: 614, PUSHS , Operand: You can now infuse 
+Offset: 615, PUSHS , Operand: <col=000080>
+Offset: 616, PUSHS , Operand: spirit graahk pouches
+Offset: 617, PUSHS , Operand: </col>
+Offset: 618, PUSHS , Operand: .
+Offset: 619, CONCAT , Operand: 5
+Offset: 620, RETURN , Operand: 0
+Offset: 621, GOTO , Operand: 491
+Offset: 622, PUSHI , Operand: 58
+Offset: 623, PUSHI , Operand: 12023
+Offset: 624, PUSHS , Operand: Karamthulhu overlord - Ranged XP
+Offset: 625, PUSHS , Operand: <br>
+Offset: 626, PUSHS , Operand: Blue charm, empty fishbowl, 144 shards
+Offset: 627, CONCAT , Operand: 3
+Offset: 628, PUSHS , Operand: You can now infuse 
+Offset: 629, PUSHS , Operand: <col=000080>
+Offset: 630, PUSHS , Operand: karamthulhu overlord pouches
+Offset: 631, PUSHS , Operand: </col>
+Offset: 632, PUSHS , Operand: .
+Offset: 633, CONCAT , Operand: 5
+Offset: 634, RETURN , Operand: 0
+Offset: 635, GOTO , Operand: 477
+Offset: 636, PUSHI , Operand: 61
+Offset: 637, PUSHI , Operand: 12085
+Offset: 638, PUSHS , Operand: Smoke devil - Magic XP
+Offset: 639, PUSHS , Operand: <br>
+Offset: 640, PUSHS , Operand: Crimson charm, goat's horn dust, 141 shards
+Offset: 641, CONCAT , Operand: 3
+Offset: 642, PUSHS , Operand: You can now infuse 
+Offset: 643, PUSHS , Operand: <col=000080>
+Offset: 644, PUSHS , Operand: smoke devil pouches
+Offset: 645, PUSHS , Operand: </col>
+Offset: 646, PUSHS , Operand: .
+Offset: 647, CONCAT , Operand: 5
+Offset: 648, RETURN , Operand: 0
+Offset: 649, GOTO , Operand: 463
+Offset: 650, PUSHI , Operand: 62
+Offset: 651, PUSHI , Operand: 12037
+Offset: 652, PUSHS , Operand: Abyssal lurker - Controlled XP
+Offset: 653, PUSHS , Operand: <br>
+Offset: 654, PUSHS , Operand: Green charm, abyssal charm, 119 shards
+Offset: 655, CONCAT , Operand: 3
+Offset: 656, PUSHS , Operand: You can now infuse 
+Offset: 657, PUSHS , Operand: <col=000080>
+Offset: 658, PUSHS , Operand: abyssal lurker pouches
+Offset: 659, PUSHS , Operand: </col>
+Offset: 660, PUSHS , Operand: .
+Offset: 661, CONCAT , Operand: 5
+Offset: 662, RETURN , Operand: 0
+Offset: 663, GOTO , Operand: 449
+Offset: 664, PUSHI , Operand: 63
+Offset: 665, PUSHI , Operand: 12015
+Offset: 666, PUSHS , Operand: Spirit cobra - Attack XP
+Offset: 667, PUSHS , Operand: <br>
+Offset: 668, PUSHS , Operand: Crimson charm, snake hide, 116 shards
+Offset: 669, CONCAT , Operand: 3
+Offset: 670, PUSHS , Operand: You can now infuse 
+Offset: 671, PUSHS , Operand: <col=000080>
+Offset: 672, PUSHS , Operand: spirit cobra pouches
+Offset: 673, PUSHS , Operand: </col>
+Offset: 674, PUSHS , Operand: .
+Offset: 675, CONCAT , Operand: 5
+Offset: 676, RETURN , Operand: 0
+Offset: 677, GOTO , Operand: 435
+Offset: 678, PUSHI , Operand: 64
+Offset: 679, PUSHI , Operand: 12045
+Offset: 680, PUSHS , Operand: Stranger plant - Controlled XP
+Offset: 681, PUSHS , Operand: <br>
+Offset: 682, PUSHS , Operand: Crimson charm, bagged plant, 128 shards
+Offset: 683, CONCAT , Operand: 3
+Offset: 684, PUSHS , Operand: You can now infuse 
+Offset: 685, PUSHS , Operand: <col=000080>
+Offset: 686, PUSHS , Operand: stranger plant pouches
+Offset: 687, PUSHS , Operand: </col>
+Offset: 688, PUSHS , Operand: .
+Offset: 689, CONCAT , Operand: 5
+Offset: 690, RETURN , Operand: 0
+Offset: 691, GOTO , Operand: 421
+Offset: 692, PUSHI , Operand: 66
+Offset: 693, PUSHI , Operand: 12079
+Offset: 694, PUSHS , Operand: Mithril minotaur - Defence XP
+Offset: 695, PUSHS , Operand: <br>
+Offset: 696, PUSHS , Operand: Blue charm, mithril bar, 152 shards
+Offset: 697, CONCAT , Operand: 3
+Offset: 698, PUSHS , Operand: You can now infuse 
+Offset: 699, PUSHS , Operand: <col=000080>
+Offset: 700, PUSHS , Operand: mithril minotaur pouches
+Offset: 701, PUSHS , Operand: </col>
+Offset: 702, PUSHS , Operand: .
+Offset: 703, CONCAT , Operand: 5
+Offset: 704, RETURN , Operand: 0
+Offset: 705, GOTO , Operand: 407
+Offset: 706, PUSHI , Operand: 66
+Offset: 707, PUSHI , Operand: 12123
+Offset: 708, PUSHS , Operand: Barker toad - Strength XP
+Offset: 709, PUSHS , Operand: <br>
+Offset: 710, PUSHS , Operand: Gold charm, swamp toad, 11 shards
+Offset: 711, CONCAT , Operand: 3
+Offset: 712, PUSHS , Operand: You can now infuse 
+Offset: 713, PUSHS , Operand: <col=000080>
+Offset: 714, PUSHS , Operand: barker toad pouches
+Offset: 715, PUSHS , Operand: </col>
+Offset: 716, PUSHS , Operand: .
+Offset: 717, CONCAT , Operand: 5
+Offset: 718, RETURN , Operand: 0
+Offset: 719, GOTO , Operand: 393
+Offset: 720, PUSHI , Operand: 67
+Offset: 721, PUSHI , Operand: 12031
+Offset: 722, PUSHS , Operand: War tortoise - Defence XP
+Offset: 723, PUSHS , Operand: <br>
+Offset: 724, PUSHS , Operand: Gold charm, tortoise shell, 1 shard
+Offset: 725, CONCAT , Operand: 3
+Offset: 726, PUSHS , Operand: You can now infuse 
+Offset: 727, PUSHS , Operand: <col=000080>
+Offset: 728, PUSHS , Operand: war tortoise pouches
+Offset: 729, PUSHS , Operand: </col>
+Offset: 730, PUSHS , Operand: .
+Offset: 731, CONCAT , Operand: 5
+Offset: 732, RETURN , Operand: 0
+Offset: 733, GOTO , Operand: 379
+Offset: 734, PUSHI , Operand: 68
+Offset: 735, PUSHI , Operand: 12029
+Offset: 736, PUSHS , Operand: Bunyip - Attack XP
+Offset: 737, PUSHS , Operand: <br>
+Offset: 738, PUSHS , Operand: Green charm, raw shark, 110 shards
+Offset: 739, CONCAT , Operand: 3
+Offset: 740, PUSHS , Operand: You can now infuse 
+Offset: 741, PUSHS , Operand: <col=000080>
+Offset: 742, PUSHS , Operand: bunyip pouches
+Offset: 743, PUSHS , Operand: </col>
+Offset: 744, PUSHS , Operand: .
+Offset: 745, CONCAT , Operand: 5
+Offset: 746, RETURN , Operand: 0
+Offset: 747, GOTO , Operand: 365
+Offset: 748, PUSHI , Operand: 69
+Offset: 749, PUSHI , Operand: 12033
+Offset: 750, PUSHS , Operand: Fruit bat
+Offset: 751, PUSHS , Operand: <br>
+Offset: 752, PUSHS , Operand: Green charm, banana, 130 shards
+Offset: 753, CONCAT , Operand: 3
+Offset: 754, PUSHS , Operand: You can now infuse 
+Offset: 755, PUSHS , Operand: <col=000080>
+Offset: 756, PUSHS , Operand: fruit bat pouches
+Offset: 757, PUSHS , Operand: </col>
+Offset: 758, PUSHS , Operand: .
+Offset: 759, CONCAT , Operand: 5
+Offset: 760, RETURN , Operand: 0
+Offset: 761, GOTO , Operand: 351
+Offset: 762, PUSHI , Operand: 70
+Offset: 763, PUSHI , Operand: 12820
+Offset: 764, PUSHS , Operand: Ravenous locust - Attack XP
+Offset: 765, PUSHS , Operand: <br>
+Offset: 766, PUSHS , Operand: Crimson charm, pot of flour, 79 shards
+Offset: 767, CONCAT , Operand: 3
+Offset: 768, PUSHS , Operand: You can now infuse 
+Offset: 769, PUSHS , Operand: <col=000080>
+Offset: 770, PUSHS , Operand: ravenous locust pouches
+Offset: 771, PUSHS , Operand: </col>
+Offset: 772, PUSHS , Operand: .
+Offset: 773, CONCAT , Operand: 5
+Offset: 774, RETURN , Operand: 0
+Offset: 775, GOTO , Operand: 337
+Offset: 776, PUSHI , Operand: 71
+Offset: 777, PUSHI , Operand: 12057
+Offset: 778, PUSHS , Operand: Arctic bear - Controlled XP
+Offset: 779, PUSHS , Operand: <br>
+Offset: 780, PUSHS , Operand: Gold charm, polar kebbit fur, 14 shards
+Offset: 781, CONCAT , Operand: 3
+Offset: 782, PUSHS , Operand: You can now infuse 
+Offset: 783, PUSHS , Operand: <col=000080>
+Offset: 784, PUSHS , Operand: arctic bear pouches
+Offset: 785, PUSHS , Operand: </col>
+Offset: 786, PUSHS , Operand: .
+Offset: 787, CONCAT , Operand: 5
+Offset: 788, RETURN , Operand: 0
+Offset: 789, GOTO , Operand: 323
+Offset: 790, PUSHI , Operand: 72
+Offset: 791, PUSHI , Operand: 14623
+Offset: 792, PUSHS , Operand: Phoenix - Magic XP
+Offset: 793, PUSHS , Operand: <br>
+Offset: 794, PUSHS , Operand: Crimson charm, phoenix quill, 165 shards (after In Pyre Need)
+Offset: 795, CONCAT , Operand: 3
+Offset: 796, PUSHS , Operand: You can now infuse 
+Offset: 797, PUSHS , Operand: <col=000080>
+Offset: 798, PUSHS , Operand: phoenix pouches
+Offset: 799, PUSHS , Operand: </col>
+Offset: 800, PUSHS , Operand:  (after In Pyre Need)
+Offset: 801, PUSHS , Operand: </col>
+Offset: 802, PUSHS , Operand: .
+Offset: 803, CONCAT , Operand: 7
+Offset: 804, RETURN , Operand: 0
+Offset: 805, GOTO , Operand: 307
+Offset: 806, PUSHI , Operand: 73
+Offset: 807, PUSHI , Operand: 12792
+Offset: 808, PUSHS , Operand: Obsidian golem - Strength XP
+Offset: 809, PUSHS , Operand: <br>
+Offset: 810, PUSHS , Operand: Blue charm, obsidian charm, 195 shards
+Offset: 811, CONCAT , Operand: 3
+Offset: 812, PUSHS , Operand: You can now infuse 
+Offset: 813, PUSHS , Operand: <col=000080>
+Offset: 814, PUSHS , Operand: obsidian golem pouches
+Offset: 815, PUSHS , Operand: </col>
+Offset: 816, PUSHS , Operand: .
+Offset: 817, CONCAT , Operand: 5
+Offset: 818, RETURN , Operand: 0
+Offset: 819, GOTO , Operand: 293
+Offset: 820, PUSHI , Operand: 74
+Offset: 821, PUSHI , Operand: 12069
+Offset: 822, PUSHS , Operand: Granite lobster - Defence XP
+Offset: 823, PUSHS , Operand: <br>
+Offset: 824, PUSHS , Operand: Crimson charm, granite (500g, 2kg or 5kg), 166 shards
+Offset: 825, CONCAT , Operand: 3
+Offset: 826, PUSHS , Operand: You can now infuse 
+Offset: 827, PUSHS , Operand: <col=000080>
+Offset: 828, PUSHS , Operand: granite lobster pouches
+Offset: 829, PUSHS , Operand: </col>
+Offset: 830, PUSHS , Operand: .
+Offset: 831, CONCAT , Operand: 5
+Offset: 832, RETURN , Operand: 0
+Offset: 833, GOTO , Operand: 279
+Offset: 834, PUSHI , Operand: 75
+Offset: 835, PUSHI , Operand: 12011
+Offset: 836, PUSHS , Operand: Praying mantis - Attack XP
+Offset: 837, PUSHS , Operand: <br>
+Offset: 838, PUSHS , Operand: Crimson charm, flowers (any except black or white), 168 shards
+Offset: 839, CONCAT , Operand: 3
+Offset: 840, PUSHS , Operand: You can now infuse 
+Offset: 841, PUSHS , Operand: <col=000080>
+Offset: 842, PUSHS , Operand: praying mantis pouches
+Offset: 843, PUSHS , Operand: </col>
+Offset: 844, PUSHS , Operand: .
+Offset: 845, CONCAT , Operand: 5
+Offset: 846, RETURN , Operand: 0
+Offset: 847, GOTO , Operand: 265
+Offset: 848, PUSHI , Operand: 76
+Offset: 849, PUSHI , Operand: 12782
+Offset: 850, PUSHS , Operand: Forge regent - Ranged XP
+Offset: 851, PUSHS , Operand: <br>
+Offset: 852, PUSHS , Operand: Green charm, ruby harvest, 141 shards
+Offset: 853, CONCAT , Operand: 3
+Offset: 854, PUSHS , Operand: You can now infuse 
+Offset: 855, PUSHS , Operand: <col=000080>
+Offset: 856, PUSHS , Operand: forge regent pouches
+Offset: 857, PUSHS , Operand: </col>
+Offset: 858, PUSHS , Operand: .
+Offset: 859, CONCAT , Operand: 5
+Offset: 860, RETURN , Operand: 0
+Offset: 861, GOTO , Operand: 251
+Offset: 862, PUSHI , Operand: 76
+Offset: 863, PUSHI , Operand: 12081
+Offset: 864, PUSHS , Operand: Adamant minotaur - Defence XP
+Offset: 865, PUSHS , Operand: <br>
+Offset: 866, PUSHS , Operand: Blue charm, adamantite bar, 144 shards
+Offset: 867, CONCAT , Operand: 3
+Offset: 868, PUSHS , Operand: You can now infuse 
+Offset: 869, PUSHS , Operand: <col=000080>
+Offset: 870, PUSHS , Operand: adamant minotaur pouches
+Offset: 871, PUSHS , Operand: </col>
+Offset: 872, PUSHS , Operand: .
+Offset: 873, CONCAT , Operand: 5
+Offset: 874, RETURN , Operand: 0
+Offset: 875, GOTO , Operand: 237
+Offset: 876, PUSHI , Operand: 77
+Offset: 877, PUSHI , Operand: 12794
+Offset: 878, PUSHS , Operand: Talon beast - Strength XP
+Offset: 879, PUSHS , Operand: <br>
+Offset: 880, PUSHS , Operand: Crimson charm, talon beast charm, 174 shards
+Offset: 881, CONCAT , Operand: 3
+Offset: 882, PUSHS , Operand: You can now infuse 
+Offset: 883, PUSHS , Operand: <col=000080>
+Offset: 884, PUSHS , Operand: talon beast pouches
+Offset: 885, PUSHS , Operand: </col>
+Offset: 886, PUSHS , Operand: .
+Offset: 887, CONCAT , Operand: 5
+Offset: 888, RETURN , Operand: 0
+Offset: 889, GOTO , Operand: 223
+Offset: 890, PUSHI , Operand: 78
+Offset: 891, PUSHI , Operand: 12013
+Offset: 892, PUSHS , Operand: Giant ent - Controlled XP
+Offset: 893, PUSHS , Operand: <br>
+Offset: 894, PUSHS , Operand: Green charm, willow branch, 124 shards
+Offset: 895, CONCAT , Operand: 3
+Offset: 896, PUSHS , Operand: You can now infuse 
+Offset: 897, PUSHS , Operand: <col=000080>
+Offset: 898, PUSHS , Operand: giant ent pouches
+Offset: 899, PUSHS , Operand: </col>
+Offset: 900, PUSHS , Operand: .
+Offset: 901, CONCAT , Operand: 5
+Offset: 902, RETURN , Operand: 0
+Offset: 903, GOTO , Operand: 209
+Offset: 904, PUSHI , Operand: 79
+Offset: 905, PUSHI , Operand: 12802
+Offset: 906, PUSHS , Operand: Fire titan - Magic XP
+Offset: 907, PUSHS , Operand: <br>
+Offset: 908, PUSHS , Operand: Blue charm, fire talisman, 198 shards
+Offset: 909, CONCAT , Operand: 3
+Offset: 910, PUSHS , Operand: You can now infuse 
+Offset: 911, PUSHS , Operand: <col=000080>
+Offset: 912, PUSHS , Operand: fire titan pouches
+Offset: 913, PUSHS , Operand: </col>
+Offset: 914, PUSHS , Operand: .
+Offset: 915, CONCAT , Operand: 5
+Offset: 916, RETURN , Operand: 0
+Offset: 917, GOTO , Operand: 195
+Offset: 918, PUSHI , Operand: 79
+Offset: 919, PUSHI , Operand: 12804
+Offset: 920, PUSHS , Operand: Moss titan - Strength XP
+Offset: 921, PUSHS , Operand: <br>
+Offset: 922, PUSHS , Operand: Blue charm, earth talisman, 202 shards
+Offset: 923, CONCAT , Operand: 3
+Offset: 924, PUSHS , Operand: You can now infuse 
+Offset: 925, PUSHS , Operand: <col=000080>
+Offset: 926, PUSHS , Operand: moss titan pouches
+Offset: 927, PUSHS , Operand: </col>
+Offset: 928, PUSHS , Operand: .
+Offset: 929, CONCAT , Operand: 5
+Offset: 930, RETURN , Operand: 0
+Offset: 931, GOTO , Operand: 181
+Offset: 932, PUSHI , Operand: 79
+Offset: 933, PUSHI , Operand: 12806
+Offset: 934, PUSHS , Operand: Ice titan - Attack XP
+Offset: 935, PUSHS , Operand: <br>
+Offset: 936, PUSHS , Operand: Blue charm, air talisman, water talisman, 198 shards
+Offset: 937, CONCAT , Operand: 3
+Offset: 938, PUSHS , Operand: You can now infuse 
+Offset: 939, PUSHS , Operand: <col=000080>
+Offset: 940, PUSHS , Operand: ice titan pouches
+Offset: 941, PUSHS , Operand: </col>
+Offset: 942, PUSHS , Operand: .
+Offset: 943, CONCAT , Operand: 5
+Offset: 944, RETURN , Operand: 0
+Offset: 945, GOTO , Operand: 167
+Offset: 946, PUSHI , Operand: 80
+Offset: 947, PUSHI , Operand: 12025
+Offset: 948, PUSHS , Operand: Hydra - Ranged XP
+Offset: 949, PUSHS , Operand: <br>
+Offset: 950, PUSHS , Operand: Green charm, water orb, 128 shards
+Offset: 951, CONCAT , Operand: 3
+Offset: 952, PUSHS , Operand: You can now infuse 
+Offset: 953, PUSHS , Operand: <col=000080>
+Offset: 954, PUSHS , Operand: hydra pouches
+Offset: 955, PUSHS , Operand: </col>
+Offset: 956, PUSHS , Operand: .
+Offset: 957, CONCAT , Operand: 5
+Offset: 958, RETURN , Operand: 0
+Offset: 959, GOTO , Operand: 153
+Offset: 960, PUSHI , Operand: 83
+Offset: 961, PUSHI , Operand: 12017
+Offset: 962, PUSHS , Operand: Spirit dagannoth - Controlled XP
+Offset: 963, PUSHS , Operand: <br>
+Offset: 964, PUSHS , Operand: Crimson charm, dagannoth hide, 1 shard
+Offset: 965, CONCAT , Operand: 3
+Offset: 966, PUSHS , Operand: You can now infuse 
+Offset: 967, PUSHS , Operand: <col=000080>
+Offset: 968, PUSHS , Operand: spirit dagannoth pouches
+Offset: 969, PUSHS , Operand: </col>
+Offset: 970, PUSHS , Operand: .
+Offset: 971, CONCAT , Operand: 5
+Offset: 972, RETURN , Operand: 0
+Offset: 973, GOTO , Operand: 139
+Offset: 974, PUSHI , Operand: 83
+Offset: 975, PUSHI , Operand: 12788
+Offset: 976, PUSHS , Operand: Lava titan - Strength XP
+Offset: 977, PUSHS , Operand: <br>
+Offset: 978, PUSHS , Operand: Blue charm, obsidian charm, 219 shards
+Offset: 979, CONCAT , Operand: 3
+Offset: 980, PUSHS , Operand: You can now infuse 
+Offset: 981, PUSHS , Operand: <col=000080>
+Offset: 982, PUSHS , Operand: lava titan pouches
+Offset: 983, PUSHS , Operand: </col>
+Offset: 984, PUSHS , Operand: .
+Offset: 985, CONCAT , Operand: 5
+Offset: 986, RETURN , Operand: 0
+Offset: 987, GOTO , Operand: 125
+Offset: 988, PUSHI , Operand: 85
+Offset: 989, PUSHI , Operand: 12776
+Offset: 990, PUSHS , Operand: Swamp titan - Attack XP
+Offset: 991, PUSHS , Operand: <br>
+Offset: 992, PUSHS , Operand: Crimson charm, swamp lizard, 150 shards
+Offset: 993, CONCAT , Operand: 3
+Offset: 994, PUSHS , Operand: You can now infuse 
+Offset: 995, PUSHS , Operand: <col=000080>
+Offset: 996, PUSHS , Operand: swamp titan pouches
+Offset: 997, PUSHS , Operand: </col>
+Offset: 998, PUSHS , Operand: .
+Offset: 999, CONCAT , Operand: 5
+Offset: 1000, RETURN , Operand: 0
+Offset: 1001, GOTO , Operand: 111
+Offset: 1002, PUSHI , Operand: 86
+Offset: 1003, PUSHI , Operand: 12083
+Offset: 1004, PUSHS , Operand: Rune minotaur - Defence XP
+Offset: 1005, PUSHS , Operand: <br>
+Offset: 1006, PUSHS , Operand: Blue charm, runite bar, 1 shard
+Offset: 1007, CONCAT , Operand: 3
+Offset: 1008, PUSHS , Operand: You can now infuse 
+Offset: 1009, PUSHS , Operand: <col=000080>
+Offset: 1010, PUSHS , Operand: rune minotaur pouches
+Offset: 1011, PUSHS , Operand: </col>
+Offset: 1012, PUSHS , Operand: .
+Offset: 1013, CONCAT , Operand: 5
+Offset: 1014, RETURN , Operand: 0
+Offset: 1015, GOTO , Operand: 97
+Offset: 1016, PUSHI , Operand: 88
+Offset: 1017, PUSHI , Operand: 12039
+Offset: 1018, PUSHS , Operand: Unicorn stallion - Controlled XP
+Offset: 1019, PUSHS , Operand: <br>
+Offset: 1020, PUSHS , Operand: Green charm, unicorn horn, 140 shards
+Offset: 1021, CONCAT , Operand: 3
+Offset: 1022, PUSHS , Operand: You can now infuse 
+Offset: 1023, PUSHS , Operand: <col=000080>
+Offset: 1024, PUSHS , Operand: unicorn stallion pouches
+Offset: 1025, PUSHS , Operand: </col>
+Offset: 1026, PUSHS , Operand: .
+Offset: 1027, CONCAT , Operand: 5
+Offset: 1028, RETURN , Operand: 0
+Offset: 1029, GOTO , Operand: 83
+Offset: 1030, PUSHI , Operand: 89
+Offset: 1031, PUSHI , Operand: 12786
+Offset: 1032, PUSHS , Operand: Geyser titan - Ranged XP
+Offset: 1033, PUSHS , Operand: <br>
+Offset: 1034, PUSHS , Operand: Blue charm, water talisman, 222 shards
+Offset: 1035, CONCAT , Operand: 3
+Offset: 1036, PUSHS , Operand: You can now infuse 
+Offset: 1037, PUSHS , Operand: <col=000080>
+Offset: 1038, PUSHS , Operand: geyser titan pouches
+Offset: 1039, PUSHS , Operand: </col>
+Offset: 1040, PUSHS , Operand: .
+Offset: 1041, CONCAT , Operand: 5
+Offset: 1042, RETURN , Operand: 0
+Offset: 1043, GOTO , Operand: 69
+Offset: 1044, PUSHI , Operand: 92
+Offset: 1045, PUSHI , Operand: 12089
+Offset: 1046, PUSHS , Operand: Wolpertinger - Magic XP
+Offset: 1047, PUSHS , Operand: <br>
+Offset: 1048, PUSHS , Operand: Crimson charm, raw rabbit, wolf bones, 203 shards
+Offset: 1049, CONCAT , Operand: 3
+Offset: 1050, PUSHS , Operand: You can now infuse 
+Offset: 1051, PUSHS , Operand: <col=000080>
+Offset: 1052, PUSHS , Operand: wolpertinger pouches
+Offset: 1053, PUSHS , Operand: </col>
+Offset: 1054, PUSHS , Operand: .
+Offset: 1055, CONCAT , Operand: 5
+Offset: 1056, RETURN , Operand: 0
+Offset: 1057, GOTO , Operand: 55
+Offset: 1058, PUSHI , Operand: 93
+Offset: 1059, PUSHI , Operand: 12796
+Offset: 1060, PUSHS , Operand: Abyssal titan - Attack XP
+Offset: 1061, PUSHS , Operand: <br>
+Offset: 1062, PUSHS , Operand: Green charm, abyssal charm, 113 shards
+Offset: 1063, CONCAT , Operand: 3
+Offset: 1064, PUSHS , Operand: You can now infuse 
+Offset: 1065, PUSHS , Operand: <col=000080>
+Offset: 1066, PUSHS , Operand: abyssal titan pouches
+Offset: 1067, PUSHS , Operand: </col>
+Offset: 1068, PUSHS , Operand: .
+Offset: 1069, CONCAT , Operand: 5
+Offset: 1070, RETURN , Operand: 0
+Offset: 1071, GOTO , Operand: 41
+Offset: 1072, PUSHI , Operand: 95
+Offset: 1073, PUSHI , Operand: 12822
+Offset: 1074, PUSHS , Operand: Iron titan - Defence XP
+Offset: 1075, PUSHS , Operand: <br>
+Offset: 1076, PUSHS , Operand: Crimson charm, iron platebody, 198 shards
+Offset: 1077, CONCAT , Operand: 3
+Offset: 1078, PUSHS , Operand: You can now infuse 
+Offset: 1079, PUSHS , Operand: <col=000080>
+Offset: 1080, PUSHS , Operand: iron titan pouches
+Offset: 1081, PUSHS , Operand: </col>
+Offset: 1082, PUSHS , Operand: .
+Offset: 1083, CONCAT , Operand: 5
+Offset: 1084, RETURN , Operand: 0
+Offset: 1085, GOTO , Operand: 27
+Offset: 1086, PUSHI , Operand: 96
+Offset: 1087, PUSHI , Operand: 12093
+Offset: 1088, PUSHS , Operand: Pack yak - Strength XP
+Offset: 1089, PUSHS , Operand: <br>
+Offset: 1090, PUSHS , Operand: Crimson charm, yak hide, 211 shards
+Offset: 1091, CONCAT , Operand: 3
+Offset: 1092, PUSHS , Operand: You can now infuse 
+Offset: 1093, PUSHS , Operand: <col=000080>
+Offset: 1094, PUSHS , Operand: pack yak pouches
+Offset: 1095, PUSHS , Operand: </col>
+Offset: 1096, PUSHS , Operand: .
+Offset: 1097, CONCAT , Operand: 5
+Offset: 1098, RETURN , Operand: 0
+Offset: 1099, GOTO , Operand: 13
+Offset: 1100, PUSHI , Operand: 99
+Offset: 1101, PUSHI , Operand: 12790
+Offset: 1102, PUSHS , Operand: Steel titan - Ranged XP
+Offset: 1103, PUSHS , Operand: <br>
+Offset: 1104, PUSHS , Operand: Crimson charm, steel platebody, 178 shards
+Offset: 1105, CONCAT , Operand: 3
+Offset: 1106, PUSHS , Operand: You can now infuse 
+Offset: 1107, PUSHS , Operand: <col=000080>
+Offset: 1108, PUSHS , Operand: steel titan pouches
+Offset: 1109, PUSHS , Operand: </col>
+Offset: 1110, PUSHS , Operand: .
+Offset: 1111, CONCAT , Operand: 5
+Offset: 1112, RETURN , Operand: 0
+Offset: 1113, GOTO , Operand: 3089
+Offset: 1114, LOADINT , Operand: 1
+Offset: 1115, SWITCH , Operand: 2
+Offset: 1116, GOTO , Operand: 901
+Offset: 1117, PUSHI , Operand: 1
+Offset: 1118, PUSHI , Operand: 12425
+Offset: 1119, PUSHS , Operand: Howl
+Offset: 1120, PUSHS , Operand: You can now use 
+Offset: 1121, PUSHS , Operand: <col=000080>
+Offset: 1122, PUSHS , Operand: Howl scrolls
+Offset: 1123, PUSHS , Operand: </col>
+Offset: 1124, PUSHS , Operand: .
+Offset: 1125, CONCAT , Operand: 5
+Offset: 1126, RETURN , Operand: 0
+Offset: 1127, GOTO , Operand: 890
+Offset: 1128, PUSHI , Operand: 4
+Offset: 1129, PUSHI , Operand: 12445
+Offset: 1130, PUSHS , Operand: Dreadfowl Strike
+Offset: 1131, PUSHS , Operand: You can now use 
+Offset: 1132, PUSHS , Operand: <col=000080>
+Offset: 1133, PUSHS , Operand: Dreadfowl Strike scrolls
+Offset: 1134, PUSHS , Operand: </col>
+Offset: 1135, PUSHS , Operand: .
+Offset: 1136, CONCAT , Operand: 5
+Offset: 1137, RETURN , Operand: 0
+Offset: 1138, GOTO , Operand: 879
+Offset: 1139, PUSHI , Operand: 4
+Offset: 1140, PUSHI , Operand: 19621
+Offset: 1141, PUSHS , Operand: Fetch Casket
+Offset: 1142, PUSHS , Operand: You can now use 
+Offset: 1143, PUSHS , Operand: <col=000080>
+Offset: 1144, PUSHS , Operand: Fetch Casket scrolls
+Offset: 1145, PUSHS , Operand: </col>
+Offset: 1146, PUSHS , Operand: .
+Offset: 1147, CONCAT , Operand: 5
+Offset: 1148, RETURN , Operand: 0
+Offset: 1149, GOTO , Operand: 868
+Offset: 1150, PUSHI , Operand: 10
+Offset: 1151, PUSHI , Operand: 12428
+Offset: 1152, PUSHS , Operand: Egg Spawn
+Offset: 1153, PUSHS , Operand: You can now use 
+Offset: 1154, PUSHS , Operand: <col=000080>
+Offset: 1155, PUSHS , Operand: Egg Spawn scrolls
+Offset: 1156, PUSHS , Operand: </col>
+Offset: 1157, PUSHS , Operand: .
+Offset: 1158, CONCAT , Operand: 5
+Offset: 1159, RETURN , Operand: 0
+Offset: 1160, GOTO , Operand: 857
+Offset: 1161, PUSHI , Operand: 13
+Offset: 1162, PUSHI , Operand: 12459
+Offset: 1163, PUSHS , Operand: Slime Spray
+Offset: 1164, PUSHS , Operand: You can now use 
+Offset: 1165, PUSHS , Operand: <col=000080>
+Offset: 1166, PUSHS , Operand: Slime Spray scrolls
+Offset: 1167, PUSHS , Operand: </col>
+Offset: 1168, PUSHS , Operand: .
+Offset: 1169, CONCAT , Operand: 5
+Offset: 1170, RETURN , Operand: 0
+Offset: 1171, GOTO , Operand: 846
+Offset: 1172, PUSHI , Operand: 16
+Offset: 1173, PUSHI , Operand: 12533
+Offset: 1174, PUSHS , Operand: Stony Shell
+Offset: 1175, PUSHS , Operand: You can now use 
+Offset: 1176, PUSHS , Operand: <col=000080>
+Offset: 1177, PUSHS , Operand: Stony Shell scrolls
+Offset: 1178, PUSHS , Operand: </col>
+Offset: 1179, PUSHS , Operand: .
+Offset: 1180, CONCAT , Operand: 5
+Offset: 1181, RETURN , Operand: 0
+Offset: 1182, GOTO , Operand: 835
+Offset: 1183, PUSHI , Operand: 17
+Offset: 1184, PUSHI , Operand: 12838
+Offset: 1185, PUSHS , Operand: Pester
+Offset: 1186, PUSHS , Operand: You can now use 
+Offset: 1187, PUSHS , Operand: <col=000080>
+Offset: 1188, PUSHS , Operand: Pester scrolls
+Offset: 1189, PUSHS , Operand: </col>
+Offset: 1190, PUSHS , Operand: .
+Offset: 1191, CONCAT , Operand: 5
+Offset: 1192, RETURN , Operand: 0
+Offset: 1193, GOTO , Operand: 824
+Offset: 1194, PUSHI , Operand: 18
+Offset: 1195, PUSHI , Operand: 12460
+Offset: 1196, PUSHS , Operand: Electric Lash
+Offset: 1197, PUSHS , Operand: You can now use 
+Offset: 1198, PUSHS , Operand: <col=000080>
+Offset: 1199, PUSHS , Operand: Electric Lash scrolls
+Offset: 1200, PUSHS , Operand: </col>
+Offset: 1201, PUSHS , Operand: .
+Offset: 1202, CONCAT , Operand: 5
+Offset: 1203, RETURN , Operand: 0
+Offset: 1204, GOTO , Operand: 813
+Offset: 1205, PUSHI , Operand: 19
+Offset: 1206, PUSHI , Operand: 12432
+Offset: 1207, PUSHS , Operand: Venom Shot
+Offset: 1208, PUSHS , Operand: You can now use 
+Offset: 1209, PUSHS , Operand: <col=000080>
+Offset: 1210, PUSHS , Operand: Venom Shot scrolls
+Offset: 1211, PUSHS , Operand: </col>
+Offset: 1212, PUSHS , Operand: .
+Offset: 1213, CONCAT , Operand: 5
+Offset: 1214, RETURN , Operand: 0
+Offset: 1215, GOTO , Operand: 802
+Offset: 1216, PUSHI , Operand: 22
+Offset: 1217, PUSHI , Operand: 12839
+Offset: 1218, PUSHS , Operand: Fireball Assault
+Offset: 1219, PUSHS , Operand: You can now use 
+Offset: 1220, PUSHS , Operand: <col=000080>
+Offset: 1221, PUSHS , Operand: Fireball Assault scrolls
+Offset: 1222, PUSHS , Operand: </col>
+Offset: 1223, PUSHS , Operand: .
+Offset: 1224, CONCAT , Operand: 5
+Offset: 1225, RETURN , Operand: 0
+Offset: 1226, GOTO , Operand: 791
+Offset: 1227, PUSHI , Operand: 23
+Offset: 1228, PUSHI , Operand: 12430
+Offset: 1229, PUSHS , Operand: Cheese Feast
+Offset: 1230, PUSHS , Operand: You can now use 
+Offset: 1231, PUSHS , Operand: <col=000080>
+Offset: 1232, PUSHS , Operand: Cheese Feast scrolls
+Offset: 1233, PUSHS , Operand: </col>
+Offset: 1234, PUSHS , Operand: .
+Offset: 1235, CONCAT , Operand: 5
+Offset: 1236, RETURN , Operand: 0
+Offset: 1237, GOTO , Operand: 780
+Offset: 1238, PUSHI , Operand: 25
+Offset: 1239, PUSHI , Operand: 12446
+Offset: 1240, PUSHS , Operand: Sandstorm
+Offset: 1241, PUSHS , Operand: You can now use 
+Offset: 1242, PUSHS , Operand: <col=000080>
+Offset: 1243, PUSHS , Operand: Sandstorm scrolls
+Offset: 1244, PUSHS , Operand: </col>
+Offset: 1245, PUSHS , Operand: .
+Offset: 1246, CONCAT , Operand: 5
+Offset: 1247, RETURN , Operand: 0
+Offset: 1248, GOTO , Operand: 769
+Offset: 1249, PUSHI , Operand: 28
+Offset: 1250, PUSHI , Operand: 12440
+Offset: 1251, PUSHS , Operand: Generate Compost
+Offset: 1252, PUSHS , Operand: You can now use 
+Offset: 1253, PUSHS , Operand: <col=000080>
+Offset: 1254, PUSHS , Operand: Generate Compost scrolls
+Offset: 1255, PUSHS , Operand: </col>
+Offset: 1256, PUSHS , Operand: .
+Offset: 1257, CONCAT , Operand: 5
+Offset: 1258, RETURN , Operand: 0
+Offset: 1259, GOTO , Operand: 758
+Offset: 1260, PUSHI , Operand: 29
+Offset: 1261, PUSHI , Operand: 12834
+Offset: 1262, PUSHS , Operand: Explode
+Offset: 1263, PUSHS , Operand: You can now use 
+Offset: 1264, PUSHS , Operand: <col=000080>
+Offset: 1265, PUSHS , Operand: Explode scrolls
+Offset: 1266, PUSHS , Operand: </col>
+Offset: 1267, PUSHS , Operand: .
+Offset: 1268, CONCAT , Operand: 5
+Offset: 1269, RETURN , Operand: 0
+Offset: 1270, GOTO , Operand: 747
+Offset: 1271, PUSHI , Operand: 31
+Offset: 1272, PUSHI , Operand: 12447
+Offset: 1273, PUSHS , Operand: Vampire Touch
+Offset: 1274, PUSHS , Operand: You can now use 
+Offset: 1275, PUSHS , Operand: <col=000080>
+Offset: 1276, PUSHS , Operand: Vampire Touch scrolls
+Offset: 1277, PUSHS , Operand: </col>
+Offset: 1278, PUSHS , Operand: .
+Offset: 1279, CONCAT , Operand: 5
+Offset: 1280, RETURN , Operand: 0
+Offset: 1281, GOTO , Operand: 736
+Offset: 1282, PUSHI , Operand: 32
+Offset: 1283, PUSHI , Operand: 12433
+Offset: 1284, PUSHS , Operand: Insane Ferocity
+Offset: 1285, PUSHS , Operand: You can now use 
+Offset: 1286, PUSHS , Operand: <col=000080>
+Offset: 1287, PUSHS , Operand: Insane Ferocity scrolls
+Offset: 1288, PUSHS , Operand: </col>
+Offset: 1289, PUSHS , Operand: .
+Offset: 1290, CONCAT , Operand: 5
+Offset: 1291, RETURN , Operand: 0
+Offset: 1292, GOTO , Operand: 725
+Offset: 1293, PUSHI , Operand: 33
+Offset: 1294, PUSHI , Operand: 12429
+Offset: 1295, PUSHS , Operand: Multichop
+Offset: 1296, PUSHS , Operand: You can now use 
+Offset: 1297, PUSHS , Operand: <col=000080>
+Offset: 1298, PUSHS , Operand: Multichop scrolls
+Offset: 1299, PUSHS , Operand: </col>
+Offset: 1300, PUSHS , Operand: .
+Offset: 1301, CONCAT , Operand: 5
+Offset: 1302, RETURN , Operand: 0
+Offset: 1303, GOTO , Operand: 714
+Offset: 1304, PUSHI , Operand: 34
+Offset: 1305, PUSHI , Operand: 12443
+Offset: 1306, PUSHS , Operand: Call to Arms
+Offset: 1307, PUSHS , Operand: You can now use 
+Offset: 1308, PUSHS , Operand: <col=000080>
+Offset: 1309, PUSHS , Operand: Call to Arms scrolls
+Offset: 1310, PUSHS , Operand: </col>
+Offset: 1311, PUSHS , Operand: .
+Offset: 1312, CONCAT , Operand: 5
+Offset: 1313, RETURN , Operand: 0
+Offset: 1314, GOTO , Operand: 703
+Offset: 1315, PUSHI , Operand: 36
+Offset: 1316, PUSHI , Operand: 12461
+Offset: 1317, PUSHS , Operand: Bronze Bull Rush
+Offset: 1318, PUSHS , Operand: You can now use 
+Offset: 1319, PUSHS , Operand: <col=000080>
+Offset: 1320, PUSHS , Operand: Bronze Bull Rush scrolls
+Offset: 1321, PUSHS , Operand: </col>
+Offset: 1322, PUSHS , Operand: .
+Offset: 1323, CONCAT , Operand: 5
+Offset: 1324, RETURN , Operand: 0
+Offset: 1325, GOTO , Operand: 692
+Offset: 1326, PUSHI , Operand: 40
+Offset: 1327, PUSHI , Operand: 12431
+Offset: 1328, PUSHS , Operand: Unburden
+Offset: 1329, PUSHS , Operand: You can now use 
+Offset: 1330, PUSHS , Operand: <col=000080>
+Offset: 1331, PUSHS , Operand: Unburden scrolls
+Offset: 1332, PUSHS , Operand: </col>
+Offset: 1333, PUSHS , Operand: .
+Offset: 1334, CONCAT , Operand: 5
+Offset: 1335, RETURN , Operand: 0
+Offset: 1336, GOTO , Operand: 681
+Offset: 1337, PUSHI , Operand: 41
+Offset: 1338, PUSHI , Operand: 12422
+Offset: 1339, PUSHS , Operand: Herbcall
+Offset: 1340, PUSHS , Operand: You can now use 
+Offset: 1341, PUSHS , Operand: <col=000080>
+Offset: 1342, PUSHS , Operand: Herbcall scrolls
+Offset: 1343, PUSHS , Operand: </col>
+Offset: 1344, PUSHS , Operand: .
+Offset: 1345, CONCAT , Operand: 5
+Offset: 1346, RETURN , Operand: 0
+Offset: 1347, GOTO , Operand: 670
+Offset: 1348, PUSHI , Operand: 42
+Offset: 1349, PUSHI , Operand: 12448
+Offset: 1350, PUSHS , Operand: Evil Flames
+Offset: 1351, PUSHS , Operand: You can now use 
+Offset: 1352, PUSHS , Operand: <col=000080>
+Offset: 1353, PUSHS , Operand: Evil Flames scrolls
+Offset: 1354, PUSHS , Operand: </col>
+Offset: 1355, PUSHS , Operand: .
+Offset: 1356, CONCAT , Operand: 5
+Offset: 1357, RETURN , Operand: 0
+Offset: 1358, GOTO , Operand: 659
+Offset: 1359, PUSHI , Operand: 43
+Offset: 1360, PUSHI , Operand: 12458
+Offset: 1361, PUSHS , Operand: Petrifying Gaze
+Offset: 1362, PUSHS , Operand: You can now use 
+Offset: 1363, PUSHS , Operand: <col=000080>
+Offset: 1364, PUSHS , Operand: Petrifying Gaze scrolls
+Offset: 1365, PUSHS , Operand: </col>
+Offset: 1366, PUSHS , Operand: .
+Offset: 1367, CONCAT , Operand: 5
+Offset: 1368, RETURN , Operand: 0
+Offset: 1369, GOTO , Operand: 648
+Offset: 1370, PUSHI , Operand: 46
+Offset: 1371, PUSHI , Operand: 12462
+Offset: 1372, PUSHS , Operand: Iron Bull Rush
+Offset: 1373, PUSHS , Operand: You can now use 
+Offset: 1374, PUSHS , Operand: <col=000080>
+Offset: 1375, PUSHS , Operand: Iron Bull Rush scrolls
+Offset: 1376, PUSHS , Operand: </col>
+Offset: 1377, PUSHS , Operand: .
+Offset: 1378, CONCAT , Operand: 5
+Offset: 1379, RETURN , Operand: 0
+Offset: 1380, GOTO , Operand: 637
+Offset: 1381, PUSHI , Operand: 46
+Offset: 1382, PUSHI , Operand: 12829
+Offset: 1383, PUSHS , Operand: Immense Heat
+Offset: 1384, PUSHS , Operand: You can now use 
+Offset: 1385, PUSHS , Operand: <col=000080>
+Offset: 1386, PUSHS , Operand: Immense Heat scrolls
+Offset: 1387, PUSHS , Operand: </col>
+Offset: 1388, PUSHS , Operand: .
+Offset: 1389, CONCAT , Operand: 5
+Offset: 1390, RETURN , Operand: 0
+Offset: 1391, GOTO , Operand: 626
+Offset: 1392, PUSHI , Operand: 47
+Offset: 1393, PUSHI , Operand: 12426
+Offset: 1394, PUSHS , Operand: Thieving Fingers
+Offset: 1395, PUSHS , Operand: You can now use 
+Offset: 1396, PUSHS , Operand: <col=000080>
+Offset: 1397, PUSHS , Operand: Thieving Fingers scrolls
+Offset: 1398, PUSHS , Operand: </col>
+Offset: 1399, PUSHS , Operand: .
+Offset: 1400, CONCAT , Operand: 5
+Offset: 1401, RETURN , Operand: 0
+Offset: 1402, GOTO , Operand: 615
+Offset: 1403, PUSHI , Operand: 49
+Offset: 1404, PUSHI , Operand: 12444
+Offset: 1405, PUSHS , Operand: Blood Drain
+Offset: 1406, PUSHS , Operand: You can now use 
+Offset: 1407, PUSHS , Operand: <col=000080>
+Offset: 1408, PUSHS , Operand: Blood Drain scrolls
+Offset: 1409, PUSHS , Operand: </col>
+Offset: 1410, PUSHS , Operand: .
+Offset: 1411, CONCAT , Operand: 5
+Offset: 1412, RETURN , Operand: 0
+Offset: 1413, GOTO , Operand: 604
+Offset: 1414, PUSHI , Operand: 52
+Offset: 1415, PUSHI , Operand: 12441
+Offset: 1416, PUSHS , Operand: Tireless Run
+Offset: 1417, PUSHS , Operand: You can now use 
+Offset: 1418, PUSHS , Operand: <col=000080>
+Offset: 1419, PUSHS , Operand: Tireless Run scrolls
+Offset: 1420, PUSHS , Operand: </col>
+Offset: 1421, PUSHS , Operand: .
+Offset: 1422, CONCAT , Operand: 5
+Offset: 1423, RETURN , Operand: 0
+Offset: 1424, GOTO , Operand: 593
+Offset: 1425, PUSHI , Operand: 54
+Offset: 1426, PUSHI , Operand: 12454
+Offset: 1427, PUSHS , Operand: Abyssal Drain
+Offset: 1428, PUSHS , Operand: You can now use 
+Offset: 1429, PUSHS , Operand: <col=000080>
+Offset: 1430, PUSHS , Operand: Abyssal Drain scrolls
+Offset: 1431, PUSHS , Operand: </col>
+Offset: 1432, PUSHS , Operand: .
+Offset: 1433, CONCAT , Operand: 5
+Offset: 1434, RETURN , Operand: 0
+Offset: 1435, GOTO , Operand: 582
+Offset: 1436, PUSHI , Operand: 55
+Offset: 1437, PUSHI , Operand: 12453
+Offset: 1438, PUSHS , Operand: Dissolve
+Offset: 1439, PUSHS , Operand: You can now use 
+Offset: 1440, PUSHS , Operand: <col=000080>
+Offset: 1441, PUSHS , Operand: Dissolve scrolls
+Offset: 1442, PUSHS , Operand: </col>
+Offset: 1443, PUSHS , Operand: .
+Offset: 1444, CONCAT , Operand: 5
+Offset: 1445, RETURN , Operand: 0
+Offset: 1446, GOTO , Operand: 571
+Offset: 1447, PUSHI , Operand: 56
+Offset: 1448, PUSHI , Operand: 12463
+Offset: 1449, PUSHS , Operand: Steel Bull Rush
+Offset: 1450, PUSHS , Operand: You can now use 
+Offset: 1451, PUSHS , Operand: <col=000080>
+Offset: 1452, PUSHS , Operand: Steel Bull Rush scrolls
+Offset: 1453, PUSHS , Operand: </col>
+Offset: 1454, PUSHS , Operand: .
+Offset: 1455, CONCAT , Operand: 5
+Offset: 1456, RETURN , Operand: 0
+Offset: 1457, GOTO , Operand: 560
+Offset: 1458, PUSHI , Operand: 56
+Offset: 1459, PUSHI , Operand: 12424
+Offset: 1460, PUSHS , Operand: Fish Rain
+Offset: 1461, PUSHS , Operand: You can now use 
+Offset: 1462, PUSHS , Operand: <col=000080>
+Offset: 1463, PUSHS , Operand: Fish Rain scrolls
+Offset: 1464, PUSHS , Operand: </col>
+Offset: 1465, PUSHS , Operand: .
+Offset: 1466, CONCAT , Operand: 5
+Offset: 1467, RETURN , Operand: 0
+Offset: 1468, GOTO , Operand: 549
+Offset: 1469, PUSHI , Operand: 57
+Offset: 1470, PUSHI , Operand: 12836
+Offset: 1471, PUSHS , Operand: Ambush
+Offset: 1472, PUSHS , Operand: You can now use 
+Offset: 1473, PUSHS , Operand: <col=000080>
+Offset: 1474, PUSHS , Operand: Ambush scrolls
+Offset: 1475, PUSHS , Operand: </col>
+Offset: 1476, PUSHS , Operand: .
+Offset: 1477, CONCAT , Operand: 5
+Offset: 1478, RETURN , Operand: 0
+Offset: 1479, GOTO , Operand: 538
+Offset: 1480, PUSHI , Operand: 57
+Offset: 1481, PUSHI , Operand: 12840
+Offset: 1482, PUSHS , Operand: Rending
+Offset: 1483, PUSHS , Operand: You can now use 
+Offset: 1484, PUSHS , Operand: <col=000080>
+Offset: 1485, PUSHS , Operand: Rending scrolls
+Offset: 1486, PUSHS , Operand: </col>
+Offset: 1487, PUSHS , Operand: .
+Offset: 1488, CONCAT , Operand: 5
+Offset: 1489, RETURN , Operand: 0
+Offset: 1490, GOTO , Operand: 527
+Offset: 1491, PUSHI , Operand: 57
+Offset: 1492, PUSHI , Operand: 12835
+Offset: 1493, PUSHS , Operand: Goad
+Offset: 1494, PUSHS , Operand: You can now use 
+Offset: 1495, PUSHS , Operand: <col=000080>
+Offset: 1496, PUSHS , Operand: Goad scrolls
+Offset: 1497, PUSHS , Operand: </col>
+Offset: 1498, PUSHS , Operand: .
+Offset: 1499, CONCAT , Operand: 5
+Offset: 1500, RETURN , Operand: 0
+Offset: 1501, GOTO , Operand: 516
+Offset: 1502, PUSHI , Operand: 58
+Offset: 1503, PUSHI , Operand: 12455
+Offset: 1504, PUSHS , Operand: Doomsphere Device
+Offset: 1505, PUSHS , Operand: You can now use 
+Offset: 1506, PUSHS , Operand: <col=000080>
+Offset: 1507, PUSHS , Operand: Doomsphere Device scrolls
+Offset: 1508, PUSHS , Operand: </col>
+Offset: 1509, PUSHS , Operand: .
+Offset: 1510, CONCAT , Operand: 5
+Offset: 1511, RETURN , Operand: 0
+Offset: 1512, GOTO , Operand: 505
+Offset: 1513, PUSHI , Operand: 61
+Offset: 1514, PUSHI , Operand: 12468
+Offset: 1515, PUSHS , Operand: Dust Cloud
+Offset: 1516, PUSHS , Operand: You can now use 
+Offset: 1517, PUSHS , Operand: <col=000080>
+Offset: 1518, PUSHS , Operand: Dust Cloud scrolls
+Offset: 1519, PUSHS , Operand: </col>
+Offset: 1520, PUSHS , Operand: .
+Offset: 1521, CONCAT , Operand: 5
+Offset: 1522, RETURN , Operand: 0
+Offset: 1523, GOTO , Operand: 494
+Offset: 1524, PUSHI , Operand: 62
+Offset: 1525, PUSHI , Operand: 12427
+Offset: 1526, PUSHS , Operand: Abyssal Stealth
+Offset: 1527, PUSHS , Operand: You can now use 
+Offset: 1528, PUSHS , Operand: <col=000080>
+Offset: 1529, PUSHS , Operand: Abyssal Stealth scrolls
+Offset: 1530, PUSHS , Operand: </col>
+Offset: 1531, PUSHS , Operand: .
+Offset: 1532, CONCAT , Operand: 5
+Offset: 1533, RETURN , Operand: 0
+Offset: 1534, GOTO , Operand: 483
+Offset: 1535, PUSHI , Operand: 63
+Offset: 1536, PUSHI , Operand: 12436
+Offset: 1537, PUSHS , Operand: Ophidian Incubation
+Offset: 1538, PUSHS , Operand: You can now use 
+Offset: 1539, PUSHS , Operand: <col=000080>
+Offset: 1540, PUSHS , Operand: Ophidian Incubation scrolls
+Offset: 1541, PUSHS , Operand: </col>
+Offset: 1542, PUSHS , Operand: .
+Offset: 1543, CONCAT , Operand: 5
+Offset: 1544, RETURN , Operand: 0
+Offset: 1545, GOTO , Operand: 472
+Offset: 1546, PUSHI , Operand: 64
+Offset: 1547, PUSHI , Operand: 12467
+Offset: 1548, PUSHS , Operand: Poisonous Blast
+Offset: 1549, PUSHS , Operand: You can now use 
+Offset: 1550, PUSHS , Operand: <col=000080>
+Offset: 1551, PUSHS , Operand: Poisonous Blast scrolls
+Offset: 1552, PUSHS , Operand: </col>
+Offset: 1553, PUSHS , Operand: .
+Offset: 1554, CONCAT , Operand: 5
+Offset: 1555, RETURN , Operand: 0
+Offset: 1556, GOTO , Operand: 461
+Offset: 1557, PUSHI , Operand: 66
+Offset: 1558, PUSHI , Operand: 12464
+Offset: 1559, PUSHS , Operand: Mithril Bull Rush
+Offset: 1560, PUSHS , Operand: You can now use 
+Offset: 1561, PUSHS , Operand: <col=000080>
+Offset: 1562, PUSHS , Operand: Mithril Bull Rush scrolls
+Offset: 1563, PUSHS , Operand: </col>
+Offset: 1564, PUSHS , Operand: .
+Offset: 1565, CONCAT , Operand: 5
+Offset: 1566, RETURN , Operand: 0
+Offset: 1567, GOTO , Operand: 450
+Offset: 1568, PUSHI , Operand: 66
+Offset: 1569, PUSHI , Operand: 12452
+Offset: 1570, PUSHS , Operand: Toad Bark
+Offset: 1571, PUSHS , Operand: You can now use 
+Offset: 1572, PUSHS , Operand: <col=000080>
+Offset: 1573, PUSHS , Operand: Toad Bark scrolls
+Offset: 1574, PUSHS , Operand: </col>
+Offset: 1575, PUSHS , Operand: .
+Offset: 1576, CONCAT , Operand: 5
+Offset: 1577, RETURN , Operand: 0
+Offset: 1578, GOTO , Operand: 439
+Offset: 1579, PUSHI , Operand: 67
+Offset: 1580, PUSHI , Operand: 12439
+Offset: 1581, PUSHS , Operand: Testudo
+Offset: 1582, PUSHS , Operand: You can now use 
+Offset: 1583, PUSHS , Operand: <col=000080>
+Offset: 1584, PUSHS , Operand: Testudo scrolls
+Offset: 1585, PUSHS , Operand: </col>
+Offset: 1586, PUSHS , Operand: .
+Offset: 1587, CONCAT , Operand: 5
+Offset: 1588, RETURN , Operand: 0
+Offset: 1589, GOTO , Operand: 428
+Offset: 1590, PUSHI , Operand: 68
+Offset: 1591, PUSHI , Operand: 12438
+Offset: 1592, PUSHS , Operand: Swallow Whole
+Offset: 1593, PUSHS , Operand: You can now use 
+Offset: 1594, PUSHS , Operand: <col=000080>
+Offset: 1595, PUSHS , Operand: Swallow Whole scrolls
+Offset: 1596, PUSHS , Operand: </col>
+Offset: 1597, PUSHS , Operand: .
+Offset: 1598, CONCAT , Operand: 5
+Offset: 1599, RETURN , Operand: 0
+Offset: 1600, GOTO , Operand: 417
+Offset: 1601, PUSHI , Operand: 69
+Offset: 1602, PUSHI , Operand: 12423
+Offset: 1603, PUSHS , Operand: Fruitfall
+Offset: 1604, PUSHS , Operand: You can now use 
+Offset: 1605, PUSHS , Operand: <col=000080>
+Offset: 1606, PUSHS , Operand: Fruitfall scrolls
+Offset: 1607, PUSHS , Operand: </col>
+Offset: 1608, PUSHS , Operand: .
+Offset: 1609, CONCAT , Operand: 5
+Offset: 1610, RETURN , Operand: 0
+Offset: 1611, GOTO , Operand: 406
+Offset: 1612, PUSHI , Operand: 70
+Offset: 1613, PUSHI , Operand: 12830
+Offset: 1614, PUSHS , Operand: Famine
+Offset: 1615, PUSHS , Operand: You can now use 
+Offset: 1616, PUSHS , Operand: <col=000080>
+Offset: 1617, PUSHS , Operand: Famine scrolls
+Offset: 1618, PUSHS , Operand: </col>
+Offset: 1619, PUSHS , Operand: .
+Offset: 1620, CONCAT , Operand: 5
+Offset: 1621, RETURN , Operand: 0
+Offset: 1622, GOTO , Operand: 395
+Offset: 1623, PUSHI , Operand: 71
+Offset: 1624, PUSHI , Operand: 12451
+Offset: 1625, PUSHS , Operand: Arctic Blast
+Offset: 1626, PUSHS , Operand: You can now use 
+Offset: 1627, PUSHS , Operand: <col=000080>
+Offset: 1628, PUSHS , Operand: Arctic Blast scrolls
+Offset: 1629, PUSHS , Operand: </col>
+Offset: 1630, PUSHS , Operand: .
+Offset: 1631, CONCAT , Operand: 5
+Offset: 1632, RETURN , Operand: 0
+Offset: 1633, GOTO , Operand: 384
+Offset: 1634, PUSHI , Operand: 72
+Offset: 1635, PUSHI , Operand: 14622
+Offset: 1636, PUSHS , Operand: Rise from the Ashes (after In Pyre Need)
+Offset: 1637, PUSHS , Operand: You can now use 
+Offset: 1638, PUSHS , Operand: <col=000080>
+Offset: 1639, PUSHS , Operand: Rise from the Ashes scrolls
+Offset: 1640, PUSHS , Operand: </col>
+Offset: 1641, PUSHS , Operand:  (after In Pyre Need).
+Offset: 1642, CONCAT , Operand: 5
+Offset: 1643, RETURN , Operand: 0
+Offset: 1644, GOTO , Operand: 373
+Offset: 1645, PUSHI , Operand: 73
+Offset: 1646, PUSHI , Operand: 12826
+Offset: 1647, PUSHS , Operand: Volcanic Strength
+Offset: 1648, PUSHS , Operand: You can now use 
+Offset: 1649, PUSHS , Operand: <col=000080>
+Offset: 1650, PUSHS , Operand: Volcanic Strength scrolls
+Offset: 1651, PUSHS , Operand: </col>
+Offset: 1652, PUSHS , Operand: .
+Offset: 1653, CONCAT , Operand: 5
+Offset: 1654, RETURN , Operand: 0
+Offset: 1655, GOTO , Operand: 362
+Offset: 1656, PUSHI , Operand: 74
+Offset: 1657, PUSHI , Operand: 12449
+Offset: 1658, PUSHS , Operand: Crushing Claw
+Offset: 1659, PUSHS , Operand: You can now use 
+Offset: 1660, PUSHS , Operand: <col=000080>
+Offset: 1661, PUSHS , Operand: Crushing Claw scrolls
+Offset: 1662, PUSHS , Operand: </col>
+Offset: 1663, PUSHS , Operand: .
+Offset: 1664, CONCAT , Operand: 5
+Offset: 1665, RETURN , Operand: 0
+Offset: 1666, GOTO , Operand: 351
+Offset: 1667, PUSHI , Operand: 75
+Offset: 1668, PUSHI , Operand: 12450
+Offset: 1669, PUSHS , Operand: Mantis Strike
+Offset: 1670, PUSHS , Operand: You can now use 
+Offset: 1671, PUSHS , Operand: <col=000080>
+Offset: 1672, PUSHS , Operand: Mantis Strike scrolls
+Offset: 1673, PUSHS , Operand: </col>
+Offset: 1674, PUSHS , Operand: .
+Offset: 1675, CONCAT , Operand: 5
+Offset: 1676, RETURN , Operand: 0
+Offset: 1677, GOTO , Operand: 340
+Offset: 1678, PUSHI , Operand: 76
+Offset: 1679, PUSHI , Operand: 12841
+Offset: 1680, PUSHS , Operand: Inferno
+Offset: 1681, PUSHS , Operand: You can now use 
+Offset: 1682, PUSHS , Operand: <col=000080>
+Offset: 1683, PUSHS , Operand: Inferno scrolls
+Offset: 1684, PUSHS , Operand: </col>
+Offset: 1685, PUSHS , Operand: .
+Offset: 1686, CONCAT , Operand: 5
+Offset: 1687, RETURN , Operand: 0
+Offset: 1688, GOTO , Operand: 329
+Offset: 1689, PUSHI , Operand: 76
+Offset: 1690, PUSHI , Operand: 12465
+Offset: 1691, PUSHS , Operand: Adamant Bull Rush
+Offset: 1692, PUSHS , Operand: You can now use 
+Offset: 1693, PUSHS , Operand: <col=000080>
+Offset: 1694, PUSHS , Operand: Adamant Bull Rush scrolls
+Offset: 1695, PUSHS , Operand: </col>
+Offset: 1696, PUSHS , Operand: .
+Offset: 1697, CONCAT , Operand: 5
+Offset: 1698, RETURN , Operand: 0
+Offset: 1699, GOTO , Operand: 318
+Offset: 1700, PUSHI , Operand: 77
+Offset: 1701, PUSHI , Operand: 12831
+Offset: 1702, PUSHS , Operand: Deadly Claw
+Offset: 1703, PUSHS , Operand: You can now use 
+Offset: 1704, PUSHS , Operand: <col=000080>
+Offset: 1705, PUSHS , Operand: Deadly Claw scrolls
+Offset: 1706, PUSHS , Operand: </col>
+Offset: 1707, PUSHS , Operand: .
+Offset: 1708, CONCAT , Operand: 5
+Offset: 1709, RETURN , Operand: 0
+Offset: 1710, GOTO , Operand: 307
+Offset: 1711, PUSHI , Operand: 78
+Offset: 1712, PUSHI , Operand: 12457
+Offset: 1713, PUSHS , Operand: Acorn Missile
+Offset: 1714, PUSHS , Operand: You can now use 
+Offset: 1715, PUSHS , Operand: <col=000080>
+Offset: 1716, PUSHS , Operand: Acorn Missile scrolls
+Offset: 1717, PUSHS , Operand: </col>
+Offset: 1718, PUSHS , Operand: .
+Offset: 1719, CONCAT , Operand: 5
+Offset: 1720, RETURN , Operand: 0
+Offset: 1721, GOTO , Operand: 296
+Offset: 1722, PUSHI , Operand: 79
+Offset: 1723, PUSHI , Operand: 12824
+Offset: 1724, PUSHS , Operand: Titan's Constitution
+Offset: 1725, PUSHS , Operand: You can now use 
+Offset: 1726, PUSHS , Operand: <col=000080>
+Offset: 1727, PUSHS , Operand: Titan's Constitution scrolls
+Offset: 1728, PUSHS , Operand: </col>
+Offset: 1729, PUSHS , Operand: .
+Offset: 1730, CONCAT , Operand: 5
+Offset: 1731, RETURN , Operand: 0
+Offset: 1732, GOTO , Operand: 285
+Offset: 1733, PUSHI , Operand: 80
+Offset: 1734, PUSHI , Operand: 12442
+Offset: 1735, PUSHS , Operand: Regrowth
+Offset: 1736, PUSHS , Operand: You can now use 
+Offset: 1737, PUSHS , Operand: <col=000080>
+Offset: 1738, PUSHS , Operand: Regrowth scrolls
+Offset: 1739, PUSHS , Operand: </col>
+Offset: 1740, PUSHS , Operand: .
+Offset: 1741, CONCAT , Operand: 5
+Offset: 1742, RETURN , Operand: 0
+Offset: 1743, GOTO , Operand: 274
+Offset: 1744, PUSHI , Operand: 83
+Offset: 1745, PUSHI , Operand: 12456
+Offset: 1746, PUSHS , Operand: Spike Shot
+Offset: 1747, PUSHS , Operand: You can now use 
+Offset: 1748, PUSHS , Operand: <col=000080>
+Offset: 1749, PUSHS , Operand: Spike Shot scrolls
+Offset: 1750, PUSHS , Operand: </col>
+Offset: 1751, PUSHS , Operand: .
+Offset: 1752, CONCAT , Operand: 5
+Offset: 1753, RETURN , Operand: 0
+Offset: 1754, GOTO , Operand: 263
+Offset: 1755, PUSHI , Operand: 83
+Offset: 1756, PUSHI , Operand: 12837
+Offset: 1757, PUSHS , Operand: Ebon Thunder
+Offset: 1758, PUSHS , Operand: You can now use 
+Offset: 1759, PUSHS , Operand: <col=000080>
+Offset: 1760, PUSHS , Operand: Ebon Thunder scrolls
+Offset: 1761, PUSHS , Operand: </col>
+Offset: 1762, PUSHS , Operand: .
+Offset: 1763, CONCAT , Operand: 5
+Offset: 1764, RETURN , Operand: 0
+Offset: 1765, GOTO , Operand: 252
+Offset: 1766, PUSHI , Operand: 85
+Offset: 1767, PUSHI , Operand: 12832
+Offset: 1768, PUSHS , Operand: Swamp Plague
+Offset: 1769, PUSHS , Operand: You can now use 
+Offset: 1770, PUSHS , Operand: <col=000080>
+Offset: 1771, PUSHS , Operand: Swamp Plague scrolls
+Offset: 1772, PUSHS , Operand: </col>
+Offset: 1773, PUSHS , Operand: .
+Offset: 1774, CONCAT , Operand: 5
+Offset: 1775, RETURN , Operand: 0
+Offset: 1776, GOTO , Operand: 241
+Offset: 1777, PUSHI , Operand: 86
+Offset: 1778, PUSHI , Operand: 12466
+Offset: 1779, PUSHS , Operand: Rune Bull Rush
+Offset: 1780, PUSHS , Operand: You can now use 
+Offset: 1781, PUSHS , Operand: <col=000080>
+Offset: 1782, PUSHS , Operand: Rune Bull Rush scrolls
+Offset: 1783, PUSHS , Operand: </col>
+Offset: 1784, PUSHS , Operand: .
+Offset: 1785, CONCAT , Operand: 5
+Offset: 1786, RETURN , Operand: 0
+Offset: 1787, GOTO , Operand: 230
+Offset: 1788, PUSHI , Operand: 88
+Offset: 1789, PUSHI , Operand: 12434
+Offset: 1790, PUSHS , Operand: Healing Aura
+Offset: 1791, PUSHS , Operand: You can now use 
+Offset: 1792, PUSHS , Operand: <col=000080>
+Offset: 1793, PUSHS , Operand: Healing Aura scrolls
+Offset: 1794, PUSHS , Operand: </col>
+Offset: 1795, PUSHS , Operand: .
+Offset: 1796, CONCAT , Operand: 5
+Offset: 1797, RETURN , Operand: 0
+Offset: 1798, GOTO , Operand: 219
+Offset: 1799, PUSHI , Operand: 89
+Offset: 1800, PUSHI , Operand: 12833
+Offset: 1801, PUSHS , Operand: Boil
+Offset: 1802, PUSHS , Operand: You can now use 
+Offset: 1803, PUSHS , Operand: <col=000080>
+Offset: 1804, PUSHS , Operand: Boil scrolls
+Offset: 1805, PUSHS , Operand: </col>
+Offset: 1806, PUSHS , Operand: .
+Offset: 1807, CONCAT , Operand: 5
+Offset: 1808, RETURN , Operand: 0
+Offset: 1809, GOTO , Operand: 208
+Offset: 1810, PUSHI , Operand: 92
+Offset: 1811, PUSHI , Operand: 12437
+Offset: 1812, PUSHS , Operand: Magic Focus
+Offset: 1813, PUSHS , Operand: You can now use 
+Offset: 1814, PUSHS , Operand: <col=000080>
+Offset: 1815, PUSHS , Operand: Magic Focus scrolls
+Offset: 1816, PUSHS , Operand: </col>
+Offset: 1817, PUSHS , Operand: .
+Offset: 1818, CONCAT , Operand: 5
+Offset: 1819, RETURN , Operand: 0
+Offset: 1820, GOTO , Operand: 197
+Offset: 1821, PUSHI , Operand: 93
+Offset: 1822, PUSHI , Operand: 12827
+Offset: 1823, PUSHS , Operand: Essence Shipment
+Offset: 1824, PUSHS , Operand: You can now use 
+Offset: 1825, PUSHS , Operand: <col=000080>
+Offset: 1826, PUSHS , Operand: Essence Shipment scrolls
+Offset: 1827, PUSHS , Operand: </col>
+Offset: 1828, PUSHS , Operand: .
+Offset: 1829, CONCAT , Operand: 5
+Offset: 1830, RETURN , Operand: 0
+Offset: 1831, GOTO , Operand: 186
+Offset: 1832, PUSHI , Operand: 95
+Offset: 1833, PUSHI , Operand: 12828
+Offset: 1834, PUSHS , Operand: Iron Within
+Offset: 1835, PUSHS , Operand: You can now use 
+Offset: 1836, PUSHS , Operand: <col=000080>
+Offset: 1837, PUSHS , Operand: Iron Within scrolls
+Offset: 1838, PUSHS , Operand: </col>
+Offset: 1839, PUSHS , Operand: .
+Offset: 1840, CONCAT , Operand: 5
+Offset: 1841, RETURN , Operand: 0
+Offset: 1842, GOTO , Operand: 175
+Offset: 1843, PUSHI , Operand: 96
+Offset: 1844, PUSHI , Operand: 12435
+Offset: 1845, PUSHS , Operand: Winter Storage
+Offset: 1846, PUSHS , Operand: You can now use 
+Offset: 1847, PUSHS , Operand: <col=000080>
+Offset: 1848, PUSHS , Operand: Winter Storage scrolls
+Offset: 1849, PUSHS , Operand: </col>
+Offset: 1850, PUSHS , Operand: .
+Offset: 1851, CONCAT , Operand: 5
+Offset: 1852, RETURN , Operand: 0
+Offset: 1853, GOTO , Operand: 164
+Offset: 1854, PUSHI , Operand: 99
+Offset: 1855, PUSHI , Operand: 12825
+Offset: 1856, PUSHS , Operand: Steel of Legends
+Offset: 1857, PUSHS , Operand: You can now use 
+Offset: 1858, PUSHS , Operand: <col=000080>
+Offset: 1859, PUSHS , Operand: Steel of Legends scrolls
+Offset: 1860, PUSHS , Operand: </col>
+Offset: 1861, PUSHS , Operand: .
+Offset: 1862, CONCAT , Operand: 5
+Offset: 1863, RETURN , Operand: 0
+Offset: 1864, GOTO , Operand: 153
+Offset: 1865, PUSHI , Operand: 83
+Offset: 1866, PUSHI , Operand: 12017
+Offset: 1867, PUSHS , Operand: Spirit dagannoth - Controlled XP
+Offset: 1868, PUSHS , Operand: <br>
+Offset: 1869, PUSHS , Operand: Crimson charm, dagannoth hide, 1 shard
+Offset: 1870, CONCAT , Operand: 3
+Offset: 1871, PUSHS , Operand: You can now infuse 
+Offset: 1872, PUSHS , Operand: <col=000080>
+Offset: 1873, PUSHS , Operand: spirit dagannoth pouches
+Offset: 1874, PUSHS , Operand: </col>
+Offset: 1875, PUSHS , Operand: .
+Offset: 1876, CONCAT , Operand: 5
+Offset: 1877, RETURN , Operand: 0
+Offset: 1878, GOTO , Operand: 139
+Offset: 1879, PUSHI , Operand: 83
+Offset: 1880, PUSHI , Operand: 12788
+Offset: 1881, PUSHS , Operand: Lava titan - Strength XP
+Offset: 1882, PUSHS , Operand: <br>
+Offset: 1883, PUSHS , Operand: Blue charm, obsidian charm, 219 shards
+Offset: 1884, CONCAT , Operand: 3
+Offset: 1885, PUSHS , Operand: You can now infuse 
+Offset: 1886, PUSHS , Operand: <col=000080>
+Offset: 1887, PUSHS , Operand: lava titan pouches
+Offset: 1888, PUSHS , Operand: </col>
+Offset: 1889, PUSHS , Operand: .
+Offset: 1890, CONCAT , Operand: 5
+Offset: 1891, RETURN , Operand: 0
+Offset: 1892, GOTO , Operand: 125
+Offset: 1893, PUSHI , Operand: 85
+Offset: 1894, PUSHI , Operand: 12776
+Offset: 1895, PUSHS , Operand: Swamp titan - Attack XP
+Offset: 1896, PUSHS , Operand: <br>
+Offset: 1897, PUSHS , Operand: Crimson charm, swamp lizard, 150 shards
+Offset: 1898, CONCAT , Operand: 3
+Offset: 1899, PUSHS , Operand: You can now infuse 
+Offset: 1900, PUSHS , Operand: <col=000080>
+Offset: 1901, PUSHS , Operand: swamp titan pouches
+Offset: 1902, PUSHS , Operand: </col>
+Offset: 1903, PUSHS , Operand: .
+Offset: 1904, CONCAT , Operand: 5
+Offset: 1905, RETURN , Operand: 0
+Offset: 1906, GOTO , Operand: 111
+Offset: 1907, PUSHI , Operand: 86
+Offset: 1908, PUSHI , Operand: 12083
+Offset: 1909, PUSHS , Operand: Rune minotaur - Defence XP
+Offset: 1910, PUSHS , Operand: <br>
+Offset: 1911, PUSHS , Operand: Blue charm, runite bar, 1 shard
+Offset: 1912, CONCAT , Operand: 3
+Offset: 1913, PUSHS , Operand: You can now infuse 
+Offset: 1914, PUSHS , Operand: <col=000080>
+Offset: 1915, PUSHS , Operand: rune minotaur pouches
+Offset: 1916, PUSHS , Operand: </col>
+Offset: 1917, PUSHS , Operand: .
+Offset: 1918, CONCAT , Operand: 5
+Offset: 1919, RETURN , Operand: 0
+Offset: 1920, GOTO , Operand: 97
+Offset: 1921, PUSHI , Operand: 88
+Offset: 1922, PUSHI , Operand: 12039
+Offset: 1923, PUSHS , Operand: Unicorn stallion - Controlled XP
+Offset: 1924, PUSHS , Operand: <br>
+Offset: 1925, PUSHS , Operand: Green charm, unicorn horn, 140 shards
+Offset: 1926, CONCAT , Operand: 3
+Offset: 1927, PUSHS , Operand: You can now infuse 
+Offset: 1928, PUSHS , Operand: <col=000080>
+Offset: 1929, PUSHS , Operand: unicorn stallion pouches
+Offset: 1930, PUSHS , Operand: </col>
+Offset: 1931, PUSHS , Operand: .
+Offset: 1932, CONCAT , Operand: 5
+Offset: 1933, RETURN , Operand: 0
+Offset: 1934, GOTO , Operand: 83
+Offset: 1935, PUSHI , Operand: 89
+Offset: 1936, PUSHI , Operand: 12786
+Offset: 1937, PUSHS , Operand: Geyser titan - Ranged XP
+Offset: 1938, PUSHS , Operand: <br>
+Offset: 1939, PUSHS , Operand: Blue charm, water talisman, 222 shards
+Offset: 1940, CONCAT , Operand: 3
+Offset: 1941, PUSHS , Operand: You can now infuse 
+Offset: 1942, PUSHS , Operand: <col=000080>
+Offset: 1943, PUSHS , Operand: geyser titan pouches
+Offset: 1944, PUSHS , Operand: </col>
+Offset: 1945, PUSHS , Operand: .
+Offset: 1946, CONCAT , Operand: 5
+Offset: 1947, RETURN , Operand: 0
+Offset: 1948, GOTO , Operand: 69
+Offset: 1949, PUSHI , Operand: 92
+Offset: 1950, PUSHI , Operand: 12089
+Offset: 1951, PUSHS , Operand: Wolpertinger - Magic XP
+Offset: 1952, PUSHS , Operand: <br>
+Offset: 1953, PUSHS , Operand: Crimson charm, raw rabbit, wolf bones, 203 shards
+Offset: 1954, CONCAT , Operand: 3
+Offset: 1955, PUSHS , Operand: You can now infuse 
+Offset: 1956, PUSHS , Operand: <col=000080>
+Offset: 1957, PUSHS , Operand: wolpertinger pouches
+Offset: 1958, PUSHS , Operand: </col>
+Offset: 1959, PUSHS , Operand: .
+Offset: 1960, CONCAT , Operand: 5
+Offset: 1961, RETURN , Operand: 0
+Offset: 1962, GOTO , Operand: 55
+Offset: 1963, PUSHI , Operand: 93
+Offset: 1964, PUSHI , Operand: 12796
+Offset: 1965, PUSHS , Operand: Abyssal titan - Attack XP
+Offset: 1966, PUSHS , Operand: <br>
+Offset: 1967, PUSHS , Operand: Green charm, abyssal charm, 113 shards
+Offset: 1968, CONCAT , Operand: 3
+Offset: 1969, PUSHS , Operand: You can now infuse 
+Offset: 1970, PUSHS , Operand: <col=000080>
+Offset: 1971, PUSHS , Operand: abyssal titan pouches
+Offset: 1972, PUSHS , Operand: </col>
+Offset: 1973, PUSHS , Operand: .
+Offset: 1974, CONCAT , Operand: 5
+Offset: 1975, RETURN , Operand: 0
+Offset: 1976, GOTO , Operand: 41
+Offset: 1977, PUSHI , Operand: 95
+Offset: 1978, PUSHI , Operand: 12822
+Offset: 1979, PUSHS , Operand: Iron titan - Defence XP
+Offset: 1980, PUSHS , Operand: <br>
+Offset: 1981, PUSHS , Operand: Crimson charm, iron platebody, 198 shards
+Offset: 1982, CONCAT , Operand: 3
+Offset: 1983, PUSHS , Operand: You can now infuse 
+Offset: 1984, PUSHS , Operand: <col=000080>
+Offset: 1985, PUSHS , Operand: iron titan pouches
+Offset: 1986, PUSHS , Operand: </col>
+Offset: 1987, PUSHS , Operand: .
+Offset: 1988, CONCAT , Operand: 5
+Offset: 1989, RETURN , Operand: 0
+Offset: 1990, GOTO , Operand: 27
+Offset: 1991, PUSHI , Operand: 96
+Offset: 1992, PUSHI , Operand: 12093
+Offset: 1993, PUSHS , Operand: Pack yak - Strength XP
+Offset: 1994, PUSHS , Operand: <br>
+Offset: 1995, PUSHS , Operand: Crimson charm, yak hide, 211 shards
+Offset: 1996, CONCAT , Operand: 3
+Offset: 1997, PUSHS , Operand: You can now infuse 
+Offset: 1998, PUSHS , Operand: <col=000080>
+Offset: 1999, PUSHS , Operand: pack yak pouches
+Offset: 2000, PUSHS , Operand: </col>
+Offset: 2001, PUSHS , Operand: .
+Offset: 2002, CONCAT , Operand: 5
+Offset: 2003, RETURN , Operand: 0
+Offset: 2004, GOTO , Operand: 13
+Offset: 2005, PUSHI , Operand: 99
+Offset: 2006, PUSHI , Operand: 12790
+Offset: 2007, PUSHS , Operand: Steel titan - Ranged XP
+Offset: 2008, PUSHS , Operand: <br>
+Offset: 2009, PUSHS , Operand: Crimson charm, steel platebody, 178 shards
+Offset: 2010, CONCAT , Operand: 3
+Offset: 2011, PUSHS , Operand: You can now infuse 
+Offset: 2012, PUSHS , Operand: <col=000080>
+Offset: 2013, PUSHS , Operand: steel titan pouches
+Offset: 2014, PUSHS , Operand: </col>
+Offset: 2015, PUSHS , Operand: .
+Offset: 2016, CONCAT , Operand: 5
+Offset: 2017, RETURN , Operand: 0
+Offset: 2018, GOTO , Operand: 2184
+Offset: 2019, LOADINT , Operand: 1
+Offset: 2020, SWITCH , Operand: 3
+Offset: 2021, GOTO , Operand: 360
+Offset: 2022, PUSHI , Operand: 4
+Offset: 2023, PUSHI , Operand: 12196
+Offset: 2024, PUSHS , Operand: Bulldog
+Offset: 2025, PUSHS , Operand: You can now raise 
+Offset: 2026, PUSHS , Operand: <col=000080>
+Offset: 2027, PUSHS , Operand: bulldogs
+Offset: 2028, PUSHS , Operand: </col>
+Offset: 2029, PUSHS , Operand: .
+Offset: 2030, CONCAT , Operand: 5
+Offset: 2031, RETURN , Operand: 0
+Offset: 2032, GOTO , Operand: 349
+Offset: 2033, PUSHI , Operand: 4
+Offset: 2034, PUSHI , Operand: 12194
+Offset: 2035, PUSHS , Operand: Dalmatian
+Offset: 2036, PUSHS , Operand: You can now raise 
+Offset: 2037, PUSHS , Operand: <col=000080>
+Offset: 2038, PUSHS , Operand: dalmatians
+Offset: 2039, PUSHS , Operand: </col>
+Offset: 2040, PUSHS , Operand: .
+Offset: 2041, CONCAT , Operand: 5
+Offset: 2042, RETURN , Operand: 0
+Offset: 2043, GOTO , Operand: 338
+Offset: 2044, PUSHI , Operand: 4
+Offset: 2045, PUSHI , Operand: 12192
+Offset: 2046, PUSHS , Operand: Greyhound
+Offset: 2047, PUSHS , Operand: You can now raise 
+Offset: 2048, PUSHS , Operand: <col=000080>
+Offset: 2049, PUSHS , Operand: greyhounds
+Offset: 2050, PUSHS , Operand: </col>
+Offset: 2051, PUSHS , Operand: .
+Offset: 2052, CONCAT , Operand: 5
+Offset: 2053, RETURN , Operand: 0
+Offset: 2054, GOTO , Operand: 327
+Offset: 2055, PUSHI , Operand: 4
+Offset: 2056, PUSHI , Operand: 12193
+Offset: 2057, PUSHS , Operand: Labrador
+Offset: 2058, PUSHS , Operand: You can now raise 
+Offset: 2059, PUSHS , Operand: <col=000080>
+Offset: 2060, PUSHS , Operand: labradors
+Offset: 2061, PUSHS , Operand: </col>
+Offset: 2062, PUSHS , Operand: .
+Offset: 2063, CONCAT , Operand: 5
+Offset: 2064, RETURN , Operand: 0
+Offset: 2065, GOTO , Operand: 316
+Offset: 2066, PUSHI , Operand: 4
+Offset: 2067, PUSHI , Operand: 12195
+Offset: 2068, PUSHS , Operand: Sheepdog
+Offset: 2069, PUSHS , Operand: You can now raise 
+Offset: 2070, PUSHS , Operand: <col=000080>
+Offset: 2071, PUSHS , Operand: sheepdogs
+Offset: 2072, PUSHS , Operand: </col>
+Offset: 2073, PUSHS , Operand: .
+Offset: 2074, CONCAT , Operand: 5
+Offset: 2075, RETURN , Operand: 0
+Offset: 2076, GOTO , Operand: 305
+Offset: 2077, PUSHI , Operand: 4
+Offset: 2078, PUSHI , Operand: 12191
+Offset: 2079, PUSHS , Operand: Terrier
+Offset: 2080, PUSHS , Operand: You can now raise 
+Offset: 2081, PUSHS , Operand: <col=000080>
+Offset: 2082, PUSHS , Operand: terriers
+Offset: 2083, PUSHS , Operand: </col>
+Offset: 2084, PUSHS , Operand: .
+Offset: 2085, CONCAT , Operand: 5
+Offset: 2086, RETURN , Operand: 0
+Offset: 2087, GOTO , Operand: 294
+Offset: 2088, PUSHI , Operand: 4
+Offset: 2089, PUSHI , Operand: 14652
+Offset: 2090, PUSHS , Operand: Creeping hand
+Offset: 2091, PUSHS , Operand: You can now keep 
+Offset: 2092, PUSHS , Operand: <col=000080>
+Offset: 2093, PUSHS , Operand: creeping hands
+Offset: 2094, PUSHS , Operand: </col>
+Offset: 2095, PUSHS , Operand: .
+Offset: 2096, CONCAT , Operand: 5
+Offset: 2097, RETURN , Operand: 0
+Offset: 2098, GOTO , Operand: 283
+Offset: 2099, PUSHI , Operand: 4
+Offset: 2100, PUSHI , Operand: 14653
+Offset: 2101, PUSHS , Operand: Minitrice
+Offset: 2102, PUSHS , Operand: You can now keep 
+Offset: 2103, PUSHS , Operand: <col=000080>
+Offset: 2104, PUSHS , Operand: minitrices
+Offset: 2105, PUSHS , Operand: </col>
+Offset: 2106, PUSHS , Operand: .
+Offset: 2107, CONCAT , Operand: 5
+Offset: 2108, RETURN , Operand: 0
+Offset: 2109, GOTO , Operand: 272
+Offset: 2110, PUSHI , Operand: 4
+Offset: 2111, PUSHI , Operand: 14654
+Offset: 2112, PUSHS , Operand: Baby basilisk
+Offset: 2113, PUSHS , Operand: You can now keep 
+Offset: 2114, PUSHS , Operand: <col=000080>
+Offset: 2115, PUSHS , Operand: baby basilisks
+Offset: 2116, PUSHS , Operand: </col>
+Offset: 2117, PUSHS , Operand: .
+Offset: 2118, CONCAT , Operand: 5
+Offset: 2119, RETURN , Operand: 0
+Offset: 2120, GOTO , Operand: 261
+Offset: 2121, PUSHI , Operand: 4
+Offset: 2122, PUSHI , Operand: 14655
+Offset: 2123, PUSHS , Operand: Baby kurask
+Offset: 2124, PUSHS , Operand: You can now keep 
+Offset: 2125, PUSHS , Operand: <col=000080>
+Offset: 2126, PUSHS , Operand: baby kurasks
+Offset: 2127, PUSHS , Operand: </col>
+Offset: 2128, PUSHS , Operand: .
+Offset: 2129, CONCAT , Operand: 5
+Offset: 2130, RETURN , Operand: 0
+Offset: 2131, GOTO , Operand: 250
+Offset: 2132, PUSHI , Operand: 4
+Offset: 2133, PUSHI , Operand: 14651
+Offset: 2134, PUSHS , Operand: Abyssal minion
+Offset: 2135, PUSHS , Operand: You can now keep 
+Offset: 2136, PUSHS , Operand: <col=000080>
+Offset: 2137, PUSHS , Operand: abyssal minions
+Offset: 2138, PUSHS , Operand: </col>
+Offset: 2139, PUSHS , Operand: .
+Offset: 2140, CONCAT , Operand: 5
+Offset: 2141, RETURN , Operand: 0
+Offset: 2142, GOTO , Operand: 239
+Offset: 2143, PUSHI , Operand: 4
+Offset: 2144, PUSHI , Operand: 15483
+Offset: 2145, PUSHS , Operand: Rune guardian
+Offset: 2146, PUSHS , Operand: <br>
+Offset: 2147, PUSHS , Operand:  (after Rune Mechanics)
+Offset: 2148, CONCAT , Operand: 3
+Offset: 2149, PUSHS , Operand: You can now keep 
+Offset: 2150, PUSHS , Operand: <col=000080>
+Offset: 2151, PUSHS , Operand: rune guardians
+Offset: 2152, PUSHS , Operand: </col>
+Offset: 2153, PUSHS , Operand:  (after Rune Mechanics)
+Offset: 2154, CONCAT , Operand: 5
+Offset: 2155, RETURN , Operand: 0
+Offset: 2156, GOTO , Operand: 225
+Offset: 2157, PUSHI , Operand: 10
+Offset: 2158, PUSHI , Operand: 12488
+Offset: 2159, PUSHS , Operand: Gecko
+Offset: 2160, PUSHS , Operand: You can now raise 
+Offset: 2161, PUSHS , Operand: <col=000080>
+Offset: 2162, PUSHS , Operand: geckos
+Offset: 2163, PUSHS , Operand: </col>
+Offset: 2164, PUSHS , Operand: .
+Offset: 2165, CONCAT , Operand: 5
+Offset: 2166, RETURN , Operand: 0
+Offset: 2167, GOTO , Operand: 214
+Offset: 2168, PUSHI , Operand: 10
+Offset: 2169, PUSHI , Operand: 12547
+Offset: 2170, PUSHS , Operand: Platypus
+Offset: 2171, PUSHS , Operand: <br>
+Offset: 2172, PUSHS , Operand:  (after As a First Resort...)
+Offset: 2173, CONCAT , Operand: 3
+Offset: 2174, PUSHS , Operand: You can now raise 
+Offset: 2175, PUSHS , Operand: <col=000080>
+Offset: 2176, PUSHS , Operand: platypodes
+Offset: 2177, PUSHS , Operand: </col>
+Offset: 2178, PUSHS , Operand:  (after As a First Resort...).
+Offset: 2179, CONCAT , Operand: 5
+Offset: 2180, RETURN , Operand: 0
+Offset: 2181, GOTO , Operand: 200
+Offset: 2182, PUSHI , Operand: 23
+Offset: 2183, PUSHI , Operand: 14533
+Offset: 2184, PUSHS , Operand: Broav
+Offset: 2185, PUSHS , Operand: <br>
+Offset: 2186, PUSHS , Operand:  (after While Guthix Sleeps...)
+Offset: 2187, CONCAT , Operand: 3
+Offset: 2188, PUSHS , Operand: You can now raise 
+Offset: 2189, PUSHS , Operand: <col=000080>
+Offset: 2190, PUSHS , Operand: broavs
+Offset: 2191, PUSHS , Operand: </col>
+Offset: 2192, PUSHS , Operand:  
+Offset: 2193, PUSHS , Operand: <br>
+Offset: 2194, PUSHS , Operand:  (after While Guthix Sleeps...).
+Offset: 2195, CONCAT , Operand: 7
+Offset: 2196, RETURN , Operand: 0
+Offset: 2197, GOTO , Operand: 184
+Offset: 2198, PUSHI , Operand: 30
+Offset: 2199, PUSHI , Operand: 12188
+Offset: 2200, PUSHS , Operand: Penguin
+Offset: 2201, PUSHS , Operand: You can now raise 
+Offset: 2202, PUSHS , Operand: <col=000080>
+Offset: 2203, PUSHS , Operand: penguins
+Offset: 2204, PUSHS , Operand: </col>
+Offset: 2205, PUSHS , Operand: .
+Offset: 2206, CONCAT , Operand: 5
+Offset: 2207, RETURN , Operand: 0
+Offset: 2208, GOTO , Operand: 173
+Offset: 2209, PUSHI , Operand: 37
+Offset: 2210, PUSHI , Operand: 18668
+Offset: 2211, PUSHS , Operand: Tooth pet
+Offset: 2212, PUSHS , Operand: You can now raise 
+Offset: 2213, PUSHS , Operand: <col=000080>
+Offset: 2214, PUSHS , Operand: tooth pets
+Offset: 2215, PUSHS , Operand: </col>
+Offset: 2216, PUSHS , Operand: .
+Offset: 2217, CONCAT , Operand: 5
+Offset: 2218, RETURN , Operand: 0
+Offset: 2219, GOTO , Operand: 162
+Offset: 2220, PUSHI , Operand: 40
+Offset: 2221, PUSHI , Operand: 12198
+Offset: 2222, PUSHS , Operand: Giant crab
+Offset: 2223, PUSHS , Operand: You can now raise 
+Offset: 2224, PUSHS , Operand: <col=000080>
+Offset: 2225, PUSHS , Operand: giant crabs
+Offset: 2226, PUSHS , Operand: </col>
+Offset: 2227, PUSHS , Operand: .
+Offset: 2228, CONCAT , Operand: 5
+Offset: 2229, RETURN , Operand: 0
+Offset: 2230, GOTO , Operand: 151
+Offset: 2231, PUSHI , Operand: 50
+Offset: 2232, PUSHI , Operand: 12485
+Offset: 2233, PUSHS , Operand: Raven
+Offset: 2234, PUSHS , Operand: You can now raise 
+Offset: 2235, PUSHS , Operand: <col=000080>
+Offset: 2236, PUSHS , Operand: ravens
+Offset: 2237, PUSHS , Operand: </col>
+Offset: 2238, PUSHS , Operand: .
+Offset: 2239, CONCAT , Operand: 5
+Offset: 2240, RETURN , Operand: 0
+Offset: 2241, GOTO , Operand: 140
+Offset: 2242, PUSHI , Operand: 60
+Offset: 2243, PUSHI , Operand: 12200
+Offset: 2244, PUSHS , Operand: Squirrel
+Offset: 2245, PUSHS , Operand: You can now raise 
+Offset: 2246, PUSHS , Operand: <col=000080>
+Offset: 2247, PUSHS , Operand: squirrels
+Offset: 2248, PUSHS , Operand: </col>
+Offset: 2249, PUSHS , Operand: .
+Offset: 2250, CONCAT , Operand: 5
+Offset: 2251, RETURN , Operand: 0
+Offset: 2252, GOTO , Operand: 129
+Offset: 2253, PUSHI , Operand: 70
+Offset: 2254, PUSHI , Operand: 12185
+Offset: 2255, PUSHS , Operand: Saradomin owl
+Offset: 2256, PUSHS , Operand: You can now raise 
+Offset: 2257, PUSHS , Operand: <col=000080>
+Offset: 2258, PUSHS , Operand: Saradomin owls
+Offset: 2259, PUSHS , Operand: </col>
+Offset: 2260, PUSHS , Operand: .
+Offset: 2261, CONCAT , Operand: 5
+Offset: 2262, RETURN , Operand: 0
+Offset: 2263, GOTO , Operand: 118
+Offset: 2264, PUSHI , Operand: 70
+Offset: 2265, PUSHI , Operand: 12187
+Offset: 2266, PUSHS , Operand: Guthix raptor
+Offset: 2267, PUSHS , Operand: You can now raise 
+Offset: 2268, PUSHS , Operand: <col=000080>
+Offset: 2269, PUSHS , Operand: Guthix raptors
+Offset: 2270, PUSHS , Operand: </col>
+Offset: 2271, PUSHS , Operand: .
+Offset: 2272, CONCAT , Operand: 5
+Offset: 2273, RETURN , Operand: 0
+Offset: 2274, GOTO , Operand: 107
+Offset: 2275, PUSHI , Operand: 70
+Offset: 2276, PUSHI , Operand: 12186
+Offset: 2277, PUSHS , Operand: Zamorak hawk
+Offset: 2278, PUSHS , Operand: You can now raise 
+Offset: 2279, PUSHS , Operand: <col=000080>
+Offset: 2280, PUSHS , Operand: Zamorak hawks
+Offset: 2281, PUSHS , Operand: </col>
+Offset: 2282, PUSHS , Operand: .
+Offset: 2283, CONCAT , Operand: 5
+Offset: 2284, RETURN , Operand: 0
+Offset: 2285, GOTO , Operand: 96
+Offset: 2286, PUSHI , Operand: 71
+Offset: 2287, PUSHI , Operand: 13336
+Offset: 2288, PUSHS , Operand: Ex-ex-parrot
+Offset: 2289, PUSHS , Operand: <br>
+Offset: 2290, PUSHS , Operand:  (after Rocking Out)
+Offset: 2291, CONCAT , Operand: 3
+Offset: 2292, PUSHS , Operand: You can now raise 
+Offset: 2293, PUSHS , Operand: <col=000080>
+Offset: 2294, PUSHS , Operand: ex-ex-parrots
+Offset: 2295, PUSHS , Operand: </col>
+Offset: 2296, PUSHS , Operand:  (after Rocking Out).
+Offset: 2297, CONCAT , Operand: 5
+Offset: 2298, RETURN , Operand: 0
+Offset: 2299, GOTO , Operand: 82
+Offset: 2300, PUSHI , Operand: 72
+Offset: 2301, PUSHI , Operand: 14627
+Offset: 2302, PUSHS , Operand: Cute phoenix eggling
+Offset: 2303, PUSHS , Operand: <br>
+Offset: 2304, PUSHS , Operand:  (after In Pyre Need)
+Offset: 2305, CONCAT , Operand: 3
+Offset: 2306, PUSHS , Operand: You can now raise 
+Offset: 2307, PUSHS , Operand: <col=000080>
+Offset: 2308, PUSHS , Operand: cute phoenix egglings
+Offset: 2309, PUSHS , Operand: </col>
+Offset: 2310, PUSHS , Operand:  (after In Pyre Need).
+Offset: 2311, CONCAT , Operand: 5
+Offset: 2312, RETURN , Operand: 0
+Offset: 2313, GOTO , Operand: 68
+Offset: 2314, PUSHI , Operand: 72
+Offset: 2315, PUSHI , Operand: 14626
+Offset: 2316, PUSHS , Operand: Mean phoenix eggling
+Offset: 2317, PUSHS , Operand: <br>
+Offset: 2318, PUSHS , Operand:  (after In Pyre Need)
+Offset: 2319, CONCAT , Operand: 3
+Offset: 2320, PUSHS , Operand: You can now raise 
+Offset: 2321, PUSHS , Operand: <col=000080>
+Offset: 2322, PUSHS , Operand: mean phoenix egglings
+Offset: 2323, PUSHS , Operand: </col>
+Offset: 2324, PUSHS , Operand:  (after In Pyre Need).
+Offset: 2325, CONCAT , Operand: 5
+Offset: 2326, RETURN , Operand: 0
+Offset: 2327, GOTO , Operand: 54
+Offset: 2328, PUSHI , Operand: 80
+Offset: 2329, PUSHI , Operand: 12199
+Offset: 2330, PUSHS , Operand: Raccoon
+Offset: 2331, PUSHS , Operand: You can now raise 
+Offset: 2332, PUSHS , Operand: <col=000080>
+Offset: 2333, PUSHS , Operand: raccoons
+Offset: 2334, PUSHS , Operand: </col>
+Offset: 2335, PUSHS , Operand: .
+Offset: 2336, CONCAT , Operand: 5
+Offset: 2337, RETURN , Operand: 0
+Offset: 2338, GOTO , Operand: 43
+Offset: 2339, PUSHI , Operand: 85
+Offset: 2340, PUSHI , Operand: 12190
+Offset: 2341, PUSHS , Operand: Vulture
+Offset: 2342, PUSHS , Operand: You can now raise 
+Offset: 2343, PUSHS , Operand: <col=000080>
+Offset: 2344, PUSHS , Operand: vultures
+Offset: 2345, PUSHS , Operand: </col>
+Offset: 2346, PUSHS , Operand: .
+Offset: 2347, CONCAT , Operand: 5
+Offset: 2348, RETURN , Operand: 0
+Offset: 2349, GOTO , Operand: 32
+Offset: 2350, PUSHI , Operand: 90
+Offset: 2351, PUSHI , Operand: 12203
+Offset: 2352, PUSHS , Operand: Chameleon
+Offset: 2353, PUSHS , Operand: You can now raise 
+Offset: 2354, PUSHS , Operand: <col=000080>
+Offset: 2355, PUSHS , Operand: chameleons
+Offset: 2356, PUSHS , Operand: </col>
+Offset: 2357, PUSHS , Operand: .
+Offset: 2358, CONCAT , Operand: 5
+Offset: 2359, RETURN , Operand: 0
+Offset: 2360, GOTO , Operand: 21
+Offset: 2361, PUSHI , Operand: 95
+Offset: 2362, PUSHI , Operand: 12201
+Offset: 2363, PUSHS , Operand: Monkey
+Offset: 2364, PUSHS , Operand: You can now raise 
+Offset: 2365, PUSHS , Operand: <col=000080>
+Offset: 2366, PUSHS , Operand: monkeys
+Offset: 2367, PUSHS , Operand: </col>
+Offset: 2368, PUSHS , Operand: .
+Offset: 2369, CONCAT , Operand: 5
+Offset: 2370, RETURN , Operand: 0
+Offset: 2371, GOTO , Operand: 10
+Offset: 2372, PUSHI , Operand: 99
+Offset: 2373, PUSHI , Operand: 12197
+Offset: 2374, PUSHS , Operand: Dragon
+Offset: 2375, PUSHS , Operand: You can now raise 
+Offset: 2376, PUSHS , Operand: <col=000080>
+Offset: 2377, PUSHS , Operand: dragons
+Offset: 2378, PUSHS , Operand: </col>
+Offset: 2379, PUSHS , Operand: .
+Offset: 2380, CONCAT , Operand: 5
+Offset: 2381, RETURN , Operand: 0
+Offset: 2382, GOTO , Operand: 1820
+Offset: 2383, LOADINT , Operand: 1
+Offset: 2384, SWITCH , Operand: 4
+Offset: 2385, GOTO , Operand: 172
+Offset: 2386, PUSHI , Operand: 10
+Offset: 2387, PUSHI , Operand: 12204
+Offset: 2388, PUSHS , Operand: Antlers
+Offset: 2389, PUSHS , Operand: You can now use 
+Offset: 2390, PUSHS , Operand: <col=000080>
+Offset: 2391, PUSHS , Operand: antlers
+Offset: 2392, PUSHS , Operand: </col>
+Offset: 2393, PUSHS , Operand: .
+Offset: 2394, CONCAT , Operand: 5
+Offset: 2395, RETURN , Operand: 0
+Offset: 2396, GOTO , Operand: 161
+Offset: 2397, PUSHI , Operand: 20
+Offset: 2398, PUSHI , Operand: 1161
+Offset: 2399, PUSHS , Operand: Adamant full helm
+Offset: 2400, PUSHS , Operand: <br>
+Offset: 2401, PUSHS , Operand:  (with 30 Defence)
+Offset: 2402, CONCAT , Operand: 3
+Offset: 2403, PUSHS , Operand: You can now have 
+Offset: 2404, PUSHS , Operand: <col=000080>
+Offset: 2405, PUSHS , Operand: adamant full helms
+Offset: 2406, PUSHS , Operand: </col>
+Offset: 2407, PUSHS , Operand:  enchanted to hold Summoning scrolls. (You also need level 30 Defence).
+Offset: 2408, CONCAT , Operand: 5
+Offset: 2409, RETURN , Operand: 0
+Offset: 2410, GOTO , Operand: 147
+Offset: 2411, PUSHI , Operand: 20
+Offset: 2412, PUSHI , Operand: 6326
+Offset: 2413, PUSHS , Operand: Snakeskin bandana
+Offset: 2414, PUSHS , Operand: <br>
+Offset: 2415, PUSHS , Operand:  (with 30 Defence and 30 Ranged)
+Offset: 2416, CONCAT , Operand: 3
+Offset: 2417, PUSHS , Operand: You can now have 
+Offset: 2418, PUSHS , Operand: <col=000080>
+Offset: 2419, PUSHS , Operand: snakeskin bandanas
+Offset: 2420, PUSHS , Operand: </col>
+Offset: 2421, PUSHS , Operand:  enchanted to hold Summoning scrolls. (You also need level 30 Defence and level 30 Ranged).
+Offset: 2422, CONCAT , Operand: 5
+Offset: 2423, RETURN , Operand: 0
+Offset: 2424, GOTO , Operand: 133
+Offset: 2425, PUSHI , Operand: 20
+Offset: 2426, PUSHI , Operand: 14636
+Offset: 2427, PUSHS , Operand: Slayer helmet
+Offset: 2428, PUSHS , Operand: <br>
+Offset: 2429, PUSHS , Operand:  (with 10 Defence)
+Offset: 2430, CONCAT , Operand: 3
+Offset: 2431, PUSHS , Operand: You can now have 
+Offset: 2432, PUSHS , Operand: <col=000080>
+Offset: 2433, PUSHS , Operand: Slayer helmets
+Offset: 2434, PUSHS , Operand: </col>
+Offset: 2435, PUSHS , Operand:  enchanted to hold Summoning scrolls. (You also need level 10 Defence).
+Offset: 2436, CONCAT , Operand: 5
+Offset: 2437, RETURN , Operand: 0
+Offset: 2438, GOTO , Operand: 119
+Offset: 2439, PUSHI , Operand: 30
+Offset: 2440, PUSHI , Operand: 12207
+Offset: 2441, PUSHS , Operand: Lizard skull
+Offset: 2442, PUSHS , Operand: You can now use 
+Offset: 2443, PUSHS , Operand: <col=000080>
+Offset: 2444, PUSHS , Operand: lizard skulls
+Offset: 2445, PUSHS , Operand: </col>
+Offset: 2446, PUSHS , Operand: .
+Offset: 2447, CONCAT , Operand: 5
+Offset: 2448, RETURN , Operand: 0
+Offset: 2449, GOTO , Operand: 108
+Offset: 2450, PUSHI , Operand: 30
+Offset: 2451, PUSHI , Operand: 3385
+Offset: 2452, PUSHS , Operand: Splitbark helm
+Offset: 2453, PUSHS , Operand: <br>
+Offset: 2454, PUSHS , Operand:  (with 40 Defence and 40 Magic)
+Offset: 2455, CONCAT , Operand: 3
+Offset: 2456, PUSHS , Operand: You can now have 
+Offset: 2457, PUSHS , Operand: <col=000080>
+Offset: 2458, PUSHS , Operand: splitbark helms
+Offset: 2459, PUSHS , Operand: </col>
+Offset: 2460, PUSHS , Operand:  enchanted to hold Summoning scrolls. (You also need level 40 Defence and level 40 Magic).
+Offset: 2461, CONCAT , Operand: 5
+Offset: 2462, RETURN , Operand: 0
+Offset: 2463, GOTO , Operand: 94
+Offset: 2464, PUSHI , Operand: 30
+Offset: 2465, PUSHI , Operand: 1163
+Offset: 2466, PUSHS , Operand: Rune full helm
+Offset: 2467, PUSHS , Operand: <br>
+Offset: 2468, PUSHS , Operand:  (with 40 Defence)
+Offset: 2469, CONCAT , Operand: 3
+Offset: 2470, PUSHS , Operand: You can now have 
+Offset: 2471, PUSHS , Operand: <col=000080>
+Offset: 2472, PUSHS , Operand: rune full helms
+Offset: 2473, PUSHS , Operand: </col>
+Offset: 2474, PUSHS , Operand:  enchanted to hold Summoning scrolls. (You also need level 40 Defence).
+Offset: 2475, CONCAT , Operand: 5
+Offset: 2476, RETURN , Operand: 0
+Offset: 2477, GOTO , Operand: 80
+Offset: 2478, PUSHI , Operand: 35
+Offset: 2479, PUSHI , Operand: 3748
+Offset: 2480, PUSHS , Operand: Fremennik helm
+Offset: 2481, PUSHS , Operand: <br>
+Offset: 2482, PUSHS , Operand:  (after Fremennik Trials with 45 Defence)
+Offset: 2483, CONCAT , Operand: 3
+Offset: 2484, PUSHS , Operand: You can now have 
+Offset: 2485, PUSHS , Operand: <col=000080>
+Offset: 2486, PUSHS , Operand: Fremennik helms
+Offset: 2487, PUSHS , Operand: </col>
+Offset: 2488, PUSHS , Operand:  enchanted to hold Summoning scrolls. (After Fremennik Trials and with level 45 Defence).
+Offset: 2489, CONCAT , Operand: 5
+Offset: 2490, RETURN , Operand: 0
+Offset: 2491, GOTO , Operand: 66
+Offset: 2492, PUSHI , Operand: 45
+Offset: 2493, PUSHI , Operand: 10828
+Offset: 2494, PUSHS , Operand: Helm of Neitiznot
+Offset: 2495, PUSHS , Operand: <br>
+Offset: 2496, PUSHS , Operand:  (after Fremennik Isles)
+Offset: 2497, CONCAT , Operand: 3
+Offset: 2498, PUSHS , Operand: You can now have the 
+Offset: 2499, PUSHS , Operand: <col=000080>
+Offset: 2500, PUSHS , Operand: Helm of Neitiznot
+Offset: 2501, PUSHS , Operand: </col>
+Offset: 2502, PUSHS , Operand:  enchanted to hold Summoning scrolls (after Fremennik Isles).
+Offset: 2503, CONCAT , Operand: 5
+Offset: 2504, RETURN , Operand: 0
+Offset: 2505, GOTO , Operand: 52
+Offset: 2506, PUSHI , Operand: 50
+Offset: 2507, PUSHI , Operand: 12210
+Offset: 2508, PUSHS , Operand: Feather headdress
+Offset: 2509, PUSHS , Operand: You can now use 
+Offset: 2510, PUSHS , Operand: <col=000080>
+Offset: 2511, PUSHS , Operand: feather headdresses
+Offset: 2512, PUSHS , Operand: </col>
+Offset: 2513, PUSHS , Operand: . (You also need Level 79 Crafting to make feather headdresses).
+Offset: 2514, CONCAT , Operand: 5
+Offset: 2515, RETURN , Operand: 0
+Offset: 2516, GOTO , Operand: 41
+Offset: 2517, PUSHI , Operand: 50
+Offset: 2518, PUSHI , Operand: 1149
+Offset: 2519, PUSHS , Operand: Dragon medium helm
+Offset: 2520, PUSHS , Operand: <br>
+Offset: 2521, PUSHS , Operand:  (with 60 Defence)
+Offset: 2522, CONCAT , Operand: 3
+Offset: 2523, PUSHS , Operand: You can now have 
+Offset: 2524, PUSHS , Operand: <col=000080>
+Offset: 2525, PUSHS , Operand: dragon medium helms
+Offset: 2526, PUSHS , Operand: </col>
+Offset: 2527, PUSHS , Operand:  enchanted to hold Summoning scrolls. (You also need level 60 Defence.)
+Offset: 2528, CONCAT , Operand: 5
+Offset: 2529, RETURN , Operand: 0
+Offset: 2530, GOTO , Operand: 27
+Offset: 2531, PUSHI , Operand: 55
+Offset: 2532, PUSHI , Operand: 9096
+Offset: 2533, PUSHS , Operand: Lunar helm
+Offset: 2534, PUSHS , Operand: <br>
+Offset: 2535, PUSHS , Operand:  (with 40 Defence and 65 Magic)
+Offset: 2536, CONCAT , Operand: 3
+Offset: 2537, PUSHS , Operand: You can now have 
+Offset: 2538, PUSHS , Operand: <col=000080>
+Offset: 2539, PUSHS , Operand: lunar helms
+Offset: 2540, PUSHS , Operand: </col>
+Offset: 2541, PUSHS , Operand:  enchanted to hold Summoning scrolls. (You also need level 40 Defence and level 65 Magic.)
+Offset: 2542, CONCAT , Operand: 5
+Offset: 2543, RETURN , Operand: 0
+Offset: 2544, GOTO , Operand: 13
+Offset: 2545, PUSHI , Operand: 60
+Offset: 2546, PUSHI , Operand: 11718
+Offset: 2547, PUSHS , Operand: Armadyl helm
+Offset: 2548, PUSHS , Operand: <br>
+Offset: 2549, PUSHS , Operand:  (with 70 Defence and 70 Ranged)
+Offset: 2550, CONCAT , Operand: 3
+Offset: 2551, PUSHS , Operand: You can now have 
+Offset: 2552, PUSHS , Operand: <col=000080>
+Offset: 2553, PUSHS , Operand: Armadyl helms
+Offset: 2554, PUSHS , Operand: </col>
+Offset: 2555, PUSHS , Operand:  enchanted to hold Summoning scrolls. (You also need level 70 Defence and level 70 Ranged.)
+Offset: 2556, CONCAT , Operand: 5
+Offset: 2557, RETURN , Operand: 0
+Offset: 2558, GOTO , Operand: 1644
+Offset: 2559, LOADINT , Operand: 1
+Offset: 2560, SWITCH , Operand: 5
+Offset: 2561, GOTO , Operand: 43
+Offset: 2562, PUSHI , Operand: 91
+Offset: 2563, PUSHI , Operand: 18778
+Offset: 2564, PUSHS , Operand: Starved ancient effigies
+Offset: 2565, PUSHS , Operand: You can now investigate 
+Offset: 2566, PUSHS , Operand: <col=000080>
+Offset: 2567, PUSHS , Operand: starved ancient effigies
+Offset: 2568, PUSHS , Operand: </col>
+Offset: 2569, PUSHS , Operand:  using your knowledge of Summoning.
+Offset: 2570, CONCAT , Operand: 5
+Offset: 2571, RETURN , Operand: 0
+Offset: 2572, GOTO , Operand: 32
+Offset: 2573, PUSHI , Operand: 93
+Offset: 2574, PUSHI , Operand: 18779
+Offset: 2575, PUSHS , Operand: Nourished ancient effigies
+Offset: 2576, PUSHS , Operand: You can now investigate 
+Offset: 2577, PUSHS , Operand: <col=000080>
+Offset: 2578, PUSHS , Operand: nourished ancient effigies
+Offset: 2579, PUSHS , Operand: </col>
+Offset: 2580, PUSHS , Operand:  using your knowledge of Summoning.
+Offset: 2581, CONCAT , Operand: 5
+Offset: 2582, RETURN , Operand: 0
+Offset: 2583, GOTO , Operand: 21
+Offset: 2584, PUSHI , Operand: 95
+Offset: 2585, PUSHI , Operand: 18780
+Offset: 2586, PUSHS , Operand: Sated ancient effigies
+Offset: 2587, PUSHS , Operand: You can now investigate 
+Offset: 2588, PUSHS , Operand: <col=000080>
+Offset: 2589, PUSHS , Operand: sated ancient effigies
+Offset: 2590, PUSHS , Operand: </col>
+Offset: 2591, PUSHS , Operand:  using your knowledge of Summoning.
+Offset: 2592, CONCAT , Operand: 5
+Offset: 2593, RETURN , Operand: 0
+Offset: 2594, GOTO , Operand: 10
+Offset: 2595, PUSHI , Operand: 97
+Offset: 2596, PUSHI , Operand: 18781
+Offset: 2597, PUSHS , Operand: Gorged ancient effigies
+Offset: 2598, PUSHS , Operand: You can now investigate 
+Offset: 2599, PUSHS , Operand: <col=000080>
+Offset: 2600, PUSHS , Operand: gorged ancient effigies
+Offset: 2601, PUSHS , Operand: </col>
+Offset: 2602, PUSHS , Operand:  using your knowledge of Summoning.
+Offset: 2603, CONCAT , Operand: 5
+Offset: 2604, RETURN , Operand: 0
+Offset: 2605, GOTO , Operand: 1597
+Offset: 2606, LOADINT , Operand: 1
+Offset: 2607, SWITCH , Operand: 6
+Offset: 2608, GOTO , Operand: 54
+Offset: 2609, PUSHI , Operand: 1
+Offset: 2610, PUSHI , Operand: 14422
+Offset: 2611, PUSHS , Operand: Stealing Creation - class 1 clay being - Strength XP
+Offset: 2612, PUSHS , Operand: You can now summon 
+Offset: 2613, PUSHS , Operand: <col=000080>
+Offset: 2614, PUSHS , Operand: class 1 clay beings
+Offset: 2615, PUSHS , Operand: </col>
+Offset: 2616, PUSHS , Operand:  in Stealing Creation.
+Offset: 2617, CONCAT , Operand: 5
+Offset: 2618, RETURN , Operand: 0
+Offset: 2619, GOTO , Operand: 43
+Offset: 2620, PUSHI , Operand: 20
+Offset: 2621, PUSHI , Operand: 14424
+Offset: 2622, PUSHS , Operand: Stealing Creation - class 2 clay being - Strength XP
+Offset: 2623, PUSHS , Operand: You can now summon 
+Offset: 2624, PUSHS , Operand: <col=000080>
+Offset: 2625, PUSHS , Operand: class 2 clay beings
+Offset: 2626, PUSHS , Operand: </col>
+Offset: 2627, PUSHS , Operand:  in Stealing Creation.
+Offset: 2628, CONCAT , Operand: 5
+Offset: 2629, RETURN , Operand: 0
+Offset: 2630, GOTO , Operand: 32
+Offset: 2631, PUSHI , Operand: 40
+Offset: 2632, PUSHI , Operand: 14426
+Offset: 2633, PUSHS , Operand: Stealing Creation - class 3 clay being - Strength XP
+Offset: 2634, PUSHS , Operand: You can now summon 
+Offset: 2635, PUSHS , Operand: <col=000080>
+Offset: 2636, PUSHS , Operand: class 3 clay beings
+Offset: 2637, PUSHS , Operand: </col>
+Offset: 2638, PUSHS , Operand:  in Stealing Creation.
+Offset: 2639, CONCAT , Operand: 5
+Offset: 2640, RETURN , Operand: 0
+Offset: 2641, GOTO , Operand: 21
+Offset: 2642, PUSHI , Operand: 60
+Offset: 2643, PUSHI , Operand: 14428
+Offset: 2644, PUSHS , Operand: Stealing Creation - class 4 clay being - Strength XP
+Offset: 2645, PUSHS , Operand: You can now summon 
+Offset: 2646, PUSHS , Operand: <col=000080>
+Offset: 2647, PUSHS , Operand: class 4 clay beings
+Offset: 2648, PUSHS , Operand: </col>
+Offset: 2649, PUSHS , Operand:  in Stealing Creation.
+Offset: 2650, CONCAT , Operand: 5
+Offset: 2651, RETURN , Operand: 0
+Offset: 2652, GOTO , Operand: 10
+Offset: 2653, PUSHI , Operand: 80
+Offset: 2654, PUSHI , Operand: 14430
+Offset: 2655, PUSHS , Operand: Stealing Creation - class 5 clay being - Strength XP
+Offset: 2656, PUSHS , Operand: You can now summon 
+Offset: 2657, PUSHS , Operand: <col=000080>
+Offset: 2658, PUSHS , Operand: class 5 clay beings
+Offset: 2659, PUSHS , Operand: </col>
+Offset: 2660, PUSHS , Operand:  in Stealing Creation.
+Offset: 2661, CONCAT , Operand: 5
+Offset: 2662, RETURN , Operand: 0
+Offset: 2663, GOTO , Operand: 1539
+Offset: 2664, LOADINT , Operand: 1
+Offset: 2665, SWITCH , Operand: 7
+Offset: 2666, GOTO , Operand: 1508
+Offset: 2667, PUSHI , Operand: -1
+Offset: 2668, PUSHI , Operand: 15707
+Offset: 2669, PUSHS , Operand: Dungeoneering skill tasks
+Offset: 2670, PUSHS , Operand: <br>
+Offset: 2671, PUSHS , Operand: As your Summoning level increases, you will be able to attempt higher-level summoning tasks within Daemonheim. You will also be more likely to succeed when attempting summoning tasks within Daemonheim.
+Offset: 2672, CONCAT , Operand: 3
+Offset: 2673, PUSHS , Operand: 
+Offset: 2674, RETURN , Operand: 0
+Offset: 2675, GOTO , Operand: 1499
+Offset: 2676, PUSHI , Operand: 1
+Offset: 2677, PUSHI , Operand: 17935
+Offset: 2678, PUSHS , Operand: Cub bloodrager (Melee, tier 1)
+Offset: 2679, PUSHS , Operand: <br>
+Offset: 2680, PUSHS , Operand: Gold charm, novite ore
+Offset: 2681, CONCAT , Operand: 3
+Offset: 2682, PUSHS , Operand: You can now infuse 
+Offset: 2683, PUSHS , Operand: <col=000080>
+Offset: 2684, PUSHS , Operand: cub bloodrager pouches
+Offset: 2685, PUSHS , Operand: </col>
+Offset: 2686, PUSHS , Operand:  within Daemonheim.
+Offset: 2687, CONCAT , Operand: 5
+Offset: 2688, RETURN , Operand: 0
+Offset: 2689, GOTO , Operand: 1485
+Offset: 2690, PUSHI , Operand: 1
+Offset: 2691, PUSHI , Operand: 18027
+Offset: 2692, PUSHS , Operand: Sundering Strike (Tier 1) scroll
+Offset: 2693, PUSHS , Operand: You can now use 
+Offset: 2694, PUSHS , Operand: <col=000080>
+Offset: 2695, PUSHS , Operand: Sundering Strike (Tier 1) scrolls
+Offset: 2696, PUSHS , Operand: </col>
+Offset: 2697, PUSHS , Operand:  within Daemonheim.
+Offset: 2698, CONCAT , Operand: 5
+Offset: 2699, RETURN , Operand: 0
+Offset: 2700, GOTO , Operand: 1474
+Offset: 2701, PUSHI , Operand: 2
+Offset: 2702, PUSHI , Operand: 17985
+Offset: 2703, PUSHS , Operand: Cub deathslinger (Ranged, tier 1)
+Offset: 2704, PUSHS , Operand: <br>
+Offset: 2705, PUSHS , Operand: Gold charm, tangle gum branches
+Offset: 2706, CONCAT , Operand: 3
+Offset: 2707, PUSHS , Operand: You can now infuse 
+Offset: 2708, PUSHS , Operand: <col=000080>
+Offset: 2709, PUSHS , Operand: cub deathslinger pouches
+Offset: 2710, PUSHS , Operand: </col>
+Offset: 2711, PUSHS , Operand:  within Daemonheim.
+Offset: 2712, CONCAT , Operand: 5
+Offset: 2713, RETURN , Operand: 0
+Offset: 2714, GOTO , Operand: 1460
+Offset: 2715, PUSHI , Operand: 2
+Offset: 2716, PUSHI , Operand: 18037
+Offset: 2717, PUSHS , Operand: Poisonous Shot (Tier 1) scroll
+Offset: 2718, PUSHS , Operand: You can now use 
+Offset: 2719, PUSHS , Operand: <col=000080>
+Offset: 2720, PUSHS , Operand:  Poisonous Shot (Tier 1) scrolls
+Offset: 2721, PUSHS , Operand: </col>
+Offset: 2722, PUSHS , Operand:  within Daemonheim.
+Offset: 2723, CONCAT , Operand: 5
+Offset: 2724, RETURN , Operand: 0
+Offset: 2725, GOTO , Operand: 1449
+Offset: 2726, PUSHI , Operand: 3
+Offset: 2727, PUSHI , Operand: 17945
+Offset: 2728, PUSHS , Operand: Cub stormbringer (Magic, tier 1)
+Offset: 2729, PUSHS , Operand: <br>
+Offset: 2730, PUSHS , Operand: Gold charm, salve nettles
+Offset: 2731, CONCAT , Operand: 3
+Offset: 2732, PUSHS , Operand: You can now infuse 
+Offset: 2733, PUSHS , Operand: <col=000080>
+Offset: 2734, PUSHS , Operand: cub stormbringer pouches
+Offset: 2735, PUSHS , Operand: </col>
+Offset: 2736, PUSHS , Operand:  within Daemonheim.
+Offset: 2737, CONCAT , Operand: 5
+Offset: 2738, RETURN , Operand: 0
+Offset: 2739, GOTO , Operand: 1435
+Offset: 2740, PUSHI , Operand: 3
+Offset: 2741, PUSHI , Operand: 18047
+Offset: 2742, PUSHS , Operand: Snaring Wave (Tier 1) scroll
+Offset: 2743, PUSHS , Operand: You can now use 
+Offset: 2744, PUSHS , Operand: <col=000080>
+Offset: 2745, PUSHS , Operand:  Snaring Wave (Tier 1) scrolls
+Offset: 2746, PUSHS , Operand: </col>
+Offset: 2747, PUSHS , Operand:  within Daemonheim.
+Offset: 2748, CONCAT , Operand: 5
+Offset: 2749, RETURN , Operand: 0
+Offset: 2750, GOTO , Operand: 1424
+Offset: 2751, PUSHI , Operand: 5
+Offset: 2752, PUSHI , Operand: 17955
+Offset: 2753, PUSHS , Operand: Cub hoardstalker (Forager, tier 1)
+Offset: 2754, PUSHS , Operand: <br>
+Offset: 2755, PUSHS , Operand: Gold charm, protomastyx hide
+Offset: 2756, CONCAT , Operand: 3
+Offset: 2757, PUSHS , Operand: You can now infuse 
+Offset: 2758, PUSHS , Operand: <col=000080>
+Offset: 2759, PUSHS , Operand: cub hoardstalker pouches
+Offset: 2760, PUSHS , Operand: </col>
+Offset: 2761, PUSHS , Operand:  within Daemonheim.
+Offset: 2762, CONCAT , Operand: 5
+Offset: 2763, RETURN , Operand: 0
+Offset: 2764, GOTO , Operand: 1410
+Offset: 2765, PUSHI , Operand: 5
+Offset: 2766, PUSHI , Operand: 18057
+Offset: 2767, PUSHS , Operand: Aptitude (Tier 1) scroll
+Offset: 2768, PUSHS , Operand: You can now use 
+Offset: 2769, PUSHS , Operand: <col=000080>
+Offset: 2770, PUSHS , Operand:  Aptitude (Tier 1) scrolls
+Offset: 2771, PUSHS , Operand: </col>
+Offset: 2772, PUSHS , Operand:  within Daemonheim.
+Offset: 2773, CONCAT , Operand: 5
+Offset: 2774, RETURN , Operand: 0
+Offset: 2775, GOTO , Operand: 1399
+Offset: 2776, PUSHI , Operand: 7
+Offset: 2777, PUSHI , Operand: 17975
+Offset: 2778, PUSHS , Operand: Cub worldbearer (Beast of burden, tier 1)
+Offset: 2779, PUSHS , Operand: <br>
+Offset: 2780, PUSHS , Operand: Gold charm, protoleather torn bag
+Offset: 2781, CONCAT , Operand: 3
+Offset: 2782, PUSHS , Operand: You can now infuse 
+Offset: 2783, PUSHS , Operand: <col=000080>
+Offset: 2784, PUSHS , Operand: cub worldbearer pouches
+Offset: 2785, PUSHS , Operand: </col>
+Offset: 2786, PUSHS , Operand:  within Daemonheim.
+Offset: 2787, CONCAT , Operand: 5
+Offset: 2788, RETURN , Operand: 0
+Offset: 2789, GOTO , Operand: 1385
+Offset: 2790, PUSHI , Operand: 7
+Offset: 2791, PUSHI , Operand: 18067
+Offset: 2792, PUSHS , Operand: Second Wind (Tier 1) scroll
+Offset: 2793, PUSHS , Operand: You can now use 
+Offset: 2794, PUSHS , Operand: <col=000080>
+Offset: 2795, PUSHS , Operand:  Second Wind (Tier 1) scrolls
+Offset: 2796, PUSHS , Operand: </col>
+Offset: 2797, PUSHS , Operand:  within Daemonheim.
+Offset: 2798, CONCAT , Operand: 5
+Offset: 2799, RETURN , Operand: 0
+Offset: 2800, GOTO , Operand: 1374
+Offset: 2801, PUSHI , Operand: 9
+Offset: 2802, PUSHI , Operand: 17965
+Offset: 2803, PUSHS , Operand: Cub skinweaver (Healer, tier 1)
+Offset: 2804, PUSHS , Operand: <br>
+Offset: 2805, PUSHS , Operand: Gold charm, 2 cooked heim crabs
+Offset: 2806, CONCAT , Operand: 3
+Offset: 2807, PUSHS , Operand: You can now infuse 
+Offset: 2808, PUSHS , Operand: <col=000080>
+Offset: 2809, PUSHS , Operand: cub skinweaver pouches
+Offset: 2810, PUSHS , Operand: </col>
+Offset: 2811, PUSHS , Operand:  within Daemonheim.
+Offset: 2812, CONCAT , Operand: 5
+Offset: 2813, RETURN , Operand: 0
+Offset: 2814, GOTO , Operand: 1360
+Offset: 2815, PUSHI , Operand: 9
+Offset: 2816, PUSHI , Operand: 18077
+Offset: 2817, PUSHS , Operand: Glimmer of Light (Tier 1) scroll
+Offset: 2818, PUSHS , Operand: You can now use 
+Offset: 2819, PUSHS , Operand: <col=000080>
+Offset: 2820, PUSHS , Operand:  Glimmer of Light (Tier 1) scrolls
+Offset: 2821, PUSHS , Operand: </col>
+Offset: 2822, PUSHS , Operand:  within Daemonheim.
+Offset: 2823, CONCAT , Operand: 5
+Offset: 2824, RETURN , Operand: 0
+Offset: 2825, GOTO , Operand: 1349
+Offset: 2826, PUSHI , Operand: 11
+Offset: 2827, PUSHI , Operand: 17936
+Offset: 2828, PUSHS , Operand: Little bloodrager (Melee, tier 2)
+Offset: 2829, PUSHS , Operand: <br>
+Offset: 2830, PUSHS , Operand: Gold charm, bathus ore
+Offset: 2831, CONCAT , Operand: 3
+Offset: 2832, PUSHS , Operand: You can now infuse 
+Offset: 2833, PUSHS , Operand: <col=000080>
+Offset: 2834, PUSHS , Operand: little bloodrager pouches
+Offset: 2835, PUSHS , Operand: </col>
+Offset: 2836, PUSHS , Operand:  within Daemonheim.
+Offset: 2837, CONCAT , Operand: 5
+Offset: 2838, RETURN , Operand: 0
+Offset: 2839, GOTO , Operand: 1335
+Offset: 2840, PUSHI , Operand: 11
+Offset: 2841, PUSHI , Operand: 18028
+Offset: 2842, PUSHS , Operand: Sundering Strike (Tier 2) scroll
+Offset: 2843, PUSHS , Operand: You can now use 
+Offset: 2844, PUSHS , Operand: <col=000080>
+Offset: 2845, PUSHS , Operand:  Sundering Strike (Tier 2) scrolls
+Offset: 2846, PUSHS , Operand: </col>
+Offset: 2847, PUSHS , Operand:  within Daemonheim.
+Offset: 2848, CONCAT , Operand: 5
+Offset: 2849, RETURN , Operand: 0
+Offset: 2850, GOTO , Operand: 1324
+Offset: 2851, PUSHI , Operand: 12
+Offset: 2852, PUSHI , Operand: 17986
+Offset: 2853, PUSHS , Operand: Little deathslinger (Ranged, tier 2)
+Offset: 2854, PUSHS , Operand: <br>
+Offset: 2855, PUSHS , Operand: Gold charm, seeping elm branches
+Offset: 2856, CONCAT , Operand: 3
+Offset: 2857, PUSHS , Operand: You can now infuse 
+Offset: 2858, PUSHS , Operand: <col=000080>
+Offset: 2859, PUSHS , Operand: little deathslinger pouches
+Offset: 2860, PUSHS , Operand: </col>
+Offset: 2861, PUSHS , Operand:  within Daemonheim.
+Offset: 2862, CONCAT , Operand: 5
+Offset: 2863, RETURN , Operand: 0
+Offset: 2864, GOTO , Operand: 1310
+Offset: 2865, PUSHI , Operand: 12
+Offset: 2866, PUSHI , Operand: 18038
+Offset: 2867, PUSHS , Operand: Poisonous Shot (Tier 2) scroll
+Offset: 2868, PUSHS , Operand: You can now use 
+Offset: 2869, PUSHS , Operand: <col=000080>
+Offset: 2870, PUSHS , Operand:  Poisonous Shot (Tier 2) scrolls
+Offset: 2871, PUSHS , Operand: </col>
+Offset: 2872, PUSHS , Operand:  within Daemonheim.
+Offset: 2873, CONCAT , Operand: 5
+Offset: 2874, RETURN , Operand: 0
+Offset: 2875, GOTO , Operand: 1299
+Offset: 2876, PUSHI , Operand: 13
+Offset: 2877, PUSHI , Operand: 17946
+Offset: 2878, PUSHS , Operand: Little stormbringer (Magic, tier 2)
+Offset: 2879, PUSHS , Operand: <br>
+Offset: 2880, PUSHS , Operand: Gold charm, wildercress stems
+Offset: 2881, CONCAT , Operand: 3
+Offset: 2882, PUSHS , Operand: You can now infuse 
+Offset: 2883, PUSHS , Operand: <col=000080>
+Offset: 2884, PUSHS , Operand: little stormbringer pouches
+Offset: 2885, PUSHS , Operand: </col>
+Offset: 2886, PUSHS , Operand:  within Daemonheim.
+Offset: 2887, CONCAT , Operand: 5
+Offset: 2888, RETURN , Operand: 0
+Offset: 2889, GOTO , Operand: 1285
+Offset: 2890, PUSHI , Operand: 13
+Offset: 2891, PUSHI , Operand: 18048
+Offset: 2892, PUSHS , Operand: Snaring Wave (Tier 2) scroll
+Offset: 2893, PUSHS , Operand: You can now use 
+Offset: 2894, PUSHS , Operand: <col=000080>
+Offset: 2895, PUSHS , Operand:  Snaring Wave (Tier 2) scrolls
+Offset: 2896, PUSHS , Operand: </col>
+Offset: 2897, PUSHS , Operand:  within Daemonheim.
+Offset: 2898, CONCAT , Operand: 5
+Offset: 2899, RETURN , Operand: 0
+Offset: 2900, GOTO , Operand: 1274
+Offset: 2901, PUSHI , Operand: 15
+Offset: 2902, PUSHI , Operand: 17956
+Offset: 2903, PUSHS , Operand: Little hoardstalker (Forager, tier 2)
+Offset: 2904, PUSHS , Operand: <br>
+Offset: 2905, PUSHS , Operand: Gold charm, submastyx hide
+Offset: 2906, CONCAT , Operand: 3
+Offset: 2907, PUSHS , Operand: You can now infuse 
+Offset: 2908, PUSHS , Operand: <col=000080>
+Offset: 2909, PUSHS , Operand: little hoardstalker pouches
+Offset: 2910, PUSHS , Operand: </col>
+Offset: 2911, PUSHS , Operand:  within Daemonheim.
+Offset: 2912, CONCAT , Operand: 5
+Offset: 2913, RETURN , Operand: 0
+Offset: 2914, GOTO , Operand: 1260
+Offset: 2915, PUSHI , Operand: 15
+Offset: 2916, PUSHI , Operand: 18058
+Offset: 2917, PUSHS , Operand: Aptitude (Tier 2) scroll
+Offset: 2918, PUSHS , Operand: You can now use 
+Offset: 2919, PUSHS , Operand: <col=000080>
+Offset: 2920, PUSHS , Operand:  Aptitude (Tier 2) scrolls
+Offset: 2921, PUSHS , Operand: </col>
+Offset: 2922, PUSHS , Operand:  within Daemonheim.
+Offset: 2923, CONCAT , Operand: 5
+Offset: 2924, RETURN , Operand: 0
+Offset: 2925, GOTO , Operand: 1249
+Offset: 2926, PUSHI , Operand: 17
+Offset: 2927, PUSHI , Operand: 17976
+Offset: 2928, PUSHS , Operand: Little worldbearer (Beast of burden, tier 2)
+Offset: 2929, PUSHS , Operand: <br>
+Offset: 2930, PUSHS , Operand: Gold charm, subleather torn bag
+Offset: 2931, CONCAT , Operand: 3
+Offset: 2932, PUSHS , Operand: You can now infuse 
+Offset: 2933, PUSHS , Operand: <col=000080>
+Offset: 2934, PUSHS , Operand: little worldbearer pouches
+Offset: 2935, PUSHS , Operand: </col>
+Offset: 2936, PUSHS , Operand:  within Daemonheim.
+Offset: 2937, CONCAT , Operand: 5
+Offset: 2938, RETURN , Operand: 0
+Offset: 2939, GOTO , Operand: 1235
+Offset: 2940, PUSHI , Operand: 17
+Offset: 2941, PUSHI , Operand: 18068
+Offset: 2942, PUSHS , Operand: Second Wind (Tier 2) scroll
+Offset: 2943, PUSHS , Operand: You can now use 
+Offset: 2944, PUSHS , Operand: <col=000080>
+Offset: 2945, PUSHS , Operand:  Second Wind (Tier 2) scrolls
+Offset: 2946, PUSHS , Operand: </col>
+Offset: 2947, PUSHS , Operand:  within Daemonheim.
+Offset: 2948, CONCAT , Operand: 5
+Offset: 2949, RETURN , Operand: 0
+Offset: 2950, GOTO , Operand: 1224
+Offset: 2951, PUSHI , Operand: 19
+Offset: 2952, PUSHI , Operand: 17966
+Offset: 2953, PUSHS , Operand: Little skinweaver (Healer, tier 2)
+Offset: 2954, PUSHS , Operand: <br>
+Offset: 2955, PUSHS , Operand: Gold charm, 2 cooked red-eye
+Offset: 2956, CONCAT , Operand: 3
+Offset: 2957, PUSHS , Operand: You can now infuse 
+Offset: 2958, PUSHS , Operand: <col=000080>
+Offset: 2959, PUSHS , Operand: little skinweaver pouches
+Offset: 2960, PUSHS , Operand: </col>
+Offset: 2961, PUSHS , Operand:  within Daemonheim.
+Offset: 2962, CONCAT , Operand: 5
+Offset: 2963, RETURN , Operand: 0
+Offset: 2964, GOTO , Operand: 1210
+Offset: 2965, PUSHI , Operand: 19
+Offset: 2966, PUSHI , Operand: 18078
+Offset: 2967, PUSHS , Operand: Glimmer of Light (Tier 2) scroll
+Offset: 2968, PUSHS , Operand: You can now use 
+Offset: 2969, PUSHS , Operand: <col=000080>
+Offset: 2970, PUSHS , Operand:  Glimmer of Light (Tier 2) scrolls
+Offset: 2971, PUSHS , Operand: </col>
+Offset: 2972, PUSHS , Operand:  within Daemonheim.
+Offset: 2973, CONCAT , Operand: 5
+Offset: 2974, RETURN , Operand: 0
+Offset: 2975, GOTO , Operand: 1199
+Offset: 2976, PUSHI , Operand: 21
+Offset: 2977, PUSHI , Operand: 17937
+Offset: 2978, PUSHS , Operand: Na￯ve bloodrager (Melee, tier 3)
+Offset: 2979, PUSHS , Operand: <br>
+Offset: 2980, PUSHS , Operand: Gold charm, marmaros ore
+Offset: 2981, CONCAT , Operand: 3
+Offset: 2982, PUSHS , Operand: You can now infuse 
+Offset: 2983, PUSHS , Operand: <col=000080>
+Offset: 2984, PUSHS , Operand: na￯ve bloodrager pouches
+Offset: 2985, PUSHS , Operand: </col>
+Offset: 2986, PUSHS , Operand:  within Daemonheim.
+Offset: 2987, CONCAT , Operand: 5
+Offset: 2988, RETURN , Operand: 0
+Offset: 2989, GOTO , Operand: 1185
+Offset: 2990, PUSHI , Operand: 21
+Offset: 2991, PUSHI , Operand: 18029
+Offset: 2992, PUSHS , Operand: Sundering Strike (Tier 3) scroll
+Offset: 2993, PUSHS , Operand: You can now use 
+Offset: 2994, PUSHS , Operand: <col=000080>
+Offset: 2995, PUSHS , Operand:  Sundering Strike (Tier 3) scrolls
+Offset: 2996, PUSHS , Operand: </col>
+Offset: 2997, PUSHS , Operand:  within Daemonheim.
+Offset: 2998, CONCAT , Operand: 5
+Offset: 2999, RETURN , Operand: 0
+Offset: 3000, GOTO , Operand: 1174
+Offset: 3001, PUSHI , Operand: 22
+Offset: 3002, PUSHI , Operand: 17987
+Offset: 3003, PUSHS , Operand: Na￯ve deathslinger (Ranged, tier 3)
+Offset: 3004, PUSHS , Operand: <br>
+Offset: 3005, PUSHS , Operand: Gold charm, blood spindle branches
+Offset: 3006, CONCAT , Operand: 3
+Offset: 3007, PUSHS , Operand: You can now infuse 
+Offset: 3008, PUSHS , Operand: <col=000080>
+Offset: 3009, PUSHS , Operand: na￯ve deathslinger pouches
+Offset: 3010, PUSHS , Operand: </col>
+Offset: 3011, PUSHS , Operand:  within Daemonheim.
+Offset: 3012, CONCAT , Operand: 5
+Offset: 3013, RETURN , Operand: 0
+Offset: 3014, GOTO , Operand: 1160
+Offset: 3015, PUSHI , Operand: 22
+Offset: 3016, PUSHI , Operand: 18039
+Offset: 3017, PUSHS , Operand: Poisonous Shot (Tier 3) scroll
+Offset: 3018, PUSHS , Operand: You can now use 
+Offset: 3019, PUSHS , Operand: <col=000080>
+Offset: 3020, PUSHS , Operand:  Poisonous Shot (Tier 3) scrolls
+Offset: 3021, PUSHS , Operand: </col>
+Offset: 3022, PUSHS , Operand:  within Daemonheim.
+Offset: 3023, CONCAT , Operand: 5
+Offset: 3024, RETURN , Operand: 0
+Offset: 3025, GOTO , Operand: 1149
+Offset: 3026, PUSHI , Operand: 23
+Offset: 3027, PUSHI , Operand: 17947
+Offset: 3028, PUSHS , Operand: Na￯ve stormbringer (Magic, tier 3)
+Offset: 3029, PUSHS , Operand: <br>
+Offset: 3030, PUSHS , Operand: Gold charm, blightleaf gauze
+Offset: 3031, CONCAT , Operand: 3
+Offset: 3032, PUSHS , Operand: You can now infuse 
+Offset: 3033, PUSHS , Operand: <col=000080>
+Offset: 3034, PUSHS , Operand: na￯ve stormbringer pouches
+Offset: 3035, PUSHS , Operand: </col>
+Offset: 3036, PUSHS , Operand:  within Daemonheim.
+Offset: 3037, CONCAT , Operand: 5
+Offset: 3038, RETURN , Operand: 0
+Offset: 3039, GOTO , Operand: 1135
+Offset: 3040, PUSHI , Operand: 23
+Offset: 3041, PUSHI , Operand: 18049
+Offset: 3042, PUSHS , Operand: Snaring Wave (Tier 3) scroll
+Offset: 3043, PUSHS , Operand: You can now use 
+Offset: 3044, PUSHS , Operand: <col=000080>
+Offset: 3045, PUSHS , Operand:  Snaring Wave (Tier 3) scrolls
+Offset: 3046, PUSHS , Operand: </col>
+Offset: 3047, PUSHS , Operand:  within Daemonheim.
+Offset: 3048, CONCAT , Operand: 5
+Offset: 3049, RETURN , Operand: 0
+Offset: 3050, GOTO , Operand: 1124
+Offset: 3051, PUSHI , Operand: 25
+Offset: 3052, PUSHI , Operand: 17957
+Offset: 3053, PUSHS , Operand: Na￯ve hoardstalker (Forager, tier 3)
+Offset: 3054, PUSHS , Operand: <br>
+Offset: 3055, PUSHS , Operand: Gold charm, paramastyx hide
+Offset: 3056, CONCAT , Operand: 3
+Offset: 3057, PUSHS , Operand: You can now infuse 
+Offset: 3058, PUSHS , Operand: <col=000080>
+Offset: 3059, PUSHS , Operand: na￯ve hoardstalker pouches
+Offset: 3060, PUSHS , Operand: </col>
+Offset: 3061, PUSHS , Operand:  within Daemonheim.
+Offset: 3062, CONCAT , Operand: 5
+Offset: 3063, RETURN , Operand: 0
+Offset: 3064, GOTO , Operand: 1110
+Offset: 3065, PUSHI , Operand: 25
+Offset: 3066, PUSHI , Operand: 18059
+Offset: 3067, PUSHS , Operand: Aptitude (Tier 3) scroll
+Offset: 3068, PUSHS , Operand: You can now use 
+Offset: 3069, PUSHS , Operand: <col=000080>
+Offset: 3070, PUSHS , Operand:  Aptitude (Tier 3) scrolls
+Offset: 3071, PUSHS , Operand: </col>
+Offset: 3072, PUSHS , Operand:  within Daemonheim.
+Offset: 3073, CONCAT , Operand: 5
+Offset: 3074, RETURN , Operand: 0
+Offset: 3075, GOTO , Operand: 1099
+Offset: 3076, PUSHI , Operand: 27
+Offset: 3077, PUSHI , Operand: 17977
+Offset: 3078, PUSHS , Operand: Na￯ve worldbearer (Beast of burden, tier 3)
+Offset: 3079, PUSHS , Operand: <br>
+Offset: 3080, PUSHS , Operand: Gold charm, paraleather torn bag
+Offset: 3081, CONCAT , Operand: 3
+Offset: 3082, PUSHS , Operand: You can now infuse 
+Offset: 3083, PUSHS , Operand: <col=000080>
+Offset: 3084, PUSHS , Operand: na￯ve worldbearer pouches
+Offset: 3085, PUSHS , Operand: </col>
+Offset: 3086, PUSHS , Operand:  within Daemonheim.
+Offset: 3087, CONCAT , Operand: 5
+Offset: 3088, RETURN , Operand: 0
+Offset: 3089, GOTO , Operand: 1085
+Offset: 3090, PUSHI , Operand: 27
+Offset: 3091, PUSHI , Operand: 18069
+Offset: 3092, PUSHS , Operand: Second Wind (Tier 3) scroll
+Offset: 3093, PUSHS , Operand: You can now use 
+Offset: 3094, PUSHS , Operand: <col=000080>
+Offset: 3095, PUSHS , Operand:  Second Wind (Tier 3) scrolls
+Offset: 3096, PUSHS , Operand: </col>
+Offset: 3097, PUSHS , Operand:  within Daemonheim.
+Offset: 3098, CONCAT , Operand: 5
+Offset: 3099, RETURN , Operand: 0
+Offset: 3100, GOTO , Operand: 1074
+Offset: 3101, PUSHI , Operand: 29
+Offset: 3102, PUSHI , Operand: 17967
+Offset: 3103, PUSHS , Operand: Na￯ve skinweaver (Healer, tier 3)
+Offset: 3104, PUSHS , Operand: <br>
+Offset: 3105, PUSHS , Operand: Gold charm, 2 cooked dusk eels
+Offset: 3106, CONCAT , Operand: 3
+Offset: 3107, PUSHS , Operand: You can now infuse 
+Offset: 3108, PUSHS , Operand: <col=000080>
+Offset: 3109, PUSHS , Operand: na￯ve skinweaver pouches
+Offset: 3110, PUSHS , Operand: </col>
+Offset: 3111, PUSHS , Operand:  within Daemonheim.
+Offset: 3112, CONCAT , Operand: 5
+Offset: 3113, RETURN , Operand: 0
+Offset: 3114, GOTO , Operand: 1060
+Offset: 3115, PUSHI , Operand: 29
+Offset: 3116, PUSHI , Operand: 18079
+Offset: 3117, PUSHS , Operand: Glimmer of Light (Tier 3) scroll
+Offset: 3118, PUSHS , Operand: You can now use 
+Offset: 3119, PUSHS , Operand: <col=000080>
+Offset: 3120, PUSHS , Operand:  Glimmer of Light (Tier 3) scrolls
+Offset: 3121, PUSHS , Operand: </col>
+Offset: 3122, PUSHS , Operand:  within Daemonheim.
+Offset: 3123, CONCAT , Operand: 5
+Offset: 3124, RETURN , Operand: 0
+Offset: 3125, GOTO , Operand: 1049
+Offset: 3126, PUSHI , Operand: 31
+Offset: 3127, PUSHI , Operand: 17938
+Offset: 3128, PUSHS , Operand: Keen bloodrager (Melee, tier 4)
+Offset: 3129, PUSHS , Operand: <br>
+Offset: 3130, PUSHS , Operand: Green charm, kratonite ore
+Offset: 3131, CONCAT , Operand: 3
+Offset: 3132, PUSHS , Operand: You can now infuse 
+Offset: 3133, PUSHS , Operand: <col=000080>
+Offset: 3134, PUSHS , Operand: keen bloodrager pouches
+Offset: 3135, PUSHS , Operand: </col>
+Offset: 3136, PUSHS , Operand:  within Daemonheim.
+Offset: 3137, CONCAT , Operand: 5
+Offset: 3138, RETURN , Operand: 0
+Offset: 3139, GOTO , Operand: 1035
+Offset: 3140, PUSHI , Operand: 31
+Offset: 3141, PUSHI , Operand: 18030
+Offset: 3142, PUSHS , Operand: Sundering Strike (Tier 4) scroll
+Offset: 3143, PUSHS , Operand: You can now use 
+Offset: 3144, PUSHS , Operand: <col=000080>
+Offset: 3145, PUSHS , Operand:  Sundering Strike (Tier 4) scrolls
+Offset: 3146, PUSHS , Operand: </col>
+Offset: 3147, PUSHS , Operand:  within Daemonheim.
+Offset: 3148, CONCAT , Operand: 5
+Offset: 3149, RETURN , Operand: 0
+Offset: 3150, GOTO , Operand: 1024
+Offset: 3151, PUSHI , Operand: 32
+Offset: 3152, PUSHI , Operand: 17988
+Offset: 3153, PUSHS , Operand: Keen deathslinger (Ranged, tier 4)
+Offset: 3154, PUSHS , Operand: <br>
+Offset: 3155, PUSHS , Operand: Green charm, utuku branches
+Offset: 3156, CONCAT , Operand: 3
+Offset: 3157, PUSHS , Operand: You can now infuse 
+Offset: 3158, PUSHS , Operand: <col=000080>
+Offset: 3159, PUSHS , Operand: keen deathslinger pouches
+Offset: 3160, PUSHS , Operand: </col>
+Offset: 3161, PUSHS , Operand:  within Daemonheim.
+Offset: 3162, CONCAT , Operand: 5
+Offset: 3163, RETURN , Operand: 0
+Offset: 3164, GOTO , Operand: 1010
+Offset: 3165, PUSHI , Operand: 32
+Offset: 3166, PUSHI , Operand: 18040
+Offset: 3167, PUSHS , Operand: Poisonous Shot (Tier 4) scroll
+Offset: 3168, PUSHS , Operand: You can now use 
+Offset: 3169, PUSHS , Operand: <col=000080>
+Offset: 3170, PUSHS , Operand:  Poisonous Shot (Tier 4) scrolls
+Offset: 3171, PUSHS , Operand: </col>
+Offset: 3172, PUSHS , Operand:  within Daemonheim.
+Offset: 3173, CONCAT , Operand: 5
+Offset: 3174, RETURN , Operand: 0
+Offset: 3175, GOTO , Operand: 999
+Offset: 3176, PUSHI , Operand: 33
+Offset: 3177, PUSHI , Operand: 17948
+Offset: 3178, PUSHS , Operand: Keen stormbringer (Magic, tier 4)
+Offset: 3179, PUSHS , Operand: <br>
+Offset: 3180, PUSHS , Operand: Green charm, roseblood stems
+Offset: 3181, CONCAT , Operand: 3
+Offset: 3182, PUSHS , Operand: You can now infuse 
+Offset: 3183, PUSHS , Operand: <col=000080>
+Offset: 3184, PUSHS , Operand: keen stormbringer pouches
+Offset: 3185, PUSHS , Operand: </col>
+Offset: 3186, PUSHS , Operand:  within Daemonheim.
+Offset: 3187, CONCAT , Operand: 5
+Offset: 3188, RETURN , Operand: 0
+Offset: 3189, GOTO , Operand: 985
+Offset: 3190, PUSHI , Operand: 33
+Offset: 3191, PUSHI , Operand: 18050
+Offset: 3192, PUSHS , Operand: Snaring Wave (Tier 4) scroll
+Offset: 3193, PUSHS , Operand: You can now use 
+Offset: 3194, PUSHS , Operand: <col=000080>
+Offset: 3195, PUSHS , Operand:  Snaring Wave (Tier 4) scrolls
+Offset: 3196, PUSHS , Operand: </col>
+Offset: 3197, PUSHS , Operand:  within Daemonheim.
+Offset: 3198, CONCAT , Operand: 5
+Offset: 3199, RETURN , Operand: 0
+Offset: 3200, GOTO , Operand: 974
+Offset: 3201, PUSHI , Operand: 35
+Offset: 3202, PUSHI , Operand: 17958
+Offset: 3203, PUSHS , Operand: Keen hoardstalker (Forager, tier 4)
+Offset: 3204, PUSHS , Operand: <br>
+Offset: 3205, PUSHS , Operand: Green charm, archaemastyx hide
+Offset: 3206, CONCAT , Operand: 3
+Offset: 3207, PUSHS , Operand: You can now infuse 
+Offset: 3208, PUSHS , Operand: <col=000080>
+Offset: 3209, PUSHS , Operand: keen hoardstalker pouches
+Offset: 3210, PUSHS , Operand: </col>
+Offset: 3211, PUSHS , Operand:  within Daemonheim.
+Offset: 3212, CONCAT , Operand: 5
+Offset: 3213, RETURN , Operand: 0
+Offset: 3214, GOTO , Operand: 960
+Offset: 3215, PUSHI , Operand: 35
+Offset: 3216, PUSHI , Operand: 18060
+Offset: 3217, PUSHS , Operand: Aptitude (Tier 4) scroll
+Offset: 3218, PUSHS , Operand: You can now use 
+Offset: 3219, PUSHS , Operand: <col=000080>
+Offset: 3220, PUSHS , Operand:  Aptitude (Tier 4) scrolls
+Offset: 3221, PUSHS , Operand: </col>
+Offset: 3222, PUSHS , Operand:  within Daemonheim.
+Offset: 3223, CONCAT , Operand: 5
+Offset: 3224, RETURN , Operand: 0
+Offset: 3225, GOTO , Operand: 949
+Offset: 3226, PUSHI , Operand: 37
+Offset: 3227, PUSHI , Operand: 17978
+Offset: 3228, PUSHS , Operand: Keen worldbearer (Beast of burden, tier 4)
+Offset: 3229, PUSHS , Operand: <br>
+Offset: 3230, PUSHS , Operand: Green charm, archleather torn bag
+Offset: 3231, CONCAT , Operand: 3
+Offset: 3232, PUSHS , Operand: You can now infuse 
+Offset: 3233, PUSHS , Operand: <col=000080>
+Offset: 3234, PUSHS , Operand: keen worldbearer pouches
+Offset: 3235, PUSHS , Operand: </col>
+Offset: 3236, PUSHS , Operand:  within Daemonheim.
+Offset: 3237, CONCAT , Operand: 5
+Offset: 3238, RETURN , Operand: 0
+Offset: 3239, GOTO , Operand: 935
+Offset: 3240, PUSHI , Operand: 37
+Offset: 3241, PUSHI , Operand: 18070
+Offset: 3242, PUSHS , Operand: Second Wind (Tier 4) scroll
+Offset: 3243, PUSHS , Operand: You can now use 
+Offset: 3244, PUSHS , Operand: <col=000080>
+Offset: 3245, PUSHS , Operand:  Second Wind (Tier 4) scrolls
+Offset: 3246, PUSHS , Operand: </col>
+Offset: 3247, PUSHS , Operand:  within Daemonheim.
+Offset: 3248, CONCAT , Operand: 5
+Offset: 3249, RETURN , Operand: 0
+Offset: 3250, GOTO , Operand: 924
+Offset: 3251, PUSHI , Operand: 39
+Offset: 3252, PUSHI , Operand: 17968
+Offset: 3253, PUSHS , Operand: Keen skinweaver (Healer, tier 4)
+Offset: 3254, PUSHS , Operand: <br>
+Offset: 3255, PUSHS , Operand: Green charm, 2 cooked giant flatfish
+Offset: 3256, CONCAT , Operand: 3
+Offset: 3257, PUSHS , Operand: You can now infuse 
+Offset: 3258, PUSHS , Operand: <col=000080>
+Offset: 3259, PUSHS , Operand: keen skinweaver pouches
+Offset: 3260, PUSHS , Operand: </col>
+Offset: 3261, PUSHS , Operand:  within Daemonheim.
+Offset: 3262, CONCAT , Operand: 5
+Offset: 3263, RETURN , Operand: 0
+Offset: 3264, GOTO , Operand: 910
+Offset: 3265, PUSHI , Operand: 39
+Offset: 3266, PUSHI , Operand: 18080
+Offset: 3267, PUSHS , Operand: Glimmer of Light (Tier 4) scroll
+Offset: 3268, PUSHS , Operand: You can now use 
+Offset: 3269, PUSHS , Operand: <col=000080>
+Offset: 3270, PUSHS , Operand:  Glimmer of Light (Tier 4) scrolls
+Offset: 3271, PUSHS , Operand: </col>
+Offset: 3272, PUSHS , Operand:  within Daemonheim.
+Offset: 3273, CONCAT , Operand: 5
+Offset: 3274, RETURN , Operand: 0
+Offset: 3275, GOTO , Operand: 899
+Offset: 3276, PUSHI , Operand: 41
+Offset: 3277, PUSHI , Operand: 17939
+Offset: 3278, PUSHS , Operand: Brave bloodrager (Melee, tier 5)
+Offset: 3279, PUSHS , Operand: <br>
+Offset: 3280, PUSHS , Operand: Green charm, fractite ore
+Offset: 3281, CONCAT , Operand: 3
+Offset: 3282, PUSHS , Operand: You can now infuse 
+Offset: 3283, PUSHS , Operand: <col=000080>
+Offset: 3284, PUSHS , Operand: brave bloodrager pouches
+Offset: 3285, PUSHS , Operand: </col>
+Offset: 3286, PUSHS , Operand:  within Daemonheim.
+Offset: 3287, CONCAT , Operand: 5
+Offset: 3288, RETURN , Operand: 0
+Offset: 3289, GOTO , Operand: 885
+Offset: 3290, PUSHI , Operand: 41
+Offset: 3291, PUSHI , Operand: 18031
+Offset: 3292, PUSHS , Operand: Sundering Strike (Tier 5) scroll
+Offset: 3293, PUSHS , Operand: You can now use 
+Offset: 3294, PUSHS , Operand: <col=000080>
+Offset: 3295, PUSHS , Operand:  Sundering Strike (Tier 5) scrolls
+Offset: 3296, PUSHS , Operand: </col>
+Offset: 3297, PUSHS , Operand:  within Daemonheim.
+Offset: 3298, CONCAT , Operand: 5
+Offset: 3299, RETURN , Operand: 0
+Offset: 3300, GOTO , Operand: 874
+Offset: 3301, PUSHI , Operand: 42
+Offset: 3302, PUSHI , Operand: 17989
+Offset: 3303, PUSHS , Operand: Brave deathslinger (Ranged, tier 5)
+Offset: 3304, PUSHS , Operand: <br>
+Offset: 3305, PUSHS , Operand: Green charm, spinebeam branches
+Offset: 3306, CONCAT , Operand: 3
+Offset: 3307, PUSHS , Operand: You can now infuse 
+Offset: 3308, PUSHS , Operand: <col=000080>
+Offset: 3309, PUSHS , Operand: brave deathslinger pouches
+Offset: 3310, PUSHS , Operand: </col>
+Offset: 3311, PUSHS , Operand:  within Daemonheim.
+Offset: 3312, CONCAT , Operand: 5
+Offset: 3313, RETURN , Operand: 0
+Offset: 3314, GOTO , Operand: 860
+Offset: 3315, PUSHI , Operand: 42
+Offset: 3316, PUSHI , Operand: 18041
+Offset: 3317, PUSHS , Operand: Poisonous Shot (Tier 5) scroll
+Offset: 3318, PUSHS , Operand: You can now use 
+Offset: 3319, PUSHS , Operand: <col=000080>
+Offset: 3320, PUSHS , Operand:  Poisonous Shot (Tier 5) scrolls
+Offset: 3321, PUSHS , Operand: </col>
+Offset: 3322, PUSHS , Operand:  within Daemonheim.
+Offset: 3323, CONCAT , Operand: 5
+Offset: 3324, RETURN , Operand: 0
+Offset: 3325, GOTO , Operand: 849
+Offset: 3326, PUSHI , Operand: 43
+Offset: 3327, PUSHI , Operand: 17949
+Offset: 3328, PUSHS , Operand: Brave stormbringer (Magic, tier 5)
+Offset: 3329, PUSHS , Operand: <br>
+Offset: 3330, PUSHS , Operand: Green charm, bryll reeds
+Offset: 3331, CONCAT , Operand: 3
+Offset: 3332, PUSHS , Operand: You can now infuse 
+Offset: 3333, PUSHS , Operand: <col=000080>
+Offset: 3334, PUSHS , Operand: brave stormbringer pouches
+Offset: 3335, PUSHS , Operand: </col>
+Offset: 3336, PUSHS , Operand:  within Daemonheim.
+Offset: 3337, CONCAT , Operand: 5
+Offset: 3338, RETURN , Operand: 0
+Offset: 3339, GOTO , Operand: 835
+Offset: 3340, PUSHI , Operand: 43
+Offset: 3341, PUSHI , Operand: 18051
+Offset: 3342, PUSHS , Operand: Snaring Wave (Tier 5) scroll
+Offset: 3343, PUSHS , Operand: You can now use 
+Offset: 3344, PUSHS , Operand: <col=000080>
+Offset: 3345, PUSHS , Operand:  Snaring Wave (Tier 5) scrolls
+Offset: 3346, PUSHS , Operand: </col>
+Offset: 3347, PUSHS , Operand:  within Daemonheim.
+Offset: 3348, CONCAT , Operand: 5
+Offset: 3349, RETURN , Operand: 0
+Offset: 3350, GOTO , Operand: 824
+Offset: 3351, PUSHI , Operand: 45
+Offset: 3352, PUSHI , Operand: 17959
+Offset: 3353, PUSHS , Operand: Brave hoardstalker (Forager, tier 5)
+Offset: 3354, PUSHS , Operand: <br>
+Offset: 3355, PUSHS , Operand: Green charm, dromomastyx hide
+Offset: 3356, CONCAT , Operand: 3
+Offset: 3357, PUSHS , Operand: You can now infuse 
+Offset: 3358, PUSHS , Operand: <col=000080>
+Offset: 3359, PUSHS , Operand: brave hoardstalker pouches
+Offset: 3360, PUSHS , Operand: </col>
+Offset: 3361, PUSHS , Operand:  within Daemonheim.
+Offset: 3362, CONCAT , Operand: 5
+Offset: 3363, RETURN , Operand: 0
+Offset: 3364, GOTO , Operand: 810
+Offset: 3365, PUSHI , Operand: 45
+Offset: 3366, PUSHI , Operand: 18061
+Offset: 3367, PUSHS , Operand: Aptitude (Tier 5) scroll
+Offset: 3368, PUSHS , Operand: You can now use 
+Offset: 3369, PUSHS , Operand: <col=000080>
+Offset: 3370, PUSHS , Operand:  Aptitude (Tier 5) scrolls
+Offset: 3371, PUSHS , Operand: </col>
+Offset: 3372, PUSHS , Operand:  within Daemonheim.
+Offset: 3373, CONCAT , Operand: 5
+Offset: 3374, RETURN , Operand: 0
+Offset: 3375, GOTO , Operand: 799
+Offset: 3376, PUSHI , Operand: 47
+Offset: 3377, PUSHI , Operand: 17979
+Offset: 3378, PUSHS , Operand: Brave worldbearer (Beast of burden, tier 5)
+Offset: 3379, PUSHS , Operand: <br>
+Offset: 3380, PUSHS , Operand: Green charm, dromoleather torn bag
+Offset: 3381, CONCAT , Operand: 3
+Offset: 3382, PUSHS , Operand: You can now infuse 
+Offset: 3383, PUSHS , Operand: <col=000080>
+Offset: 3384, PUSHS , Operand: brave worldbearer pouches
+Offset: 3385, PUSHS , Operand: </col>
+Offset: 3386, PUSHS , Operand:  within Daemonheim.
+Offset: 3387, CONCAT , Operand: 5
+Offset: 3388, RETURN , Operand: 0
+Offset: 3389, GOTO , Operand: 785
+Offset: 3390, PUSHI , Operand: 47
+Offset: 3391, PUSHI , Operand: 18071
+Offset: 3392, PUSHS , Operand: Second Wind (Tier 5) scroll
+Offset: 3393, PUSHS , Operand: You can now use 
+Offset: 3394, PUSHS , Operand: <col=000080>
+Offset: 3395, PUSHS , Operand:  Second Wind (Tier 5) scrolls
+Offset: 3396, PUSHS , Operand: </col>
+Offset: 3397, PUSHS , Operand:  within Daemonheim.
+Offset: 3398, CONCAT , Operand: 5
+Offset: 3399, RETURN , Operand: 0
+Offset: 3400, GOTO , Operand: 774
+Offset: 3401, PUSHI , Operand: 49
+Offset: 3402, PUSHI , Operand: 17969
+Offset: 3403, PUSHS , Operand: Brave skinweaver (Healer, tier 5)
+Offset: 3404, PUSHS , Operand: <br>
+Offset: 3405, PUSHS , Operand: Green charm, 2 cooked short-finned eels
+Offset: 3406, CONCAT , Operand: 3
+Offset: 3407, PUSHS , Operand: You can now infuse 
+Offset: 3408, PUSHS , Operand: <col=000080>
+Offset: 3409, PUSHS , Operand: brave skinweaver pouches
+Offset: 3410, PUSHS , Operand: </col>
+Offset: 3411, PUSHS , Operand:  within Daemonheim.
+Offset: 3412, CONCAT , Operand: 5
+Offset: 3413, RETURN , Operand: 0
+Offset: 3414, GOTO , Operand: 760
+Offset: 3415, PUSHI , Operand: 49
+Offset: 3416, PUSHI , Operand: 18081
+Offset: 3417, PUSHS , Operand: Glimmer of Light (Tier 5) scroll
+Offset: 3418, PUSHS , Operand: You can now use 
+Offset: 3419, PUSHS , Operand: <col=000080>
+Offset: 3420, PUSHS , Operand:  Glimmer of Light (Tier 5) scrolls
+Offset: 3421, PUSHS , Operand: </col>
+Offset: 3422, PUSHS , Operand:  within Daemonheim.
+Offset: 3423, CONCAT , Operand: 5
+Offset: 3424, RETURN , Operand: 0
+Offset: 3425, GOTO , Operand: 749
+Offset: 3426, PUSHI , Operand: 51
+Offset: 3427, PUSHI , Operand: 17940
+Offset: 3428, PUSHS , Operand: Brah bloodrager (Melee, tier 6)
+Offset: 3429, PUSHS , Operand: <br>
+Offset: 3430, PUSHS , Operand: Green charm, zephyrium ore
+Offset: 3431, CONCAT , Operand: 3
+Offset: 3432, PUSHS , Operand: You can now infuse 
+Offset: 3433, PUSHS , Operand: <col=000080>
+Offset: 3434, PUSHS , Operand: brah bloodrager pouches
+Offset: 3435, PUSHS , Operand: </col>
+Offset: 3436, PUSHS , Operand:  within Daemonheim.
+Offset: 3437, CONCAT , Operand: 5
+Offset: 3438, RETURN , Operand: 0
+Offset: 3439, GOTO , Operand: 735
+Offset: 3440, PUSHI , Operand: 51
+Offset: 3441, PUSHI , Operand: 18032
+Offset: 3442, PUSHS , Operand: Sundering Strike (Tier 6) scroll
+Offset: 3443, PUSHS , Operand: You can now use 
+Offset: 3444, PUSHS , Operand: <col=000080>
+Offset: 3445, PUSHS , Operand:  Sundering Strike (Tier 6) scrolls
+Offset: 3446, PUSHS , Operand: </col>
+Offset: 3447, PUSHS , Operand:  within Daemonheim.
+Offset: 3448, CONCAT , Operand: 5
+Offset: 3449, RETURN , Operand: 0
+Offset: 3450, GOTO , Operand: 724
+Offset: 3451, PUSHI , Operand: 52
+Offset: 3452, PUSHI , Operand: 17990
+Offset: 3453, PUSHS , Operand: Brah deathslinger (Ranged, tier 6)
+Offset: 3454, PUSHS , Operand: <br>
+Offset: 3455, PUSHS , Operand: Green charm, bovistrangler branches
+Offset: 3456, CONCAT , Operand: 3
+Offset: 3457, PUSHS , Operand: You can now infuse 
+Offset: 3458, PUSHS , Operand: <col=000080>
+Offset: 3459, PUSHS , Operand: brah deathslinger pouches
+Offset: 3460, PUSHS , Operand: </col>
+Offset: 3461, PUSHS , Operand:  within Daemonheim.
+Offset: 3462, CONCAT , Operand: 5
+Offset: 3463, RETURN , Operand: 0
+Offset: 3464, GOTO , Operand: 710
+Offset: 3465, PUSHI , Operand: 52
+Offset: 3466, PUSHI , Operand: 18042
+Offset: 3467, PUSHS , Operand: Poisonous Shot (Tier 6) scroll
+Offset: 3468, PUSHS , Operand: You can now use 
+Offset: 3469, PUSHS , Operand: <col=000080>
+Offset: 3470, PUSHS , Operand:  Poisonous Shot (Tier 6) scrolls
+Offset: 3471, PUSHS , Operand: </col>
+Offset: 3472, PUSHS , Operand:  within Daemonheim.
+Offset: 3473, CONCAT , Operand: 5
+Offset: 3474, RETURN , Operand: 0
+Offset: 3475, GOTO , Operand: 699
+Offset: 3476, PUSHI , Operand: 53
+Offset: 3477, PUSHI , Operand: 17950
+Offset: 3478, PUSHS , Operand: Brah stormbringer (Magic, tier 6)
+Offset: 3479, PUSHS , Operand: <br>
+Offset: 3480, PUSHS , Operand: Green charm, duskweed sproutings
+Offset: 3481, CONCAT , Operand: 3
+Offset: 3482, PUSHS , Operand: You can now infuse 
+Offset: 3483, PUSHS , Operand: <col=000080>
+Offset: 3484, PUSHS , Operand: brah stormbringer pouches
+Offset: 3485, PUSHS , Operand: </col>
+Offset: 3486, PUSHS , Operand:  within Daemonheim.
+Offset: 3487, CONCAT , Operand: 5
+Offset: 3488, RETURN , Operand: 0
+Offset: 3489, GOTO , Operand: 685
+Offset: 3490, PUSHI , Operand: 53
+Offset: 3491, PUSHI , Operand: 18052
+Offset: 3492, PUSHS , Operand: Snaring Wave (Tier 6) scroll
+Offset: 3493, PUSHS , Operand: You can now use 
+Offset: 3494, PUSHS , Operand: <col=000080>
+Offset: 3495, PUSHS , Operand:  Snaring Wave (Tier 6) scrolls
+Offset: 3496, PUSHS , Operand: </col>
+Offset: 3497, PUSHS , Operand:  within Daemonheim.
+Offset: 3498, CONCAT , Operand: 5
+Offset: 3499, RETURN , Operand: 0
+Offset: 3500, GOTO , Operand: 674
+Offset: 3501, PUSHI , Operand: 55
+Offset: 3502, PUSHI , Operand: 17960
+Offset: 3503, PUSHS , Operand: Brah hoardstalker (Forager, tier 6)
+Offset: 3504, PUSHS , Operand: <br>
+Offset: 3505, PUSHS , Operand: Green charm, spinomastyx hide
+Offset: 3506, CONCAT , Operand: 3
+Offset: 3507, PUSHS , Operand: You can now infuse 
+Offset: 3508, PUSHS , Operand: <col=000080>
+Offset: 3509, PUSHS , Operand: brah hoardstalker pouches
+Offset: 3510, PUSHS , Operand: </col>
+Offset: 3511, PUSHS , Operand:  within Daemonheim.
+Offset: 3512, CONCAT , Operand: 5
+Offset: 3513, RETURN , Operand: 0
+Offset: 3514, GOTO , Operand: 660
+Offset: 3515, PUSHI , Operand: 55
+Offset: 3516, PUSHI , Operand: 18062
+Offset: 3517, PUSHS , Operand: Aptitude (Tier 6) scroll
+Offset: 3518, PUSHS , Operand: You can now use 
+Offset: 3519, PUSHS , Operand: <col=000080>
+Offset: 3520, PUSHS , Operand:  Aptitude (Tier 6) scrolls
+Offset: 3521, PUSHS , Operand: </col>
+Offset: 3522, PUSHS , Operand:  within Daemonheim.
+Offset: 3523, CONCAT , Operand: 5
+Offset: 3524, RETURN , Operand: 0
+Offset: 3525, GOTO , Operand: 649
+Offset: 3526, PUSHI , Operand: 57
+Offset: 3527, PUSHI , Operand: 17980
+Offset: 3528, PUSHS , Operand: Brah worldbearer (Beast of burden, tier 6)
+Offset: 3529, PUSHS , Operand: <br>
+Offset: 3530, PUSHS , Operand: Green charm, spinoleather torn bag
+Offset: 3531, CONCAT , Operand: 3
+Offset: 3532, PUSHS , Operand: You can now infuse 
+Offset: 3533, PUSHS , Operand: <col=000080>
+Offset: 3534, PUSHS , Operand: brah worldbearer pouches
+Offset: 3535, PUSHS , Operand: </col>
+Offset: 3536, PUSHS , Operand:  within Daemonheim.
+Offset: 3537, CONCAT , Operand: 5
+Offset: 3538, RETURN , Operand: 0
+Offset: 3539, GOTO , Operand: 635
+Offset: 3540, PUSHI , Operand: 57
+Offset: 3541, PUSHI , Operand: 18072
+Offset: 3542, PUSHS , Operand: Second Wind (Tier 6) scroll
+Offset: 3543, PUSHS , Operand: You can now use 
+Offset: 3544, PUSHS , Operand: <col=000080>
+Offset: 3545, PUSHS , Operand:  Second Wind (Tier 6) scrolls
+Offset: 3546, PUSHS , Operand: </col>
+Offset: 3547, PUSHS , Operand:  within Daemonheim.
+Offset: 3548, CONCAT , Operand: 5
+Offset: 3549, RETURN , Operand: 0
+Offset: 3550, GOTO , Operand: 624
+Offset: 3551, PUSHI , Operand: 59
+Offset: 3552, PUSHI , Operand: 17970
+Offset: 3553, PUSHS , Operand: Brah skinweaver (Healer, tier 6)
+Offset: 3554, PUSHS , Operand: <br>
+Offset: 3555, PUSHS , Operand: Green charm, 2 cooked web snippers
+Offset: 3556, CONCAT , Operand: 3
+Offset: 3557, PUSHS , Operand: You can now infuse 
+Offset: 3558, PUSHS , Operand: <col=000080>
+Offset: 3559, PUSHS , Operand: brah skinweaver pouches
+Offset: 3560, PUSHS , Operand: </col>
+Offset: 3561, PUSHS , Operand:  within Daemonheim.
+Offset: 3562, CONCAT , Operand: 5
+Offset: 3563, RETURN , Operand: 0
+Offset: 3564, GOTO , Operand: 610
+Offset: 3565, PUSHI , Operand: 59
+Offset: 3566, PUSHI , Operand: 18082
+Offset: 3567, PUSHS , Operand: Glimmer of Light (Tier 6) scroll
+Offset: 3568, PUSHS , Operand: You can now use 
+Offset: 3569, PUSHS , Operand: <col=000080>
+Offset: 3570, PUSHS , Operand:  Glimmer of Light (Tier 6) scrolls
+Offset: 3571, PUSHS , Operand: </col>
+Offset: 3572, PUSHS , Operand:  within Daemonheim.
+Offset: 3573, CONCAT , Operand: 5
+Offset: 3574, RETURN , Operand: 0
+Offset: 3575, GOTO , Operand: 599
+Offset: 3576, PUSHI , Operand: 61
+Offset: 3577, PUSHI , Operand: 17941
+Offset: 3578, PUSHS , Operand: Naabe bloodrager (Melee, tier 7)
+Offset: 3579, PUSHS , Operand: <br>
+Offset: 3580, PUSHS , Operand: Crimson charm, argonite ore
+Offset: 3581, CONCAT , Operand: 3
+Offset: 3582, PUSHS , Operand: You can now infuse 
+Offset: 3583, PUSHS , Operand: <col=000080>
+Offset: 3584, PUSHS , Operand: naabe bloodrager pouches
+Offset: 3585, PUSHS , Operand: </col>
+Offset: 3586, PUSHS , Operand:  within Daemonheim.
+Offset: 3587, CONCAT , Operand: 5
+Offset: 3588, RETURN , Operand: 0
+Offset: 3589, GOTO , Operand: 585
+Offset: 3590, PUSHI , Operand: 61
+Offset: 3591, PUSHI , Operand: 18033
+Offset: 3592, PUSHS , Operand: Sundering Strike (Tier 7) scroll
+Offset: 3593, PUSHS , Operand: You can now use 
+Offset: 3594, PUSHS , Operand: <col=000080>
+Offset: 3595, PUSHS , Operand:  Sundering Strike (Tier 7) scrolls
+Offset: 3596, PUSHS , Operand: </col>
+Offset: 3597, PUSHS , Operand:  within Daemonheim.
+Offset: 3598, CONCAT , Operand: 5
+Offset: 3599, RETURN , Operand: 0
+Offset: 3600, GOTO , Operand: 574
+Offset: 3601, PUSHI , Operand: 62
+Offset: 3602, PUSHI , Operand: 17991
+Offset: 3603, PUSHS , Operand: Naabe deathslinger (Ranged, tier 7)
+Offset: 3604, PUSHS , Operand: <br>
+Offset: 3605, PUSHS , Operand: Crimson charm, thigat branches
+Offset: 3606, CONCAT , Operand: 3
+Offset: 3607, PUSHS , Operand: You can now infuse 
+Offset: 3608, PUSHS , Operand: <col=000080>
+Offset: 3609, PUSHS , Operand: naabe deathslinger pouches
+Offset: 3610, PUSHS , Operand: </col>
+Offset: 3611, PUSHS , Operand:  within Daemonheim.
+Offset: 3612, CONCAT , Operand: 5
+Offset: 3613, RETURN , Operand: 0
+Offset: 3614, GOTO , Operand: 560
+Offset: 3615, PUSHI , Operand: 62
+Offset: 3616, PUSHI , Operand: 18043
+Offset: 3617, PUSHS , Operand: Poisonous Shot (Tier 7) scroll
+Offset: 3618, PUSHS , Operand: You can now use 
+Offset: 3619, PUSHS , Operand: <col=000080>
+Offset: 3620, PUSHS , Operand:  Poisonous Shot (Tier 7) scrolls
+Offset: 3621, PUSHS , Operand: </col>
+Offset: 3622, PUSHS , Operand:  within Daemonheim.
+Offset: 3623, CONCAT , Operand: 5
+Offset: 3624, RETURN , Operand: 0
+Offset: 3625, GOTO , Operand: 549
+Offset: 3626, PUSHI , Operand: 63
+Offset: 3627, PUSHI , Operand: 17951
+Offset: 3628, PUSHS , Operand: Naabe stormbringer (Magic, tier 7)
+Offset: 3629, PUSHS , Operand: <br>
+Offset: 3630, PUSHS , Operand: Crimson charm, soulbell roots
+Offset: 3631, CONCAT , Operand: 3
+Offset: 3632, PUSHS , Operand: You can now infuse 
+Offset: 3633, PUSHS , Operand: <col=000080>
+Offset: 3634, PUSHS , Operand: naabe stormbringer pouches
+Offset: 3635, PUSHS , Operand: </col>
+Offset: 3636, PUSHS , Operand:  within Daemonheim.
+Offset: 3637, CONCAT , Operand: 5
+Offset: 3638, RETURN , Operand: 0
+Offset: 3639, GOTO , Operand: 535
+Offset: 3640, PUSHI , Operand: 63
+Offset: 3641, PUSHI , Operand: 18053
+Offset: 3642, PUSHS , Operand: Snaring Wave (Tier 7) scroll
+Offset: 3643, PUSHS , Operand: You can now use 
+Offset: 3644, PUSHS , Operand: <col=000080>
+Offset: 3645, PUSHS , Operand:  Snaring Wave (Tier 7) scrolls
+Offset: 3646, PUSHS , Operand: </col>
+Offset: 3647, PUSHS , Operand:  within Daemonheim.
+Offset: 3648, CONCAT , Operand: 5
+Offset: 3649, RETURN , Operand: 0
+Offset: 3650, GOTO , Operand: 524
+Offset: 3651, PUSHI , Operand: 65
+Offset: 3652, PUSHI , Operand: 17961
+Offset: 3653, PUSHS , Operand: Naabe hoardstalker (Forager, tier 7)
+Offset: 3654, PUSHS , Operand: <br>
+Offset: 3655, PUSHS , Operand: Crimson charm, gallimastyx hide
+Offset: 3656, CONCAT , Operand: 3
+Offset: 3657, PUSHS , Operand: You can now infuse 
+Offset: 3658, PUSHS , Operand: <col=000080>
+Offset: 3659, PUSHS , Operand: naabe hoardstalker pouches
+Offset: 3660, PUSHS , Operand: </col>
+Offset: 3661, PUSHS , Operand:  within Daemonheim.
+Offset: 3662, CONCAT , Operand: 5
+Offset: 3663, RETURN , Operand: 0
+Offset: 3664, GOTO , Operand: 510
+Offset: 3665, PUSHI , Operand: 65
+Offset: 3666, PUSHI , Operand: 18063
+Offset: 3667, PUSHS , Operand: Aptitude (Tier 7) scroll
+Offset: 3668, PUSHS , Operand: You can now use 
+Offset: 3669, PUSHS , Operand: <col=000080>
+Offset: 3670, PUSHS , Operand:  Aptitude (Tier 7) scrolls
+Offset: 3671, PUSHS , Operand: </col>
+Offset: 3672, PUSHS , Operand:  within Daemonheim.
+Offset: 3673, CONCAT , Operand: 5
+Offset: 3674, RETURN , Operand: 0
+Offset: 3675, GOTO , Operand: 499
+Offset: 3676, PUSHI , Operand: 67
+Offset: 3677, PUSHI , Operand: 17981
+Offset: 3678, PUSHS , Operand: Naabe worldbearer (Beast of burden, tier 7)
+Offset: 3679, PUSHS , Operand: <br>
+Offset: 3680, PUSHS , Operand: Crimson charm, gallileather torn bag
+Offset: 3681, CONCAT , Operand: 3
+Offset: 3682, PUSHS , Operand: You can now infuse 
+Offset: 3683, PUSHS , Operand: <col=000080>
+Offset: 3684, PUSHS , Operand: naabe worldbearer pouches
+Offset: 3685, PUSHS , Operand: </col>
+Offset: 3686, PUSHS , Operand:  within Daemonheim.
+Offset: 3687, CONCAT , Operand: 5
+Offset: 3688, RETURN , Operand: 0
+Offset: 3689, GOTO , Operand: 485
+Offset: 3690, PUSHI , Operand: 67
+Offset: 3691, PUSHI , Operand: 18073
+Offset: 3692, PUSHS , Operand: Second Wind (Tier 7) scroll
+Offset: 3693, PUSHS , Operand: You can now use 
+Offset: 3694, PUSHS , Operand: <col=000080>
+Offset: 3695, PUSHS , Operand:  Second Wind (Tier 7) scrolls
+Offset: 3696, PUSHS , Operand: </col>
+Offset: 3697, PUSHS , Operand:  within Daemonheim.
+Offset: 3698, CONCAT , Operand: 5
+Offset: 3699, RETURN , Operand: 0
+Offset: 3700, GOTO , Operand: 474
+Offset: 3701, PUSHI , Operand: 69
+Offset: 3702, PUSHI , Operand: 17971
+Offset: 3703, PUSHS , Operand: Naabe skinweaver (Healer, tier 7)
+Offset: 3704, PUSHS , Operand: <br>
+Offset: 3705, PUSHS , Operand: Crimson charm, 2 cooked bouldabass
+Offset: 3706, CONCAT , Operand: 3
+Offset: 3707, PUSHS , Operand: You can now infuse 
+Offset: 3708, PUSHS , Operand: <col=000080>
+Offset: 3709, PUSHS , Operand: naabe skinweaver pouches
+Offset: 3710, PUSHS , Operand: </col>
+Offset: 3711, PUSHS , Operand:  within Daemonheim.
+Offset: 3712, CONCAT , Operand: 5
+Offset: 3713, RETURN , Operand: 0
+Offset: 3714, GOTO , Operand: 460
+Offset: 3715, PUSHI , Operand: 69
+Offset: 3716, PUSHI , Operand: 18083
+Offset: 3717, PUSHS , Operand: Glimmer of Light (Tier 7) scroll
+Offset: 3718, PUSHS , Operand: You can now use 
+Offset: 3719, PUSHS , Operand: <col=000080>
+Offset: 3720, PUSHS , Operand:  Glimmer of Light (Tier 7) scrolls
+Offset: 3721, PUSHS , Operand: </col>
+Offset: 3722, PUSHS , Operand:  within Daemonheim.
+Offset: 3723, CONCAT , Operand: 5
+Offset: 3724, RETURN , Operand: 0
+Offset: 3725, GOTO , Operand: 449
+Offset: 3726, PUSHI , Operand: 71
+Offset: 3727, PUSHI , Operand: 17942
+Offset: 3728, PUSHS , Operand: Wise bloodrager (Melee, tier 8)
+Offset: 3729, PUSHS , Operand: <br>
+Offset: 3730, PUSHS , Operand: Crimson charm, katagon ore
+Offset: 3731, CONCAT , Operand: 3
+Offset: 3732, PUSHS , Operand: You can now infuse 
+Offset: 3733, PUSHS , Operand: <col=000080>
+Offset: 3734, PUSHS , Operand: wise bloodrager pouches
+Offset: 3735, PUSHS , Operand: </col>
+Offset: 3736, PUSHS , Operand:  within Daemonheim.
+Offset: 3737, CONCAT , Operand: 5
+Offset: 3738, RETURN , Operand: 0
+Offset: 3739, GOTO , Operand: 435
+Offset: 3740, PUSHI , Operand: 71
+Offset: 3741, PUSHI , Operand: 18034
+Offset: 3742, PUSHS , Operand: Sundering Strike (Tier 8) scroll
+Offset: 3743, PUSHS , Operand: You can now use 
+Offset: 3744, PUSHS , Operand: <col=000080>
+Offset: 3745, PUSHS , Operand:  Sundering Strike (Tier 8) scrolls
+Offset: 3746, PUSHS , Operand: </col>
+Offset: 3747, PUSHS , Operand:  within Daemonheim.
+Offset: 3748, CONCAT , Operand: 5
+Offset: 3749, RETURN , Operand: 0
+Offset: 3750, GOTO , Operand: 424
+Offset: 3751, PUSHI , Operand: 72
+Offset: 3752, PUSHI , Operand: 17992
+Offset: 3753, PUSHS , Operand: Wise deathslinger (Ranged, tier 8)
+Offset: 3754, PUSHS , Operand: <br>
+Offset: 3755, PUSHS , Operand: Crimson charm, corpsethorn branches
+Offset: 3756, CONCAT , Operand: 3
+Offset: 3757, PUSHS , Operand: You can now infuse 
+Offset: 3758, PUSHS , Operand: <col=000080>
+Offset: 3759, PUSHS , Operand: wise deathslinger pouches
+Offset: 3760, PUSHS , Operand: </col>
+Offset: 3761, PUSHS , Operand:  within Daemonheim.
+Offset: 3762, CONCAT , Operand: 5
+Offset: 3763, RETURN , Operand: 0
+Offset: 3764, GOTO , Operand: 410
+Offset: 3765, PUSHI , Operand: 72
+Offset: 3766, PUSHI , Operand: 18044
+Offset: 3767, PUSHS , Operand: Poisonous Shot (Tier 8) scroll
+Offset: 3768, PUSHS , Operand: You can now use 
+Offset: 3769, PUSHS , Operand: <col=000080>
+Offset: 3770, PUSHS , Operand:  Poisonous Shot (Tier 8) scrolls
+Offset: 3771, PUSHS , Operand: </col>
+Offset: 3772, PUSHS , Operand:  within Daemonheim.
+Offset: 3773, CONCAT , Operand: 5
+Offset: 3774, RETURN , Operand: 0
+Offset: 3775, GOTO , Operand: 399
+Offset: 3776, PUSHI , Operand: 73
+Offset: 3777, PUSHI , Operand: 17952
+Offset: 3778, PUSHS , Operand: Wise stormbringer (Magic, tier 8)
+Offset: 3779, PUSHS , Operand: <br>
+Offset: 3780, PUSHS , Operand: Crimson charm, ectograss blades
+Offset: 3781, CONCAT , Operand: 3
+Offset: 3782, PUSHS , Operand: You can now infuse 
+Offset: 3783, PUSHS , Operand: <col=000080>
+Offset: 3784, PUSHS , Operand: wise stormbringer pouches
+Offset: 3785, PUSHS , Operand: </col>
+Offset: 3786, PUSHS , Operand:  within Daemonheim.
+Offset: 3787, CONCAT , Operand: 5
+Offset: 3788, RETURN , Operand: 0
+Offset: 3789, GOTO , Operand: 385
+Offset: 3790, PUSHI , Operand: 73
+Offset: 3791, PUSHI , Operand: 18054
+Offset: 3792, PUSHS , Operand: Snaring Wave (Tier 8) scroll
+Offset: 3793, PUSHS , Operand: You can now use 
+Offset: 3794, PUSHS , Operand: <col=000080>
+Offset: 3795, PUSHS , Operand:  Snaring Wave (Tier 8) scrolls
+Offset: 3796, PUSHS , Operand: </col>
+Offset: 3797, PUSHS , Operand:  within Daemonheim.
+Offset: 3798, CONCAT , Operand: 5
+Offset: 3799, RETURN , Operand: 0
+Offset: 3800, GOTO , Operand: 374
+Offset: 3801, PUSHI , Operand: 75
+Offset: 3802, PUSHI , Operand: 17962
+Offset: 3803, PUSHS , Operand: Wise hoardstalker (Forager, tier 8)
+Offset: 3804, PUSHS , Operand: <br>
+Offset: 3805, PUSHS , Operand: Crimson charm, stegomastyx hide
+Offset: 3806, CONCAT , Operand: 3
+Offset: 3807, PUSHS , Operand: You can now infuse 
+Offset: 3808, PUSHS , Operand: <col=000080>
+Offset: 3809, PUSHS , Operand: wise hoardstalker pouches
+Offset: 3810, PUSHS , Operand: </col>
+Offset: 3811, PUSHS , Operand:  within Daemonheim.
+Offset: 3812, CONCAT , Operand: 5
+Offset: 3813, RETURN , Operand: 0
+Offset: 3814, GOTO , Operand: 360
+Offset: 3815, PUSHI , Operand: 75
+Offset: 3816, PUSHI , Operand: 18064
+Offset: 3817, PUSHS , Operand: Aptitude (Tier 8) scroll
+Offset: 3818, PUSHS , Operand: You can now use 
+Offset: 3819, PUSHS , Operand: <col=000080>
+Offset: 3820, PUSHS , Operand:  Aptitude (Tier 8) scrolls
+Offset: 3821, PUSHS , Operand: </col>
+Offset: 3822, PUSHS , Operand:  within Daemonheim.
+Offset: 3823, CONCAT , Operand: 5
+Offset: 3824, RETURN , Operand: 0
+Offset: 3825, GOTO , Operand: 349
+Offset: 3826, PUSHI , Operand: 77
+Offset: 3827, PUSHI , Operand: 17982
+Offset: 3828, PUSHS , Operand: Wise worldbearer (Beast of burden, tier 8)
+Offset: 3829, PUSHS , Operand: <br>
+Offset: 3830, PUSHS , Operand: Crimson charm, stegoleather torn bag
+Offset: 3831, CONCAT , Operand: 3
+Offset: 3832, PUSHS , Operand: You can now infuse 
+Offset: 3833, PUSHS , Operand: <col=000080>
+Offset: 3834, PUSHS , Operand: wise worldbearer pouches
+Offset: 3835, PUSHS , Operand: </col>
+Offset: 3836, PUSHS , Operand:  within Daemonheim.
+Offset: 3837, CONCAT , Operand: 5
+Offset: 3838, RETURN , Operand: 0
+Offset: 3839, GOTO , Operand: 335
+Offset: 3840, PUSHI , Operand: 77
+Offset: 3841, PUSHI , Operand: 18074
+Offset: 3842, PUSHS , Operand: Second Wind (Tier 8) scroll
+Offset: 3843, PUSHS , Operand: You can now use 
+Offset: 3844, PUSHS , Operand: <col=000080>
+Offset: 3845, PUSHS , Operand:  Second Wind (Tier 8) scrolls
+Offset: 3846, PUSHS , Operand: </col>
+Offset: 3847, PUSHS , Operand:  within Daemonheim.
+Offset: 3848, CONCAT , Operand: 5
+Offset: 3849, RETURN , Operand: 0
+Offset: 3850, GOTO , Operand: 324
+Offset: 3851, PUSHI , Operand: 79
+Offset: 3852, PUSHI , Operand: 17972
+Offset: 3853, PUSHS , Operand: Wise skinweaver (Healer, tier 8)
+Offset: 3854, PUSHS , Operand: <br>
+Offset: 3855, PUSHS , Operand: Crimson charm, 2 cooked salve eels
+Offset: 3856, CONCAT , Operand: 3
+Offset: 3857, PUSHS , Operand: You can now infuse 
+Offset: 3858, PUSHS , Operand: <col=000080>
+Offset: 3859, PUSHS , Operand: wise skinweaver pouches
+Offset: 3860, PUSHS , Operand: </col>
+Offset: 3861, PUSHS , Operand:  within Daemonheim.
+Offset: 3862, CONCAT , Operand: 5
+Offset: 3863, RETURN , Operand: 0
+Offset: 3864, GOTO , Operand: 310
+Offset: 3865, PUSHI , Operand: 79
+Offset: 3866, PUSHI , Operand: 18084
+Offset: 3867, PUSHS , Operand: Glimmer of Light (Tier 8) scroll
+Offset: 3868, PUSHS , Operand: You can now use 
+Offset: 3869, PUSHS , Operand: <col=000080>
+Offset: 3870, PUSHS , Operand:  Glimmer of Light (Tier 8) scrolls
+Offset: 3871, PUSHS , Operand: </col>
+Offset: 3872, PUSHS , Operand:  within Daemonheim.
+Offset: 3873, CONCAT , Operand: 5
+Offset: 3874, RETURN , Operand: 0
+Offset: 3875, GOTO , Operand: 299
+Offset: 3876, PUSHI , Operand: 81
+Offset: 3877, PUSHI , Operand: 17943
+Offset: 3878, PUSHS , Operand: Adept bloodrager (Melee, tier 9)
+Offset: 3879, PUSHS , Operand: <br>
+Offset: 3880, PUSHS , Operand: Blue charm, gorgonite ore
+Offset: 3881, CONCAT , Operand: 3
+Offset: 3882, PUSHS , Operand: You can now infuse 
+Offset: 3883, PUSHS , Operand: <col=000080>
+Offset: 3884, PUSHS , Operand: adept bloodrager pouches
+Offset: 3885, PUSHS , Operand: </col>
+Offset: 3886, PUSHS , Operand:  within Daemonheim.
+Offset: 3887, CONCAT , Operand: 5
+Offset: 3888, RETURN , Operand: 0
+Offset: 3889, GOTO , Operand: 285
+Offset: 3890, PUSHI , Operand: 81
+Offset: 3891, PUSHI , Operand: 18035
+Offset: 3892, PUSHS , Operand: Sundering Strike (Tier 9) scroll
+Offset: 3893, PUSHS , Operand: You can now use 
+Offset: 3894, PUSHS , Operand: <col=000080>
+Offset: 3895, PUSHS , Operand:  Sundering Strike (Tier 9) scrolls
+Offset: 3896, PUSHS , Operand: </col>
+Offset: 3897, PUSHS , Operand:  within Daemonheim.
+Offset: 3898, CONCAT , Operand: 5
+Offset: 3899, RETURN , Operand: 0
+Offset: 3900, GOTO , Operand: 274
+Offset: 3901, PUSHI , Operand: 82
+Offset: 3902, PUSHI , Operand: 17993
+Offset: 3903, PUSHS , Operand: Adept deathslinger (Ranged, tier 9)
+Offset: 3904, PUSHS , Operand: <br>
+Offset: 3905, PUSHS , Operand: Blue charm, entgallow branches
+Offset: 3906, CONCAT , Operand: 3
+Offset: 3907, PUSHS , Operand: You can now infuse 
+Offset: 3908, PUSHS , Operand: <col=000080>
+Offset: 3909, PUSHS , Operand: adept deathslinger pouches
+Offset: 3910, PUSHS , Operand: </col>
+Offset: 3911, PUSHS , Operand:  within Daemonheim.
+Offset: 3912, CONCAT , Operand: 5
+Offset: 3913, RETURN , Operand: 0
+Offset: 3914, GOTO , Operand: 260
+Offset: 3915, PUSHI , Operand: 82
+Offset: 3916, PUSHI , Operand: 18045
+Offset: 3917, PUSHS , Operand: Poisonous Shot (Tier 9) scroll
+Offset: 3918, PUSHS , Operand: You can now use 
+Offset: 3919, PUSHS , Operand: <col=000080>
+Offset: 3920, PUSHS , Operand:  Poisonous Shot (Tier 9) scrolls
+Offset: 3921, PUSHS , Operand: </col>
+Offset: 3922, PUSHS , Operand:  within Daemonheim.
+Offset: 3923, CONCAT , Operand: 5
+Offset: 3924, RETURN , Operand: 0
+Offset: 3925, GOTO , Operand: 249
+Offset: 3926, PUSHI , Operand: 83
+Offset: 3927, PUSHI , Operand: 17953
+Offset: 3928, PUSHS , Operand: Adept stormbringer (Magic, tier 9)
+Offset: 3929, PUSHS , Operand: <br>
+Offset: 3930, PUSHS , Operand: Blue charm, runeleaf fibres
+Offset: 3931, CONCAT , Operand: 3
+Offset: 3932, PUSHS , Operand: You can now infuse 
+Offset: 3933, PUSHS , Operand: <col=000080>
+Offset: 3934, PUSHS , Operand: adept stormbringer pouches
+Offset: 3935, PUSHS , Operand: </col>
+Offset: 3936, PUSHS , Operand:  within Daemonheim.
+Offset: 3937, CONCAT , Operand: 5
+Offset: 3938, RETURN , Operand: 0
+Offset: 3939, GOTO , Operand: 235
+Offset: 3940, PUSHI , Operand: 83
+Offset: 3941, PUSHI , Operand: 18055
+Offset: 3942, PUSHS , Operand: Snaring Wave (Tier 9) scroll
+Offset: 3943, PUSHS , Operand: You can now use 
+Offset: 3944, PUSHS , Operand: <col=000080>
+Offset: 3945, PUSHS , Operand:  Snaring Wave (Tier 9) scrolls
+Offset: 3946, PUSHS , Operand: </col>
+Offset: 3947, PUSHS , Operand:  within Daemonheim.
+Offset: 3948, CONCAT , Operand: 5
+Offset: 3949, RETURN , Operand: 0
+Offset: 3950, GOTO , Operand: 224
+Offset: 3951, PUSHI , Operand: 85
+Offset: 3952, PUSHI , Operand: 17963
+Offset: 3953, PUSHS , Operand: Adept hoardstalker (Forager, tier 9)
+Offset: 3954, PUSHS , Operand: <br>
+Offset: 3955, PUSHS , Operand: Blue charm, megamastyx hide
+Offset: 3956, CONCAT , Operand: 3
+Offset: 3957, PUSHS , Operand: You can now infuse 
+Offset: 3958, PUSHS , Operand: <col=000080>
+Offset: 3959, PUSHS , Operand: adept hoardstalker pouches
+Offset: 3960, PUSHS , Operand: </col>
+Offset: 3961, PUSHS , Operand:  within Daemonheim.
+Offset: 3962, CONCAT , Operand: 5
+Offset: 3963, RETURN , Operand: 0
+Offset: 3964, GOTO , Operand: 210
+Offset: 3965, PUSHI , Operand: 85
+Offset: 3966, PUSHI , Operand: 18065
+Offset: 3967, PUSHS , Operand: Aptitude (Tier 9) scroll
+Offset: 3968, PUSHS , Operand: You can now use 
+Offset: 3969, PUSHS , Operand: <col=000080>
+Offset: 3970, PUSHS , Operand:  Aptitude (Tier 9) scrolls
+Offset: 3971, PUSHS , Operand: </col>
+Offset: 3972, PUSHS , Operand:  within Daemonheim.
+Offset: 3973, CONCAT , Operand: 5
+Offset: 3974, RETURN , Operand: 0
+Offset: 3975, GOTO , Operand: 199
+Offset: 3976, PUSHI , Operand: 87
+Offset: 3977, PUSHI , Operand: 17983
+Offset: 3978, PUSHS , Operand: Adept worldbearer (Beast of burden, tier 9)
+Offset: 3979, PUSHS , Operand: <br>
+Offset: 3980, PUSHS , Operand: Blue charm, megaleather torn bag
+Offset: 3981, CONCAT , Operand: 3
+Offset: 3982, PUSHS , Operand: You can now infuse 
+Offset: 3983, PUSHS , Operand: <col=000080>
+Offset: 3984, PUSHS , Operand: adept worldbearer pouches
+Offset: 3985, PUSHS , Operand: </col>
+Offset: 3986, PUSHS , Operand:  within Daemonheim.
+Offset: 3987, CONCAT , Operand: 5
+Offset: 3988, RETURN , Operand: 0
+Offset: 3989, GOTO , Operand: 185
+Offset: 3990, PUSHI , Operand: 87
+Offset: 3991, PUSHI , Operand: 18075
+Offset: 3992, PUSHS , Operand: Second Wind (Tier 9) scroll
+Offset: 3993, PUSHS , Operand: You can now use 
+Offset: 3994, PUSHS , Operand: <col=000080>
+Offset: 3995, PUSHS , Operand:  Second Wind (Tier 9) scrolls
+Offset: 3996, PUSHS , Operand: </col>
+Offset: 3997, PUSHS , Operand:  within Daemonheim.
+Offset: 3998, CONCAT , Operand: 5
+Offset: 3999, RETURN , Operand: 0
+Offset: 4000, GOTO , Operand: 174
+Offset: 4001, PUSHI , Operand: 89
+Offset: 4002, PUSHI , Operand: 17973
+Offset: 4003, PUSHS , Operand: Adept skinweaver (Healer, tier 9)
+Offset: 4004, PUSHS , Operand: <br>
+Offset: 4005, PUSHS , Operand: Blue charm, 2 cooked blue crabs
+Offset: 4006, CONCAT , Operand: 3
+Offset: 4007, PUSHS , Operand: You can now infuse 
+Offset: 4008, PUSHS , Operand: <col=000080>
+Offset: 4009, PUSHS , Operand: adept skinweaver pouches
+Offset: 4010, PUSHS , Operand: </col>
+Offset: 4011, PUSHS , Operand:  within Daemonheim.
+Offset: 4012, CONCAT , Operand: 5
+Offset: 4013, RETURN , Operand: 0
+Offset: 4014, GOTO , Operand: 160
+Offset: 4015, PUSHI , Operand: 89
+Offset: 4016, PUSHI , Operand: 18085
+Offset: 4017, PUSHS , Operand: Glimmer of Light (Tier 9) scroll
+Offset: 4018, PUSHS , Operand: You can now use 
+Offset: 4019, PUSHS , Operand: <col=000080>
+Offset: 4020, PUSHS , Operand:  Glimmer of Light (Tier 9) scrolls
+Offset: 4021, PUSHS , Operand: </col>
+Offset: 4022, PUSHS , Operand:  within Daemonheim.
+Offset: 4023, CONCAT , Operand: 5
+Offset: 4024, RETURN , Operand: 0
+Offset: 4025, GOTO , Operand: 149
+Offset: 4026, PUSHI , Operand: 91
+Offset: 4027, PUSHI , Operand: 17944
+Offset: 4028, PUSHS , Operand: Sachem bloodrager (Melee, tier 10)
+Offset: 4029, PUSHS , Operand: <br>
+Offset: 4030, PUSHS , Operand: Blue charm, promethium ore
+Offset: 4031, CONCAT , Operand: 3
+Offset: 4032, PUSHS , Operand: You can now infuse 
+Offset: 4033, PUSHS , Operand: <col=000080>
+Offset: 4034, PUSHS , Operand: sachem bloodrager pouches
+Offset: 4035, PUSHS , Operand: </col>
+Offset: 4036, PUSHS , Operand:  within Daemonheim.
+Offset: 4037, CONCAT , Operand: 5
+Offset: 4038, RETURN , Operand: 0
+Offset: 4039, GOTO , Operand: 135
+Offset: 4040, PUSHI , Operand: 91
+Offset: 4041, PUSHI , Operand: 18036
+Offset: 4042, PUSHS , Operand: Sundering Strike (Tier 10) scroll
+Offset: 4043, PUSHS , Operand: You can now use 
+Offset: 4044, PUSHS , Operand: <col=000080>
+Offset: 4045, PUSHS , Operand:  Sundering Strike (Tier 10) scrolls
+Offset: 4046, PUSHS , Operand: </col>
+Offset: 4047, PUSHS , Operand:  within Daemonheim.
+Offset: 4048, CONCAT , Operand: 5
+Offset: 4049, RETURN , Operand: 0
+Offset: 4050, GOTO , Operand: 124
+Offset: 4051, PUSHI , Operand: 92
+Offset: 4052, PUSHI , Operand: 17994
+Offset: 4053, PUSHS , Operand: Sachem deathslinger (Ranged, tier 10)
+Offset: 4054, PUSHS , Operand: <br>
+Offset: 4055, PUSHS , Operand: Blue charm, grave creeper branches
+Offset: 4056, CONCAT , Operand: 3
+Offset: 4057, PUSHS , Operand: You can now infuse 
+Offset: 4058, PUSHS , Operand: <col=000080>
+Offset: 4059, PUSHS , Operand: sachem deathslinger pouches
+Offset: 4060, PUSHS , Operand: </col>
+Offset: 4061, PUSHS , Operand:  within Daemonheim.
+Offset: 4062, CONCAT , Operand: 5
+Offset: 4063, RETURN , Operand: 0
+Offset: 4064, GOTO , Operand: 110
+Offset: 4065, PUSHI , Operand: 92
+Offset: 4066, PUSHI , Operand: 18046
+Offset: 4067, PUSHS , Operand: Poisonous Shot (Tier 10) scroll
+Offset: 4068, PUSHS , Operand: You can now use 
+Offset: 4069, PUSHS , Operand: <col=000080>
+Offset: 4070, PUSHS , Operand:  Poisonous Shot (Tier 10) scrolls
+Offset: 4071, PUSHS , Operand: </col>
+Offset: 4072, PUSHS , Operand:  within Daemonheim.
+Offset: 4073, CONCAT , Operand: 5
+Offset: 4074, RETURN , Operand: 0
+Offset: 4075, GOTO , Operand: 99
+Offset: 4076, PUSHI , Operand: 93
+Offset: 4077, PUSHI , Operand: 17954
+Offset: 4078, PUSHS , Operand: Sachem stormbringer (Magic, tier 10)
+Offset: 4079, PUSHS , Operand: <br>
+Offset: 4080, PUSHS , Operand: Blue charm, spiritbloom fibres
+Offset: 4081, CONCAT , Operand: 3
+Offset: 4082, PUSHS , Operand: You can now infuse 
+Offset: 4083, PUSHS , Operand: <col=000080>
+Offset: 4084, PUSHS , Operand: sachem stormbringer pouches
+Offset: 4085, PUSHS , Operand: </col>
+Offset: 4086, PUSHS , Operand:  within Daemonheim.
+Offset: 4087, CONCAT , Operand: 5
+Offset: 4088, RETURN , Operand: 0
+Offset: 4089, GOTO , Operand: 85
+Offset: 4090, PUSHI , Operand: 93
+Offset: 4091, PUSHI , Operand: 18056
+Offset: 4092, PUSHS , Operand: Snaring Wave (Tier 10) scroll
+Offset: 4093, PUSHS , Operand: You can now use 
+Offset: 4094, PUSHS , Operand: <col=000080>
+Offset: 4095, PUSHS , Operand:  Snaring Wave (Tier 10) scrolls
+Offset: 4096, PUSHS , Operand: </col>
+Offset: 4097, PUSHS , Operand:  within Daemonheim.
+Offset: 4098, CONCAT , Operand: 5
+Offset: 4099, RETURN , Operand: 0
+Offset: 4100, GOTO , Operand: 74
+Offset: 4101, PUSHI , Operand: 95
+Offset: 4102, PUSHI , Operand: 17964
+Offset: 4103, PUSHS , Operand: Sachem hoardstalker (Forager, tier 10)
+Offset: 4104, PUSHS , Operand: <br>
+Offset: 4105, PUSHS , Operand: Blue charm, tyrannomastyx hide
+Offset: 4106, CONCAT , Operand: 3
+Offset: 4107, PUSHS , Operand: You can now infuse 
+Offset: 4108, PUSHS , Operand: <col=000080>
+Offset: 4109, PUSHS , Operand: sachem hoardstalker pouches
+Offset: 4110, PUSHS , Operand: </col>
+Offset: 4111, PUSHS , Operand:  within Daemonheim.
+Offset: 4112, CONCAT , Operand: 5
+Offset: 4113, RETURN , Operand: 0
+Offset: 4114, GOTO , Operand: 60
+Offset: 4115, PUSHI , Operand: 95
+Offset: 4116, PUSHI , Operand: 18066
+Offset: 4117, PUSHS , Operand: Aptitude (Tier 10) scroll
+Offset: 4118, PUSHS , Operand: You can now use 
+Offset: 4119, PUSHS , Operand: <col=000080>
+Offset: 4120, PUSHS , Operand:  Aptitude (Tier 10) scrolls
+Offset: 4121, PUSHS , Operand: </col>
+Offset: 4122, PUSHS , Operand:  within Daemonheim.
+Offset: 4123, CONCAT , Operand: 5
+Offset: 4124, RETURN , Operand: 0
+Offset: 4125, GOTO , Operand: 49
+Offset: 4126, PUSHI , Operand: 97
+Offset: 4127, PUSHI , Operand: 17984
+Offset: 4128, PUSHS , Operand: Sachem worldbearer (Beast of burden, tier 10)
+Offset: 4129, PUSHS , Operand: <br>
+Offset: 4130, PUSHS , Operand: Blue charm, tyrannoleather torn bag
+Offset: 4131, CONCAT , Operand: 3
+Offset: 4132, PUSHS , Operand: You can now infuse 
+Offset: 4133, PUSHS , Operand: <col=000080>
+Offset: 4134, PUSHS , Operand: sachem worldbearer pouches
+Offset: 4135, PUSHS , Operand: </col>
+Offset: 4136, PUSHS , Operand:  within Daemonheim.
+Offset: 4137, CONCAT , Operand: 5
+Offset: 4138, RETURN , Operand: 0
+Offset: 4139, GOTO , Operand: 35
+Offset: 4140, PUSHI , Operand: 97
+Offset: 4141, PUSHI , Operand: 18076
+Offset: 4142, PUSHS , Operand: Second Wind (Tier 10) scroll
+Offset: 4143, PUSHS , Operand: You can now use 
+Offset: 4144, PUSHS , Operand: <col=000080>
+Offset: 4145, PUSHS , Operand:  Second Wind (Tier 10) scrolls
+Offset: 4146, PUSHS , Operand: </col>
+Offset: 4147, PUSHS , Operand:  within Daemonheim.
+Offset: 4148, CONCAT , Operand: 5
+Offset: 4149, RETURN , Operand: 0
+Offset: 4150, GOTO , Operand: 24
+Offset: 4151, PUSHI , Operand: 99
+Offset: 4152, PUSHI , Operand: 17974
+Offset: 4153, PUSHS , Operand: Sachem skinweaver (Healer, tier 10)
+Offset: 4154, PUSHS , Operand: <br>
+Offset: 4155, PUSHS , Operand: Blue charm, 2 cooked cave morays
+Offset: 4156, CONCAT , Operand: 3
+Offset: 4157, PUSHS , Operand: You can now infuse 
+Offset: 4158, PUSHS , Operand: <col=000080>
+Offset: 4159, PUSHS , Operand: sachem skinweaver pouches
+Offset: 4160, PUSHS , Operand: </col>
+Offset: 4161, PUSHS , Operand:  within Daemonheim.
+Offset: 4162, CONCAT , Operand: 5
+Offset: 4163, RETURN , Operand: 0
+Offset: 4164, GOTO , Operand: 10
+Offset: 4165, PUSHI , Operand: 99
+Offset: 4166, PUSHI , Operand: 18086
+Offset: 4167, PUSHS , Operand: Glimmer of Light (Tier 10) scroll
+Offset: 4168, PUSHS , Operand: You can now use 
+Offset: 4169, PUSHS , Operand: <col=000080>
+Offset: 4170, PUSHS , Operand:  Glimmer of Light (Tier 10) scrolls
+Offset: 4171, PUSHS , Operand: </col>
+Offset: 4172, PUSHS , Operand:  within Daemonheim.
+Offset: 4173, CONCAT , Operand: 5
+Offset: 4174, RETURN , Operand: 0
+Offset: 4175, GOTO , Operand: 27
+Offset: 4176, LOADINT , Operand: 1
+Offset: 4177, PUSHI , Operand: 0
+Offset: 4178, IFEQ , Operand: 1
+Offset: 4179, GOTO , Operand: 23
+Offset: 4180, PUSHI , Operand: 99
+Offset: 4181, PUSHI , Operand: 12169
+Offset: 4182, PUSHS , Operand: Skill mastery
+Offset: 4183, PUSHS , Operand: <col=000080>
+Offset: 4184, PUSHS , Operand: Congratulations! You are now a master of 
+Offset: 4185, PUSHS , Operand: <col=800000>
+Offset: 4186, PUSHS , Operand: Summoning
+Offset: 4187, PUSHS , Operand: <col=000080>
+Offset: 4188, PUSHS , Operand: .  Why not visit 
+Offset: 4189, PUSHS , Operand: <col=800000>
+Offset: 4190, PUSHS , Operand: Pikkupstix
+Offset: 4191, PUSHS , Operand: <col=000080>
+Offset: 4192, PUSHS , Operand:  in 
+Offset: 4193, PUSHS , Operand: <col=800000>
+Offset: 4194, PUSHS , Operand: Taverley
+Offset: 4195, PUSHS , Operand: <col=000080>
+Offset: 4196, PUSHS , Operand: ? He has something special only available to true masters of the 
+Offset: 4197, PUSHS , Operand: <col=800000>
+Offset: 4198, PUSHS , Operand: Summoning
+Offset: 4199, PUSHS , Operand: <col=000080>
+Offset: 4200, PUSHS , Operand:  skill!
+Offset: 4201, CONCAT , Operand: 18
+Offset: 4202, RETURN , Operand: 0
+Offset: 4203, PUSHI , Operand: 0
+Offset: 4204, PUSHI , Operand: -1
+Offset: 4205, PUSHS , Operand: 
+Offset: 4206, PUSHS , Operand: 
+Offset: 4207, RETURN , Operand: 0
+
+================================================
+                Switch Table 0                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 1112
+Key: 2, Value: 2017
+Key: 3, Value: 2381
+Key: 4, Value: 2557
+Key: 5, Value: 2604
+Key: 6, Value: 2662
+Key: 7, Value: 4174
+
+================================================
+                Switch Table 1                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 15
+Key: 2, Value: 29
+Key: 3, Value: 43
+Key: 4, Value: 57
+Key: 5, Value: 71
+Key: 6, Value: 85
+Key: 7, Value: 99
+Key: 8, Value: 113
+Key: 9, Value: 127
+Key: 10, Value: 141
+Key: 11, Value: 155
+Key: 12, Value: 169
+Key: 13, Value: 183
+Key: 14, Value: 197
+Key: 15, Value: 211
+Key: 17, Value: 239
+Key: 16, Value: 225
+Key: 19, Value: 267
+Key: 18, Value: 253
+Key: 21, Value: 295
+Key: 20, Value: 281
+Key: 23, Value: 323
+Key: 22, Value: 309
+Key: 25, Value: 351
+Key: 24, Value: 337
+Key: 27, Value: 379
+Key: 26, Value: 365
+Key: 29, Value: 407
+Key: 28, Value: 393
+Key: 31, Value: 435
+Key: 30, Value: 421
+Key: 34, Value: 477
+Key: 35, Value: 491
+Key: 32, Value: 449
+Key: 33, Value: 463
+Key: 38, Value: 533
+Key: 39, Value: 547
+Key: 36, Value: 505
+Key: 37, Value: 519
+Key: 42, Value: 589
+Key: 43, Value: 603
+Key: 40, Value: 561
+Key: 41, Value: 575
+Key: 46, Value: 645
+Key: 47, Value: 659
+Key: 44, Value: 617
+Key: 45, Value: 631
+Key: 51, Value: 715
+Key: 50, Value: 701
+Key: 49, Value: 687
+Key: 48, Value: 673
+Key: 55, Value: 771
+Key: 54, Value: 757
+Key: 53, Value: 743
+Key: 52, Value: 729
+Key: 59, Value: 829
+Key: 58, Value: 815
+Key: 57, Value: 801
+Key: 56, Value: 785
+Key: 63, Value: 885
+Key: 62, Value: 871
+Key: 61, Value: 857
+Key: 60, Value: 843
+Key: 68, Value: 955
+Key: 69, Value: 969
+Key: 70, Value: 983
+Key: 71, Value: 997
+Key: 64, Value: 899
+Key: 65, Value: 913
+Key: 66, Value: 927
+Key: 67, Value: 941
+Key: 76, Value: 1067
+Key: 77, Value: 1081
+Key: 78, Value: 1095
+Key: 72, Value: 1011
+Key: 73, Value: 1025
+Key: 74, Value: 1039
+Key: 75, Value: 1053
+
+================================================
+                Switch Table 2                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 12
+Key: 2, Value: 23
+Key: 3, Value: 34
+Key: 4, Value: 45
+Key: 5, Value: 56
+Key: 6, Value: 67
+Key: 7, Value: 78
+Key: 8, Value: 89
+Key: 9, Value: 100
+Key: 10, Value: 111
+Key: 11, Value: 122
+Key: 12, Value: 133
+Key: 13, Value: 144
+Key: 14, Value: 155
+Key: 15, Value: 166
+Key: 17, Value: 188
+Key: 16, Value: 177
+Key: 19, Value: 210
+Key: 18, Value: 199
+Key: 21, Value: 232
+Key: 20, Value: 221
+Key: 23, Value: 254
+Key: 22, Value: 243
+Key: 25, Value: 276
+Key: 24, Value: 265
+Key: 27, Value: 298
+Key: 26, Value: 287
+Key: 29, Value: 320
+Key: 28, Value: 309
+Key: 31, Value: 342
+Key: 30, Value: 331
+Key: 34, Value: 375
+Key: 35, Value: 386
+Key: 32, Value: 353
+Key: 33, Value: 364
+Key: 38, Value: 419
+Key: 39, Value: 430
+Key: 36, Value: 397
+Key: 37, Value: 408
+Key: 42, Value: 463
+Key: 43, Value: 474
+Key: 40, Value: 441
+Key: 41, Value: 452
+Key: 46, Value: 507
+Key: 47, Value: 518
+Key: 44, Value: 485
+Key: 45, Value: 496
+Key: 51, Value: 562
+Key: 50, Value: 551
+Key: 49, Value: 540
+Key: 48, Value: 529
+Key: 55, Value: 606
+Key: 54, Value: 595
+Key: 53, Value: 584
+Key: 52, Value: 573
+Key: 59, Value: 650
+Key: 58, Value: 639
+Key: 57, Value: 628
+Key: 56, Value: 617
+Key: 63, Value: 694
+Key: 62, Value: 683
+Key: 61, Value: 672
+Key: 60, Value: 661
+Key: 68, Value: 749
+Key: 69, Value: 763
+Key: 70, Value: 777
+Key: 71, Value: 791
+Key: 64, Value: 705
+Key: 65, Value: 716
+Key: 66, Value: 727
+Key: 67, Value: 738
+Key: 76, Value: 861
+Key: 77, Value: 875
+Key: 78, Value: 889
+Key: 72, Value: 805
+Key: 73, Value: 819
+Key: 74, Value: 833
+Key: 75, Value: 847
+
+================================================
+                Switch Table 3                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 12
+Key: 2, Value: 23
+Key: 3, Value: 34
+Key: 4, Value: 45
+Key: 5, Value: 56
+Key: 6, Value: 67
+Key: 7, Value: 78
+Key: 8, Value: 89
+Key: 9, Value: 100
+Key: 10, Value: 111
+Key: 11, Value: 122
+Key: 12, Value: 136
+Key: 13, Value: 147
+Key: 14, Value: 161
+Key: 15, Value: 177
+Key: 17, Value: 199
+Key: 16, Value: 188
+Key: 19, Value: 221
+Key: 18, Value: 210
+Key: 21, Value: 243
+Key: 20, Value: 232
+Key: 23, Value: 265
+Key: 22, Value: 254
+Key: 25, Value: 293
+Key: 24, Value: 279
+Key: 27, Value: 318
+Key: 26, Value: 307
+Key: 29, Value: 340
+Key: 28, Value: 329
+Key: 30, Value: 351
+
+================================================
+                Switch Table 4                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 12
+Key: 2, Value: 26
+Key: 3, Value: 40
+Key: 4, Value: 54
+Key: 5, Value: 65
+Key: 6, Value: 79
+Key: 7, Value: 93
+Key: 8, Value: 107
+Key: 9, Value: 121
+Key: 10, Value: 132
+Key: 11, Value: 146
+Key: 12, Value: 160
+
+================================================
+                Switch Table 5                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 12
+Key: 2, Value: 23
+Key: 3, Value: 34
+
+================================================
+                Switch Table 6                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 12
+Key: 2, Value: 23
+Key: 3, Value: 34
+Key: 4, Value: 45
+
+================================================
+                Switch Table 7                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 10
+Key: 2, Value: 24
+Key: 3, Value: 35
+Key: 4, Value: 49
+Key: 5, Value: 60
+Key: 6, Value: 74
+Key: 7, Value: 85
+Key: 8, Value: 99
+Key: 9, Value: 110
+Key: 10, Value: 124
+Key: 11, Value: 135
+Key: 12, Value: 149
+Key: 13, Value: 160
+Key: 14, Value: 174
+Key: 15, Value: 185
+Key: 17, Value: 210
+Key: 16, Value: 199
+Key: 19, Value: 235
+Key: 18, Value: 224
+Key: 21, Value: 260
+Key: 20, Value: 249
+Key: 23, Value: 285
+Key: 22, Value: 274
+Key: 25, Value: 310
+Key: 24, Value: 299
+Key: 27, Value: 335
+Key: 26, Value: 324
+Key: 29, Value: 360
+Key: 28, Value: 349
+Key: 31, Value: 385
+Key: 30, Value: 374
+Key: 34, Value: 424
+Key: 35, Value: 435
+Key: 32, Value: 399
+Key: 33, Value: 410
+Key: 38, Value: 474
+Key: 39, Value: 485
+Key: 36, Value: 449
+Key: 37, Value: 460
+Key: 42, Value: 524
+Key: 43, Value: 535
+Key: 40, Value: 499
+Key: 41, Value: 510
+Key: 46, Value: 574
+Key: 47, Value: 585
+Key: 44, Value: 549
+Key: 45, Value: 560
+Key: 51, Value: 635
+Key: 50, Value: 624
+Key: 49, Value: 610
+Key: 48, Value: 599
+Key: 55, Value: 685
+Key: 54, Value: 674
+Key: 53, Value: 660
+Key: 52, Value: 649
+Key: 59, Value: 735
+Key: 58, Value: 724
+Key: 57, Value: 710
+Key: 56, Value: 699
+Key: 63, Value: 785
+Key: 62, Value: 774
+Key: 61, Value: 760
+Key: 60, Value: 749
+Key: 68, Value: 849
+Key: 69, Value: 860
+Key: 70, Value: 874
+Key: 71, Value: 885
+Key: 64, Value: 799
+Key: 65, Value: 810
+Key: 66, Value: 824
+Key: 67, Value: 835
+Key: 76, Value: 949
+Key: 77, Value: 960
+Key: 78, Value: 974
+Key: 79, Value: 985
+Key: 72, Value: 899
+Key: 73, Value: 910
+Key: 74, Value: 924
+Key: 75, Value: 935
+Key: 85, Value: 1060
+Key: 84, Value: 1049
+Key: 87, Value: 1085
+Key: 86, Value: 1074
+Key: 81, Value: 1010
+Key: 80, Value: 999
+Key: 83, Value: 1035
+Key: 82, Value: 1024
+Key: 93, Value: 1160
+Key: 92, Value: 1149
+Key: 95, Value: 1185
+Key: 94, Value: 1174
+Key: 89, Value: 1110
+Key: 88, Value: 1099
+Key: 91, Value: 1135
+Key: 90, Value: 1124
+Key: 102, Value: 1274
+Key: 103, Value: 1285
+Key: 100, Value: 1249
+Key: 101, Value: 1260
+Key: 98, Value: 1224
+Key: 99, Value: 1235
+Key: 96, Value: 1199
+Key: 97, Value: 1210
+Key: 110, Value: 1374
+Key: 111, Value: 1385
+Key: 108, Value: 1349
+Key: 109, Value: 1360
+Key: 106, Value: 1324
+Key: 107, Value: 1335
+Key: 104, Value: 1299
+Key: 105, Value: 1310
+Key: 119, Value: 1485
+Key: 118, Value: 1474
+Key: 117, Value: 1460
+Key: 116, Value: 1449
+Key: 115, Value: 1435
+Key: 114, Value: 1424
+Key: 113, Value: 1410
+Key: 112, Value: 1399
+Key: 120, Value: 1499

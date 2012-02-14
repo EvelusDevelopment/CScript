@@ -1,0 +1,18 @@
+================================================
+      Client Script 1102 Dumped by SiniSoul    
+      Instruction Size: 7
+      Integer Arguments: 0 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, Unref Opcode: 25, Operand: 907
+Offset: 1, integerToString , Operand: 0
+Offset: 2, PUSHS , Operand: %
+Offset: 3, CONCAT , Operand: 2
+Offset: 4, PUSHI , Operand: 24707076
+Offset: 5, Unref Method: 2112, Operand: 0
+Offset: 6, RETURN , Operand: 0

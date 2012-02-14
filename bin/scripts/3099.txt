@@ -1,0 +1,60 @@
+================================================
+      Client Script 3099 Dumped by SiniSoul    
+      Instruction Size: 49
+      Integer Arguments: 7 
+      String  Arguments: 2 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHI , Operand: 2675
+Offset: 1, STOREINT , Operand: 4
+Offset: 2, PUSHI , Operand: 2676
+Offset: 3, STOREINT , Operand: 5
+Offset: 4, PUSHI , Operand: 2675
+Offset: 5, STOREINT , Operand: 6
+Offset: 6, PUSHI , Operand: 3071
+Offset: 7, LOADINT , Operand: 1
+Offset: 8, LOADINT , Operand: 4
+Offset: 9, LOADINT , Operand: 2
+Offset: 10, LOADINT , Operand: 5
+Offset: 11, LOADINT , Operand: 3
+Offset: 12, LOADINT , Operand: 6
+Offset: 13, PUSHS , Operand: IdIdId
+Offset: 14, LOADINT , Operand: 0
+Offset: 15, setInterfaceDefinitionScriptParams4 , Operand: 0
+Offset: 16, LOADINT , Operand: 4
+Offset: 17, LOADINT , Operand: 1
+Offset: 18, Unref Method: 2105, Operand: 0
+Offset: 19, LOADINT , Operand: 5
+Offset: 20, LOADINT , Operand: 2
+Offset: 21, Unref Method: 2105, Operand: 0
+Offset: 22, LOADINT , Operand: 6
+Offset: 23, LOADINT , Operand: 3
+Offset: 24, Unref Method: 2105, Operand: 0
+Offset: 25, PUSHI , Operand: 2677
+Offset: 26, STOREINT , Operand: 4
+Offset: 27, PUSHI , Operand: 2678
+Offset: 28, STOREINT , Operand: 5
+Offset: 29, PUSHI , Operand: 2677
+Offset: 30, STOREINT , Operand: 6
+Offset: 31, PUSHI , Operand: 3071
+Offset: 32, LOADINT , Operand: 1
+Offset: 33, LOADINT , Operand: 4
+Offset: 34, LOADINT , Operand: 2
+Offset: 35, LOADINT , Operand: 5
+Offset: 36, LOADINT , Operand: 3
+Offset: 37, LOADINT , Operand: 6
+Offset: 38, PUSHS , Operand: IdIdId
+Offset: 39, LOADINT , Operand: 0
+Offset: 40, setInterfaceDefinitionScriptParams3 , Operand: 0
+Offset: 41, LOADSTR , Operand: 0
+Offset: 42, PUSHI , Operand: 59375658
+Offset: 43, Unref Method: 2112, Operand: 0
+Offset: 44, PUSHI , Operand: 1
+Offset: 45, LOADSTR , Operand: 1
+Offset: 46, PUSHI , Operand: 59375654
+Offset: 47, Unref Method: 2300, Operand: 0
+Offset: 48, RETURN , Operand: 0

@@ -1,0 +1,20 @@
+================================================
+      Client Script 2207 Dumped by SiniSoul    
+      Instruction Size: 9
+      Integer Arguments: 0 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADGINT , Operand: 1137
+Offset: 1, PUSHI , Operand: 0
+Offset: 2, IFEQ , Operand: 1
+Offset: 3, GOTO , Operand: 4
+Offset: 4, PUSHI , Operand: 2212
+Offset: 5, PUSHS , Operand: 
+Offset: 6, PUSHI , Operand: 61079553
+Offset: 7, setInterfaceDefinitionScriptParams8 , Operand: 0
+Offset: 8, RETURN , Operand: 0

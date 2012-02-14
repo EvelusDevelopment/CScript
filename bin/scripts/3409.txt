@@ -1,0 +1,36 @@
+================================================
+      Client Script 3409 Dumped by SiniSoul    
+      Instruction Size: 25
+      Integer Arguments: 1 
+      String  Arguments: 1 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHS , Operand: Access Forums
+Offset: 1, STORESTR , Operand: 0
+Offset: 2, LOADINT , Operand: 0
+Offset: 3, LOADSTR , Operand: 0
+Offset: 4, CALL , Operand: 3408
+Offset: 5, LOADSTR , Operand: 0
+Offset: 6, PUSHI , Operand: 495
+Offset: 7, Unref Method: 4125, Operand: 0
+Offset: 8, LOADINT , Operand: 0
+Offset: 9, Unref Method: 2503, Operand: 0
+Offset: 10, PUSHI , Operand: 0
+Offset: 11, PUSHI , Operand: 0
+Offset: 12, LOADINT , Operand: 0
+Offset: 13, Unref Method: 2001, Operand: 0
+Offset: 14, PUSHS , Operand: <u=64c8fa>
+Offset: 15, LOADSTR , Operand: 0
+Offset: 16, PUSHS , Operand: </u>
+Offset: 17, CONCAT , Operand: 3
+Offset: 18, LOADINT , Operand: 0
+Offset: 19, Unref Method: 2112, Operand: 0
+Offset: 20, PUSHI , Operand: 3410
+Offset: 21, PUSHS , Operand: 
+Offset: 22, LOADINT , Operand: 0
+Offset: 23, setInterfaceDefinitionScriptParams9 , Operand: 0
+Offset: 24, RETURN , Operand: 0

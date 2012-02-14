@@ -1,0 +1,95 @@
+================================================
+      Client Script 2091 Dumped by SiniSoul    
+      Instruction Size: 59
+      Integer Arguments: 2 
+      String  Arguments: 1 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHS , Operand: 
+Offset: 1, STORESTR , Operand: 0
+Offset: 2, Unref Opcode: 25, Operand: 5835
+Offset: 3, PUSHI , Operand: 1
+Offset: 4, IFEQ , Operand: 1
+Offset: 5, GOTO , Operand: 1
+Offset: 6, RETURN , Operand: 0
+Offset: 7, LOADINT , Operand: 0
+Offset: 8, SWITCH , Operand: 0
+Offset: 9, GOTO , Operand: 39
+Offset: 10, PUSHS , Operand: The number of times that the avatar has been killed.
+Offset: 11, STORESTR , Operand: 0
+Offset: 12, GOTO , Operand: 37
+Offset: 13, PUSHS , Operand: The Slayer level required to attack each avatar.
+Offset: 14, STORESTR , Operand: 0
+Offset: 15, GOTO , Operand: 34
+Offset: 16, PUSHS , Operand: The remaining health of each avatar.
+Offset: 17, STORESTR , Operand: 0
+Offset: 18, GOTO , Operand: 31
+Offset: 19, PUSHS , Operand: How much time the game has remaining.
+Offset: 20, STORESTR , Operand: 0
+Offset: 21, GOTO , Operand: 28
+Offset: 22, PUSHS , Operand: This column displays the blue team's statistics.
+Offset: 23, STORESTR , Operand: 0
+Offset: 24, GOTO , Operand: 25
+Offset: 25, PUSHS , Operand: This column displays the red team's statistics.
+Offset: 26, STORESTR , Operand: 0
+Offset: 27, GOTO , Operand: 22
+Offset: 28, PUSHS , Operand: Shows which team controls the soul obelisk.
+Offset: 29, STORESTR , Operand: 0
+Offset: 30, GOTO , Operand: 19
+Offset: 31, PUSHS , Operand: Shows which team controls the western graveyard.
+Offset: 32, STORESTR , Operand: 0
+Offset: 33, GOTO , Operand: 16
+Offset: 34, PUSHS , Operand: Shows which team controls the eastern graveyard.
+Offset: 35, STORESTR , Operand: 0
+Offset: 36, GOTO , Operand: 13
+Offset: 37, PUSHS , Operand: Shows how much control a team has over the soul obelisk.
+Offset: 38, STORESTR , Operand: 0
+Offset: 39, GOTO , Operand: 10
+Offset: 40, PUSHS , Operand: Shows how much control a team has over the eastern graveyard.
+Offset: 41, STORESTR , Operand: 0
+Offset: 42, GOTO , Operand: 7
+Offset: 43, PUSHS , Operand: Shows how much control a team has over the western graveyard.
+Offset: 44, STORESTR , Operand: 0
+Offset: 45, GOTO , Operand: 4
+Offset: 46, PUSHS , Operand: Shows how active you have been during the game.
+Offset: 47, STORESTR , Operand: 0
+Offset: 48, GOTO , Operand: 1
+Offset: 49, RETURN , Operand: 0
+Offset: 50, LOADINT , Operand: 0
+Offset: 51, LOADINT , Operand: 1
+Offset: 52, LOADSTR , Operand: 0
+Offset: 53, PUSHI , Operand: 25
+Offset: 54, LOADINT , Operand: 1
+Offset: 55, Unref Method: 2505, Operand: 0
+Offset: 56, Unref Method: 2502, Operand: 0
+Offset: 57, CALL , Operand: 39
+Offset: 58, RETURN , Operand: 0
+
+================================================
+                Switch Table 0                
+================================================
+
+Key: 54788152, Value: 37
+Key: 54788122, Value: 10
+Key: 54788123, Value: 10
+Key: 54788120, Value: 7
+Key: 54788121, Value: 4
+Key: 54788126, Value: 22
+Key: 54788127, Value: 25
+Key: 54788158, Value: 34
+Key: 54788124, Value: 1
+Key: 54788125, Value: 19
+Key: 54788107, Value: 7
+Key: 54788106, Value: 4
+Key: 54788105, Value: 1
+Key: 54788104, Value: 13
+Key: 54788111, Value: 7
+Key: 54788110, Value: 4
+Key: 54788109, Value: 1
+Key: 54788108, Value: 16
+Key: 54788165, Value: 31
+Key: 54788102, Value: 28

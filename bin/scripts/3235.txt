@@ -1,0 +1,34 @@
+================================================
+      Client Script 3235 Dumped by SiniSoul    
+      Instruction Size: 23
+      Integer Arguments: 1 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHI , Operand: 39059531
+Offset: 1, STOREINT , Operand: 0
+Offset: 2, isSSKStrNull , Operand: 0
+Offset: 3, PUSHI , Operand: 1
+Offset: 4, IFEQ , Operand: 1
+Offset: 5, GOTO , Operand: 2
+Offset: 6, PUSHI , Operand: 63897650
+Offset: 7, STOREINT , Operand: 0
+Offset: 8, LOADGINT , Operand: 200
+Offset: 9, PUSHI , Operand: 0
+Offset: 10, IFGT , Operand: 1
+Offset: 11, GOTO , Operand: 10
+Offset: 12, PUSHI , Operand: 2944
+Offset: 13, PUSHS , Operand: 
+Offset: 14, LOADINT , Operand: 0
+Offset: 15, setInterfaceDefinitionScriptParams0 , Operand: 0
+Offset: 16, PUSHI , Operand: -1
+Offset: 17, PUSHS , Operand: 
+Offset: 18, LOADINT , Operand: 0
+Offset: 19, setInterfaceDefinitionScriptParams8 , Operand: 0
+Offset: 20, Unref Method: 5602, Operand: 0
+Offset: 21, CALL , Operand: 2954
+Offset: 22, RETURN , Operand: 0

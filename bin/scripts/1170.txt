@@ -1,0 +1,22 @@
+================================================
+      Client Script 1170 Dumped by SiniSoul    
+      Instruction Size: 11
+      Integer Arguments: 1 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADINT , Operand: 0
+Offset: 1, Unref Method: 6504, Operand: 0
+Offset: 2, PUSHS , Operand: set to 
+Offset: 3, LOADINT , Operand: 0
+Offset: 4, integerToString , Operand: 0
+Offset: 5, PUSHS , Operand:  - returned 
+Offset: 6, Unref Method: 6505, Operand: 0
+Offset: 7, integerToString , Operand: 0
+Offset: 8, CONCAT , Operand: 4
+Offset: 9, Unref Method: 3100, Operand: 0
+Offset: 10, RETURN , Operand: 0

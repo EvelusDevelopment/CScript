@@ -1,0 +1,148 @@
+================================================
+      Client Script 171 Dumped by SiniSoul    
+      Instruction Size: 137
+      Integer Arguments: 0 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADGINT , Operand: 40
+Offset: 1, PUSHI , Operand: 0
+Offset: 2, IFEQ , Operand: 1
+Offset: 3, GOTO , Operand: 40
+Offset: 4, PUSHS , Operand: Show riddle
+Offset: 5, PUSHI , Operand: 25559046
+Offset: 6, Unref Method: 2112, Operand: 0
+Offset: 7, PUSHI , Operand: 1
+Offset: 8, PUSHS , Operand: Show
+Offset: 9, PUSHI , Operand: 25559046
+Offset: 10, Unref Method: 2300, Operand: 0
+Offset: 11, PUSHI , Operand: 0
+Offset: 12, PUSHI , Operand: 25559047
+Offset: 13, Unref Method: 2003, Operand: 0
+Offset: 14, PUSHI , Operand: 0
+Offset: 15, PUSHI , Operand: 25559048
+Offset: 16, Unref Method: 2003, Operand: 0
+Offset: 17, PUSHI , Operand: 0
+Offset: 18, PUSHI , Operand: 25559049
+Offset: 19, Unref Method: 2003, Operand: 0
+Offset: 20, PUSHI , Operand: 0
+Offset: 21, PUSHI , Operand: 25559050
+Offset: 22, Unref Method: 2003, Operand: 0
+Offset: 23, PUSHI , Operand: 0
+Offset: 24, PUSHI , Operand: 25559051
+Offset: 25, Unref Method: 2003, Operand: 0
+Offset: 26, PUSHI , Operand: 0
+Offset: 27, PUSHI , Operand: 25559052
+Offset: 28, Unref Method: 2003, Operand: 0
+Offset: 29, PUSHI , Operand: 0
+Offset: 30, PUSHI , Operand: 25559053
+Offset: 31, Unref Method: 2003, Operand: 0
+Offset: 32, PUSHI , Operand: 0
+Offset: 33, PUSHI , Operand: 25559054
+Offset: 34, Unref Method: 2003, Operand: 0
+Offset: 35, PUSHI , Operand: 1
+Offset: 36, PUSHI , Operand: 25559043
+Offset: 37, Unref Method: 2003, Operand: 0
+Offset: 38, PUSHI , Operand: 1
+Offset: 39, PUSHI , Operand: 25559045
+Offset: 40, Unref Method: 2003, Operand: 0
+Offset: 41, PUSHI , Operand: 1
+Offset: 42, STOREGINT , Operand: 40
+Offset: 43, GOTO , Operand: 92
+Offset: 44, PUSHS , Operand: Hide riddle
+Offset: 45, PUSHI , Operand: 25559046
+Offset: 46, Unref Method: 2112, Operand: 0
+Offset: 47, PUSHI , Operand: 1
+Offset: 48, PUSHS , Operand: Hide
+Offset: 49, PUSHI , Operand: 25559046
+Offset: 50, Unref Method: 2300, Operand: 0
+Offset: 51, PUSHS , Operand: You seek the grail of old,
+Offset: 52, PUSHS , Operand: <br>
+Offset: 53, PUSHS , Operand: but no longer is it a goblet of gold.
+Offset: 54, PUSHS , Operand: <br>
+Offset: 55, PUSHS , Operand: Among these nine will you find what you seek,
+Offset: 56, PUSHS , Operand: <br>
+Offset: 57, PUSHS , Operand: but be careful and don't peek!
+Offset: 58, PUSHS , Operand: <br>
+Offset: 59, PUSHS , Operand: A wrong choice will expel you,
+Offset: 60, PUSHS , Operand: <br>
+Offset: 61, PUSHS , Operand: so consider carefully each clue.
+Offset: 62, PUSHS , Operand: <br>
+Offset: 63, PUSHS , Operand: <br>
+Offset: 64, PUSHS , Operand: Three boxes contain only air,
+Offset: 65, PUSHS , Operand: <br>
+Offset: 66, PUSHS , Operand: beware of three boxes, for danger lurks there.
+Offset: 67, PUSHS , Operand: <br>
+Offset: 68, PUSHS , Operand: Two hold only rubbish but would fool you with disguise,
+Offset: 69, PUSHS , Operand: <br>
+Offset: 70, PUSHS , Operand: only one box holds your prize.
+Offset: 71, PUSHS , Operand: <br>
+Offset: 72, PUSHS , Operand: <br>
+Offset: 73, PUSHS , Operand: Clues will give the information you need,
+Offset: 74, PUSHS , Operand: <br>
+Offset: 75, PUSHS , Operand: <br>
+Offset: 76, PUSHS , Operand: rubbish always sits to the right of danger, pay heed.
+Offset: 77, PUSHS , Operand: <br>
+Offset: 78, PUSHS , Operand: There is nothing helpful in boxes great in height,
+Offset: 79, PUSHS , Operand: <br>
+Offset: 80, PUSHS , Operand: and boxes on either end will not end your plight.
+Offset: 81, PUSHS , Operand: <br>
+Offset: 82, PUSHS , Operand: A tall or small box will only bring you anger,
+Offset: 83, PUSHS , Operand: <br>
+Offset: 84, PUSHS , Operand: but a square box will not put you in danger.
+Offset: 85, CONCAT , Operand: 34
+Offset: 86, PUSHI , Operand: 25559058
+Offset: 87, Unref Method: 2112, Operand: 0
+Offset: 88, PUSHI , Operand: 0
+Offset: 89, PUSHI , Operand: 25559058
+Offset: 90, Unref Method: 2101, Operand: 0
+Offset: 91, PUSHI , Operand: 1
+Offset: 92, PUSHI , Operand: 25559047
+Offset: 93, Unref Method: 2003, Operand: 0
+Offset: 94, PUSHI , Operand: 1
+Offset: 95, PUSHI , Operand: 25559048
+Offset: 96, Unref Method: 2003, Operand: 0
+Offset: 97, PUSHI , Operand: 1
+Offset: 98, PUSHI , Operand: 25559049
+Offset: 99, Unref Method: 2003, Operand: 0
+Offset: 100, PUSHI , Operand: 1
+Offset: 101, PUSHI , Operand: 25559050
+Offset: 102, Unref Method: 2003, Operand: 0
+Offset: 103, PUSHI , Operand: 1
+Offset: 104, PUSHI , Operand: 25559051
+Offset: 105, Unref Method: 2003, Operand: 0
+Offset: 106, PUSHI , Operand: 1
+Offset: 107, PUSHI , Operand: 25559052
+Offset: 108, Unref Method: 2003, Operand: 0
+Offset: 109, PUSHI , Operand: 1
+Offset: 110, PUSHI , Operand: 25559053
+Offset: 111, Unref Method: 2003, Operand: 0
+Offset: 112, PUSHI , Operand: 1
+Offset: 113, PUSHI , Operand: 25559054
+Offset: 114, Unref Method: 2003, Operand: 0
+Offset: 115, PUSHI , Operand: 0
+Offset: 116, PUSHI , Operand: 25559043
+Offset: 117, Unref Method: 2003, Operand: 0
+Offset: 118, PUSHI , Operand: 0
+Offset: 119, PUSHI , Operand: 25559045
+Offset: 120, Unref Method: 2003, Operand: 0
+Offset: 121, PUSHI , Operand: 190
+Offset: 122, PUSHI , Operand: 520
+Offset: 123, PUSHI , Operand: 25559059
+Offset: 124, Unref Method: 2120, Operand: 0
+Offset: 125, PUSHI , Operand: 25559045
+Offset: 126, PUSHI , Operand: 25559059
+Offset: 127, PUSHI , Operand: 792
+Offset: 128, PUSHI , Operand: 789
+Offset: 129, PUSHI , Operand: 790
+Offset: 130, PUSHI , Operand: 791
+Offset: 131, PUSHI , Operand: 773
+Offset: 132, PUSHI , Operand: 788
+Offset: 133, CALL , Operand: 31
+Offset: 134, PUSHI , Operand: 0
+Offset: 135, STOREGINT , Operand: 40
+Offset: 136, RETURN , Operand: 0

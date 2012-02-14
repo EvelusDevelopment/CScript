@@ -1,0 +1,106 @@
+================================================
+      Client Script 1601 Dumped by SiniSoul    
+      Instruction Size: 74
+      Integer Arguments: 3 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHI , Operand: -1
+Offset: 1, STOREINT , Operand: 1
+Offset: 2, PUSHI , Operand: -1
+Offset: 3, STOREINT , Operand: 2
+Offset: 4, PUSHI , Operand: 2
+Offset: 5, getRandom2 , Operand: 0
+Offset: 6, SWITCH , Operand: 0
+Offset: 7, GOTO , Operand: 14
+Offset: 8, PUSHI , Operand: 7813
+Offset: 9, PUSHI , Operand: 1
+Offset: 10, PUSHI , Operand: 0
+Offset: 11, Unref Method: 3200, Operand: 0
+Offset: 12, GOTO , Operand: 9
+Offset: 13, PUSHI , Operand: 7817
+Offset: 14, PUSHI , Operand: 1
+Offset: 15, PUSHI , Operand: 0
+Offset: 16, Unref Method: 3200, Operand: 0
+Offset: 17, GOTO , Operand: 4
+Offset: 18, PUSHI , Operand: 7818
+Offset: 19, PUSHI , Operand: 1
+Offset: 20, PUSHI , Operand: 0
+Offset: 21, Unref Method: 3200, Operand: 0
+Offset: 22, LOADINT , Operand: 0
+Offset: 23, SWITCH , Operand: 1
+Offset: 24, GOTO , Operand: 40
+Offset: 25, PUSHI , Operand: 63700995
+Offset: 26, STOREINT , Operand: 1
+Offset: 27, PUSHI , Operand: 63700996
+Offset: 28, STOREINT , Operand: 2
+Offset: 29, GOTO , Operand: 36
+Offset: 30, PUSHI , Operand: 63700996
+Offset: 31, STOREINT , Operand: 1
+Offset: 32, PUSHI , Operand: 63700997
+Offset: 33, STOREINT , Operand: 2
+Offset: 34, GOTO , Operand: 31
+Offset: 35, PUSHI , Operand: 63700997
+Offset: 36, STOREINT , Operand: 1
+Offset: 37, PUSHI , Operand: 63700998
+Offset: 38, STOREINT , Operand: 2
+Offset: 39, GOTO , Operand: 26
+Offset: 40, PUSHI , Operand: 63700998
+Offset: 41, STOREINT , Operand: 1
+Offset: 42, PUSHI , Operand: 63700999
+Offset: 43, STOREINT , Operand: 2
+Offset: 44, GOTO , Operand: 21
+Offset: 45, PUSHI , Operand: 63700999
+Offset: 46, STOREINT , Operand: 1
+Offset: 47, PUSHI , Operand: 63700998
+Offset: 48, STOREINT , Operand: 2
+Offset: 49, GOTO , Operand: 16
+Offset: 50, PUSHI , Operand: 63700998
+Offset: 51, STOREINT , Operand: 1
+Offset: 52, PUSHI , Operand: 63700997
+Offset: 53, STOREINT , Operand: 2
+Offset: 54, GOTO , Operand: 11
+Offset: 55, PUSHI , Operand: 63700997
+Offset: 56, STOREINT , Operand: 1
+Offset: 57, PUSHI , Operand: 63700996
+Offset: 58, STOREINT , Operand: 2
+Offset: 59, GOTO , Operand: 6
+Offset: 60, PUSHI , Operand: 63700996
+Offset: 61, STOREINT , Operand: 1
+Offset: 62, PUSHI , Operand: 63700995
+Offset: 63, STOREINT , Operand: 2
+Offset: 64, GOTO , Operand: 1
+Offset: 65, CALL , Operand: 675
+Offset: 66, PUSHI , Operand: 1
+Offset: 67, LOADINT , Operand: 1
+Offset: 68, Unref Method: 2003, Operand: 0
+Offset: 69, PUSHI , Operand: 0
+Offset: 70, LOADINT , Operand: 2
+Offset: 71, Unref Method: 2003, Operand: 0
+Offset: 72, RETURN , Operand: 0
+Offset: 73, RETURN , Operand: 0
+
+================================================
+                Switch Table 0                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 6
+Key: 2, Value: 11
+
+================================================
+                Switch Table 1                
+================================================
+
+Key: 63701018, Value: 36
+Key: 63701003, Value: 21
+Key: 63701017, Value: 6
+Key: 63701023, Value: 1
+Key: 63701007, Value: 16
+Key: 63701008, Value: 26
+Key: 63701013, Value: 31
+Key: 63701012, Value: 11

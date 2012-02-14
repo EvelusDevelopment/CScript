@@ -1,0 +1,29 @@
+================================================
+      Client Script 3285 Dumped by SiniSoul    
+      Instruction Size: 18
+      Integer Arguments: 1 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHI , Operand: 0
+Offset: 1, LOADINT , Operand: 0
+Offset: 2, PUSHI , Operand: 62062628
+Offset: 3, Unref Method: 2120, Operand: 0
+Offset: 4, PUSHI , Operand: 0
+Offset: 5, LOADINT , Operand: 0
+Offset: 6, PUSHI , Operand: 62062630
+Offset: 7, Unref Method: 2120, Operand: 0
+Offset: 8, PUSHI , Operand: 62062628
+Offset: 9, Unref Method: 2604, Operand: 0
+Offset: 10, PUSHI , Operand: 62062628
+Offset: 11, Unref Method: 2503, Operand: 0
+Offset: 12, IFLT , Operand: 1
+Offset: 13, GOTO , Operand: 3
+Offset: 14, PUSHI , Operand: 1
+Offset: 15, PUSHI , Operand: 62062639
+Offset: 16, Unref Method: 2003, Operand: 0
+Offset: 17, RETURN , Operand: 0

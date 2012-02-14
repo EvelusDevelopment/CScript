@@ -1,0 +1,127 @@
+================================================
+      Client Script 3228 Dumped by SiniSoul    
+      Instruction Size: 109
+      Integer Arguments: 6 
+      String  Arguments: 1 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHS , Operand: 
+Offset: 1, LOADINT , Operand: 1
+Offset: 2, LOADINT , Operand: 2
+Offset: 3, CALL , Operand: 3213
+Offset: 4, PUSHI , Operand: -1
+Offset: 5, LOADINT , Operand: 3
+Offset: 6, Unref Method: 2105, Operand: 0
+Offset: 7, PUSHS , Operand: 
+Offset: 8, STORESTR , Operand: 0
+Offset: 9, LOADINT , Operand: 0
+Offset: 10, SWITCH , Operand: 0
+Offset: 11, GOTO , Operand: 5
+Offset: 12, LOADGSTR , Operand: 124
+Offset: 13, STORESTR , Operand: 0
+Offset: 14, GOTO , Operand: 2
+Offset: 15, LOADGSTR , Operand: 125
+Offset: 16, STORESTR , Operand: 0
+Offset: 17, LOADSTR , Operand: 0
+Offset: 18, getStringLength , Operand: 0
+Offset: 19, STOREINT , Operand: 5
+Offset: 20, LOADINT , Operand: 5
+Offset: 21, PUSHI , Operand: 0
+Offset: 22, IFLTEQ , Operand: 1
+Offset: 23, GOTO , Operand: 1
+Offset: 24, RETURN , Operand: 0
+Offset: 25, LOADINT , Operand: 5
+Offset: 26, PUSHI , Operand: 5
+Offset: 27, IFLT , Operand: 1
+Offset: 28, GOTO , Operand: 9
+Offset: 29, PUSHI , Operand: 1726
+Offset: 30, LOADINT , Operand: 3
+Offset: 31, Unref Method: 2105, Operand: 0
+Offset: 32, PUSHS , Operand: Password is too short - it must be at least 5 characters long.
+Offset: 33, LOADINT , Operand: 1
+Offset: 34, LOADINT , Operand: 2
+Offset: 35, CALL , Operand: 3213
+Offset: 36, RETURN , Operand: 0
+Offset: 37, GOTO , Operand: 70
+Offset: 38, LOADINT , Operand: 5
+Offset: 39, PUSHI , Operand: 20
+Offset: 40, IFGT , Operand: 1
+Offset: 41, GOTO , Operand: 9
+Offset: 42, PUSHI , Operand: 1726
+Offset: 43, LOADINT , Operand: 3
+Offset: 44, Unref Method: 2105, Operand: 0
+Offset: 45, PUSHS , Operand: Password is too long - it must be no more than 20 characters.
+Offset: 46, LOADINT , Operand: 1
+Offset: 47, LOADINT , Operand: 2
+Offset: 48, CALL , Operand: 3213
+Offset: 49, RETURN , Operand: 0
+Offset: 50, GOTO , Operand: 57
+Offset: 51, LOADSTR , Operand: 0
+Offset: 52, CALL , Operand: 2202
+Offset: 53, PUSHI , Operand: 1
+Offset: 54, IFEQ , Operand: 1
+Offset: 55, GOTO , Operand: 9
+Offset: 56, PUSHI , Operand: 1726
+Offset: 57, LOADINT , Operand: 3
+Offset: 58, Unref Method: 2105, Operand: 0
+Offset: 59, PUSHS , Operand: Passwords may only contain letters and numbers.
+Offset: 60, LOADINT , Operand: 1
+Offset: 61, LOADINT , Operand: 2
+Offset: 62, CALL , Operand: 3213
+Offset: 63, RETURN , Operand: 0
+Offset: 64, GOTO , Operand: 43
+Offset: 65, LOADSTR , Operand: 0
+Offset: 66, LOADGSTR , Operand: 122
+Offset: 67, Unref Method: 4107, Operand: 0
+Offset: 68, PUSHI , Operand: 0
+Offset: 69, IFEQ , Operand: 1
+Offset: 70, GOTO , Operand: 9
+Offset: 71, PUSHI , Operand: 1726
+Offset: 72, LOADINT , Operand: 3
+Offset: 73, Unref Method: 2105, Operand: 0
+Offset: 74, PUSHS , Operand: Your password is too similar to your username.
+Offset: 75, LOADINT , Operand: 1
+Offset: 76, LOADINT , Operand: 2
+Offset: 77, CALL , Operand: 3213
+Offset: 78, RETURN , Operand: 0
+Offset: 79, GOTO , Operand: 28
+Offset: 80, LOADINT , Operand: 4
+Offset: 81, PUSHI , Operand: 1
+Offset: 82, IFEQ , Operand: 1
+Offset: 83, GOTO , Operand: 24
+Offset: 84, LOADGSTR , Operand: 124
+Offset: 85, LOADGSTR , Operand: 125
+Offset: 86, Unref Method: 4107, Operand: 0
+Offset: 87, PUSHI , Operand: 0
+Offset: 88, IFNE , Operand: 1
+Offset: 89, GOTO , Operand: 18
+Offset: 90, LOADGSTR , Operand: 124
+Offset: 91, getStringLength , Operand: 0
+Offset: 92, PUSHI , Operand: 0
+Offset: 93, IFGT , Operand: 1
+Offset: 94, GOTO , Operand: 13
+Offset: 95, LOADGSTR , Operand: 125
+Offset: 96, getStringLength , Operand: 0
+Offset: 97, PUSHI , Operand: 0
+Offset: 98, IFGT , Operand: 1
+Offset: 99, GOTO , Operand: 8
+Offset: 100, PUSHI , Operand: 1726
+Offset: 101, LOADINT , Operand: 3
+Offset: 102, Unref Method: 2105, Operand: 0
+Offset: 103, PUSHS , Operand: Please make sure both passwords match.
+Offset: 104, LOADINT , Operand: 1
+Offset: 105, LOADINT , Operand: 2
+Offset: 106, CALL , Operand: 3213
+Offset: 107, RETURN , Operand: 0
+Offset: 108, RETURN , Operand: 0
+
+================================================
+                Switch Table 0                
+================================================
+
+Key: 8, Value: 4
+Key: 7, Value: 1

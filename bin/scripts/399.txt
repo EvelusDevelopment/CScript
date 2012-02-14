@@ -1,0 +1,52 @@
+================================================
+      Client Script 399 Dumped by SiniSoul    
+      Instruction Size: 41
+      Integer Arguments: 1 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADINT , Operand: 0
+Offset: 1, Unref Method: 2500, Operand: 0
+Offset: 2, PUSHI , Operand: 20054017
+Offset: 3, Unref Method: 2502, Operand: 0
+Offset: 4, PUSHI , Operand: 1
+Offset: 5, ISUB , Operand: 0
+Offset: 6, IFLT , Operand: 8
+Offset: 7, LOADINT , Operand: 0
+Offset: 8, Unref Method: 2501, Operand: 0
+Offset: 9, LOADINT , Operand: 0
+Offset: 10, Unref Method: 2503, Operand: 0
+Offset: 11, ISUB , Operand: 0
+Offset: 12, PUSHI , Operand: 110
+Offset: 13, IFGT , Operand: 1
+Offset: 14, GOTO , Operand: 24
+Offset: 15, LOADINT , Operand: 0
+Offset: 16, Unref Method: 2500, Operand: 0
+Offset: 17, PUSHI , Operand: 140
+Offset: 18, LOADINT , Operand: 0
+Offset: 19, Unref Method: 2502, Operand: 0
+Offset: 20, IADD , Operand: 0
+Offset: 21, IFEQ , Operand: 1
+Offset: 22, GOTO , Operand: 5
+Offset: 23, PUSHI , Operand: 1550
+Offset: 24, PUSHI , Operand: 20054023
+Offset: 25, PUSHS , Operand: I
+Offset: 26, PUSHI , Operand: 20054036
+Offset: 27, setInterfaceDefinitionScriptParams8 , Operand: 0
+Offset: 28, PUSHI , Operand: 1
+Offset: 29, LOADINT , Operand: 0
+Offset: 30, Unref Method: 2500, Operand: 0
+Offset: 31, IADD , Operand: 0
+Offset: 32, LOADINT , Operand: 0
+Offset: 33, Unref Method: 2501, Operand: 0
+Offset: 34, PUSHI , Operand: 0
+Offset: 35, PUSHI , Operand: 0
+Offset: 36, LOADINT , Operand: 0
+Offset: 37, Unref Method: 2000, Operand: 0
+Offset: 38, GOTO , Operand: 1
+Offset: 39, CALL , Operand: 1411
+Offset: 40, RETURN , Operand: 0

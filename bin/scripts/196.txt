@@ -1,0 +1,24 @@
+================================================
+      Client Script 196 Dumped by SiniSoul    
+      Instruction Size: 13
+      Integer Arguments: 1 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHI , Operand: 38600709
+Offset: 1, PUSHI , Operand: -1
+Offset: 2, Unref Method: 5428, Operand: 0
+Offset: 3, PUSHI , Operand: 1
+Offset: 4, IFEQ , Operand: 1
+Offset: 5, GOTO , Operand: 5
+Offset: 6, PUSHI , Operand: 1593
+Offset: 7, PUSHS , Operand: 
+Offset: 8, PUSHI , Operand: 38600709
+Offset: 9, setInterfaceDefinitionScriptParams8 , Operand: 0
+Offset: 10, RETURN , Operand: 0
+Offset: 11, CALL , Operand: 1594
+Offset: 12, RETURN , Operand: 0

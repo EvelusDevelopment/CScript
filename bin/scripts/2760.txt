@@ -1,0 +1,41 @@
+================================================
+      Client Script 2760 Dumped by SiniSoul    
+      Instruction Size: 30
+      Integer Arguments: 1 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADGINT , Operand: 173
+Offset: 1, PUSHI , Operand: 1
+Offset: 2, IFEQ , Operand: 4
+Offset: 3, Unref Opcode: 25, Operand: 542
+Offset: 4, PUSHI , Operand: 1
+Offset: 5, IFEQ , Operand: 1
+Offset: 6, GOTO , Operand: 10
+Offset: 7, LOADINT , Operand: 0
+Offset: 8, Unref Method: 2307, Operand: 0
+Offset: 9, PUSHI , Operand: -1
+Offset: 10, PUSHS , Operand: 
+Offset: 11, LOADINT , Operand: 0
+Offset: 12, setInterfaceDefinitionScriptParams9 , Operand: 0
+Offset: 13, PUSHI , Operand: 0
+Offset: 14, LOADINT , Operand: 0
+Offset: 15, Unref Method: 2005, Operand: 0
+Offset: 16, GOTO , Operand: 12
+Offset: 17, PUSHI , Operand: 1
+Offset: 18, PUSHS , Operand: Face North
+Offset: 19, LOADINT , Operand: 0
+Offset: 20, Unref Method: 2300, Operand: 0
+Offset: 21, PUSHI , Operand: 2757
+Offset: 22, PUSHI , Operand: -2147483644
+Offset: 23, PUSHS , Operand: i
+Offset: 24, LOADINT , Operand: 0
+Offset: 25, setInterfaceDefinitionScriptParams9 , Operand: 0
+Offset: 26, PUSHI , Operand: 1
+Offset: 27, LOADINT , Operand: 0
+Offset: 28, Unref Method: 2005, Operand: 0
+Offset: 29, RETURN , Operand: 0

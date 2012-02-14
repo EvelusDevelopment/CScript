@@ -1,0 +1,70 @@
+================================================
+      Client Script 113 Dumped by SiniSoul    
+      Instruction Size: 59
+      Integer Arguments: 3 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHI , Operand: 0
+Offset: 1, STOREINT , Operand: 1
+Offset: 2, PUSHI , Operand: 0
+Offset: 3, STOREINT , Operand: 2
+Offset: 4, PUSHI , Operand: 2
+Offset: 5, getRandom , Operand: 0
+Offset: 6, PUSHI , Operand: 0
+Offset: 7, IFEQ , Operand: 1
+Offset: 8, GOTO , Operand: 6
+Offset: 9, PUSHI , Operand: 5
+Offset: 10, PUSHI , Operand: 12
+Offset: 11, getRandom , Operand: 0
+Offset: 12, IADD , Operand: 0
+Offset: 13, STOREINT , Operand: 1
+Offset: 14, GOTO , Operand: 5
+Offset: 15, PUSHI , Operand: -5
+Offset: 16, PUSHI , Operand: 12
+Offset: 17, getRandom , Operand: 0
+Offset: 18, ISUB , Operand: 0
+Offset: 19, STOREINT , Operand: 1
+Offset: 20, PUSHI , Operand: 2
+Offset: 21, getRandom , Operand: 0
+Offset: 22, PUSHI , Operand: 0
+Offset: 23, IFEQ , Operand: 1
+Offset: 24, GOTO , Operand: 6
+Offset: 25, PUSHI , Operand: 5
+Offset: 26, PUSHI , Operand: 12
+Offset: 27, getRandom , Operand: 0
+Offset: 28, IADD , Operand: 0
+Offset: 29, STOREINT , Operand: 2
+Offset: 30, GOTO , Operand: 5
+Offset: 31, PUSHI , Operand: -5
+Offset: 32, PUSHI , Operand: 12
+Offset: 33, getRandom , Operand: 0
+Offset: 34, ISUB , Operand: 0
+Offset: 35, STOREINT , Operand: 2
+Offset: 36, PUSHI , Operand: 2
+Offset: 37, getRandom , Operand: 0
+Offset: 38, PUSHI , Operand: 0
+Offset: 39, IFEQ , Operand: 1
+Offset: 40, GOTO , Operand: 9
+Offset: 41, PUSHI , Operand: 66
+Offset: 42, LOADINT , Operand: 1
+Offset: 43, LOADINT , Operand: 2
+Offset: 44, PUSHI , Operand: 0
+Offset: 45, LOADINT , Operand: 0
+Offset: 46, PUSHS , Operand: iiiI
+Offset: 47, LOADINT , Operand: 0
+Offset: 48, setInterfaceDefinitionScriptParams8 , Operand: 0
+Offset: 49, GOTO , Operand: 8
+Offset: 50, PUSHI , Operand: 66
+Offset: 51, LOADINT , Operand: 1
+Offset: 52, PUSHI , Operand: 0
+Offset: 53, LOADINT , Operand: 2
+Offset: 54, LOADINT , Operand: 0
+Offset: 55, PUSHS , Operand: iiiI
+Offset: 56, LOADINT , Operand: 0
+Offset: 57, setInterfaceDefinitionScriptParams8 , Operand: 0
+Offset: 58, RETURN , Operand: 0

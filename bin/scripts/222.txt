@@ -1,0 +1,34 @@
+================================================
+      Client Script 222 Dumped by SiniSoul    
+      Instruction Size: 23
+      Integer Arguments: 0 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADGSTR , Operand: 24
+Offset: 1, Unref Method: 3609, Operand: 0
+Offset: 2, PUSHI , Operand: 1
+Offset: 3, IFEQ , Operand: 1
+Offset: 4, GOTO , Operand: 5
+Offset: 5, PUSHI , Operand: 26
+Offset: 6, PUSHI , Operand: 0
+Offset: 7, PUSHS , Operand: Sorry, you cannot ignore players in your Friends List.
+Offset: 8, Unref Method: 3114, Operand: 0
+Offset: 9, GOTO , Operand: 9
+Offset: 10, LOADGSTR , Operand: 24
+Offset: 11, Unref Method: 3630, Operand: 0
+Offset: 12, PUSHI , Operand: 26
+Offset: 13, PUSHI , Operand: 0
+Offset: 14, PUSHS , Operand: You are ignoring 
+Offset: 15, LOADGSTR , Operand: 24
+Offset: 16, PUSHS , Operand:  until you log out.
+Offset: 17, CONCAT , Operand: 3
+Offset: 18, Unref Method: 3114, Operand: 0
+Offset: 19, PUSHI , Operand: 0
+Offset: 20, STOREGINT , Operand: 11
+Offset: 21, CALL , Operand: 675
+Offset: 22, RETURN , Operand: 0

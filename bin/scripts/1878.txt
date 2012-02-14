@@ -1,0 +1,23 @@
+================================================
+      Client Script 1878 Dumped by SiniSoul    
+      Instruction Size: 12
+      Integer Arguments: 3 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADINT , Operand: 0
+Offset: 1, LOADGSTR , Operand: 277
+Offset: 2, PUSHI , Operand: 495
+Offset: 3, LOADINT , Operand: 1
+Offset: 4, Unref Method: 2500, Operand: 0
+Offset: 5, CALL , Operand: 1401
+Offset: 6, STOREGINT , Operand: 1097
+Offset: 7, LOADINT , Operand: 1
+Offset: 8, LOADINT , Operand: 2
+Offset: 9, LOADGSTR , Operand: 277
+Offset: 10, CALL , Operand: 1879
+Offset: 11, RETURN , Operand: 0

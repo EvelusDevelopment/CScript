@@ -1,0 +1,112 @@
+================================================
+      Client Script 2630 Dumped by SiniSoul    
+      Instruction Size: 91
+      Integer Arguments: 3 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHI , Operand: -1
+Offset: 1, STOREINT , Operand: 1
+Offset: 2, PUSHI , Operand: -1
+Offset: 3, STOREINT , Operand: 2
+Offset: 4, LOADINT , Operand: 0
+Offset: 5, STOREGINT , Operand: 905
+Offset: 6, PUSHI , Operand: 1
+Offset: 7, STOREGINT , Operand: 904
+Offset: 8, LOADINT , Operand: 0
+Offset: 9, SWITCH , Operand: 0
+Offset: 10, GOTO , Operand: 72
+Offset: 11, PUSHI , Operand: 56295426
+Offset: 12, STOREINT , Operand: 0
+Offset: 13, PUSHI , Operand: 1914
+Offset: 14, STOREINT , Operand: 1
+Offset: 15, PUSHI , Operand: 1922
+Offset: 16, STOREINT , Operand: 2
+Offset: 17, GOTO , Operand: 65
+Offset: 18, PUSHI , Operand: 56295432
+Offset: 19, STOREINT , Operand: 0
+Offset: 20, PUSHI , Operand: 1915
+Offset: 21, STOREINT , Operand: 1
+Offset: 22, PUSHI , Operand: 1923
+Offset: 23, STOREINT , Operand: 2
+Offset: 24, GOTO , Operand: 58
+Offset: 25, PUSHI , Operand: 56295431
+Offset: 26, STOREINT , Operand: 0
+Offset: 27, PUSHI , Operand: 1916
+Offset: 28, STOREINT , Operand: 1
+Offset: 29, PUSHI , Operand: 1924
+Offset: 30, STOREINT , Operand: 2
+Offset: 31, GOTO , Operand: 51
+Offset: 32, Unref Opcode: 25, Operand: 6357
+Offset: 33, PUSHI , Operand: 2
+Offset: 34, IFEQ , Operand: 1
+Offset: 35, GOTO , Operand: 6
+Offset: 36, PUSHI , Operand: 56295446
+Offset: 37, STOREINT , Operand: 0
+Offset: 38, PUSHI , Operand: 1917
+Offset: 39, STOREINT , Operand: 1
+Offset: 40, PUSHI , Operand: 1925
+Offset: 41, STOREINT , Operand: 2
+Offset: 42, Unref Opcode: 25, Operand: 6357
+Offset: 43, PUSHI , Operand: 3
+Offset: 44, IFEQ , Operand: 1
+Offset: 45, GOTO , Operand: 6
+Offset: 46, PUSHI , Operand: 56295430
+Offset: 47, STOREINT , Operand: 0
+Offset: 48, PUSHI , Operand: 1918
+Offset: 49, STOREINT , Operand: 1
+Offset: 50, PUSHI , Operand: 1926
+Offset: 51, STOREINT , Operand: 2
+Offset: 52, Unref Opcode: 25, Operand: 6357
+Offset: 53, PUSHI , Operand: 4
+Offset: 54, IFEQ , Operand: 1
+Offset: 55, GOTO , Operand: 6
+Offset: 56, PUSHI , Operand: 56295447
+Offset: 57, STOREINT , Operand: 0
+Offset: 58, PUSHI , Operand: 1921
+Offset: 59, STOREINT , Operand: 1
+Offset: 60, PUSHI , Operand: 1929
+Offset: 61, STOREINT , Operand: 2
+Offset: 62, GOTO , Operand: 20
+Offset: 63, Unref Opcode: 25, Operand: 6357
+Offset: 64, PUSHI , Operand: 2
+Offset: 65, IFEQ , Operand: 1
+Offset: 66, GOTO , Operand: 6
+Offset: 67, PUSHI , Operand: 56295445
+Offset: 68, STOREINT , Operand: 0
+Offset: 69, PUSHI , Operand: 1920
+Offset: 70, STOREINT , Operand: 1
+Offset: 71, PUSHI , Operand: 1928
+Offset: 72, STOREINT , Operand: 2
+Offset: 73, Unref Opcode: 25, Operand: 6357
+Offset: 74, PUSHI , Operand: 4
+Offset: 75, IFEQ , Operand: 1
+Offset: 76, GOTO , Operand: 6
+Offset: 77, PUSHI , Operand: 56295444
+Offset: 78, STOREINT , Operand: 0
+Offset: 79, PUSHI , Operand: 1919
+Offset: 80, STOREINT , Operand: 1
+Offset: 81, PUSHI , Operand: 1927
+Offset: 82, STOREINT , Operand: 2
+Offset: 83, PUSHI , Operand: 2631
+Offset: 84, LOADINT , Operand: 0
+Offset: 85, LOADINT , Operand: 1
+Offset: 86, LOADINT , Operand: 2
+Offset: 87, PUSHS , Operand: Idd
+Offset: 88, LOADINT , Operand: 0
+Offset: 89, setInterfaceDefinitionScriptParams8 , Operand: 0
+Offset: 90, RETURN , Operand: 0
+
+================================================
+                Switch Table 0                
+================================================
+
+Key: 56295438, Value: 8
+Key: 56295439, Value: 15
+Key: 56295437, Value: 1
+Key: 56295441, Value: 53
+Key: 56295440, Value: 22

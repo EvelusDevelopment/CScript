@@ -1,0 +1,51 @@
+================================================
+      Client Script 2624 Dumped by SiniSoul    
+      Instruction Size: 40
+      Integer Arguments: 2 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHI , Operand: 1
+Offset: 1, STOREINT , Operand: 0
+Offset: 2, PUSHI , Operand: -1
+Offset: 3, STOREINT , Operand: 1
+Offset: 4, PUSHI , Operand: 105
+Offset: 5, PUSHI , Operand: 73
+Offset: 6, PUSHI , Operand: 2450
+Offset: 7, LOADINT , Operand: 0
+Offset: 8, Unref Method: 3408, Operand: 0
+Offset: 9, PUSHI , Operand: 55705624
+Offset: 10, IFNE , Operand: 1
+Offset: 11, GOTO , Operand: 27
+Offset: 12, PUSHI , Operand: 105
+Offset: 13, PUSHI , Operand: 73
+Offset: 14, PUSHI , Operand: 2450
+Offset: 15, LOADINT , Operand: 0
+Offset: 16, Unref Method: 3408, Operand: 0
+Offset: 17, STOREINT , Operand: 1
+Offset: 18, PUSHS , Operand: <col=800000>
+Offset: 19, PUSHI , Operand: 73
+Offset: 20, PUSHI , Operand: 115
+Offset: 21, PUSHI , Operand: 2449
+Offset: 22, LOADINT , Operand: 1
+Offset: 23, Unref Method: 3408, Operand: 0
+Offset: 24, PUSHS , Operand:   
+Offset: 25, PUSHS , Operand: <col=000000>
+Offset: 26, PUSHI , Operand: 73
+Offset: 27, PUSHI , Operand: 115
+Offset: 28, PUSHI , Operand: 2448
+Offset: 29, LOADINT , Operand: 1
+Offset: 30, Unref Method: 3408, Operand: 0
+Offset: 31, CONCAT , Operand: 5
+Offset: 32, LOADINT , Operand: 1
+Offset: 33, Unref Method: 2112, Operand: 0
+Offset: 34, LOADINT , Operand: 0
+Offset: 35, PUSHI , Operand: 1
+Offset: 36, IADD , Operand: 0
+Offset: 37, STOREINT , Operand: 0
+Offset: 38, GOTO , Operand: -35
+Offset: 39, RETURN , Operand: 0

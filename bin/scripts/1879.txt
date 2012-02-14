@@ -1,0 +1,40 @@
+================================================
+      Client Script 1879 Dumped by SiniSoul    
+      Instruction Size: 29
+      Integer Arguments: 2 
+      String  Arguments: 1 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADGINT , Operand: 1097
+Offset: 1, LOADSTR , Operand: 0
+Offset: 2, PUSHI , Operand: 495
+Offset: 3, LOADINT , Operand: 0
+Offset: 4, Unref Method: 2500, Operand: 0
+Offset: 5, CALL , Operand: 1551
+Offset: 6, PUSHI , Operand: 1
+Offset: 7, PUSHI , Operand: 0
+Offset: 8, PUSHI , Operand: 1
+Offset: 9, LOADINT , Operand: 1
+Offset: 10, Unref Method: 2000, Operand: 0
+Offset: 11, Unref Method: 3340, Operand: 0
+Offset: 12, PUSHI , Operand: 1
+Offset: 13, IFEQ , Operand: 1
+Offset: 14, GOTO , Operand: 4
+Offset: 15, PUSHI , Operand: 0
+Offset: 16, LOADINT , Operand: 1
+Offset: 17, Unref Method: 2003, Operand: 0
+Offset: 18, GOTO , Operand: 3
+Offset: 19, PUSHI , Operand: 1
+Offset: 20, LOADINT , Operand: 1
+Offset: 21, Unref Method: 2003, Operand: 0
+Offset: 22, PUSHI , Operand: 1880
+Offset: 23, Unref Method: 3300, Operand: 0
+Offset: 24, LOADINT , Operand: 1
+Offset: 25, PUSHS , Operand: iI
+Offset: 26, LOADINT , Operand: 0
+Offset: 27, setInterfaceDefinitionScriptParams8 , Operand: 0
+Offset: 28, RETURN , Operand: 0

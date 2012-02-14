@@ -1,0 +1,145 @@
+================================================
+      Client Script 2421 Dumped by SiniSoul    
+      Instruction Size: 134
+      Integer Arguments: 0 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHI , Operand: 46997
+Offset: 1, PUSHI , Operand: 44171277
+Offset: 2, Unref Method: 2108, Operand: 0
+Offset: 3, PUSHI , Operand: 46976
+Offset: 4, PUSHI , Operand: 44171279
+Offset: 5, Unref Method: 2108, Operand: 0
+Offset: 6, PUSHI , Operand: 46974
+Offset: 7, PUSHI , Operand: 44171278
+Offset: 8, Unref Method: 2108, Operand: 0
+Offset: 9, PUSHI , Operand: 46995
+Offset: 10, PUSHI , Operand: 44171280
+Offset: 11, Unref Method: 2108, Operand: 0
+Offset: 12, PUSHI , Operand: 46986
+Offset: 13, PUSHI , Operand: 44171281
+Offset: 14, Unref Method: 2108, Operand: 0
+Offset: 15, LOADGINT , Operand: 737
+Offset: 16, PUSHI , Operand: 1
+Offset: 17, IFEQ , Operand: 1
+Offset: 18, GOTO , Operand: 11
+Offset: 19, PUSHI , Operand: 46982
+Offset: 20, PUSHI , Operand: 44171277
+Offset: 21, Unref Method: 2108, Operand: 0
+Offset: 22, PUSHI , Operand: 6691
+Offset: 23, PUSHI , Operand: 1
+Offset: 24, PUSHI , Operand: 0
+Offset: 25, Unref Method: 3200, Operand: 0
+Offset: 26, PUSHI , Operand: 1
+Offset: 27, PUSHI , Operand: 44171274
+Offset: 28, Unref Method: 2003, Operand: 0
+Offset: 29, GOTO , Operand: 103
+Offset: 30, LOADGINT , Operand: 737
+Offset: 31, PUSHI , Operand: 2
+Offset: 32, IFEQ , Operand: 1
+Offset: 33, GOTO , Operand: 11
+Offset: 34, PUSHI , Operand: 46979
+Offset: 35, PUSHI , Operand: 44171279
+Offset: 36, Unref Method: 2108, Operand: 0
+Offset: 37, PUSHI , Operand: 6694
+Offset: 38, PUSHI , Operand: 1
+Offset: 39, PUSHI , Operand: 0
+Offset: 40, Unref Method: 3200, Operand: 0
+Offset: 41, PUSHI , Operand: 46964
+Offset: 42, PUSHI , Operand: 44171270
+Offset: 43, Unref Method: 2108, Operand: 0
+Offset: 44, GOTO , Operand: 88
+Offset: 45, LOADGINT , Operand: 737
+Offset: 46, PUSHI , Operand: 3
+Offset: 47, IFEQ , Operand: 1
+Offset: 48, GOTO , Operand: 7
+Offset: 49, PUSHI , Operand: 46989
+Offset: 50, PUSHI , Operand: 44171278
+Offset: 51, Unref Method: 2108, Operand: 0
+Offset: 52, PUSHI , Operand: 46956
+Offset: 53, PUSHI , Operand: 44171270
+Offset: 54, Unref Method: 2108, Operand: 0
+Offset: 55, GOTO , Operand: 77
+Offset: 56, LOADGINT , Operand: 737
+Offset: 57, PUSHI , Operand: 4
+Offset: 58, IFEQ , Operand: 1
+Offset: 59, GOTO , Operand: 11
+Offset: 60, PUSHI , Operand: 46981
+Offset: 61, PUSHI , Operand: 44171280
+Offset: 62, Unref Method: 2108, Operand: 0
+Offset: 63, PUSHI , Operand: 6695
+Offset: 64, PUSHI , Operand: 1
+Offset: 65, PUSHI , Operand: 0
+Offset: 66, Unref Method: 3200, Operand: 0
+Offset: 67, PUSHI , Operand: 46965
+Offset: 68, PUSHI , Operand: 44171270
+Offset: 69, Unref Method: 2108, Operand: 0
+Offset: 70, GOTO , Operand: 62
+Offset: 71, LOADGINT , Operand: 737
+Offset: 72, PUSHI , Operand: 5
+Offset: 73, IFEQ , Operand: 1
+Offset: 74, GOTO , Operand: 11
+Offset: 75, PUSHI , Operand: 46996
+Offset: 76, PUSHI , Operand: 44171281
+Offset: 77, Unref Method: 2108, Operand: 0
+Offset: 78, PUSHI , Operand: 6690
+Offset: 79, PUSHI , Operand: 1
+Offset: 80, PUSHI , Operand: 0
+Offset: 81, Unref Method: 3200, Operand: 0
+Offset: 82, PUSHI , Operand: 0
+Offset: 83, PUSHI , Operand: 44171269
+Offset: 84, Unref Method: 2003, Operand: 0
+Offset: 85, GOTO , Operand: 47
+Offset: 86, LOADGINT , Operand: 737
+Offset: 87, PUSHI , Operand: 6
+Offset: 88, IFEQ , Operand: 1
+Offset: 89, GOTO , Operand: 4
+Offset: 90, PUSHI , Operand: 11761
+Offset: 91, PUSHI , Operand: 44171273
+Offset: 92, Unref Method: 2110, Operand: 0
+Offset: 93, GOTO , Operand: 39
+Offset: 94, LOADGINT , Operand: 737
+Offset: 95, PUSHI , Operand: 7
+Offset: 96, IFEQ , Operand: 1
+Offset: 97, GOTO , Operand: 4
+Offset: 98, PUSHI , Operand: 11760
+Offset: 99, PUSHI , Operand: 44171273
+Offset: 100, Unref Method: 2110, Operand: 0
+Offset: 101, GOTO , Operand: 31
+Offset: 102, LOADGINT , Operand: 737
+Offset: 103, PUSHI , Operand: 8
+Offset: 104, IFEQ , Operand: 1
+Offset: 105, GOTO , Operand: 4
+Offset: 106, PUSHI , Operand: 11759
+Offset: 107, PUSHI , Operand: 44171273
+Offset: 108, Unref Method: 2110, Operand: 0
+Offset: 109, GOTO , Operand: 23
+Offset: 110, LOADGINT , Operand: 737
+Offset: 111, PUSHI , Operand: 9
+Offset: 112, IFEQ , Operand: 1
+Offset: 113, GOTO , Operand: 4
+Offset: 114, PUSHI , Operand: 11763
+Offset: 115, PUSHI , Operand: 44171273
+Offset: 116, Unref Method: 2110, Operand: 0
+Offset: 117, GOTO , Operand: 15
+Offset: 118, LOADGINT , Operand: 737
+Offset: 119, PUSHI , Operand: 10
+Offset: 120, IFEQ , Operand: 1
+Offset: 121, GOTO , Operand: 4
+Offset: 122, PUSHI , Operand: 11764
+Offset: 123, PUSHI , Operand: 44171273
+Offset: 124, Unref Method: 2110, Operand: 0
+Offset: 125, GOTO , Operand: 7
+Offset: 126, LOADGINT , Operand: 737
+Offset: 127, PUSHI , Operand: 11
+Offset: 128, IFEQ , Operand: 1
+Offset: 129, GOTO , Operand: 3
+Offset: 130, PUSHI , Operand: 11765
+Offset: 131, PUSHI , Operand: 44171273
+Offset: 132, Unref Method: 2110, Operand: 0
+Offset: 133, RETURN , Operand: 0

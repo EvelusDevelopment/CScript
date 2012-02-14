@@ -1,0 +1,2013 @@
+================================================
+      Client Script 1006 Dumped by SiniSoul    
+      Instruction Size: 1786
+      Integer Arguments: 2 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADINT , Operand: 0
+Offset: 1, SWITCH , Operand: 0
+Offset: 2, GOTO , Operand: 1778
+Offset: 3, LOADINT , Operand: 1
+Offset: 4, SWITCH , Operand: 1
+Offset: 5, GOTO , Operand: 203
+Offset: 6, PUSHI , Operand: 1
+Offset: 7, PUSHI , Operand: 9951
+Offset: 8, PUSHS , Operand: Lay 1 trap at a time
+Offset: 9, PUSHS , Operand: You can now lay 
+Offset: 10, PUSHS , Operand: <col=000080>
+Offset: 11, PUSHS , Operand: 1 trap
+Offset: 12, PUSHS , Operand: </col>
+Offset: 13, PUSHS , Operand:  at a time.
+Offset: 14, CONCAT , Operand: 5
+Offset: 15, RETURN , Operand: 0
+Offset: 16, GOTO , Operand: 192
+Offset: 17, PUSHI , Operand: 1
+Offset: 18, PUSHI , Operand: 10006
+Offset: 19, PUSHS , Operand: Bird snare setting
+Offset: 20, PUSHS , Operand: You can now set 
+Offset: 21, PUSHS , Operand: <col=000080>
+Offset: 22, PUSHS , Operand: bird snares
+Offset: 23, PUSHS , Operand: </col>
+Offset: 24, PUSHS , Operand: .
+Offset: 25, CONCAT , Operand: 5
+Offset: 26, RETURN , Operand: 0
+Offset: 27, GOTO , Operand: 181
+Offset: 28, PUSHI , Operand: 1
+Offset: 29, PUSHI , Operand: 10150
+Offset: 30, PUSHS , Operand: Noose wand
+Offset: 31, PUSHS , Operand: You can now use a 
+Offset: 32, PUSHS , Operand: <col=000080>
+Offset: 33, PUSHS , Operand: noose wand
+Offset: 34, PUSHS , Operand: </col>
+Offset: 35, PUSHS , Operand:  when tracking.
+Offset: 36, CONCAT , Operand: 5
+Offset: 37, RETURN , Operand: 0
+Offset: 38, GOTO , Operand: 170
+Offset: 39, PUSHI , Operand: 15
+Offset: 40, PUSHI , Operand: 10010
+Offset: 41, PUSHS , Operand: Butterfly netting
+Offset: 42, PUSHS , Operand: You can now use a 
+Offset: 43, PUSHS , Operand: <col=000080>
+Offset: 44, PUSHS , Operand: butterfly net
+Offset: 45, PUSHS , Operand: </col>
+Offset: 46, PUSHS , Operand:  and 
+Offset: 47, PUSHS , Operand: <col=000080>
+Offset: 48, PUSHS , Operand: butterfly jar
+Offset: 49, PUSHS , Operand: </col>
+Offset: 50, PUSHS , Operand:  to catch 
+Offset: 51, PUSHS , Operand: <col=000080>
+Offset: 52, PUSHS , Operand: butterflies
+Offset: 53, PUSHS , Operand: </col>
+Offset: 54, PUSHS , Operand: .
+Offset: 55, CONCAT , Operand: 13
+Offset: 56, RETURN , Operand: 0
+Offset: 57, GOTO , Operand: 151
+Offset: 58, PUSHI , Operand: 20
+Offset: 59, PUSHI , Operand: 9951
+Offset: 60, PUSHS , Operand: Lay up to 2 traps at a time
+Offset: 61, PUSHS , Operand: You can now lay up to 
+Offset: 62, PUSHS , Operand: <col=000080>
+Offset: 63, PUSHS , Operand: 2 traps
+Offset: 64, PUSHS , Operand: </col>
+Offset: 65, PUSHS , Operand:  at a time.
+Offset: 66, CONCAT , Operand: 5
+Offset: 67, RETURN , Operand: 0
+Offset: 68, GOTO , Operand: 140
+Offset: 69, PUSHI , Operand: 23
+Offset: 70, PUSHI , Operand: 1511
+Offset: 71, PUSHS , Operand: Set a deadfall trap (limit of 1)
+Offset: 72, PUSHS , Operand: You can now set a 
+Offset: 73, PUSHS , Operand: <col=000080>
+Offset: 74, PUSHS , Operand: deadfall trap
+Offset: 75, PUSHS , Operand: </col>
+Offset: 76, PUSHS , Operand:  up to a limit of 1.
+Offset: 77, CONCAT , Operand: 5
+Offset: 78, RETURN , Operand: 0
+Offset: 79, GOTO , Operand: 129
+Offset: 80, PUSHI , Operand: 27
+Offset: 81, PUSHI , Operand: 10008
+Offset: 82, PUSHS , Operand: Set a box trap
+Offset: 83, PUSHS , Operand: You can now set a 
+Offset: 84, PUSHS , Operand: <col=000080>
+Offset: 85, PUSHS , Operand: box trap
+Offset: 86, PUSHS , Operand: </col>
+Offset: 87, PUSHS , Operand: .
+Offset: 88, CONCAT , Operand: 5
+Offset: 89, RETURN , Operand: 0
+Offset: 90, GOTO , Operand: 118
+Offset: 91, PUSHI , Operand: 27
+Offset: 92, PUSHI , Operand: 10031
+Offset: 93, PUSHS , Operand: Set a rabbit snare
+Offset: 94, PUSHS , Operand: You can now set a 
+Offset: 95, PUSHS , Operand: <col=000080>
+Offset: 96, PUSHS , Operand: rabbit snare
+Offset: 97, PUSHS , Operand: </col>
+Offset: 98, PUSHS , Operand: .
+Offset: 99, CONCAT , Operand: 5
+Offset: 100, RETURN , Operand: 0
+Offset: 101, GOTO , Operand: 107
+Offset: 102, PUSHI , Operand: 29
+Offset: 103, PUSHI , Operand: 303
+Offset: 104, PUSHS , Operand: Set a net trap
+Offset: 105, PUSHS , Operand: You can now set a 
+Offset: 106, PUSHS , Operand: <col=000080>
+Offset: 107, PUSHS , Operand: net trap
+Offset: 108, PUSHS , Operand: </col>
+Offset: 109, PUSHS , Operand: .
+Offset: 110, CONCAT , Operand: 5
+Offset: 111, RETURN , Operand: 0
+Offset: 112, GOTO , Operand: 96
+Offset: 113, PUSHI , Operand: 31
+Offset: 114, PUSHI , Operand: 10029
+Offset: 115, PUSHS , Operand: Set a pitfall trap
+Offset: 116, PUSHS , Operand: You can now set a 
+Offset: 117, PUSHS , Operand: <col=000080>
+Offset: 118, PUSHS , Operand: pitfall trap
+Offset: 119, PUSHS , Operand: </col>
+Offset: 120, PUSHS , Operand: .
+Offset: 121, CONCAT , Operand: 5
+Offset: 122, RETURN , Operand: 0
+Offset: 123, GOTO , Operand: 85
+Offset: 124, PUSHI , Operand: 39
+Offset: 125, PUSHI , Operand: 594
+Offset: 126, PUSHS , Operand: Use smoke to mask the scent on a trap
+Offset: 127, PUSHS , Operand: You can now use 
+Offset: 128, PUSHS , Operand: <col=000080>
+Offset: 129, PUSHS , Operand: smoke
+Offset: 130, PUSHS , Operand: </col>
+Offset: 131, PUSHS , Operand:  to mask the scent on a trap.
+Offset: 132, CONCAT , Operand: 5
+Offset: 133, RETURN , Operand: 0
+Offset: 134, GOTO , Operand: 74
+Offset: 135, PUSHI , Operand: 40
+Offset: 136, PUSHI , Operand: 9951
+Offset: 137, PUSHS , Operand: Lay up to 3 traps at a time
+Offset: 138, PUSHS , Operand: You can now lay up to 
+Offset: 139, PUSHS , Operand: <col=000080>
+Offset: 140, PUSHS , Operand: 3 traps
+Offset: 141, PUSHS , Operand: </col>
+Offset: 142, PUSHS , Operand:  at a time.
+Offset: 143, CONCAT , Operand: 5
+Offset: 144, RETURN , Operand: 0
+Offset: 145, GOTO , Operand: 63
+Offset: 146, PUSHI , Operand: 40
+Offset: 147, PUSHI , Operand: 14110
+Offset: 148, PUSHS , Operand: Sacred clay butterfly net
+Offset: 149, PUSHS , Operand: You can now use 
+Offset: 150, PUSHS , Operand: <col=000080>
+Offset: 151, PUSHS , Operand: sacred clay butterfly nets
+Offset: 152, PUSHS , Operand: </col>
+Offset: 153, CONCAT , Operand: 4
+Offset: 154, RETURN , Operand: 0
+Offset: 155, GOTO , Operand: 53
+Offset: 156, PUSHI , Operand: 40
+Offset: 157, PUSHI , Operand: 14102
+Offset: 158, PUSHS , Operand: Volatile butterfly net
+Offset: 159, PUSHS , Operand: You can now use 
+Offset: 160, PUSHS , Operand: <col=000080>
+Offset: 161, PUSHS , Operand: volatile butterfly nets
+Offset: 162, PUSHS , Operand: </col>
+Offset: 163, CONCAT , Operand: 4
+Offset: 164, RETURN , Operand: 0
+Offset: 165, GOTO , Operand: 43
+Offset: 166, PUSHI , Operand: 43
+Offset: 167, PUSHI , Operand: 10023
+Offset: 168, PUSHS , Operand: Hunt with a falcon
+Offset: 169, PUSHS , Operand: You can now hunt with a 
+Offset: 170, PUSHS , Operand: <col=000080>
+Offset: 171, PUSHS , Operand: falcon
+Offset: 172, PUSHS , Operand: </col>
+Offset: 173, PUSHS , Operand: .
+Offset: 174, CONCAT , Operand: 5
+Offset: 175, RETURN , Operand: 0
+Offset: 176, GOTO , Operand: 32
+Offset: 177, PUSHI , Operand: 60
+Offset: 178, PUSHI , Operand: 9951
+Offset: 179, PUSHS , Operand: Lay up to 4 traps at a time
+Offset: 180, PUSHS , Operand: You can now lay up to 
+Offset: 181, PUSHS , Operand: <col=000080>
+Offset: 182, PUSHS , Operand: 4 traps
+Offset: 183, PUSHS , Operand: </col>
+Offset: 184, PUSHS , Operand:  at a time.
+Offset: 185, CONCAT , Operand: 5
+Offset: 186, RETURN , Operand: 0
+Offset: 187, GOTO , Operand: 21
+Offset: 188, PUSHI , Operand: 71
+Offset: 189, PUSHI , Operand: 10025
+Offset: 190, PUSHS , Operand: Magical imp box
+Offset: 191, PUSHS , Operand: You can now set a 
+Offset: 192, PUSHS , Operand: <col=000080>
+Offset: 193, PUSHS , Operand: magical imp box
+Offset: 194, PUSHS , Operand: </col>
+Offset: 195, PUSHS , Operand:  trap.
+Offset: 196, CONCAT , Operand: 5
+Offset: 197, RETURN , Operand: 0
+Offset: 198, GOTO , Operand: 10
+Offset: 199, PUSHI , Operand: 80
+Offset: 200, PUSHI , Operand: 9951
+Offset: 201, PUSHS , Operand: Lay up to 5 traps at a time
+Offset: 202, PUSHS , Operand: You can now lay up to 
+Offset: 203, PUSHS , Operand: <col=000080>
+Offset: 204, PUSHS , Operand:  5 traps
+Offset: 205, PUSHS , Operand: </col>
+Offset: 206, PUSHS , Operand:  at a time.
+Offset: 207, CONCAT , Operand: 5
+Offset: 208, RETURN , Operand: 0
+Offset: 209, GOTO , Operand: 1571
+Offset: 210, LOADINT , Operand: 1
+Offset: 211, SWITCH , Operand: 2
+Offset: 212, GOTO , Operand: 68
+Offset: 213, PUSHI , Operand: 1
+Offset: 214, PUSHI , Operand: 9953
+Offset: 215, PUSHS , Operand: Polar kebbit (polar)
+Offset: 216, PUSHS , Operand: You can now track 
+Offset: 217, PUSHS , Operand: <col=000080>
+Offset: 218, PUSHS , Operand: polar kebbits
+Offset: 219, PUSHS , Operand: </col>
+Offset: 220, PUSHS , Operand: .
+Offset: 221, CONCAT , Operand: 5
+Offset: 222, RETURN , Operand: 0
+Offset: 223, GOTO , Operand: 57
+Offset: 224, PUSHI , Operand: 3
+Offset: 225, PUSHI , Operand: 9954
+Offset: 226, PUSHS , Operand: Common kebbit (woodland)
+Offset: 227, PUSHS , Operand: You can now track 
+Offset: 228, PUSHS , Operand: <col=000080>
+Offset: 229, PUSHS , Operand: common kebbits
+Offset: 230, PUSHS , Operand: </col>
+Offset: 231, PUSHS , Operand: .
+Offset: 232, CONCAT , Operand: 5
+Offset: 233, RETURN , Operand: 0
+Offset: 234, GOTO , Operand: 46
+Offset: 235, PUSHI , Operand: 7
+Offset: 236, PUSHI , Operand: 9955
+Offset: 237, PUSHS , Operand: Feldip weasel (jungle)
+Offset: 238, PUSHS , Operand: You can now track 
+Offset: 239, PUSHS , Operand: <col=000080>
+Offset: 240, PUSHS , Operand: feldip weasels
+Offset: 241, PUSHS , Operand: </col>
+Offset: 242, PUSHS , Operand: .
+Offset: 243, CONCAT , Operand: 5
+Offset: 244, RETURN , Operand: 0
+Offset: 245, GOTO , Operand: 35
+Offset: 246, PUSHI , Operand: 13
+Offset: 247, PUSHI , Operand: 9956
+Offset: 248, PUSHS , Operand: Desert devil (desert)
+Offset: 249, PUSHS , Operand: You can now track 
+Offset: 250, PUSHS , Operand: <col=000080>
+Offset: 251, PUSHS , Operand: desert devils
+Offset: 252, PUSHS , Operand: </col>
+Offset: 253, PUSHS , Operand: .
+Offset: 254, CONCAT , Operand: 5
+Offset: 255, RETURN , Operand: 0
+Offset: 256, GOTO , Operand: 24
+Offset: 257, PUSHI , Operand: 45
+Offset: 258, PUSHI , Operand: 14832
+Offset: 259, PUSHS , Operand: Penguins (polar)
+Offset: 260, PUSHS , Operand: <br>
+Offset: 261, PUSHS , Operand:  (after Hunt for Red Raktuber)
+Offset: 262, CONCAT , Operand: 3
+Offset: 263, PUSHS , Operand: You can now track 
+Offset: 264, PUSHS , Operand: <col=000080>
+Offset: 265, PUSHS , Operand: penguins
+Offset: 266, PUSHS , Operand: </col>
+Offset: 267, PUSHS , Operand:  (after Hunt for Red Raktuber).
+Offset: 268, CONCAT , Operand: 5
+Offset: 269, RETURN , Operand: 0
+Offset: 270, GOTO , Operand: 10
+Offset: 271, PUSHI , Operand: 49
+Offset: 272, PUSHI , Operand: 9961
+Offset: 273, PUSHS , Operand: Razor-backed kebbit (woodland)
+Offset: 274, PUSHS , Operand: You can now track 
+Offset: 275, PUSHS , Operand: <col=000080>
+Offset: 276, PUSHS , Operand: razor-backed kebbits
+Offset: 277, PUSHS , Operand: </col>
+Offset: 278, PUSHS , Operand: .
+Offset: 279, CONCAT , Operand: 5
+Offset: 280, RETURN , Operand: 0
+Offset: 281, GOTO , Operand: 1499
+Offset: 282, LOADINT , Operand: 1
+Offset: 283, SWITCH , Operand: 3
+Offset: 284, GOTO , Operand: 70
+Offset: 285, PUSHI , Operand: 1
+Offset: 286, PUSHI , Operand: 9965
+Offset: 287, PUSHS , Operand: Crimson swift (jungle)
+Offset: 288, PUSHS , Operand: You can now trap 
+Offset: 289, PUSHS , Operand: <col=000080>
+Offset: 290, PUSHS , Operand: crimson swifts
+Offset: 291, PUSHS , Operand: </col>
+Offset: 292, PUSHS , Operand: .
+Offset: 293, CONCAT , Operand: 5
+Offset: 294, RETURN , Operand: 0
+Offset: 295, GOTO , Operand: 59
+Offset: 296, PUSHI , Operand: 5
+Offset: 297, PUSHI , Operand: 9968
+Offset: 298, PUSHS , Operand: Golden warbler (desert)
+Offset: 299, PUSHS , Operand: You can now trap 
+Offset: 300, PUSHS , Operand: <col=000080>
+Offset: 301, PUSHS , Operand: golden warblers
+Offset: 302, PUSHS , Operand: </col>
+Offset: 303, PUSHS , Operand: .
+Offset: 304, CONCAT , Operand: 5
+Offset: 305, RETURN , Operand: 0
+Offset: 306, GOTO , Operand: 48
+Offset: 307, PUSHI , Operand: 9
+Offset: 308, PUSHI , Operand: 9966
+Offset: 309, PUSHS , Operand: Copper longtail (woodland)
+Offset: 310, PUSHS , Operand: You can now trap 
+Offset: 311, PUSHS , Operand: <col=000080>
+Offset: 312, PUSHS , Operand: copper longtails
+Offset: 313, PUSHS , Operand: </col>
+Offset: 314, PUSHS , Operand: .
+Offset: 315, CONCAT , Operand: 5
+Offset: 316, RETURN , Operand: 0
+Offset: 317, GOTO , Operand: 37
+Offset: 318, PUSHI , Operand: 11
+Offset: 319, PUSHI , Operand: 9967
+Offset: 320, PUSHS , Operand: Cerulean twitch (polar)
+Offset: 321, PUSHS , Operand: You can now trap 
+Offset: 322, PUSHS , Operand: <col=000080>
+Offset: 323, PUSHS , Operand: cerulean twitches
+Offset: 324, PUSHS , Operand: </col>
+Offset: 325, PUSHS , Operand: .
+Offset: 326, CONCAT , Operand: 5
+Offset: 327, RETURN , Operand: 0
+Offset: 328, GOTO , Operand: 26
+Offset: 329, PUSHI , Operand: 19
+Offset: 330, PUSHI , Operand: 9969
+Offset: 331, PUSHS , Operand: Tropical wagtail (jungle)
+Offset: 332, PUSHS , Operand: You can now trap 
+Offset: 333, PUSHS , Operand: <col=000080>
+Offset: 334, PUSHS , Operand: tropical wagtails
+Offset: 335, PUSHS , Operand: </col>
+Offset: 336, PUSHS , Operand: .
+Offset: 337, CONCAT , Operand: 5
+Offset: 338, RETURN , Operand: 0
+Offset: 339, GOTO , Operand: 15
+Offset: 340, PUSHI , Operand: 39
+Offset: 341, PUSHI , Operand: 12586
+Offset: 342, PUSHS , Operand: Wimpy bird (jungle)
+Offset: 343, PUSHS , Operand: <br>
+Offset: 344, PUSHS , Operand:  (after starting As a First Resort...)
+Offset: 345, PUSHS , Operand: <br>
+Offset: 346, PUSHS , Operand:  Required lure: smouldering tansymum
+Offset: 347, CONCAT , Operand: 5
+Offset: 348, PUSHS , Operand: You can now trap 
+Offset: 349, PUSHS , Operand: <col=000080>
+Offset: 350, PUSHS , Operand: wimpy birds
+Offset: 351, PUSHS , Operand: </col>
+Offset: 352, PUSHS , Operand:  (after starting As a First Resort...).
+Offset: 353, CONCAT , Operand: 5
+Offset: 354, RETURN , Operand: 0
+Offset: 355, GOTO , Operand: 1425
+Offset: 356, LOADINT , Operand: 1
+Offset: 357, SWITCH , Operand: 4
+Offset: 358, GOTO , Operand: 200
+Offset: 359, PUSHI , Operand: 15
+Offset: 360, PUSHI , Operand: 9970
+Offset: 361, PUSHS , Operand: Ruby harvest butterfly (woodland)
+Offset: 362, PUSHS , Operand: You can now net 
+Offset: 363, PUSHS , Operand: <col=000080>
+Offset: 364, PUSHS , Operand: ruby harvest butterflies
+Offset: 365, PUSHS , Operand: </col>
+Offset: 366, PUSHS , Operand: .
+Offset: 367, CONCAT , Operand: 5
+Offset: 368, RETURN , Operand: 0
+Offset: 369, GOTO , Operand: 189
+Offset: 370, PUSHI , Operand: 17
+Offset: 371, PUSHI , Operand: 11238
+Offset: 372, PUSHS , Operand: Baby impling
+Offset: 373, PUSHS , Operand: You can now net 
+Offset: 374, PUSHS , Operand: <col=000080>
+Offset: 375, PUSHS , Operand: baby implings
+Offset: 376, PUSHS , Operand: </col>
+Offset: 377, PUSHS , Operand: .
+Offset: 378, CONCAT , Operand: 5
+Offset: 379, RETURN , Operand: 0
+Offset: 380, GOTO , Operand: 178
+Offset: 381, PUSHI , Operand: 22
+Offset: 382, PUSHI , Operand: 11240
+Offset: 383, PUSHS , Operand: Young impling
+Offset: 384, PUSHS , Operand: You can now net 
+Offset: 385, PUSHS , Operand: <col=000080>
+Offset: 386, PUSHS , Operand: young implings
+Offset: 387, PUSHS , Operand: </col>
+Offset: 388, PUSHS , Operand: .
+Offset: 389, CONCAT , Operand: 5
+Offset: 390, RETURN , Operand: 0
+Offset: 391, GOTO , Operand: 167
+Offset: 392, PUSHI , Operand: 25
+Offset: 393, PUSHI , Operand: 9971
+Offset: 394, PUSHS , Operand: Sapphire glacialis butterfly (polar)
+Offset: 395, PUSHS , Operand: You can now net 
+Offset: 396, PUSHS , Operand: <col=000080>
+Offset: 397, PUSHS , Operand: sapphire glacialis butterflies
+Offset: 398, PUSHS , Operand: </col>
+Offset: 399, PUSHS , Operand: .
+Offset: 400, CONCAT , Operand: 5
+Offset: 401, RETURN , Operand: 0
+Offset: 402, GOTO , Operand: 156
+Offset: 403, PUSHI , Operand: 28
+Offset: 404, PUSHI , Operand: 11242
+Offset: 405, PUSHS , Operand: Gourmet impling
+Offset: 406, PUSHS , Operand: You can now net 
+Offset: 407, PUSHS , Operand: <col=000080>
+Offset: 408, PUSHS , Operand: gourmet implings
+Offset: 409, PUSHS , Operand: </col>
+Offset: 410, PUSHS , Operand: .
+Offset: 411, CONCAT , Operand: 5
+Offset: 412, RETURN , Operand: 0
+Offset: 413, GOTO , Operand: 145
+Offset: 414, PUSHI , Operand: 35
+Offset: 415, PUSHI , Operand: 9972
+Offset: 416, PUSHS , Operand: Snowy knight butterfly (polar)
+Offset: 417, PUSHS , Operand: You can now net 
+Offset: 418, PUSHS , Operand: <col=000080>
+Offset: 419, PUSHS , Operand: snowy knight butterflies
+Offset: 420, PUSHS , Operand: </col>
+Offset: 421, PUSHS , Operand: .
+Offset: 422, CONCAT , Operand: 5
+Offset: 423, RETURN , Operand: 0
+Offset: 424, GOTO , Operand: 134
+Offset: 425, PUSHI , Operand: 36
+Offset: 426, PUSHI , Operand: 11244
+Offset: 427, PUSHS , Operand: Earth impling
+Offset: 428, PUSHS , Operand: You can now net 
+Offset: 429, PUSHS , Operand: <col=000080>
+Offset: 430, PUSHS , Operand: earth implings
+Offset: 431, PUSHS , Operand: </col>
+Offset: 432, PUSHS , Operand: .
+Offset: 433, CONCAT , Operand: 5
+Offset: 434, RETURN , Operand: 0
+Offset: 435, GOTO , Operand: 123
+Offset: 436, PUSHI , Operand: 42
+Offset: 437, PUSHI , Operand: 11246
+Offset: 438, PUSHS , Operand: Essence impling
+Offset: 439, PUSHS , Operand: You can now net 
+Offset: 440, PUSHS , Operand: <col=000080>
+Offset: 441, PUSHS , Operand: essence implings
+Offset: 442, PUSHS , Operand: </col>
+Offset: 443, PUSHS , Operand: .
+Offset: 444, CONCAT , Operand: 5
+Offset: 445, RETURN , Operand: 0
+Offset: 446, GOTO , Operand: 112
+Offset: 447, PUSHI , Operand: 45
+Offset: 448, PUSHI , Operand: 9973
+Offset: 449, PUSHS , Operand: Black warlock butterfly (jungle)
+Offset: 450, PUSHS , Operand: You can now net 
+Offset: 451, PUSHS , Operand: <col=000080>
+Offset: 452, PUSHS , Operand: black warlock butterflies
+Offset: 453, PUSHS , Operand: </col>
+Offset: 454, PUSHS , Operand: .
+Offset: 455, CONCAT , Operand: 5
+Offset: 456, RETURN , Operand: 0
+Offset: 457, GOTO , Operand: 101
+Offset: 458, PUSHI , Operand: 50
+Offset: 459, PUSHI , Operand: 11248
+Offset: 460, PUSHS , Operand: Eclectic impling
+Offset: 461, PUSHS , Operand: You can now net 
+Offset: 462, PUSHS , Operand: <col=000080>
+Offset: 463, PUSHS , Operand: eclectic implings
+Offset: 464, PUSHS , Operand: </col>
+Offset: 465, PUSHS , Operand: .
+Offset: 466, CONCAT , Operand: 5
+Offset: 467, RETURN , Operand: 0
+Offset: 468, GOTO , Operand: 90
+Offset: 469, PUSHI , Operand: 54
+Offset: 470, PUSHI , Operand: 15513
+Offset: 471, PUSHS , Operand: Spirit impling
+Offset: 472, PUSHS , Operand: You can now net 
+Offset: 473, PUSHS , Operand: <col=000080>
+Offset: 474, PUSHS , Operand: spirit implings
+Offset: 475, PUSHS , Operand: </col>
+Offset: 476, PUSHS , Operand: .
+Offset: 477, CONCAT , Operand: 5
+Offset: 478, RETURN , Operand: 0
+Offset: 479, GOTO , Operand: 79
+Offset: 480, PUSHI , Operand: 58
+Offset: 481, PUSHI , Operand: 11250
+Offset: 482, PUSHS , Operand: Nature impling
+Offset: 483, PUSHS , Operand: You can now net 
+Offset: 484, PUSHS , Operand: <col=000080>
+Offset: 485, PUSHS , Operand: nature implings
+Offset: 486, PUSHS , Operand: </col>
+Offset: 487, PUSHS , Operand: .
+Offset: 488, CONCAT , Operand: 5
+Offset: 489, RETURN , Operand: 0
+Offset: 490, GOTO , Operand: 68
+Offset: 491, PUSHI , Operand: 65
+Offset: 492, PUSHI , Operand: 11252
+Offset: 493, PUSHS , Operand: Magpie impling
+Offset: 494, PUSHS , Operand: You can now net 
+Offset: 495, PUSHS , Operand: <col=000080>
+Offset: 496, PUSHS , Operand: magpie implings
+Offset: 497, PUSHS , Operand: </col>
+Offset: 498, PUSHS , Operand: .
+Offset: 499, CONCAT , Operand: 5
+Offset: 500, RETURN , Operand: 0
+Offset: 501, GOTO , Operand: 57
+Offset: 502, PUSHI , Operand: 74
+Offset: 503, PUSHI , Operand: 11254
+Offset: 504, PUSHS , Operand: Ninja impling
+Offset: 505, PUSHS , Operand: You can now net 
+Offset: 506, PUSHS , Operand: <col=000080>
+Offset: 507, PUSHS , Operand: ninja implings
+Offset: 508, PUSHS , Operand: </col>
+Offset: 509, PUSHS , Operand: .
+Offset: 510, CONCAT , Operand: 5
+Offset: 511, RETURN , Operand: 0
+Offset: 512, GOTO , Operand: 46
+Offset: 513, PUSHI , Operand: 76
+Offset: 514, PUSHI , Operand: 13337
+Offset: 515, PUSHS , Operand: Pirate impling
+Offset: 516, PUSHS , Operand: <br>
+Offset: 517, PUSHS , Operand:  (after Rocking Out)
+Offset: 518, CONCAT , Operand: 3
+Offset: 519, PUSHS , Operand: You can now net 
+Offset: 520, PUSHS , Operand: <col=000080>
+Offset: 521, PUSHS , Operand: pirate implings
+Offset: 522, PUSHS , Operand: </col>
+Offset: 523, PUSHS , Operand:  (after Rocking Out).
+Offset: 524, CONCAT , Operand: 5
+Offset: 525, RETURN , Operand: 0
+Offset: 526, GOTO , Operand: 32
+Offset: 527, PUSHI , Operand: 83
+Offset: 528, PUSHI , Operand: 11256
+Offset: 529, PUSHS , Operand: Dragon impling
+Offset: 530, PUSHS , Operand: You can now net 
+Offset: 531, PUSHS , Operand: <col=000080>
+Offset: 532, PUSHS , Operand: dragon implings
+Offset: 533, PUSHS , Operand: </col>
+Offset: 534, PUSHS , Operand: .
+Offset: 535, CONCAT , Operand: 5
+Offset: 536, RETURN , Operand: 0
+Offset: 537, GOTO , Operand: 21
+Offset: 538, PUSHI , Operand: 87
+Offset: 539, PUSHI , Operand: 15515
+Offset: 540, PUSHS , Operand: Zombie impling
+Offset: 541, PUSHS , Operand: You can now net 
+Offset: 542, PUSHS , Operand: <col=000080>
+Offset: 543, PUSHS , Operand: zombie implings
+Offset: 544, PUSHS , Operand: </col>
+Offset: 545, PUSHS , Operand: .
+Offset: 546, CONCAT , Operand: 5
+Offset: 547, RETURN , Operand: 0
+Offset: 548, GOTO , Operand: 10
+Offset: 549, PUSHI , Operand: 91
+Offset: 550, PUSHI , Operand: 15517
+Offset: 551, PUSHS , Operand: Kingly impling
+Offset: 552, PUSHS , Operand: You can now net 
+Offset: 553, PUSHS , Operand: <col=000080>
+Offset: 554, PUSHS , Operand: kingly implings
+Offset: 555, PUSHS , Operand: </col>
+Offset: 556, PUSHS , Operand: .
+Offset: 557, CONCAT , Operand: 5
+Offset: 558, RETURN , Operand: 0
+Offset: 559, GOTO , Operand: 1221
+Offset: 560, LOADINT , Operand: 1
+Offset: 561, SWITCH , Operand: 5
+Offset: 562, GOTO , Operand: 87
+Offset: 563, PUSHI , Operand: 23
+Offset: 564, PUSHI , Operand: 9962
+Offset: 565, PUSHS , Operand: Wild kebbit (woodland)
+Offset: 566, PUSHS , Operand: <br>
+Offset: 567, PUSHS , Operand:  Preferred bait: Raw meat
+Offset: 568, CONCAT , Operand: 3
+Offset: 569, PUSHS , Operand: You can now use deadfall traps to hunt 
+Offset: 570, PUSHS , Operand: <col=000080>
+Offset: 571, PUSHS , Operand: wild kebbits
+Offset: 572, PUSHS , Operand: </col>
+Offset: 573, PUSHS , Operand: .
+Offset: 574, CONCAT , Operand: 5
+Offset: 575, RETURN , Operand: 0
+Offset: 576, GOTO , Operand: 73
+Offset: 577, PUSHI , Operand: 33
+Offset: 578, PUSHI , Operand: 9958
+Offset: 579, PUSHS , Operand: Barb-tailed kebbit (jungle)
+Offset: 580, PUSHS , Operand: <br>
+Offset: 581, PUSHS , Operand:  Preferred bait: Raw rainbow fish
+Offset: 582, CONCAT , Operand: 3
+Offset: 583, PUSHS , Operand: You can now use deadfall traps to hunt 
+Offset: 584, PUSHS , Operand: <col=000080>
+Offset: 585, PUSHS , Operand: barb-tailed kebbits
+Offset: 586, PUSHS , Operand: </col>
+Offset: 587, PUSHS , Operand: .
+Offset: 588, CONCAT , Operand: 5
+Offset: 589, RETURN , Operand: 0
+Offset: 590, GOTO , Operand: 59
+Offset: 591, PUSHI , Operand: 37
+Offset: 592, PUSHI , Operand: 9957
+Offset: 593, PUSHS , Operand: Prickly kebbit (northern woodland)
+Offset: 594, PUSHS , Operand: <br>
+Offset: 595, PUSHS , Operand:  Preferred bait: Barley
+Offset: 596, CONCAT , Operand: 3
+Offset: 597, PUSHS , Operand: You can now use deadfall traps to hunt 
+Offset: 598, PUSHS , Operand: <col=000080>
+Offset: 599, PUSHS , Operand: prickly kebbits
+Offset: 600, PUSHS , Operand: </col>
+Offset: 601, PUSHS , Operand: .
+Offset: 602, CONCAT , Operand: 5
+Offset: 603, RETURN , Operand: 0
+Offset: 604, GOTO , Operand: 45
+Offset: 605, PUSHI , Operand: 44
+Offset: 606, PUSHI , Operand: 12587
+Offset: 607, PUSHS , Operand: Diseased kebbit (jungle)
+Offset: 608, PUSHS , Operand: <br>
+Offset: 609, PUSHS , Operand:  (after starting As a First Resort...)
+Offset: 610, PUSHS , Operand: <br>
+Offset: 611, PUSHS , Operand:  Required lure: smouldering fever grass
+Offset: 612, CONCAT , Operand: 5
+Offset: 613, PUSHS , Operand: You now have the Hunter level required to use deadfall traps to hunt 
+Offset: 614, PUSHS , Operand: <col=000080>
+Offset: 615, PUSHS , Operand: diseased kebbits
+Offset: 616, PUSHS , Operand: </col>
+Offset: 617, PUSHS , Operand:  (after starting As a First Resort...).
+Offset: 618, CONCAT , Operand: 5
+Offset: 619, RETURN , Operand: 0
+Offset: 620, GOTO , Operand: 29
+Offset: 621, PUSHI , Operand: 51
+Offset: 622, PUSHI , Operand: 9959
+Offset: 623, PUSHS , Operand: Sabre-toothed kebbit (polar)
+Offset: 624, PUSHS , Operand: <br>
+Offset: 625, PUSHS , Operand:  Preferred bait: Raw meat
+Offset: 626, CONCAT , Operand: 3
+Offset: 627, PUSHS , Operand: You can now use deadfall traps to hunt 
+Offset: 628, PUSHS , Operand: <col=000080>
+Offset: 629, PUSHS , Operand: sabre-toothed kebbits
+Offset: 630, PUSHS , Operand: </col>
+Offset: 631, PUSHS , Operand: .
+Offset: 632, CONCAT , Operand: 5
+Offset: 633, RETURN , Operand: 0
+Offset: 634, GOTO , Operand: 15
+Offset: 635, PUSHI , Operand: 51
+Offset: 636, PUSHI , Operand: 14832
+Offset: 637, PUSHS , Operand: Penguins (polar)
+Offset: 638, PUSHS , Operand: <br>
+Offset: 639, PUSHS , Operand:  (after Hunt for Red Raktuber)
+Offset: 640, PUSHS , Operand: <br>
+Offset: 641, PUSHS , Operand:  Preferred bait: Raw cod
+Offset: 642, CONCAT , Operand: 5
+Offset: 643, PUSHS , Operand: You can now use deadfall traps to hunt 
+Offset: 644, PUSHS , Operand: <col=000080>
+Offset: 645, PUSHS , Operand: penguins
+Offset: 646, PUSHS , Operand: </col>
+Offset: 647, PUSHS , Operand:  (after Hunt for Red Raktuber).
+Offset: 648, CONCAT , Operand: 5
+Offset: 649, RETURN , Operand: 0
+Offset: 650, GOTO , Operand: 1130
+Offset: 651, LOADINT , Operand: 1
+Offset: 652, SWITCH , Operand: 6
+Offset: 653, GOTO , Operand: 147
+Offset: 654, PUSHI , Operand: 27
+Offset: 655, PUSHI , Operand: 10092
+Offset: 656, PUSHS , Operand: Ferret (woodland)
+Offset: 657, PUSHS , Operand: <br>
+Offset: 658, PUSHS , Operand:  (after Eagles' Peak)
+Offset: 659, CONCAT , Operand: 3
+Offset: 660, PUSHS , Operand: You can now catch 
+Offset: 661, PUSHS , Operand: <col=000080>
+Offset: 662, PUSHS , Operand: ferrets
+Offset: 663, PUSHS , Operand: </col>
+Offset: 664, PUSHS , Operand:  with box traps (after Eagles' Peak).
+Offset: 665, CONCAT , Operand: 5
+Offset: 666, RETURN , Operand: 0
+Offset: 667, GOTO , Operand: 133
+Offset: 668, PUSHI , Operand: 27
+Offset: 669, PUSHI , Operand: 12184
+Offset: 670, PUSHS , Operand: Gecko
+Offset: 671, PUSHS , Operand: <br>
+Offset: 672, PUSHS , Operand:  (with 10 Summoning)
+Offset: 673, CONCAT , Operand: 3
+Offset: 674, PUSHS , Operand: You now have the Hunter level required to catch 
+Offset: 675, PUSHS , Operand: <col=000080>
+Offset: 676, PUSHS , Operand: geckos
+Offset: 677, PUSHS , Operand: </col>
+Offset: 678, PUSHS , Operand:  with box traps. (You also need level 10 Summoning.)
+Offset: 679, CONCAT , Operand: 5
+Offset: 680, RETURN , Operand: 0
+Offset: 681, GOTO , Operand: 119
+Offset: 682, PUSHI , Operand: 27
+Offset: 683, PUSHI , Operand: 12199
+Offset: 684, PUSHS , Operand: Raccoon
+Offset: 685, PUSHS , Operand: <br>
+Offset: 686, PUSHS , Operand:  (with 80 Summoning)
+Offset: 687, CONCAT , Operand: 3
+Offset: 688, PUSHS , Operand: You now have the Hunter level required to catch 
+Offset: 689, PUSHS , Operand: <col=000080>
+Offset: 690, PUSHS , Operand: raccoons
+Offset: 691, PUSHS , Operand: </col>
+Offset: 692, PUSHS , Operand:  with box traps. (You also need level 80 Summoning.)
+Offset: 693, CONCAT , Operand: 5
+Offset: 694, RETURN , Operand: 0
+Offset: 695, GOTO , Operand: 105
+Offset: 696, PUSHI , Operand: 27
+Offset: 697, PUSHI , Operand: 12201
+Offset: 698, PUSHS , Operand: Monkey
+Offset: 699, PUSHS , Operand: <br>
+Offset: 700, PUSHS , Operand:  (with 95 Summoning)
+Offset: 701, PUSHS , Operand: <br>
+Offset: 702, PUSHS , Operand:  Preferred bait: Bananas
+Offset: 703, CONCAT , Operand: 5
+Offset: 704, PUSHS , Operand: You now have the Hunter level required to catch 
+Offset: 705, PUSHS , Operand: <col=000080>
+Offset: 706, PUSHS , Operand: monkeys
+Offset: 707, PUSHS , Operand: </col>
+Offset: 708, PUSHS , Operand:  with box traps. (You also need level 95 Summoning.)
+Offset: 709, CONCAT , Operand: 5
+Offset: 710, RETURN , Operand: 0
+Offset: 711, GOTO , Operand: 89
+Offset: 712, PUSHI , Operand: 48
+Offset: 713, PUSHI , Operand: 12585
+Offset: 714, PUSHS , Operand: Platypus (jungle)
+Offset: 715, PUSHS , Operand: <br>
+Offset: 716, PUSHS , Operand:  (with 10 Summoning)
+Offset: 717, PUSHS , Operand: <br>
+Offset: 718, PUSHS , Operand:  (after starting As a First Resort...)
+Offset: 719, PUSHS , Operand: <br>
+Offset: 720, PUSHS , Operand:  Required lure: Smouldering lavender
+Offset: 721, CONCAT , Operand: 7
+Offset: 722, PUSHS , Operand: You now have the Hunter level required to catch 
+Offset: 723, PUSHS , Operand: <col=000080>
+Offset: 724, PUSHS , Operand: platypodes
+Offset: 725, PUSHS , Operand: </col>
+Offset: 726, PUSHS , Operand:  with box traps (after As a First Resort... and with level 10 Summoning).
+Offset: 727, CONCAT , Operand: 5
+Offset: 728, RETURN , Operand: 0
+Offset: 729, GOTO , Operand: 71
+Offset: 730, PUSHI , Operand: 53
+Offset: 731, PUSHI , Operand: 9976
+Offset: 732, PUSHS , Operand: Chinchompa (woodland)
+Offset: 733, PUSHS , Operand: <br>
+Offset: 734, PUSHS , Operand:  Preferred bait: Spicy chopped tomatoes
+Offset: 735, CONCAT , Operand: 3
+Offset: 736, PUSHS , Operand: You can now catch 
+Offset: 737, PUSHS , Operand: <col=000080>
+Offset: 738, PUSHS , Operand: chinchompas
+Offset: 739, PUSHS , Operand: </col>
+Offset: 740, PUSHS , Operand:  with box traps.
+Offset: 741, CONCAT , Operand: 5
+Offset: 742, RETURN , Operand: 0
+Offset: 743, GOTO , Operand: 57
+Offset: 744, PUSHI , Operand: 56
+Offset: 745, PUSHI , Operand: 14832
+Offset: 746, PUSHS , Operand: Penguin (polar)
+Offset: 747, PUSHS , Operand: <br>
+Offset: 748, PUSHS , Operand:  (after Hunt for Red Raktuber)
+Offset: 749, PUSHS , Operand: <br>
+Offset: 750, PUSHS , Operand:  Preferred bait: Raw cod
+Offset: 751, CONCAT , Operand: 5
+Offset: 752, PUSHS , Operand: You can now catch 
+Offset: 753, PUSHS , Operand: <col=000080>
+Offset: 754, PUSHS , Operand: penguins
+Offset: 755, PUSHS , Operand: </col>
+Offset: 756, PUSHS , Operand:  with box traps (after Hunt for Red Raktuber).
+Offset: 757, CONCAT , Operand: 5
+Offset: 758, RETURN , Operand: 0
+Offset: 759, GOTO , Operand: 41
+Offset: 760, PUSHI , Operand: 63
+Offset: 761, PUSHI , Operand: 9977
+Offset: 762, PUSHS , Operand: Red chinchompa (jungle)
+Offset: 763, PUSHS , Operand: <br>
+Offset: 764, PUSHS , Operand:  Preferred bait: Spicy minced meat
+Offset: 765, CONCAT , Operand: 3
+Offset: 766, PUSHS , Operand: You can now catch 
+Offset: 767, PUSHS , Operand: <col=000080>
+Offset: 768, PUSHS , Operand: red chinchompas
+Offset: 769, PUSHS , Operand: </col>
+Offset: 770, PUSHS , Operand:  with box traps.
+Offset: 771, CONCAT , Operand: 5
+Offset: 772, RETURN , Operand: 0
+Offset: 773, GOTO , Operand: 27
+Offset: 774, PUSHI , Operand: 66
+Offset: 775, PUSHI , Operand: 12544
+Offset: 776, PUSHS , Operand: Pawya (Isafdar)
+Offset: 777, PUSHS , Operand: <br>
+Offset: 778, PUSHS , Operand:  Required bait: Papaya fruit
+Offset: 779, CONCAT , Operand: 3
+Offset: 780, PUSHS , Operand: You can now catch 
+Offset: 781, PUSHS , Operand: <col=000080>
+Offset: 782, PUSHS , Operand: pawyas
+Offset: 783, PUSHS , Operand: </col>
+Offset: 784, PUSHS , Operand:  with box traps.
+Offset: 785, CONCAT , Operand: 5
+Offset: 786, RETURN , Operand: 0
+Offset: 787, GOTO , Operand: 13
+Offset: 788, PUSHI , Operand: 77
+Offset: 789, PUSHI , Operand: 12537
+Offset: 790, PUSHS , Operand: Grenwall (Isafdar)
+Offset: 791, PUSHS , Operand: <br>
+Offset: 792, PUSHS , Operand:  Required bait: Raw pawya meat
+Offset: 793, CONCAT , Operand: 3
+Offset: 794, PUSHS , Operand: You can now catch 
+Offset: 795, PUSHS , Operand: <col=000080>
+Offset: 796, PUSHS , Operand: grenwall
+Offset: 797, PUSHS , Operand: </col>
+Offset: 798, PUSHS , Operand:  with box traps.
+Offset: 799, CONCAT , Operand: 5
+Offset: 800, RETURN , Operand: 0
+Offset: 801, GOTO , Operand: 979
+Offset: 802, LOADINT , Operand: 1
+Offset: 803, SWITCH , Operand: 7
+Offset: 804, GOTO , Operand: 85
+Offset: 805, PUSHI , Operand: 29
+Offset: 806, PUSHI , Operand: 10149
+Offset: 807, PUSHS , Operand: Swamp lizard (swamp)
+Offset: 808, PUSHS , Operand: <br>
+Offset: 809, PUSHS , Operand:  Preferred bait: Guam tar
+Offset: 810, CONCAT , Operand: 3
+Offset: 811, PUSHS , Operand: You can now catch 
+Offset: 812, PUSHS , Operand: <col=000080>
+Offset: 813, PUSHS , Operand: swamp lizards
+Offset: 814, PUSHS , Operand: </col>
+Offset: 815, PUSHS , Operand:  with net traps.
+Offset: 816, CONCAT , Operand: 5
+Offset: 817, RETURN , Operand: 0
+Offset: 818, GOTO , Operand: 71
+Offset: 819, PUSHI , Operand: 29
+Offset: 820, PUSHI , Operand: 12200
+Offset: 821, PUSHS , Operand: Squirrel
+Offset: 822, PUSHS , Operand: <br>
+Offset: 823, PUSHS , Operand:  (with 60 Summoning)
+Offset: 824, PUSHS , Operand: <br>
+Offset: 825, PUSHS , Operand:  Preferred bait: Nuts
+Offset: 826, CONCAT , Operand: 5
+Offset: 827, PUSHS , Operand: You now have the Hunter level required to catch 
+Offset: 828, PUSHS , Operand: <col=000080>
+Offset: 829, PUSHS , Operand: squirrels
+Offset: 830, PUSHS , Operand: </col>
+Offset: 831, PUSHS , Operand:  with net traps. (You also need level 60 Summoning.
+Offset: 832, CONCAT , Operand: 5
+Offset: 833, RETURN , Operand: 0
+Offset: 834, GOTO , Operand: 55
+Offset: 835, PUSHI , Operand: 47
+Offset: 836, PUSHI , Operand: 10146
+Offset: 837, PUSHS , Operand: Orange salamander (desert)
+Offset: 838, PUSHS , Operand: <br>
+Offset: 839, PUSHS , Operand:  Preferred bait: Marrentill tar
+Offset: 840, CONCAT , Operand: 3
+Offset: 841, PUSHS , Operand: You can now catch 
+Offset: 842, PUSHS , Operand: <col=000080>
+Offset: 843, PUSHS , Operand: orange salamanders
+Offset: 844, PUSHS , Operand: </col>
+Offset: 845, PUSHS , Operand:  with net traps.
+Offset: 846, CONCAT , Operand: 5
+Offset: 847, RETURN , Operand: 0
+Offset: 848, GOTO , Operand: 41
+Offset: 849, PUSHI , Operand: 50
+Offset: 850, PUSHI , Operand: 14832
+Offset: 851, PUSHS , Operand: Penguin (polar)
+Offset: 852, PUSHS , Operand: <br>
+Offset: 853, PUSHS , Operand:  (after Hunt for Red Raktuber)
+Offset: 854, CONCAT , Operand: 3
+Offset: 855, PUSHS , Operand: You can now catch 
+Offset: 856, PUSHS , Operand: <col=000080>
+Offset: 857, PUSHS , Operand: penguins
+Offset: 858, PUSHS , Operand: </col>
+Offset: 859, PUSHS , Operand:  with net traps (after Hunt for Red Raktuber).
+Offset: 860, CONCAT , Operand: 5
+Offset: 861, RETURN , Operand: 0
+Offset: 862, GOTO , Operand: 27
+Offset: 863, PUSHI , Operand: 59
+Offset: 864, PUSHI , Operand: 10147
+Offset: 865, PUSHS , Operand: Red salamander (lava)
+Offset: 866, PUSHS , Operand: <br>
+Offset: 867, PUSHS , Operand:  Preferred bait: Tarromin tar
+Offset: 868, CONCAT , Operand: 3
+Offset: 869, PUSHS , Operand: You can now catch 
+Offset: 870, PUSHS , Operand: <col=000080>
+Offset: 871, PUSHS , Operand: red salamanders
+Offset: 872, PUSHS , Operand: </col>
+Offset: 873, PUSHS , Operand:  with net traps.
+Offset: 874, CONCAT , Operand: 5
+Offset: 875, RETURN , Operand: 0
+Offset: 876, GOTO , Operand: 13
+Offset: 877, PUSHI , Operand: 67
+Offset: 878, PUSHI , Operand: 10148
+Offset: 879, PUSHS , Operand: Black salamander (lava)
+Offset: 880, PUSHS , Operand: <br>
+Offset: 881, PUSHS , Operand:  Preferred bait: Harralander tar
+Offset: 882, CONCAT , Operand: 3
+Offset: 883, PUSHS , Operand: You can now catch 
+Offset: 884, PUSHS , Operand: <col=000080>
+Offset: 885, PUSHS , Operand: black salamanders
+Offset: 886, PUSHS , Operand: </col>
+Offset: 887, PUSHS , Operand:  with net traps.
+Offset: 888, CONCAT , Operand: 5
+Offset: 889, RETURN , Operand: 0
+Offset: 890, GOTO , Operand: 890
+Offset: 891, LOADINT , Operand: 1
+Offset: 892, PUSHI , Operand: 0
+Offset: 893, IFEQ , Operand: 1
+Offset: 894, GOTO , Operand: 10
+Offset: 895, PUSHI , Operand: 31
+Offset: 896, PUSHI , Operand: 10045
+Offset: 897, PUSHS , Operand: Spined larupia (jungle)
+Offset: 898, PUSHS , Operand: You can now catch 
+Offset: 899, PUSHS , Operand: <col=000080>
+Offset: 900, PUSHS , Operand: spined larupias
+Offset: 901, PUSHS , Operand: </col>
+Offset: 902, PUSHS , Operand:  with pit traps.
+Offset: 903, CONCAT , Operand: 5
+Offset: 904, RETURN , Operand: 0
+Offset: 905, LOADINT , Operand: 1
+Offset: 906, PUSHI , Operand: 1
+Offset: 907, IFEQ , Operand: 1
+Offset: 908, GOTO , Operand: 10
+Offset: 909, PUSHI , Operand: 41
+Offset: 910, PUSHI , Operand: 10051
+Offset: 911, PUSHS , Operand: Horned graahk (Karamja)
+Offset: 912, PUSHS , Operand: You can now catch 
+Offset: 913, PUSHS , Operand: <col=000080>
+Offset: 914, PUSHS , Operand: horned graahks
+Offset: 915, PUSHS , Operand: </col>
+Offset: 916, PUSHS , Operand:  with pit traps.
+Offset: 917, CONCAT , Operand: 5
+Offset: 918, RETURN , Operand: 0
+Offset: 919, LOADINT , Operand: 1
+Offset: 920, PUSHI , Operand: 2
+Offset: 921, IFEQ , Operand: 1
+Offset: 922, GOTO , Operand: 10
+Offset: 923, PUSHI , Operand: 55
+Offset: 924, PUSHI , Operand: 10039
+Offset: 925, PUSHS , Operand: Sabre-toothed kyatt (polar)
+Offset: 926, PUSHS , Operand: You can now catch 
+Offset: 927, PUSHS , Operand: <col=000080>
+Offset: 928, PUSHS , Operand: sabre-toothed kyatts
+Offset: 929, PUSHS , Operand: </col>
+Offset: 930, PUSHS , Operand:  with pit traps.
+Offset: 931, CONCAT , Operand: 5
+Offset: 932, RETURN , Operand: 0
+Offset: 933, GOTO , Operand: 847
+Offset: 934, LOADINT , Operand: 1
+Offset: 935, PUSHI , Operand: 0
+Offset: 936, IFEQ , Operand: 1
+Offset: 937, GOTO , Operand: 10
+Offset: 938, PUSHI , Operand: 43
+Offset: 939, PUSHI , Operand: 9960
+Offset: 940, PUSHS , Operand: Spotted kebbit (woodland)
+Offset: 941, PUSHS , Operand: You can now hunt 
+Offset: 942, PUSHS , Operand: <col=000080>
+Offset: 943, PUSHS , Operand: spotted kebbits
+Offset: 944, PUSHS , Operand: </col>
+Offset: 945, PUSHS , Operand:  with a falcon.
+Offset: 946, CONCAT , Operand: 5
+Offset: 947, RETURN , Operand: 0
+Offset: 948, LOADINT , Operand: 1
+Offset: 949, PUSHI , Operand: 1
+Offset: 950, IFEQ , Operand: 1
+Offset: 951, GOTO , Operand: 10
+Offset: 952, PUSHI , Operand: 57
+Offset: 953, PUSHI , Operand: 9963
+Offset: 954, PUSHS , Operand: Dark kebbit (woodland)
+Offset: 955, PUSHS , Operand: You can now hunt 
+Offset: 956, PUSHS , Operand: <col=000080>
+Offset: 957, PUSHS , Operand: dark kebbits
+Offset: 958, PUSHS , Operand: </col>
+Offset: 959, PUSHS , Operand:  with a falcon.
+Offset: 960, CONCAT , Operand: 5
+Offset: 961, RETURN , Operand: 0
+Offset: 962, LOADINT , Operand: 1
+Offset: 963, PUSHI , Operand: 2
+Offset: 964, IFEQ , Operand: 1
+Offset: 965, GOTO , Operand: 10
+Offset: 966, PUSHI , Operand: 69
+Offset: 967, PUSHI , Operand: 9964
+Offset: 968, PUSHS , Operand: Dashing kebbit (woodland)
+Offset: 969, PUSHS , Operand: You can now hunt 
+Offset: 970, PUSHS , Operand: <col=000080>
+Offset: 971, PUSHS , Operand: dashing kebbits
+Offset: 972, PUSHS , Operand: </col>
+Offset: 973, PUSHS , Operand:  with a falcon.
+Offset: 974, CONCAT , Operand: 5
+Offset: 975, RETURN , Operand: 0
+Offset: 976, GOTO , Operand: 804
+Offset: 977, LOADINT , Operand: 1
+Offset: 978, PUSHI , Operand: 0
+Offset: 979, IFEQ , Operand: 1
+Offset: 980, GOTO , Operand: 17
+Offset: 981, PUSHI , Operand: 71
+Offset: 982, PUSHI , Operand: 9952
+Offset: 983, PUSHS , Operand: Imp (worldwide)
+Offset: 984, PUSHS , Operand: <br>
+Offset: 985, PUSHS , Operand:  Preferred bait: Magical beads
+Offset: 986, CONCAT , Operand: 3
+Offset: 987, PUSHS , Operand: You can now catch 
+Offset: 988, PUSHS , Operand: <col=000080>
+Offset: 989, PUSHS , Operand: imps
+Offset: 990, PUSHS , Operand: </col>
+Offset: 991, PUSHS , Operand:  in 
+Offset: 992, PUSHS , Operand: <col=000080>
+Offset: 993, PUSHS , Operand: imp boxes
+Offset: 994, PUSHS , Operand: </col>
+Offset: 995, PUSHS , Operand: .
+Offset: 996, CONCAT , Operand: 9
+Offset: 997, RETURN , Operand: 0
+Offset: 998, GOTO , Operand: 782
+Offset: 999, LOADINT , Operand: 1
+Offset: 1000, SWITCH , Operand: 8
+Offset: 1001, GOTO , Operand: 77
+Offset: 1002, PUSHI , Operand: 27
+Offset: 1003, PUSHI , Operand: 9975
+Offset: 1004, PUSHS , Operand: White rabbit (woodland)
+Offset: 1005, PUSHS , Operand: <br>
+Offset: 1006, PUSHS , Operand:  Use a ferret to flush the rabbit out of its hole
+Offset: 1007, PUSHS , Operand: <br>
+Offset: 1008, PUSHS , Operand:  (after Eagles' Peak)
+Offset: 1009, CONCAT , Operand: 5
+Offset: 1010, PUSHS , Operand: You now have the Hunter level required to use a 
+Offset: 1011, PUSHS , Operand: <col=000080>
+Offset: 1012, PUSHS , Operand: ferret
+Offset: 1013, PUSHS , Operand: </col>
+Offset: 1014, PUSHS , Operand:  to hunt 
+Offset: 1015, PUSHS , Operand: <col=000080>
+Offset: 1016, PUSHS , Operand: white rabbits
+Offset: 1017, PUSHS , Operand: </col>
+Offset: 1018, PUSHS , Operand:  (after Eagles' Peak).
+Offset: 1019, CONCAT , Operand: 9
+Offset: 1020, RETURN , Operand: 0
+Offset: 1021, GOTO , Operand: 57
+Offset: 1022, PUSHI , Operand: 27
+Offset: 1023, PUSHI , Operand: 9974
+Offset: 1024, PUSHS , Operand: Giant eagle (various)
+Offset: 1025, PUSHS , Operand: <br>
+Offset: 1026, PUSHS , Operand:  (after Eagles' Peak)
+Offset: 1027, CONCAT , Operand: 3
+Offset: 1028, PUSHS , Operand: You now have the Hunter level required to lasso 
+Offset: 1029, PUSHS , Operand: <col=000080>
+Offset: 1030, PUSHS , Operand: giant eagles
+Offset: 1031, PUSHS , Operand: </col>
+Offset: 1032, PUSHS , Operand:  (after Eagles' Peak).
+Offset: 1033, CONCAT , Operand: 5
+Offset: 1034, RETURN , Operand: 0
+Offset: 1035, GOTO , Operand: 43
+Offset: 1036, PUSHI , Operand: 91
+Offset: 1037, PUSHI , Operand: 18778
+Offset: 1038, PUSHS , Operand: Starved ancient effigies
+Offset: 1039, PUSHS , Operand: You can now investigate 
+Offset: 1040, PUSHS , Operand: <col=000080>
+Offset: 1041, PUSHS , Operand: starved ancient effigies
+Offset: 1042, PUSHS , Operand: </col>
+Offset: 1043, PUSHS , Operand:  using your knowledge of Hunter.
+Offset: 1044, CONCAT , Operand: 5
+Offset: 1045, RETURN , Operand: 0
+Offset: 1046, GOTO , Operand: 32
+Offset: 1047, PUSHI , Operand: 93
+Offset: 1048, PUSHI , Operand: 18779
+Offset: 1049, PUSHS , Operand: Nourished ancient effigies
+Offset: 1050, PUSHS , Operand: You can now investigate 
+Offset: 1051, PUSHS , Operand: <col=000080>
+Offset: 1052, PUSHS , Operand: nourished ancient effigies
+Offset: 1053, PUSHS , Operand: </col>
+Offset: 1054, PUSHS , Operand:  using your knowledge of Hunter.
+Offset: 1055, CONCAT , Operand: 5
+Offset: 1056, RETURN , Operand: 0
+Offset: 1057, GOTO , Operand: 21
+Offset: 1058, PUSHI , Operand: 95
+Offset: 1059, PUSHI , Operand: 18780
+Offset: 1060, PUSHS , Operand: Sated ancient effigies
+Offset: 1061, PUSHS , Operand: You can now investigate 
+Offset: 1062, PUSHS , Operand: <col=000080>
+Offset: 1063, PUSHS , Operand: sated ancient effigies
+Offset: 1064, PUSHS , Operand: </col>
+Offset: 1065, PUSHS , Operand:  using your knowledge of Hunter.
+Offset: 1066, CONCAT , Operand: 5
+Offset: 1067, RETURN , Operand: 0
+Offset: 1068, GOTO , Operand: 10
+Offset: 1069, PUSHI , Operand: 97
+Offset: 1070, PUSHI , Operand: 18781
+Offset: 1071, PUSHS , Operand: Gorged ancient effigies
+Offset: 1072, PUSHS , Operand: You can now investigate 
+Offset: 1073, PUSHS , Operand: <col=000080>
+Offset: 1074, PUSHS , Operand: gorged ancient effigies
+Offset: 1075, PUSHS , Operand: </col>
+Offset: 1076, PUSHS , Operand:  using your knowledge of Hunter.
+Offset: 1077, CONCAT , Operand: 5
+Offset: 1078, RETURN , Operand: 0
+Offset: 1079, GOTO , Operand: 701
+Offset: 1080, LOADINT , Operand: 1
+Offset: 1081, SWITCH , Operand: 9
+Offset: 1082, GOTO , Operand: 120
+Offset: 1083, PUSHI , Operand: 1
+Offset: 1084, PUSHI , Operand: 10065
+Offset: 1085, PUSHS , Operand: Polar kebbit fur clothing (polar)
+Offset: 1086, PUSHS , Operand: You can now wear 
+Offset: 1087, PUSHS , Operand: <col=000080>
+Offset: 1088, PUSHS , Operand: polar kebbit fur clothing
+Offset: 1089, PUSHS , Operand: </col>
+Offset: 1090, PUSHS , Operand: .
+Offset: 1091, CONCAT , Operand: 5
+Offset: 1092, RETURN , Operand: 0
+Offset: 1093, GOTO , Operand: 109
+Offset: 1094, PUSHI , Operand: 1
+Offset: 1095, PUSHI , Operand: 10053
+Offset: 1096, PUSHS , Operand: Common kebbit fur clothing (woodland)
+Offset: 1097, PUSHS , Operand: You can now wear 
+Offset: 1098, PUSHS , Operand: <col=000080>
+Offset: 1099, PUSHS , Operand: common kebbit fur clothing
+Offset: 1100, PUSHS , Operand: </col>
+Offset: 1101, PUSHS , Operand: .
+Offset: 1102, CONCAT , Operand: 5
+Offset: 1103, RETURN , Operand: 0
+Offset: 1104, GOTO , Operand: 98
+Offset: 1105, PUSHI , Operand: 4
+Offset: 1106, PUSHI , Operand: 10057
+Offset: 1107, PUSHS , Operand: Feldip weasel fur clothing (jungle)
+Offset: 1108, PUSHS , Operand: You can now wear 
+Offset: 1109, PUSHS , Operand: <col=000080>
+Offset: 1110, PUSHS , Operand: feldip weasel fur clothing
+Offset: 1111, PUSHS , Operand: </col>
+Offset: 1112, PUSHS , Operand: .
+Offset: 1113, CONCAT , Operand: 5
+Offset: 1114, RETURN , Operand: 0
+Offset: 1115, GOTO , Operand: 87
+Offset: 1116, PUSHI , Operand: 10
+Offset: 1117, PUSHI , Operand: 10061
+Offset: 1118, PUSHS , Operand: Desert devil fur clothing (desert)
+Offset: 1119, PUSHS , Operand: You can now wear 
+Offset: 1120, PUSHS , Operand: <col=000080>
+Offset: 1121, PUSHS , Operand: desert devil fur clothing
+Offset: 1122, PUSHS , Operand: </col>
+Offset: 1123, PUSHS , Operand: .
+Offset: 1124, CONCAT , Operand: 5
+Offset: 1125, RETURN , Operand: 0
+Offset: 1126, GOTO , Operand: 76
+Offset: 1127, PUSHI , Operand: 24
+Offset: 1128, PUSHI , Operand: 10132
+Offset: 1129, PUSHS , Operand: Lucky rabbit's foot
+Offset: 1130, PUSHS , Operand: You can now wear a 
+Offset: 1131, PUSHS , Operand: <col=000080>
+Offset: 1132, PUSHS , Operand: lucky rabbit's foot
+Offset: 1133, PUSHS , Operand: </col>
+Offset: 1134, PUSHS , Operand: .
+Offset: 1135, CONCAT , Operand: 5
+Offset: 1136, RETURN , Operand: 0
+Offset: 1137, GOTO , Operand: 65
+Offset: 1138, PUSHI , Operand: 28
+Offset: 1139, PUSHI , Operand: 10045
+Offset: 1140, PUSHS , Operand: Larupia fur clothing
+Offset: 1141, PUSHS , Operand: You can now wear 
+Offset: 1142, PUSHS , Operand: <col=000080>
+Offset: 1143, PUSHS , Operand: larupia fur clothing
+Offset: 1144, PUSHS , Operand: </col>
+Offset: 1145, PUSHS , Operand: .
+Offset: 1146, CONCAT , Operand: 5
+Offset: 1147, RETURN , Operand: 0
+Offset: 1148, GOTO , Operand: 54
+Offset: 1149, PUSHI , Operand: 38
+Offset: 1150, PUSHI , Operand: 10051
+Offset: 1151, PUSHS , Operand: Graahk-hide clothing
+Offset: 1152, PUSHS , Operand: You can now wear 
+Offset: 1153, PUSHS , Operand: <col=000080>
+Offset: 1154, PUSHS , Operand: graahk-hide clothing
+Offset: 1155, PUSHS , Operand: </col>
+Offset: 1156, PUSHS , Operand: .
+Offset: 1157, CONCAT , Operand: 5
+Offset: 1158, RETURN , Operand: 0
+Offset: 1159, GOTO , Operand: 43
+Offset: 1160, PUSHI , Operand: 40
+Offset: 1161, PUSHI , Operand: 10069
+Offset: 1162, PUSHS , Operand: Spotted capes
+Offset: 1163, PUSHS , Operand: You can now wear 
+Offset: 1164, PUSHS , Operand: <col=000080>
+Offset: 1165, PUSHS , Operand: spotted capes
+Offset: 1166, PUSHS , Operand: </col>
+Offset: 1167, PUSHS , Operand: .
+Offset: 1168, CONCAT , Operand: 5
+Offset: 1169, RETURN , Operand: 0
+Offset: 1170, GOTO , Operand: 32
+Offset: 1171, PUSHI , Operand: 52
+Offset: 1172, PUSHI , Operand: 10039
+Offset: 1173, PUSHS , Operand: Kyatt fur clothing
+Offset: 1174, PUSHS , Operand: You can now wear 
+Offset: 1175, PUSHS , Operand: <col=000080>
+Offset: 1176, PUSHS , Operand: kyatt fur clothing
+Offset: 1177, PUSHS , Operand: </col>
+Offset: 1178, PUSHS , Operand: .
+Offset: 1179, CONCAT , Operand: 5
+Offset: 1180, RETURN , Operand: 0
+Offset: 1181, GOTO , Operand: 21
+Offset: 1182, PUSHI , Operand: 54
+Offset: 1183, PUSHI , Operand: 10075
+Offset: 1184, PUSHS , Operand: Gloves of silence
+Offset: 1185, PUSHS , Operand: You can now wear 
+Offset: 1186, PUSHS , Operand: <col=000080>
+Offset: 1187, PUSHS , Operand: gloves of silence
+Offset: 1188, PUSHS , Operand: </col>
+Offset: 1189, PUSHS , Operand: .
+Offset: 1190, CONCAT , Operand: 5
+Offset: 1191, RETURN , Operand: 0
+Offset: 1192, GOTO , Operand: 10
+Offset: 1193, PUSHI , Operand: 66
+Offset: 1194, PUSHI , Operand: 10071
+Offset: 1195, PUSHS , Operand: Spottier capes
+Offset: 1196, PUSHS , Operand: You can now wear 
+Offset: 1197, PUSHS , Operand: <col=000080>
+Offset: 1198, PUSHS , Operand: spottier capes
+Offset: 1199, PUSHS , Operand: </col>
+Offset: 1200, PUSHS , Operand: .
+Offset: 1201, CONCAT , Operand: 5
+Offset: 1202, RETURN , Operand: 0
+Offset: 1203, GOTO , Operand: 577
+Offset: 1204, LOADINT , Operand: 1
+Offset: 1205, SWITCH , Operand: 10
+Offset: 1206, GOTO , Operand: 212
+Offset: 1207, PUSHI , Operand: 17
+Offset: 1208, PUSHI , Operand: 11238
+Offset: 1209, PUSHS , Operand: Baby impling
+Offset: 1210, PUSHS , Operand: You can now catch 
+Offset: 1211, PUSHS , Operand: <col=000080>
+Offset: 1212, PUSHS , Operand: baby implings
+Offset: 1213, PUSHS , Operand: </col>
+Offset: 1214, PUSHS , Operand:  barehanded.
+Offset: 1215, CONCAT , Operand: 5
+Offset: 1216, RETURN , Operand: 0
+Offset: 1217, GOTO , Operand: 201
+Offset: 1218, PUSHI , Operand: 22
+Offset: 1219, PUSHI , Operand: 11240
+Offset: 1220, PUSHS , Operand: Young impling
+Offset: 1221, PUSHS , Operand: You can now catch 
+Offset: 1222, PUSHS , Operand: <col=000080>
+Offset: 1223, PUSHS , Operand: young implings
+Offset: 1224, PUSHS , Operand: </col>
+Offset: 1225, PUSHS , Operand:  barehanded.
+Offset: 1226, CONCAT , Operand: 5
+Offset: 1227, RETURN , Operand: 0
+Offset: 1228, GOTO , Operand: 190
+Offset: 1229, PUSHI , Operand: 28
+Offset: 1230, PUSHI , Operand: 11242
+Offset: 1231, PUSHS , Operand: Gourmet impling
+Offset: 1232, PUSHS , Operand: You can now catch 
+Offset: 1233, PUSHS , Operand: <col=000080>
+Offset: 1234, PUSHS , Operand: gourmet implings
+Offset: 1235, PUSHS , Operand: </col>
+Offset: 1236, PUSHS , Operand:  barehanded.
+Offset: 1237, CONCAT , Operand: 5
+Offset: 1238, RETURN , Operand: 0
+Offset: 1239, GOTO , Operand: 179
+Offset: 1240, PUSHI , Operand: 36
+Offset: 1241, PUSHI , Operand: 11244
+Offset: 1242, PUSHS , Operand: Earth impling
+Offset: 1243, PUSHS , Operand: You can now catch 
+Offset: 1244, PUSHS , Operand: <col=000080>
+Offset: 1245, PUSHS , Operand: earth implings
+Offset: 1246, PUSHS , Operand: </col>
+Offset: 1247, PUSHS , Operand:  barehanded.
+Offset: 1248, CONCAT , Operand: 5
+Offset: 1249, RETURN , Operand: 0
+Offset: 1250, GOTO , Operand: 168
+Offset: 1251, PUSHI , Operand: 42
+Offset: 1252, PUSHI , Operand: 11246
+Offset: 1253, PUSHS , Operand: Essence impling
+Offset: 1254, PUSHS , Operand: You can now catch 
+Offset: 1255, PUSHS , Operand: <col=000080>
+Offset: 1256, PUSHS , Operand: essence implings
+Offset: 1257, PUSHS , Operand: </col>
+Offset: 1258, PUSHS , Operand:  barehanded.
+Offset: 1259, CONCAT , Operand: 5
+Offset: 1260, RETURN , Operand: 0
+Offset: 1261, GOTO , Operand: 157
+Offset: 1262, PUSHI , Operand: 50
+Offset: 1263, PUSHI , Operand: 11248
+Offset: 1264, PUSHS , Operand: Eclectic impling
+Offset: 1265, PUSHS , Operand: You can now catch 
+Offset: 1266, PUSHS , Operand: <col=000080>
+Offset: 1267, PUSHS , Operand: eclectic implings
+Offset: 1268, PUSHS , Operand: </col>
+Offset: 1269, PUSHS , Operand:  barehanded.
+Offset: 1270, CONCAT , Operand: 5
+Offset: 1271, RETURN , Operand: 0
+Offset: 1272, GOTO , Operand: 146
+Offset: 1273, PUSHI , Operand: 54
+Offset: 1274, PUSHI , Operand: 15513
+Offset: 1275, PUSHS , Operand: Spirit impling
+Offset: 1276, PUSHS , Operand: You can now catch 
+Offset: 1277, PUSHS , Operand: <col=000080>
+Offset: 1278, PUSHS , Operand: spirit implings
+Offset: 1279, PUSHS , Operand: </col>
+Offset: 1280, PUSHS , Operand:  barehanded.
+Offset: 1281, CONCAT , Operand: 5
+Offset: 1282, RETURN , Operand: 0
+Offset: 1283, GOTO , Operand: 135
+Offset: 1284, PUSHI , Operand: 58
+Offset: 1285, PUSHI , Operand: 11250
+Offset: 1286, PUSHS , Operand: Nature impling
+Offset: 1287, PUSHS , Operand: You can now catch 
+Offset: 1288, PUSHS , Operand: <col=000080>
+Offset: 1289, PUSHS , Operand: nature implings
+Offset: 1290, PUSHS , Operand: </col>
+Offset: 1291, PUSHS , Operand:  barehanded.
+Offset: 1292, CONCAT , Operand: 5
+Offset: 1293, RETURN , Operand: 0
+Offset: 1294, GOTO , Operand: 124
+Offset: 1295, PUSHI , Operand: 65
+Offset: 1296, PUSHI , Operand: 11252
+Offset: 1297, PUSHS , Operand: Magpie impling
+Offset: 1298, PUSHS , Operand: You can now catch 
+Offset: 1299, PUSHS , Operand: <col=000080>
+Offset: 1300, PUSHS , Operand: magpie implings
+Offset: 1301, PUSHS , Operand: </col>
+Offset: 1302, PUSHS , Operand:  barehanded.
+Offset: 1303, CONCAT , Operand: 5
+Offset: 1304, RETURN , Operand: 0
+Offset: 1305, GOTO , Operand: 113
+Offset: 1306, PUSHI , Operand: 74
+Offset: 1307, PUSHI , Operand: 11254
+Offset: 1308, PUSHS , Operand: Ninja impling
+Offset: 1309, PUSHS , Operand: You can now catch 
+Offset: 1310, PUSHS , Operand: <col=000080>
+Offset: 1311, PUSHS , Operand: ninja implings
+Offset: 1312, PUSHS , Operand: </col>
+Offset: 1313, PUSHS , Operand:  barehanded.
+Offset: 1314, CONCAT , Operand: 5
+Offset: 1315, RETURN , Operand: 0
+Offset: 1316, GOTO , Operand: 102
+Offset: 1317, PUSHI , Operand: 76
+Offset: 1318, PUSHI , Operand: 13337
+Offset: 1319, PUSHS , Operand: Pirate impling
+Offset: 1320, PUSHS , Operand: <br>
+Offset: 1321, PUSHS , Operand:  (after Rocking Out)
+Offset: 1322, CONCAT , Operand: 3
+Offset: 1323, PUSHS , Operand: You can now catch 
+Offset: 1324, PUSHS , Operand: <col=000080>
+Offset: 1325, PUSHS , Operand: pirate implings
+Offset: 1326, PUSHS , Operand: </col>
+Offset: 1327, PUSHS , Operand:  barehanded (after Rocking Out).
+Offset: 1328, CONCAT , Operand: 5
+Offset: 1329, RETURN , Operand: 0
+Offset: 1330, GOTO , Operand: 88
+Offset: 1331, PUSHI , Operand: 80
+Offset: 1332, PUSHI , Operand: 9970
+Offset: 1333, PUSHS , Operand: Catch ruby harvest butterfly barehanded (woodland)
+Offset: 1334, PUSHS , Operand: <br>
+Offset: 1335, PUSHS , Operand:  (with 75 Agility)
+Offset: 1336, CONCAT , Operand: 3
+Offset: 1337, PUSHS , Operand: You now have the Hunter level to catch 
+Offset: 1338, PUSHS , Operand: <col=000080>
+Offset: 1339, PUSHS , Operand: ruby harvest butterflies
+Offset: 1340, PUSHS , Operand: </col>
+Offset: 1341, PUSHS , Operand:  barehanded. This feat will give you Hunter and Agility experience upon a successful catch. (You also need level 75 Agility.)
+Offset: 1342, CONCAT , Operand: 5
+Offset: 1343, RETURN , Operand: 0
+Offset: 1344, GOTO , Operand: 74
+Offset: 1345, PUSHI , Operand: 83
+Offset: 1346, PUSHI , Operand: 11256
+Offset: 1347, PUSHS , Operand: Dragon impling
+Offset: 1348, PUSHS , Operand: You can now catch 
+Offset: 1349, PUSHS , Operand: <col=000080>
+Offset: 1350, PUSHS , Operand: dragon implings
+Offset: 1351, PUSHS , Operand: </col>
+Offset: 1352, PUSHS , Operand:  barehanded.
+Offset: 1353, CONCAT , Operand: 5
+Offset: 1354, RETURN , Operand: 0
+Offset: 1355, GOTO , Operand: 63
+Offset: 1356, PUSHI , Operand: 85
+Offset: 1357, PUSHI , Operand: 9971
+Offset: 1358, PUSHS , Operand: Catch sapphire glacialis butterfly barehanded (polar)
+Offset: 1359, PUSHS , Operand: <br>
+Offset: 1360, PUSHS , Operand:  (with 80 Agility)
+Offset: 1361, CONCAT , Operand: 3
+Offset: 1362, PUSHS , Operand: You now have the Hunter level to catch 
+Offset: 1363, PUSHS , Operand: <col=000080>
+Offset: 1364, PUSHS , Operand: sapphire glacialis butterflies
+Offset: 1365, PUSHS , Operand: </col>
+Offset: 1366, PUSHS , Operand:  barehanded. This feat will give you Hunter and Agility experience upon a successful catch. (You also need level 80 Agility.)
+Offset: 1367, CONCAT , Operand: 5
+Offset: 1368, RETURN , Operand: 0
+Offset: 1369, GOTO , Operand: 49
+Offset: 1370, PUSHI , Operand: 87
+Offset: 1371, PUSHI , Operand: 15515
+Offset: 1372, PUSHS , Operand: Zombie impling
+Offset: 1373, PUSHS , Operand: You can now catch 
+Offset: 1374, PUSHS , Operand: <col=000080>
+Offset: 1375, PUSHS , Operand: zombie implings
+Offset: 1376, PUSHS , Operand: </col>
+Offset: 1377, PUSHS , Operand:  barehanded.
+Offset: 1378, CONCAT , Operand: 5
+Offset: 1379, RETURN , Operand: 0
+Offset: 1380, GOTO , Operand: 38
+Offset: 1381, PUSHI , Operand: 90
+Offset: 1382, PUSHI , Operand: 9972
+Offset: 1383, PUSHS , Operand: Catch snowy knight butterfly barehanded (polar)
+Offset: 1384, PUSHS , Operand: <br>
+Offset: 1385, PUSHS , Operand:  (with 85 Agility)
+Offset: 1386, CONCAT , Operand: 3
+Offset: 1387, PUSHS , Operand: You now have the Hunter level to catch 
+Offset: 1388, PUSHS , Operand: <col=000080>
+Offset: 1389, PUSHS , Operand: snowy knight butterflies
+Offset: 1390, PUSHS , Operand: </col>
+Offset: 1391, PUSHS , Operand:  barehanded. This feat will give you Hunter and Agility experience upon a successful catch. (You also need level 85 Agility.)
+Offset: 1392, CONCAT , Operand: 5
+Offset: 1393, RETURN , Operand: 0
+Offset: 1394, GOTO , Operand: 24
+Offset: 1395, PUSHI , Operand: 91
+Offset: 1396, PUSHI , Operand: 15517
+Offset: 1397, PUSHS , Operand: Kingly impling
+Offset: 1398, PUSHS , Operand: You can now catch 
+Offset: 1399, PUSHS , Operand: <col=000080>
+Offset: 1400, PUSHS , Operand: kingly implings
+Offset: 1401, PUSHS , Operand: </col>
+Offset: 1402, PUSHS , Operand:  barehanded.
+Offset: 1403, CONCAT , Operand: 5
+Offset: 1404, RETURN , Operand: 0
+Offset: 1405, GOTO , Operand: 13
+Offset: 1406, PUSHI , Operand: 95
+Offset: 1407, PUSHI , Operand: 9973
+Offset: 1408, PUSHS , Operand: Catch black warlock butterfly barehanded (jungle)
+Offset: 1409, PUSHS , Operand: <br>
+Offset: 1410, PUSHS , Operand:  (with 90 Agility)
+Offset: 1411, CONCAT , Operand: 3
+Offset: 1412, PUSHS , Operand: You now have the Hunter level to catch 
+Offset: 1413, PUSHS , Operand: <col=000080>
+Offset: 1414, PUSHS , Operand: black warlock butterflies
+Offset: 1415, PUSHS , Operand: </col>
+Offset: 1416, PUSHS , Operand:  barehanded. This feat will give you Hunter and Agility experience upon a successful catch. (You also need level 90 Agility.)
+Offset: 1417, CONCAT , Operand: 5
+Offset: 1418, RETURN , Operand: 0
+Offset: 1419, GOTO , Operand: 361
+Offset: 1420, LOADINT , Operand: 1
+Offset: 1421, SWITCH , Operand: 11
+Offset: 1422, GOTO , Operand: 98
+Offset: 1423, PUSHI , Operand: 1
+Offset: 1424, PUSHI , Operand: 14152
+Offset: 1425, PUSHS , Operand: Stealing Creation - class 1 butterfly net
+Offset: 1426, PUSHS , Operand: Members can now use 
+Offset: 1427, PUSHS , Operand: <col=000080>
+Offset: 1428, PUSHS , Operand: class 1 butterfly nets
+Offset: 1429, PUSHS , Operand: </col>
+Offset: 1430, PUSHS , Operand:  in Stealing Creation.
+Offset: 1431, CONCAT , Operand: 5
+Offset: 1432, RETURN , Operand: 0
+Offset: 1433, GOTO , Operand: 87
+Offset: 1434, PUSHI , Operand: 20
+Offset: 1435, PUSHI , Operand: 14184
+Offset: 1436, PUSHS , Operand: Stealing Creation - net class 2 sacred clay
+Offset: 1437, PUSHS , Operand: Members can now net 
+Offset: 1438, PUSHS , Operand: <col=000080>
+Offset: 1439, PUSHS , Operand: class 2 sacred clay
+Offset: 1440, PUSHS , Operand: </col>
+Offset: 1441, PUSHS , Operand:  in Stealing Creation.
+Offset: 1442, CONCAT , Operand: 5
+Offset: 1443, RETURN , Operand: 0
+Offset: 1444, GOTO , Operand: 76
+Offset: 1445, PUSHI , Operand: 20
+Offset: 1446, PUSHI , Operand: 14154
+Offset: 1447, PUSHS , Operand: Stealing Creation - class 2 butterfly net
+Offset: 1448, PUSHS , Operand: Members can now use 
+Offset: 1449, PUSHS , Operand: <col=000080>
+Offset: 1450, PUSHS , Operand: class 2 butterfly nets
+Offset: 1451, PUSHS , Operand: </col>
+Offset: 1452, PUSHS , Operand:  in Stealing Creation.
+Offset: 1453, CONCAT , Operand: 5
+Offset: 1454, RETURN , Operand: 0
+Offset: 1455, GOTO , Operand: 65
+Offset: 1456, PUSHI , Operand: 40
+Offset: 1457, PUSHI , Operand: 14186
+Offset: 1458, PUSHS , Operand: Stealing Creation - net class 3 sacred clay
+Offset: 1459, PUSHS , Operand: Members can now net 
+Offset: 1460, PUSHS , Operand: <col=000080>
+Offset: 1461, PUSHS , Operand: class 3 sacred clay
+Offset: 1462, PUSHS , Operand: </col>
+Offset: 1463, PUSHS , Operand:  in Stealing Creation.
+Offset: 1464, CONCAT , Operand: 5
+Offset: 1465, RETURN , Operand: 0
+Offset: 1466, GOTO , Operand: 54
+Offset: 1467, PUSHI , Operand: 40
+Offset: 1468, PUSHI , Operand: 14156
+Offset: 1469, PUSHS , Operand: Stealing Creation - class 3 butterfly net
+Offset: 1470, PUSHS , Operand: Members can now use 
+Offset: 1471, PUSHS , Operand: <col=000080>
+Offset: 1472, PUSHS , Operand: class 3 butterfly nets
+Offset: 1473, PUSHS , Operand: </col>
+Offset: 1474, PUSHS , Operand:  in Stealing Creation.
+Offset: 1475, CONCAT , Operand: 5
+Offset: 1476, RETURN , Operand: 0
+Offset: 1477, GOTO , Operand: 43
+Offset: 1478, PUSHI , Operand: 60
+Offset: 1479, PUSHI , Operand: 14188
+Offset: 1480, PUSHS , Operand: Stealing Creation - net class 4 sacred clay
+Offset: 1481, PUSHS , Operand: Members can now net 
+Offset: 1482, PUSHS , Operand: <col=000080>
+Offset: 1483, PUSHS , Operand: class 4 sacred clay
+Offset: 1484, PUSHS , Operand: </col>
+Offset: 1485, PUSHS , Operand:  in Stealing Creation.
+Offset: 1486, CONCAT , Operand: 5
+Offset: 1487, RETURN , Operand: 0
+Offset: 1488, GOTO , Operand: 32
+Offset: 1489, PUSHI , Operand: 60
+Offset: 1490, PUSHI , Operand: 14158
+Offset: 1491, PUSHS , Operand: Stealing Creation - class 4 butterfly net
+Offset: 1492, PUSHS , Operand: Members can now use 
+Offset: 1493, PUSHS , Operand: <col=000080>
+Offset: 1494, PUSHS , Operand: class 4 butterfly nets
+Offset: 1495, PUSHS , Operand: </col>
+Offset: 1496, PUSHS , Operand:  in Stealing Creation.
+Offset: 1497, CONCAT , Operand: 5
+Offset: 1498, RETURN , Operand: 0
+Offset: 1499, GOTO , Operand: 21
+Offset: 1500, PUSHI , Operand: 80
+Offset: 1501, PUSHI , Operand: 14190
+Offset: 1502, PUSHS , Operand: Stealing Creation - net class 5 sacred clay
+Offset: 1503, PUSHS , Operand: Members can now net 
+Offset: 1504, PUSHS , Operand: <col=000080>
+Offset: 1505, PUSHS , Operand: class 5 sacred clay
+Offset: 1506, PUSHS , Operand: </col>
+Offset: 1507, PUSHS , Operand:  in Stealing Creation.
+Offset: 1508, CONCAT , Operand: 5
+Offset: 1509, RETURN , Operand: 0
+Offset: 1510, GOTO , Operand: 10
+Offset: 1511, PUSHI , Operand: 80
+Offset: 1512, PUSHI , Operand: 14160
+Offset: 1513, PUSHS , Operand: Stealing Creation - class 5 butterfly net
+Offset: 1514, PUSHS , Operand: Members can now use 
+Offset: 1515, PUSHS , Operand: <col=000080>
+Offset: 1516, PUSHS , Operand: class 5 butterfly nets
+Offset: 1517, PUSHS , Operand: </col>
+Offset: 1518, PUSHS , Operand:  in Stealing Creation.
+Offset: 1519, CONCAT , Operand: 5
+Offset: 1520, RETURN , Operand: 0
+Offset: 1521, GOTO , Operand: 259
+Offset: 1522, LOADINT , Operand: 1
+Offset: 1523, SWITCH , Operand: 12
+Offset: 1524, GOTO , Operand: 228
+Offset: 1525, PUSHI , Operand: -1
+Offset: 1526, PUSHI , Operand: 15707
+Offset: 1527, PUSHS , Operand: Dungeoneering skill tasks
+Offset: 1528, PUSHS , Operand: <br>
+Offset: 1529, PUSHS , Operand: As your Hunter level increases, you will be able to attempt higher-level hunter tasks within Daemonheim. You will also be more likely to succeed when attempting hunter tasks within Daemonheim.
+Offset: 1530, CONCAT , Operand: 3
+Offset: 1531, PUSHS , Operand: 
+Offset: 1532, RETURN , Operand: 0
+Offset: 1533, GOTO , Operand: 219
+Offset: 1534, PUSHI , Operand: 1
+Offset: 1535, PUSHI , Operand: 17756
+Offset: 1536, PUSHS , Operand: Tangle gum trap (Tier 1)
+Offset: 1537, PUSHS , Operand: You can now place 
+Offset: 1538, PUSHS , Operand: <col=000080>
+Offset: 1539, PUSHS , Operand: tangle gum traps
+Offset: 1540, PUSHS , Operand: </col>
+Offset: 1541, PUSHS , Operand:  within Daemonheim.
+Offset: 1542, CONCAT , Operand: 5
+Offset: 1543, RETURN , Operand: 0
+Offset: 1544, GOTO , Operand: 208
+Offset: 1545, PUSHI , Operand: 1
+Offset: 1546, PUSHI , Operand: 17424
+Offset: 1547, PUSHS , Operand: Protomastyx hide (Tier 1)
+Offset: 1548, PUSHS , Operand: You can now gain 
+Offset: 1549, PUSHS , Operand: <col=000080>
+Offset: 1550, PUSHS , Operand: protomastyx hides
+Offset: 1551, PUSHS , Operand: </col>
+Offset: 1552, PUSHS , Operand:  from protomastyx carcasses within Daemonheim.
+Offset: 1553, CONCAT , Operand: 5
+Offset: 1554, RETURN , Operand: 0
+Offset: 1555, GOTO , Operand: 197
+Offset: 1556, PUSHI , Operand: 10
+Offset: 1557, PUSHI , Operand: 17758
+Offset: 1558, PUSHS , Operand: Seeping elm trap (Tier 2)
+Offset: 1559, PUSHS , Operand: You can now place 
+Offset: 1560, PUSHS , Operand: <col=000080>
+Offset: 1561, PUSHS , Operand: seeping elm traps
+Offset: 1562, PUSHS , Operand: </col>
+Offset: 1563, PUSHS , Operand:  within Daemonheim.
+Offset: 1564, CONCAT , Operand: 5
+Offset: 1565, RETURN , Operand: 0
+Offset: 1566, GOTO , Operand: 186
+Offset: 1567, PUSHI , Operand: 10
+Offset: 1568, PUSHI , Operand: 17426
+Offset: 1569, PUSHS , Operand: Submastyx hide (Tier 2)
+Offset: 1570, PUSHS , Operand: You can now gain 
+Offset: 1571, PUSHS , Operand: <col=000080>
+Offset: 1572, PUSHS , Operand: submastyx hides
+Offset: 1573, PUSHS , Operand: </col>
+Offset: 1574, PUSHS , Operand:  from submastyx carcasses within Daemonheim.
+Offset: 1575, CONCAT , Operand: 5
+Offset: 1576, RETURN , Operand: 0
+Offset: 1577, GOTO , Operand: 175
+Offset: 1578, PUSHI , Operand: 20
+Offset: 1579, PUSHI , Operand: 17760
+Offset: 1580, PUSHS , Operand: Blood spindle trap (Tier 3)
+Offset: 1581, PUSHS , Operand: You can now place 
+Offset: 1582, PUSHS , Operand: <col=000080>
+Offset: 1583, PUSHS , Operand: blood spindle traps
+Offset: 1584, PUSHS , Operand: </col>
+Offset: 1585, PUSHS , Operand:  within Daemonheim.
+Offset: 1586, CONCAT , Operand: 5
+Offset: 1587, RETURN , Operand: 0
+Offset: 1588, GOTO , Operand: 164
+Offset: 1589, PUSHI , Operand: 20
+Offset: 1590, PUSHI , Operand: 17428
+Offset: 1591, PUSHS , Operand: Paramastyx hide (Tier 3)
+Offset: 1592, PUSHS , Operand: You can now gain 
+Offset: 1593, PUSHS , Operand: <col=000080>
+Offset: 1594, PUSHS , Operand: paramastyx hides
+Offset: 1595, PUSHS , Operand: </col>
+Offset: 1596, PUSHS , Operand:  from paramastyx carcasses within Daemonheim.
+Offset: 1597, CONCAT , Operand: 5
+Offset: 1598, RETURN , Operand: 0
+Offset: 1599, GOTO , Operand: 153
+Offset: 1600, PUSHI , Operand: 30
+Offset: 1601, PUSHI , Operand: 17762
+Offset: 1602, PUSHS , Operand: Utuku trap (Tier 4)
+Offset: 1603, PUSHS , Operand: You can now place 
+Offset: 1604, PUSHS , Operand: <col=000080>
+Offset: 1605, PUSHS , Operand: utuku traps
+Offset: 1606, PUSHS , Operand: </col>
+Offset: 1607, PUSHS , Operand:  within Daemonheim.
+Offset: 1608, CONCAT , Operand: 5
+Offset: 1609, RETURN , Operand: 0
+Offset: 1610, GOTO , Operand: 142
+Offset: 1611, PUSHI , Operand: 30
+Offset: 1612, PUSHI , Operand: 17430
+Offset: 1613, PUSHS , Operand: Archaemastyx hide (Tier 4)
+Offset: 1614, PUSHS , Operand: You can now gain 
+Offset: 1615, PUSHS , Operand: <col=000080>
+Offset: 1616, PUSHS , Operand: archaemastyx hides
+Offset: 1617, PUSHS , Operand: </col>
+Offset: 1618, PUSHS , Operand:  from archaemastyx carcasses within Daemonheim.
+Offset: 1619, CONCAT , Operand: 5
+Offset: 1620, RETURN , Operand: 0
+Offset: 1621, GOTO , Operand: 131
+Offset: 1622, PUSHI , Operand: 40
+Offset: 1623, PUSHI , Operand: 17764
+Offset: 1624, PUSHS , Operand: Spinebeam trap (Tier 5)
+Offset: 1625, PUSHS , Operand: You can now place 
+Offset: 1626, PUSHS , Operand: <col=000080>
+Offset: 1627, PUSHS , Operand: spinebeam traps
+Offset: 1628, PUSHS , Operand: </col>
+Offset: 1629, PUSHS , Operand:  within Daemonheim.
+Offset: 1630, CONCAT , Operand: 5
+Offset: 1631, RETURN , Operand: 0
+Offset: 1632, GOTO , Operand: 120
+Offset: 1633, PUSHI , Operand: 40
+Offset: 1634, PUSHI , Operand: 17432
+Offset: 1635, PUSHS , Operand: Dromomastyx hide (Tier 5)
+Offset: 1636, PUSHS , Operand: You can now gain 
+Offset: 1637, PUSHS , Operand: <col=000080>
+Offset: 1638, PUSHS , Operand: dromomastyx hides
+Offset: 1639, PUSHS , Operand: </col>
+Offset: 1640, PUSHS , Operand:  from dromomastyx carcasses within Daemonheim.
+Offset: 1641, CONCAT , Operand: 5
+Offset: 1642, RETURN , Operand: 0
+Offset: 1643, GOTO , Operand: 109
+Offset: 1644, PUSHI , Operand: 50
+Offset: 1645, PUSHI , Operand: 17766
+Offset: 1646, PUSHS , Operand: Bovistrangler trap (Tier 6)
+Offset: 1647, PUSHS , Operand: You can now place 
+Offset: 1648, PUSHS , Operand: <col=000080>
+Offset: 1649, PUSHS , Operand: bovistrangler traps
+Offset: 1650, PUSHS , Operand: </col>
+Offset: 1651, PUSHS , Operand:  within Daemonheim.
+Offset: 1652, CONCAT , Operand: 5
+Offset: 1653, RETURN , Operand: 0
+Offset: 1654, GOTO , Operand: 98
+Offset: 1655, PUSHI , Operand: 50
+Offset: 1656, PUSHI , Operand: 17434
+Offset: 1657, PUSHS , Operand: Spinomastyx hide (Tier 6)
+Offset: 1658, PUSHS , Operand: You can now gain 
+Offset: 1659, PUSHS , Operand: <col=000080>
+Offset: 1660, PUSHS , Operand: spinomastyx hides
+Offset: 1661, PUSHS , Operand: </col>
+Offset: 1662, PUSHS , Operand:  from spinomastyx carcasses within Daemonheim.
+Offset: 1663, CONCAT , Operand: 5
+Offset: 1664, RETURN , Operand: 0
+Offset: 1665, GOTO , Operand: 87
+Offset: 1666, PUSHI , Operand: 60
+Offset: 1667, PUSHI , Operand: 17768
+Offset: 1668, PUSHS , Operand: Thigat trap (Tier 7)
+Offset: 1669, PUSHS , Operand: You can now place 
+Offset: 1670, PUSHS , Operand: <col=000080>
+Offset: 1671, PUSHS , Operand: thigat traps
+Offset: 1672, PUSHS , Operand: </col>
+Offset: 1673, PUSHS , Operand:  within Daemonheim.
+Offset: 1674, CONCAT , Operand: 5
+Offset: 1675, RETURN , Operand: 0
+Offset: 1676, GOTO , Operand: 76
+Offset: 1677, PUSHI , Operand: 60
+Offset: 1678, PUSHI , Operand: 17436
+Offset: 1679, PUSHS , Operand: Gallimastyx hide (Tier 7)
+Offset: 1680, PUSHS , Operand: You can now gain 
+Offset: 1681, PUSHS , Operand: <col=000080>
+Offset: 1682, PUSHS , Operand: gallimastyx hides
+Offset: 1683, PUSHS , Operand: </col>
+Offset: 1684, PUSHS , Operand:  from gallimastyx carcasses within Daemonheim.
+Offset: 1685, CONCAT , Operand: 5
+Offset: 1686, RETURN , Operand: 0
+Offset: 1687, GOTO , Operand: 65
+Offset: 1688, PUSHI , Operand: 70
+Offset: 1689, PUSHI , Operand: 17770
+Offset: 1690, PUSHS , Operand: Corpsethorn trap (Tier 8)
+Offset: 1691, PUSHS , Operand: You can now place 
+Offset: 1692, PUSHS , Operand: <col=000080>
+Offset: 1693, PUSHS , Operand: corpsethorn traps
+Offset: 1694, PUSHS , Operand: </col>
+Offset: 1695, PUSHS , Operand:  within Daemonheim.
+Offset: 1696, CONCAT , Operand: 5
+Offset: 1697, RETURN , Operand: 0
+Offset: 1698, GOTO , Operand: 54
+Offset: 1699, PUSHI , Operand: 70
+Offset: 1700, PUSHI , Operand: 17438
+Offset: 1701, PUSHS , Operand: Stegomastyx hide (Tier 8)
+Offset: 1702, PUSHS , Operand: You can now gain 
+Offset: 1703, PUSHS , Operand: <col=000080>
+Offset: 1704, PUSHS , Operand: stegomastyx hides
+Offset: 1705, PUSHS , Operand: </col>
+Offset: 1706, PUSHS , Operand:  from stegomastyx carcasses within Daemonheim.
+Offset: 1707, CONCAT , Operand: 5
+Offset: 1708, RETURN , Operand: 0
+Offset: 1709, GOTO , Operand: 43
+Offset: 1710, PUSHI , Operand: 80
+Offset: 1711, PUSHI , Operand: 17772
+Offset: 1712, PUSHS , Operand: Entgallow trap (Tier 9)
+Offset: 1713, PUSHS , Operand: You can now place 
+Offset: 1714, PUSHS , Operand: <col=000080>
+Offset: 1715, PUSHS , Operand: entgallow traps
+Offset: 1716, PUSHS , Operand: </col>
+Offset: 1717, PUSHS , Operand:  within Daemonheim.
+Offset: 1718, CONCAT , Operand: 5
+Offset: 1719, RETURN , Operand: 0
+Offset: 1720, GOTO , Operand: 32
+Offset: 1721, PUSHI , Operand: 80
+Offset: 1722, PUSHI , Operand: 17440
+Offset: 1723, PUSHS , Operand: Megamastyx hide (Tier 9)
+Offset: 1724, PUSHS , Operand: You can now gain 
+Offset: 1725, PUSHS , Operand: <col=000080>
+Offset: 1726, PUSHS , Operand: megamastyx hides
+Offset: 1727, PUSHS , Operand: </col>
+Offset: 1728, PUSHS , Operand:  from megamastyx carcasses within Daemonheim.
+Offset: 1729, CONCAT , Operand: 5
+Offset: 1730, RETURN , Operand: 0
+Offset: 1731, GOTO , Operand: 21
+Offset: 1732, PUSHI , Operand: 90
+Offset: 1733, PUSHI , Operand: 17774
+Offset: 1734, PUSHS , Operand: Grave creeper trap (Tier 10)
+Offset: 1735, PUSHS , Operand: You can now place 
+Offset: 1736, PUSHS , Operand: <col=000080>
+Offset: 1737, PUSHS , Operand: grave creeper traps
+Offset: 1738, PUSHS , Operand: </col>
+Offset: 1739, PUSHS , Operand:  within Daemonheim.
+Offset: 1740, CONCAT , Operand: 5
+Offset: 1741, RETURN , Operand: 0
+Offset: 1742, GOTO , Operand: 10
+Offset: 1743, PUSHI , Operand: 90
+Offset: 1744, PUSHI , Operand: 17442
+Offset: 1745, PUSHS , Operand: Tyrannomastyx hide (Tier 10)
+Offset: 1746, PUSHS , Operand: You can now gain 
+Offset: 1747, PUSHS , Operand: <col=000080>
+Offset: 1748, PUSHS , Operand: tyrannomastyx hides
+Offset: 1749, PUSHS , Operand: </col>
+Offset: 1750, PUSHS , Operand:  from tyrannomastyx carcasses within Daemonheim.
+Offset: 1751, CONCAT , Operand: 5
+Offset: 1752, RETURN , Operand: 0
+Offset: 1753, GOTO , Operand: 27
+Offset: 1754, LOADINT , Operand: 1
+Offset: 1755, PUSHI , Operand: 0
+Offset: 1756, IFEQ , Operand: 1
+Offset: 1757, GOTO , Operand: 23
+Offset: 1758, PUSHI , Operand: 99
+Offset: 1759, PUSHI , Operand: 9948
+Offset: 1760, PUSHS , Operand: Skill mastery
+Offset: 1761, PUSHS , Operand: <col=000080>
+Offset: 1762, PUSHS , Operand: Congratulations! You are now a master 
+Offset: 1763, PUSHS , Operand: <col=800000>
+Offset: 1764, PUSHS , Operand: Hunter
+Offset: 1765, PUSHS , Operand: <col=000080>
+Offset: 1766, PUSHS , Operand: . Why not visit the 
+Offset: 1767, PUSHS , Operand: <col=800000>
+Offset: 1768, PUSHS , Operand: Hunter Expert
+Offset: 1769, PUSHS , Operand: <col=000080>
+Offset: 1770, PUSHS , Operand: , south of the 
+Offset: 1771, PUSHS , Operand: <col=800000>
+Offset: 1772, PUSHS , Operand: Feldip Hills
+Offset: 1773, PUSHS , Operand: <col=000080>
+Offset: 1774, PUSHS , Operand: ? She has something special that is only available to true masters of the 
+Offset: 1775, PUSHS , Operand: <col=800000>
+Offset: 1776, PUSHS , Operand: Hunter
+Offset: 1777, PUSHS , Operand: <col=000080>
+Offset: 1778, PUSHS , Operand:  skill!
+Offset: 1779, CONCAT , Operand: 18
+Offset: 1780, RETURN , Operand: 0
+Offset: 1781, PUSHI , Operand: 0
+Offset: 1782, PUSHI , Operand: -1
+Offset: 1783, PUSHS , Operand: 
+Offset: 1784, PUSHS , Operand: 
+Offset: 1785, RETURN , Operand: 0
+
+================================================
+                Switch Table 0                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 208
+Key: 2, Value: 280
+Key: 3, Value: 354
+Key: 4, Value: 558
+Key: 5, Value: 649
+Key: 6, Value: 800
+Key: 7, Value: 889
+Key: 8, Value: 932
+Key: 9, Value: 975
+Key: 10, Value: 997
+Key: 11, Value: 1078
+Key: 12, Value: 1202
+Key: 13, Value: 1418
+Key: 14, Value: 1520
+Key: 15, Value: 1752
+
+================================================
+                Switch Table 1                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 12
+Key: 2, Value: 23
+Key: 3, Value: 34
+Key: 4, Value: 53
+Key: 5, Value: 64
+Key: 6, Value: 75
+Key: 7, Value: 86
+Key: 8, Value: 97
+Key: 9, Value: 108
+Key: 10, Value: 119
+Key: 11, Value: 130
+Key: 12, Value: 141
+Key: 13, Value: 151
+Key: 14, Value: 161
+Key: 15, Value: 172
+Key: 17, Value: 194
+Key: 16, Value: 183
+
+================================================
+                Switch Table 2                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 12
+Key: 2, Value: 23
+Key: 3, Value: 34
+Key: 4, Value: 45
+Key: 5, Value: 59
+
+================================================
+                Switch Table 3                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 12
+Key: 2, Value: 23
+Key: 3, Value: 34
+Key: 4, Value: 45
+Key: 5, Value: 56
+
+================================================
+                Switch Table 4                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 12
+Key: 2, Value: 23
+Key: 3, Value: 34
+Key: 4, Value: 45
+Key: 5, Value: 56
+Key: 6, Value: 67
+Key: 7, Value: 78
+Key: 8, Value: 89
+Key: 9, Value: 100
+Key: 10, Value: 111
+Key: 11, Value: 122
+Key: 12, Value: 133
+Key: 13, Value: 144
+Key: 14, Value: 155
+Key: 15, Value: 169
+Key: 17, Value: 191
+Key: 16, Value: 180
+
+================================================
+                Switch Table 5                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 15
+Key: 2, Value: 29
+Key: 3, Value: 43
+Key: 4, Value: 59
+Key: 5, Value: 73
+
+================================================
+                Switch Table 6                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 15
+Key: 2, Value: 29
+Key: 3, Value: 43
+Key: 4, Value: 59
+Key: 5, Value: 77
+Key: 6, Value: 91
+Key: 7, Value: 107
+Key: 8, Value: 121
+Key: 9, Value: 135
+
+================================================
+                Switch Table 7                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 15
+Key: 2, Value: 31
+Key: 3, Value: 45
+Key: 4, Value: 59
+Key: 5, Value: 73
+
+================================================
+                Switch Table 8                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 21
+Key: 2, Value: 35
+Key: 3, Value: 46
+Key: 4, Value: 57
+Key: 5, Value: 68
+
+================================================
+                Switch Table 9                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 12
+Key: 2, Value: 23
+Key: 3, Value: 34
+Key: 4, Value: 45
+Key: 5, Value: 56
+Key: 6, Value: 67
+Key: 7, Value: 78
+Key: 8, Value: 89
+Key: 9, Value: 100
+Key: 10, Value: 111
+
+================================================
+                Switch Table 10                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 12
+Key: 2, Value: 23
+Key: 3, Value: 34
+Key: 4, Value: 45
+Key: 5, Value: 56
+Key: 6, Value: 67
+Key: 7, Value: 78
+Key: 8, Value: 89
+Key: 9, Value: 100
+Key: 10, Value: 111
+Key: 11, Value: 125
+Key: 12, Value: 139
+Key: 13, Value: 150
+Key: 14, Value: 164
+Key: 15, Value: 175
+Key: 17, Value: 200
+Key: 16, Value: 189
+
+================================================
+                Switch Table 11                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 12
+Key: 2, Value: 23
+Key: 3, Value: 34
+Key: 4, Value: 45
+Key: 5, Value: 56
+Key: 6, Value: 67
+Key: 7, Value: 78
+Key: 8, Value: 89
+
+================================================
+                Switch Table 12                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 10
+Key: 2, Value: 21
+Key: 3, Value: 32
+Key: 4, Value: 43
+Key: 5, Value: 54
+Key: 6, Value: 65
+Key: 7, Value: 76
+Key: 8, Value: 87
+Key: 9, Value: 98
+Key: 10, Value: 109
+Key: 11, Value: 120
+Key: 12, Value: 131
+Key: 13, Value: 142
+Key: 14, Value: 153
+Key: 15, Value: 164
+Key: 17, Value: 186
+Key: 16, Value: 175
+Key: 19, Value: 208
+Key: 18, Value: 197
+Key: 20, Value: 219

@@ -1,0 +1,86 @@
+================================================
+      Client Script 1923 Dumped by SiniSoul    
+      Instruction Size: 75
+      Integer Arguments: 4 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADGINT , Operand: 550
+Offset: 1, STOREINT , Operand: 0
+Offset: 2, LOADGINT , Operand: 554
+Offset: 3, STOREINT , Operand: 1
+Offset: 4, LOADGINT , Operand: 555
+Offset: 5, STOREINT , Operand: 2
+Offset: 6, PUSHI , Operand: 0
+Offset: 7, STOREINT , Operand: 3
+Offset: 8, LOADINT , Operand: 0
+Offset: 9, PUSHI , Operand: 0
+Offset: 10, IFEQ , Operand: 1
+Offset: 11, GOTO , Operand: 28
+Offset: 12, PUSHI , Operand: 0
+Offset: 13, PUSHI , Operand: 5
+Offset: 14, LOADINT , Operand: 1
+Offset: 15, ISUB , Operand: 0
+Offset: 16, PUSHI , Operand: 5
+Offset: 17, Unref Method: 4016, Operand: 0
+Offset: 18, Unref Method: 4017, Operand: 0
+Offset: 19, STOREINT , Operand: 1
+Offset: 20, PUSHI , Operand: 0
+Offset: 21, PUSHI , Operand: 5
+Offset: 22, LOADINT , Operand: 2
+Offset: 23, ISUB , Operand: 0
+Offset: 24, PUSHI , Operand: 5
+Offset: 25, Unref Method: 4016, Operand: 0
+Offset: 26, Unref Method: 4017, Operand: 0
+Offset: 27, STOREINT , Operand: 2
+Offset: 28, LOADINT , Operand: 1
+Offset: 29, integerToString , Operand: 0
+Offset: 30, PUSHI , Operand: 52690978
+Offset: 31, Unref Method: 2112, Operand: 0
+Offset: 32, LOADINT , Operand: 2
+Offset: 33, integerToString , Operand: 0
+Offset: 34, PUSHI , Operand: 52690977
+Offset: 35, Unref Method: 2112, Operand: 0
+Offset: 36, PUSHI , Operand: 0
+Offset: 37, PUSHI , Operand: 52690946
+Offset: 38, Unref Method: 2003, Operand: 0
+Offset: 39, GOTO , Operand: 34
+Offset: 40, PUSHI , Operand: 1
+Offset: 41, PUSHI , Operand: 52690946
+Offset: 42, Unref Method: 2003, Operand: 0
+Offset: 43, LOADINT , Operand: 0
+Offset: 44, PUSHI , Operand: 100
+Offset: 45, IMOD , Operand: 0
+Offset: 46, PUSHI , Operand: 0
+Offset: 47, IFNE , Operand: 1
+Offset: 48, GOTO , Operand: 2
+Offset: 49, PUSHI , Operand: 1
+Offset: 50, STOREINT , Operand: 3
+Offset: 51, LOADINT , Operand: 0
+Offset: 52, PUSHI , Operand: 60
+Offset: 53, IMUL , Operand: 0
+Offset: 54, PUSHI , Operand: 100
+Offset: 55, IDIV , Operand: 0
+Offset: 56, PUSHI , Operand: 60
+Offset: 57, IDIV , Operand: 0
+Offset: 58, STOREINT , Operand: 0
+Offset: 59, LOADINT , Operand: 3
+Offset: 60, PUSHI , Operand: 1
+Offset: 61, IFEQ , Operand: 1
+Offset: 62, GOTO , Operand: 4
+Offset: 63, LOADINT , Operand: 0
+Offset: 64, PUSHI , Operand: 1
+Offset: 65, IADD , Operand: 0
+Offset: 66, STOREINT , Operand: 0
+Offset: 67, PUSHS , Operand: Game start : 
+Offset: 68, LOADINT , Operand: 0
+Offset: 69, integerToString , Operand: 0
+Offset: 70, PUSHS , Operand:  mins
+Offset: 71, CONCAT , Operand: 3
+Offset: 72, PUSHI , Operand: 52690945
+Offset: 73, Unref Method: 2112, Operand: 0
+Offset: 74, RETURN , Operand: 0

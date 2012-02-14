@@ -1,0 +1,1037 @@
+================================================
+      Client Script 1004 Dumped by SiniSoul    
+      Instruction Size: 931
+      Integer Arguments: 2 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADINT , Operand: 0
+Offset: 1, SWITCH , Operand: 0
+Offset: 2, GOTO , Operand: 923
+Offset: 3, LOADINT , Operand: 1
+Offset: 4, SWITCH , Operand: 1
+Offset: 5, GOTO , Operand: 768
+Offset: 6, PUSHI , Operand: 10
+Offset: 7, PUSHI , Operand: 5574
+Offset: 8, PUSHS , Operand: Members: Initiate sallet
+Offset: 9, PUSHS , Operand: <br>
+Offset: 10, PUSHS , Operand:  (after Recruitment Drive and with 20 Defence)
+Offset: 11, CONCAT , Operand: 3
+Offset: 12, PUSHS , Operand: Members now have the Prayer level required to wear 
+Offset: 13, PUSHS , Operand: <col=000080>
+Offset: 14, PUSHS , Operand: initiate sallets
+Offset: 15, PUSHS , Operand: </col>
+Offset: 16, PUSHS , Operand:  (after Recruitment Drive, with level 20 Defence).
+Offset: 17, CONCAT , Operand: 5
+Offset: 18, RETURN , Operand: 0
+Offset: 19, GOTO , Operand: 754
+Offset: 20, PUSHI , Operand: 10
+Offset: 21, PUSHI , Operand: 5575
+Offset: 22, PUSHS , Operand: Members: Initiate hauberk
+Offset: 23, PUSHS , Operand: <br>
+Offset: 24, PUSHS , Operand:  (after Recruitment Drive and with 20 Defence)
+Offset: 25, CONCAT , Operand: 3
+Offset: 26, PUSHS , Operand: Members now have the Prayer level required to wear 
+Offset: 27, PUSHS , Operand: <col=000080>
+Offset: 28, PUSHS , Operand: initiate hauberks
+Offset: 29, PUSHS , Operand: </col>
+Offset: 30, PUSHS , Operand:  (after Recruitment Drive, with level 20 Defence).
+Offset: 31, CONCAT , Operand: 5
+Offset: 32, RETURN , Operand: 0
+Offset: 33, GOTO , Operand: 740
+Offset: 34, PUSHI , Operand: 10
+Offset: 35, PUSHI , Operand: 5576
+Offset: 36, PUSHS , Operand: Members: Initiate cuisse
+Offset: 37, PUSHS , Operand: <br>
+Offset: 38, PUSHS , Operand:  (after Recruitment Drive and with 20 Defence)
+Offset: 39, CONCAT , Operand: 3
+Offset: 40, PUSHS , Operand: Members now have the Prayer level required to wear 
+Offset: 41, PUSHS , Operand: <col=000080>
+Offset: 42, PUSHS , Operand: initiate cuisses
+Offset: 43, PUSHS , Operand: </col>
+Offset: 44, PUSHS , Operand:  (after Recruitment Drive, with level 20 Defence).
+Offset: 45, CONCAT , Operand: 5
+Offset: 46, RETURN , Operand: 0
+Offset: 47, GOTO , Operand: 726
+Offset: 48, PUSHI , Operand: 20
+Offset: 49, PUSHI , Operand: 9672
+Offset: 50, PUSHS , Operand: Members: Proselyte sallet
+Offset: 51, PUSHS , Operand: <br>
+Offset: 52, PUSHS , Operand:  (after Slug Menace and with 30 Defence)
+Offset: 53, CONCAT , Operand: 3
+Offset: 54, PUSHS , Operand: Members now have the Prayer level required to wear 
+Offset: 55, PUSHS , Operand: <col=000080>
+Offset: 56, PUSHS , Operand: proselyte sallets
+Offset: 57, PUSHS , Operand: </col>
+Offset: 58, PUSHS , Operand:  (after Slug Menace, with level 30 Defence).
+Offset: 59, CONCAT , Operand: 5
+Offset: 60, RETURN , Operand: 0
+Offset: 61, GOTO , Operand: 712
+Offset: 62, PUSHI , Operand: 20
+Offset: 63, PUSHI , Operand: 9674
+Offset: 64, PUSHS , Operand: Members: Proselyte hauberk
+Offset: 65, PUSHS , Operand: <br>
+Offset: 66, PUSHS , Operand:  (after Slug Menace and with 30 Defence)
+Offset: 67, CONCAT , Operand: 3
+Offset: 68, PUSHS , Operand: Members now have the Prayer level required to wear 
+Offset: 69, PUSHS , Operand: <col=000080>
+Offset: 70, PUSHS , Operand: proselyte hauberks
+Offset: 71, PUSHS , Operand: </col>
+Offset: 72, PUSHS , Operand:  (after Slug Menace, with level 30 Defence).
+Offset: 73, CONCAT , Operand: 5
+Offset: 74, RETURN , Operand: 0
+Offset: 75, GOTO , Operand: 698
+Offset: 76, PUSHI , Operand: 20
+Offset: 77, PUSHI , Operand: 9676
+Offset: 78, PUSHS , Operand: Members: Proselyte cuisse
+Offset: 79, PUSHS , Operand: <br>
+Offset: 80, PUSHS , Operand:  (after Slug Menace and with 30 Defence)
+Offset: 81, CONCAT , Operand: 3
+Offset: 82, PUSHS , Operand: Members now have the Prayer level required to wear 
+Offset: 83, PUSHS , Operand: <col=000080>
+Offset: 84, PUSHS , Operand: proselyte cuisses
+Offset: 85, PUSHS , Operand: </col>
+Offset: 86, PUSHS , Operand:  (after Slug Menace, with level 30 Defence).
+Offset: 87, CONCAT , Operand: 5
+Offset: 88, RETURN , Operand: 0
+Offset: 89, GOTO , Operand: 684
+Offset: 90, PUSHI , Operand: 20
+Offset: 91, PUSHI , Operand: 9678
+Offset: 92, PUSHS , Operand: Members: Proselyte plateskirt
+Offset: 93, PUSHS , Operand: <br>
+Offset: 94, PUSHS , Operand:  (after Slug Menace and with 30 Defence)
+Offset: 95, CONCAT , Operand: 3
+Offset: 96, PUSHS , Operand: Members now have the Prayer level required to wear 
+Offset: 97, PUSHS , Operand: <col=000080>
+Offset: 98, PUSHS , Operand: proselyte plateskirts
+Offset: 99, PUSHS , Operand: </col>
+Offset: 100, PUSHS , Operand:  (after Slug Menace, with level 30 Defence).
+Offset: 101, CONCAT , Operand: 5
+Offset: 102, RETURN , Operand: 0
+Offset: 103, GOTO , Operand: 670
+Offset: 104, PUSHI , Operand: 20
+Offset: 105, PUSHI , Operand: 10462
+Offset: 106, PUSHS , Operand: Members: Guthix robe top
+Offset: 107, PUSHS , Operand: Members can now wear 
+Offset: 108, PUSHS , Operand: <col=000080>
+Offset: 109, PUSHS , Operand: Guthix robe tops
+Offset: 110, PUSHS , Operand: </col>
+Offset: 111, PUSHS , Operand: .
+Offset: 112, CONCAT , Operand: 5
+Offset: 113, RETURN , Operand: 0
+Offset: 114, GOTO , Operand: 659
+Offset: 115, PUSHI , Operand: 20
+Offset: 116, PUSHI , Operand: 10466
+Offset: 117, PUSHS , Operand: Members: Guthix robe legs
+Offset: 118, PUSHS , Operand: Members can now wear 
+Offset: 119, PUSHS , Operand: <col=000080>
+Offset: 120, PUSHS , Operand: Guthix robe legs
+Offset: 121, PUSHS , Operand: </col>
+Offset: 122, PUSHS , Operand: .
+Offset: 123, CONCAT , Operand: 5
+Offset: 124, RETURN , Operand: 0
+Offset: 125, GOTO , Operand: 648
+Offset: 126, PUSHI , Operand: 20
+Offset: 127, PUSHI , Operand: 10458
+Offset: 128, PUSHS , Operand: Members: Saradomin robe top
+Offset: 129, PUSHS , Operand: Members can now wear 
+Offset: 130, PUSHS , Operand: <col=000080>
+Offset: 131, PUSHS , Operand: Saradomin robe tops
+Offset: 132, PUSHS , Operand: </col>
+Offset: 133, PUSHS , Operand: .
+Offset: 134, CONCAT , Operand: 5
+Offset: 135, RETURN , Operand: 0
+Offset: 136, GOTO , Operand: 637
+Offset: 137, PUSHI , Operand: 20
+Offset: 138, PUSHI , Operand: 10464
+Offset: 139, PUSHS , Operand: Members: Saradomin robe legs
+Offset: 140, PUSHS , Operand: Members can now wear 
+Offset: 141, PUSHS , Operand: <col=000080>
+Offset: 142, PUSHS , Operand: Saradomin robe legs
+Offset: 143, PUSHS , Operand: </col>
+Offset: 144, PUSHS , Operand: .
+Offset: 145, CONCAT , Operand: 5
+Offset: 146, RETURN , Operand: 0
+Offset: 147, GOTO , Operand: 626
+Offset: 148, PUSHI , Operand: 20
+Offset: 149, PUSHI , Operand: 10460
+Offset: 150, PUSHS , Operand: Members: Zamorak robe top
+Offset: 151, PUSHS , Operand: Members can now wear 
+Offset: 152, PUSHS , Operand: <col=000080>
+Offset: 153, PUSHS , Operand: Zamorak robe tops
+Offset: 154, PUSHS , Operand: </col>
+Offset: 155, PUSHS , Operand: .
+Offset: 156, CONCAT , Operand: 5
+Offset: 157, RETURN , Operand: 0
+Offset: 158, GOTO , Operand: 615
+Offset: 159, PUSHI , Operand: 20
+Offset: 160, PUSHI , Operand: 10468
+Offset: 161, PUSHS , Operand: Members: Zamorak robe legs
+Offset: 162, PUSHS , Operand: Members can now wear 
+Offset: 163, PUSHS , Operand: <col=000080>
+Offset: 164, PUSHS , Operand: Zamorak robe legs
+Offset: 165, PUSHS , Operand: </col>
+Offset: 166, PUSHS , Operand: .
+Offset: 167, CONCAT , Operand: 5
+Offset: 168, RETURN , Operand: 0
+Offset: 169, GOTO , Operand: 604
+Offset: 170, PUSHI , Operand: 20
+Offset: 171, PUSHI , Operand: 19380
+Offset: 172, PUSHS , Operand: Members: Armadyl robe top
+Offset: 173, PUSHS , Operand: Members can now wear 
+Offset: 174, PUSHS , Operand: <col=000080>
+Offset: 175, PUSHS , Operand: Armadyl robe tops
+Offset: 176, PUSHS , Operand: </col>
+Offset: 177, PUSHS , Operand: .
+Offset: 178, CONCAT , Operand: 5
+Offset: 179, RETURN , Operand: 0
+Offset: 180, GOTO , Operand: 593
+Offset: 181, PUSHI , Operand: 20
+Offset: 182, PUSHI , Operand: 19386
+Offset: 183, PUSHS , Operand: Members: Armadyl robe legs
+Offset: 184, PUSHS , Operand: Members can now wear 
+Offset: 185, PUSHS , Operand: <col=000080>
+Offset: 186, PUSHS , Operand: Armadyl robe legs
+Offset: 187, PUSHS , Operand: </col>
+Offset: 188, PUSHS , Operand: .
+Offset: 189, CONCAT , Operand: 5
+Offset: 190, RETURN , Operand: 0
+Offset: 191, GOTO , Operand: 582
+Offset: 192, PUSHI , Operand: 20
+Offset: 193, PUSHI , Operand: 19384
+Offset: 194, PUSHS , Operand: Members: Bandos robe top
+Offset: 195, PUSHS , Operand: Members can now wear 
+Offset: 196, PUSHS , Operand: <col=000080>
+Offset: 197, PUSHS , Operand: Bandos robe tops
+Offset: 198, PUSHS , Operand: </col>
+Offset: 199, PUSHS , Operand: .
+Offset: 200, CONCAT , Operand: 5
+Offset: 201, RETURN , Operand: 0
+Offset: 202, GOTO , Operand: 571
+Offset: 203, PUSHI , Operand: 20
+Offset: 204, PUSHI , Operand: 19388
+Offset: 205, PUSHS , Operand: Members: Bandos robe legs
+Offset: 206, PUSHS , Operand: Members can now wear 
+Offset: 207, PUSHS , Operand: <col=000080>
+Offset: 208, PUSHS , Operand: Bandos robe legs
+Offset: 209, PUSHS , Operand: </col>
+Offset: 210, PUSHS , Operand: .
+Offset: 211, CONCAT , Operand: 5
+Offset: 212, RETURN , Operand: 0
+Offset: 213, GOTO , Operand: 560
+Offset: 214, PUSHI , Operand: 20
+Offset: 215, PUSHI , Operand: 19382
+Offset: 216, PUSHS , Operand: Members: Ancient robe top
+Offset: 217, PUSHS , Operand: Members can now wear 
+Offset: 218, PUSHS , Operand: <col=000080>
+Offset: 219, PUSHS , Operand: Ancient robe tops
+Offset: 220, PUSHS , Operand: </col>
+Offset: 221, PUSHS , Operand: .
+Offset: 222, CONCAT , Operand: 5
+Offset: 223, RETURN , Operand: 0
+Offset: 224, GOTO , Operand: 549
+Offset: 225, PUSHI , Operand: 20
+Offset: 226, PUSHI , Operand: 19390
+Offset: 227, PUSHS , Operand: Members: Ancient robe legs
+Offset: 228, PUSHS , Operand: Members can now wear 
+Offset: 229, PUSHS , Operand: <col=000080>
+Offset: 230, PUSHS , Operand: Ancient robe legs
+Offset: 231, PUSHS , Operand: </col>
+Offset: 232, PUSHS , Operand: .
+Offset: 233, CONCAT , Operand: 5
+Offset: 234, RETURN , Operand: 0
+Offset: 235, GOTO , Operand: 538
+Offset: 236, PUSHI , Operand: 21
+Offset: 237, PUSHI , Operand: 18337
+Offset: 238, PUSHS , Operand: Members: Bonecrusher
+Offset: 239, PUSHS , Operand: <br>
+Offset: 240, PUSHS , Operand:  (with 21 Dungeoneering)
+Offset: 241, CONCAT , Operand: 3
+Offset: 242, PUSHS , Operand: Members can now use 
+Offset: 243, PUSHS , Operand: <col=000080>
+Offset: 244, PUSHS , Operand: bonecrushers
+Offset: 245, PUSHS , Operand: </col>
+Offset: 246, PUSHS , Operand: . (They also need level 21 Dungeoneering.)
+Offset: 247, CONCAT , Operand: 5
+Offset: 248, RETURN , Operand: 0
+Offset: 249, GOTO , Operand: 524
+Offset: 250, PUSHI , Operand: 25
+Offset: 251, PUSHI , Operand: 11061
+Offset: 252, PUSHS , Operand: Members: Ancient Mace
+Offset: 253, PUSHS , Operand: <br>
+Offset: 254, PUSHS , Operand:  (after Another Slice of H.A.M., with 15 Attack)
+Offset: 255, CONCAT , Operand: 3
+Offset: 256, PUSHS , Operand: Members now have the Prayer level required to wield the 
+Offset: 257, PUSHS , Operand: <col=000080>
+Offset: 258, PUSHS , Operand: Ancient Mace
+Offset: 259, PUSHS , Operand: </col>
+Offset: 260, PUSHS , Operand:  (after Another Slice of H.A.M. with level 15 Attack).
+Offset: 261, CONCAT , Operand: 5
+Offset: 262, RETURN , Operand: 0
+Offset: 263, GOTO , Operand: 510
+Offset: 264, PUSHI , Operand: 40
+Offset: 265, PUSHI , Operand: 10448
+Offset: 266, PUSHS , Operand: Members: Guthix cloak
+Offset: 267, PUSHS , Operand: Members can now wear 
+Offset: 268, PUSHS , Operand: <col=000080>
+Offset: 269, PUSHS , Operand: Guthix cloaks
+Offset: 270, PUSHS , Operand: </col>
+Offset: 271, PUSHS , Operand: .
+Offset: 272, CONCAT , Operand: 5
+Offset: 273, RETURN , Operand: 0
+Offset: 274, GOTO , Operand: 499
+Offset: 275, PUSHI , Operand: 40
+Offset: 276, PUSHI , Operand: 10454
+Offset: 277, PUSHS , Operand: Members: Guthix mitre
+Offset: 278, PUSHS , Operand: <br>
+Offset: 279, PUSHS , Operand:  (with 40 Magic)
+Offset: 280, CONCAT , Operand: 3
+Offset: 281, PUSHS , Operand: Members now have the Prayer level required to wear 
+Offset: 282, PUSHS , Operand: <col=000080>
+Offset: 283, PUSHS , Operand: Guthix mitres
+Offset: 284, PUSHS , Operand: </col>
+Offset: 285, PUSHS , Operand: . (They also need level 40 Magic.)
+Offset: 286, CONCAT , Operand: 5
+Offset: 287, RETURN , Operand: 0
+Offset: 288, GOTO , Operand: 485
+Offset: 289, PUSHI , Operand: 40
+Offset: 290, PUSHI , Operand: 10446
+Offset: 291, PUSHS , Operand: Members: Saradomin cloak
+Offset: 292, PUSHS , Operand: Members can now wear 
+Offset: 293, PUSHS , Operand: <col=000080>
+Offset: 294, PUSHS , Operand: Saradomin cloaks
+Offset: 295, PUSHS , Operand: </col>
+Offset: 296, PUSHS , Operand: .
+Offset: 297, CONCAT , Operand: 5
+Offset: 298, RETURN , Operand: 0
+Offset: 299, GOTO , Operand: 474
+Offset: 300, PUSHI , Operand: 40
+Offset: 301, PUSHI , Operand: 10452
+Offset: 302, PUSHS , Operand: Members: Saradomin mitre
+Offset: 303, PUSHS , Operand: <br>
+Offset: 304, PUSHS , Operand:  (with 40 Magic)
+Offset: 305, CONCAT , Operand: 3
+Offset: 306, PUSHS , Operand: Members now have the Prayer level required to wear 
+Offset: 307, PUSHS , Operand: <col=000080>
+Offset: 308, PUSHS , Operand: Saradomin mitres
+Offset: 309, PUSHS , Operand: </col>
+Offset: 310, PUSHS , Operand: . (They also need level 40 Magic.)
+Offset: 311, CONCAT , Operand: 5
+Offset: 312, RETURN , Operand: 0
+Offset: 313, GOTO , Operand: 460
+Offset: 314, PUSHI , Operand: 40
+Offset: 315, PUSHI , Operand: 10450
+Offset: 316, PUSHS , Operand: Members: Zamorak cloak
+Offset: 317, PUSHS , Operand: Members can now wear 
+Offset: 318, PUSHS , Operand: <col=000080>
+Offset: 319, PUSHS , Operand: Zamorak cloaks
+Offset: 320, PUSHS , Operand: </col>
+Offset: 321, PUSHS , Operand: .
+Offset: 322, CONCAT , Operand: 5
+Offset: 323, RETURN , Operand: 0
+Offset: 324, GOTO , Operand: 449
+Offset: 325, PUSHI , Operand: 40
+Offset: 326, PUSHI , Operand: 10456
+Offset: 327, PUSHS , Operand: Members: Zamorak mitre
+Offset: 328, PUSHS , Operand: <br>
+Offset: 329, PUSHS , Operand:  (with 40 Magic)
+Offset: 330, CONCAT , Operand: 3
+Offset: 331, PUSHS , Operand: Members now have the Prayer level required to wear 
+Offset: 332, PUSHS , Operand: <col=000080>
+Offset: 333, PUSHS , Operand: Zamorak mitres
+Offset: 334, PUSHS , Operand: </col>
+Offset: 335, PUSHS , Operand: . (They also need level 40 Magic.)
+Offset: 336, CONCAT , Operand: 5
+Offset: 337, RETURN , Operand: 0
+Offset: 338, GOTO , Operand: 435
+Offset: 339, PUSHI , Operand: 40
+Offset: 340, PUSHI , Operand: 19368
+Offset: 341, PUSHS , Operand: Members: Armadyl cloak
+Offset: 342, PUSHS , Operand: Members can now wear 
+Offset: 343, PUSHS , Operand: <col=000080>
+Offset: 344, PUSHS , Operand: Armadyl cloaks
+Offset: 345, PUSHS , Operand: </col>
+Offset: 346, PUSHS , Operand: .
+Offset: 347, CONCAT , Operand: 5
+Offset: 348, RETURN , Operand: 0
+Offset: 349, GOTO , Operand: 424
+Offset: 350, PUSHI , Operand: 40
+Offset: 351, PUSHI , Operand: 19374
+Offset: 352, PUSHS , Operand: Members: Armadyl mitre
+Offset: 353, PUSHS , Operand: <br>
+Offset: 354, PUSHS , Operand:  (with 40 Magic)
+Offset: 355, CONCAT , Operand: 3
+Offset: 356, PUSHS , Operand: Members now have the Prayer level required to wear 
+Offset: 357, PUSHS , Operand: <col=000080>
+Offset: 358, PUSHS , Operand: Armadyl mitres
+Offset: 359, PUSHS , Operand: </col>
+Offset: 360, PUSHS , Operand: . (They also need level 40 Magic.)
+Offset: 361, CONCAT , Operand: 5
+Offset: 362, RETURN , Operand: 0
+Offset: 363, GOTO , Operand: 410
+Offset: 364, PUSHI , Operand: 40
+Offset: 365, PUSHI , Operand: 19370
+Offset: 366, PUSHS , Operand: Members: Bandos cloak
+Offset: 367, PUSHS , Operand: Members can now wear 
+Offset: 368, PUSHS , Operand: <col=000080>
+Offset: 369, PUSHS , Operand: Bandos cloaks
+Offset: 370, PUSHS , Operand: </col>
+Offset: 371, PUSHS , Operand: .
+Offset: 372, CONCAT , Operand: 5
+Offset: 373, RETURN , Operand: 0
+Offset: 374, GOTO , Operand: 399
+Offset: 375, PUSHI , Operand: 40
+Offset: 376, PUSHI , Operand: 19376
+Offset: 377, PUSHS , Operand: Members: Bandos mitre
+Offset: 378, PUSHS , Operand: <br>
+Offset: 379, PUSHS , Operand:  (with 40 Magic)
+Offset: 380, CONCAT , Operand: 3
+Offset: 381, PUSHS , Operand: Members now have the Prayer level required to wear 
+Offset: 382, PUSHS , Operand: <col=000080>
+Offset: 383, PUSHS , Operand: Bandos mitres
+Offset: 384, PUSHS , Operand: </col>
+Offset: 385, PUSHS , Operand: . (They also need level 40 Magic.)
+Offset: 386, CONCAT , Operand: 5
+Offset: 387, RETURN , Operand: 0
+Offset: 388, GOTO , Operand: 385
+Offset: 389, PUSHI , Operand: 40
+Offset: 390, PUSHI , Operand: 19372
+Offset: 391, PUSHS , Operand: Members: Ancient cloak
+Offset: 392, PUSHS , Operand: Members can now wear 
+Offset: 393, PUSHS , Operand: <col=000080>
+Offset: 394, PUSHS , Operand: Ancient cloaks
+Offset: 395, PUSHS , Operand: </col>
+Offset: 396, PUSHS , Operand: .
+Offset: 397, CONCAT , Operand: 5
+Offset: 398, RETURN , Operand: 0
+Offset: 399, GOTO , Operand: 374
+Offset: 400, PUSHI , Operand: 40
+Offset: 401, PUSHI , Operand: 19378
+Offset: 402, PUSHS , Operand: Members: Ancient mitre
+Offset: 403, PUSHS , Operand: <br>
+Offset: 404, PUSHS , Operand:  (with 40 Magic)
+Offset: 405, CONCAT , Operand: 3
+Offset: 406, PUSHS , Operand: Members now have the Prayer level required to wear 
+Offset: 407, PUSHS , Operand: <col=000080>
+Offset: 408, PUSHS , Operand: Ancient mitres
+Offset: 409, PUSHS , Operand: </col>
+Offset: 410, PUSHS , Operand: . (They also need level 40 Magic.)
+Offset: 411, CONCAT , Operand: 5
+Offset: 412, RETURN , Operand: 0
+Offset: 413, GOTO , Operand: 360
+Offset: 414, PUSHI , Operand: 50
+Offset: 415, PUSHI , Operand: 1716
+Offset: 416, PUSHS , Operand: Members: Use completed Prayer books
+Offset: 417, PUSHS , Operand: <br>
+Offset: 418, PUSHS , Operand: to bless holy and unholy symbols
+Offset: 419, PUSHS , Operand: <br>
+Offset: 420, PUSHS , Operand:  (after Horror from the Deep)
+Offset: 421, CONCAT , Operand: 5
+Offset: 422, PUSHS , Operand: Members now have the Prayer level required to use completed prayer books to bless 
+Offset: 423, PUSHS , Operand: <col=000080>
+Offset: 424, PUSHS , Operand: holy
+Offset: 425, PUSHS , Operand: </col>
+Offset: 426, PUSHS , Operand:  and 
+Offset: 427, PUSHS , Operand: <col=000080>
+Offset: 428, PUSHS , Operand: unholy symbols
+Offset: 429, PUSHS , Operand: </col>
+Offset: 430, PUSHS , Operand:  (after Horror from the Deep).
+Offset: 431, CONCAT , Operand: 9
+Offset: 432, RETURN , Operand: 0
+Offset: 433, GOTO , Operand: 340
+Offset: 434, PUSHI , Operand: 55
+Offset: 435, PUSHI , Operand: 13734
+Offset: 436, PUSHS , Operand: Members: Spirit shield
+Offset: 437, PUSHS , Operand: <br>
+Offset: 438, PUSHS , Operand:  (after Summer's End and with 40 Defence)
+Offset: 439, CONCAT , Operand: 3
+Offset: 440, PUSHS , Operand: Members now have the Prayer level required to wield 
+Offset: 441, PUSHS , Operand: <col=000080>
+Offset: 442, PUSHS , Operand: spirit shields
+Offset: 443, PUSHS , Operand: </col>
+Offset: 444, PUSHS , Operand:  (after Summer's End, with level 40 Defence).
+Offset: 445, CONCAT , Operand: 5
+Offset: 446, RETURN , Operand: 0
+Offset: 447, GOTO , Operand: 326
+Offset: 448, PUSHI , Operand: 60
+Offset: 449, PUSHI , Operand: 10472
+Offset: 450, PUSHS , Operand: Members: Guthix stole
+Offset: 451, PUSHS , Operand: Members can now wear 
+Offset: 452, PUSHS , Operand: <col=000080>
+Offset: 453, PUSHS , Operand: Guthix stoles
+Offset: 454, PUSHS , Operand: </col>
+Offset: 455, PUSHS , Operand: .
+Offset: 456, CONCAT , Operand: 5
+Offset: 457, RETURN , Operand: 0
+Offset: 458, GOTO , Operand: 315
+Offset: 459, PUSHI , Operand: 60
+Offset: 460, PUSHI , Operand: 10442
+Offset: 461, PUSHS , Operand: Members: Guthix crozier
+Offset: 462, PUSHS , Operand: Members can now wield 
+Offset: 463, PUSHS , Operand: <col=000080>
+Offset: 464, PUSHS , Operand: Guthix croziers
+Offset: 465, PUSHS , Operand: </col>
+Offset: 466, PUSHS , Operand: .
+Offset: 467, CONCAT , Operand: 5
+Offset: 468, RETURN , Operand: 0
+Offset: 469, GOTO , Operand: 304
+Offset: 470, PUSHI , Operand: 60
+Offset: 471, PUSHI , Operand: 10470
+Offset: 472, PUSHS , Operand: Members: Saradomin stole
+Offset: 473, PUSHS , Operand: Members can now wear 
+Offset: 474, PUSHS , Operand: <col=000080>
+Offset: 475, PUSHS , Operand: Saradomin stoles
+Offset: 476, PUSHS , Operand: </col>
+Offset: 477, PUSHS , Operand: .
+Offset: 478, CONCAT , Operand: 5
+Offset: 479, RETURN , Operand: 0
+Offset: 480, GOTO , Operand: 293
+Offset: 481, PUSHI , Operand: 60
+Offset: 482, PUSHI , Operand: 10440
+Offset: 483, PUSHS , Operand: Members: Saradomin crozier
+Offset: 484, PUSHS , Operand: Members can now wield 
+Offset: 485, PUSHS , Operand: <col=000080>
+Offset: 486, PUSHS , Operand: Saradomin croziers
+Offset: 487, PUSHS , Operand: </col>
+Offset: 488, PUSHS , Operand: .
+Offset: 489, CONCAT , Operand: 5
+Offset: 490, RETURN , Operand: 0
+Offset: 491, GOTO , Operand: 282
+Offset: 492, PUSHI , Operand: 60
+Offset: 493, PUSHI , Operand: 10474
+Offset: 494, PUSHS , Operand: Members: Zamorak stole
+Offset: 495, PUSHS , Operand: Members can now wear 
+Offset: 496, PUSHS , Operand: <col=000080>
+Offset: 497, PUSHS , Operand: Zamorak stoles
+Offset: 498, PUSHS , Operand: </col>
+Offset: 499, PUSHS , Operand: .
+Offset: 500, CONCAT , Operand: 5
+Offset: 501, RETURN , Operand: 0
+Offset: 502, GOTO , Operand: 271
+Offset: 503, PUSHI , Operand: 60
+Offset: 504, PUSHI , Operand: 10444
+Offset: 505, PUSHS , Operand: Members: Zamorak crozier
+Offset: 506, PUSHS , Operand: Members can now wield 
+Offset: 507, PUSHS , Operand: <col=000080>
+Offset: 508, PUSHS , Operand: Zamorak croziers
+Offset: 509, PUSHS , Operand: </col>
+Offset: 510, PUSHS , Operand: .
+Offset: 511, CONCAT , Operand: 5
+Offset: 512, RETURN , Operand: 0
+Offset: 513, GOTO , Operand: 260
+Offset: 514, PUSHI , Operand: 60
+Offset: 515, PUSHI , Operand: 19392
+Offset: 516, PUSHS , Operand: Members: Armadyl stole
+Offset: 517, PUSHS , Operand: Members can now wear 
+Offset: 518, PUSHS , Operand: <col=000080>
+Offset: 519, PUSHS , Operand: Armadyl stoles
+Offset: 520, PUSHS , Operand: </col>
+Offset: 521, PUSHS , Operand: .
+Offset: 522, CONCAT , Operand: 5
+Offset: 523, RETURN , Operand: 0
+Offset: 524, GOTO , Operand: 249
+Offset: 525, PUSHI , Operand: 60
+Offset: 526, PUSHI , Operand: 19362
+Offset: 527, PUSHS , Operand: Members: Armadyl crozier
+Offset: 528, PUSHS , Operand: Members can now wield 
+Offset: 529, PUSHS , Operand: <col=000080>
+Offset: 530, PUSHS , Operand: Armadyl croziers
+Offset: 531, PUSHS , Operand: </col>
+Offset: 532, PUSHS , Operand: .
+Offset: 533, CONCAT , Operand: 5
+Offset: 534, RETURN , Operand: 0
+Offset: 535, GOTO , Operand: 238
+Offset: 536, PUSHI , Operand: 60
+Offset: 537, PUSHI , Operand: 19394
+Offset: 538, PUSHS , Operand: Members: Bandos stole
+Offset: 539, PUSHS , Operand: Members can now wear 
+Offset: 540, PUSHS , Operand: <col=000080>
+Offset: 541, PUSHS , Operand: Bandos stoles
+Offset: 542, PUSHS , Operand: </col>
+Offset: 543, PUSHS , Operand: .
+Offset: 544, CONCAT , Operand: 5
+Offset: 545, RETURN , Operand: 0
+Offset: 546, GOTO , Operand: 227
+Offset: 547, PUSHI , Operand: 60
+Offset: 548, PUSHI , Operand: 19364
+Offset: 549, PUSHS , Operand: Members: Bandos crozier
+Offset: 550, PUSHS , Operand: Members can now wield 
+Offset: 551, PUSHS , Operand: <col=000080>
+Offset: 552, PUSHS , Operand: Bandos croziers
+Offset: 553, PUSHS , Operand: </col>
+Offset: 554, PUSHS , Operand: .
+Offset: 555, CONCAT , Operand: 5
+Offset: 556, RETURN , Operand: 0
+Offset: 557, GOTO , Operand: 216
+Offset: 558, PUSHI , Operand: 60
+Offset: 559, PUSHI , Operand: 19396
+Offset: 560, PUSHS , Operand: Members: Ancient stole
+Offset: 561, PUSHS , Operand: Members can now wear 
+Offset: 562, PUSHS , Operand: <col=000080>
+Offset: 563, PUSHS , Operand: Ancient stoles
+Offset: 564, PUSHS , Operand: </col>
+Offset: 565, PUSHS , Operand: .
+Offset: 566, CONCAT , Operand: 5
+Offset: 567, RETURN , Operand: 0
+Offset: 568, GOTO , Operand: 205
+Offset: 569, PUSHI , Operand: 60
+Offset: 570, PUSHI , Operand: 19366
+Offset: 571, PUSHS , Operand: Members: Ancient crozier
+Offset: 572, PUSHS , Operand: Members can now wield 
+Offset: 573, PUSHS , Operand: <col=000080>
+Offset: 574, PUSHS , Operand: Ancient croziers
+Offset: 575, PUSHS , Operand: </col>
+Offset: 576, PUSHS , Operand: .
+Offset: 577, CONCAT , Operand: 5
+Offset: 578, RETURN , Operand: 0
+Offset: 579, GOTO , Operand: 194
+Offset: 580, PUSHI , Operand: 60
+Offset: 581, PUSHI , Operand: 19323
+Offset: 582, PUSHS , Operand: Members: Dragon staff
+Offset: 583, PUSHS , Operand: <br>
+Offset: 584, PUSHS , Operand:  (with 40 Magic, 40 Attack and 20 Defence)
+Offset: 585, CONCAT , Operand: 3
+Offset: 586, PUSHS , Operand: Members now have the Prayer level required to wield 
+Offset: 587, PUSHS , Operand: <col=000080>
+Offset: 588, PUSHS , Operand: dragon staves
+Offset: 589, PUSHS , Operand: </col>
+Offset: 590, PUSHS , Operand: . (They also need level 40 Magic, level 40 Attack and level 20 Defence.)
+Offset: 591, CONCAT , Operand: 5
+Offset: 592, RETURN , Operand: 0
+Offset: 593, GOTO , Operand: 180
+Offset: 594, PUSHI , Operand: 60
+Offset: 595, PUSHI , Operand: 19325
+Offset: 596, PUSHS , Operand: Members: Penguin staff
+Offset: 597, PUSHS , Operand: <br>
+Offset: 598, PUSHS , Operand:  (with 40 Magic, 40 Attack and 20 Defence)
+Offset: 599, CONCAT , Operand: 3
+Offset: 600, PUSHS , Operand: Members now have the Prayer level required to wield 
+Offset: 601, PUSHS , Operand: <col=000080>
+Offset: 602, PUSHS , Operand: penguin staves
+Offset: 603, PUSHS , Operand: </col>
+Offset: 604, PUSHS , Operand: . (They also need level 40 Magic, level 40 Attack and level 20 Defence.)
+Offset: 605, CONCAT , Operand: 5
+Offset: 606, RETURN , Operand: 0
+Offset: 607, GOTO , Operand: 166
+Offset: 608, PUSHI , Operand: 60
+Offset: 609, PUSHI , Operand: 19327
+Offset: 610, PUSHS , Operand: Members: Bat staff
+Offset: 611, PUSHS , Operand: <br>
+Offset: 612, PUSHS , Operand:  (with 40 Magic, 40 Attack and 20 Defence)
+Offset: 613, CONCAT , Operand: 3
+Offset: 614, PUSHS , Operand: Members now have the Prayer level required to wield 
+Offset: 615, PUSHS , Operand: <col=000080>
+Offset: 616, PUSHS , Operand: bat staves
+Offset: 617, PUSHS , Operand: </col>
+Offset: 618, PUSHS , Operand: . (They also need level 40 Magic, level 40 Attack and level 20 Defence.)
+Offset: 619, CONCAT , Operand: 5
+Offset: 620, RETURN , Operand: 0
+Offset: 621, GOTO , Operand: 152
+Offset: 622, PUSHI , Operand: 60
+Offset: 623, PUSHI , Operand: 19329
+Offset: 624, PUSHS , Operand: Members: Wolf staff
+Offset: 625, PUSHS , Operand: <br>
+Offset: 626, PUSHS , Operand:  (with 40 Magic, 40 Attack and 20 Defence)
+Offset: 627, CONCAT , Operand: 3
+Offset: 628, PUSHS , Operand: Members now have the Prayer level required to wield 
+Offset: 629, PUSHS , Operand: <col=000080>
+Offset: 630, PUSHS , Operand: wolf staves
+Offset: 631, PUSHS , Operand: </col>
+Offset: 632, PUSHS , Operand: . (They also need level 40 Magic, level 40 Attack and level 20 Defence.)
+Offset: 633, CONCAT , Operand: 5
+Offset: 634, RETURN , Operand: 0
+Offset: 635, GOTO , Operand: 138
+Offset: 636, PUSHI , Operand: 60
+Offset: 637, PUSHI , Operand: 19331
+Offset: 638, PUSHS , Operand: Members: Cat staff
+Offset: 639, PUSHS , Operand: <br>
+Offset: 640, PUSHS , Operand:  (with 40 Magic, 40 Attack and 20 Defence)
+Offset: 641, CONCAT , Operand: 3
+Offset: 642, PUSHS , Operand: Members now have the Prayer level required to wield 
+Offset: 643, PUSHS , Operand: <col=000080>
+Offset: 644, PUSHS , Operand: cat staves
+Offset: 645, PUSHS , Operand: </col>
+Offset: 646, PUSHS , Operand: . (They also need level 40 Magic, level 40 Attack and level 20 Defence.)
+Offset: 647, CONCAT , Operand: 5
+Offset: 648, RETURN , Operand: 0
+Offset: 649, GOTO , Operand: 124
+Offset: 650, PUSHI , Operand: 60
+Offset: 651, PUSHI , Operand: 13736
+Offset: 652, PUSHS , Operand: Members: Blessed spirit shield
+Offset: 653, PUSHS , Operand: <br>
+Offset: 654, PUSHS , Operand:  (after Summer's End and with 70 Defence)
+Offset: 655, CONCAT , Operand: 3
+Offset: 656, PUSHS , Operand: Members now have the Prayer level required to wield 
+Offset: 657, PUSHS , Operand: <col=000080>
+Offset: 658, PUSHS , Operand: blessed spirit shields
+Offset: 659, PUSHS , Operand: </col>
+Offset: 660, PUSHS , Operand:  (after Summer's End, with level 70 Defence).
+Offset: 661, CONCAT , Operand: 5
+Offset: 662, RETURN , Operand: 0
+Offset: 663, GOTO , Operand: 110
+Offset: 664, PUSHI , Operand: 65
+Offset: 665, PUSHI , Operand: 19308
+Offset: 666, PUSHS , Operand: Members: Third-Age druidic staff
+Offset: 667, PUSHS , Operand: Members can now wield 
+Offset: 668, PUSHS , Operand: <col=000080>
+Offset: 669, PUSHS , Operand: Third-Age druidic staves
+Offset: 670, PUSHS , Operand: </col>
+Offset: 671, PUSHS , Operand: .
+Offset: 672, CONCAT , Operand: 5
+Offset: 673, RETURN , Operand: 0
+Offset: 674, GOTO , Operand: 99
+Offset: 675, PUSHI , Operand: 65
+Offset: 676, PUSHI , Operand: 19311
+Offset: 677, PUSHS , Operand: Members: Third-Age druidic cloak
+Offset: 678, PUSHS , Operand: Members can now wear 
+Offset: 679, PUSHS , Operand: <col=000080>
+Offset: 680, PUSHS , Operand: Third-Age druidic cloaks
+Offset: 681, PUSHS , Operand: </col>
+Offset: 682, PUSHS , Operand: .
+Offset: 683, CONCAT , Operand: 5
+Offset: 684, RETURN , Operand: 0
+Offset: 685, GOTO , Operand: 88
+Offset: 686, PUSHI , Operand: 65
+Offset: 687, PUSHI , Operand: 19314
+Offset: 688, PUSHS , Operand: Members: Third-Age druidic wreath
+Offset: 689, PUSHS , Operand: Members can now wear 
+Offset: 690, PUSHS , Operand: <col=000080>
+Offset: 691, PUSHS , Operand: Third-Age druidic wreaths
+Offset: 692, PUSHS , Operand: </col>
+Offset: 693, PUSHS , Operand: .
+Offset: 694, CONCAT , Operand: 5
+Offset: 695, RETURN , Operand: 0
+Offset: 696, GOTO , Operand: 77
+Offset: 697, PUSHI , Operand: 65
+Offset: 698, PUSHI , Operand: 19317
+Offset: 699, PUSHS , Operand: Members: Third-Age Druidic robe top
+Offset: 700, PUSHS , Operand: Members can now wear 
+Offset: 701, PUSHS , Operand: <col=000080>
+Offset: 702, PUSHS , Operand: Third-Age druidic robe tops
+Offset: 703, PUSHS , Operand: </col>
+Offset: 704, PUSHS , Operand: .
+Offset: 705, CONCAT , Operand: 5
+Offset: 706, RETURN , Operand: 0
+Offset: 707, GOTO , Operand: 66
+Offset: 708, PUSHI , Operand: 65
+Offset: 709, PUSHI , Operand: 19320
+Offset: 710, PUSHS , Operand: Members: Third-Age Druidic robe bottoms
+Offset: 711, PUSHS , Operand: Members can now wear 
+Offset: 712, PUSHS , Operand: <col=000080>
+Offset: 713, PUSHS , Operand: Third-Age druidic bottoms
+Offset: 714, PUSHS , Operand: </col>
+Offset: 715, PUSHS , Operand: .
+Offset: 716, CONCAT , Operand: 5
+Offset: 717, RETURN , Operand: 0
+Offset: 718, GOTO , Operand: 55
+Offset: 719, PUSHI , Operand: 70
+Offset: 720, PUSHI , Operand: 13738
+Offset: 721, PUSHS , Operand: Members: Arcane spirit shield
+Offset: 722, PUSHS , Operand: <br>
+Offset: 723, PUSHS , Operand:  (after Summer's End and with 65 Magic and 75 Defence)
+Offset: 724, CONCAT , Operand: 3
+Offset: 725, PUSHS , Operand: Members now have the Prayer level required to wield 
+Offset: 726, PUSHS , Operand: <col=000080>
+Offset: 727, PUSHS , Operand: arcane spirit shields
+Offset: 728, PUSHS , Operand: </col>
+Offset: 729, PUSHS , Operand:  (after Summer's End, with level 65 Magic and 75 Defence).
+Offset: 730, CONCAT , Operand: 5
+Offset: 731, RETURN , Operand: 0
+Offset: 732, GOTO , Operand: 41
+Offset: 733, PUSHI , Operand: 70
+Offset: 734, PUSHI , Operand: 13744
+Offset: 735, PUSHS , Operand: Members: Spectral spirit shield
+Offset: 736, PUSHS , Operand: <br>
+Offset: 737, PUSHS , Operand:  (after Summer's End and with 65 Magic and 75 Defence)
+Offset: 738, CONCAT , Operand: 3
+Offset: 739, PUSHS , Operand: Members now have the Prayer level required to wield 
+Offset: 740, PUSHS , Operand: <col=000080>
+Offset: 741, PUSHS , Operand: spectral spirit shields
+Offset: 742, PUSHS , Operand: </col>
+Offset: 743, PUSHS , Operand:  (after Summer's End, with level 65 Magic and 75 Defence).
+Offset: 744, CONCAT , Operand: 5
+Offset: 745, RETURN , Operand: 0
+Offset: 746, GOTO , Operand: 27
+Offset: 747, PUSHI , Operand: 75
+Offset: 748, PUSHI , Operand: 13740
+Offset: 749, PUSHS , Operand: Members: Divine spirit shield
+Offset: 750, PUSHS , Operand: <br>
+Offset: 751, PUSHS , Operand:  (after Summer's End and with 75 Defence)
+Offset: 752, CONCAT , Operand: 3
+Offset: 753, PUSHS , Operand: Members now have the Prayer level required to wield 
+Offset: 754, PUSHS , Operand: <col=000080>
+Offset: 755, PUSHS , Operand: divine spirit shields
+Offset: 756, PUSHS , Operand: </col>
+Offset: 757, PUSHS , Operand:  (after Summer's End, with level 75 Defence).
+Offset: 758, CONCAT , Operand: 5
+Offset: 759, RETURN , Operand: 0
+Offset: 760, GOTO , Operand: 13
+Offset: 761, PUSHI , Operand: 75
+Offset: 762, PUSHI , Operand: 13742
+Offset: 763, PUSHS , Operand: Members: Elysian spirit shield
+Offset: 764, PUSHS , Operand: <br>
+Offset: 765, PUSHS , Operand:  (after Summer's End and with 75 Defence)
+Offset: 766, CONCAT , Operand: 3
+Offset: 767, PUSHS , Operand: Members now have the Prayer level required to wield 
+Offset: 768, PUSHS , Operand: <col=000080>
+Offset: 769, PUSHS , Operand: elysian spirit shields
+Offset: 770, PUSHS , Operand: </col>
+Offset: 771, PUSHS , Operand:  (after Summer's End, with level 75 Defence).
+Offset: 772, CONCAT , Operand: 5
+Offset: 773, RETURN , Operand: 0
+Offset: 774, GOTO , Operand: 151
+Offset: 775, LOADINT , Operand: 1
+Offset: 776, SWITCH , Operand: 2
+Offset: 777, GOTO , Operand: 8
+Offset: 778, PUSHI , Operand: -1
+Offset: 779, PUSHI , Operand: 15707
+Offset: 780, PUSHS , Operand: Dungeoneering skill tasks
+Offset: 781, PUSHS , Operand: <br>
+Offset: 782, PUSHS , Operand: As your Prayer level increases, you will be able to attempt higher-level prayer tasks within Daemonheim. You will also be more likely to succeed when attempting prayer tasks within Daemonheim.
+Offset: 783, CONCAT , Operand: 3
+Offset: 784, PUSHS , Operand: 
+Offset: 785, RETURN , Operand: 0
+Offset: 786, GOTO , Operand: 139
+Offset: 787, LOADINT , Operand: 1
+Offset: 788, SWITCH , Operand: 3
+Offset: 789, GOTO , Operand: 136
+Offset: 790, PUSHI , Operand: 2
+Offset: 791, PUSHI , Operand: 11948
+Offset: 792, PUSHS , Operand: Repair somebody else's gravestone
+Offset: 793, PUSHS , Operand: You can now 
+Offset: 794, PUSHS , Operand: <col=000080>
+Offset: 795, PUSHS , Operand: repair
+Offset: 796, PUSHS , Operand: </col>
+Offset: 797, PUSHS , Operand:  somebody else's 
+Offset: 798, PUSHS , Operand: <col=000080>
+Offset: 799, PUSHS , Operand: gravestone
+Offset: 800, PUSHS , Operand: </col>
+Offset: 801, PUSHS , Operand: !
+Offset: 802, CONCAT , Operand: 9
+Offset: 803, RETURN , Operand: 0
+Offset: 804, GOTO , Operand: 121
+Offset: 805, PUSHI , Operand: 31
+Offset: 806, PUSHI , Operand: 13253
+Offset: 807, PUSHS , Operand: Monastery
+Offset: 808, PUSHS , Operand: Abbot Langley will now let you enter the 
+Offset: 809, PUSHS , Operand: <col=000080>
+Offset: 810, PUSHS , Operand: Monastery
+Offset: 811, PUSHS , Operand: </col>
+Offset: 812, PUSHS , Operand:  west of 
+Offset: 813, PUSHS , Operand: <col=000080>
+Offset: 814, PUSHS , Operand: Edgeville
+Offset: 815, PUSHS , Operand: </col>
+Offset: 816, PUSHS , Operand: .
+Offset: 817, CONCAT , Operand: 9
+Offset: 818, RETURN , Operand: 0
+Offset: 819, GOTO , Operand: 106
+Offset: 820, PUSHI , Operand: 70
+Offset: 821, PUSHI , Operand: 11948
+Offset: 822, PUSHS , Operand: Bless somebody else's gravestone
+Offset: 823, PUSHS , Operand: You can now 
+Offset: 824, PUSHS , Operand: <col=000080>
+Offset: 825, PUSHS , Operand: bless somebody else's 
+Offset: 826, PUSHS , Operand: <col=000080>
+Offset: 827, PUSHS , Operand: gravestone
+Offset: 828, PUSHS , Operand: </col>
+Offset: 829, PUSHS , Operand: !
+Offset: 830, CONCAT , Operand: 7
+Offset: 831, RETURN , Operand: 0
+Offset: 832, GOTO , Operand: 93
+Offset: 833, PUSHI , Operand: 85
+Offset: 834, PUSHI , Operand: 13754
+Offset: 835, PUSHS , Operand: Members: Bless spirit shields
+Offset: 836, PUSHS , Operand: <br>
+Offset: 837, PUSHS , Operand:  (after Summer's End)
+Offset: 838, CONCAT , Operand: 3
+Offset: 839, PUSHS , Operand: Members can now 
+Offset: 840, PUSHS , Operand: <col=000080>
+Offset: 841, PUSHS , Operand: bless spirit shields
+Offset: 842, PUSHS , Operand: </col>
+Offset: 843, PUSHS , Operand:  (after Summer's End).
+Offset: 844, CONCAT , Operand: 5
+Offset: 845, RETURN , Operand: 0
+Offset: 846, GOTO , Operand: 79
+Offset: 847, PUSHI , Operand: 90
+Offset: 848, PUSHI , Operand: 13746
+Offset: 849, PUSHS , Operand: Members: Create arcane spirit shields
+Offset: 850, PUSHS , Operand: <br>
+Offset: 851, PUSHS , Operand:  (after Summer's End and with 85 Smithing)
+Offset: 852, CONCAT , Operand: 3
+Offset: 853, PUSHS , Operand: Members can now create 
+Offset: 854, PUSHS , Operand: <col=000080>
+Offset: 855, PUSHS , Operand: arcane spirit shields
+Offset: 856, PUSHS , Operand: </col>
+Offset: 857, PUSHS , Operand:  (after Summer's End, with level 85 Smithing).
+Offset: 858, CONCAT , Operand: 5
+Offset: 859, RETURN , Operand: 0
+Offset: 860, GOTO , Operand: 65
+Offset: 861, PUSHI , Operand: 90
+Offset: 862, PUSHI , Operand: 13748
+Offset: 863, PUSHS , Operand: Members: Create divine spirit shields
+Offset: 864, PUSHS , Operand: <br>
+Offset: 865, PUSHS , Operand:  (after Summer's End and with 85 Smithing)
+Offset: 866, CONCAT , Operand: 3
+Offset: 867, PUSHS , Operand: Members can now create 
+Offset: 868, PUSHS , Operand: <col=000080>
+Offset: 869, PUSHS , Operand: divine spirit shields
+Offset: 870, PUSHS , Operand: </col>
+Offset: 871, PUSHS , Operand:  (after Summer's End, with level 85 Smithing).
+Offset: 872, CONCAT , Operand: 5
+Offset: 873, RETURN , Operand: 0
+Offset: 874, GOTO , Operand: 51
+Offset: 875, PUSHI , Operand: 90
+Offset: 876, PUSHI , Operand: 13750
+Offset: 877, PUSHS , Operand: Members: Create elysian spirit shields
+Offset: 878, PUSHS , Operand: <br>
+Offset: 879, PUSHS , Operand:  (after Summer's End and with 85 Smithing)
+Offset: 880, CONCAT , Operand: 3
+Offset: 881, PUSHS , Operand: Members can now create 
+Offset: 882, PUSHS , Operand: <col=000080>
+Offset: 883, PUSHS , Operand: elysian spirit shields
+Offset: 884, PUSHS , Operand: </col>
+Offset: 885, PUSHS , Operand:  (after Summer's End, with level 85 Smithing).
+Offset: 886, CONCAT , Operand: 5
+Offset: 887, RETURN , Operand: 0
+Offset: 888, GOTO , Operand: 37
+Offset: 889, PUSHI , Operand: 90
+Offset: 890, PUSHI , Operand: 13752
+Offset: 891, PUSHS , Operand: Members: Create spectral spirit shields
+Offset: 892, PUSHS , Operand: <br>
+Offset: 893, PUSHS , Operand:  (after Summer's End and with 85 Smithing)
+Offset: 894, CONCAT , Operand: 3
+Offset: 895, PUSHS , Operand: Members can now create 
+Offset: 896, PUSHS , Operand: <col=000080>
+Offset: 897, PUSHS , Operand: spectral spirit shields
+Offset: 898, PUSHS , Operand: </col>
+Offset: 899, PUSHS , Operand:  (after Summer's End, with level 85 Smithing).
+Offset: 900, CONCAT , Operand: 5
+Offset: 901, RETURN , Operand: 0
+Offset: 902, GOTO , Operand: 23
+Offset: 903, PUSHI , Operand: 99
+Offset: 904, PUSHI , Operand: 9759
+Offset: 905, PUSHS , Operand: Skill mastery
+Offset: 906, PUSHS , Operand: <col=000080>
+Offset: 907, PUSHS , Operand: Congratulations! You are now a master of 
+Offset: 908, PUSHS , Operand: <col=800000>
+Offset: 909, PUSHS , Operand: Prayer
+Offset: 910, PUSHS , Operand: <col=000080>
+Offset: 911, PUSHS , Operand: . Members can visit 
+Offset: 912, PUSHS , Operand: <col=800000>
+Offset: 913, PUSHS , Operand: Brother Jared
+Offset: 914, PUSHS , Operand: <col=000080>
+Offset: 915, PUSHS , Operand:  upstairs at the 
+Offset: 916, PUSHS , Operand: <col=800000>
+Offset: 917, PUSHS , Operand: Monastery
+Offset: 918, PUSHS , Operand: <col=000080>
+Offset: 919, PUSHS , Operand: . He has something special that is only available to true masters of the 
+Offset: 920, PUSHS , Operand: <col=800000>
+Offset: 921, PUSHS , Operand: Prayer
+Offset: 922, PUSHS , Operand: <col=000080>
+Offset: 923, PUSHS , Operand:  skill!
+Offset: 924, CONCAT , Operand: 18
+Offset: 925, RETURN , Operand: 0
+Offset: 926, PUSHI , Operand: 0
+Offset: 927, PUSHI , Operand: -1
+Offset: 928, PUSHS , Operand: 
+Offset: 929, PUSHS , Operand: 
+Offset: 930, RETURN , Operand: 0
+
+================================================
+                Switch Table 0                
+================================================
+
+Key: 1, Value: 1
+Key: 2, Value: 773
+Key: 3, Value: 785
+
+================================================
+                Switch Table 1                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 15
+Key: 2, Value: 29
+Key: 3, Value: 43
+Key: 4, Value: 57
+Key: 5, Value: 71
+Key: 6, Value: 85
+Key: 7, Value: 99
+Key: 8, Value: 110
+Key: 9, Value: 121
+Key: 10, Value: 132
+Key: 11, Value: 143
+Key: 12, Value: 154
+Key: 13, Value: 165
+Key: 14, Value: 176
+Key: 15, Value: 187
+Key: 17, Value: 209
+Key: 16, Value: 198
+Key: 19, Value: 231
+Key: 18, Value: 220
+Key: 21, Value: 259
+Key: 20, Value: 245
+Key: 23, Value: 284
+Key: 22, Value: 270
+Key: 25, Value: 309
+Key: 24, Value: 295
+Key: 27, Value: 334
+Key: 26, Value: 320
+Key: 29, Value: 359
+Key: 28, Value: 345
+Key: 31, Value: 384
+Key: 30, Value: 370
+Key: 34, Value: 429
+Key: 35, Value: 443
+Key: 32, Value: 395
+Key: 33, Value: 409
+Key: 38, Value: 476
+Key: 39, Value: 487
+Key: 36, Value: 454
+Key: 37, Value: 465
+Key: 42, Value: 520
+Key: 43, Value: 531
+Key: 40, Value: 498
+Key: 41, Value: 509
+Key: 46, Value: 564
+Key: 47, Value: 575
+Key: 44, Value: 542
+Key: 45, Value: 553
+Key: 51, Value: 631
+Key: 50, Value: 617
+Key: 49, Value: 603
+Key: 48, Value: 589
+Key: 55, Value: 681
+Key: 54, Value: 670
+Key: 53, Value: 659
+Key: 52, Value: 645
+Key: 59, Value: 728
+Key: 58, Value: 714
+Key: 57, Value: 703
+Key: 56, Value: 692
+Key: 61, Value: 756
+Key: 60, Value: 742
+
+================================================
+                Switch Table 2                
+================================================
+
+Key: 0, Value: 1
+
+================================================
+                Switch Table 3                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 16
+Key: 2, Value: 31
+Key: 3, Value: 44
+Key: 4, Value: 58
+Key: 5, Value: 72
+Key: 6, Value: 86
+Key: 7, Value: 100
+Key: 8, Value: 114

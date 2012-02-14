@@ -1,0 +1,72 @@
+================================================
+      Client Script 1453 Dumped by SiniSoul    
+      Instruction Size: 61
+      Integer Arguments: 2 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHI , Operand: 95
+Offset: 1, LOADINT , Operand: 0
+Offset: 2, Unref Method: 3301, Operand: 0
+Offset: 3, STOREINT , Operand: 1
+Offset: 4, LOADINT , Operand: 1
+Offset: 5, PUSHI , Operand: 95
+Offset: 6, LOADINT , Operand: 0
+Offset: 7, Unref Method: 3302, Operand: 0
+Offset: 8, Unref Method: 1200, Operand: 0
+Offset: 9, PUSHS , Operand: <col=ff981f>
+Offset: 10, PUSHI , Operand: 95
+Offset: 11, LOADINT , Operand: 0
+Offset: 12, Unref Method: 3301, Operand: 0
+Offset: 13, Unref Method: 4200, Operand: 0
+Offset: 14, CONCAT , Operand: 2
+Offset: 15, Unref Method: 1305, Operand: 0
+Offset: 16, PUSHI , Operand: 1
+Offset: 17, PUSHS , Operand: Withdraw-1
+Offset: 18, setChildInterfaceText , Operand: 0
+Offset: 19, PUSHI , Operand: 2
+Offset: 20, PUSHS , Operand: Withdraw-5
+Offset: 21, setChildInterfaceText , Operand: 0
+Offset: 22, PUSHI , Operand: 3
+Offset: 23, PUSHS , Operand: Withdraw-10
+Offset: 24, setChildInterfaceText , Operand: 0
+Offset: 25, PUSHI , Operand: 4
+Offset: 26, PUSHS , Operand: Withdraw-
+Offset: 27, Unref Opcode: 1, Operand: 1249
+Offset: 28, integerToString , Operand: 0
+Offset: 29, CONCAT , Operand: 2
+Offset: 30, setChildInterfaceText , Operand: 0
+Offset: 31, PUSHI , Operand: 5
+Offset: 32, PUSHS , Operand: Withdraw-X
+Offset: 33, setChildInterfaceText , Operand: 0
+Offset: 34, PUSHI , Operand: 6
+Offset: 35, PUSHS , Operand: Withdraw-All
+Offset: 36, setChildInterfaceText , Operand: 0
+Offset: 37, PUSHI , Operand: 7
+Offset: 38, PUSHS , Operand: Withdraw-All but one
+Offset: 39, setChildInterfaceText , Operand: 0
+Offset: 40, PUSHI , Operand: 10
+Offset: 41, PUSHS , Operand: Examine
+Offset: 42, PUSHS , Operand: <col=ff9040>
+Offset: 43, CONCAT , Operand: 2
+Offset: 44, setChildInterfaceText , Operand: 0
+Offset: 45, PUSHI , Operand: 49938432
+Offset: 46, PUSHI , Operand: -1
+Offset: 47, Unref Method: 1301, Operand: 0
+Offset: 48, PUSHI , Operand: 5
+Offset: 49, Unref Method: 1303, Operand: 0
+Offset: 50, PUSHI , Operand: 5
+Offset: 51, Unref Method: 1304, Operand: 0
+Offset: 52, PUSHI , Operand: 1454
+Offset: 53, PUSHI , Operand: -2147483646
+Offset: 54, PUSHS , Operand: i
+Offset: 55, Unref Method: 1405, Operand: 0
+Offset: 56, PUSHI , Operand: 1482
+Offset: 57, PUSHI , Operand: -2147483642
+Offset: 58, PUSHS , Operand: I
+Offset: 59, Unref Method: 1410, Operand: 0
+Offset: 60, RETURN , Operand: 0

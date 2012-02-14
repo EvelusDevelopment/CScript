@@ -1,0 +1,42 @@
+================================================
+      Client Script 2805 Dumped by SiniSoul    
+      Instruction Size: 31
+      Integer Arguments: 7 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADINT , Operand: 0
+Offset: 1, Unref Method: 2609, Operand: 0
+Offset: 2, STOREINT , Operand: 5
+Offset: 3, LOADINT , Operand: 5
+Offset: 4, LOADINT , Operand: 1
+Offset: 5, IADD , Operand: 0
+Offset: 6, LOADINT , Operand: 3
+Offset: 7, Unref Method: 4017, Operand: 0
+Offset: 8, LOADINT , Operand: 4
+Offset: 9, Unref Method: 4016, Operand: 0
+Offset: 10, STOREINT , Operand: 6
+Offset: 11, LOADINT , Operand: 6
+Offset: 12, LOADINT , Operand: 3
+Offset: 13, IFEQ , Operand: 4
+Offset: 14, LOADINT , Operand: 6
+Offset: 15, LOADINT , Operand: 4
+Offset: 16, IFEQ , Operand: 1
+Offset: 17, GOTO , Operand: 9
+Offset: 18, PUSHI , Operand: 2805
+Offset: 19, LOADINT , Operand: 0
+Offset: 20, LOADINT , Operand: 2
+Offset: 21, LOADINT , Operand: 1
+Offset: 22, LOADINT , Operand: 3
+Offset: 23, LOADINT , Operand: 4
+Offset: 24, PUSHS , Operand: Iiiii
+Offset: 25, LOADINT , Operand: 0
+Offset: 26, setInterfaceDefinitionScriptParams8 , Operand: 0
+Offset: 27, LOADINT , Operand: 6
+Offset: 28, LOADINT , Operand: 0
+Offset: 29, Unref Method: 2103, Operand: 0
+Offset: 30, RETURN , Operand: 0

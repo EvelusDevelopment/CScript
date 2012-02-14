@@ -1,0 +1,364 @@
+================================================
+      Client Script 1383 Dumped by SiniSoul    
+      Instruction Size: 353
+      Integer Arguments: 0 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, Unref Opcode: 25, Operand: 5390
+Offset: 1, PUSHI , Operand: 0
+Offset: 2, IFEQ , Operand: 1
+Offset: 3, GOTO , Operand: 85
+Offset: 4, PUSHS , Operand: <col=302008>
+Offset: 5, PUSHS , Operand: Varrock Census - year 160
+Offset: 6, PUSHS , Operand: <br>
+Offset: 7, PUSHS , Operand: <col=302008>
+Offset: 8, PUSHS , Operand: Citizen's name
+Offset: 9, PUSHS , Operand: <br>
+Offset: 10, PUSHS , Operand: Gryff Aldock
+Offset: 11, PUSHS , Operand: <br>
+Offset: 12, PUSHS , Operand: Raminme Altrodor
+Offset: 13, PUSHS , Operand: <br>
+Offset: 14, PUSHS , Operand: Layte Aubury
+Offset: 15, PUSHS , Operand: <br>
+Offset: 16, PUSHS , Operand: Ingald Belger
+Offset: 17, PUSHS , Operand: <br>
+Offset: 18, PUSHS , Operand: Asyff Bymajique
+Offset: 19, PUSHS , Operand: <br>
+Offset: 20, PUSHS , Operand: Baraek Brigson
+Offset: 21, PUSHS , Operand: <br>
+Offset: 22, PUSHS , Operand: Brugsen Bursen
+Offset: 23, PUSHS , Operand: <br>
+Offset: 24, PUSHS , Operand: Jeremy Clerksin
+Offset: 25, PUSHS , Operand: <br>
+Offset: 26, PUSHS , Operand: Daerig Clod
+Offset: 27, PUSHS , Operand: <br>
+Offset: 28, PUSHS , Operand: Phillipa DeMarne
+Offset: 29, PUSHS , Operand: <br>
+Offset: 30, PUSHS , Operand: Trista Donaldson
+Offset: 31, PUSHS , Operand: <br>
+Offset: 32, PUSHS , Operand: Straven Enroy
+Offset: 33, PUSHS , Operand: <br>
+Offset: 34, PUSHS , Operand: Gertrude Fairweather
+Offset: 35, PUSHS , Operand: <br>
+Offset: 36, PUSHS , Operand: Shilop Fairweather
+Offset: 37, PUSHS , Operand: <br>
+Offset: 38, PUSHS , Operand: Walter Fairweather
+Offset: 39, PUSHS , Operand: <br>
+Offset: 40, PUSHS , Operand: Wilough Fairweather
+Offset: 41, CONCAT , Operand: 37
+Offset: 42, PUSHI , Operand: 52035589
+Offset: 43, Unref Method: 2112, Operand: 0
+Offset: 44, PUSHS , Operand: <br>
+Offset: 45, PUSHS , Operand: <br>
+Offset: 46, PUSHS , Operand: <col=302008>
+Offset: 47, PUSHS , Operand: Profession
+Offset: 48, PUSHS , Operand: <br>
+Offset: 49, PUSHS , Operand: Town crier
+Offset: 50, PUSHS , Operand: <br>
+Offset: 51, PUSHS , Operand: Cook
+Offset: 52, PUSHS , Operand: <br>
+Offset: 53, PUSHS , Operand: Rune seller
+Offset: 54, PUSHS , Operand: <br>
+Offset: 55, PUSHS , Operand: Apothecary
+Offset: 56, PUSHS , Operand: <br>
+Offset: 57, PUSHS , Operand: Fancy dress store owner
+Offset: 58, PUSHS , Operand: <br>
+Offset: 59, PUSHS , Operand: Fur seller
+Offset: 60, PUSHS , Operand: <br>
+Offset: 61, PUSHS , Operand: Economist
+Offset: 62, PUSHS , Operand: <br>
+Offset: 63, PUSHS , Operand: Cart expert
+Offset: 64, PUSHS , Operand: <br>
+Offset: 65, PUSHS , Operand: Unemployed
+Offset: 66, PUSHS , Operand: <br>
+Offset: 67, PUSHS , Operand: Minor noble
+Offset: 68, PUSHS , Operand: <br>
+Offset: 69, PUSHS , Operand: Banker
+Offset: 70, PUSHS , Operand: <br>
+Offset: 71, PUSHS , Operand: Legitimate businessman
+Offset: 72, PUSHS , Operand: <br>
+Offset: 73, PUSHS , Operand: Housewife
+Offset: 74, PUSHS , Operand: <br>
+Offset: 75, PUSHS , Operand: Baby
+Offset: 76, PUSHS , Operand: <br>
+Offset: 77, PUSHS , Operand: Travelling merchant
+Offset: 78, PUSHS , Operand: <br>
+Offset: 79, PUSHS , Operand: Baby
+Offset: 80, CONCAT , Operand: 36
+Offset: 81, PUSHI , Operand: 52035588
+Offset: 82, Unref Method: 2112, Operand: 0
+Offset: 83, PUSHI , Operand: 1
+Offset: 84, PUSHI , Operand: 52035587
+Offset: 85, Unref Method: 2003, Operand: 0
+Offset: 86, PUSHI , Operand: 0
+Offset: 87, PUSHI , Operand: 52035586
+Offset: 88, Unref Method: 2003, Operand: 0
+Offset: 89, Unref Opcode: 25, Operand: 5390
+Offset: 90, PUSHI , Operand: 1
+Offset: 91, IFEQ , Operand: 1
+Offset: 92, GOTO , Operand: 85
+Offset: 93, PUSHS , Operand: <col=302008>
+Offset: 94, PUSHS , Operand: Varrock Census - year 160
+Offset: 95, PUSHS , Operand: <br>
+Offset: 96, PUSHS , Operand: <col=302008>
+Offset: 97, PUSHS , Operand: Citizen's name
+Offset: 98, PUSHS , Operand: <br>
+Offset: 99, PUSHS , Operand: Dimintheis Fitzharmon
+Offset: 100, PUSHS , Operand: <br>
+Offset: 101, PUSHS , Operand: Eustace Forthwright
+Offset: 102, PUSHS , Operand: <br>
+Offset: 103, PUSHS , Operand: Romeo Gontamue
+Offset: 104, PUSHS , Operand: <br>
+Offset: 105, PUSHS , Operand: Everard Grafham
+Offset: 106, PUSHS , Operand: <br>
+Offset: 107, PUSHS , Operand: Matthew Grey
+Offset: 108, PUSHS , Operand: <br>
+Offset: 109, PUSHS , Operand: Grimesquit Grime
+Offset: 110, PUSHS , Operand: <br>
+Offset: 111, PUSHS , Operand: Phingspet Grime
+Offset: 112, PUSHS , Operand: <br>
+Offset: 113, PUSHS , Operand: Benny Gutenberg
+Offset: 114, PUSHS , Operand: <br>
+Offset: 115, PUSHS , Operand: Haig Halen
+Offset: 116, PUSHS , Operand: <br>
+Offset: 117, PUSHS , Operand: Randulf Harlow
+Offset: 118, PUSHS , Operand: <br>
+Offset: 119, PUSHS , Operand: Tobias Hills
+Offset: 120, PUSHS , Operand: <br>
+Offset: 121, PUSHS , Operand: Louisiana Jones
+Offset: 122, PUSHS , Operand: <br>
+Offset: 123, PUSHS , Operand: Lawrence Lambare
+Offset: 124, PUSHS , Operand: <br>
+Offset: 125, PUSHS , Operand: Wimock Landsdown
+Offset: 126, PUSHS , Operand: <br>
+Offset: 127, PUSHS , Operand: Draul Leptoc
+Offset: 128, PUSHS , Operand: <br>
+Offset: 129, PUSHS , Operand: Juliet Leptoc
+Offset: 130, CONCAT , Operand: 37
+Offset: 131, PUSHI , Operand: 52035589
+Offset: 132, Unref Method: 2112, Operand: 0
+Offset: 133, PUSHS , Operand: <br>
+Offset: 134, PUSHS , Operand: <br>
+Offset: 135, PUSHS , Operand: <col=302008>
+Offset: 136, PUSHS , Operand: Profession
+Offset: 137, PUSHS , Operand: <br>
+Offset: 138, PUSHS , Operand: Former Noble
+Offset: 139, PUSHS , Operand: <br>
+Offset: 140, PUSHS , Operand: Guard
+Offset: 141, PUSHS , Operand: <br>
+Offset: 142, PUSHS , Operand: Minor Noble
+Offset: 143, PUSHS , Operand: <br>
+Offset: 144, PUSHS , Operand: Natural Historian
+Offset: 145, PUSHS , Operand: <br>
+Offset: 146, PUSHS , Operand: Sailor
+Offset: 147, PUSHS , Operand: <br>
+Offset: 148, PUSHS , Operand: Profession Withheld
+Offset: 149, PUSHS , Operand: <br>
+Offset: 150, PUSHS , Operand: Profession Withheld
+Offset: 151, PUSHS , Operand: <br>
+Offset: 152, PUSHS , Operand: Journalist
+Offset: 153, PUSHS , Operand: <br>
+Offset: 154, PUSHS , Operand: Curator
+Offset: 155, PUSHS , Operand: <br>
+Offset: 156, PUSHS , Operand: Vampire Hunter
+Offset: 157, PUSHS , Operand: <br>
+Offset: 158, PUSHS , Operand: Guard
+Offset: 159, PUSHS , Operand: <br>
+Offset: 160, PUSHS , Operand: Student
+Offset: 161, PUSHS , Operand: <br>
+Offset: 162, PUSHS , Operand: Priest
+Offset: 163, PUSHS , Operand: <br>
+Offset: 164, PUSHS , Operand: Teacher
+Offset: 165, PUSHS , Operand: <br>
+Offset: 166, PUSHS , Operand: Lord
+Offset: 167, PUSHS , Operand: <br>
+Offset: 168, PUSHS , Operand: Noble
+Offset: 169, CONCAT , Operand: 36
+Offset: 170, PUSHI , Operand: 52035588
+Offset: 171, Unref Method: 2112, Operand: 0
+Offset: 172, PUSHI , Operand: 0
+Offset: 173, PUSHI , Operand: 52035587
+Offset: 174, Unref Method: 2003, Operand: 0
+Offset: 175, PUSHI , Operand: 0
+Offset: 176, PUSHI , Operand: 52035586
+Offset: 177, Unref Method: 2003, Operand: 0
+Offset: 178, Unref Opcode: 25, Operand: 5390
+Offset: 179, PUSHI , Operand: 2
+Offset: 180, IFEQ , Operand: 1
+Offset: 181, GOTO , Operand: 85
+Offset: 182, PUSHS , Operand: <col=302008>
+Offset: 183, PUSHS , Operand: Varrock Census - year 160
+Offset: 184, PUSHS , Operand: <br>
+Offset: 185, PUSHS , Operand: <col=302008>
+Offset: 186, PUSHS , Operand: Citizen's name
+Offset: 187, PUSHS , Operand: <br>
+Offset: 188, PUSHS , Operand: Phearthee Levalsyx
+Offset: 189, PUSHS , Operand: <br>
+Offset: 190, PUSHS , Operand: Charles Lyeman
+Offset: 191, PUSHS , Operand: <br>
+Offset: 192, PUSHS , Operand: Surok Magis
+Offset: 193, PUSHS , Operand: <br>
+Offset: 194, PUSHS , Operand: Gaffit Malore
+Offset: 195, PUSHS , Operand: <br>
+Offset: 196, PUSHS , Operand: Mabel Malore
+Offset: 197, PUSHS , Operand: <br>
+Offset: 198, PUSHS , Operand: Alfi Marino
+Offset: 199, PUSHS , Operand: <br>
+Offset: 200, PUSHS , Operand: Aris Maye
+Offset: 201, PUSHS , Operand: <br>
+Offset: 202, PUSHS , Operand: Iffie Nitter
+Offset: 203, PUSHS , Operand: <br>
+Offset: 204, PUSHS , Operand: Thessalia Nitter
+Offset: 205, PUSHS , Operand: <br>
+Offset: 206, PUSHS , Operand: Elsie Parks
+Offset: 207, PUSHS , Operand: <br>
+Offset: 208, PUSHS , Operand: Fred Parks
+Offset: 209, PUSHS , Operand: <br>
+Offset: 210, PUSHS , Operand: Ethel Prim
+Offset: 211, PUSHS , Operand: <br>
+Offset: 212, PUSHS , Operand: Hartwin Prim
+Offset: 213, PUSHS , Operand: <br>
+Offset: 214, PUSHS , Operand: Enhtor Prysin
+Offset: 215, PUSHS , Operand: <br>
+Offset: 216, PUSHS , Operand: Idonea Ramlock
+Offset: 217, PUSHS , Operand: <br>
+Offset: 218, PUSHS , Operand: Trevick Ramlock
+Offset: 219, CONCAT , Operand: 37
+Offset: 220, PUSHI , Operand: 52035589
+Offset: 221, Unref Method: 2112, Operand: 0
+Offset: 222, PUSHS , Operand: <br>
+Offset: 223, PUSHS , Operand: <br>
+Offset: 224, PUSHS , Operand: <col=302008>
+Offset: 225, PUSHS , Operand: Profession
+Offset: 226, PUSHS , Operand: <br>
+Offset: 227, PUSHS , Operand: Mugger
+Offset: 228, PUSHS , Operand: <br>
+Offset: 229, PUSHS , Operand: Unemployed
+Offset: 230, PUSHS , Operand: <br>
+Offset: 231, PUSHS , Operand: Mage
+Offset: 232, PUSHS , Operand: <br>
+Offset: 233, PUSHS , Operand: Librarian
+Offset: 234, PUSHS , Operand: <br>
+Offset: 235, PUSHS , Operand: Information Clerk
+Offset: 236, PUSHS , Operand: <br>
+Offset: 237, PUSHS , Operand: Chef
+Offset: 238, PUSHS , Operand: <br>
+Offset: 239, PUSHS , Operand: Gypsy
+Offset: 240, PUSHS , Operand: <br>
+Offset: 241, PUSHS , Operand: Retired
+Offset: 242, PUSHS , Operand: <br>
+Offset: 243, PUSHS , Operand: Clothes Shop Owner
+Offset: 244, PUSHS , Operand: <br>
+Offset: 245, PUSHS , Operand: Retired
+Offset: 246, PUSHS , Operand: <br>
+Offset: 247, PUSHS , Operand: Retired
+Offset: 248, PUSHS , Operand: <br>
+Offset: 249, PUSHS , Operand: Servant
+Offset: 250, PUSHS , Operand: <br>
+Offset: 251, PUSHS , Operand: Student
+Offset: 252, PUSHS , Operand: <br>
+Offset: 253, PUSHS , Operand: Knight
+Offset: 254, PUSHS , Operand: <br>
+Offset: 255, PUSHS , Operand: Teacher
+Offset: 256, PUSHS , Operand: <br>
+Offset: 257, PUSHS , Operand: Banker
+Offset: 258, CONCAT , Operand: 36
+Offset: 259, PUSHI , Operand: 52035588
+Offset: 260, Unref Method: 2112, Operand: 0
+Offset: 261, PUSHI , Operand: 0
+Offset: 262, PUSHI , Operand: 52035586
+Offset: 263, Unref Method: 2003, Operand: 0
+Offset: 264, PUSHI , Operand: 0
+Offset: 265, PUSHI , Operand: 52035587
+Offset: 266, Unref Method: 2003, Operand: 0
+Offset: 267, Unref Opcode: 25, Operand: 5390
+Offset: 268, PUSHI , Operand: 3
+Offset: 269, IFEQ , Operand: 1
+Offset: 270, GOTO , Operand: 81
+Offset: 271, PUSHS , Operand: <col=302008>
+Offset: 272, PUSHS , Operand: Varrock Census - year 160
+Offset: 273, PUSHS , Operand: <br>
+Offset: 274, PUSHS , Operand: <col=302008>
+Offset: 275, PUSHS , Operand: Citizen's name
+Offset: 276, PUSHS , Operand: <br>
+Offset: 277, PUSHS , Operand: Aeonisig Raispher
+Offset: 278, PUSHS , Operand: <br>
+Offset: 279, PUSHS , Operand: Katrine Raven
+Offset: 280, PUSHS , Operand: <br>
+Offset: 281, PUSHS , Operand: Horvik Ravitz
+Offset: 282, PUSHS , Operand: <br>
+Offset: 283, PUSHS , Operand: Roald Remanis
+Offset: 284, PUSHS , Operand: <br>
+Offset: 285, PUSHS , Operand: Milo Rovin
+Offset: 286, PUSHS , Operand: <br>
+Offset: 287, PUSHS , Operand: Martina Scorsby
+Offset: 288, PUSHS , Operand: <br>
+Offset: 289, PUSHS , Operand: Stephan Scorsby
+Offset: 290, PUSHS , Operand: <br>
+Offset: 291, PUSHS , Operand: Sani Semiv
+Offset: 292, PUSHS , Operand: <br>
+Offset: 293, PUSHS , Operand: Herbert Spiccanspan
+Offset: 294, PUSHS , Operand: <br>
+Offset: 295, PUSHS , Operand: Brana Talvoy
+Offset: 296, PUSHS , Operand: <br>
+Offset: 297, PUSHS , Operand: Launa Talvoy
+Offset: 298, PUSHS , Operand: <br>
+Offset: 299, PUSHS , Operand: Reldo Trimmly
+Offset: 300, PUSHS , Operand: <br>
+Offset: 301, PUSHS , Operand: Jack Tylner
+Offset: 302, PUSHS , Operand: <br>
+Offset: 303, PUSHS , Operand: Romily Weeklax
+Offset: 304, PUSHS , Operand: <br>
+Offset: 305, PUSHS , Operand: Treznor Withings
+Offset: 306, CONCAT , Operand: 35
+Offset: 307, PUSHI , Operand: 52035589
+Offset: 308, Unref Method: 2112, Operand: 0
+Offset: 309, PUSHS , Operand: <br>
+Offset: 310, PUSHS , Operand: <br>
+Offset: 311, PUSHS , Operand: <col=302008>
+Offset: 312, PUSHS , Operand: Profession
+Offset: 313, PUSHS , Operand: <br>
+Offset: 314, PUSHS , Operand: Royal Advisor
+Offset: 315, PUSHS , Operand: <br>
+Offset: 316, PUSHS , Operand: Wallet Relocator
+Offset: 317, PUSHS , Operand: <br>
+Offset: 318, PUSHS , Operand: Apprentice Blacksmith
+Offset: 319, PUSHS , Operand: <br>
+Offset: 320, PUSHS , Operand: Our Glorious King
+Offset: 321, PUSHS , Operand: <br>
+Offset: 322, PUSHS , Operand: Captain of the guard
+Offset: 323, PUSHS , Operand: <br>
+Offset: 324, PUSHS , Operand: Washerwoman
+Offset: 325, PUSHS , Operand: <br>
+Offset: 326, PUSHS , Operand: Guard
+Offset: 327, PUSHS , Operand: <br>
+Offset: 328, PUSHS , Operand: Master Smith
+Offset: 329, PUSHS , Operand: <br>
+Offset: 330, PUSHS , Operand: Street Cleaner
+Offset: 331, PUSHS , Operand: <br>
+Offset: 332, PUSHS , Operand: Farmer
+Offset: 333, PUSHS , Operand: <br>
+Offset: 334, PUSHS , Operand: Farmer
+Offset: 335, PUSHS , Operand: <br>
+Offset: 336, PUSHS , Operand: Assistant Librarian
+Offset: 337, PUSHS , Operand: <br>
+Offset: 338, PUSHS , Operand: Rat Exterminator
+Offset: 339, PUSHS , Operand: <br>
+Offset: 340, PUSHS , Operand: Pie Salesman
+Offset: 341, PUSHS , Operand: <br>
+Offset: 342, PUSHS , Operand: Kitchen Boy
+Offset: 343, CONCAT , Operand: 34
+Offset: 344, PUSHI , Operand: 52035588
+Offset: 345, Unref Method: 2112, Operand: 0
+Offset: 346, PUSHI , Operand: 1
+Offset: 347, PUSHI , Operand: 52035586
+Offset: 348, Unref Method: 2003, Operand: 0
+Offset: 349, PUSHI , Operand: 0
+Offset: 350, PUSHI , Operand: 52035587
+Offset: 351, Unref Method: 2003, Operand: 0
+Offset: 352, RETURN , Operand: 0

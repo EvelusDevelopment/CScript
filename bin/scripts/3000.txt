@@ -1,0 +1,19 @@
+================================================
+      Client Script 3000 Dumped by SiniSoul    
+      Instruction Size: 8
+      Integer Arguments: 0 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, Unref Method: 3300, Operand: 0
+Offset: 1, PUSHI , Operand: 50
+Offset: 2, IMOD , Operand: 0
+Offset: 3, PUSHI , Operand: 0
+Offset: 4, IFEQ , Operand: 1
+Offset: 5, GOTO , Operand: 1
+Offset: 6, CALL , Operand: 3001
+Offset: 7, RETURN , Operand: 0

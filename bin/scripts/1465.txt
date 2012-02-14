@@ -1,0 +1,252 @@
+================================================
+      Client Script 1465 Dumped by SiniSoul    
+      Instruction Size: 241
+      Integer Arguments: 6 
+      String  Arguments: 3 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHS , Operand: Total number of 
+Offset: 1, PUSHS , Operand: <col=ba1626>
+Offset: 2, PUSHS , Operand: free
+Offset: 3, PUSHS , Operand: </col>
+Offset: 4, PUSHS , Operand:  bank slots used
+Offset: 5, CONCAT , Operand: 5
+Offset: 6, STORESTR , Operand: 0
+Offset: 7, PUSHS , Operand: Total number of 
+Offset: 8, PUSHS , Operand: <col=ba1626>
+Offset: 9, PUSHS , Operand: member
+Offset: 10, PUSHS , Operand: </col>
+Offset: 11, PUSHS , Operand:  bank slots used
+Offset: 12, CONCAT , Operand: 5
+Offset: 13, STORESTR , Operand: 1
+Offset: 14, PUSHS , Operand: Total number of 
+Offset: 15, PUSHS , Operand: <col=ba1626>
+Offset: 16, PUSHS , Operand: demo
+Offset: 17, PUSHS , Operand: </col>
+Offset: 18, PUSHS , Operand:  bank slots used
+Offset: 19, CONCAT , Operand: 5
+Offset: 20, STORESTR , Operand: 2
+Offset: 21, PUSHI , Operand: 0
+Offset: 22, STOREINT , Operand: 0
+Offset: 23, PUSHI , Operand: 0
+Offset: 24, STOREINT , Operand: 1
+Offset: 25, CALL , Operand: 3287
+Offset: 26, PUSHI , Operand: 1
+Offset: 27, IFEQ , Operand: 1
+Offset: 28, GOTO , Operand: 11
+Offset: 29, PUSHI , Operand: 516
+Offset: 30, PUSHI , Operand: 439
+Offset: 31, ISUB , Operand: 0
+Offset: 32, PUSHI , Operand: 1
+Offset: 33, IADD , Operand: 0
+Offset: 34, STOREINT , Operand: 0
+Offset: 35, PUSHI , Operand: 516
+Offset: 36, LOADINT , Operand: 0
+Offset: 37, ISUB , Operand: 0
+Offset: 38, STOREINT , Operand: 1
+Offset: 39, GOTO , Operand: 14
+Offset: 40, PUSHI , Operand: 516
+Offset: 41, PUSHI , Operand: 439
+Offset: 42, ISUB , Operand: 0
+Offset: 43, PUSHI , Operand: 1
+Offset: 44, IADD , Operand: 0
+Offset: 45, PUSHI , Operand: 10
+Offset: 46, ISUB , Operand: 0
+Offset: 47, STOREINT , Operand: 0
+Offset: 48, PUSHI , Operand: 516
+Offset: 49, PUSHI , Operand: 10
+Offset: 50, ISUB , Operand: 0
+Offset: 51, LOADINT , Operand: 0
+Offset: 52, ISUB , Operand: 0
+Offset: 53, STOREINT , Operand: 1
+Offset: 54, LOADGINT , Operand: 1038
+Offset: 55, STOREINT , Operand: 2
+Offset: 56, LOADGINT , Operand: 192
+Offset: 57, LOADINT , Operand: 2
+Offset: 58, ISUB , Operand: 0
+Offset: 59, STOREINT , Operand: 3
+Offset: 60, LOADINT , Operand: 0
+Offset: 61, LOADINT , Operand: 2
+Offset: 62, ISUB , Operand: 0
+Offset: 63, PUSHI , Operand: -1
+Offset: 64, IMUL , Operand: 0
+Offset: 65, STOREINT , Operand: 4
+Offset: 66, LOADINT , Operand: 3
+Offset: 67, PUSHI , Operand: 439
+Offset: 68, PUSHI , Operand: 1
+Offset: 69, ISUB , Operand: 0
+Offset: 70, ISUB , Operand: 0
+Offset: 71, STOREINT , Operand: 5
+Offset: 72, CALL , Operand: 2047
+Offset: 73, PUSHI , Operand: 1
+Offset: 74, IFEQ , Operand: 1
+Offset: 75, GOTO , Operand: 25
+Offset: 76, PUSHI , Operand: 1
+Offset: 77, PUSHI , Operand: 49938454
+Offset: 78, Unref Method: 2003, Operand: 0
+Offset: 79, PUSHI , Operand: 0
+Offset: 80, PUSHI , Operand: 49938455
+Offset: 81, Unref Method: 2003, Operand: 0
+Offset: 82, LOADGINT , Operand: 192
+Offset: 83, integerToString , Operand: 0
+Offset: 84, PUSHI , Operand: 49938457
+Offset: 85, Unref Method: 2112, Operand: 0
+Offset: 86, CALL , Operand: 1466
+Offset: 87, integerToString , Operand: 0
+Offset: 88, PUSHI , Operand: 49938458
+Offset: 89, Unref Method: 2112, Operand: 0
+Offset: 90, PUSHI , Operand: 1160
+Offset: 91, PUSHI , Operand: -2147483645
+Offset: 92, PUSHI , Operand: -1
+Offset: 93, PUSHI , Operand: 49938549
+Offset: 94, LOADSTR , Operand: 2
+Offset: 95, PUSHI , Operand: 25
+Offset: 96, PUSHI , Operand: 150
+Offset: 97, PUSHS , Operand: IiIsii
+Offset: 98, PUSHI , Operand: 49938457
+Offset: 99, setInterfaceDefinitionScriptParams12 , Operand: 0
+Offset: 100, GOTO , Operand: 139
+Offset: 101, PUSHI , Operand: 0
+Offset: 102, PUSHI , Operand: 49938454
+Offset: 103, Unref Method: 2003, Operand: 0
+Offset: 104, PUSHI , Operand: 1
+Offset: 105, PUSHI , Operand: 49938455
+Offset: 106, Unref Method: 2003, Operand: 0
+Offset: 107, LOADINT , Operand: 5
+Offset: 108, PUSHI , Operand: 0
+Offset: 109, IFGT , Operand: 1
+Offset: 110, GOTO , Operand: 46
+Offset: 111, LOADINT , Operand: 2
+Offset: 112, LOADINT , Operand: 5
+Offset: 113, IADD , Operand: 0
+Offset: 114, STOREINT , Operand: 2
+Offset: 115, PUSHI , Operand: 439
+Offset: 116, PUSHI , Operand: 1
+Offset: 117, ISUB , Operand: 0
+Offset: 118, STOREINT , Operand: 3
+Offset: 119, LOADINT , Operand: 5
+Offset: 120, PUSHI , Operand: 1
+Offset: 121, IFEQ , Operand: 1
+Offset: 122, GOTO , Operand: 12
+Offset: 123, PUSHS , Operand: Total number of 
+Offset: 124, PUSHS , Operand: <col=ba1626>
+Offset: 125, PUSHS , Operand: free
+Offset: 126, PUSHS , Operand: </col>
+Offset: 127, PUSHS , Operand:  bank slots used
+Offset: 128, PUSHS , Operand: <br>
+Offset: 129, PUSHS , Operand: <col=ba1626>
+Offset: 130, PUSHS , Operand: Note: this includes an overflow of 1 member item
+Offset: 131, PUSHS , Operand: </col>
+Offset: 132, CONCAT , Operand: 9
+Offset: 133, STORESTR , Operand: 0
+Offset: 134, GOTO , Operand: 14
+Offset: 135, PUSHS , Operand: Total number of 
+Offset: 136, PUSHS , Operand: <col=ba1626>
+Offset: 137, PUSHS , Operand: free
+Offset: 138, PUSHS , Operand: </col>
+Offset: 139, PUSHS , Operand:  bank slots used
+Offset: 140, PUSHS , Operand: <br>
+Offset: 141, PUSHS , Operand: <col=ba1626>
+Offset: 142, PUSHS , Operand: Note: this includes an overflow of 
+Offset: 143, LOADINT , Operand: 5
+Offset: 144, integerToString , Operand: 0
+Offset: 145, PUSHS , Operand:  member items
+Offset: 146, PUSHS , Operand: </col>
+Offset: 147, CONCAT , Operand: 11
+Offset: 148, STORESTR , Operand: 0
+Offset: 149, PUSHS , Operand: Total number of 
+Offset: 150, PUSHS , Operand: <col=ba1626>
+Offset: 151, PUSHS , Operand: member
+Offset: 152, PUSHS , Operand: </col>
+Offset: 153, PUSHS , Operand:  bank slots used
+Offset: 154, CONCAT , Operand: 5
+Offset: 155, STORESTR , Operand: 1
+Offset: 156, GOTO , Operand: 47
+Offset: 157, LOADINT , Operand: 4
+Offset: 158, PUSHI , Operand: 0
+Offset: 159, IFGT , Operand: 1
+Offset: 160, GOTO , Operand: 43
+Offset: 161, LOADINT , Operand: 3
+Offset: 162, LOADINT , Operand: 4
+Offset: 163, IADD , Operand: 0
+Offset: 164, STOREINT , Operand: 3
+Offset: 165, LOADINT , Operand: 0
+Offset: 166, STOREINT , Operand: 2
+Offset: 167, PUSHS , Operand: Total number of 
+Offset: 168, PUSHS , Operand: <col=ba1626>
+Offset: 169, PUSHS , Operand: free
+Offset: 170, PUSHS , Operand: </col>
+Offset: 171, PUSHS , Operand:  bank slots used
+Offset: 172, CONCAT , Operand: 5
+Offset: 173, STORESTR , Operand: 0
+Offset: 174, LOADINT , Operand: 4
+Offset: 175, PUSHI , Operand: 1
+Offset: 176, IFEQ , Operand: 1
+Offset: 177, GOTO , Operand: 12
+Offset: 178, PUSHS , Operand: Total number of 
+Offset: 179, PUSHS , Operand: <col=ba1626>
+Offset: 180, PUSHS , Operand: member
+Offset: 181, PUSHS , Operand: </col>
+Offset: 182, PUSHS , Operand:  bank slots used
+Offset: 183, PUSHS , Operand: <br>
+Offset: 184, PUSHS , Operand: <col=ba1626>
+Offset: 185, PUSHS , Operand: Note: this includes an overflow of 1 free item
+Offset: 186, PUSHS , Operand: </col>
+Offset: 187, CONCAT , Operand: 9
+Offset: 188, STORESTR , Operand: 1
+Offset: 189, GOTO , Operand: 14
+Offset: 190, PUSHS , Operand: Total number of 
+Offset: 191, PUSHS , Operand: <col=ba1626>
+Offset: 192, PUSHS , Operand: member
+Offset: 193, PUSHS , Operand: </col>
+Offset: 194, PUSHS , Operand:  bank slots used
+Offset: 195, PUSHS , Operand: <br>
+Offset: 196, PUSHS , Operand: <col=ba1626>
+Offset: 197, PUSHS , Operand: Note: this includes an overflow of 
+Offset: 198, LOADINT , Operand: 4
+Offset: 199, integerToString , Operand: 0
+Offset: 200, PUSHS , Operand:  free items
+Offset: 201, PUSHS , Operand: </col>
+Offset: 202, CONCAT , Operand: 11
+Offset: 203, STORESTR , Operand: 1
+Offset: 204, LOADINT , Operand: 2
+Offset: 205, integerToString , Operand: 0
+Offset: 206, PUSHI , Operand: 49938461
+Offset: 207, Unref Method: 2112, Operand: 0
+Offset: 208, LOADINT , Operand: 3
+Offset: 209, integerToString , Operand: 0
+Offset: 210, PUSHI , Operand: 49938463
+Offset: 211, Unref Method: 2112, Operand: 0
+Offset: 212, PUSHI , Operand: 1160
+Offset: 213, PUSHI , Operand: -2147483645
+Offset: 214, PUSHI , Operand: -1
+Offset: 215, PUSHI , Operand: 49938549
+Offset: 216, LOADSTR , Operand: 0
+Offset: 217, PUSHI , Operand: 25
+Offset: 218, PUSHI , Operand: 150
+Offset: 219, PUSHS , Operand: IiIsii
+Offset: 220, PUSHI , Operand: 49938461
+Offset: 221, setInterfaceDefinitionScriptParams12 , Operand: 0
+Offset: 222, PUSHI , Operand: 1160
+Offset: 223, PUSHI , Operand: -2147483645
+Offset: 224, PUSHI , Operand: -1
+Offset: 225, PUSHI , Operand: 49938549
+Offset: 226, LOADSTR , Operand: 1
+Offset: 227, PUSHI , Operand: 25
+Offset: 228, PUSHI , Operand: 150
+Offset: 229, PUSHS , Operand: IiIsii
+Offset: 230, PUSHI , Operand: 49938463
+Offset: 231, setInterfaceDefinitionScriptParams12 , Operand: 0
+Offset: 232, LOADINT , Operand: 0
+Offset: 233, integerToString , Operand: 0
+Offset: 234, PUSHI , Operand: 49938462
+Offset: 235, Unref Method: 2112, Operand: 0
+Offset: 236, LOADINT , Operand: 1
+Offset: 237, integerToString , Operand: 0
+Offset: 238, PUSHI , Operand: 49938464
+Offset: 239, Unref Method: 2112, Operand: 0
+Offset: 240, RETURN , Operand: 0

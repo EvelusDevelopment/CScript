@@ -1,0 +1,50 @@
+================================================
+      Client Script 1332 Dumped by SiniSoul    
+      Instruction Size: 39
+      Integer Arguments: 0 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, Unref Opcode: 25, Operand: 275
+Offset: 1, PUSHI , Operand: 1
+Offset: 2, IFEQ , Operand: 1
+Offset: 3, GOTO , Operand: 11
+Offset: 4, PUSHI , Operand: -1
+Offset: 5, PUSHS , Operand: 
+Offset: 6, PUSHI , Operand: 58589189
+Offset: 7, setInterfaceDefinitionScriptParams8 , Operand: 0
+Offset: 8, PUSHI , Operand: 1
+Offset: 9, PUSHI , Operand: 58589191
+Offset: 10, Unref Method: 2003, Operand: 0
+Offset: 11, PUSHI , Operand: -1
+Offset: 12, PUSHI , Operand: 58589188
+Offset: 13, Unref Method: 2105, Operand: 0
+Offset: 14, GOTO , Operand: 23
+Offset: 15, CALL , Operand: 1305
+Offset: 16, PUSHI , Operand: 7
+Offset: 17, IFEQ , Operand: 1
+Offset: 18, GOTO , Operand: 10
+Offset: 19, PUSHS , Operand: To set Wind Strike to auto-cast, click on the flashing spell icon. You can hover over spell icons to read a brief description of the spell and the runes required to cast it.
+Offset: 20, PUSHI , Operand: 58589191
+Offset: 21, Unref Method: 2112, Operand: 0
+Offset: 22, PUSHS , Operand: 
+Offset: 23, PUSHI , Operand: 58589190
+Offset: 24, Unref Method: 2112, Operand: 0
+Offset: 25, PUSHI , Operand: 15
+Offset: 26, PUSHI , Operand: 58589188
+Offset: 27, Unref Method: 2105, Operand: 0
+Offset: 28, GOTO , Operand: 9
+Offset: 29, PUSHS , Operand: Click on the Magic icon to open your magic spellbook.
+Offset: 30, PUSHI , Operand: 58589191
+Offset: 31, Unref Method: 2112, Operand: 0
+Offset: 32, PUSHS , Operand: 
+Offset: 33, PUSHI , Operand: 58589190
+Offset: 34, Unref Method: 2112, Operand: 0
+Offset: 35, PUSHI , Operand: 1824
+Offset: 36, PUSHI , Operand: 58589188
+Offset: 37, Unref Method: 2105, Operand: 0
+Offset: 38, RETURN , Operand: 0

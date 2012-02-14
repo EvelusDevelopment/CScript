@@ -1,0 +1,51 @@
+================================================
+      Client Script 2903 Dumped by SiniSoul    
+      Instruction Size: 40
+      Integer Arguments: 9 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADGINT , Operand: 1087
+Offset: 1, LOADINT , Operand: 8
+Offset: 2, IFEQ , Operand: 1
+Offset: 3, GOTO , Operand: 9
+Offset: 4, PUSHI , Operand: 0
+Offset: 5, STOREGINT , Operand: 1087
+Offset: 6, PUSHI , Operand: 1
+Offset: 7, LOADINT , Operand: 0
+Offset: 8, Unref Method: 2003, Operand: 0
+Offset: 9, PUSHI , Operand: 1
+Offset: 10, LOADINT , Operand: 1
+Offset: 11, Unref Method: 2003, Operand: 0
+Offset: 12, GOTO , Operand: 8
+Offset: 13, LOADINT , Operand: 8
+Offset: 14, STOREGINT , Operand: 1087
+Offset: 15, PUSHI , Operand: 0
+Offset: 16, LOADINT , Operand: 0
+Offset: 17, Unref Method: 2003, Operand: 0
+Offset: 18, PUSHI , Operand: 0
+Offset: 19, LOADINT , Operand: 1
+Offset: 20, Unref Method: 2003, Operand: 0
+Offset: 21, PUSHI , Operand: 1
+Offset: 22, LOADINT , Operand: 2
+Offset: 23, Unref Method: 2003, Operand: 0
+Offset: 24, PUSHI , Operand: 1
+Offset: 25, LOADINT , Operand: 3
+Offset: 26, Unref Method: 2003, Operand: 0
+Offset: 27, PUSHI , Operand: 1
+Offset: 28, LOADINT , Operand: 4
+Offset: 29, Unref Method: 2003, Operand: 0
+Offset: 30, PUSHI , Operand: 1
+Offset: 31, LOADINT , Operand: 5
+Offset: 32, Unref Method: 2003, Operand: 0
+Offset: 33, PUSHI , Operand: 1
+Offset: 34, LOADINT , Operand: 6
+Offset: 35, Unref Method: 2003, Operand: 0
+Offset: 36, PUSHI , Operand: 1
+Offset: 37, LOADINT , Operand: 7
+Offset: 38, Unref Method: 2003, Operand: 0
+Offset: 39, RETURN , Operand: 0

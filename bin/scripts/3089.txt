@@ -1,0 +1,31 @@
+================================================
+      Client Script 3089 Dumped by SiniSoul    
+      Instruction Size: 20
+      Integer Arguments: 1 
+      String  Arguments: 2 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADSTR , Operand: 0
+Offset: 1, PUSHS , Operand: 
+Offset: 2, Unref Method: 4107, Operand: 0
+Offset: 3, PUSHI , Operand: 0
+Offset: 4, IFNE , Operand: 1
+Offset: 5, GOTO , Operand: 13
+Offset: 6, LOADSTR , Operand: 1
+Offset: 7, PUSHS , Operand: 
+Offset: 8, Unref Method: 4107, Operand: 0
+Offset: 9, PUSHI , Operand: 0
+Offset: 10, IFNE , Operand: 1
+Offset: 11, GOTO , Operand: 7
+Offset: 12, PUSHS , Operand: loginapplet/loginapplet.ws?ssl=1&expired=0&mod=
+Offset: 13, LOADSTR , Operand: 0
+Offset: 14, PUSHS , Operand: &dest=
+Offset: 15, LOADSTR , Operand: 1
+Offset: 16, CONCAT , Operand: 4
+Offset: 17, LOADINT , Operand: 0
+Offset: 18, Unref Method: 5421, Operand: 0
+Offset: 19, RETURN , Operand: 0

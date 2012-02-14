@@ -1,0 +1,29 @@
+================================================
+      Client Script 1889 Dumped by SiniSoul    
+      Instruction Size: 18
+      Integer Arguments: 0 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, CALL , Operand: 1431
+Offset: 1, PUSHI , Operand: 1
+Offset: 2, IFEQ , Operand: 1
+Offset: 3, GOTO , Operand: 7
+Offset: 4, PUSHS , Operand: World 
+Offset: 5, Unref Method: 3318, Operand: 0
+Offset: 6, integerToString , Operand: 0
+Offset: 7, PUSHS , Operand:  (PvP)
+Offset: 8, CONCAT , Operand: 3
+Offset: 9, RETURN , Operand: 0
+Offset: 10, GOTO , Operand: 5
+Offset: 11, PUSHS , Operand: World 
+Offset: 12, Unref Method: 3318, Operand: 0
+Offset: 13, integerToString , Operand: 0
+Offset: 14, CONCAT , Operand: 2
+Offset: 15, RETURN , Operand: 0
+Offset: 16, PUSHS , Operand: 
+Offset: 17, RETURN , Operand: 0

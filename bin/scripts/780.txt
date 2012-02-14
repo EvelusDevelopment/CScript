@@ -1,0 +1,33 @@
+================================================
+      Client Script 780 Dumped by SiniSoul    
+      Instruction Size: 22
+      Integer Arguments: 1 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADINT , Operand: 0
+Offset: 1, PUSHI , Operand: 999999
+Offset: 2, IFGTEQ , Operand: 1
+Offset: 3, GOTO , Operand: 2
+Offset: 4, PUSHS , Operand: *
+Offset: 5, RETURN , Operand: 0
+Offset: 6, LOADINT , Operand: 0
+Offset: 7, PUSHI , Operand: 10000
+Offset: 8, IFGTEQ , Operand: 1
+Offset: 9, GOTO , Operand: 7
+Offset: 10, LOADINT , Operand: 0
+Offset: 11, PUSHI , Operand: 1000
+Offset: 12, IDIV , Operand: 0
+Offset: 13, integerToString , Operand: 0
+Offset: 14, PUSHS , Operand: K
+Offset: 15, concatStrings , Operand: 0
+Offset: 16, RETURN , Operand: 0
+Offset: 17, LOADINT , Operand: 0
+Offset: 18, integerToString , Operand: 0
+Offset: 19, RETURN , Operand: 0
+Offset: 20, PUSHS , Operand: 
+Offset: 21, RETURN , Operand: 0

@@ -1,0 +1,31 @@
+================================================
+      Client Script 2087 Dumped by SiniSoul    
+      Instruction Size: 20
+      Integer Arguments: 0 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADGINT , Operand: 649
+Offset: 1, PUSHI , Operand: 5
+Offset: 2, IFLTEQ , Operand: 1
+Offset: 3, GOTO , Operand: 4
+Offset: 4, PUSHI , Operand: 3368703
+Offset: 5, PUSHI , Operand: 54788126
+Offset: 6, Unref Method: 2101, Operand: 0
+Offset: 7, GOTO , Operand: 11
+Offset: 8, LOADGINT , Operand: 649
+Offset: 9, PUSHI , Operand: 25
+Offset: 10, IFGTEQ , Operand: 1
+Offset: 11, GOTO , Operand: 4
+Offset: 12, PUSHI , Operand: 14754595
+Offset: 13, PUSHI , Operand: 54788126
+Offset: 14, Unref Method: 2101, Operand: 0
+Offset: 15, GOTO , Operand: 3
+Offset: 16, PUSHI , Operand: 6710886
+Offset: 17, PUSHI , Operand: 54788126
+Offset: 18, Unref Method: 2101, Operand: 0
+Offset: 19, RETURN , Operand: 0

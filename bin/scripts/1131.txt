@@ -1,0 +1,34 @@
+================================================
+      Client Script 1131 Dumped by SiniSoul    
+      Instruction Size: 23
+      Integer Arguments: 1 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADGINT , Operand: 1000
+Offset: 1, Unref Method: 3326, Operand: 0
+Offset: 2, IFGT , Operand: 1
+Offset: 3, GOTO , Operand: 12
+Offset: 4, PUSHS , Operand: Combat Lvl: 
+Offset: 5, Unref Method: 3326, Operand: 0
+Offset: 6, integerToString , Operand: 0
+Offset: 7, PUSHS , Operand: +
+Offset: 8, LOADGINT , Operand: 1000
+Offset: 9, Unref Method: 3326, Operand: 0
+Offset: 10, ISUB , Operand: 0
+Offset: 11, integerToString , Operand: 0
+Offset: 12, CONCAT , Operand: 4
+Offset: 13, LOADINT , Operand: 0
+Offset: 14, Unref Method: 2112, Operand: 0
+Offset: 15, GOTO , Operand: 6
+Offset: 16, PUSHS , Operand: Combat Lvl: 
+Offset: 17, Unref Method: 3326, Operand: 0
+Offset: 18, integerToString , Operand: 0
+Offset: 19, CONCAT , Operand: 2
+Offset: 20, LOADINT , Operand: 0
+Offset: 21, Unref Method: 2112, Operand: 0
+Offset: 22, RETURN , Operand: 0

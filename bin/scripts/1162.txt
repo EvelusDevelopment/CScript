@@ -1,0 +1,29 @@
+================================================
+      Client Script 1162 Dumped by SiniSoul    
+      Instruction Size: 18
+      Integer Arguments: 2 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHI , Operand: 48693296
+Offset: 1, Unref Method: 2502, Operand: 0
+Offset: 2, PUSHI , Operand: 48693255
+Offset: 3, Unref Method: 2502, Operand: 0
+Offset: 4, ISUB , Operand: 0
+Offset: 5, STOREINT , Operand: 0
+Offset: 6, Unref Method: 6120, Operand: 0
+Offset: 7, PUSHI , Operand: 127
+Offset: 8, LOADINT , Operand: 0
+Offset: 9, Unref Method: 4018, Operand: 0
+Offset: 10, STOREINT , Operand: 1
+Offset: 11, LOADINT , Operand: 1
+Offset: 12, PUSHI , Operand: 0
+Offset: 13, PUSHI , Operand: 0
+Offset: 14, PUSHI , Operand: 0
+Offset: 15, PUSHI , Operand: 48693255
+Offset: 16, Unref Method: 2000, Operand: 0
+Offset: 17, RETURN , Operand: 0

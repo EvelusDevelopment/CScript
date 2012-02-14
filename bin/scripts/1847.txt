@@ -1,0 +1,58 @@
+================================================
+      Client Script 1847 Dumped by SiniSoul    
+      Instruction Size: 47
+      Integer Arguments: 1 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHI , Operand: 8
+Offset: 1, CALL , Operand: 121
+Offset: 2, STOREINT , Operand: 0
+Offset: 3, CALL , Operand: 1305
+Offset: 4, PUSHI , Operand: 8
+Offset: 5, IFNE , Operand: 1
+Offset: 6, GOTO , Operand: 38
+Offset: 7, CALL , Operand: 1569
+Offset: 8, PUSHI , Operand: 0
+Offset: 9, IFEQ , Operand: 1
+Offset: 10, GOTO , Operand: 34
+Offset: 11, PUSHI , Operand: 8
+Offset: 12, CALL , Operand: 8
+Offset: 13, Unref Method: 2702, Operand: 0
+Offset: 14, PUSHI , Operand: 1
+Offset: 15, IFEQ , Operand: 1
+Offset: 16, GOTO , Operand: 28
+Offset: 17, LOADINT , Operand: 0
+Offset: 18, PUSHI , Operand: -1
+Offset: 19, IFNE , Operand: 1
+Offset: 20, GOTO , Operand: 23
+Offset: 21, Unref Method: 3300, Operand: 0
+Offset: 22, PUSHI , Operand: 40
+Offset: 23, IMOD , Operand: 0
+Offset: 24, PUSHI , Operand: 20
+Offset: 25, IFGT , Operand: 1
+Offset: 26, GOTO , Operand: 14
+Offset: 27, PUSHI , Operand: 0
+Offset: 28, LOADINT , Operand: 0
+Offset: 29, Unref Method: 2003, Operand: 0
+Offset: 30, Unref Method: 3300, Operand: 0
+Offset: 31, PUSHI , Operand: 40
+Offset: 32, IMOD , Operand: 0
+Offset: 33, PUSHI , Operand: 21
+Offset: 34, IFEQ , Operand: 1
+Offset: 35, GOTO , Operand: 4
+Offset: 36, PUSHI , Operand: 5009
+Offset: 37, PUSHI , Operand: 1
+Offset: 38, PUSHI , Operand: 0
+Offset: 39, Unref Method: 3200, Operand: 0
+Offset: 40, GOTO , Operand: 3
+Offset: 41, PUSHI , Operand: 1
+Offset: 42, LOADINT , Operand: 0
+Offset: 43, Unref Method: 2003, Operand: 0
+Offset: 44, GOTO , Operand: 1
+Offset: 45, CALL , Operand: 1849
+Offset: 46, RETURN , Operand: 0

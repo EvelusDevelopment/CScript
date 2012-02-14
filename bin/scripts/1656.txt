@@ -1,0 +1,33 @@
+================================================
+      Client Script 1656 Dumped by SiniSoul    
+      Instruction Size: 22
+      Integer Arguments: 0 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, Unref Opcode: 25, Operand: 6673
+Offset: 1, PUSHI , Operand: 0
+Offset: 2, IFEQ , Operand: 1
+Offset: 3, GOTO , Operand: 8
+Offset: 4, PUSHI , Operand: 29
+Offset: 5, PUSHS , Operand: 
+Offset: 6, PUSHI , Operand: 50266122
+Offset: 7, setInterfaceDefinitionScriptParams9 , Operand: 0
+Offset: 8, PUSHI , Operand: 1
+Offset: 9, PUSHI , Operand: 50266163
+Offset: 10, Unref Method: 2003, Operand: 0
+Offset: 11, GOTO , Operand: 9
+Offset: 12, PUSHI , Operand: -1
+Offset: 13, PUSHS , Operand: 
+Offset: 14, PUSHI , Operand: 50266122
+Offset: 15, setInterfaceDefinitionScriptParams9 , Operand: 0
+Offset: 16, PUSHI , Operand: 0
+Offset: 17, PUSHI , Operand: 50266163
+Offset: 18, Unref Method: 2003, Operand: 0
+Offset: 19, PUSHI , Operand: 50266164
+Offset: 20, CALL , Operand: 679
+Offset: 21, RETURN , Operand: 0

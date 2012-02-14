@@ -1,0 +1,61 @@
+================================================
+      Client Script 1440 Dumped by SiniSoul    
+      Instruction Size: 38
+      Integer Arguments: 1 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADINT , Operand: 0
+Offset: 1, SWITCH , Operand: 0
+Offset: 2, GOTO , Operand: 34
+Offset: 3, Unref Opcode: 1, Operand: 1068
+Offset: 4, PUSHI , Operand: 1
+Offset: 5, PUSHI , Operand: 40173583
+Offset: 6, Unref Method: 2205, Operand: 0
+Offset: 7, GOTO , Operand: 29
+Offset: 8, Unref Opcode: 1, Operand: 1069
+Offset: 9, PUSHI , Operand: 1
+Offset: 10, PUSHI , Operand: 40173584
+Offset: 11, Unref Method: 2205, Operand: 0
+Offset: 12, GOTO , Operand: 24
+Offset: 13, Unref Opcode: 1, Operand: 1070
+Offset: 14, PUSHI , Operand: 1
+Offset: 15, PUSHI , Operand: 40173585
+Offset: 16, Unref Method: 2205, Operand: 0
+Offset: 17, GOTO , Operand: 19
+Offset: 18, Unref Opcode: 1, Operand: 1065
+Offset: 19, PUSHI , Operand: 1
+Offset: 20, PUSHI , Operand: 40173577
+Offset: 21, Unref Method: 2205, Operand: 0
+Offset: 22, GOTO , Operand: 14
+Offset: 23, Unref Opcode: 1, Operand: 1066
+Offset: 24, PUSHI , Operand: 1
+Offset: 25, PUSHI , Operand: 40173578
+Offset: 26, Unref Method: 2205, Operand: 0
+Offset: 27, GOTO , Operand: 9
+Offset: 28, Unref Opcode: 1, Operand: 1067
+Offset: 29, PUSHI , Operand: 1
+Offset: 30, PUSHI , Operand: 40173579
+Offset: 31, Unref Method: 2205, Operand: 0
+Offset: 32, GOTO , Operand: 4
+Offset: 33, Unref Opcode: 1, Operand: 856
+Offset: 34, PUSHI , Operand: 1
+Offset: 35, PUSHI , Operand: 40173580
+Offset: 36, Unref Method: 2205, Operand: 0
+Offset: 37, RETURN , Operand: 0
+
+================================================
+                Switch Table 0                
+================================================
+
+Key: 40173580, Value: 31
+Key: 40173583, Value: 1
+Key: 40173577, Value: 16
+Key: 40173579, Value: 26
+Key: 40173578, Value: 21
+Key: 40173584, Value: 6
+Key: 40173585, Value: 11

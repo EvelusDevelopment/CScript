@@ -1,0 +1,41 @@
+================================================
+      Client Script 47 Dumped by SiniSoul    
+      Instruction Size: 30
+      Integer Arguments: 1 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADINT , Operand: 0
+Offset: 1, PUSHI , Operand: 99
+Offset: 2, IFGT , Operand: 1
+Offset: 3, GOTO , Operand: 3
+Offset: 4, LOADINT , Operand: 0
+Offset: 5, integerToString , Operand: 0
+Offset: 6, RETURN , Operand: 0
+Offset: 7, LOADINT , Operand: 0
+Offset: 8, PUSHI , Operand: 9
+Offset: 9, IFGT , Operand: 1
+Offset: 10, GOTO , Operand: 5
+Offset: 11, PUSHS , Operand: 0
+Offset: 12, LOADINT , Operand: 0
+Offset: 13, integerToString , Operand: 0
+Offset: 14, CONCAT , Operand: 2
+Offset: 15, RETURN , Operand: 0
+Offset: 16, LOADINT , Operand: 0
+Offset: 17, PUSHI , Operand: 0
+Offset: 18, IFGTEQ , Operand: 1
+Offset: 19, GOTO , Operand: 5
+Offset: 20, PUSHS , Operand: 00
+Offset: 21, LOADINT , Operand: 0
+Offset: 22, integerToString , Operand: 0
+Offset: 23, CONCAT , Operand: 2
+Offset: 24, RETURN , Operand: 0
+Offset: 25, LOADINT , Operand: 0
+Offset: 26, integerToString , Operand: 0
+Offset: 27, RETURN , Operand: 0
+Offset: 28, PUSHS , Operand: 
+Offset: 29, RETURN , Operand: 0

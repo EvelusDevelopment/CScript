@@ -1,0 +1,82 @@
+================================================
+      Client Script 2100 Dumped by SiniSoul    
+      Instruction Size: 48
+      Integer Arguments: 2 
+      String  Arguments: 1 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHS , Operand: 
+Offset: 1, STORESTR , Operand: 0
+Offset: 2, LOADINT , Operand: 0
+Offset: 3, SWITCH , Operand: 0
+Offset: 4, GOTO , Operand: 33
+Offset: 5, PUSHS , Operand: The number of times that the avatar has been killed.
+Offset: 6, STORESTR , Operand: 0
+Offset: 7, GOTO , Operand: 31
+Offset: 8, PUSHS , Operand: The Slayer level required to attack each avatar.
+Offset: 9, STORESTR , Operand: 0
+Offset: 10, GOTO , Operand: 28
+Offset: 11, PUSHS , Operand: The remaining health of each avatar.
+Offset: 12, STORESTR , Operand: 0
+Offset: 13, GOTO , Operand: 25
+Offset: 14, PUSHS , Operand: How much time the game has remaining.
+Offset: 15, STORESTR , Operand: 0
+Offset: 16, GOTO , Operand: 22
+Offset: 17, PUSHS , Operand: This column displays the blue team's statistics.
+Offset: 18, STORESTR , Operand: 0
+Offset: 19, GOTO , Operand: 19
+Offset: 20, PUSHS , Operand: This column displays the red team's statistics.
+Offset: 21, STORESTR , Operand: 0
+Offset: 22, GOTO , Operand: 16
+Offset: 23, PUSHS , Operand: Shows which team controls the soul obelisk.
+Offset: 24, STORESTR , Operand: 0
+Offset: 25, GOTO , Operand: 13
+Offset: 26, PUSHS , Operand: Shows which team controls the western graveyard.
+Offset: 27, STORESTR , Operand: 0
+Offset: 28, GOTO , Operand: 10
+Offset: 29, PUSHS , Operand: Shows which team controls the eastern graveyard.
+Offset: 30, STORESTR , Operand: 0
+Offset: 31, GOTO , Operand: 7
+Offset: 32, PUSHS , Operand: Shows how much control a team has over the soul obelisk.
+Offset: 33, STORESTR , Operand: 0
+Offset: 34, GOTO , Operand: 4
+Offset: 35, PUSHS , Operand: Shows how active you have been during the game.
+Offset: 36, STORESTR , Operand: 0
+Offset: 37, GOTO , Operand: 1
+Offset: 38, RETURN , Operand: 0
+Offset: 39, LOADINT , Operand: 0
+Offset: 40, LOADINT , Operand: 1
+Offset: 41, LOADSTR , Operand: 0
+Offset: 42, PUSHI , Operand: 25
+Offset: 43, LOADINT , Operand: 1
+Offset: 44, Unref Method: 2505, Operand: 0
+Offset: 45, Unref Method: 2502, Operand: 0
+Offset: 46, CALL , Operand: 39
+Offset: 47, RETURN , Operand: 0
+
+================================================
+                Switch Table 0                
+================================================
+
+Key: 54657052, Value: 19
+Key: 54657053, Value: 22
+Key: 54657054, Value: 25
+Key: 54657048, Value: 4
+Key: 54657049, Value: 10
+Key: 54657050, Value: 10
+Key: 54657051, Value: 1
+Key: 54657047, Value: 7
+Key: 54657037, Value: 4
+Key: 54657036, Value: 1
+Key: 54657098, Value: 31
+Key: 54657038, Value: 7
+Key: 54657033, Value: 4
+Key: 54657032, Value: 1
+Key: 54657035, Value: 16
+Key: 54657034, Value: 7
+Key: 54657031, Value: 13
+Key: 54657092, Value: 28

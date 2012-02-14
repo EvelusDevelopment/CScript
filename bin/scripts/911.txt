@@ -1,0 +1,47 @@
+================================================
+      Client Script 911 Dumped by SiniSoul    
+      Instruction Size: 36
+      Integer Arguments: 0 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, Unref Opcode: 25, Operand: 4532
+Offset: 1, PUSHI , Operand: 1
+Offset: 2, IFEQ , Operand: 1
+Offset: 3, GOTO , Operand: 14
+Offset: 4, LOADGINT , Operand: 118
+Offset: 5, PUSHI , Operand: 253
+Offset: 6, IFLT , Operand: 1
+Offset: 7, GOTO , Operand: 10
+Offset: 8, LOADGINT , Operand: 118
+Offset: 9, PUSHI , Operand: 3
+Offset: 10, IADD , Operand: 0
+Offset: 11, STOREGINT , Operand: 118
+Offset: 12, PUSHI , Operand: 255
+Offset: 13, LOADGINT , Operand: 118
+Offset: 14, ISUB , Operand: 0
+Offset: 15, PUSHI , Operand: 47251459
+Offset: 16, Unref Method: 2103, Operand: 0
+Offset: 17, GOTO , Operand: 17
+Offset: 18, Unref Opcode: 25, Operand: 4532
+Offset: 19, PUSHI , Operand: 0
+Offset: 20, IFEQ , Operand: 1
+Offset: 21, GOTO , Operand: 13
+Offset: 22, LOADGINT , Operand: 118
+Offset: 23, PUSHI , Operand: 3
+Offset: 24, IFGT , Operand: 1
+Offset: 25, GOTO , Operand: 9
+Offset: 26, LOADGINT , Operand: 118
+Offset: 27, PUSHI , Operand: 3
+Offset: 28, ISUB , Operand: 0
+Offset: 29, STOREGINT , Operand: 118
+Offset: 30, PUSHI , Operand: 255
+Offset: 31, LOADGINT , Operand: 118
+Offset: 32, ISUB , Operand: 0
+Offset: 33, PUSHI , Operand: 47251459
+Offset: 34, Unref Method: 2103, Operand: 0
+Offset: 35, RETURN , Operand: 0

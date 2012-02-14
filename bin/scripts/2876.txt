@@ -1,0 +1,25 @@
+================================================
+      Client Script 2876 Dumped by SiniSoul    
+      Instruction Size: 14
+      Integer Arguments: 0 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, Unref Opcode: 25, Operand: 7079
+Offset: 1, PUSHI , Operand: 1
+Offset: 2, IFEQ , Operand: 1
+Offset: 3, GOTO , Operand: 4
+Offset: 4, PUSHI , Operand: 2437
+Offset: 5, PUSHI , Operand: 12255245
+Offset: 6, Unref Method: 2105, Operand: 0
+Offset: 7, GOTO , Operand: 3
+Offset: 8, PUSHI , Operand: 2436
+Offset: 9, PUSHI , Operand: 12255245
+Offset: 10, Unref Method: 2105, Operand: 0
+Offset: 11, PUSHI , Operand: 0
+Offset: 12, STOREGINT , Operand: 2
+Offset: 13, RETURN , Operand: 0

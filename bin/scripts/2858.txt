@@ -1,0 +1,20 @@
+================================================
+      Client Script 2858 Dumped by SiniSoul    
+      Instruction Size: 9
+      Integer Arguments: 0 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADGINT , Operand: 1069
+Offset: 1, PUSHI , Operand: 5000
+Offset: 2, IFLT , Operand: 1
+Offset: 3, GOTO , Operand: 4
+Offset: 4, LOADGINT , Operand: 1069
+Offset: 5, PUSHI , Operand: 50
+Offset: 6, IADD , Operand: 0
+Offset: 7, STOREGINT , Operand: 1069
+Offset: 8, RETURN , Operand: 0

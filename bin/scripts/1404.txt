@@ -1,0 +1,36 @@
+================================================
+      Client Script 1404 Dumped by SiniSoul    
+      Instruction Size: 25
+      Integer Arguments: 6 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, Unref Opcode: 25, Operand: 5367
+Offset: 1, LOADINT , Operand: 0
+Offset: 2, LOADINT , Operand: 1
+Offset: 3, LOADINT , Operand: 2
+Offset: 4, CALL , Operand: 1839
+Offset: 5, LOADINT , Operand: 5
+Offset: 6, Unref Opcode: 25, Operand: 6175
+Offset: 7, IFNE , Operand: 1
+Offset: 8, GOTO , Operand: 14
+Offset: 9, PUSHI , Operand: 1404
+Offset: 10, LOADINT , Operand: 0
+Offset: 11, LOADINT , Operand: 1
+Offset: 12, LOADINT , Operand: 2
+Offset: 13, LOADINT , Operand: 3
+Offset: 14, LOADINT , Operand: 4
+Offset: 15, Unref Opcode: 25, Operand: 6175
+Offset: 16, PUSHI , Operand: 463
+Offset: 17, PUSHI , Operand: 1
+Offset: 18, PUSHS , Operand: IIIIIiY
+Offset: 19, LOADINT , Operand: 4
+Offset: 20, setInterfaceDefinitionScriptParams7 , Operand: 0
+Offset: 21, LOADINT , Operand: 3
+Offset: 22, CALL , Operand: 2046
+Offset: 23, CALL , Operand: 307
+Offset: 24, RETURN , Operand: 0

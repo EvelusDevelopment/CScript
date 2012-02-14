@@ -1,0 +1,47 @@
+================================================
+      Client Script 2332 Dumped by SiniSoul    
+      Instruction Size: 36
+      Integer Arguments: 2 
+      String  Arguments: 3 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADSTR , Operand: 0
+Offset: 1, LOADSTR , Operand: 1
+Offset: 2, PUSHI , Operand: 0
+Offset: 3, indexOfStrInString , Operand: 0
+Offset: 4, STOREINT , Operand: 0
+Offset: 5, LOADSTR , Operand: 1
+Offset: 6, getStringLength , Operand: 0
+Offset: 7, STOREINT , Operand: 1
+Offset: 8, LOADINT , Operand: 0
+Offset: 9, PUSHI , Operand: -1
+Offset: 10, IFNE , Operand: 1
+Offset: 11, GOTO , Operand: 20
+Offset: 12, LOADSTR , Operand: 0
+Offset: 13, PUSHI , Operand: 0
+Offset: 14, LOADINT , Operand: 0
+Offset: 15, Unref Method: 4118, Operand: 0
+Offset: 16, LOADSTR , Operand: 2
+Offset: 17, LOADSTR , Operand: 0
+Offset: 18, LOADINT , Operand: 0
+Offset: 19, LOADINT , Operand: 1
+Offset: 20, IADD , Operand: 0
+Offset: 21, LOADSTR , Operand: 0
+Offset: 22, getStringLength , Operand: 0
+Offset: 23, Unref Method: 4118, Operand: 0
+Offset: 24, CONCAT , Operand: 3
+Offset: 25, STORESTR , Operand: 0
+Offset: 26, LOADSTR , Operand: 0
+Offset: 27, LOADSTR , Operand: 1
+Offset: 28, LOADINT , Operand: 0
+Offset: 29, indexOfStrInString , Operand: 0
+Offset: 30, STOREINT , Operand: 0
+Offset: 31, GOTO , Operand: -24
+Offset: 32, LOADSTR , Operand: 0
+Offset: 33, RETURN , Operand: 0
+Offset: 34, PUSHS , Operand: 
+Offset: 35, RETURN , Operand: 0

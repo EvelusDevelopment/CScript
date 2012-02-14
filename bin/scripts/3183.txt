@@ -1,0 +1,27 @@
+================================================
+      Client Script 3183 Dumped by SiniSoul    
+      Instruction Size: 16
+      Integer Arguments: 0 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADGSTR , Operand: 277
+Offset: 1, getStringLength , Operand: 0
+Offset: 2, PUSHI , Operand: 0
+Offset: 3, IFLTEQ , Operand: 1
+Offset: 4, GOTO , Operand: 1
+Offset: 5, RETURN , Operand: 0
+Offset: 6, LOADGSTR , Operand: 277
+Offset: 7, STOREGSTR , Operand: 279
+Offset: 8, CALL , Operand: 3180
+Offset: 9, LOADGSTR , Operand: 279
+Offset: 10, getStringLength , Operand: 0
+Offset: 11, PUSHI , Operand: 0
+Offset: 12, IFGT , Operand: 1
+Offset: 13, GOTO , Operand: 1
+Offset: 14, CALL , Operand: 3190
+Offset: 15, RETURN , Operand: 0

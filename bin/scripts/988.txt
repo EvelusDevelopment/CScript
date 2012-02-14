@@ -1,0 +1,1174 @@
+================================================
+      Client Script 988 Dumped by SiniSoul    
+      Instruction Size: 1050
+      Integer Arguments: 2 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADINT , Operand: 0
+Offset: 1, SWITCH , Operand: 0
+Offset: 2, GOTO , Operand: 1042
+Offset: 3, LOADINT , Operand: 1
+Offset: 4, SWITCH , Operand: 1
+Offset: 5, GOTO , Operand: 346
+Offset: 6, PUSHI , Operand: 1
+Offset: 7, PUSHI , Operand: 4155
+Offset: 8, PUSHS , Operand: Enchanted gem
+Offset: 9, PUSHS , Operand: You can now use an 
+Offset: 10, PUSHS , Operand: <col=000080>
+Offset: 11, PUSHS , Operand: enchanted gem
+Offset: 12, PUSHS , Operand: </col>
+Offset: 13, PUSHS , Operand:  to communicate with your Slayer Master.
+Offset: 14, CONCAT , Operand: 5
+Offset: 15, RETURN , Operand: 0
+Offset: 16, GOTO , Operand: 335
+Offset: 17, PUSHI , Operand: 1
+Offset: 18, PUSHI , Operand: 4161
+Offset: 19, PUSHS , Operand: Bag of salt
+Offset: 20, PUSHS , Operand: You can now use 
+Offset: 21, PUSHS , Operand: <col=000080>
+Offset: 22, PUSHS , Operand: bags of salt
+Offset: 23, PUSHS , Operand: </col>
+Offset: 24, PUSHS , Operand:  to finish off rock slugs.
+Offset: 25, CONCAT , Operand: 5
+Offset: 26, RETURN , Operand: 0
+Offset: 27, GOTO , Operand: 324
+Offset: 28, PUSHI , Operand: 1
+Offset: 29, PUSHI , Operand: 6696
+Offset: 30, PUSHS , Operand: Ice cooler
+Offset: 31, PUSHS , Operand: You can now use 
+Offset: 32, PUSHS , Operand: <col=000080>
+Offset: 33, PUSHS , Operand: ice coolers
+Offset: 34, PUSHS , Operand: </col>
+Offset: 35, PUSHS , Operand: to finish off desert lizards.
+Offset: 36, CONCAT , Operand: 5
+Offset: 37, RETURN , Operand: 0
+Offset: 38, GOTO , Operand: 313
+Offset: 39, PUSHI , Operand: 1
+Offset: 40, PUSHI , Operand: 4551
+Offset: 41, PUSHS , Operand: Spiny helmet
+Offset: 42, PUSHS , Operand: <br>
+Offset: 43, PUSHS , Operand:  (with 5 Defence)
+Offset: 44, CONCAT , Operand: 3
+Offset: 45, PUSHS , Operand: You now have the Slayer level required to wear a 
+Offset: 46, PUSHS , Operand: <col=000080>
+Offset: 47, PUSHS , Operand: spiny helmet
+Offset: 48, PUSHS , Operand: </col>
+Offset: 49, PUSHS , Operand:  to fend off wall beast attacks. (You also need level 5 Defence.
+Offset: 50, CONCAT , Operand: 5
+Offset: 51, RETURN , Operand: 0
+Offset: 52, GOTO , Operand: 299
+Offset: 53, PUSHI , Operand: 1
+Offset: 54, PUSHI , Operand: 4162
+Offset: 55, PUSHS , Operand: Rock hammer
+Offset: 56, PUSHS , Operand: You can now use 
+Offset: 57, PUSHS , Operand: <col=000080>
+Offset: 58, PUSHS , Operand: rock hammers
+Offset: 59, PUSHS , Operand: </col>
+Offset: 60, PUSHS , Operand:  to kill weakened gargoyles.
+Offset: 61, CONCAT , Operand: 5
+Offset: 62, RETURN , Operand: 0
+Offset: 63, GOTO , Operand: 288
+Offset: 64, PUSHI , Operand: 1
+Offset: 65, PUSHI , Operand: 15490
+Offset: 66, PUSHS , Operand: Members: Focus sight
+Offset: 67, PUSHS , Operand: <br>
+Offset: 68, PUSHS , Operand:  (with 20 Ranged and 10 Defence)
+Offset: 69, CONCAT , Operand: 3
+Offset: 70, PUSHS , Operand: Members can now wear 
+Offset: 71, PUSHS , Operand: <col=000080>
+Offset: 72, PUSHS , Operand: focus sights
+Offset: 73, PUSHS , Operand: </col>
+Offset: 74, PUSHS , Operand: .
+Offset: 75, CONCAT , Operand: 5
+Offset: 76, RETURN , Operand: 0
+Offset: 77, GOTO , Operand: 274
+Offset: 78, PUSHI , Operand: 1
+Offset: 79, PUSHI , Operand: 15488
+Offset: 80, PUSHS , Operand: Members: Hexcrest
+Offset: 81, PUSHS , Operand: <br>
+Offset: 82, PUSHS , Operand:  (with 20 Magic and 10 Defence)
+Offset: 83, CONCAT , Operand: 3
+Offset: 84, PUSHS , Operand: Members can now wear 
+Offset: 85, PUSHS , Operand: <col=000080>
+Offset: 86, PUSHS , Operand: hexcrests
+Offset: 87, PUSHS , Operand: </col>
+Offset: 88, PUSHS , Operand: .
+Offset: 89, CONCAT , Operand: 5
+Offset: 90, RETURN , Operand: 0
+Offset: 91, GOTO , Operand: 260
+Offset: 92, PUSHI , Operand: 1
+Offset: 93, PUSHI , Operand: 8921
+Offset: 94, PUSHS , Operand: Members: Black mask
+Offset: 95, PUSHS , Operand: <br>
+Offset: 96, PUSHS , Operand:  (with 20 Strength and 10 Defence)
+Offset: 97, CONCAT , Operand: 3
+Offset: 98, PUSHS , Operand: Members can now wear 
+Offset: 99, PUSHS , Operand: <col=000080>
+Offset: 100, PUSHS , Operand: black masks
+Offset: 101, PUSHS , Operand: </col>
+Offset: 102, PUSHS , Operand: .
+Offset: 103, CONCAT , Operand: 5
+Offset: 104, RETURN , Operand: 0
+Offset: 105, GOTO , Operand: 246
+Offset: 106, PUSHI , Operand: 1
+Offset: 107, PUSHI , Operand: 13263
+Offset: 108, PUSHS , Operand: Members: Slayer helmet
+Offset: 109, PUSHS , Operand: <br>
+Offset: 110, PUSHS , Operand:  (after Smoking Kills)
+Offset: 111, CONCAT , Operand: 3
+Offset: 112, PUSHS , Operand: Members can now wear 
+Offset: 113, PUSHS , Operand: <col=000080>
+Offset: 114, PUSHS , Operand: slayer helmets
+Offset: 115, PUSHS , Operand: </col>
+Offset: 116, PUSHS , Operand:  (after Smoking Kills).
+Offset: 117, CONCAT , Operand: 5
+Offset: 118, RETURN , Operand: 0
+Offset: 119, GOTO , Operand: 232
+Offset: 120, PUSHI , Operand: 1
+Offset: 121, PUSHI , Operand: 15492
+Offset: 122, PUSHS , Operand: Members: Full Slayer helmet
+Offset: 123, PUSHS , Operand: <br>
+Offset: 124, PUSHS , Operand:  (after Smoking Kills with 20 Ranged, Magic, Strength and 10 Defence)
+Offset: 125, CONCAT , Operand: 3
+Offset: 126, PUSHS , Operand: Members can now wear 
+Offset: 127, PUSHS , Operand: <col=000080>
+Offset: 128, PUSHS , Operand: full slayer helmets
+Offset: 129, PUSHS , Operand: </col>
+Offset: 130, PUSHS , Operand:  (after Smoking Kills with 20 Ranged, Magic, Strength and 10 Defence).
+Offset: 131, CONCAT , Operand: 5
+Offset: 132, RETURN , Operand: 0
+Offset: 133, GOTO , Operand: 218
+Offset: 134, PUSHI , Operand: 10
+Offset: 135, PUSHI , Operand: 4164
+Offset: 136, PUSHS , Operand: Face mask
+Offset: 137, PUSHS , Operand: You can now wear the 
+Offset: 138, PUSHS , Operand: <col=000080>
+Offset: 139, PUSHS , Operand: face mask
+Offset: 140, PUSHS , Operand: </col>
+Offset: 141, PUSHS , Operand:  needed to kill dust devils.
+Offset: 142, CONCAT , Operand: 5
+Offset: 143, RETURN , Operand: 0
+Offset: 144, GOTO , Operand: 207
+Offset: 145, PUSHI , Operand: 15
+Offset: 146, PUSHI , Operand: 4166
+Offset: 147, PUSHS , Operand: Earmuffs
+Offset: 148, PUSHS , Operand: You can now wear 
+Offset: 149, PUSHS , Operand: <col=000080>
+Offset: 150, PUSHS , Operand: earmuffs
+Offset: 151, PUSHS , Operand: </col>
+Offset: 152, PUSHS , Operand:  to protect yourself against banshees.
+Offset: 153, CONCAT , Operand: 5
+Offset: 154, RETURN , Operand: 0
+Offset: 155, GOTO , Operand: 196
+Offset: 156, PUSHI , Operand: 25
+Offset: 157, PUSHI , Operand: 4156
+Offset: 158, PUSHS , Operand: Mirror shield
+Offset: 159, PUSHS , Operand: <br>
+Offset: 160, PUSHS , Operand:  (with 20 Defence)
+Offset: 161, CONCAT , Operand: 3
+Offset: 162, PUSHS , Operand: You now have the Slayer level required to wield 
+Offset: 163, PUSHS , Operand: <col=000080>
+Offset: 164, PUSHS , Operand: mirror shields
+Offset: 165, PUSHS , Operand: </col>
+Offset: 166, PUSHS , Operand:  to protect yourself from cockatrices and basilisks. (You also need level 20 Defence.)
+Offset: 167, CONCAT , Operand: 5
+Offset: 168, RETURN , Operand: 0
+Offset: 169, GOTO , Operand: 182
+Offset: 170, PUSHI , Operand: 32
+Offset: 171, PUSHI , Operand: 6660
+Offset: 172, PUSHS , Operand: Fishing explosive
+Offset: 173, PUSHS , Operand: You can now use 
+Offset: 174, PUSHS , Operand: <col=000080>
+Offset: 175, PUSHS , Operand: fishing explosives
+Offset: 176, PUSHS , Operand: </col>
+Offset: 177, PUSHS , Operand:  to lure mogres.
+Offset: 178, CONCAT , Operand: 5
+Offset: 179, RETURN , Operand: 0
+Offset: 180, GOTO , Operand: 171
+Offset: 181, PUSHI , Operand: 33
+Offset: 182, PUSHI , Operand: 7053
+Offset: 183, PUSHS , Operand: Harpie bug lantern
+Offset: 184, PUSHS , Operand: <br>
+Offset: 185, PUSHS , Operand:  (not a light source)
+Offset: 186, CONCAT , Operand: 3
+Offset: 187, PUSHS , Operand: You can now use 
+Offset: 188, PUSHS , Operand: <col=000080>
+Offset: 189, PUSHS , Operand: harpie bug lanterns
+Offset: 190, PUSHS , Operand: </col>
+Offset: 191, PUSHS , Operand:  to fend off harpie bug swarms so that you can attack.
+Offset: 192, CONCAT , Operand: 5
+Offset: 193, RETURN , Operand: 0
+Offset: 194, GOTO , Operand: 157
+Offset: 195, PUSHI , Operand: 35
+Offset: 196, PUSHI , Operand: 8923
+Offset: 197, PUSHS , Operand: Witchwood icon
+Offset: 198, PUSHS , Operand: You can now wear 
+Offset: 199, PUSHS , Operand: <col=000080>
+Offset: 200, PUSHS , Operand: witchwood icons
+Offset: 201, PUSHS , Operand: </col>
+Offset: 202, PUSHS , Operand:  to protect yourself from cave horrors.
+Offset: 203, CONCAT , Operand: 5
+Offset: 204, RETURN , Operand: 0
+Offset: 205, GOTO , Operand: 146
+Offset: 206, PUSHI , Operand: 37
+Offset: 207, PUSHI , Operand: 7159
+Offset: 208, PUSHS , Operand: Insulated boots
+Offset: 209, PUSHS , Operand: You can now wear 
+Offset: 210, PUSHS , Operand: <col=000080>
+Offset: 211, PUSHS , Operand: insulated boots
+Offset: 212, PUSHS , Operand: </col>
+Offset: 213, PUSHS , Operand:  to protect yourself from killerwatt shocks.
+Offset: 214, CONCAT , Operand: 5
+Offset: 215, RETURN , Operand: 0
+Offset: 216, GOTO , Operand: 135
+Offset: 217, PUSHI , Operand: 39
+Offset: 218, PUSHI , Operand: 10952
+Offset: 219, PUSHS , Operand: Slayer bell
+Offset: 220, PUSHS , Operand: You can now use 
+Offset: 221, PUSHS , Operand: <col=000080>
+Offset: 222, PUSHS , Operand: slayer bells
+Offset: 223, PUSHS , Operand: </col>
+Offset: 224, PUSHS , Operand: , which allow molanisks to be attacked.
+Offset: 225, CONCAT , Operand: 5
+Offset: 226, RETURN , Operand: 0
+Offset: 227, GOTO , Operand: 124
+Offset: 228, PUSHI , Operand: 42
+Offset: 229, PUSHI , Operand: 6720
+Offset: 230, PUSHS , Operand: Slayer gloves
+Offset: 231, PUSHS , Operand: You can now wear 
+Offset: 232, PUSHS , Operand: <col=000080>
+Offset: 233, PUSHS , Operand: slayer gloves
+Offset: 234, PUSHS , Operand: </col>
+Offset: 235, PUSHS , Operand:  to protect yourself from fever spiders.
+Offset: 236, CONCAT , Operand: 5
+Offset: 237, RETURN , Operand: 0
+Offset: 238, GOTO , Operand: 113
+Offset: 239, PUSHI , Operand: 55
+Offset: 240, PUSHI , Operand: 4158
+Offset: 241, PUSHS , Operand: Leaf-bladed spear
+Offset: 242, PUSHS , Operand: <br>
+Offset: 243, PUSHS , Operand:  (with 50 Attack)
+Offset: 244, CONCAT , Operand: 3
+Offset: 245, PUSHS , Operand: You now have the Slayer level required to wield 
+Offset: 246, PUSHS , Operand: <col=000080>
+Offset: 247, PUSHS , Operand: leaf-bladed spears
+Offset: 248, PUSHS , Operand: </col>
+Offset: 249, PUSHS , Operand: , melee weapons used for killing turoth and kurask. (You also need level 50 Attack.)
+Offset: 250, CONCAT , Operand: 5
+Offset: 251, RETURN , Operand: 0
+Offset: 252, GOTO , Operand: 99
+Offset: 253, PUSHI , Operand: 55
+Offset: 254, PUSHI , Operand: 4150
+Offset: 255, PUSHS , Operand: Broad arrows
+Offset: 256, PUSHS , Operand: <br>
+Offset: 257, PUSHS , Operand:  (with 50 Ranged)
+Offset: 258, CONCAT , Operand: 3
+Offset: 259, PUSHS , Operand: You now have the Slayer level required to fire 
+Offset: 260, PUSHS , Operand: <col=000080>
+Offset: 261, PUSHS , Operand: broad arrows
+Offset: 262, PUSHS , Operand: </col>
+Offset: 263, PUSHS , Operand: , ranged weapons used for killing turoth and kurask. (You also need level 50 Ranged.)
+Offset: 264, CONCAT , Operand: 5
+Offset: 265, RETURN , Operand: 0
+Offset: 266, GOTO , Operand: 85
+Offset: 267, PUSHI , Operand: 55
+Offset: 268, PUSHI , Operand: 13280
+Offset: 269, PUSHS , Operand: Broad-tipped bolts
+Offset: 270, PUSHS , Operand: <br>
+Offset: 271, PUSHS , Operand:  (with 50 Ranged)
+Offset: 272, CONCAT , Operand: 3
+Offset: 273, PUSHS , Operand: You now have the Slayer level required to fire 
+Offset: 274, PUSHS , Operand: <col=000080>
+Offset: 275, PUSHS , Operand: broad bolts
+Offset: 276, PUSHS , Operand: </col>
+Offset: 277, PUSHS , Operand: , ranged weapons used for killing turoth and kurask. (You also need level 50 Ranged.)
+Offset: 278, CONCAT , Operand: 5
+Offset: 279, RETURN , Operand: 0
+Offset: 280, GOTO , Operand: 71
+Offset: 281, PUSHI , Operand: 55
+Offset: 282, PUSHI , Operand: 4170
+Offset: 283, PUSHS , Operand: Slayer's staff
+Offset: 284, PUSHS , Operand: <br>
+Offset: 285, PUSHS , Operand:  (with 50 Magic)
+Offset: 286, CONCAT , Operand: 3
+Offset: 287, PUSHS , Operand: You now have the Slayer level required to wield 
+Offset: 288, PUSHS , Operand: <col=000080>
+Offset: 289, PUSHS , Operand: slayer's staves
+Offset: 290, PUSHS , Operand: </col>
+Offset: 291, PUSHS , Operand: , magic weapons used for killing turoth and kurask. (You also need level 50 Magic.)
+Offset: 292, CONCAT , Operand: 5
+Offset: 293, RETURN , Operand: 0
+Offset: 294, GOTO , Operand: 57
+Offset: 295, PUSHI , Operand: 55
+Offset: 296, PUSHI , Operand: 13290
+Offset: 297, PUSHS , Operand: Leaf-bladed swords
+Offset: 298, PUSHS , Operand: <br>
+Offset: 299, PUSHS , Operand:  (after Smoking Kills, with 50 Attack)
+Offset: 300, CONCAT , Operand: 3
+Offset: 301, PUSHS , Operand: You now have the Slayer level required to wield 
+Offset: 302, PUSHS , Operand: <col=000080>
+Offset: 303, PUSHS , Operand: leaf-bladed swords
+Offset: 304, PUSHS , Operand: </col>
+Offset: 305, PUSHS , Operand: , melee weapons used for killing turoth and kurask (after Smoking Kills and with level 50 Attack).
+Offset: 306, CONCAT , Operand: 5
+Offset: 307, RETURN , Operand: 0
+Offset: 308, GOTO , Operand: 43
+Offset: 309, PUSHI , Operand: 56
+Offset: 310, PUSHI , Operand: 11749
+Offset: 311, PUSHS , Operand: Crystal chime
+Offset: 312, PUSHS , Operand: You can now use a 
+Offset: 313, PUSHS , Operand: <col=000080>
+Offset: 314, PUSHS , Operand: crystal chime
+Offset: 315, PUSHS , Operand: </col>
+Offset: 316, PUSHS , Operand:  to kill warped terrorbirds and warped tortoises.
+Offset: 317, CONCAT , Operand: 5
+Offset: 318, RETURN , Operand: 0
+Offset: 319, GOTO , Operand: 32
+Offset: 320, PUSHI , Operand: 57
+Offset: 321, PUSHI , Operand: 7432
+Offset: 322, PUSHS , Operand: Fungicide spray
+Offset: 323, PUSHS , Operand: You can now use 
+Offset: 324, PUSHS , Operand: <col=000080>
+Offset: 325, PUSHS , Operand: fungicide spray
+Offset: 326, PUSHS , Operand: </col>
+Offset: 327, PUSHS , Operand:  to finish off mutated zygomites.
+Offset: 328, CONCAT , Operand: 5
+Offset: 329, RETURN , Operand: 0
+Offset: 330, GOTO , Operand: 21
+Offset: 331, PUSHI , Operand: 60
+Offset: 332, PUSHI , Operand: 4168
+Offset: 333, PUSHS , Operand: Nose peg
+Offset: 334, PUSHS , Operand: You can now wear a 
+Offset: 335, PUSHS , Operand: <col=000080>
+Offset: 336, PUSHS , Operand: nosepeg
+Offset: 337, PUSHS , Operand: </col>
+Offset: 338, PUSHS , Operand:  to protect yourself from aberrant spectres.
+Offset: 339, CONCAT , Operand: 5
+Offset: 340, RETURN , Operand: 0
+Offset: 341, GOTO , Operand: 10
+Offset: 342, PUSHI , Operand: 70
+Offset: 343, PUSHI , Operand: 12862
+Offset: 344, PUSHS , Operand: Dragon slayer gloves
+Offset: 345, PUSHS , Operand: You can now wear 
+Offset: 346, PUSHS , Operand: <col=000080>
+Offset: 347, PUSHS , Operand: dragon slayer gloves
+Offset: 348, PUSHS , Operand: </col>
+Offset: 349, PUSHS , Operand: .
+Offset: 350, CONCAT , Operand: 5
+Offset: 351, RETURN , Operand: 0
+Offset: 352, GOTO , Operand: 692
+Offset: 353, LOADINT , Operand: 1
+Offset: 354, SWITCH , Operand: 2
+Offset: 355, GOTO , Operand: 478
+Offset: 356, PUSHI , Operand: 5
+Offset: 357, PUSHI , Operand: 4133
+Offset: 358, PUSHS , Operand: Crawling hand
+Offset: 359, PUSHS , Operand: You can now slay 
+Offset: 360, PUSHS , Operand: <col=000080>
+Offset: 361, PUSHS , Operand: crawling hands
+Offset: 362, PUSHS , Operand: </col>
+Offset: 363, PUSHS , Operand: .
+Offset: 364, CONCAT , Operand: 5
+Offset: 365, RETURN , Operand: 0
+Offset: 366, GOTO , Operand: 467
+Offset: 367, PUSHI , Operand: 7
+Offset: 368, PUSHI , Operand: 4521
+Offset: 369, PUSHS , Operand: Cave bug
+Offset: 370, PUSHS , Operand: You can now slay 
+Offset: 371, PUSHS , Operand: <col=000080>
+Offset: 372, PUSHS , Operand: cave bugs
+Offset: 373, PUSHS , Operand: </col>
+Offset: 374, PUSHS , Operand: .
+Offset: 375, CONCAT , Operand: 5
+Offset: 376, RETURN , Operand: 0
+Offset: 377, GOTO , Operand: 456
+Offset: 378, PUSHI , Operand: 10
+Offset: 379, PUSHI , Operand: 4134
+Offset: 380, PUSHS , Operand: Cave crawler
+Offset: 381, PUSHS , Operand: You can now slay 
+Offset: 382, PUSHS , Operand: <col=000080>
+Offset: 383, PUSHS , Operand: cave crawlers
+Offset: 384, PUSHS , Operand: </col>
+Offset: 385, PUSHS , Operand: .
+Offset: 386, CONCAT , Operand: 5
+Offset: 387, RETURN , Operand: 0
+Offset: 388, GOTO , Operand: 445
+Offset: 389, PUSHI , Operand: 15
+Offset: 390, PUSHI , Operand: 4135
+Offset: 391, PUSHS , Operand: Banshee
+Offset: 392, PUSHS , Operand: You can now slay 
+Offset: 393, PUSHS , Operand: <col=000080>
+Offset: 394, PUSHS , Operand: banshees
+Offset: 395, PUSHS , Operand: </col>
+Offset: 396, PUSHS , Operand: .
+Offset: 397, CONCAT , Operand: 5
+Offset: 398, RETURN , Operand: 0
+Offset: 399, GOTO , Operand: 434
+Offset: 400, PUSHI , Operand: 17
+Offset: 401, PUSHI , Operand: 4520
+Offset: 402, PUSHS , Operand: Cave slime
+Offset: 403, PUSHS , Operand: You can now slay 
+Offset: 404, PUSHS , Operand: <col=000080>
+Offset: 405, PUSHS , Operand: cave slimes
+Offset: 406, PUSHS , Operand: </col>
+Offset: 407, PUSHS , Operand: .
+Offset: 408, CONCAT , Operand: 5
+Offset: 409, RETURN , Operand: 0
+Offset: 410, GOTO , Operand: 423
+Offset: 411, PUSHI , Operand: 20
+Offset: 412, PUSHI , Operand: 4136
+Offset: 413, PUSHS , Operand: Rockslug
+Offset: 414, PUSHS , Operand: You can now slay 
+Offset: 415, PUSHS , Operand: <col=000080>
+Offset: 416, PUSHS , Operand: rockslugs
+Offset: 417, PUSHS , Operand: </col>
+Offset: 418, PUSHS , Operand: .
+Offset: 419, CONCAT , Operand: 5
+Offset: 420, RETURN , Operand: 0
+Offset: 421, GOTO , Operand: 412
+Offset: 422, PUSHI , Operand: 22
+Offset: 423, PUSHI , Operand: 6695
+Offset: 424, PUSHS , Operand: Desert lizard
+Offset: 425, PUSHS , Operand: You can now slay 
+Offset: 426, PUSHS , Operand: <col=000080>
+Offset: 427, PUSHS , Operand: desert lizards
+Offset: 428, PUSHS , Operand: </col>
+Offset: 429, PUSHS , Operand: .
+Offset: 430, CONCAT , Operand: 5
+Offset: 431, RETURN , Operand: 0
+Offset: 432, GOTO , Operand: 401
+Offset: 433, PUSHI , Operand: 25
+Offset: 434, PUSHI , Operand: 4137
+Offset: 435, PUSHS , Operand: Cockatrice
+Offset: 436, PUSHS , Operand: You can now slay 
+Offset: 437, PUSHS , Operand: <col=000080>
+Offset: 438, PUSHS , Operand: cockatrices
+Offset: 439, PUSHS , Operand: </col>
+Offset: 440, PUSHS , Operand: .
+Offset: 441, CONCAT , Operand: 5
+Offset: 442, RETURN , Operand: 0
+Offset: 443, GOTO , Operand: 390
+Offset: 444, PUSHI , Operand: 30
+Offset: 445, PUSHI , Operand: 4138
+Offset: 446, PUSHS , Operand: Pyrefiend
+Offset: 447, PUSHS , Operand: You can now slay 
+Offset: 448, PUSHS , Operand: <col=000080>
+Offset: 449, PUSHS , Operand: pyrefiends
+Offset: 450, PUSHS , Operand: </col>
+Offset: 451, PUSHS , Operand: .
+Offset: 452, CONCAT , Operand: 5
+Offset: 453, RETURN , Operand: 0
+Offset: 454, GOTO , Operand: 379
+Offset: 455, PUSHI , Operand: 32
+Offset: 456, PUSHI , Operand: 6661
+Offset: 457, PUSHS , Operand: Mogre
+Offset: 458, PUSHS , Operand: You can now slay 
+Offset: 459, PUSHS , Operand: <col=000080>
+Offset: 460, PUSHS , Operand: mogres
+Offset: 461, PUSHS , Operand: </col>
+Offset: 462, PUSHS , Operand: .
+Offset: 463, CONCAT , Operand: 5
+Offset: 464, RETURN , Operand: 0
+Offset: 465, GOTO , Operand: 368
+Offset: 466, PUSHI , Operand: 33
+Offset: 467, PUSHI , Operand: 7050
+Offset: 468, PUSHS , Operand: Harpie bug swarm
+Offset: 469, PUSHS , Operand: You can now slay 
+Offset: 470, PUSHS , Operand: <col=000080>
+Offset: 471, PUSHS , Operand: harpie bug swarms
+Offset: 472, PUSHS , Operand: </col>
+Offset: 473, PUSHS , Operand: .
+Offset: 474, CONCAT , Operand: 5
+Offset: 475, RETURN , Operand: 0
+Offset: 476, GOTO , Operand: 357
+Offset: 477, PUSHI , Operand: 35
+Offset: 478, PUSHI , Operand: 4519
+Offset: 479, PUSHS , Operand: Wall beast
+Offset: 480, PUSHS , Operand: You can now slay 
+Offset: 481, PUSHS , Operand: <col=000080>
+Offset: 482, PUSHS , Operand: wall beasts
+Offset: 483, PUSHS , Operand: </col>
+Offset: 484, PUSHS , Operand: .
+Offset: 485, CONCAT , Operand: 5
+Offset: 486, RETURN , Operand: 0
+Offset: 487, GOTO , Operand: 346
+Offset: 488, PUSHI , Operand: 37
+Offset: 489, PUSHI , Operand: 7160
+Offset: 490, PUSHS , Operand: Killerwatt
+Offset: 491, PUSHS , Operand: You can now slay 
+Offset: 492, PUSHS , Operand: <col=000080>
+Offset: 493, PUSHS , Operand: killerwatts
+Offset: 494, PUSHS , Operand: </col>
+Offset: 495, PUSHS , Operand: .
+Offset: 496, CONCAT , Operand: 5
+Offset: 497, RETURN , Operand: 0
+Offset: 498, GOTO , Operand: 335
+Offset: 499, PUSHI , Operand: 39
+Offset: 500, PUSHI , Operand: 10997
+Offset: 501, PUSHS , Operand: Molanisk
+Offset: 502, PUSHS , Operand: You can now slay 
+Offset: 503, PUSHS , Operand: <col=000080>
+Offset: 504, PUSHS , Operand: molanisks
+Offset: 505, PUSHS , Operand: </col>
+Offset: 506, PUSHS , Operand: .
+Offset: 507, CONCAT , Operand: 5
+Offset: 508, RETURN , Operand: 0
+Offset: 509, GOTO , Operand: 324
+Offset: 510, PUSHI , Operand: 40
+Offset: 511, PUSHI , Operand: 4139
+Offset: 512, PUSHS , Operand: Basilisk
+Offset: 513, PUSHS , Operand: You can now slay 
+Offset: 514, PUSHS , Operand: <col=000080>
+Offset: 515, PUSHS , Operand: basilisks
+Offset: 516, PUSHS , Operand: </col>
+Offset: 517, PUSHS , Operand: .
+Offset: 518, CONCAT , Operand: 5
+Offset: 519, RETURN , Operand: 0
+Offset: 520, GOTO , Operand: 313
+Offset: 521, PUSHI , Operand: 40
+Offset: 522, PUSHI , Operand: 10591
+Offset: 523, PUSHS , Operand: Terror dog
+Offset: 524, PUSHS , Operand: You can now slay 
+Offset: 525, PUSHS , Operand: <col=000080>
+Offset: 526, PUSHS , Operand: terror dogs
+Offset: 527, PUSHS , Operand: </col>
+Offset: 528, PUSHS , Operand: .
+Offset: 529, CONCAT , Operand: 5
+Offset: 530, RETURN , Operand: 0
+Offset: 531, GOTO , Operand: 302
+Offset: 532, PUSHI , Operand: 42
+Offset: 533, PUSHI , Operand: 6709
+Offset: 534, PUSHS , Operand: Fever spider
+Offset: 535, PUSHS , Operand: You can now slay 
+Offset: 536, PUSHS , Operand: <col=000080>
+Offset: 537, PUSHS , Operand: fever spiders
+Offset: 538, PUSHS , Operand: </col>
+Offset: 539, PUSHS , Operand: .
+Offset: 540, CONCAT , Operand: 5
+Offset: 541, RETURN , Operand: 0
+Offset: 542, GOTO , Operand: 291
+Offset: 543, PUSHI , Operand: 45
+Offset: 544, PUSHI , Operand: 4140
+Offset: 545, PUSHS , Operand: Infernal mage
+Offset: 546, PUSHS , Operand: You can now slay 
+Offset: 547, PUSHS , Operand: <col=000080>
+Offset: 548, PUSHS , Operand: infernal mages
+Offset: 549, PUSHS , Operand: </col>
+Offset: 550, PUSHS , Operand: .
+Offset: 551, CONCAT , Operand: 5
+Offset: 552, RETURN , Operand: 0
+Offset: 553, GOTO , Operand: 280
+Offset: 554, PUSHI , Operand: 47
+Offset: 555, PUSHI , Operand: 11047
+Offset: 556, PUSHS , Operand: Brine rat
+Offset: 557, PUSHS , Operand: You can now slay 
+Offset: 558, PUSHS , Operand: <col=000080>
+Offset: 559, PUSHS , Operand: brine rats
+Offset: 560, PUSHS , Operand: </col>
+Offset: 561, PUSHS , Operand: .
+Offset: 562, CONCAT , Operand: 5
+Offset: 563, RETURN , Operand: 0
+Offset: 564, GOTO , Operand: 269
+Offset: 565, PUSHI , Operand: 50
+Offset: 566, PUSHI , Operand: 4141
+Offset: 567, PUSHS , Operand: Bloodveld
+Offset: 568, PUSHS , Operand: You can now slay 
+Offset: 569, PUSHS , Operand: <col=000080>
+Offset: 570, PUSHS , Operand: bloodvelds
+Offset: 571, PUSHS , Operand: </col>
+Offset: 572, PUSHS , Operand: .
+Offset: 573, CONCAT , Operand: 5
+Offset: 574, RETURN , Operand: 0
+Offset: 575, GOTO , Operand: 258
+Offset: 576, PUSHI , Operand: 51
+Offset: 577, PUSHI , Operand: 14618
+Offset: 578, PUSHS , Operand: Phoenix
+Offset: 579, PUSHS , Operand: <br>
+Offset: 580, PUSHS , Operand:  (after In Pyre Need)
+Offset: 581, CONCAT , Operand: 3
+Offset: 582, PUSHS , Operand: You can now slay the 
+Offset: 583, PUSHS , Operand: <col=000080>
+Offset: 584, PUSHS , Operand: phoenix
+Offset: 585, PUSHS , Operand: </col>
+Offset: 586, PUSHS , Operand: (after In Pyre Need).
+Offset: 587, CONCAT , Operand: 5
+Offset: 588, RETURN , Operand: 0
+Offset: 589, GOTO , Operand: 244
+Offset: 590, PUSHI , Operand: 52
+Offset: 591, PUSHI , Operand: 4142
+Offset: 592, PUSHS , Operand: Jelly
+Offset: 593, PUSHS , Operand: You can now slay 
+Offset: 594, PUSHS , Operand: <col=000080>
+Offset: 595, PUSHS , Operand: jellies
+Offset: 596, PUSHS , Operand: </col>
+Offset: 597, PUSHS , Operand: .
+Offset: 598, CONCAT , Operand: 5
+Offset: 599, RETURN , Operand: 0
+Offset: 600, GOTO , Operand: 233
+Offset: 601, PUSHI , Operand: 55
+Offset: 602, PUSHI , Operand: 4143
+Offset: 603, PUSHS , Operand: Turoth
+Offset: 604, PUSHS , Operand: You can now slay 
+Offset: 605, PUSHS , Operand: <col=000080>
+Offset: 606, PUSHS , Operand: turoths
+Offset: 607, PUSHS , Operand: </col>
+Offset: 608, PUSHS , Operand: .
+Offset: 609, CONCAT , Operand: 5
+Offset: 610, RETURN , Operand: 0
+Offset: 611, GOTO , Operand: 222
+Offset: 612, PUSHI , Operand: 56
+Offset: 613, PUSHI , Operand: 11752
+Offset: 614, PUSHS , Operand: Warped terrorbird
+Offset: 615, PUSHS , Operand: You can now slay 
+Offset: 616, PUSHS , Operand: <col=000080>
+Offset: 617, PUSHS , Operand: warped terrorbirds
+Offset: 618, PUSHS , Operand: </col>
+Offset: 619, PUSHS , Operand: .
+Offset: 620, CONCAT , Operand: 5
+Offset: 621, RETURN , Operand: 0
+Offset: 622, GOTO , Operand: 211
+Offset: 623, PUSHI , Operand: 56
+Offset: 624, PUSHI , Operand: 11751
+Offset: 625, PUSHS , Operand: Warped tortoise
+Offset: 626, PUSHS , Operand: You can now slay 
+Offset: 627, PUSHS , Operand: <col=000080>
+Offset: 628, PUSHS , Operand: warped tortoises
+Offset: 629, PUSHS , Operand: </col>
+Offset: 630, PUSHS , Operand: .
+Offset: 631, CONCAT , Operand: 5
+Offset: 632, RETURN , Operand: 0
+Offset: 633, GOTO , Operand: 200
+Offset: 634, PUSHI , Operand: 57
+Offset: 635, PUSHI , Operand: 7420
+Offset: 636, PUSHS , Operand: Mutated zygomite
+Offset: 637, PUSHS , Operand: You can now slay 
+Offset: 638, PUSHS , Operand: <col=000080>
+Offset: 639, PUSHS , Operand: mutated zygomites
+Offset: 640, PUSHS , Operand: </col>
+Offset: 641, PUSHS , Operand: .
+Offset: 642, CONCAT , Operand: 5
+Offset: 643, RETURN , Operand: 0
+Offset: 644, GOTO , Operand: 189
+Offset: 645, PUSHI , Operand: 58
+Offset: 646, PUSHI , Operand: 8900
+Offset: 647, PUSHS , Operand: Cave horror
+Offset: 648, PUSHS , Operand: You can now slay 
+Offset: 649, PUSHS , Operand: <col=000080>
+Offset: 650, PUSHS , Operand: cave horrors
+Offset: 651, PUSHS , Operand: </col>
+Offset: 652, PUSHS , Operand: .
+Offset: 653, CONCAT , Operand: 5
+Offset: 654, RETURN , Operand: 0
+Offset: 655, GOTO , Operand: 178
+Offset: 656, PUSHI , Operand: 59
+Offset: 657, PUSHI , Operand: 11779
+Offset: 658, PUSHS , Operand: Wild jade vine
+Offset: 659, PUSHS , Operand: <br>
+Offset: 660, PUSHS , Operand:  (after Back to My Roots)
+Offset: 661, CONCAT , Operand: 3
+Offset: 662, PUSHS , Operand: You now have the Slayer level required to slay 
+Offset: 663, PUSHS , Operand: <col=000080>
+Offset: 664, PUSHS , Operand: wild jade vines
+Offset: 665, PUSHS , Operand: </col>
+Offset: 666, PUSHS , Operand:  (after Back to My Roots).
+Offset: 667, CONCAT , Operand: 5
+Offset: 668, RETURN , Operand: 0
+Offset: 669, GOTO , Operand: 164
+Offset: 670, PUSHI , Operand: 60
+Offset: 671, PUSHI , Operand: 4144
+Offset: 672, PUSHS , Operand: Aberrant spectre
+Offset: 673, PUSHS , Operand: You can now slay 
+Offset: 674, PUSHS , Operand: <col=000080>
+Offset: 675, PUSHS , Operand: aberrant spectres
+Offset: 676, PUSHS , Operand: </col>
+Offset: 677, PUSHS , Operand: .
+Offset: 678, CONCAT , Operand: 5
+Offset: 679, RETURN , Operand: 0
+Offset: 680, GOTO , Operand: 153
+Offset: 681, PUSHI , Operand: 63
+Offset: 682, PUSHI , Operand: 11742
+Offset: 683, PUSHS , Operand: Spiritual ranger
+Offset: 684, PUSHS , Operand: You can now slay 
+Offset: 685, PUSHS , Operand: <col=000080>
+Offset: 686, PUSHS , Operand: spiritual rangers
+Offset: 687, PUSHS , Operand: </col>
+Offset: 688, PUSHS , Operand: .
+Offset: 689, CONCAT , Operand: 5
+Offset: 690, RETURN , Operand: 0
+Offset: 691, GOTO , Operand: 142
+Offset: 692, PUSHI , Operand: 65
+Offset: 693, PUSHI , Operand: 4145
+Offset: 694, PUSHS , Operand: Dust devil
+Offset: 695, PUSHS , Operand: You can now slay 
+Offset: 696, PUSHS , Operand: <col=000080>
+Offset: 697, PUSHS , Operand: dust devils
+Offset: 698, PUSHS , Operand: </col>
+Offset: 699, PUSHS , Operand: .
+Offset: 700, CONCAT , Operand: 5
+Offset: 701, RETURN , Operand: 0
+Offset: 702, GOTO , Operand: 131
+Offset: 703, PUSHI , Operand: 68
+Offset: 704, PUSHI , Operand: 11744
+Offset: 705, PUSHS , Operand: Spiritual warrior
+Offset: 706, PUSHS , Operand: You can now slay 
+Offset: 707, PUSHS , Operand: <col=000080>
+Offset: 708, PUSHS , Operand: spiritual warriors
+Offset: 709, PUSHS , Operand: </col>
+Offset: 710, PUSHS , Operand: .
+Offset: 711, CONCAT , Operand: 5
+Offset: 712, RETURN , Operand: 0
+Offset: 713, GOTO , Operand: 120
+Offset: 714, PUSHI , Operand: 70
+Offset: 715, PUSHI , Operand: 4146
+Offset: 716, PUSHS , Operand: Kurask
+Offset: 717, PUSHS , Operand: You can now slay 
+Offset: 718, PUSHS , Operand: <col=000080>
+Offset: 719, PUSHS , Operand: kurask
+Offset: 720, PUSHS , Operand: </col>
+Offset: 721, PUSHS , Operand: .
+Offset: 722, CONCAT , Operand: 5
+Offset: 723, RETURN , Operand: 0
+Offset: 724, GOTO , Operand: 109
+Offset: 725, PUSHI , Operand: 72
+Offset: 726, PUSHI , Operand: 6811
+Offset: 727, PUSHS , Operand: Skeletal wyvern
+Offset: 728, PUSHS , Operand: You can now slay 
+Offset: 729, PUSHS , Operand: <col=000080>
+Offset: 730, PUSHS , Operand: skeletal wyverns
+Offset: 731, PUSHS , Operand: </col>
+Offset: 732, PUSHS , Operand: .
+Offset: 733, CONCAT , Operand: 5
+Offset: 734, RETURN , Operand: 0
+Offset: 735, GOTO , Operand: 98
+Offset: 736, PUSHI , Operand: 73
+Offset: 737, PUSHI , Operand: 15499
+Offset: 738, PUSHS , Operand: Jungle strykewyrm
+Offset: 739, PUSHS , Operand: You can now slay 
+Offset: 740, PUSHS , Operand: <col=000080>
+Offset: 741, PUSHS , Operand: jungle strykewyrms
+Offset: 742, PUSHS , Operand: </col>
+Offset: 743, PUSHS , Operand: .
+Offset: 744, CONCAT , Operand: 5
+Offset: 745, RETURN , Operand: 0
+Offset: 746, GOTO , Operand: 87
+Offset: 747, PUSHI , Operand: 75
+Offset: 748, PUSHI , Operand: 4147
+Offset: 749, PUSHS , Operand: Gargoyle
+Offset: 750, PUSHS , Operand: You can now slay 
+Offset: 751, PUSHS , Operand: <col=000080>
+Offset: 752, PUSHS , Operand: gargoyles
+Offset: 753, PUSHS , Operand: </col>
+Offset: 754, PUSHS , Operand: .
+Offset: 755, CONCAT , Operand: 5
+Offset: 756, RETURN , Operand: 0
+Offset: 757, GOTO , Operand: 76
+Offset: 758, PUSHI , Operand: 77
+Offset: 759, PUSHI , Operand: 15498
+Offset: 760, PUSHS , Operand: Desert strykewyrm
+Offset: 761, PUSHS , Operand: You can now slay 
+Offset: 762, PUSHS , Operand: <col=000080>
+Offset: 763, PUSHS , Operand: desert strykewyrms
+Offset: 764, PUSHS , Operand: </col>
+Offset: 765, PUSHS , Operand: .
+Offset: 766, CONCAT , Operand: 5
+Offset: 767, RETURN , Operand: 0
+Offset: 768, GOTO , Operand: 65
+Offset: 769, PUSHI , Operand: 78
+Offset: 770, PUSHI , Operand: 15125
+Offset: 771, PUSHS , Operand: Aquanite
+Offset: 772, PUSHS , Operand: You can now slay 
+Offset: 773, PUSHS , Operand: <col=000080>
+Offset: 774, PUSHS , Operand: aquanites
+Offset: 775, PUSHS , Operand: </col>
+Offset: 776, PUSHS , Operand: .
+Offset: 777, CONCAT , Operand: 5
+Offset: 778, RETURN , Operand: 0
+Offset: 779, GOTO , Operand: 54
+Offset: 780, PUSHI , Operand: 80
+Offset: 781, PUSHI , Operand: 4148
+Offset: 782, PUSHS , Operand: Nechryael
+Offset: 783, PUSHS , Operand: You can now slay 
+Offset: 784, PUSHS , Operand: <col=000080>
+Offset: 785, PUSHS , Operand: nechryaels
+Offset: 786, PUSHS , Operand: </col>
+Offset: 787, PUSHS , Operand: .
+Offset: 788, CONCAT , Operand: 5
+Offset: 789, RETURN , Operand: 0
+Offset: 790, GOTO , Operand: 43
+Offset: 791, PUSHI , Operand: 83
+Offset: 792, PUSHI , Operand: 11740
+Offset: 793, PUSHS , Operand: Spiritual mage
+Offset: 794, PUSHS , Operand: You can now slay 
+Offset: 795, PUSHS , Operand: <col=000080>
+Offset: 796, PUSHS , Operand: spiritual mages
+Offset: 797, PUSHS , Operand: </col>
+Offset: 798, PUSHS , Operand: .
+Offset: 799, CONCAT , Operand: 5
+Offset: 800, RETURN , Operand: 0
+Offset: 801, GOTO , Operand: 32
+Offset: 802, PUSHI , Operand: 85
+Offset: 803, PUSHI , Operand: 4149
+Offset: 804, PUSHS , Operand: Abyssal demon
+Offset: 805, PUSHS , Operand: You can now slay 
+Offset: 806, PUSHS , Operand: <col=000080>
+Offset: 807, PUSHS , Operand: abyssal demons
+Offset: 808, PUSHS , Operand: </col>
+Offset: 809, PUSHS , Operand: .
+Offset: 810, CONCAT , Operand: 5
+Offset: 811, RETURN , Operand: 0
+Offset: 812, GOTO , Operand: 21
+Offset: 813, PUSHI , Operand: 90
+Offset: 814, PUSHI , Operand: 6637
+Offset: 815, PUSHS , Operand: Dark beast
+Offset: 816, PUSHS , Operand: You can now slay 
+Offset: 817, PUSHS , Operand: <col=000080>
+Offset: 818, PUSHS , Operand: dark beasts
+Offset: 819, PUSHS , Operand: </col>
+Offset: 820, PUSHS , Operand: .
+Offset: 821, CONCAT , Operand: 5
+Offset: 822, RETURN , Operand: 0
+Offset: 823, GOTO , Operand: 10
+Offset: 824, PUSHI , Operand: 93
+Offset: 825, PUSHI , Operand: 15500
+Offset: 826, PUSHS , Operand: Ice strykewyrm
+Offset: 827, PUSHS , Operand: You can now slay 
+Offset: 828, PUSHS , Operand: <col=000080>
+Offset: 829, PUSHS , Operand: ice strykewyrms
+Offset: 830, PUSHS , Operand: </col>
+Offset: 831, PUSHS , Operand: .
+Offset: 832, CONCAT , Operand: 5
+Offset: 833, RETURN , Operand: 0
+Offset: 834, GOTO , Operand: 210
+Offset: 835, LOADINT , Operand: 1
+Offset: 836, SWITCH , Operand: 3
+Offset: 837, GOTO , Operand: 125
+Offset: 838, PUSHI , Operand: 1
+Offset: 839, PUSHI , Operand: 4155
+Offset: 840, PUSHS , Operand: Burthorpe
+Offset: 841, PUSHS , Operand: <br>
+Offset: 842, PUSHS , Operand:  (with level 3 Combat)
+Offset: 843, CONCAT , Operand: 3
+Offset: 844, PUSHS , Operand: You can now receive 
+Offset: 845, PUSHS , Operand: <col=000080>
+Offset: 846, PUSHS , Operand: Slayer assignments
+Offset: 847, PUSHS , Operand: </col>
+Offset: 848, PUSHS , Operand:  from the 
+Offset: 849, PUSHS , Operand: <col=000080>
+Offset: 850, PUSHS , Operand: Burthorpe slayer master
+Offset: 851, PUSHS , Operand: </col>
+Offset: 852, PUSHS , Operand: .
+Offset: 853, CONCAT , Operand: 9
+Offset: 854, RETURN , Operand: 0
+Offset: 855, GOTO , Operand: 107
+Offset: 856, PUSHI , Operand: 1
+Offset: 857, PUSHI , Operand: 4155
+Offset: 858, PUSHS , Operand: Canifis
+Offset: 859, PUSHS , Operand: <br>
+Offset: 860, PUSHS , Operand:  (with level 20 Combat)
+Offset: 861, CONCAT , Operand: 3
+Offset: 862, PUSHS , Operand: You now have the Slayer level required to receive 
+Offset: 863, PUSHS , Operand: <col=000080>
+Offset: 864, PUSHS , Operand: slayer assignments
+Offset: 865, PUSHS , Operand: </col>
+Offset: 866, PUSHS , Operand:  from the 
+Offset: 867, PUSHS , Operand: <col=000080>
+Offset: 868, PUSHS , Operand: Canifis slayer master
+Offset: 869, PUSHS , Operand: </col>
+Offset: 870, PUSHS , Operand: . (You also need level 20 Combat.)
+Offset: 871, CONCAT , Operand: 9
+Offset: 872, RETURN , Operand: 0
+Offset: 873, GOTO , Operand: 89
+Offset: 874, PUSHI , Operand: 1
+Offset: 875, PUSHI , Operand: 4155
+Offset: 876, PUSHS , Operand: Edgeville Dungeon
+Offset: 877, PUSHS , Operand: <br>
+Offset: 878, PUSHS , Operand:  (with level 40 Combat)
+Offset: 879, CONCAT , Operand: 3
+Offset: 880, PUSHS , Operand: You now have the Slayer level required to receive 
+Offset: 881, PUSHS , Operand: <col=000080>
+Offset: 882, PUSHS , Operand: slayer assignments
+Offset: 883, PUSHS , Operand: </col>
+Offset: 884, PUSHS , Operand:  from the 
+Offset: 885, PUSHS , Operand: <col=000080>
+Offset: 886, PUSHS , Operand: Edgeville Dungeon slayer master
+Offset: 887, PUSHS , Operand: </col>
+Offset: 888, PUSHS , Operand: . (You also need level 40 Combat.)
+Offset: 889, CONCAT , Operand: 9
+Offset: 890, RETURN , Operand: 0
+Offset: 891, GOTO , Operand: 71
+Offset: 892, PUSHI , Operand: 1
+Offset: 893, PUSHI , Operand: 4155
+Offset: 894, PUSHS , Operand: Zanaris
+Offset: 895, PUSHS , Operand: <br>
+Offset: 896, PUSHS , Operand:  (with level 70 Combat)
+Offset: 897, CONCAT , Operand: 3
+Offset: 898, PUSHS , Operand: You now have the Slayer level required to receive 
+Offset: 899, PUSHS , Operand: <col=000080>
+Offset: 900, PUSHS , Operand: slayer assignments
+Offset: 901, PUSHS , Operand: </col>
+Offset: 902, PUSHS , Operand:  from the 
+Offset: 903, PUSHS , Operand: <col=000080>
+Offset: 904, PUSHS , Operand: Zanaris slayer master
+Offset: 905, PUSHS , Operand: </col>
+Offset: 906, PUSHS , Operand: . (You also need level 70 Combat.)
+Offset: 907, CONCAT , Operand: 9
+Offset: 908, RETURN , Operand: 0
+Offset: 909, GOTO , Operand: 53
+Offset: 910, PUSHI , Operand: 35
+Offset: 911, PUSHI , Operand: 4155
+Offset: 912, PUSHS , Operand: Pollnivneach
+Offset: 913, PUSHS , Operand: <br>
+Offset: 914, PUSHS , Operand:  (after Smoking Kills)
+Offset: 915, CONCAT , Operand: 3
+Offset: 916, PUSHS , Operand: You now have the Slayer level required to receive 
+Offset: 917, PUSHS , Operand: <col=000080>
+Offset: 918, PUSHS , Operand: slayer assignments
+Offset: 919, PUSHS , Operand: </col>
+Offset: 920, PUSHS , Operand:  from the 
+Offset: 921, PUSHS , Operand: <col=000080>
+Offset: 922, PUSHS , Operand: Pollnivneach slayer master
+Offset: 923, PUSHS , Operand: </col>
+Offset: 924, PUSHS , Operand:  (after Smoking Kills).
+Offset: 925, CONCAT , Operand: 9
+Offset: 926, RETURN , Operand: 0
+Offset: 927, GOTO , Operand: 35
+Offset: 928, PUSHI , Operand: 50
+Offset: 929, PUSHI , Operand: 4155
+Offset: 930, PUSHS , Operand: Shilo Village
+Offset: 931, PUSHS , Operand: <br>
+Offset: 932, PUSHS , Operand:  (with level 100 Combat)
+Offset: 933, CONCAT , Operand: 3
+Offset: 934, PUSHS , Operand: You now have the Slayer level required to receive 
+Offset: 935, PUSHS , Operand: <col=000080>
+Offset: 936, PUSHS , Operand: slayer assignments
+Offset: 937, PUSHS , Operand: </col>
+Offset: 938, PUSHS , Operand:  from the 
+Offset: 939, PUSHS , Operand: <col=000080>
+Offset: 940, PUSHS , Operand: Shilo Village slayer master
+Offset: 941, PUSHS , Operand: </col>
+Offset: 942, PUSHS , Operand: . (You also need level 100 Combat.)
+Offset: 943, CONCAT , Operand: 9
+Offset: 944, RETURN , Operand: 0
+Offset: 945, GOTO , Operand: 17
+Offset: 946, PUSHI , Operand: 75
+Offset: 947, PUSHI , Operand: 4155
+Offset: 948, PUSHS , Operand: Ancient cavern
+Offset: 949, PUSHS , Operand: <br>
+Offset: 950, PUSHS , Operand:  (with level 110 Combat)
+Offset: 951, CONCAT , Operand: 3
+Offset: 952, PUSHS , Operand: You now have the Slayer level required to receive 
+Offset: 953, PUSHS , Operand: <col=000080>
+Offset: 954, PUSHS , Operand: slayer assignments
+Offset: 955, PUSHS , Operand: </col>
+Offset: 956, PUSHS , Operand:  from the 
+Offset: 957, PUSHS , Operand: <col=000080>
+Offset: 958, PUSHS , Operand: Ancient Cavern slayer master
+Offset: 959, PUSHS , Operand: </col>
+Offset: 960, PUSHS , Operand: . (You also need level 110 Combat.)
+Offset: 961, CONCAT , Operand: 9
+Offset: 962, RETURN , Operand: 0
+Offset: 963, GOTO , Operand: 81
+Offset: 964, LOADINT , Operand: 1
+Offset: 965, SWITCH , Operand: 4
+Offset: 966, GOTO , Operand: 54
+Offset: 967, PUSHI , Operand: 41
+Offset: 968, PUSHI , Operand: 18504
+Offset: 969, PUSHS , Operand: Night spider
+Offset: 970, PUSHS , Operand: You can now slay 
+Offset: 971, PUSHS , Operand: <col=000080>
+Offset: 972, PUSHS , Operand: night spiders
+Offset: 973, PUSHS , Operand: </col>
+Offset: 974, PUSHS , Operand:  within Daemonheim.
+Offset: 975, CONCAT , Operand: 5
+Offset: 976, RETURN , Operand: 0
+Offset: 977, GOTO , Operand: 43
+Offset: 978, PUSHI , Operand: 63
+Offset: 979, PUSHI , Operand: 18506
+Offset: 980, PUSHS , Operand: Spiritual guardian
+Offset: 981, PUSHS , Operand: You can now slay 
+Offset: 982, PUSHS , Operand: <col=000080>
+Offset: 983, PUSHS , Operand: spiritual guardians
+Offset: 984, PUSHS , Operand: </col>
+Offset: 985, PUSHS , Operand:  within Daemonheim.
+Offset: 986, CONCAT , Operand: 5
+Offset: 987, RETURN , Operand: 0
+Offset: 988, GOTO , Operand: 32
+Offset: 989, PUSHI , Operand: 71
+Offset: 990, PUSHI , Operand: 18505
+Offset: 991, PUSHS , Operand: Seeker
+Offset: 992, PUSHS , Operand: You can now slay 
+Offset: 993, PUSHS , Operand: <col=000080>
+Offset: 994, PUSHS , Operand: seekers
+Offset: 995, PUSHS , Operand: </col>
+Offset: 996, PUSHS , Operand:  within Daemonheim.
+Offset: 997, CONCAT , Operand: 5
+Offset: 998, RETURN , Operand: 0
+Offset: 999, GOTO , Operand: 21
+Offset: 1000, PUSHI , Operand: 90
+Offset: 1001, PUSHI , Operand: 18503
+Offset: 1002, PUSHS , Operand: Edimmu
+Offset: 1003, PUSHS , Operand: You can now slay 
+Offset: 1004, PUSHS , Operand: <col=000080>
+Offset: 1005, PUSHS , Operand: edimmu
+Offset: 1006, PUSHS , Operand: </col>
+Offset: 1007, PUSHS , Operand:  within Daemonheim.
+Offset: 1008, CONCAT , Operand: 5
+Offset: 1009, RETURN , Operand: 0
+Offset: 1010, GOTO , Operand: 10
+Offset: 1011, PUSHI , Operand: 99
+Offset: 1012, PUSHI , Operand: 18507
+Offset: 1013, PUSHS , Operand: Soulgazer
+Offset: 1014, PUSHS , Operand: You can now slay 
+Offset: 1015, PUSHS , Operand: <col=000080>
+Offset: 1016, PUSHS , Operand: soulgazers
+Offset: 1017, PUSHS , Operand: </col>
+Offset: 1018, PUSHS , Operand:  within Daemonheim.
+Offset: 1019, CONCAT , Operand: 5
+Offset: 1020, RETURN , Operand: 0
+Offset: 1021, GOTO , Operand: 23
+Offset: 1022, LOADINT , Operand: 1
+Offset: 1023, PUSHI , Operand: 0
+Offset: 1024, IFEQ , Operand: 1
+Offset: 1025, GOTO , Operand: 19
+Offset: 1026, PUSHI , Operand: 99
+Offset: 1027, PUSHI , Operand: 9786
+Offset: 1028, PUSHS , Operand: Skill mastery
+Offset: 1029, PUSHS , Operand: <col=000080>
+Offset: 1030, PUSHS , Operand: Congratulations! You are now a master of 
+Offset: 1031, PUSHS , Operand: <col=800000>
+Offset: 1032, PUSHS , Operand: Slayer
+Offset: 1033, PUSHS , Operand: <col=000080>
+Offset: 1034, PUSHS , Operand: . Why not visit the 
+Offset: 1035, PUSHS , Operand: <col=800000>
+Offset: 1036, PUSHS , Operand: ancient cavern Slayer Master
+Offset: 1037, PUSHS , Operand: <col=000080>
+Offset: 1038, PUSHS , Operand: ? She has something special that is only available to true masters of the 
+Offset: 1039, PUSHS , Operand: <col=800000>
+Offset: 1040, PUSHS , Operand: Slayer
+Offset: 1041, PUSHS , Operand: <col=000080>
+Offset: 1042, PUSHS , Operand:  skill!
+Offset: 1043, CONCAT , Operand: 14
+Offset: 1044, RETURN , Operand: 0
+Offset: 1045, PUSHI , Operand: 0
+Offset: 1046, PUSHI , Operand: -1
+Offset: 1047, PUSHS , Operand: 
+Offset: 1048, PUSHS , Operand: 
+Offset: 1049, RETURN , Operand: 0
+
+================================================
+                Switch Table 0                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 351
+Key: 2, Value: 833
+Key: 3, Value: 962
+Key: 4, Value: 1020
+
+================================================
+                Switch Table 1                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 12
+Key: 2, Value: 23
+Key: 3, Value: 34
+Key: 4, Value: 48
+Key: 5, Value: 59
+Key: 6, Value: 73
+Key: 7, Value: 87
+Key: 8, Value: 101
+Key: 9, Value: 115
+Key: 10, Value: 129
+Key: 11, Value: 140
+Key: 12, Value: 151
+Key: 13, Value: 165
+Key: 14, Value: 176
+Key: 15, Value: 190
+Key: 17, Value: 212
+Key: 16, Value: 201
+Key: 19, Value: 234
+Key: 18, Value: 223
+Key: 21, Value: 262
+Key: 20, Value: 248
+Key: 23, Value: 290
+Key: 22, Value: 276
+Key: 25, Value: 315
+Key: 24, Value: 304
+Key: 27, Value: 337
+Key: 26, Value: 326
+
+================================================
+                Switch Table 2                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 12
+Key: 2, Value: 23
+Key: 3, Value: 34
+Key: 4, Value: 45
+Key: 5, Value: 56
+Key: 6, Value: 67
+Key: 7, Value: 78
+Key: 8, Value: 89
+Key: 9, Value: 100
+Key: 10, Value: 111
+Key: 11, Value: 122
+Key: 12, Value: 133
+Key: 13, Value: 144
+Key: 14, Value: 155
+Key: 15, Value: 166
+Key: 17, Value: 188
+Key: 16, Value: 177
+Key: 19, Value: 210
+Key: 18, Value: 199
+Key: 21, Value: 235
+Key: 20, Value: 221
+Key: 23, Value: 257
+Key: 22, Value: 246
+Key: 25, Value: 279
+Key: 24, Value: 268
+Key: 27, Value: 301
+Key: 26, Value: 290
+Key: 29, Value: 326
+Key: 28, Value: 315
+Key: 31, Value: 348
+Key: 30, Value: 337
+Key: 34, Value: 381
+Key: 35, Value: 392
+Key: 32, Value: 359
+Key: 33, Value: 370
+Key: 38, Value: 425
+Key: 39, Value: 436
+Key: 36, Value: 403
+Key: 37, Value: 414
+Key: 42, Value: 469
+Key: 40, Value: 447
+Key: 41, Value: 458
+
+================================================
+                Switch Table 3                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 19
+Key: 2, Value: 37
+Key: 3, Value: 55
+Key: 4, Value: 73
+Key: 5, Value: 91
+Key: 6, Value: 109
+
+================================================
+                Switch Table 4                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 12
+Key: 2, Value: 23
+Key: 3, Value: 34
+Key: 4, Value: 45

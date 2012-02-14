@@ -1,0 +1,21 @@
+================================================
+      Client Script 801 Dumped by SiniSoul    
+      Instruction Size: 10
+      Integer Arguments: 2 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADINT , Operand: 1
+Offset: 1, CALL , Operand: 805
+Offset: 2, LOADINT , Operand: 0
+Offset: 3, Unref Method: 2101, Operand: 0
+Offset: 4, LOADINT , Operand: 1
+Offset: 5, Unref Method: 3305, Operand: 0
+Offset: 6, integerToString , Operand: 0
+Offset: 7, LOADINT , Operand: 0
+Offset: 8, Unref Method: 2112, Operand: 0
+Offset: 9, RETURN , Operand: 0

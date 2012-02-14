@@ -1,0 +1,34 @@
+================================================
+      Client Script 2895 Dumped by SiniSoul    
+      Instruction Size: 23
+      Integer Arguments: 1 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADGINT , Operand: 1078
+Offset: 1, Unref Opcode: 25, Operand: 7189
+Offset: 2, IFGT , Operand: 1
+Offset: 3, GOTO , Operand: 12
+Offset: 4, LOADGINT , Operand: 1079
+Offset: 5, PUSHI , Operand: 1
+Offset: 6, IFNE , Operand: 1
+Offset: 7, GOTO , Operand: 7
+Offset: 8, PUSHI , Operand: 2896
+Offset: 9, LOADINT , Operand: 0
+Offset: 10, PUSHS , Operand: I
+Offset: 11, LOADINT , Operand: 0
+Offset: 12, setInterfaceDefinitionScriptParams8 , Operand: 0
+Offset: 13, PUSHI , Operand: 1
+Offset: 14, STOREGINT , Operand: 1079
+Offset: 15, GOTO , Operand: 6
+Offset: 16, LOADGINT , Operand: 1078
+Offset: 17, PUSHI , Operand: 0
+Offset: 18, IFEQ , Operand: 1
+Offset: 19, GOTO , Operand: 2
+Offset: 20, Unref Opcode: 25, Operand: 7189
+Offset: 21, STOREGINT , Operand: 1078
+Offset: 22, RETURN , Operand: 0

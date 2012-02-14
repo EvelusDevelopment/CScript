@@ -1,0 +1,44 @@
+================================================
+      Client Script 2728 Dumped by SiniSoul    
+      Instruction Size: 33
+      Integer Arguments: 1 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, CALL , Operand: 2761
+Offset: 1, PUSHI , Operand: 100
+Offset: 2, IFGT , Operand: 1
+Offset: 3, GOTO , Operand: 2
+Offset: 4, PUSHI , Operand: 0
+Offset: 5, RETURN , Operand: 0
+Offset: 6, PUSHI , Operand: 681
+Offset: 7, Unref Method: 3411, Operand: 0
+Offset: 8, STOREINT , Operand: 0
+Offset: 9, LOADINT , Operand: 0
+Offset: 10, PUSHI , Operand: 0
+Offset: 11, IFGT , Operand: 1
+Offset: 12, GOTO , Operand: 16
+Offset: 13, PUSHI , Operand: 105
+Offset: 14, PUSHI , Operand: 83
+Offset: 15, PUSHI , Operand: 681
+Offset: 16, LOADINT , Operand: 0
+Offset: 17, Unref Method: 3408, Operand: 0
+Offset: 18, Unref Method: 3306, Operand: 0
+Offset: 19, PUSHI , Operand: 20
+Offset: 20, IFGT , Operand: 1
+Offset: 21, GOTO , Operand: 2
+Offset: 22, PUSHI , Operand: 0
+Offset: 23, RETURN , Operand: 0
+Offset: 24, LOADINT , Operand: 0
+Offset: 25, PUSHI , Operand: 1
+Offset: 26, ISUB , Operand: 0
+Offset: 27, STOREINT , Operand: 0
+Offset: 28, GOTO , Operand: -20
+Offset: 29, PUSHI , Operand: 1
+Offset: 30, RETURN , Operand: 0
+Offset: 31, PUSHI , Operand: 0
+Offset: 32, RETURN , Operand: 0

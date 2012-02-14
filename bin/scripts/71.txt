@@ -1,0 +1,67 @@
+================================================
+      Client Script 71 Dumped by SiniSoul    
+      Instruction Size: 56
+      Integer Arguments: 2 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, CALL , Operand: 1305
+Offset: 1, STOREINT , Operand: 1
+Offset: 2, LOADINT , Operand: 0
+Offset: 3, STOREGINT , Operand: 168
+Offset: 4, LOADINT , Operand: 0
+Offset: 5, PUSHI , Operand: -1
+Offset: 6, IFEQ , Operand: 1
+Offset: 7, GOTO , Operand: 7
+Offset: 8, Unref Method: 5306, Operand: 0
+Offset: 9, PUSHI , Operand: 2
+Offset: 10, IFGTEQ , Operand: 1
+Offset: 11, GOTO , Operand: 2
+Offset: 12, CALL , Operand: 1306
+Offset: 13, GOTO , Operand: 1
+Offset: 14, RETURN , Operand: 0
+Offset: 15, CALL , Operand: 2709
+Offset: 16, PUSHI , Operand: 0
+Offset: 17, IFEQ , Operand: 1
+Offset: 18, GOTO , Operand: 11
+Offset: 19, LOADINT , Operand: 0
+Offset: 20, PUSHI , Operand: 9
+Offset: 21, IFEQ , Operand: 7
+Offset: 22, LOADINT , Operand: 0
+Offset: 23, PUSHI , Operand: 11
+Offset: 24, IFEQ , Operand: 4
+Offset: 25, LOADINT , Operand: 0
+Offset: 26, PUSHI , Operand: 10
+Offset: 27, IFEQ , Operand: 1
+Offset: 28, GOTO , Operand: 1
+Offset: 29, RETURN , Operand: 0
+Offset: 30, LOADINT , Operand: 1
+Offset: 31, PUSHI , Operand: -1
+Offset: 32, IFGT , Operand: 1
+Offset: 33, GOTO , Operand: 18
+Offset: 34, LOADINT , Operand: 1
+Offset: 35, LOADINT , Operand: 0
+Offset: 36, IFEQ , Operand: 1
+Offset: 37, GOTO , Operand: 10
+Offset: 38, Unref Method: 5306, Operand: 0
+Offset: 39, PUSHI , Operand: 2
+Offset: 40, IFGTEQ , Operand: 1
+Offset: 41, GOTO , Operand: 4
+Offset: 42, CALL , Operand: 1306
+Offset: 43, LOADINT , Operand: 0
+Offset: 44, CALL , Operand: 1387
+Offset: 45, GOTO , Operand: 1
+Offset: 46, RETURN , Operand: 0
+Offset: 47, GOTO , Operand: 3
+Offset: 48, CALL , Operand: 1306
+Offset: 49, LOADINT , Operand: 0
+Offset: 50, CALL , Operand: 1387
+Offset: 51, GOTO , Operand: 3
+Offset: 52, CALL , Operand: 1306
+Offset: 53, LOADINT , Operand: 0
+Offset: 54, CALL , Operand: 1387
+Offset: 55, RETURN , Operand: 0

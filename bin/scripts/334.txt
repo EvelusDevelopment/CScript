@@ -1,0 +1,60 @@
+================================================
+      Client Script 334 Dumped by SiniSoul    
+      Instruction Size: 49
+      Integer Arguments: 0 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHI , Operand: 1
+Offset: 1, PUSHI , Operand: 47775829
+Offset: 2, Unref Method: 2003, Operand: 0
+Offset: 3, PUSHI , Operand: 1
+Offset: 4, PUSHI , Operand: 47775830
+Offset: 5, Unref Method: 2003, Operand: 0
+Offset: 6, PUSHI , Operand: 0
+Offset: 7, PUSHI , Operand: 47775827
+Offset: 8, Unref Method: 2003, Operand: 0
+Offset: 9, PUSHI , Operand: 0
+Offset: 10, PUSHI , Operand: 47775828
+Offset: 11, Unref Method: 2003, Operand: 0
+Offset: 12, PUSHI , Operand: 1
+Offset: 13, PUSHI , Operand: 47775825
+Offset: 14, Unref Method: 2003, Operand: 0
+Offset: 15, PUSHI , Operand: 1
+Offset: 16, PUSHI , Operand: 47775826
+Offset: 17, Unref Method: 2003, Operand: 0
+Offset: 18, PUSHI , Operand: 1054
+Offset: 19, PUSHI , Operand: 47775837
+Offset: 20, Unref Method: 2105, Operand: 0
+Offset: 21, PUSHI , Operand: 1045
+Offset: 22, PUSHI , Operand: 47775836
+Offset: 23, Unref Method: 2105, Operand: 0
+Offset: 24, PUSHI , Operand: 1052
+Offset: 25, PUSHI , Operand: 47775835
+Offset: 26, Unref Method: 2105, Operand: 0
+Offset: 27, PUSHI , Operand: 1
+Offset: 28, STOREGINT , Operand: 778
+Offset: 29, Unref Method: 3327, Operand: 0
+Offset: 30, PUSHI , Operand: 1
+Offset: 31, IFEQ , Operand: 1
+Offset: 32, GOTO , Operand: 3
+Offset: 33, PUSHI , Operand: 350
+Offset: 34, STOREGINT , Operand: 773
+Offset: 35, GOTO , Operand: 2
+Offset: 36, PUSHI , Operand: 350
+Offset: 37, STOREGINT , Operand: 773
+Offset: 38, PUSHI , Operand: 47775827
+Offset: 39, CALL , Operand: 339
+Offset: 40, PUSHI , Operand: 47775828
+Offset: 41, PUSHI , Operand: 47775827
+Offset: 42, CALL , Operand: 2364
+Offset: 43, PUSHI , Operand: 47775827
+Offset: 44, LOADGINT , Operand: 780
+Offset: 45, PUSHI , Operand: 1
+Offset: 46, CALL , Operand: 336
+Offset: 47, CALL , Operand: 2366
+Offset: 48, RETURN , Operand: 0

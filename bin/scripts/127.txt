@@ -1,0 +1,34 @@
+================================================
+      Client Script 127 Dumped by SiniSoul    
+      Instruction Size: 23
+      Integer Arguments: 0 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHI , Operand: 128
+Offset: 1, PUSHS , Operand: 
+Offset: 2, PUSHI , Operand: 36110337
+Offset: 3, setInterfaceDefinitionScriptParams20 , Operand: 0
+Offset: 4, PUSHI , Operand: 36110338
+Offset: 5, PUSHI , Operand: 36110337
+Offset: 6, PUSHI , Operand: 792
+Offset: 7, PUSHI , Operand: 789
+Offset: 8, PUSHI , Operand: 790
+Offset: 9, PUSHI , Operand: 791
+Offset: 10, PUSHI , Operand: 773
+Offset: 11, PUSHI , Operand: 788
+Offset: 12, CALL , Operand: 31
+Offset: 13, PUSHI , Operand: 0
+Offset: 14, PUSHI , Operand: 0
+Offset: 15, PUSHI , Operand: 36110337
+Offset: 16, Unref Method: 2120, Operand: 0
+Offset: 17, PUSHI , Operand: 0
+Offset: 18, PUSHI , Operand: 0
+Offset: 19, PUSHI , Operand: 36110337
+Offset: 20, Unref Method: 2100, Operand: 0
+Offset: 21, CALL , Operand: 129
+Offset: 22, RETURN , Operand: 0

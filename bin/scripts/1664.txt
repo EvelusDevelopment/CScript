@@ -1,0 +1,102 @@
+================================================
+      Client Script 1664 Dumped by SiniSoul    
+      Instruction Size: 91
+      Integer Arguments: 6 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, Unref Method: 3300, Operand: 0
+Offset: 1, LOADINT , Operand: 0
+Offset: 2, IFLT , Operand: 1
+Offset: 3, GOTO , Operand: 2
+Offset: 4, RETURN , Operand: 0
+Offset: 5, GOTO , Operand: 4
+Offset: 6, PUSHI , Operand: -1
+Offset: 7, PUSHS , Operand: 
+Offset: 8, PUSHI , Operand: 49938525
+Offset: 9, setInterfaceDefinitionScriptParams8 , Operand: 0
+Offset: 10, PUSHI , Operand: 0
+Offset: 11, STOREINT , Operand: 1
+Offset: 12, PUSHI , Operand: 0
+Offset: 13, STOREINT , Operand: 2
+Offset: 14, PUSHI , Operand: 0
+Offset: 15, STOREINT , Operand: 3
+Offset: 16, PUSHI , Operand: 0
+Offset: 17, STOREINT , Operand: 4
+Offset: 18, PUSHI , Operand: 95
+Offset: 19, Unref Method: 3304, Operand: 0
+Offset: 20, STOREINT , Operand: 5
+Offset: 21, PUSHI , Operand: 49938529
+Offset: 22, CALL , Operand: 41
+Offset: 23, Unref Opcode: 25, Operand: 4893
+Offset: 24, CALL , Operand: 1467
+Offset: 25, STOREINT , Operand: 2
+Offset: 26, STOREINT , Operand: 1
+Offset: 27, LOADINT , Operand: 3
+Offset: 28, LOADINT , Operand: 5
+Offset: 29, IFLT , Operand: 1
+Offset: 30, GOTO , Operand: 26
+Offset: 31, PUSHI , Operand: 49938525
+Offset: 32, LOADINT , Operand: 3
+Offset: 33, Unref Method: 200, Operand: 0
+Offset: 34, PUSHI , Operand: 1
+Offset: 35, IFEQ , Operand: 1
+Offset: 36, GOTO , Operand: 15
+Offset: 37, PUSHI , Operand: 1
+Offset: 38, Unref Method: 1003, Operand: 0
+Offset: 39, PUSHI , Operand: 95
+Offset: 40, LOADINT , Operand: 3
+Offset: 41, Unref Method: 3301, Operand: 0
+Offset: 42, PUSHI , Operand: -1
+Offset: 43, IFNE , Operand: 1
+Offset: 44, GOTO , Operand: 3
+Offset: 45, LOADINT , Operand: 3
+Offset: 46, CALL , Operand: 1453
+Offset: 47, GOTO , Operand: 4
+Offset: 48, PUSHI , Operand: -1
+Offset: 49, PUSHI , Operand: -1
+Offset: 50, Unref Method: 1200, Operand: 0
+Offset: 51, Unref Method: 1307, Operand: 0
+Offset: 52, LOADINT , Operand: 3
+Offset: 53, PUSHI , Operand: 1
+Offset: 54, IADD , Operand: 0
+Offset: 55, STOREINT , Operand: 3
+Offset: 56, GOTO , Operand: -30
+Offset: 57, Unref Opcode: 25, Operand: 4893
+Offset: 58, PUSHI , Operand: 0
+Offset: 59, IFEQ , Operand: 1
+Offset: 60, GOTO , Operand: 10
+Offset: 61, LOADGINT , Operand: 5
+Offset: 62, PUSHI , Operand: 11
+Offset: 63, IFEQ , Operand: 1
+Offset: 64, GOTO , Operand: 2
+Offset: 65, LOADGSTR , Operand: 22
+Offset: 66, STOREGSTR , Operand: 138
+Offset: 67, LOADGSTR , Operand: 138
+Offset: 68, CALL , Operand: 1479
+Offset: 69, POPI , Operand: 0
+Offset: 70, GOTO , Operand: 9
+Offset: 71, Unref Opcode: 25, Operand: 4893
+Offset: 72, PUSHI , Operand: 1
+Offset: 73, IFEQ , Operand: 1
+Offset: 74, GOTO , Operand: 2
+Offset: 75, CALL , Operand: 1456
+Offset: 76, GOTO , Operand: 3
+Offset: 77, Unref Opcode: 25, Operand: 4893
+Offset: 78, CALL , Operand: 1467
+Offset: 79, CALL , Operand: 1457
+Offset: 80, Unref Opcode: 25, Operand: 4893
+Offset: 81, PUSHI , Operand: 0
+Offset: 82, IFNE , Operand: 1
+Offset: 83, GOTO , Operand: 5
+Offset: 84, LOADGINT , Operand: 188
+Offset: 85, PUSHI , Operand: 1
+Offset: 86, IFEQ , Operand: 1
+Offset: 87, GOTO , Operand: 1
+Offset: 88, CALL , Operand: 1474
+Offset: 89, CALL , Operand: 1459
+Offset: 90, RETURN , Operand: 0

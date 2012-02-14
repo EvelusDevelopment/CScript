@@ -1,0 +1,23 @@
+================================================
+      Client Script 3514 Dumped by SiniSoul    
+      Instruction Size: 12
+      Integer Arguments: 1 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHI , Operand: 4
+Offset: 1, CALL , Operand: 3547
+Offset: 2, PUSHI , Operand: 4
+Offset: 3, CALL , Operand: 3545
+Offset: 4, IFEQ , Operand: 1
+Offset: 5, GOTO , Operand: 3
+Offset: 6, LOADINT , Operand: 0
+Offset: 7, CALL , Operand: 3633
+Offset: 8, GOTO , Operand: 2
+Offset: 9, LOADINT , Operand: 0
+Offset: 10, CALL , Operand: 3634
+Offset: 11, RETURN , Operand: 0

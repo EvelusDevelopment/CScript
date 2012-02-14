@@ -1,0 +1,74 @@
+================================================
+      Client Script 208 Dumped by SiniSoul    
+      Instruction Size: 63
+      Integer Arguments: 5 
+      String  Arguments: 3 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, CALL , Operand: 2047
+Offset: 1, PUSHI , Operand: 1
+Offset: 2, IFEQ , Operand: 1
+Offset: 3, GOTO , Operand: 2
+Offset: 4, PUSHI , Operand: 0
+Offset: 5, RETURN , Operand: 0
+Offset: 6, PUSHI , Operand: 0
+Offset: 7, STOREINT , Operand: 0
+Offset: 8, Unref Method: 5420, Operand: 0
+Offset: 9, PUSHI , Operand: 1
+Offset: 10, IFEQ , Operand: 1
+Offset: 11, GOTO , Operand: 12
+Offset: 12, Unref Method: 6510, Operand: 0
+Offset: 13, STOREINT , Operand: 0
+Offset: 14, LOADINT , Operand: 0
+Offset: 15, PUSHI , Operand: 5
+Offset: 16, isBitToggled , Operand: 0
+Offset: 17, PUSHI , Operand: 1
+Offset: 18, IFEQ , Operand: 1
+Offset: 19, GOTO , Operand: 2
+Offset: 20, PUSHI , Operand: 1
+Offset: 21, RETURN , Operand: 0
+Offset: 22, PUSHI , Operand: 0
+Offset: 23, RETURN , Operand: 0
+Offset: 24, Unref Method: 3318, Operand: 0
+Offset: 25, STOREINT , Operand: 1
+Offset: 26, PUSHS , Operand: 
+Offset: 27, STORESTR , Operand: 0
+Offset: 28, PUSHI , Operand: 0
+Offset: 29, STOREINT , Operand: 2
+Offset: 30, PUSHS , Operand: 
+Offset: 31, STORESTR , Operand: 1
+Offset: 32, PUSHI , Operand: 0
+Offset: 33, STOREINT , Operand: 3
+Offset: 34, PUSHI , Operand: 0
+Offset: 35, STOREINT , Operand: 4
+Offset: 36, PUSHS , Operand: 
+Offset: 37, STORESTR , Operand: 2
+Offset: 38, LOADINT , Operand: 1
+Offset: 39, PUSHI , Operand: -1
+Offset: 40, IFNE , Operand: 1
+Offset: 41, GOTO , Operand: 17
+Offset: 42, LOADINT , Operand: 1
+Offset: 43, Unref Method: 6506, Operand: 0
+Offset: 44, STORESTR , Operand: 2
+Offset: 45, STOREINT , Operand: 4
+Offset: 46, STOREINT , Operand: 3
+Offset: 47, STORESTR , Operand: 1
+Offset: 48, STOREINT , Operand: 2
+Offset: 49, STORESTR , Operand: 0
+Offset: 50, STOREINT , Operand: 0
+Offset: 51, LOADINT , Operand: 0
+Offset: 52, PUSHI , Operand: 5
+Offset: 53, isBitToggled , Operand: 0
+Offset: 54, PUSHI , Operand: 1
+Offset: 55, IFEQ , Operand: 1
+Offset: 56, GOTO , Operand: 2
+Offset: 57, PUSHI , Operand: 1
+Offset: 58, RETURN , Operand: 0
+Offset: 59, PUSHI , Operand: 0
+Offset: 60, RETURN , Operand: 0
+Offset: 61, PUSHI , Operand: 0
+Offset: 62, RETURN , Operand: 0

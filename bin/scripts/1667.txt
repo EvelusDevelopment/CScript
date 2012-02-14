@@ -1,0 +1,96 @@
+================================================
+      Client Script 1667 Dumped by SiniSoul    
+      Instruction Size: 85
+      Integer Arguments: 3 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHI , Operand: 60
+Offset: 1, PUSHI , Operand: 100
+Offset: 2, PUSHI , Operand: 105
+Offset: 3, PUSHI , Operand: 110
+Offset: 4, PUSHI , Operand: 1098
+Offset: 5, Unref Opcode: 25, Operand: 4190
+Offset: 6, Unref Method: 3408, Operand: 0
+Offset: 7, PUSHI , Operand: 356
+Offset: 8, Unref Method: 4300, Operand: 0
+Offset: 9, Unref Method: 4018, Operand: 0
+Offset: 10, STOREINT , Operand: 0
+Offset: 11, LOADINT , Operand: 0
+Offset: 12, PUSHI , Operand: 60
+Offset: 13, IDIV , Operand: 0
+Offset: 14, STOREINT , Operand: 1
+Offset: 15, LOADINT , Operand: 0
+Offset: 16, PUSHI , Operand: 60
+Offset: 17, IMOD , Operand: 0
+Offset: 18, STOREINT , Operand: 2
+Offset: 19, LOADINT , Operand: 2
+Offset: 20, PUSHI , Operand: 10
+Offset: 21, IFGTEQ , Operand: 1
+Offset: 22, GOTO , Operand: 19
+Offset: 23, PUSHS , Operand: <br>
+Offset: 24, PUSHS , Operand: <br>
+Offset: 25, PUSHS , Operand: Gravestone:
+Offset: 26, PUSHS , Operand: <br>
+Offset: 27, PUSHI , Operand: 105
+Offset: 28, PUSHI , Operand: 115
+Offset: 29, PUSHI , Operand: 1099
+Offset: 30, Unref Opcode: 25, Operand: 4190
+Offset: 31, Unref Method: 3408, Operand: 0
+Offset: 32, PUSHS , Operand: <br>
+Offset: 33, PUSHS , Operand: Initial duration:
+Offset: 34, PUSHS , Operand: <br>
+Offset: 35, LOADINT , Operand: 1
+Offset: 36, integerToString , Operand: 0
+Offset: 37, PUSHS , Operand: :
+Offset: 38, LOADINT , Operand: 2
+Offset: 39, integerToString , Operand: 0
+Offset: 40, CONCAT , Operand: 11
+Offset: 41, RETURN , Operand: 0
+Offset: 42, LOADINT , Operand: 2
+Offset: 43, PUSHI , Operand: 0
+Offset: 44, IFGT , Operand: 1
+Offset: 45, GOTO , Operand: 20
+Offset: 46, PUSHS , Operand: <br>
+Offset: 47, PUSHS , Operand: <br>
+Offset: 48, PUSHS , Operand: Gravestone:
+Offset: 49, PUSHS , Operand: <br>
+Offset: 50, PUSHI , Operand: 105
+Offset: 51, PUSHI , Operand: 115
+Offset: 52, PUSHI , Operand: 1099
+Offset: 53, Unref Opcode: 25, Operand: 4190
+Offset: 54, Unref Method: 3408, Operand: 0
+Offset: 55, PUSHS , Operand: <br>
+Offset: 56, PUSHS , Operand: Initial duration:
+Offset: 57, PUSHS , Operand: <br>
+Offset: 58, LOADINT , Operand: 1
+Offset: 59, integerToString , Operand: 0
+Offset: 60, PUSHS , Operand: :0
+Offset: 61, LOADINT , Operand: 2
+Offset: 62, integerToString , Operand: 0
+Offset: 63, PUSHS , Operand: s
+Offset: 64, CONCAT , Operand: 12
+Offset: 65, RETURN , Operand: 0
+Offset: 66, PUSHS , Operand: <br>
+Offset: 67, PUSHS , Operand: <br>
+Offset: 68, PUSHS , Operand: Gravestone:
+Offset: 69, PUSHS , Operand: <br>
+Offset: 70, PUSHI , Operand: 105
+Offset: 71, PUSHI , Operand: 115
+Offset: 72, PUSHI , Operand: 1099
+Offset: 73, Unref Opcode: 25, Operand: 4190
+Offset: 74, Unref Method: 3408, Operand: 0
+Offset: 75, PUSHS , Operand: <br>
+Offset: 76, PUSHS , Operand: Initial duration:
+Offset: 77, PUSHS , Operand: <br>
+Offset: 78, LOADINT , Operand: 1
+Offset: 79, integerToString , Operand: 0
+Offset: 80, PUSHS , Operand: :00
+Offset: 81, CONCAT , Operand: 10
+Offset: 82, RETURN , Operand: 0
+Offset: 83, PUSHS , Operand: 
+Offset: 84, RETURN , Operand: 0

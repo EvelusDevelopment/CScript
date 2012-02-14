@@ -1,0 +1,56 @@
+================================================
+      Client Script 2176 Dumped by SiniSoul    
+      Instruction Size: 36
+      Integer Arguments: 1 
+      String  Arguments: 1 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHS , Operand: 
+Offset: 1, STORESTR , Operand: 0
+Offset: 2, LOADINT , Operand: 0
+Offset: 3, SWITCH , Operand: 0
+Offset: 4, GOTO , Operand: 23
+Offset: 5, LOADGINT , Operand: 692
+Offset: 6, PUSHI , Operand: 1
+Offset: 7, IFEQ , Operand: 1
+Offset: 8, GOTO , Operand: 7
+Offset: 9, PUSHS , Operand: Click to hide the quests you cannot start.
+Offset: 10, PUSHS , Operand: <br>
+Offset: 11, PUSHS , Operand: <br>
+Offset: 12, PUSHS , Operand: Some recommended stats and abilities (such as combat levels) are left for you to decide.
+Offset: 13, CONCAT , Operand: 4
+Offset: 14, STORESTR , Operand: 0
+Offset: 15, GOTO , Operand: 2
+Offset: 16, PUSHS , Operand: Click to show all quests regardless of requirements.
+Offset: 17, STORESTR , Operand: 0
+Offset: 18, GOTO , Operand: 9
+Offset: 19, LOADGINT , Operand: 692
+Offset: 20, PUSHI , Operand: 1
+Offset: 21, IFEQ , Operand: 1
+Offset: 22, GOTO , Operand: 3
+Offset: 23, PUSHS , Operand: Click to hide the quests you have completed.
+Offset: 24, STORESTR , Operand: 0
+Offset: 25, GOTO , Operand: 2
+Offset: 26, PUSHS , Operand: Click to show all quests regardless of completion status.
+Offset: 27, STORESTR , Operand: 0
+Offset: 28, PUSHI , Operand: 12451859
+Offset: 29, PUSHI , Operand: -1
+Offset: 30, PUSHI , Operand: 12451860
+Offset: 31, LOADSTR , Operand: 0
+Offset: 32, PUSHI , Operand: 25
+Offset: 33, PUSHI , Operand: 450
+Offset: 34, CALL , Operand: 569
+Offset: 35, RETURN , Operand: 0
+
+================================================
+                Switch Table 0                
+================================================
+
+Key: 12451850, Value: 1
+Key: 12451851, Value: 15
+Key: 12451849, Value: 1
+Key: 12451852, Value: 15

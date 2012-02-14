@@ -1,0 +1,24 @@
+================================================
+      Client Script 2870 Dumped by SiniSoul    
+      Instruction Size: 13
+      Integer Arguments: 2 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, Unref Method: 3300, Operand: 0
+Offset: 1, LOADINT , Operand: 1
+Offset: 2, IFGTEQ , Operand: 1
+Offset: 3, GOTO , Operand: 8
+Offset: 4, PUSHI , Operand: 1
+Offset: 5, LOADINT , Operand: 0
+Offset: 6, Unref Method: 2003, Operand: 0
+Offset: 7, PUSHI , Operand: -1
+Offset: 8, PUSHS , Operand: 
+Offset: 9, LOADINT , Operand: 0
+Offset: 10, setInterfaceDefinitionScriptParams8 , Operand: 0
+Offset: 11, RETURN , Operand: 0
+Offset: 12, RETURN , Operand: 0

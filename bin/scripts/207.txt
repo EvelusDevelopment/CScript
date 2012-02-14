@@ -1,0 +1,117 @@
+================================================
+      Client Script 207 Dumped by SiniSoul    
+      Instruction Size: 106
+      Integer Arguments: 3 
+      String  Arguments: 3 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHS , Operand: 
+Offset: 1, STORESTR , Operand: 0
+Offset: 2, PUSHS , Operand: 
+Offset: 3, STORESTR , Operand: 1
+Offset: 4, PUSHS , Operand: 
+Offset: 5, STORESTR , Operand: 2
+Offset: 6, LOADINT , Operand: 2
+Offset: 7, Unref Method: 4204, Operand: 0
+Offset: 8, PUSHI , Operand: 0
+Offset: 9, IFEQ , Operand: 1
+Offset: 10, GOTO , Operand: 15
+Offset: 11, LOADSTR , Operand: 2
+Offset: 12, PUSHS , Operand: <col=ff9040>
+Offset: 13, LOADINT , Operand: 2
+Offset: 14, Unref Method: 4200, Operand: 0
+Offset: 15, PUSHS , Operand:  
+Offset: 16, PUSHS , Operand: <col=ffffff>
+Offset: 17, PUSHS , Operand: x 
+Offset: 18, PUSHS , Operand: <col=fff000>
+Offset: 19, LOADINT , Operand: 1
+Offset: 20, integerToString , Operand: 0
+Offset: 21, PUSHS , Operand: <br>
+Offset: 22, CONCAT , Operand: 8
+Offset: 23, concatStrings , Operand: 0
+Offset: 24, STORESTR , Operand: 2
+Offset: 25, GOTO , Operand: 76
+Offset: 26, LOADINT , Operand: 1
+Offset: 27, PUSHI , Operand: 100000
+Offset: 28, IFLT , Operand: 1
+Offset: 29, GOTO , Operand: 17
+Offset: 30, LOADINT , Operand: 1
+Offset: 31, PUSHS , Operand: ,
+Offset: 32, CALL , Operand: 46
+Offset: 33, STORESTR , Operand: 0
+Offset: 34, LOADSTR , Operand: 2
+Offset: 35, PUSHS , Operand: <col=ff9040>
+Offset: 36, LOADINT , Operand: 2
+Offset: 37, Unref Method: 4200, Operand: 0
+Offset: 38, PUSHS , Operand: <col=ffffff>
+Offset: 39, PUSHS , Operand:  x 
+Offset: 40, PUSHS , Operand: <col=ffff00>
+Offset: 41, LOADSTR , Operand: 0
+Offset: 42, PUSHS , Operand: <br>
+Offset: 43, CONCAT , Operand: 7
+Offset: 44, concatStrings , Operand: 0
+Offset: 45, STORESTR , Operand: 2
+Offset: 46, GOTO , Operand: 55
+Offset: 47, LOADINT , Operand: 1
+Offset: 48, PUSHI , Operand: 10000000
+Offset: 49, IFLT , Operand: 1
+Offset: 50, GOTO , Operand: 26
+Offset: 51, LOADINT , Operand: 1
+Offset: 52, PUSHS , Operand: ,
+Offset: 53, CALL , Operand: 46
+Offset: 54, STORESTR , Operand: 0
+Offset: 55, LOADINT , Operand: 1
+Offset: 56, PUSHI , Operand: 1000
+Offset: 57, IDIV , Operand: 0
+Offset: 58, PUSHS , Operand: ,
+Offset: 59, CALL , Operand: 46
+Offset: 60, STORESTR , Operand: 1
+Offset: 61, LOADSTR , Operand: 2
+Offset: 62, PUSHS , Operand: <col=ff9040>
+Offset: 63, LOADINT , Operand: 2
+Offset: 64, Unref Method: 4200, Operand: 0
+Offset: 65, PUSHS , Operand: <col=ffffff>
+Offset: 66, PUSHS , Operand:  x 
+Offset: 67, PUSHS , Operand: <col=ffffff>
+Offset: 68, LOADSTR , Operand: 1
+Offset: 69, PUSHS , Operand: K (
+Offset: 70, LOADSTR , Operand: 0
+Offset: 71, PUSHS , Operand: )
+Offset: 72, PUSHS , Operand: <br>
+Offset: 73, CONCAT , Operand: 10
+Offset: 74, concatStrings , Operand: 0
+Offset: 75, STORESTR , Operand: 2
+Offset: 76, GOTO , Operand: 25
+Offset: 77, LOADINT , Operand: 1
+Offset: 78, PUSHS , Operand: ,
+Offset: 79, CALL , Operand: 46
+Offset: 80, STORESTR , Operand: 0
+Offset: 81, LOADINT , Operand: 1
+Offset: 82, PUSHI , Operand: 1000000
+Offset: 83, IDIV , Operand: 0
+Offset: 84, PUSHS , Operand: ,
+Offset: 85, CALL , Operand: 46
+Offset: 86, STORESTR , Operand: 1
+Offset: 87, LOADSTR , Operand: 2
+Offset: 88, PUSHS , Operand: <col=ff9040>
+Offset: 89, LOADINT , Operand: 2
+Offset: 90, Unref Method: 4200, Operand: 0
+Offset: 91, PUSHS , Operand: <col=ffffff>
+Offset: 92, PUSHS , Operand:  x 
+Offset: 93, PUSHS , Operand: <col=00ff80>
+Offset: 94, LOADSTR , Operand: 1
+Offset: 95, PUSHS , Operand: M (
+Offset: 96, LOADSTR , Operand: 0
+Offset: 97, PUSHS , Operand: )
+Offset: 98, PUSHS , Operand: <br>
+Offset: 99, CONCAT , Operand: 10
+Offset: 100, concatStrings , Operand: 0
+Offset: 101, STORESTR , Operand: 2
+Offset: 102, LOADSTR , Operand: 2
+Offset: 103, RETURN , Operand: 0
+Offset: 104, PUSHS , Operand: 
+Offset: 105, RETURN , Operand: 0

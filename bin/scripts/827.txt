@@ -1,0 +1,51 @@
+================================================
+      Client Script 827 Dumped by SiniSoul    
+      Instruction Size: 40
+      Integer Arguments: 2 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHI , Operand: 0
+Offset: 1, STOREINT , Operand: 1
+Offset: 2, Unref Method: 3300, Operand: 0
+Offset: 3, LOADINT , Operand: 0
+Offset: 4, PUSHI , Operand: 32
+Offset: 5, IADD , Operand: 0
+Offset: 6, IFGTEQ , Operand: 1
+Offset: 7, GOTO , Operand: 19
+Offset: 8, Unref Method: 3300, Operand: 0
+Offset: 9, LOADINT , Operand: 0
+Offset: 10, PUSHI , Operand: 140
+Offset: 11, IADD , Operand: 0
+Offset: 12, IFLT , Operand: 1
+Offset: 13, GOTO , Operand: 13
+Offset: 14, PUSHS , Operand: Varrock Herald
+Offset: 15, PUSHI , Operand: 30474242
+Offset: 16, Unref Method: 2112, Operand: 0
+Offset: 17, PUSHS , Operand: Covering all of Misthalin and beyond.
+Offset: 18, PUSHI , Operand: 30474243
+Offset: 19, Unref Method: 2112, Operand: 0
+Offset: 20, PUSHS , Operand: 1 gp
+Offset: 21, PUSHI , Operand: 30474244
+Offset: 22, Unref Method: 2112, Operand: 0
+Offset: 23, PUSHS , Operand: Oo'glog Ogresses Open Health Spa!
+Offset: 24, PUSHI , Operand: 30474245
+Offset: 25, Unref Method: 2112, Operand: 0
+Offset: 26, GOTO , Operand: 12
+Offset: 27, PUSHS , Operand:  
+Offset: 28, PUSHI , Operand: 30474242
+Offset: 29, Unref Method: 2112, Operand: 0
+Offset: 30, PUSHS , Operand:  
+Offset: 31, PUSHI , Operand: 30474243
+Offset: 32, Unref Method: 2112, Operand: 0
+Offset: 33, PUSHS , Operand:  
+Offset: 34, PUSHI , Operand: 30474244
+Offset: 35, Unref Method: 2112, Operand: 0
+Offset: 36, PUSHS , Operand:  
+Offset: 37, PUSHI , Operand: 30474245
+Offset: 38, Unref Method: 2112, Operand: 0
+Offset: 39, RETURN , Operand: 0

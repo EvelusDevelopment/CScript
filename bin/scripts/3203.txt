@@ -1,0 +1,34 @@
+================================================
+      Client Script 3203 Dumped by SiniSoul    
+      Instruction Size: 23
+      Integer Arguments: 0 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHI , Operand: 59375682
+Offset: 1, PUSHI , Operand: 913
+Offset: 2, Unref Method: 3111, Operand: 0
+Offset: 3, PUSHI , Operand: 0
+Offset: 4, PUSHI , Operand: 59375648
+Offset: 5, Unref Method: 2003, Operand: 0
+Offset: 6, PUSHI , Operand: 105
+Offset: 7, PUSHI , Operand: 73
+Offset: 8, PUSHI , Operand: 941
+Offset: 9, PUSHI , Operand: 3
+Offset: 10, Unref Method: 3408, Operand: 0
+Offset: 11, Unref Method: 2504, Operand: 0
+Offset: 12, PUSHI , Operand: 0
+Offset: 13, IFEQ , Operand: 1
+Offset: 14, GOTO , Operand: 2
+Offset: 15, PUSHI , Operand: 0
+Offset: 16, CALL , Operand: 3161
+Offset: 17, PUSHI , Operand: 3206
+Offset: 18, PUSHI , Operand: -2147483640
+Offset: 19, PUSHS , Operand: i
+Offset: 20, PUSHI , Operand: 59834368
+Offset: 21, setInterfaceDefinitionScriptParams19 , Operand: 0
+Offset: 22, RETURN , Operand: 0

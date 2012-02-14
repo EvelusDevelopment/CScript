@@ -1,0 +1,40 @@
+================================================
+      Client Script 1814 Dumped by SiniSoul    
+      Instruction Size: 29
+      Integer Arguments: 0 
+      String  Arguments: 3 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHS , Operand: 
+Offset: 1, STORESTR , Operand: 1
+Offset: 2, PUSHS , Operand: 
+Offset: 3, STORESTR , Operand: 2
+Offset: 4, LOADSTR , Operand: 0
+Offset: 5, PUSHI , Operand: 0
+Offset: 6, PUSHI , Operand: 1
+Offset: 7, Unref Method: 4118, Operand: 0
+Offset: 8, STORESTR , Operand: 1
+Offset: 9, LOADSTR , Operand: 0
+Offset: 10, getStringLength , Operand: 0
+Offset: 11, PUSHI , Operand: 1
+Offset: 12, IFGT , Operand: 1
+Offset: 13, GOTO , Operand: 6
+Offset: 14, LOADSTR , Operand: 0
+Offset: 15, PUSHI , Operand: 1
+Offset: 16, LOADSTR , Operand: 0
+Offset: 17, getStringLength , Operand: 0
+Offset: 18, Unref Method: 4118, Operand: 0
+Offset: 19, STORESTR , Operand: 2
+Offset: 20, LOADSTR , Operand: 1
+Offset: 21, CALL , Operand: 1815
+Offset: 22, STORESTR , Operand: 1
+Offset: 23, LOADSTR , Operand: 1
+Offset: 24, LOADSTR , Operand: 2
+Offset: 25, concatStrings , Operand: 0
+Offset: 26, RETURN , Operand: 0
+Offset: 27, PUSHS , Operand: 
+Offset: 28, RETURN , Operand: 0

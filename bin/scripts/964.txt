@@ -1,0 +1,75 @@
+================================================
+      Client Script 964 Dumped by SiniSoul    
+      Instruction Size: 40
+      Integer Arguments: 0 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, Unref Opcode: 25, Operand: 2341
+Offset: 1, SWITCH , Operand: 0
+Offset: 2, PUSHI , Operand: 0
+Offset: 3, STOREGINT , Operand: 122
+Offset: 4, GOTO , Operand: 8
+Offset: 5, PUSHI , Operand: 1536
+Offset: 6, STOREGINT , Operand: 122
+Offset: 7, GOTO , Operand: 5
+Offset: 8, PUSHI , Operand: 1024
+Offset: 9, STOREGINT , Operand: 122
+Offset: 10, GOTO , Operand: 2
+Offset: 11, PUSHI , Operand: 512
+Offset: 12, STOREGINT , Operand: 122
+Offset: 13, Unref Opcode: 25, Operand: 2342
+Offset: 14, SWITCH , Operand: 1
+Offset: 15, PUSHI , Operand: 0
+Offset: 16, STOREGINT , Operand: 123
+Offset: 17, GOTO , Operand: 8
+Offset: 18, PUSHI , Operand: 1536
+Offset: 19, STOREGINT , Operand: 123
+Offset: 20, GOTO , Operand: 5
+Offset: 21, PUSHI , Operand: 1024
+Offset: 22, STOREGINT , Operand: 123
+Offset: 23, GOTO , Operand: 2
+Offset: 24, PUSHI , Operand: 512
+Offset: 25, STOREGINT , Operand: 123
+Offset: 26, Unref Opcode: 25, Operand: 2343
+Offset: 27, SWITCH , Operand: 2
+Offset: 28, PUSHI , Operand: 0
+Offset: 29, STOREGINT , Operand: 124
+Offset: 30, GOTO , Operand: 8
+Offset: 31, PUSHI , Operand: 1536
+Offset: 32, STOREGINT , Operand: 124
+Offset: 33, GOTO , Operand: 5
+Offset: 34, PUSHI , Operand: 1024
+Offset: 35, STOREGINT , Operand: 124
+Offset: 36, GOTO , Operand: 2
+Offset: 37, PUSHI , Operand: 512
+Offset: 38, STOREGINT , Operand: 124
+Offset: 39, RETURN , Operand: 0
+
+================================================
+                Switch Table 0                
+================================================
+
+Key: 1, Value: 3
+Key: 2, Value: 6
+Key: 3, Value: 9
+
+================================================
+                Switch Table 1                
+================================================
+
+Key: 1, Value: 3
+Key: 2, Value: 6
+Key: 3, Value: 9
+
+================================================
+                Switch Table 2                
+================================================
+
+Key: 1, Value: 3
+Key: 2, Value: 6
+Key: 3, Value: 9

@@ -1,0 +1,34 @@
+================================================
+      Client Script 1366 Dumped by SiniSoul    
+      Instruction Size: 23
+      Integer Arguments: 0 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, Unref Opcode: 1, Operand: 380
+Offset: 1, PUSHI , Operand: 25
+Offset: 2, IFEQ , Operand: 1
+Offset: 3, GOTO , Operand: 4
+Offset: 4, PUSHS , Operand: Time until next game starts: 0
+Offset: 5, PUSHI , Operand: 3735552
+Offset: 6, Unref Method: 2112, Operand: 0
+Offset: 7, GOTO , Operand: 14
+Offset: 8, Unref Opcode: 1, Operand: 380
+Offset: 9, PUSHI , Operand: 0
+Offset: 10, IFGT , Operand: 1
+Offset: 11, GOTO , Operand: 7
+Offset: 12, PUSHS , Operand: Time until next game starts: 
+Offset: 13, Unref Opcode: 1, Operand: 380
+Offset: 14, integerToString , Operand: 0
+Offset: 15, CONCAT , Operand: 2
+Offset: 16, PUSHI , Operand: 3735552
+Offset: 17, Unref Method: 2112, Operand: 0
+Offset: 18, GOTO , Operand: 3
+Offset: 19, PUSHS , Operand: Waiting for players to join the other team.
+Offset: 20, PUSHI , Operand: 3735552
+Offset: 21, Unref Method: 2112, Operand: 0
+Offset: 22, RETURN , Operand: 0

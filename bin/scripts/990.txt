@@ -1,0 +1,1073 @@
+================================================
+      Client Script 990 Dumped by SiniSoul    
+      Instruction Size: 943
+      Integer Arguments: 2 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADINT , Operand: 0
+Offset: 1, SWITCH , Operand: 0
+Offset: 2, GOTO , Operand: 935
+Offset: 3, LOADINT , Operand: 1
+Offset: 4, SWITCH , Operand: 1
+Offset: 5, GOTO , Operand: 229
+Offset: 6, PUSHI , Operand: 1
+Offset: 7, PUSHI , Operand: 1511
+Offset: 8, PUSHS , Operand: Normal tree
+Offset: 9, PUSHS , Operand: You can now chop down 
+Offset: 10, PUSHS , Operand: <col=000080>
+Offset: 11, PUSHS , Operand: normal trees
+Offset: 12, PUSHS , Operand: </col>
+Offset: 13, PUSHS , Operand: .
+Offset: 14, CONCAT , Operand: 5
+Offset: 15, RETURN , Operand: 0
+Offset: 16, GOTO , Operand: 218
+Offset: 17, PUSHI , Operand: 1
+Offset: 18, PUSHI , Operand: 2862
+Offset: 19, PUSHS , Operand: Members: Achey tree
+Offset: 20, PUSHS , Operand: Members can now chop down 
+Offset: 21, PUSHS , Operand: <col=000080>
+Offset: 22, PUSHS , Operand: achey trees
+Offset: 23, PUSHS , Operand: </col>
+Offset: 24, PUSHS , Operand: .
+Offset: 25, CONCAT , Operand: 5
+Offset: 26, RETURN , Operand: 0
+Offset: 27, GOTO , Operand: 207
+Offset: 28, PUSHI , Operand: 10
+Offset: 29, PUSHI , Operand: 6281
+Offset: 30, PUSHS , Operand: Members: Light jungle
+Offset: 31, PUSHS , Operand: <br>
+Offset: 32, PUSHS , Operand:  (after Jungle Potion)
+Offset: 33, CONCAT , Operand: 3
+Offset: 34, PUSHS , Operand: Members now have the Woodcutting level required to clear 
+Offset: 35, PUSHS , Operand: <col=000080>
+Offset: 36, PUSHS , Operand: light jungle
+Offset: 37, PUSHS , Operand: </col>
+Offset: 38, PUSHS , Operand:  in Tai Bwo Wannai Clean-up (after Jungle Potion).
+Offset: 39, CONCAT , Operand: 5
+Offset: 40, RETURN , Operand: 0
+Offset: 41, GOTO , Operand: 193
+Offset: 42, PUSHI , Operand: 15
+Offset: 43, PUSHI , Operand: 1521
+Offset: 44, PUSHS , Operand: Oak tree
+Offset: 45, PUSHS , Operand: You can now chop down 
+Offset: 46, PUSHS , Operand: <col=000080>
+Offset: 47, PUSHS , Operand: oak trees
+Offset: 48, PUSHS , Operand: </col>
+Offset: 49, PUSHS , Operand: .
+Offset: 50, CONCAT , Operand: 5
+Offset: 51, RETURN , Operand: 0
+Offset: 52, GOTO , Operand: 182
+Offset: 53, PUSHI , Operand: 20
+Offset: 54, PUSHI , Operand: 6283
+Offset: 55, PUSHS , Operand: Members: Medium jungle
+Offset: 56, PUSHS , Operand: <br>
+Offset: 57, PUSHS , Operand:  (after Jungle Potion)
+Offset: 58, CONCAT , Operand: 3
+Offset: 59, PUSHS , Operand: Members now have the Woodcutting level required to clear 
+Offset: 60, PUSHS , Operand: <col=000080>
+Offset: 61, PUSHS , Operand: medium jungle
+Offset: 62, PUSHS , Operand: </col>
+Offset: 63, PUSHS , Operand:  in Tai Bwo Wannai Clean-up (after Jungle Potion).
+Offset: 64, CONCAT , Operand: 5
+Offset: 65, RETURN , Operand: 0
+Offset: 66, GOTO , Operand: 168
+Offset: 67, PUSHI , Operand: 30
+Offset: 68, PUSHI , Operand: 1519
+Offset: 69, PUSHS , Operand: Willow tree
+Offset: 70, PUSHS , Operand: You can now chop down 
+Offset: 71, PUSHS , Operand: <col=000080>
+Offset: 72, PUSHS , Operand: willow trees
+Offset: 73, PUSHS , Operand: </col>
+Offset: 74, PUSHS , Operand: .
+Offset: 75, CONCAT , Operand: 5
+Offset: 76, RETURN , Operand: 0
+Offset: 77, GOTO , Operand: 157
+Offset: 78, PUSHI , Operand: 35
+Offset: 79, PUSHI , Operand: 6285
+Offset: 80, PUSHS , Operand: Members: Dense jungle
+Offset: 81, PUSHS , Operand: <br>
+Offset: 82, PUSHS , Operand:  (after Jungle Potion)
+Offset: 83, CONCAT , Operand: 3
+Offset: 84, PUSHS , Operand: Members now have the Woodcutting level required to clear 
+Offset: 85, PUSHS , Operand: <col=000080>
+Offset: 86, PUSHS , Operand: dense jungle
+Offset: 87, PUSHS , Operand: </col>
+Offset: 88, PUSHS , Operand:  in Tai Bwo Wannai Clean-up (after Jungle Potion).
+Offset: 89, CONCAT , Operand: 5
+Offset: 90, RETURN , Operand: 0
+Offset: 91, GOTO , Operand: 143
+Offset: 92, PUSHI , Operand: 35
+Offset: 93, PUSHI , Operand: 6333
+Offset: 94, PUSHS , Operand: Members: Teak tree
+Offset: 95, PUSHS , Operand: <br>
+Offset: 96, PUSHS , Operand:  (after Jungle Potion)
+Offset: 97, CONCAT , Operand: 3
+Offset: 98, PUSHS , Operand: Members now have the Woodcutting level required to chop down 
+Offset: 99, PUSHS , Operand: <col=000080>
+Offset: 100, PUSHS , Operand: teak trees
+Offset: 101, PUSHS , Operand: </col>
+Offset: 102, PUSHS , Operand:  (after Jungle Potion).
+Offset: 103, CONCAT , Operand: 5
+Offset: 104, RETURN , Operand: 0
+Offset: 105, GOTO , Operand: 129
+Offset: 106, PUSHI , Operand: 37
+Offset: 107, PUSHI , Operand: 13756
+Offset: 108, PUSHS , Operand: Members: Cursed willow tree roots
+Offset: 109, PUSHS , Operand: <br>
+Offset: 110, PUSHS , Operand:  (after starting Summer's End)
+Offset: 111, CONCAT , Operand: 3
+Offset: 112, PUSHS , Operand: Members now have the Woodcutting level required to chop 
+Offset: 113, PUSHS , Operand: <col=000080>
+Offset: 114, PUSHS , Operand: cursed willow tree roots
+Offset: 115, PUSHS , Operand: </col>
+Offset: 116, PUSHS , Operand:  (after starting Summer's End).
+Offset: 117, CONCAT , Operand: 5
+Offset: 118, RETURN , Operand: 0
+Offset: 119, GOTO , Operand: 115
+Offset: 120, PUSHI , Operand: 45
+Offset: 121, PUSHI , Operand: 1517
+Offset: 122, PUSHS , Operand: Maple tree
+Offset: 123, PUSHS , Operand: You can now chop down 
+Offset: 124, PUSHS , Operand: <col=000080>
+Offset: 125, PUSHS , Operand: maple trees
+Offset: 126, PUSHS , Operand: </col>
+Offset: 127, PUSHS , Operand: .
+Offset: 128, CONCAT , Operand: 5
+Offset: 129, RETURN , Operand: 0
+Offset: 130, GOTO , Operand: 104
+Offset: 131, PUSHI , Operand: 45
+Offset: 132, PUSHI , Operand: 3239
+Offset: 133, PUSHS , Operand: Members: Hollow tree
+Offset: 134, PUSHS , Operand: Members can now chop down 
+Offset: 135, PUSHS , Operand: <col=000080>
+Offset: 136, PUSHS , Operand: hollow trees
+Offset: 137, PUSHS , Operand: </col>
+Offset: 138, PUSHS , Operand: .
+Offset: 139, CONCAT , Operand: 5
+Offset: 140, RETURN , Operand: 0
+Offset: 141, GOTO , Operand: 93
+Offset: 142, PUSHI , Operand: 50
+Offset: 143, PUSHI , Operand: 6332
+Offset: 144, PUSHS , Operand: Members: Mahogany tree
+Offset: 145, PUSHS , Operand: <br>
+Offset: 146, PUSHS , Operand:  (after Jungle Potion)
+Offset: 147, CONCAT , Operand: 3
+Offset: 148, PUSHS , Operand: Members now have the Woodcutting level required to chop down 
+Offset: 149, PUSHS , Operand: <col=000080>
+Offset: 150, PUSHS , Operand: mahogany trees
+Offset: 151, PUSHS , Operand: </col>
+Offset: 152, PUSHS , Operand:  (after Jungle Potion).
+Offset: 153, CONCAT , Operand: 5
+Offset: 154, RETURN , Operand: 0
+Offset: 155, GOTO , Operand: 79
+Offset: 156, PUSHI , Operand: 54
+Offset: 157, PUSHI , Operand: 10810
+Offset: 158, PUSHS , Operand: Members: Arctic pine tree
+Offset: 159, PUSHS , Operand: Members can now chop down 
+Offset: 160, PUSHS , Operand: <col=000080>
+Offset: 161, PUSHS , Operand: arctic pine trees
+Offset: 162, PUSHS , Operand: </col>
+Offset: 163, PUSHS , Operand: .
+Offset: 164, CONCAT , Operand: 5
+Offset: 165, RETURN , Operand: 0
+Offset: 166, GOTO , Operand: 68
+Offset: 167, PUSHI , Operand: 58
+Offset: 168, PUSHI , Operand: 12581
+Offset: 169, PUSHS , Operand: Members: Eucalyptus tree
+Offset: 170, PUSHS , Operand: Members can now chop down 
+Offset: 171, PUSHS , Operand: <col=000080>
+Offset: 172, PUSHS , Operand: eucalyptus trees
+Offset: 173, PUSHS , Operand: </col>
+Offset: 174, PUSHS , Operand: .
+Offset: 175, CONCAT , Operand: 5
+Offset: 176, RETURN , Operand: 0
+Offset: 177, GOTO , Operand: 57
+Offset: 178, PUSHI , Operand: 60
+Offset: 179, PUSHI , Operand: 1515
+Offset: 180, PUSHS , Operand: Yew tree
+Offset: 181, PUSHS , Operand: You can now chop down 
+Offset: 182, PUSHS , Operand: <col=000080>
+Offset: 183, PUSHS , Operand: yew trees
+Offset: 184, PUSHS , Operand: </col>
+Offset: 185, PUSHS , Operand: .
+Offset: 186, CONCAT , Operand: 5
+Offset: 187, RETURN , Operand: 0
+Offset: 188, GOTO , Operand: 46
+Offset: 189, PUSHI , Operand: 68
+Offset: 190, PUSHI , Operand: 15288
+Offset: 191, PUSHS , Operand: Members: Choking ivy
+Offset: 192, PUSHS , Operand: Members can now chop down 
+Offset: 193, PUSHS , Operand: <col=000080>
+Offset: 194, PUSHS , Operand: choking ivy
+Offset: 195, PUSHS , Operand: </col>
+Offset: 196, PUSHS , Operand: .
+Offset: 197, CONCAT , Operand: 5
+Offset: 198, RETURN , Operand: 0
+Offset: 199, GOTO , Operand: 35
+Offset: 200, PUSHI , Operand: 75
+Offset: 201, PUSHI , Operand: 1513
+Offset: 202, PUSHS , Operand: Members: Magic tree
+Offset: 203, PUSHS , Operand: Members can now chop down 
+Offset: 204, PUSHS , Operand: <col=000080>
+Offset: 205, PUSHS , Operand: magic trees
+Offset: 206, PUSHS , Operand: </col>
+Offset: 207, PUSHS , Operand: .
+Offset: 208, CONCAT , Operand: 5
+Offset: 209, RETURN , Operand: 0
+Offset: 210, GOTO , Operand: 24
+Offset: 211, PUSHI , Operand: 80
+Offset: 212, PUSHI , Operand: 8794
+Offset: 213, PUSHS , Operand: Members: Sawmill training
+Offset: 214, PUSHS , Operand: Members can now participate in 
+Offset: 215, PUSHS , Operand: <col=000080>
+Offset: 216, PUSHS , Operand: sawmill training
+Offset: 217, PUSHS , Operand: </col>
+Offset: 218, PUSHS , Operand: .
+Offset: 219, CONCAT , Operand: 5
+Offset: 220, RETURN , Operand: 0
+Offset: 221, GOTO , Operand: 13
+Offset: 222, PUSHI , Operand: 82
+Offset: 223, PUSHI , Operand: 13567
+Offset: 224, PUSHS , Operand: Members: Cursed magic tree
+Offset: 225, PUSHS , Operand: <br>
+Offset: 226, PUSHS , Operand:  (after Spirit of Summer)
+Offset: 227, CONCAT , Operand: 3
+Offset: 228, PUSHS , Operand: Members now have the Woodcutting level required to chop down 
+Offset: 229, PUSHS , Operand: <col=000080>
+Offset: 230, PUSHS , Operand: cursed magic trees
+Offset: 231, PUSHS , Operand: </col>
+Offset: 232, PUSHS , Operand:  (after Spirit of Summer).
+Offset: 233, CONCAT , Operand: 5
+Offset: 234, RETURN , Operand: 0
+Offset: 235, GOTO , Operand: 702
+Offset: 236, LOADINT , Operand: 1
+Offset: 237, SWITCH , Operand: 2
+Offset: 238, GOTO , Operand: 121
+Offset: 239, PUSHI , Operand: 1
+Offset: 240, PUSHI , Operand: 1351
+Offset: 241, PUSHS , Operand: Bronze hatchet
+Offset: 242, PUSHS , Operand: You can now use 
+Offset: 243, PUSHS , Operand: <col=000080>
+Offset: 244, PUSHS , Operand: bronze hatchets
+Offset: 245, PUSHS , Operand: </col>
+Offset: 246, PUSHS , Operand: .
+Offset: 247, CONCAT , Operand: 5
+Offset: 248, RETURN , Operand: 0
+Offset: 249, GOTO , Operand: 110
+Offset: 250, PUSHI , Operand: 1
+Offset: 251, PUSHI , Operand: 1349
+Offset: 252, PUSHS , Operand: Iron hatchet
+Offset: 253, PUSHS , Operand: You can now use 
+Offset: 254, PUSHS , Operand: <col=000080>
+Offset: 255, PUSHS , Operand: iron hatchets
+Offset: 256, PUSHS , Operand: </col>
+Offset: 257, PUSHS , Operand: .
+Offset: 258, CONCAT , Operand: 5
+Offset: 259, RETURN , Operand: 0
+Offset: 260, GOTO , Operand: 99
+Offset: 261, PUSHI , Operand: 6
+Offset: 262, PUSHI , Operand: 1353
+Offset: 263, PUSHS , Operand: Steel hatchet
+Offset: 264, PUSHS , Operand: You can now use 
+Offset: 265, PUSHS , Operand: <col=000080>
+Offset: 266, PUSHS , Operand: steel hatchets
+Offset: 267, PUSHS , Operand: </col>
+Offset: 268, PUSHS , Operand: .
+Offset: 269, CONCAT , Operand: 5
+Offset: 270, RETURN , Operand: 0
+Offset: 271, GOTO , Operand: 88
+Offset: 272, PUSHI , Operand: 6
+Offset: 273, PUSHI , Operand: 1361
+Offset: 274, PUSHS , Operand: Black hatchet
+Offset: 275, PUSHS , Operand: You can now use 
+Offset: 276, PUSHS , Operand: <col=000080>
+Offset: 277, PUSHS , Operand: black hatchets
+Offset: 278, PUSHS , Operand: </col>
+Offset: 279, PUSHS , Operand: .
+Offset: 280, CONCAT , Operand: 5
+Offset: 281, RETURN , Operand: 0
+Offset: 282, GOTO , Operand: 77
+Offset: 283, PUSHI , Operand: 21
+Offset: 284, PUSHI , Operand: 1355
+Offset: 285, PUSHS , Operand: Mithril hatchet
+Offset: 286, PUSHS , Operand: You can now use 
+Offset: 287, PUSHS , Operand: <col=000080>
+Offset: 288, PUSHS , Operand: mithril hatchets
+Offset: 289, PUSHS , Operand: </col>
+Offset: 290, PUSHS , Operand: .
+Offset: 291, CONCAT , Operand: 5
+Offset: 292, RETURN , Operand: 0
+Offset: 293, GOTO , Operand: 66
+Offset: 294, PUSHI , Operand: 31
+Offset: 295, PUSHI , Operand: 1357
+Offset: 296, PUSHS , Operand: Adamant hatchet
+Offset: 297, PUSHS , Operand: You can now use 
+Offset: 298, PUSHS , Operand: <col=000080>
+Offset: 299, PUSHS , Operand: adamant hatchets
+Offset: 300, PUSHS , Operand: </col>
+Offset: 301, PUSHS , Operand: .
+Offset: 302, CONCAT , Operand: 5
+Offset: 303, RETURN , Operand: 0
+Offset: 304, GOTO , Operand: 55
+Offset: 305, PUSHI , Operand: 40
+Offset: 306, PUSHI , Operand: 14108
+Offset: 307, PUSHS , Operand: Members: Sacred clay hatchet
+Offset: 308, PUSHS , Operand: Members can now use 
+Offset: 309, PUSHS , Operand: <col=000080>
+Offset: 310, PUSHS , Operand: sacred clay hatchets
+Offset: 311, PUSHS , Operand: </col>
+Offset: 312, CONCAT , Operand: 4
+Offset: 313, RETURN , Operand: 0
+Offset: 314, GOTO , Operand: 45
+Offset: 315, PUSHI , Operand: 40
+Offset: 316, PUSHI , Operand: 14100
+Offset: 317, PUSHS , Operand: Members: Volatile hatchet
+Offset: 318, PUSHS , Operand: Members can now use 
+Offset: 319, PUSHS , Operand: <col=000080>
+Offset: 320, PUSHS , Operand: volatile hatchets
+Offset: 321, PUSHS , Operand: </col>
+Offset: 322, CONCAT , Operand: 4
+Offset: 323, RETURN , Operand: 0
+Offset: 324, GOTO , Operand: 35
+Offset: 325, PUSHI , Operand: 41
+Offset: 326, PUSHI , Operand: 1359
+Offset: 327, PUSHS , Operand: Rune hatchet
+Offset: 328, PUSHS , Operand: You can now use 
+Offset: 329, PUSHS , Operand: <col=000080>
+Offset: 330, PUSHS , Operand: rune hatchets
+Offset: 331, PUSHS , Operand: </col>
+Offset: 332, PUSHS , Operand: .
+Offset: 333, CONCAT , Operand: 5
+Offset: 334, RETURN , Operand: 0
+Offset: 335, GOTO , Operand: 24
+Offset: 336, PUSHI , Operand: 61
+Offset: 337, PUSHI , Operand: 6739
+Offset: 338, PUSHS , Operand: Members: Dragon hatchet
+Offset: 339, PUSHS , Operand: Members can now use 
+Offset: 340, PUSHS , Operand: <col=000080>
+Offset: 341, PUSHS , Operand: dragon hatchets
+Offset: 342, PUSHS , Operand: </col>
+Offset: 343, PUSHS , Operand: .
+Offset: 344, CONCAT , Operand: 5
+Offset: 345, RETURN , Operand: 0
+Offset: 346, GOTO , Operand: 13
+Offset: 347, PUSHI , Operand: 61
+Offset: 348, PUSHI , Operand: 13661
+Offset: 349, PUSHS , Operand: Members: Inferno Adze
+Offset: 350, PUSHS , Operand: <br>
+Offset: 351, PUSHS , Operand:  (after All Fired Up, with 92 Firemaking)
+Offset: 352, CONCAT , Operand: 3
+Offset: 353, PUSHS , Operand: Members can now use the 
+Offset: 354, PUSHS , Operand: <col=000080>
+Offset: 355, PUSHS , Operand: Inferno Adze
+Offset: 356, PUSHS , Operand: </col>
+Offset: 357, PUSHS , Operand:  to chop down trees (after All Fired Up and with level 92 Firemaking).
+Offset: 358, CONCAT , Operand: 5
+Offset: 359, RETURN , Operand: 0
+Offset: 360, GOTO , Operand: 577
+Offset: 361, LOADINT , Operand: 1
+Offset: 362, SWITCH , Operand: 3
+Offset: 363, GOTO , Operand: 43
+Offset: 364, PUSHI , Operand: 12
+Offset: 365, PUSHI , Operand: 7414
+Offset: 366, PUSHS , Operand: Log canoe
+Offset: 367, PUSHS , Operand: Members can now make 
+Offset: 368, PUSHS , Operand: <col=000080>
+Offset: 369, PUSHS , Operand: log canoes
+Offset: 370, PUSHS , Operand: </col>
+Offset: 371, PUSHS , Operand: .
+Offset: 372, CONCAT , Operand: 5
+Offset: 373, RETURN , Operand: 0
+Offset: 374, GOTO , Operand: 32
+Offset: 375, PUSHI , Operand: 27
+Offset: 376, PUSHI , Operand: 7414
+Offset: 377, PUSHS , Operand: Dugout canoe
+Offset: 378, PUSHS , Operand: Members can now make 
+Offset: 379, PUSHS , Operand: <col=000080>
+Offset: 380, PUSHS , Operand: dugout canoes
+Offset: 381, PUSHS , Operand: </col>
+Offset: 382, PUSHS , Operand: .
+Offset: 383, CONCAT , Operand: 5
+Offset: 384, RETURN , Operand: 0
+Offset: 385, GOTO , Operand: 21
+Offset: 386, PUSHI , Operand: 42
+Offset: 387, PUSHI , Operand: 7414
+Offset: 388, PUSHS , Operand: Stable dugout canoe
+Offset: 389, PUSHS , Operand: Members can now make 
+Offset: 390, PUSHS , Operand: <col=000080>
+Offset: 391, PUSHS , Operand: stable dugout canoes
+Offset: 392, PUSHS , Operand: </col>
+Offset: 393, PUSHS , Operand: .
+Offset: 394, CONCAT , Operand: 5
+Offset: 395, RETURN , Operand: 0
+Offset: 396, GOTO , Operand: 10
+Offset: 397, PUSHI , Operand: 57
+Offset: 398, PUSHI , Operand: 7414
+Offset: 399, PUSHS , Operand: Waka canoe
+Offset: 400, PUSHS , Operand: Members can now make 
+Offset: 401, PUSHS , Operand: <col=000080>
+Offset: 402, PUSHS , Operand: waka canoes
+Offset: 403, PUSHS , Operand: </col>
+Offset: 404, PUSHS , Operand: .
+Offset: 405, CONCAT , Operand: 5
+Offset: 406, RETURN , Operand: 0
+Offset: 407, GOTO , Operand: 530
+Offset: 408, LOADINT , Operand: 1
+Offset: 409, PUSHI , Operand: 0
+Offset: 410, IFEQ , Operand: 1
+Offset: 411, GOTO , Operand: 10
+Offset: 412, PUSHI , Operand: 44
+Offset: 413, PUSHI , Operand: 10939
+Offset: 414, PUSHS , Operand: Lumberjack clothing
+Offset: 415, PUSHS , Operand: Members can now wear the 
+Offset: 416, PUSHS , Operand: <col=000080>
+Offset: 417, PUSHS , Operand: undead lumberjack
+Offset: 418, PUSHS , Operand: </col>
+Offset: 419, PUSHS , Operand:  clothing.
+Offset: 420, CONCAT , Operand: 5
+Offset: 421, RETURN , Operand: 0
+Offset: 422, LOADINT , Operand: 1
+Offset: 423, PUSHI , Operand: 1
+Offset: 424, IFEQ , Operand: 1
+Offset: 425, GOTO , Operand: 10
+Offset: 426, PUSHI , Operand: 54
+Offset: 427, PUSHI , Operand: 10826
+Offset: 428, PUSHS , Operand: Fremennik round shield
+Offset: 429, PUSHS , Operand: Members can now make 
+Offset: 430, PUSHS , Operand: <col=000080>
+Offset: 431, PUSHS , Operand: Fremennik round shields
+Offset: 432, PUSHS , Operand: </col>
+Offset: 433, PUSHS , Operand: .
+Offset: 434, CONCAT , Operand: 5
+Offset: 435, RETURN , Operand: 0
+Offset: 436, LOADINT , Operand: 1
+Offset: 437, PUSHI , Operand: 2
+Offset: 438, IFEQ , Operand: 1
+Offset: 439, GOTO , Operand: 10
+Offset: 440, PUSHI , Operand: 54
+Offset: 441, PUSHI , Operand: 10812
+Offset: 442, PUSHS , Operand: Split arctic pine logs
+Offset: 443, PUSHS , Operand: Members can now split 
+Offset: 444, PUSHS , Operand: <col=000080>
+Offset: 445, PUSHS , Operand: arctic pine logs
+Offset: 446, PUSHS , Operand: </col>
+Offset: 447, PUSHS , Operand: .
+Offset: 448, CONCAT , Operand: 5
+Offset: 449, RETURN , Operand: 0
+Offset: 450, GOTO , Operand: 487
+Offset: 451, LOADINT , Operand: 1
+Offset: 452, SWITCH , Operand: 4
+Offset: 453, GOTO , Operand: 43
+Offset: 454, PUSHI , Operand: 91
+Offset: 455, PUSHI , Operand: 18778
+Offset: 456, PUSHS , Operand: Members: Starved ancient effigies
+Offset: 457, PUSHS , Operand: Members can now investigate 
+Offset: 458, PUSHS , Operand: <col=000080>
+Offset: 459, PUSHS , Operand: starved ancient effigies
+Offset: 460, PUSHS , Operand: </col>
+Offset: 461, PUSHS , Operand:  using their knowledge of Woodcutting.
+Offset: 462, CONCAT , Operand: 5
+Offset: 463, RETURN , Operand: 0
+Offset: 464, GOTO , Operand: 32
+Offset: 465, PUSHI , Operand: 93
+Offset: 466, PUSHI , Operand: 18779
+Offset: 467, PUSHS , Operand: Members: Nourished ancient effigies
+Offset: 468, PUSHS , Operand: Members can now investigate 
+Offset: 469, PUSHS , Operand: <col=000080>
+Offset: 470, PUSHS , Operand: nourished ancient effigies
+Offset: 471, PUSHS , Operand: </col>
+Offset: 472, PUSHS , Operand:  using their knowledge of Woodcutting.
+Offset: 473, CONCAT , Operand: 5
+Offset: 474, RETURN , Operand: 0
+Offset: 475, GOTO , Operand: 21
+Offset: 476, PUSHI , Operand: 95
+Offset: 477, PUSHI , Operand: 18780
+Offset: 478, PUSHS , Operand: Members: Sated ancient effigies
+Offset: 479, PUSHS , Operand: Members can now investigate 
+Offset: 480, PUSHS , Operand: <col=000080>
+Offset: 481, PUSHS , Operand: sated ancient effigies
+Offset: 482, PUSHS , Operand: </col>
+Offset: 483, PUSHS , Operand:  using their knowledge of Woodcutting.
+Offset: 484, CONCAT , Operand: 5
+Offset: 485, RETURN , Operand: 0
+Offset: 486, GOTO , Operand: 10
+Offset: 487, PUSHI , Operand: 97
+Offset: 488, PUSHI , Operand: 18781
+Offset: 489, PUSHS , Operand: Members: Gorged ancient effigies
+Offset: 490, PUSHS , Operand: Members can now investigate 
+Offset: 491, PUSHS , Operand: <col=000080>
+Offset: 492, PUSHS , Operand: gorged ancient effigies
+Offset: 493, PUSHS , Operand: </col>
+Offset: 494, PUSHS , Operand:  using their knowledge of Woodcutting.
+Offset: 495, CONCAT , Operand: 5
+Offset: 496, RETURN , Operand: 0
+Offset: 497, GOTO , Operand: 440
+Offset: 498, LOADINT , Operand: 1
+Offset: 499, SWITCH , Operand: 5
+Offset: 500, GOTO , Operand: 168
+Offset: 501, PUSHI , Operand: 1
+Offset: 502, PUSHI , Operand: 14667
+Offset: 503, PUSHS , Operand: Chop basic evil tree
+Offset: 504, PUSHS , Operand: Members can now chop 
+Offset: 505, PUSHS , Operand: <col=000080>
+Offset: 506, PUSHS , Operand: basic evil trees
+Offset: 507, PUSHS , Operand: </col>
+Offset: 508, CONCAT , Operand: 4
+Offset: 509, RETURN , Operand: 0
+Offset: 510, GOTO , Operand: 158
+Offset: 511, PUSHI , Operand: 1
+Offset: 512, PUSHI , Operand: 14132
+Offset: 513, PUSHS , Operand: Stealing Creation - class 1 hatchet
+Offset: 514, PUSHS , Operand: Members can now use 
+Offset: 515, PUSHS , Operand: <col=000080>
+Offset: 516, PUSHS , Operand: class 1 hatchets
+Offset: 517, PUSHS , Operand: </col>
+Offset: 518, PUSHS , Operand:  in Stealing Creation.
+Offset: 519, CONCAT , Operand: 5
+Offset: 520, RETURN , Operand: 0
+Offset: 521, GOTO , Operand: 147
+Offset: 522, PUSHI , Operand: 15
+Offset: 523, PUSHI , Operand: 14667
+Offset: 524, PUSHS , Operand: Chop evil oak tree
+Offset: 525, PUSHS , Operand: Members can now chop 
+Offset: 526, PUSHS , Operand: <col=000080>
+Offset: 527, PUSHS , Operand: evil oak trees
+Offset: 528, PUSHS , Operand: </col>
+Offset: 529, CONCAT , Operand: 4
+Offset: 530, RETURN , Operand: 0
+Offset: 531, GOTO , Operand: 137
+Offset: 532, PUSHI , Operand: 20
+Offset: 533, PUSHI , Operand: 14184
+Offset: 534, PUSHS , Operand: Stealing Creation - woodcut class 2 sacred clay
+Offset: 535, PUSHS , Operand: Members can now woodcut 
+Offset: 536, PUSHS , Operand: <col=000080>
+Offset: 537, PUSHS , Operand: class 2 sacred clay
+Offset: 538, PUSHS , Operand: </col>
+Offset: 539, PUSHS , Operand:  in Stealing Creation.
+Offset: 540, CONCAT , Operand: 5
+Offset: 541, RETURN , Operand: 0
+Offset: 542, GOTO , Operand: 126
+Offset: 543, PUSHI , Operand: 20
+Offset: 544, PUSHI , Operand: 14134
+Offset: 545, PUSHS , Operand: Stealing Creation - class 2 hatchet
+Offset: 546, PUSHS , Operand: Members can now use 
+Offset: 547, PUSHS , Operand: <col=000080>
+Offset: 548, PUSHS , Operand: class 2 hatchets
+Offset: 549, PUSHS , Operand: </col>
+Offset: 550, PUSHS , Operand:  in Stealing Creation.
+Offset: 551, CONCAT , Operand: 5
+Offset: 552, RETURN , Operand: 0
+Offset: 553, GOTO , Operand: 115
+Offset: 554, PUSHI , Operand: 30
+Offset: 555, PUSHI , Operand: 14667
+Offset: 556, PUSHS , Operand: Chop evil willow tree
+Offset: 557, PUSHS , Operand: Members can now chop 
+Offset: 558, PUSHS , Operand: <col=000080>
+Offset: 559, PUSHS , Operand: evil willow trees
+Offset: 560, PUSHS , Operand: </col>
+Offset: 561, CONCAT , Operand: 4
+Offset: 562, RETURN , Operand: 0
+Offset: 563, GOTO , Operand: 105
+Offset: 564, PUSHI , Operand: 40
+Offset: 565, PUSHI , Operand: 14186
+Offset: 566, PUSHS , Operand: Stealing Creation - woodcut class 3 sacred clay
+Offset: 567, PUSHS , Operand: Members can now woodcut 
+Offset: 568, PUSHS , Operand: <col=000080>
+Offset: 569, PUSHS , Operand: class 3 sacred clay
+Offset: 570, PUSHS , Operand: </col>
+Offset: 571, PUSHS , Operand:  in Stealing Creation.
+Offset: 572, CONCAT , Operand: 5
+Offset: 573, RETURN , Operand: 0
+Offset: 574, GOTO , Operand: 94
+Offset: 575, PUSHI , Operand: 40
+Offset: 576, PUSHI , Operand: 14136
+Offset: 577, PUSHS , Operand: Stealing Creation - class 3 hatchet
+Offset: 578, PUSHS , Operand: Members can now use 
+Offset: 579, PUSHS , Operand: <col=000080>
+Offset: 580, PUSHS , Operand: class 3 hatchets
+Offset: 581, PUSHS , Operand: </col>
+Offset: 582, PUSHS , Operand:  in Stealing Creation.
+Offset: 583, CONCAT , Operand: 5
+Offset: 584, RETURN , Operand: 0
+Offset: 585, GOTO , Operand: 83
+Offset: 586, PUSHI , Operand: 45
+Offset: 587, PUSHI , Operand: 14667
+Offset: 588, PUSHS , Operand: Chop evil maple tree
+Offset: 589, PUSHS , Operand: Members can now chop 
+Offset: 590, PUSHS , Operand: <col=000080>
+Offset: 591, PUSHS , Operand: evil maple trees
+Offset: 592, PUSHS , Operand: </col>
+Offset: 593, CONCAT , Operand: 4
+Offset: 594, RETURN , Operand: 0
+Offset: 595, GOTO , Operand: 73
+Offset: 596, PUSHI , Operand: 60
+Offset: 597, PUSHI , Operand: 14667
+Offset: 598, PUSHS , Operand: Chop evil yew tree
+Offset: 599, PUSHS , Operand: Members can now chop 
+Offset: 600, PUSHS , Operand: <col=000080>
+Offset: 601, PUSHS , Operand: evil yew trees
+Offset: 602, PUSHS , Operand: </col>
+Offset: 603, CONCAT , Operand: 4
+Offset: 604, RETURN , Operand: 0
+Offset: 605, GOTO , Operand: 63
+Offset: 606, PUSHI , Operand: 60
+Offset: 607, PUSHI , Operand: 14188
+Offset: 608, PUSHS , Operand: Stealing Creation - woodcut class 4 sacred clay
+Offset: 609, PUSHS , Operand: Members can now woodcut 
+Offset: 610, PUSHS , Operand: <col=000080>
+Offset: 611, PUSHS , Operand: class 4 sacred clay
+Offset: 612, PUSHS , Operand: </col>
+Offset: 613, PUSHS , Operand:  in Stealing Creation.
+Offset: 614, CONCAT , Operand: 5
+Offset: 615, RETURN , Operand: 0
+Offset: 616, GOTO , Operand: 52
+Offset: 617, PUSHI , Operand: 60
+Offset: 618, PUSHI , Operand: 14138
+Offset: 619, PUSHS , Operand: Stealing Creation - class 4 hatchet
+Offset: 620, PUSHS , Operand: Members can now use 
+Offset: 621, PUSHS , Operand: <col=000080>
+Offset: 622, PUSHS , Operand: class 4 hatchets
+Offset: 623, PUSHS , Operand: </col>
+Offset: 624, PUSHS , Operand:  in Stealing Creation.
+Offset: 625, CONCAT , Operand: 5
+Offset: 626, RETURN , Operand: 0
+Offset: 627, GOTO , Operand: 41
+Offset: 628, PUSHI , Operand: 75
+Offset: 629, PUSHI , Operand: 14667
+Offset: 630, PUSHS , Operand: Chop evil magic tree
+Offset: 631, PUSHS , Operand: Members can now chop 
+Offset: 632, PUSHS , Operand: <col=000080>
+Offset: 633, PUSHS , Operand: evil magic trees
+Offset: 634, PUSHS , Operand: </col>
+Offset: 635, CONCAT , Operand: 4
+Offset: 636, RETURN , Operand: 0
+Offset: 637, GOTO , Operand: 31
+Offset: 638, PUSHI , Operand: 80
+Offset: 639, PUSHI , Operand: 14190
+Offset: 640, PUSHS , Operand: Stealing Creation - woodcut class 5 sacred clay
+Offset: 641, PUSHS , Operand: Members can now woodcut 
+Offset: 642, PUSHS , Operand: <col=000080>
+Offset: 643, PUSHS , Operand: class 5 sacred clay
+Offset: 644, PUSHS , Operand: </col>
+Offset: 645, PUSHS , Operand:  in Stealing Creation.
+Offset: 646, CONCAT , Operand: 5
+Offset: 647, RETURN , Operand: 0
+Offset: 648, GOTO , Operand: 20
+Offset: 649, PUSHI , Operand: 80
+Offset: 650, PUSHI , Operand: 14140
+Offset: 651, PUSHS , Operand: Stealing Creation - class 5 hatchet
+Offset: 652, PUSHS , Operand: Members can now use 
+Offset: 653, PUSHS , Operand: <col=000080>
+Offset: 654, PUSHS , Operand: class 5 hatchets
+Offset: 655, PUSHS , Operand: </col>
+Offset: 656, PUSHS , Operand:  in Stealing Creation.
+Offset: 657, CONCAT , Operand: 5
+Offset: 658, RETURN , Operand: 0
+Offset: 659, GOTO , Operand: 9
+Offset: 660, PUSHI , Operand: 85
+Offset: 661, PUSHI , Operand: 14667
+Offset: 662, PUSHS , Operand: Chop elder evil tree
+Offset: 663, PUSHS , Operand: Members can now chop 
+Offset: 664, PUSHS , Operand: <col=000080>
+Offset: 665, PUSHS , Operand: elder evil trees
+Offset: 666, PUSHS , Operand: </col>
+Offset: 667, CONCAT , Operand: 4
+Offset: 668, RETURN , Operand: 0
+Offset: 669, GOTO , Operand: 268
+Offset: 670, LOADINT , Operand: 1
+Offset: 671, SWITCH , Operand: 6
+Offset: 672, GOTO , Operand: 237
+Offset: 673, PUSHI , Operand: -1
+Offset: 674, PUSHI , Operand: 15707
+Offset: 675, PUSHS , Operand: Dungeoneering skill tasks
+Offset: 676, PUSHS , Operand: <br>
+Offset: 677, PUSHS , Operand: As your Woodcutting level increases, you will be able to attempt higher-level woodcutting tasks within Daemonheim. You will also be more likely to succeed when attempting woodcutting tasks within Daemonheim.
+Offset: 678, CONCAT , Operand: 3
+Offset: 679, PUSHS , Operand: 
+Offset: 680, RETURN , Operand: 0
+Offset: 681, GOTO , Operand: 228
+Offset: 682, PUSHI , Operand: 1
+Offset: 683, PUSHI , Operand: 17682
+Offset: 684, PUSHS , Operand: Tangle gum tree (Tier 1)
+Offset: 685, PUSHS , Operand: You can now chop down 
+Offset: 686, PUSHS , Operand: <col=000080>
+Offset: 687, PUSHS , Operand: tangle gum trees
+Offset: 688, PUSHS , Operand: </col>
+Offset: 689, PUSHS , Operand:  within Daemonheim.
+Offset: 690, CONCAT , Operand: 5
+Offset: 691, RETURN , Operand: 0
+Offset: 692, GOTO , Operand: 217
+Offset: 693, PUSHI , Operand: 1
+Offset: 694, PUSHI , Operand: 16361
+Offset: 695, PUSHS , Operand: Novite hatchet (Tier 1)
+Offset: 696, PUSHS , Operand: You can now use 
+Offset: 697, PUSHS , Operand: <col=000080>
+Offset: 698, PUSHS , Operand: novite hatchets
+Offset: 699, PUSHS , Operand: </col>
+Offset: 700, PUSHS , Operand:  within Daemonheim.
+Offset: 701, CONCAT , Operand: 5
+Offset: 702, RETURN , Operand: 0
+Offset: 703, GOTO , Operand: 206
+Offset: 704, PUSHI , Operand: 10
+Offset: 705, PUSHI , Operand: 17684
+Offset: 706, PUSHS , Operand: Seeping elm tree (Tier 2)
+Offset: 707, PUSHS , Operand: You can now chop 
+Offset: 708, PUSHS , Operand: <col=000080>
+Offset: 709, PUSHS , Operand: seeping elm trees
+Offset: 710, PUSHS , Operand: </col>
+Offset: 711, PUSHS , Operand:  within Daemonheim.
+Offset: 712, CONCAT , Operand: 5
+Offset: 713, RETURN , Operand: 0
+Offset: 714, GOTO , Operand: 195
+Offset: 715, PUSHI , Operand: 10
+Offset: 716, PUSHI , Operand: 16363
+Offset: 717, PUSHS , Operand: Bathus hatchet (Tier 2)
+Offset: 718, PUSHS , Operand: You can now use 
+Offset: 719, PUSHS , Operand: <col=000080>
+Offset: 720, PUSHS , Operand: bathus hatchets
+Offset: 721, PUSHS , Operand: </col>
+Offset: 722, PUSHS , Operand:  within Daemonheim.
+Offset: 723, CONCAT , Operand: 5
+Offset: 724, RETURN , Operand: 0
+Offset: 725, GOTO , Operand: 184
+Offset: 726, PUSHI , Operand: 20
+Offset: 727, PUSHI , Operand: 17686
+Offset: 728, PUSHS , Operand: Blood spindle tree (Tier 3)
+Offset: 729, PUSHS , Operand: You can now chop down 
+Offset: 730, PUSHS , Operand: <col=000080>
+Offset: 731, PUSHS , Operand: blood spindle trees
+Offset: 732, PUSHS , Operand: </col>
+Offset: 733, PUSHS , Operand:  within Daemonheim.
+Offset: 734, CONCAT , Operand: 5
+Offset: 735, RETURN , Operand: 0
+Offset: 736, GOTO , Operand: 173
+Offset: 737, PUSHI , Operand: 20
+Offset: 738, PUSHI , Operand: 16365
+Offset: 739, PUSHS , Operand: Marmaros hatchet (Tier 3)
+Offset: 740, PUSHS , Operand: You can now use 
+Offset: 741, PUSHS , Operand: <col=000080>
+Offset: 742, PUSHS , Operand: marmaros hatchets
+Offset: 743, PUSHS , Operand: </col>
+Offset: 744, PUSHS , Operand:  within Daemonheim.
+Offset: 745, CONCAT , Operand: 5
+Offset: 746, RETURN , Operand: 0
+Offset: 747, GOTO , Operand: 162
+Offset: 748, PUSHI , Operand: 30
+Offset: 749, PUSHI , Operand: 17688
+Offset: 750, PUSHS , Operand: Utuku tree (Tier 4)
+Offset: 751, PUSHS , Operand: You can now chop down 
+Offset: 752, PUSHS , Operand: <col=000080>
+Offset: 753, PUSHS , Operand: utuku trees
+Offset: 754, PUSHS , Operand: </col>
+Offset: 755, PUSHS , Operand:  within Daemonheim.
+Offset: 756, CONCAT , Operand: 5
+Offset: 757, RETURN , Operand: 0
+Offset: 758, GOTO , Operand: 151
+Offset: 759, PUSHI , Operand: 30
+Offset: 760, PUSHI , Operand: 16367
+Offset: 761, PUSHS , Operand: Kratonite hatchet (Tier 4)
+Offset: 762, PUSHS , Operand: You can now use 
+Offset: 763, PUSHS , Operand: <col=000080>
+Offset: 764, PUSHS , Operand: kratonite hatchets
+Offset: 765, PUSHS , Operand: </col>
+Offset: 766, PUSHS , Operand:  within Daemonheim.
+Offset: 767, CONCAT , Operand: 5
+Offset: 768, RETURN , Operand: 0
+Offset: 769, GOTO , Operand: 140
+Offset: 770, PUSHI , Operand: 40
+Offset: 771, PUSHI , Operand: 17690
+Offset: 772, PUSHS , Operand: Spinebeam tree (Tier 5)
+Offset: 773, PUSHS , Operand: You can now chop down 
+Offset: 774, PUSHS , Operand: <col=000080>
+Offset: 775, PUSHS , Operand: spinebeam trees
+Offset: 776, PUSHS , Operand: </col>
+Offset: 777, PUSHS , Operand:  within Daemonheim.
+Offset: 778, CONCAT , Operand: 5
+Offset: 779, RETURN , Operand: 0
+Offset: 780, GOTO , Operand: 129
+Offset: 781, PUSHI , Operand: 40
+Offset: 782, PUSHI , Operand: 16369
+Offset: 783, PUSHS , Operand: Fractite hatchet (Tier 5)
+Offset: 784, PUSHS , Operand: You can now use 
+Offset: 785, PUSHS , Operand: <col=000080>
+Offset: 786, PUSHS , Operand: fractite hatchets
+Offset: 787, PUSHS , Operand: </col>
+Offset: 788, PUSHS , Operand:  within Daemonheim.
+Offset: 789, CONCAT , Operand: 5
+Offset: 790, RETURN , Operand: 0
+Offset: 791, GOTO , Operand: 118
+Offset: 792, PUSHI , Operand: 50
+Offset: 793, PUSHI , Operand: 17692
+Offset: 794, PUSHS , Operand: Members: Bovistrangler tree (Tier 6)
+Offset: 795, PUSHS , Operand: Members can now chop down 
+Offset: 796, PUSHS , Operand: <col=000080>
+Offset: 797, PUSHS , Operand: bovistrangler trees
+Offset: 798, PUSHS , Operand: </col>
+Offset: 799, PUSHS , Operand:  within Daemonheim.
+Offset: 800, CONCAT , Operand: 5
+Offset: 801, RETURN , Operand: 0
+Offset: 802, GOTO , Operand: 107
+Offset: 803, PUSHI , Operand: 50
+Offset: 804, PUSHI , Operand: 16371
+Offset: 805, PUSHS , Operand: Members: Zephyrium hatchet (Tier 6)
+Offset: 806, PUSHS , Operand: Members can now use 
+Offset: 807, PUSHS , Operand: <col=000080>
+Offset: 808, PUSHS , Operand: zephyrium hatchets
+Offset: 809, PUSHS , Operand: </col>
+Offset: 810, PUSHS , Operand:  within Daemonheim.
+Offset: 811, CONCAT , Operand: 5
+Offset: 812, RETURN , Operand: 0
+Offset: 813, GOTO , Operand: 96
+Offset: 814, PUSHI , Operand: 60
+Offset: 815, PUSHI , Operand: 17694
+Offset: 816, PUSHS , Operand: Members: Thigat tree (Tier 7)
+Offset: 817, PUSHS , Operand: Members can now chop down 
+Offset: 818, PUSHS , Operand: <col=000080>
+Offset: 819, PUSHS , Operand: thigat trees
+Offset: 820, PUSHS , Operand: </col>
+Offset: 821, PUSHS , Operand:  within Daemonheim.
+Offset: 822, CONCAT , Operand: 5
+Offset: 823, RETURN , Operand: 0
+Offset: 824, GOTO , Operand: 85
+Offset: 825, PUSHI , Operand: 60
+Offset: 826, PUSHI , Operand: 16373
+Offset: 827, PUSHS , Operand: Members: Argonite hatchet (Tier 7)
+Offset: 828, PUSHS , Operand: Members can now use 
+Offset: 829, PUSHS , Operand: <col=000080>
+Offset: 830, PUSHS , Operand: argonite hatchets
+Offset: 831, PUSHS , Operand: </col>
+Offset: 832, PUSHS , Operand:  within Daemonheim.
+Offset: 833, CONCAT , Operand: 5
+Offset: 834, RETURN , Operand: 0
+Offset: 835, GOTO , Operand: 74
+Offset: 836, PUSHI , Operand: 70
+Offset: 837, PUSHI , Operand: 17696
+Offset: 838, PUSHS , Operand: Members: Corpsethorn tree (Tier 8)
+Offset: 839, PUSHS , Operand: Members can now chop down 
+Offset: 840, PUSHS , Operand: <col=000080>
+Offset: 841, PUSHS , Operand: corpsethorn trees
+Offset: 842, PUSHS , Operand: </col>
+Offset: 843, PUSHS , Operand:  within Daemonheim.
+Offset: 844, CONCAT , Operand: 5
+Offset: 845, RETURN , Operand: 0
+Offset: 846, GOTO , Operand: 63
+Offset: 847, PUSHI , Operand: 70
+Offset: 848, PUSHI , Operand: 16375
+Offset: 849, PUSHS , Operand: Members: Katagon hatchet (Tier 8)
+Offset: 850, PUSHS , Operand: Members can now use 
+Offset: 851, PUSHS , Operand: <col=000080>
+Offset: 852, PUSHS , Operand: katagon hatchets
+Offset: 853, PUSHS , Operand: </col>
+Offset: 854, PUSHS , Operand:  within Daemonheim.
+Offset: 855, CONCAT , Operand: 5
+Offset: 856, RETURN , Operand: 0
+Offset: 857, GOTO , Operand: 52
+Offset: 858, PUSHI , Operand: 80
+Offset: 859, PUSHI , Operand: 17698
+Offset: 860, PUSHS , Operand: Members: Entgallow tree (Tier 9)
+Offset: 861, PUSHS , Operand: Members can now chop down 
+Offset: 862, PUSHS , Operand: <col=000080>
+Offset: 863, PUSHS , Operand: entgallow trees
+Offset: 864, PUSHS , Operand: </col>
+Offset: 865, PUSHS , Operand:  within Daemonheim.
+Offset: 866, CONCAT , Operand: 5
+Offset: 867, RETURN , Operand: 0
+Offset: 868, GOTO , Operand: 41
+Offset: 869, PUSHI , Operand: 80
+Offset: 870, PUSHI , Operand: 16377
+Offset: 871, PUSHS , Operand: Members: Gorgonite hatchet (Tier 9)
+Offset: 872, PUSHS , Operand: Members can now use 
+Offset: 873, PUSHS , Operand: <col=000080>
+Offset: 874, PUSHS , Operand: gorgonite hatchets
+Offset: 875, PUSHS , Operand: </col>
+Offset: 876, PUSHS , Operand:  within Daemonheim.
+Offset: 877, CONCAT , Operand: 5
+Offset: 878, RETURN , Operand: 0
+Offset: 879, GOTO , Operand: 30
+Offset: 880, PUSHI , Operand: 90
+Offset: 881, PUSHI , Operand: 17700
+Offset: 882, PUSHS , Operand: Members: Grave creeper tree (Tier 10)
+Offset: 883, PUSHS , Operand: Members can now chop down 
+Offset: 884, PUSHS , Operand: <col=000080>
+Offset: 885, PUSHS , Operand: grave creeper trees
+Offset: 886, PUSHS , Operand: </col>
+Offset: 887, PUSHS , Operand:  within Daemonheim.
+Offset: 888, CONCAT , Operand: 5
+Offset: 889, RETURN , Operand: 0
+Offset: 890, GOTO , Operand: 19
+Offset: 891, PUSHI , Operand: 90
+Offset: 892, PUSHI , Operand: 16379
+Offset: 893, PUSHS , Operand: Members: Promethium hatchet (Tier 10)
+Offset: 894, PUSHS , Operand: Members can now use 
+Offset: 895, PUSHS , Operand: <col=000080>
+Offset: 896, PUSHS , Operand: promethium hatchets
+Offset: 897, PUSHS , Operand: </col>
+Offset: 898, PUSHS , Operand:  within Daemonheim.
+Offset: 899, CONCAT , Operand: 5
+Offset: 900, RETURN , Operand: 0
+Offset: 901, GOTO , Operand: 8
+Offset: 902, PUSHI , Operand: 99
+Offset: 903, PUSHI , Operand: 16381
+Offset: 904, PUSHS , Operand: Members: Primal hatchet (Tier 11)
+Offset: 905, PUSHS , Operand: Members can now use primal hatchets
+Offset: 906, PUSHS , Operand: </col>
+Offset: 907, PUSHS , Operand:  within Daemonheim.
+Offset: 908, CONCAT , Operand: 3
+Offset: 909, RETURN , Operand: 0
+Offset: 910, GOTO , Operand: 27
+Offset: 911, LOADINT , Operand: 1
+Offset: 912, PUSHI , Operand: 0
+Offset: 913, IFEQ , Operand: 1
+Offset: 914, GOTO , Operand: 23
+Offset: 915, PUSHI , Operand: 99
+Offset: 916, PUSHI , Operand: 9807
+Offset: 917, PUSHS , Operand: Skill mastery
+Offset: 918, PUSHS , Operand: <col=000080>
+Offset: 919, PUSHS , Operand: Congratulations! You are now a master of 
+Offset: 920, PUSHS , Operand: <col=800000>
+Offset: 921, PUSHS , Operand: Woodcutting
+Offset: 922, PUSHS , Operand: <col=000080>
+Offset: 923, PUSHS , Operand: . Members can visit 
+Offset: 924, PUSHS , Operand: <col=800000>
+Offset: 925, PUSHS , Operand: Wilfred
+Offset: 926, PUSHS , Operand: <col=000080>
+Offset: 927, PUSHS , Operand: , just to the north of 
+Offset: 928, PUSHS , Operand: <col=800000>
+Offset: 929, PUSHS , Operand: Falador
+Offset: 930, PUSHS , Operand: <col=000080>
+Offset: 931, PUSHS , Operand: . He has something special that is only available to true masters of the 
+Offset: 932, PUSHS , Operand: <col=800000>
+Offset: 933, PUSHS , Operand: Woodcutting
+Offset: 934, PUSHS , Operand: <col=000080>
+Offset: 935, PUSHS , Operand:  skill!
+Offset: 936, CONCAT , Operand: 18
+Offset: 937, RETURN , Operand: 0
+Offset: 938, PUSHI , Operand: 0
+Offset: 939, PUSHI , Operand: -1
+Offset: 940, PUSHS , Operand: 
+Offset: 941, PUSHS , Operand: 
+Offset: 942, RETURN , Operand: 0
+
+================================================
+                Switch Table 0                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 234
+Key: 2, Value: 359
+Key: 3, Value: 406
+Key: 4, Value: 449
+Key: 5, Value: 496
+Key: 6, Value: 668
+Key: 7, Value: 909
+
+================================================
+                Switch Table 1                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 12
+Key: 2, Value: 23
+Key: 3, Value: 37
+Key: 4, Value: 48
+Key: 5, Value: 62
+Key: 6, Value: 73
+Key: 7, Value: 87
+Key: 8, Value: 101
+Key: 9, Value: 115
+Key: 10, Value: 126
+Key: 11, Value: 137
+Key: 12, Value: 151
+Key: 13, Value: 162
+Key: 14, Value: 173
+Key: 15, Value: 184
+Key: 17, Value: 206
+Key: 16, Value: 195
+Key: 18, Value: 217
+
+================================================
+                Switch Table 2                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 12
+Key: 2, Value: 23
+Key: 3, Value: 34
+Key: 4, Value: 45
+Key: 5, Value: 56
+Key: 6, Value: 67
+Key: 7, Value: 77
+Key: 8, Value: 87
+Key: 9, Value: 98
+Key: 10, Value: 109
+
+================================================
+                Switch Table 3                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 12
+Key: 2, Value: 23
+Key: 3, Value: 34
+
+================================================
+                Switch Table 4                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 12
+Key: 2, Value: 23
+Key: 3, Value: 34
+
+================================================
+                Switch Table 5                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 11
+Key: 2, Value: 22
+Key: 3, Value: 32
+Key: 4, Value: 43
+Key: 5, Value: 54
+Key: 6, Value: 64
+Key: 7, Value: 75
+Key: 8, Value: 86
+Key: 9, Value: 96
+Key: 10, Value: 106
+Key: 11, Value: 117
+Key: 12, Value: 128
+Key: 13, Value: 138
+Key: 14, Value: 149
+Key: 15, Value: 160
+
+================================================
+                Switch Table 6                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 10
+Key: 2, Value: 21
+Key: 3, Value: 32
+Key: 4, Value: 43
+Key: 5, Value: 54
+Key: 6, Value: 65
+Key: 7, Value: 76
+Key: 8, Value: 87
+Key: 9, Value: 98
+Key: 10, Value: 109
+Key: 11, Value: 120
+Key: 12, Value: 131
+Key: 13, Value: 142
+Key: 14, Value: 153
+Key: 15, Value: 164
+Key: 17, Value: 186
+Key: 16, Value: 175
+Key: 19, Value: 208
+Key: 18, Value: 197
+Key: 21, Value: 230
+Key: 20, Value: 219

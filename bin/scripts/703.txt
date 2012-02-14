@@ -1,0 +1,42 @@
+================================================
+      Client Script 703 Dumped by SiniSoul    
+      Instruction Size: 31
+      Integer Arguments: 6 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHI , Operand: 0
+Offset: 1, STOREINT , Operand: 4
+Offset: 2, PUSHI , Operand: 0
+Offset: 3, STOREINT , Operand: 5
+Offset: 4, LOADINT , Operand: 0
+Offset: 5, LOADINT , Operand: 1
+Offset: 6, Unref Method: 200, Operand: 0
+Offset: 7, PUSHI , Operand: 1
+Offset: 8, IFEQ , Operand: 1
+Offset: 9, GOTO , Operand: 20
+Offset: 10, LOADINT , Operand: 2
+Offset: 11, LOADINT , Operand: 3
+Offset: 12, Unref Method: 200, Operand: 1
+Offset: 13, PUSHI , Operand: 1
+Offset: 14, IFEQ , Operand: 1
+Offset: 15, GOTO , Operand: 14
+Offset: 16, Unref Method: 1500, Operand: 0
+Offset: 17, STOREINT , Operand: 4
+Offset: 18, Unref Method: 1501, Operand: 0
+Offset: 19, STOREINT , Operand: 5
+Offset: 20, Unref Method: 1500, Operand: 1
+Offset: 21, Unref Method: 1501, Operand: 1
+Offset: 22, PUSHI , Operand: 0
+Offset: 23, PUSHI , Operand: 0
+Offset: 24, Unref Method: 1000, Operand: 0
+Offset: 25, LOADINT , Operand: 4
+Offset: 26, LOADINT , Operand: 5
+Offset: 27, PUSHI , Operand: 0
+Offset: 28, PUSHI , Operand: 0
+Offset: 29, Unref Method: 1000, Operand: 1
+Offset: 30, RETURN , Operand: 0

@@ -1,0 +1,859 @@
+================================================
+      Client Script 1142 Dumped by SiniSoul    
+      Instruction Size: 817
+      Integer Arguments: 2 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHI , Operand: 94
+Offset: 1, PUSHI , Operand: 3
+Offset: 2, Unref Method: 3301, Operand: 0
+Offset: 3, STOREINT , Operand: 0
+Offset: 4, LOADINT , Operand: 0
+Offset: 5, PUSHI , Operand: -1
+Offset: 6, IFEQ , Operand: 9
+Offset: 7, LOADINT , Operand: 0
+Offset: 8, Unref Method: 4207, Operand: 0
+Offset: 9, PUSHI , Operand: 1
+Offset: 10, IFEQ , Operand: 1
+Offset: 11, GOTO , Operand: 33
+Offset: 12, Unref Method: 3312, Operand: 0
+Offset: 13, PUSHI , Operand: 0
+Offset: 14, IFEQ , Operand: 1
+Offset: 15, GOTO , Operand: 29
+Offset: 16, PUSHS , Operand: Punch
+Offset: 17, PUSHI , Operand: 247
+Offset: 18, PUSHS , Operand: Accurate
+Offset: 19, PUSHS , Operand: <br>
+Offset: 20, PUSHS , Operand: Crush
+Offset: 21, PUSHS , Operand: <br>
+Offset: 22, PUSHS , Operand: Attack XP
+Offset: 23, CONCAT , Operand: 5
+Offset: 24, PUSHS , Operand: Kick
+Offset: 25, PUSHI , Operand: 248
+Offset: 26, PUSHS , Operand: Aggressive
+Offset: 27, PUSHS , Operand: <br>
+Offset: 28, PUSHS , Operand: Crush
+Offset: 29, PUSHS , Operand: <br>
+Offset: 30, PUSHS , Operand: Strength XP
+Offset: 31, CONCAT , Operand: 5
+Offset: 32, PUSHS , Operand: Block
+Offset: 33, PUSHI , Operand: 249
+Offset: 34, PUSHS , Operand: Defensive
+Offset: 35, PUSHS , Operand: <br>
+Offset: 36, PUSHS , Operand: Crush
+Offset: 37, PUSHS , Operand: <br>
+Offset: 38, PUSHS , Operand: Defence XP
+Offset: 39, CONCAT , Operand: 5
+Offset: 40, PUSHS , Operand: 
+Offset: 41, PUSHI , Operand: -1
+Offset: 42, PUSHS , Operand: 
+Offset: 43, CALL , Operand: 1143
+Offset: 44, RETURN , Operand: 0
+Offset: 45, LOADINT , Operand: 0
+Offset: 46, PUSHI , Operand: 686
+Offset: 47, Unref Method: 4208, Operand: 0
+Offset: 48, STOREINT , Operand: 1
+Offset: 49, LOADINT , Operand: 1
+Offset: 50, SWITCH , Operand: 0
+Offset: 51, GOTO , Operand: 736
+Offset: 52, PUSHS , Operand: Bash
+Offset: 53, PUSHI , Operand: 266
+Offset: 54, PUSHS , Operand: Accurate
+Offset: 55, PUSHS , Operand: <br>
+Offset: 56, PUSHS , Operand: Crush
+Offset: 57, PUSHS , Operand: <br>
+Offset: 58, PUSHS , Operand: Attack XP
+Offset: 59, CONCAT , Operand: 5
+Offset: 60, PUSHS , Operand: Pound
+Offset: 61, PUSHI , Operand: 267
+Offset: 62, PUSHS , Operand: Aggressive
+Offset: 63, PUSHS , Operand: <br>
+Offset: 64, PUSHS , Operand: Crush
+Offset: 65, PUSHS , Operand: <br>
+Offset: 66, PUSHS , Operand: Strength XP
+Offset: 67, CONCAT , Operand: 5
+Offset: 68, PUSHS , Operand: Focus
+Offset: 69, PUSHI , Operand: 252
+Offset: 70, PUSHS , Operand: Defensive
+Offset: 71, PUSHS , Operand: <br>
+Offset: 72, PUSHS , Operand: Crush
+Offset: 73, PUSHS , Operand: <br>
+Offset: 74, PUSHS , Operand: Defence XP
+Offset: 75, CONCAT , Operand: 5
+Offset: 76, PUSHS , Operand: 
+Offset: 77, PUSHI , Operand: -1
+Offset: 78, PUSHS , Operand: 
+Offset: 79, CALL , Operand: 1143
+Offset: 80, GOTO , Operand: 735
+Offset: 81, PUSHS , Operand: Slash
+Offset: 82, PUSHI , Operand: 266
+Offset: 83, PUSHS , Operand: Accurate
+Offset: 84, PUSHS , Operand: <br>
+Offset: 85, PUSHS , Operand: Slash
+Offset: 86, PUSHS , Operand: <br>
+Offset: 87, PUSHS , Operand: Attack XP
+Offset: 88, CONCAT , Operand: 5
+Offset: 89, PUSHS , Operand: Crush
+Offset: 90, PUSHI , Operand: 267
+Offset: 91, PUSHS , Operand: Aggressive
+Offset: 92, PUSHS , Operand: <br>
+Offset: 93, PUSHS , Operand: Crush
+Offset: 94, PUSHS , Operand: <br>
+Offset: 95, PUSHS , Operand: Strength XP
+Offset: 96, CONCAT , Operand: 5
+Offset: 97, PUSHS , Operand: Slash
+Offset: 98, PUSHI , Operand: 252
+Offset: 99, PUSHS , Operand: Defensive
+Offset: 100, PUSHS , Operand: <br>
+Offset: 101, PUSHS , Operand: Slash
+Offset: 102, PUSHS , Operand: <br>
+Offset: 103, PUSHS , Operand: Defence XP
+Offset: 104, CONCAT , Operand: 5
+Offset: 105, PUSHS , Operand: 
+Offset: 106, PUSHI , Operand: -1
+Offset: 107, PUSHS , Operand: 
+Offset: 108, CALL , Operand: 1143
+Offset: 109, GOTO , Operand: 706
+Offset: 110, PUSHS , Operand: Chop
+Offset: 111, PUSHI , Operand: 234
+Offset: 112, PUSHS , Operand: Accurate
+Offset: 113, PUSHS , Operand: <br>
+Offset: 114, PUSHS , Operand: Slash
+Offset: 115, PUSHS , Operand: <br>
+Offset: 116, PUSHS , Operand: Attack XP
+Offset: 117, CONCAT , Operand: 5
+Offset: 118, PUSHS , Operand: Hack
+Offset: 119, PUSHI , Operand: 235
+Offset: 120, PUSHS , Operand: Aggressive
+Offset: 121, PUSHS , Operand: <br>
+Offset: 122, PUSHS , Operand: Slash
+Offset: 123, PUSHS , Operand: <br>
+Offset: 124, PUSHS , Operand: Strength XP
+Offset: 125, CONCAT , Operand: 5
+Offset: 126, PUSHS , Operand: Smash
+Offset: 127, PUSHI , Operand: 236
+Offset: 128, PUSHS , Operand: Aggressive
+Offset: 129, PUSHS , Operand: <br>
+Offset: 130, PUSHS , Operand: Crush
+Offset: 131, PUSHS , Operand: <br>
+Offset: 132, PUSHS , Operand: Strength XP
+Offset: 133, CONCAT , Operand: 5
+Offset: 134, PUSHS , Operand: Block
+Offset: 135, PUSHI , Operand: 233
+Offset: 136, PUSHS , Operand: Defensive
+Offset: 137, PUSHS , Operand: <br>
+Offset: 138, PUSHS , Operand: Slash
+Offset: 139, PUSHS , Operand: <br>
+Offset: 140, PUSHS , Operand: Defence XP
+Offset: 141, CONCAT , Operand: 5
+Offset: 142, CALL , Operand: 1143
+Offset: 143, GOTO , Operand: 672
+Offset: 144, PUSHS , Operand: Bash
+Offset: 145, PUSHI , Operand: 266
+Offset: 146, PUSHS , Operand: Accurate
+Offset: 147, PUSHS , Operand: <br>
+Offset: 148, PUSHS , Operand: Crush
+Offset: 149, PUSHS , Operand: <br>
+Offset: 150, PUSHS , Operand: Attack XP
+Offset: 151, CONCAT , Operand: 5
+Offset: 152, PUSHS , Operand: Pound
+Offset: 153, PUSHI , Operand: 267
+Offset: 154, PUSHS , Operand: Aggressive
+Offset: 155, PUSHS , Operand: <br>
+Offset: 156, PUSHS , Operand: Crush
+Offset: 157, PUSHS , Operand: <br>
+Offset: 158, PUSHS , Operand: Strength XP
+Offset: 159, CONCAT , Operand: 5
+Offset: 160, PUSHS , Operand: Block
+Offset: 161, PUSHI , Operand: 252
+Offset: 162, PUSHS , Operand: Defensive
+Offset: 163, PUSHS , Operand: <br>
+Offset: 164, PUSHS , Operand: Crush
+Offset: 165, PUSHS , Operand: <br>
+Offset: 166, PUSHS , Operand: Defence XP
+Offset: 167, CONCAT , Operand: 5
+Offset: 168, PUSHS , Operand: 
+Offset: 169, PUSHI , Operand: -1
+Offset: 170, PUSHS , Operand: 
+Offset: 171, CALL , Operand: 1143
+Offset: 172, GOTO , Operand: 643
+Offset: 173, PUSHS , Operand: Spike
+Offset: 174, PUSHI , Operand: 274
+Offset: 175, PUSHS , Operand: Accurate
+Offset: 176, PUSHS , Operand: <br>
+Offset: 177, PUSHS , Operand: Stab
+Offset: 178, PUSHS , Operand: <br>
+Offset: 179, PUSHS , Operand: Attack XP
+Offset: 180, CONCAT , Operand: 5
+Offset: 181, PUSHS , Operand: Impale
+Offset: 182, PUSHI , Operand: 276
+Offset: 183, PUSHS , Operand: Aggressive
+Offset: 184, PUSHS , Operand: <br>
+Offset: 185, PUSHS , Operand: Stab
+Offset: 186, PUSHS , Operand: <br>
+Offset: 187, PUSHS , Operand: Strength XP
+Offset: 188, CONCAT , Operand: 5
+Offset: 189, PUSHS , Operand: Smash
+Offset: 190, PUSHI , Operand: 275
+Offset: 191, PUSHS , Operand: Aggressive
+Offset: 192, PUSHS , Operand: <br>
+Offset: 193, PUSHS , Operand: Crush
+Offset: 194, PUSHS , Operand: <br>
+Offset: 195, PUSHS , Operand: Strength XP
+Offset: 196, CONCAT , Operand: 5
+Offset: 197, PUSHS , Operand: Block
+Offset: 198, PUSHI , Operand: 273
+Offset: 199, PUSHS , Operand: Defensive
+Offset: 200, PUSHS , Operand: <br>
+Offset: 201, PUSHS , Operand: Stab
+Offset: 202, PUSHS , Operand: <br>
+Offset: 203, PUSHS , Operand: Defence XP
+Offset: 204, CONCAT , Operand: 5
+Offset: 205, CALL , Operand: 1143
+Offset: 206, GOTO , Operand: 609
+Offset: 207, PUSHS , Operand: Stab
+Offset: 208, PUSHI , Operand: 240
+Offset: 209, PUSHS , Operand: Accurate
+Offset: 210, PUSHS , Operand: <br>
+Offset: 211, PUSHS , Operand: Stab
+Offset: 212, PUSHS , Operand: <br>
+Offset: 213, PUSHS , Operand: Attack XP
+Offset: 214, CONCAT , Operand: 5
+Offset: 215, PUSHS , Operand: Lunge
+Offset: 216, PUSHI , Operand: 239
+Offset: 217, PUSHS , Operand: Aggressive
+Offset: 218, PUSHS , Operand: <br>
+Offset: 219, PUSHS , Operand: Stab
+Offset: 220, PUSHS , Operand: <br>
+Offset: 221, PUSHS , Operand: Strength XP
+Offset: 222, CONCAT , Operand: 5
+Offset: 223, PUSHS , Operand: Slash
+Offset: 224, PUSHI , Operand: 238
+Offset: 225, PUSHS , Operand: Aggressive
+Offset: 226, PUSHS , Operand: <br>
+Offset: 227, PUSHS , Operand: Slash
+Offset: 228, PUSHS , Operand: <br>
+Offset: 229, PUSHS , Operand: Strength XP
+Offset: 230, CONCAT , Operand: 5
+Offset: 231, PUSHS , Operand: Block
+Offset: 232, PUSHI , Operand: 237
+Offset: 233, PUSHS , Operand: Defensive
+Offset: 234, PUSHS , Operand: <br>
+Offset: 235, PUSHS , Operand: Stab
+Offset: 236, PUSHS , Operand: <br>
+Offset: 237, PUSHS , Operand: Defence XP
+Offset: 238, CONCAT , Operand: 5
+Offset: 239, CALL , Operand: 1143
+Offset: 240, GOTO , Operand: 575
+Offset: 241, PUSHS , Operand: Chop
+Offset: 242, PUSHI , Operand: 239
+Offset: 243, PUSHS , Operand: Accurate
+Offset: 244, PUSHS , Operand: <br>
+Offset: 245, PUSHS , Operand: Slash
+Offset: 246, PUSHS , Operand: <br>
+Offset: 247, PUSHS , Operand: Attack XP
+Offset: 248, CONCAT , Operand: 5
+Offset: 249, PUSHS , Operand: Slash
+Offset: 250, PUSHI , Operand: 238
+Offset: 251, PUSHS , Operand: Aggressive
+Offset: 252, PUSHS , Operand: <br>
+Offset: 253, PUSHS , Operand: Slash
+Offset: 254, PUSHS , Operand: <br>
+Offset: 255, PUSHS , Operand: Strength XP
+Offset: 256, CONCAT , Operand: 5
+Offset: 257, PUSHS , Operand: Lunge
+Offset: 258, PUSHI , Operand: 240
+Offset: 259, PUSHS , Operand: Controlled
+Offset: 260, PUSHS , Operand: <br>
+Offset: 261, PUSHS , Operand: Stab
+Offset: 262, PUSHS , Operand: <br>
+Offset: 263, PUSHS , Operand: Shared XP
+Offset: 264, CONCAT , Operand: 5
+Offset: 265, PUSHS , Operand: Block
+Offset: 266, PUSHI , Operand: 237
+Offset: 267, PUSHS , Operand: Defensive
+Offset: 268, PUSHS , Operand: <br>
+Offset: 269, PUSHS , Operand: Slash
+Offset: 270, PUSHS , Operand: <br>
+Offset: 271, PUSHS , Operand: Defence XP
+Offset: 272, CONCAT , Operand: 5
+Offset: 273, CALL , Operand: 1143
+Offset: 274, GOTO , Operand: 541
+Offset: 275, PUSHS , Operand: Chop
+Offset: 276, PUSHI , Operand: 239
+Offset: 277, PUSHS , Operand: Accurate
+Offset: 278, PUSHS , Operand: <br>
+Offset: 279, PUSHS , Operand: Slash
+Offset: 280, PUSHS , Operand: <br>
+Offset: 281, PUSHS , Operand: Attack XP
+Offset: 282, CONCAT , Operand: 5
+Offset: 283, PUSHS , Operand: Slash
+Offset: 284, PUSHI , Operand: 238
+Offset: 285, PUSHS , Operand: Aggressive
+Offset: 286, PUSHS , Operand: <br>
+Offset: 287, PUSHS , Operand: Slash
+Offset: 288, PUSHS , Operand: <br>
+Offset: 289, PUSHS , Operand: Strength XP
+Offset: 290, CONCAT , Operand: 5
+Offset: 291, PUSHS , Operand: Smash
+Offset: 292, PUSHI , Operand: 238
+Offset: 293, PUSHS , Operand: Aggressive
+Offset: 294, PUSHS , Operand: <br>
+Offset: 295, PUSHS , Operand: Crush
+Offset: 296, PUSHS , Operand: <br>
+Offset: 297, PUSHS , Operand: Strength XP
+Offset: 298, CONCAT , Operand: 5
+Offset: 299, PUSHS , Operand: Block
+Offset: 300, PUSHI , Operand: 237
+Offset: 301, PUSHS , Operand: Defensive
+Offset: 302, PUSHS , Operand: <br>
+Offset: 303, PUSHS , Operand: Slash
+Offset: 304, PUSHS , Operand: <br>
+Offset: 305, PUSHS , Operand: Defence XP
+Offset: 306, CONCAT , Operand: 5
+Offset: 307, CALL , Operand: 1143
+Offset: 308, GOTO , Operand: 507
+Offset: 309, PUSHS , Operand: Pound
+Offset: 310, PUSHI , Operand: 246
+Offset: 311, PUSHS , Operand: Accurate
+Offset: 312, PUSHS , Operand: <br>
+Offset: 313, PUSHS , Operand: Crush
+Offset: 314, PUSHS , Operand: <br>
+Offset: 315, PUSHS , Operand: Attack XP
+Offset: 316, CONCAT , Operand: 5
+Offset: 317, PUSHS , Operand: Pummel
+Offset: 318, PUSHI , Operand: 244
+Offset: 319, PUSHS , Operand: Aggressive
+Offset: 320, PUSHS , Operand: <br>
+Offset: 321, PUSHS , Operand: Crush
+Offset: 322, PUSHS , Operand: <br>
+Offset: 323, PUSHS , Operand: Strength XP
+Offset: 324, CONCAT , Operand: 5
+Offset: 325, PUSHS , Operand: Spike
+Offset: 326, PUSHI , Operand: 245
+Offset: 327, PUSHS , Operand: Controlled
+Offset: 328, PUSHS , Operand: <br>
+Offset: 329, PUSHS , Operand: Stab
+Offset: 330, PUSHS , Operand: <br>
+Offset: 331, PUSHS , Operand: Shared XP
+Offset: 332, CONCAT , Operand: 5
+Offset: 333, PUSHS , Operand: Block
+Offset: 334, PUSHI , Operand: 243
+Offset: 335, PUSHS , Operand: Defensive
+Offset: 336, PUSHS , Operand: <br>
+Offset: 337, PUSHS , Operand: Crush
+Offset: 338, PUSHS , Operand: <br>
+Offset: 339, PUSHS , Operand: Defence XP
+Offset: 340, CONCAT , Operand: 5
+Offset: 341, CALL , Operand: 1143
+Offset: 342, GOTO , Operand: 473
+Offset: 343, PUSHS , Operand: Chop
+Offset: 344, PUSHI , Operand: 279
+Offset: 345, PUSHS , Operand: Accurate
+Offset: 346, PUSHS , Operand: <br>
+Offset: 347, PUSHS , Operand: Slash
+Offset: 348, PUSHS , Operand: <br>
+Offset: 349, PUSHS , Operand: Attack XP
+Offset: 350, CONCAT , Operand: 5
+Offset: 351, PUSHS , Operand: Slash
+Offset: 352, PUSHI , Operand: 278
+Offset: 353, PUSHS , Operand: Aggressive
+Offset: 354, PUSHS , Operand: <br>
+Offset: 355, PUSHS , Operand: Slash
+Offset: 356, PUSHS , Operand: <br>
+Offset: 357, PUSHS , Operand: Strength XP
+Offset: 358, CONCAT , Operand: 5
+Offset: 359, PUSHS , Operand: Lunge
+Offset: 360, PUSHI , Operand: 277
+Offset: 361, PUSHS , Operand: Controlled
+Offset: 362, PUSHS , Operand: <br>
+Offset: 363, PUSHS , Operand: Stab
+Offset: 364, PUSHS , Operand: <br>
+Offset: 365, PUSHS , Operand: Shared XP
+Offset: 366, CONCAT , Operand: 5
+Offset: 367, PUSHS , Operand: Block
+Offset: 368, PUSHI , Operand: 280
+Offset: 369, PUSHS , Operand: Defensive
+Offset: 370, PUSHS , Operand: <br>
+Offset: 371, PUSHS , Operand: Slash
+Offset: 372, PUSHS , Operand: <br>
+Offset: 373, PUSHS , Operand: Defence XP
+Offset: 374, CONCAT , Operand: 5
+Offset: 375, CALL , Operand: 1143
+Offset: 376, GOTO , Operand: 439
+Offset: 377, PUSHS , Operand: Pound
+Offset: 378, PUSHI , Operand: 255
+Offset: 379, PUSHS , Operand: Accurate
+Offset: 380, PUSHS , Operand: <br>
+Offset: 381, PUSHS , Operand: Crush
+Offset: 382, PUSHS , Operand: <br>
+Offset: 383, PUSHS , Operand: Attack XP
+Offset: 384, CONCAT , Operand: 5
+Offset: 385, PUSHS , Operand: Pummel
+Offset: 386, PUSHI , Operand: 256
+Offset: 387, PUSHS , Operand: Aggressive
+Offset: 388, PUSHS , Operand: <br>
+Offset: 389, PUSHS , Operand: Crush
+Offset: 390, PUSHS , Operand: <br>
+Offset: 391, PUSHS , Operand: Strength XP
+Offset: 392, CONCAT , Operand: 5
+Offset: 393, PUSHS , Operand: Block
+Offset: 394, PUSHI , Operand: 253
+Offset: 395, PUSHS , Operand: Defensive
+Offset: 396, PUSHS , Operand: <br>
+Offset: 397, PUSHS , Operand: Crush
+Offset: 398, PUSHS , Operand: <br>
+Offset: 399, PUSHS , Operand: Defence XP
+Offset: 400, CONCAT , Operand: 5
+Offset: 401, PUSHS , Operand: 
+Offset: 402, PUSHI , Operand: -1
+Offset: 403, PUSHS , Operand: 
+Offset: 404, CALL , Operand: 1143
+Offset: 405, GOTO , Operand: 410
+Offset: 406, PUSHS , Operand: Flick
+Offset: 407, PUSHI , Operand: 286
+Offset: 408, PUSHS , Operand: Accurate
+Offset: 409, PUSHS , Operand: <br>
+Offset: 410, PUSHS , Operand: Slash
+Offset: 411, PUSHS , Operand: <br>
+Offset: 412, PUSHS , Operand: Attack XP
+Offset: 413, CONCAT , Operand: 5
+Offset: 414, PUSHS , Operand: Lash
+Offset: 415, PUSHI , Operand: 287
+Offset: 416, PUSHS , Operand: Controlled
+Offset: 417, PUSHS , Operand: <br>
+Offset: 418, PUSHS , Operand: Slash
+Offset: 419, PUSHS , Operand: <br>
+Offset: 420, PUSHS , Operand: Shared XP
+Offset: 421, CONCAT , Operand: 5
+Offset: 422, PUSHS , Operand: Deflect
+Offset: 423, PUSHI , Operand: 286
+Offset: 424, PUSHS , Operand: Defensive
+Offset: 425, PUSHS , Operand: <br>
+Offset: 426, PUSHS , Operand: Slash
+Offset: 427, PUSHS , Operand: <br>
+Offset: 428, PUSHS , Operand: Defence XP
+Offset: 429, CONCAT , Operand: 5
+Offset: 430, PUSHS , Operand: 
+Offset: 431, PUSHI , Operand: -1
+Offset: 432, PUSHS , Operand: 
+Offset: 433, CALL , Operand: 1143
+Offset: 434, GOTO , Operand: 381
+Offset: 435, PUSHS , Operand: Pound
+Offset: 436, PUSHI , Operand: 255
+Offset: 437, PUSHS , Operand: Accurate
+Offset: 438, PUSHS , Operand: <br>
+Offset: 439, PUSHS , Operand: Crush
+Offset: 440, PUSHS , Operand: <br>
+Offset: 441, PUSHS , Operand: Attack XP
+Offset: 442, CONCAT , Operand: 5
+Offset: 443, PUSHS , Operand: Pummel
+Offset: 444, PUSHI , Operand: 256
+Offset: 445, PUSHS , Operand: Aggressive
+Offset: 446, PUSHS , Operand: <br>
+Offset: 447, PUSHS , Operand: Crush
+Offset: 448, PUSHS , Operand: <br>
+Offset: 449, PUSHS , Operand: Strength XP
+Offset: 450, CONCAT , Operand: 5
+Offset: 451, PUSHS , Operand: Block
+Offset: 452, PUSHI , Operand: 253
+Offset: 453, PUSHS , Operand: Defensive
+Offset: 454, PUSHS , Operand: <br>
+Offset: 455, PUSHS , Operand: Crush
+Offset: 456, PUSHS , Operand: <br>
+Offset: 457, PUSHS , Operand: Defence XP
+Offset: 458, CONCAT , Operand: 5
+Offset: 459, PUSHS , Operand: 
+Offset: 460, PUSHI , Operand: -1
+Offset: 461, PUSHS , Operand: 
+Offset: 462, CALL , Operand: 1143
+Offset: 463, GOTO , Operand: 352
+Offset: 464, PUSHS , Operand: Accurate
+Offset: 465, PUSHI , Operand: 263
+Offset: 466, PUSHS , Operand: Accurate
+Offset: 467, PUSHS , Operand: <br>
+Offset: 468, PUSHS , Operand: Ranged XP
+Offset: 469, CONCAT , Operand: 3
+Offset: 470, PUSHS , Operand: Rapid
+Offset: 471, PUSHI , Operand: 264
+Offset: 472, PUSHS , Operand: Rapid
+Offset: 473, PUSHS , Operand: <br>
+Offset: 474, PUSHS , Operand: Ranged XP
+Offset: 475, CONCAT , Operand: 3
+Offset: 476, PUSHS , Operand: Long range
+Offset: 477, PUSHI , Operand: 265
+Offset: 478, PUSHS , Operand: Long range
+Offset: 479, PUSHS , Operand: <br>
+Offset: 480, PUSHS , Operand: Ranged XP
+Offset: 481, PUSHS , Operand: <br>
+Offset: 482, PUSHS , Operand: Defence XP
+Offset: 483, CONCAT , Operand: 5
+Offset: 484, PUSHS , Operand: 
+Offset: 485, PUSHI , Operand: -1
+Offset: 486, PUSHS , Operand: 
+Offset: 487, CALL , Operand: 1143
+Offset: 488, GOTO , Operand: 327
+Offset: 489, PUSHS , Operand: Lunge
+Offset: 490, PUSHI , Operand: 241
+Offset: 491, PUSHS , Operand: Controlled
+Offset: 492, PUSHS , Operand: <br>
+Offset: 493, PUSHS , Operand: Stab
+Offset: 494, PUSHS , Operand: <br>
+Offset: 495, PUSHS , Operand: Shared XP
+Offset: 496, CONCAT , Operand: 5
+Offset: 497, PUSHS , Operand: Swipe
+Offset: 498, PUSHI , Operand: 251
+Offset: 499, PUSHS , Operand: Controlled
+Offset: 500, PUSHS , Operand: <br>
+Offset: 501, PUSHS , Operand: Slash
+Offset: 502, PUSHS , Operand: <br>
+Offset: 503, PUSHS , Operand: Shared XP
+Offset: 504, CONCAT , Operand: 5
+Offset: 505, PUSHS , Operand: Pound
+Offset: 506, PUSHI , Operand: 242
+Offset: 507, PUSHS , Operand: Controlled
+Offset: 508, PUSHS , Operand: <br>
+Offset: 509, PUSHS , Operand: Crush
+Offset: 510, PUSHS , Operand: <br>
+Offset: 511, PUSHS , Operand: Shared XP
+Offset: 512, CONCAT , Operand: 5
+Offset: 513, PUSHS , Operand: Block
+Offset: 514, PUSHI , Operand: 250
+Offset: 515, PUSHS , Operand: Defensive
+Offset: 516, PUSHS , Operand: <br>
+Offset: 517, PUSHS , Operand: Stab
+Offset: 518, PUSHS , Operand: <br>
+Offset: 519, PUSHS , Operand: Defence XP
+Offset: 520, CONCAT , Operand: 5
+Offset: 521, CALL , Operand: 1143
+Offset: 522, GOTO , Operand: 293
+Offset: 523, PUSHS , Operand: Jab
+Offset: 524, PUSHI , Operand: 284
+Offset: 525, PUSHS , Operand: Controlled
+Offset: 526, PUSHS , Operand: <br>
+Offset: 527, PUSHS , Operand: Stab
+Offset: 528, PUSHS , Operand: <br>
+Offset: 529, PUSHS , Operand: Shared XP
+Offset: 530, CONCAT , Operand: 5
+Offset: 531, PUSHS , Operand: Swipe
+Offset: 532, PUSHI , Operand: 285
+Offset: 533, PUSHS , Operand: Aggressive
+Offset: 534, PUSHS , Operand: <br>
+Offset: 535, PUSHS , Operand: Slash
+Offset: 536, PUSHS , Operand: <br>
+Offset: 537, PUSHS , Operand: Strength XP
+Offset: 538, CONCAT , Operand: 5
+Offset: 539, PUSHS , Operand: Fend
+Offset: 540, PUSHI , Operand: 283
+Offset: 541, PUSHS , Operand: Defensive
+Offset: 542, PUSHS , Operand: <br>
+Offset: 543, PUSHS , Operand: Stab
+Offset: 544, PUSHS , Operand: <br>
+Offset: 545, PUSHS , Operand: Defence XP
+Offset: 546, CONCAT , Operand: 5
+Offset: 547, PUSHS , Operand: 
+Offset: 548, PUSHI , Operand: -1
+Offset: 549, PUSHS , Operand: 
+Offset: 550, CALL , Operand: 1143
+Offset: 551, GOTO , Operand: 264
+Offset: 552, PUSHS , Operand: Accurate
+Offset: 553, PUSHI , Operand: 268
+Offset: 554, PUSHS , Operand: Accurate
+Offset: 555, PUSHS , Operand: <br>
+Offset: 556, PUSHS , Operand: Ranged XP
+Offset: 557, CONCAT , Operand: 3
+Offset: 558, PUSHS , Operand: Rapid
+Offset: 559, PUSHI , Operand: 269
+Offset: 560, PUSHS , Operand: Rapid
+Offset: 561, PUSHS , Operand: <br>
+Offset: 562, PUSHS , Operand: Ranged XP
+Offset: 563, CONCAT , Operand: 3
+Offset: 564, PUSHS , Operand: Long range
+Offset: 565, PUSHI , Operand: 270
+Offset: 566, PUSHS , Operand: Long range
+Offset: 567, PUSHS , Operand: <br>
+Offset: 568, PUSHS , Operand: Ranged XP
+Offset: 569, PUSHS , Operand: <br>
+Offset: 570, PUSHS , Operand: Defence XP
+Offset: 571, CONCAT , Operand: 5
+Offset: 572, PUSHS , Operand: 
+Offset: 573, PUSHI , Operand: -1
+Offset: 574, PUSHS , Operand: 
+Offset: 575, CALL , Operand: 1143
+Offset: 576, GOTO , Operand: 239
+Offset: 577, PUSHS , Operand: Accurate
+Offset: 578, PUSHI , Operand: 258
+Offset: 579, PUSHS , Operand: Accurate
+Offset: 580, PUSHS , Operand: <br>
+Offset: 581, PUSHS , Operand: Ranged XP
+Offset: 582, CONCAT , Operand: 3
+Offset: 583, PUSHS , Operand: Rapid
+Offset: 584, PUSHI , Operand: 259
+Offset: 585, PUSHS , Operand: Rapid
+Offset: 586, PUSHS , Operand: <br>
+Offset: 587, PUSHS , Operand: Ranged XP
+Offset: 588, CONCAT , Operand: 3
+Offset: 589, PUSHS , Operand: Long range
+Offset: 590, PUSHI , Operand: 260
+Offset: 591, PUSHS , Operand: Long range
+Offset: 592, PUSHS , Operand: <br>
+Offset: 593, PUSHS , Operand: Ranged XP
+Offset: 594, PUSHS , Operand: <br>
+Offset: 595, PUSHS , Operand: Defence XP
+Offset: 596, CONCAT , Operand: 5
+Offset: 597, PUSHS , Operand: 
+Offset: 598, PUSHI , Operand: -1
+Offset: 599, PUSHS , Operand: 
+Offset: 600, CALL , Operand: 1143
+Offset: 601, GOTO , Operand: 214
+Offset: 602, PUSHS , Operand: Accurate
+Offset: 603, PUSHI , Operand: 263
+Offset: 604, PUSHS , Operand: Accurate
+Offset: 605, PUSHS , Operand: <br>
+Offset: 606, PUSHS , Operand: Ranged XP
+Offset: 607, CONCAT , Operand: 3
+Offset: 608, PUSHS , Operand: Rapid
+Offset: 609, PUSHI , Operand: 264
+Offset: 610, PUSHS , Operand: Rapid
+Offset: 611, PUSHS , Operand: <br>
+Offset: 612, PUSHS , Operand: Ranged XP
+Offset: 613, CONCAT , Operand: 3
+Offset: 614, PUSHS , Operand: Long range
+Offset: 615, PUSHI , Operand: 265
+Offset: 616, PUSHS , Operand: Long range
+Offset: 617, PUSHS , Operand: <br>
+Offset: 618, PUSHS , Operand: Ranged XP
+Offset: 619, PUSHS , Operand: <br>
+Offset: 620, PUSHS , Operand: Defence XP
+Offset: 621, CONCAT , Operand: 5
+Offset: 622, PUSHS , Operand: 
+Offset: 623, PUSHI , Operand: -1
+Offset: 624, PUSHS , Operand: 
+Offset: 625, CALL , Operand: 1143
+Offset: 626, GOTO , Operand: 189
+Offset: 627, PUSHS , Operand: Short fuse
+Offset: 628, PUSHI , Operand: 288
+Offset: 629, PUSHS , Operand: Short fuse
+Offset: 630, PUSHS , Operand: <br>
+Offset: 631, PUSHS , Operand: Ranged XP
+Offset: 632, CONCAT , Operand: 3
+Offset: 633, PUSHS , Operand: Medium fuse
+Offset: 634, PUSHI , Operand: 282
+Offset: 635, PUSHS , Operand: Medium fuse
+Offset: 636, PUSHS , Operand: <br>
+Offset: 637, PUSHS , Operand: Ranged XP
+Offset: 638, CONCAT , Operand: 3
+Offset: 639, PUSHS , Operand: Long fuse
+Offset: 640, PUSHI , Operand: 281
+Offset: 641, PUSHS , Operand: Long fuse
+Offset: 642, PUSHS , Operand: <br>
+Offset: 643, PUSHS , Operand: Ranged XP
+Offset: 644, PUSHS , Operand: <br>
+Offset: 645, PUSHS , Operand: Defence XP
+Offset: 646, CONCAT , Operand: 5
+Offset: 647, PUSHS , Operand: 
+Offset: 648, PUSHI , Operand: -1
+Offset: 649, PUSHS , Operand: 
+Offset: 650, CALL , Operand: 1143
+Offset: 651, GOTO , Operand: 164
+Offset: 652, PUSHS , Operand: Aim and fire
+Offset: 653, PUSHI , Operand: 128
+Offset: 654, PUSHS , Operand: Aim and fire
+Offset: 655, PUSHS , Operand: Kick
+Offset: 656, PUSHI , Operand: 248
+Offset: 657, PUSHS , Operand: Aggressive
+Offset: 658, PUSHS , Operand: <br>
+Offset: 659, PUSHS , Operand: Crush
+Offset: 660, PUSHS , Operand: <br>
+Offset: 661, PUSHS , Operand: Strength XP
+Offset: 662, CONCAT , Operand: 5
+Offset: 663, PUSHS , Operand: 
+Offset: 664, PUSHI , Operand: -1
+Offset: 665, PUSHS , Operand: 
+Offset: 666, PUSHS , Operand: 
+Offset: 667, PUSHI , Operand: -1
+Offset: 668, PUSHS , Operand: 
+Offset: 669, CALL , Operand: 1143
+Offset: 670, GOTO , Operand: 145
+Offset: 671, PUSHS , Operand: Scorch
+Offset: 672, PUSHI , Operand: 289
+Offset: 673, PUSHS , Operand: Aggressive
+Offset: 674, PUSHS , Operand: <br>
+Offset: 675, PUSHS , Operand: Slash
+Offset: 676, PUSHS , Operand: <br>
+Offset: 677, PUSHS , Operand: Strength XP
+Offset: 678, CONCAT , Operand: 5
+Offset: 679, PUSHS , Operand: Flare
+Offset: 680, PUSHI , Operand: 290
+Offset: 681, PUSHS , Operand: Accurate
+Offset: 682, PUSHS , Operand: <br>
+Offset: 683, PUSHS , Operand: Ranged
+Offset: 684, PUSHS , Operand: <br>
+Offset: 685, PUSHS , Operand: Ranged XP
+Offset: 686, CONCAT , Operand: 5
+Offset: 687, PUSHS , Operand: Blaze
+Offset: 688, PUSHI , Operand: 291
+Offset: 689, PUSHS , Operand: Defensive
+Offset: 690, PUSHS , Operand: <br>
+Offset: 691, PUSHS , Operand: Magic
+Offset: 692, PUSHS , Operand: <br>
+Offset: 693, PUSHS , Operand: Magic XP
+Offset: 694, CONCAT , Operand: 5
+Offset: 695, PUSHS , Operand: 
+Offset: 696, PUSHI , Operand: -1
+Offset: 697, PUSHS , Operand: 
+Offset: 698, CALL , Operand: 1143
+Offset: 699, GOTO , Operand: 116
+Offset: 700, PUSHS , Operand: Reap
+Offset: 701, PUSHI , Operand: 272
+Offset: 702, PUSHS , Operand: Accurate
+Offset: 703, PUSHS , Operand: <br>
+Offset: 704, PUSHS , Operand: Slash
+Offset: 705, PUSHS , Operand: <br>
+Offset: 706, PUSHS , Operand: Attack XP
+Offset: 707, CONCAT , Operand: 5
+Offset: 708, PUSHS , Operand: Chop
+Offset: 709, PUSHI , Operand: 262
+Offset: 710, PUSHS , Operand: Aggressive
+Offset: 711, PUSHS , Operand: <br>
+Offset: 712, PUSHS , Operand: Stab
+Offset: 713, PUSHS , Operand: <br>
+Offset: 714, PUSHS , Operand: Strength XP
+Offset: 715, CONCAT , Operand: 5
+Offset: 716, PUSHS , Operand: Jab
+Offset: 717, PUSHI , Operand: 271
+Offset: 718, PUSHS , Operand: Aggressive
+Offset: 719, PUSHS , Operand: <br>
+Offset: 720, PUSHS , Operand: Crush
+Offset: 721, PUSHS , Operand: <br>
+Offset: 722, PUSHS , Operand: Strength XP
+Offset: 723, CONCAT , Operand: 5
+Offset: 724, PUSHS , Operand: Block
+Offset: 725, PUSHI , Operand: 261
+Offset: 726, PUSHS , Operand: Defensive
+Offset: 727, PUSHS , Operand: <br>
+Offset: 728, PUSHS , Operand: Slash
+Offset: 729, PUSHS , Operand: <br>
+Offset: 730, PUSHS , Operand: Defence XP
+Offset: 731, CONCAT , Operand: 5
+Offset: 732, CALL , Operand: 1143
+Offset: 733, GOTO , Operand: 82
+Offset: 734, PUSHS , Operand: Sling
+Offset: 735, PUSHI , Operand: 263
+Offset: 736, PUSHS , Operand: Accurate
+Offset: 737, PUSHS , Operand: <br>
+Offset: 738, PUSHS , Operand: Ranged XP
+Offset: 739, CONCAT , Operand: 3
+Offset: 740, PUSHS , Operand: Chuck
+Offset: 741, PUSHI , Operand: 264
+Offset: 742, PUSHS , Operand: Rapid
+Offset: 743, PUSHS , Operand: <br>
+Offset: 744, PUSHS , Operand: Ranged XP
+Offset: 745, CONCAT , Operand: 3
+Offset: 746, PUSHS , Operand: Lob
+Offset: 747, PUSHI , Operand: 265
+Offset: 748, PUSHS , Operand: Long range
+Offset: 749, PUSHS , Operand: <br>
+Offset: 750, PUSHS , Operand: Ranged XP
+Offset: 751, PUSHS , Operand: <br>
+Offset: 752, PUSHS , Operand: Defence XP
+Offset: 753, CONCAT , Operand: 5
+Offset: 754, PUSHS , Operand: 
+Offset: 755, PUSHI , Operand: -1
+Offset: 756, PUSHS , Operand: 
+Offset: 757, CALL , Operand: 1143
+Offset: 758, GOTO , Operand: 57
+Offset: 759, PUSHS , Operand: Jab
+Offset: 760, PUSHI , Operand: 266
+Offset: 761, PUSHS , Operand: Accurate
+Offset: 762, PUSHS , Operand: <br>
+Offset: 763, PUSHS , Operand: Stab
+Offset: 764, PUSHS , Operand: <br>
+Offset: 765, PUSHS , Operand: Attack XP
+Offset: 766, CONCAT , Operand: 5
+Offset: 767, PUSHS , Operand: Swipe
+Offset: 768, PUSHI , Operand: 267
+Offset: 769, PUSHS , Operand: Aggressive
+Offset: 770, PUSHS , Operand: <br>
+Offset: 771, PUSHS , Operand: Slash
+Offset: 772, PUSHS , Operand: <br>
+Offset: 773, PUSHS , Operand: Strength XP
+Offset: 774, CONCAT , Operand: 5
+Offset: 775, PUSHS , Operand: Fend
+Offset: 776, PUSHI , Operand: 252
+Offset: 777, PUSHS , Operand: Defensive
+Offset: 778, PUSHS , Operand: <br>
+Offset: 779, PUSHS , Operand: Crush
+Offset: 780, PUSHS , Operand: <br>
+Offset: 781, PUSHS , Operand: Defence XP
+Offset: 782, CONCAT , Operand: 5
+Offset: 783, PUSHS , Operand: 
+Offset: 784, PUSHI , Operand: -1
+Offset: 785, PUSHS , Operand: 
+Offset: 786, CALL , Operand: 1143
+Offset: 787, GOTO , Operand: 28
+Offset: 788, PUSHS , Operand: Punch
+Offset: 789, PUSHI , Operand: 247
+Offset: 790, PUSHS , Operand: Accurate
+Offset: 791, PUSHS , Operand: <br>
+Offset: 792, PUSHS , Operand: Crush
+Offset: 793, PUSHS , Operand: <br>
+Offset: 794, PUSHS , Operand: Attack XP
+Offset: 795, CONCAT , Operand: 5
+Offset: 796, PUSHS , Operand: Kick
+Offset: 797, PUSHI , Operand: 248
+Offset: 798, PUSHS , Operand: Aggressive
+Offset: 799, PUSHS , Operand: <br>
+Offset: 800, PUSHS , Operand: Crush
+Offset: 801, PUSHS , Operand: <br>
+Offset: 802, PUSHS , Operand: Strength XP
+Offset: 803, CONCAT , Operand: 5
+Offset: 804, PUSHS , Operand: Block
+Offset: 805, PUSHI , Operand: 249
+Offset: 806, PUSHS , Operand: Defensive
+Offset: 807, PUSHS , Operand: <br>
+Offset: 808, PUSHS , Operand: Crush
+Offset: 809, PUSHS , Operand: <br>
+Offset: 810, PUSHS , Operand: Defence XP
+Offset: 811, CONCAT , Operand: 5
+Offset: 812, PUSHS , Operand: 
+Offset: 813, PUSHI , Operand: -1
+Offset: 814, PUSHS , Operand: 
+Offset: 815, CALL , Operand: 1143
+Offset: 816, RETURN , Operand: 0
+
+================================================
+                Switch Table 0                
+================================================
+
+Key: 1, Value: 1
+Key: 2, Value: 59
+Key: 3, Value: 93
+Key: 4, Value: 122
+Key: 5, Value: 156
+Key: 6, Value: 190
+Key: 7, Value: 224
+Key: 8, Value: 258
+Key: 9, Value: 292
+Key: 10, Value: 326
+Key: 11, Value: 355
+Key: 12, Value: 384
+Key: 13, Value: 413
+Key: 14, Value: 438
+Key: 15, Value: 472
+Key: 17, Value: 526
+Key: 16, Value: 501
+Key: 19, Value: 576
+Key: 18, Value: 551
+Key: 21, Value: 620
+Key: 20, Value: 601
+Key: 23, Value: 30
+Key: 22, Value: 649
+Key: 25, Value: 708
+Key: 24, Value: 683
+Key: 26, Value: 708

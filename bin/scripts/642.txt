@@ -1,0 +1,29 @@
+================================================
+      Client Script 642 Dumped by SiniSoul    
+      Instruction Size: 18
+      Integer Arguments: 2 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHI , Operand: 1168
+Offset: 1, LOADINT , Operand: 0
+Offset: 2, Unref Method: 2105, Operand: 0
+Offset: 3, PUSHI , Operand: 0
+Offset: 4, STOREINT , Operand: 1
+Offset: 5, LOADINT , Operand: 1
+Offset: 6, PUSHI , Operand: 6
+Offset: 7, IFLT , Operand: 1
+Offset: 8, GOTO , Operand: 8
+Offset: 9, LOADINT , Operand: 1
+Offset: 10, CALL , Operand: 626
+Offset: 11, CALL , Operand: 41
+Offset: 12, LOADINT , Operand: 1
+Offset: 13, PUSHI , Operand: 1
+Offset: 14, IADD , Operand: 0
+Offset: 15, STOREINT , Operand: 1
+Offset: 16, GOTO , Operand: -12
+Offset: 17, RETURN , Operand: 0

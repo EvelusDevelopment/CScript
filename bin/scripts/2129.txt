@@ -1,0 +1,49 @@
+================================================
+      Client Script 2129 Dumped by SiniSoul    
+      Instruction Size: 25
+      Integer Arguments: 3 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADINT , Operand: 1
+Offset: 1, SWITCH , Operand: 0
+Offset: 2, GOTO , Operand: 13
+Offset: 3, LOADINT , Operand: 1
+Offset: 4, Unref Method: 2500, Operand: 0
+Offset: 5, LOADINT , Operand: 1
+Offset: 6, Unref Method: 2501, Operand: 0
+Offset: 7, PUSHI , Operand: 0
+Offset: 8, PUSHI , Operand: 0
+Offset: 9, LOADINT , Operand: 0
+Offset: 10, Unref Method: 2000, Operand: 0
+Offset: 11, PUSHI , Operand: 5507
+Offset: 12, PUSHI , Operand: 1
+Offset: 13, PUSHI , Operand: 0
+Offset: 14, Unref Method: 3200, Operand: 0
+Offset: 15, GOTO , Operand: 8
+Offset: 16, LOADINT , Operand: 2
+Offset: 17, Unref Method: 2500, Operand: 0
+Offset: 18, LOADINT , Operand: 2
+Offset: 19, Unref Method: 2501, Operand: 0
+Offset: 20, PUSHI , Operand: 0
+Offset: 21, PUSHI , Operand: 0
+Offset: 22, LOADINT , Operand: 0
+Offset: 23, Unref Method: 2000, Operand: 0
+Offset: 24, RETURN , Operand: 0
+
+================================================
+                Switch Table 0                
+================================================
+
+Key: 27525135, Value: 1
+Key: 27525134, Value: 1
+Key: 27525133, Value: 1
+Key: 27525132, Value: 1
+Key: 27525138, Value: 1
+Key: 27525139, Value: 1
+Key: 27525136, Value: 1
+Key: 27525137, Value: 1

@@ -1,0 +1,27 @@
+================================================
+      Client Script 3682 Dumped by SiniSoul    
+      Instruction Size: 16
+      Integer Arguments: 0 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADGSTR , Operand: 196
+Offset: 1, getStringLength , Operand: 0
+Offset: 2, PUSHI , Operand: 0
+Offset: 3, IFEQ , Operand: 1
+Offset: 4, GOTO , Operand: 9
+Offset: 5, LOADGINT , Operand: 5
+Offset: 6, PUSHI , Operand: 14
+Offset: 7, IFNE , Operand: 1
+Offset: 8, GOTO , Operand: 5
+Offset: 9, PUSHI , Operand: 3246
+Offset: 10, PUSHI , Operand: 12255249
+Offset: 11, Unref Method: 2105, Operand: 0
+Offset: 12, CALL , Operand: 3685
+Offset: 13, GOTO , Operand: 1
+Offset: 14, CALL , Operand: 3683
+Offset: 15, RETURN , Operand: 0

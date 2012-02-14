@@ -1,0 +1,1622 @@
+================================================
+      Client Script 3355 Dumped by SiniSoul    
+      Instruction Size: 1445
+      Integer Arguments: 2 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADINT , Operand: 0
+Offset: 1, SWITCH , Operand: 0
+Offset: 2, GOTO , Operand: 1437
+Offset: 3, LOADINT , Operand: 1
+Offset: 4, SWITCH , Operand: 1
+Offset: 5, GOTO , Operand: 516
+Offset: 6, PUSHI , Operand: 1
+Offset: 7, PUSHI , Operand: 18579
+Offset: 8, PUSHS , Operand: Floor 1
+Offset: 9, PUSHS , Operand: You can now access floor 
+Offset: 10, PUSHS , Operand: <col=000080>
+Offset: 11, PUSHS , Operand: 1
+Offset: 12, PUSHS , Operand: </col>
+Offset: 13, PUSHS , Operand:  of Daemonheim.
+Offset: 14, CONCAT , Operand: 5
+Offset: 15, RETURN , Operand: 0
+Offset: 16, GOTO , Operand: 505
+Offset: 17, PUSHI , Operand: 3
+Offset: 18, PUSHI , Operand: 18579
+Offset: 19, PUSHS , Operand: Floor 2
+Offset: 20, PUSHS , Operand: You can now access floor 
+Offset: 21, PUSHS , Operand: <col=000080>
+Offset: 22, PUSHS , Operand: 2
+Offset: 23, PUSHS , Operand: </col>
+Offset: 24, PUSHS , Operand:  of Daemonheim.
+Offset: 25, CONCAT , Operand: 5
+Offset: 26, RETURN , Operand: 0
+Offset: 27, GOTO , Operand: 494
+Offset: 28, PUSHI , Operand: 5
+Offset: 29, PUSHI , Operand: 18579
+Offset: 30, PUSHS , Operand: Floor 3
+Offset: 31, PUSHS , Operand: You can now access floor 
+Offset: 32, PUSHS , Operand: <col=000080>
+Offset: 33, PUSHS , Operand: 3
+Offset: 34, PUSHS , Operand: </col>
+Offset: 35, PUSHS , Operand:  of Daemonheim.
+Offset: 36, CONCAT , Operand: 5
+Offset: 37, RETURN , Operand: 0
+Offset: 38, GOTO , Operand: 483
+Offset: 39, PUSHI , Operand: 7
+Offset: 40, PUSHI , Operand: 18579
+Offset: 41, PUSHS , Operand: Floor 4
+Offset: 42, PUSHS , Operand: You can now access floor 
+Offset: 43, PUSHS , Operand: <col=000080>
+Offset: 44, PUSHS , Operand: 4
+Offset: 45, PUSHS , Operand: </col>
+Offset: 46, PUSHS , Operand:  of Daemonheim.
+Offset: 47, CONCAT , Operand: 5
+Offset: 48, RETURN , Operand: 0
+Offset: 49, GOTO , Operand: 472
+Offset: 50, PUSHI , Operand: 9
+Offset: 51, PUSHI , Operand: 18579
+Offset: 52, PUSHS , Operand: Floor 5
+Offset: 53, PUSHS , Operand: You can now access floor 
+Offset: 54, PUSHS , Operand: <col=000080>
+Offset: 55, PUSHS , Operand: 5
+Offset: 56, PUSHS , Operand: </col>
+Offset: 57, PUSHS , Operand:  of Daemonheim.
+Offset: 58, CONCAT , Operand: 5
+Offset: 59, RETURN , Operand: 0
+Offset: 60, GOTO , Operand: 461
+Offset: 61, PUSHI , Operand: 11
+Offset: 62, PUSHI , Operand: 18579
+Offset: 63, PUSHS , Operand: Floor 6
+Offset: 64, PUSHS , Operand: You can now access floor 
+Offset: 65, PUSHS , Operand: <col=000080>
+Offset: 66, PUSHS , Operand: 6
+Offset: 67, PUSHS , Operand: </col>
+Offset: 68, PUSHS , Operand:  of Daemonheim.
+Offset: 69, CONCAT , Operand: 5
+Offset: 70, RETURN , Operand: 0
+Offset: 71, GOTO , Operand: 450
+Offset: 72, PUSHI , Operand: 13
+Offset: 73, PUSHI , Operand: 18579
+Offset: 74, PUSHS , Operand: Floor 7
+Offset: 75, PUSHS , Operand: You can now access floor 
+Offset: 76, PUSHS , Operand: <col=000080>
+Offset: 77, PUSHS , Operand: 7
+Offset: 78, PUSHS , Operand: </col>
+Offset: 79, PUSHS , Operand:  of Daemonheim.
+Offset: 80, CONCAT , Operand: 5
+Offset: 81, RETURN , Operand: 0
+Offset: 82, GOTO , Operand: 439
+Offset: 83, PUSHI , Operand: 15
+Offset: 84, PUSHI , Operand: 18579
+Offset: 85, PUSHS , Operand: Floor 8
+Offset: 86, PUSHS , Operand: You can now access floor 
+Offset: 87, PUSHS , Operand: <col=000080>
+Offset: 88, PUSHS , Operand: 8
+Offset: 89, PUSHS , Operand: </col>
+Offset: 90, PUSHS , Operand:  of Daemonheim.
+Offset: 91, CONCAT , Operand: 5
+Offset: 92, RETURN , Operand: 0
+Offset: 93, GOTO , Operand: 428
+Offset: 94, PUSHI , Operand: 17
+Offset: 95, PUSHI , Operand: 18579
+Offset: 96, PUSHS , Operand: Floor 9
+Offset: 97, PUSHS , Operand: You can now access floor 
+Offset: 98, PUSHS , Operand: <col=000080>
+Offset: 99, PUSHS , Operand: 9
+Offset: 100, PUSHS , Operand: </col>
+Offset: 101, PUSHS , Operand:  of Daemonheim.
+Offset: 102, CONCAT , Operand: 5
+Offset: 103, RETURN , Operand: 0
+Offset: 104, GOTO , Operand: 417
+Offset: 105, PUSHI , Operand: 19
+Offset: 106, PUSHI , Operand: 18579
+Offset: 107, PUSHS , Operand: Floor 10
+Offset: 108, PUSHS , Operand: You can now access floor 
+Offset: 109, PUSHS , Operand: <col=000080>
+Offset: 110, PUSHS , Operand: 10
+Offset: 111, PUSHS , Operand: </col>
+Offset: 112, PUSHS , Operand:  of Daemonheim.
+Offset: 113, CONCAT , Operand: 5
+Offset: 114, RETURN , Operand: 0
+Offset: 115, GOTO , Operand: 406
+Offset: 116, PUSHI , Operand: 21
+Offset: 117, PUSHI , Operand: 18579
+Offset: 118, PUSHS , Operand: Floor 11
+Offset: 119, PUSHS , Operand: You can now access floor 
+Offset: 120, PUSHS , Operand: <col=000080>
+Offset: 121, PUSHS , Operand: 11
+Offset: 122, PUSHS , Operand: </col>
+Offset: 123, PUSHS , Operand:  of Daemonheim.
+Offset: 124, CONCAT , Operand: 5
+Offset: 125, RETURN , Operand: 0
+Offset: 126, GOTO , Operand: 395
+Offset: 127, PUSHI , Operand: 23
+Offset: 128, PUSHI , Operand: 18578
+Offset: 129, PUSHS , Operand: Floor 12
+Offset: 130, PUSHS , Operand: You can now access floor 
+Offset: 131, PUSHS , Operand: <col=000080>
+Offset: 132, PUSHS , Operand: 12
+Offset: 133, PUSHS , Operand: </col>
+Offset: 134, PUSHS , Operand:  of Daemonheim.
+Offset: 135, CONCAT , Operand: 5
+Offset: 136, RETURN , Operand: 0
+Offset: 137, GOTO , Operand: 384
+Offset: 138, PUSHI , Operand: 25
+Offset: 139, PUSHI , Operand: 18578
+Offset: 140, PUSHS , Operand: Floor 13
+Offset: 141, PUSHS , Operand: You can now access floor 
+Offset: 142, PUSHS , Operand: <col=000080>
+Offset: 143, PUSHS , Operand: 13
+Offset: 144, PUSHS , Operand: </col>
+Offset: 145, PUSHS , Operand:  of Daemonheim.
+Offset: 146, CONCAT , Operand: 5
+Offset: 147, RETURN , Operand: 0
+Offset: 148, GOTO , Operand: 373
+Offset: 149, PUSHI , Operand: 27
+Offset: 150, PUSHI , Operand: 18578
+Offset: 151, PUSHS , Operand: Floor 14
+Offset: 152, PUSHS , Operand: You can now access floor 
+Offset: 153, PUSHS , Operand: <col=000080>
+Offset: 154, PUSHS , Operand: 14
+Offset: 155, PUSHS , Operand: </col>
+Offset: 156, PUSHS , Operand:  of Daemonheim.
+Offset: 157, CONCAT , Operand: 5
+Offset: 158, RETURN , Operand: 0
+Offset: 159, GOTO , Operand: 362
+Offset: 160, PUSHI , Operand: 29
+Offset: 161, PUSHI , Operand: 18578
+Offset: 162, PUSHS , Operand: Floor 15
+Offset: 163, PUSHS , Operand: You can now access floor 
+Offset: 164, PUSHS , Operand: <col=000080>
+Offset: 165, PUSHS , Operand: 15
+Offset: 166, PUSHS , Operand: </col>
+Offset: 167, PUSHS , Operand:  of Daemonheim.
+Offset: 168, CONCAT , Operand: 5
+Offset: 169, RETURN , Operand: 0
+Offset: 170, GOTO , Operand: 351
+Offset: 171, PUSHI , Operand: 31
+Offset: 172, PUSHI , Operand: 18578
+Offset: 173, PUSHS , Operand: Floor 16
+Offset: 174, PUSHS , Operand: You can now access floor 
+Offset: 175, PUSHS , Operand: <col=000080>
+Offset: 176, PUSHS , Operand: 16
+Offset: 177, PUSHS , Operand: </col>
+Offset: 178, PUSHS , Operand:  of Daemonheim.
+Offset: 179, CONCAT , Operand: 5
+Offset: 180, RETURN , Operand: 0
+Offset: 181, GOTO , Operand: 340
+Offset: 182, PUSHI , Operand: 33
+Offset: 183, PUSHI , Operand: 18578
+Offset: 184, PUSHS , Operand: Floor 17
+Offset: 185, PUSHS , Operand: You can now access floor 
+Offset: 186, PUSHS , Operand: <col=000080>
+Offset: 187, PUSHS , Operand: 17
+Offset: 188, PUSHS , Operand: </col>
+Offset: 189, PUSHS , Operand:  of Daemonheim.
+Offset: 190, CONCAT , Operand: 5
+Offset: 191, RETURN , Operand: 0
+Offset: 192, GOTO , Operand: 329
+Offset: 193, PUSHI , Operand: 35
+Offset: 194, PUSHI , Operand: 18577
+Offset: 195, PUSHS , Operand: Floor 18
+Offset: 196, PUSHS , Operand: You can now access floor 
+Offset: 197, PUSHS , Operand: <col=000080>
+Offset: 198, PUSHS , Operand: 18
+Offset: 199, PUSHS , Operand: </col>
+Offset: 200, PUSHS , Operand:  of Daemonheim.
+Offset: 201, CONCAT , Operand: 5
+Offset: 202, RETURN , Operand: 0
+Offset: 203, GOTO , Operand: 318
+Offset: 204, PUSHI , Operand: 37
+Offset: 205, PUSHI , Operand: 18577
+Offset: 206, PUSHS , Operand: Floor 19
+Offset: 207, PUSHS , Operand: You can now access floor 
+Offset: 208, PUSHS , Operand: <col=000080>
+Offset: 209, PUSHS , Operand: 19
+Offset: 210, PUSHS , Operand: </col>
+Offset: 211, PUSHS , Operand:  of Daemonheim.
+Offset: 212, CONCAT , Operand: 5
+Offset: 213, RETURN , Operand: 0
+Offset: 214, GOTO , Operand: 307
+Offset: 215, PUSHI , Operand: 39
+Offset: 216, PUSHI , Operand: 18577
+Offset: 217, PUSHS , Operand: Floor 20
+Offset: 218, PUSHS , Operand: You can now access floor 
+Offset: 219, PUSHS , Operand: <col=000080>
+Offset: 220, PUSHS , Operand: 20
+Offset: 221, PUSHS , Operand: </col>
+Offset: 222, PUSHS , Operand:  of Daemonheim.
+Offset: 223, CONCAT , Operand: 5
+Offset: 224, RETURN , Operand: 0
+Offset: 225, GOTO , Operand: 296
+Offset: 226, PUSHI , Operand: 41
+Offset: 227, PUSHI , Operand: 18577
+Offset: 228, PUSHS , Operand: Floor 21
+Offset: 229, PUSHS , Operand: You can now access floor 
+Offset: 230, PUSHS , Operand: <col=000080>
+Offset: 231, PUSHS , Operand: 21
+Offset: 232, PUSHS , Operand: </col>
+Offset: 233, PUSHS , Operand:  of Daemonheim.
+Offset: 234, CONCAT , Operand: 5
+Offset: 235, RETURN , Operand: 0
+Offset: 236, GOTO , Operand: 285
+Offset: 237, PUSHI , Operand: 43
+Offset: 238, PUSHI , Operand: 18577
+Offset: 239, PUSHS , Operand: Floor 22
+Offset: 240, PUSHS , Operand: You can now access floor 
+Offset: 241, PUSHS , Operand: <col=000080>
+Offset: 242, PUSHS , Operand: 22
+Offset: 243, PUSHS , Operand: </col>
+Offset: 244, PUSHS , Operand:  of Daemonheim.
+Offset: 245, CONCAT , Operand: 5
+Offset: 246, RETURN , Operand: 0
+Offset: 247, GOTO , Operand: 274
+Offset: 248, PUSHI , Operand: 45
+Offset: 249, PUSHI , Operand: 18577
+Offset: 250, PUSHS , Operand: Floor 23
+Offset: 251, PUSHS , Operand: You can now access floor 
+Offset: 252, PUSHS , Operand: <col=000080>
+Offset: 253, PUSHS , Operand: 23
+Offset: 254, PUSHS , Operand: </col>
+Offset: 255, PUSHS , Operand:  of Daemonheim.
+Offset: 256, CONCAT , Operand: 5
+Offset: 257, RETURN , Operand: 0
+Offset: 258, GOTO , Operand: 263
+Offset: 259, PUSHI , Operand: 47
+Offset: 260, PUSHI , Operand: 18577
+Offset: 261, PUSHS , Operand: Floor 24
+Offset: 262, PUSHS , Operand: You can now access floor 
+Offset: 263, PUSHS , Operand: <col=000080>
+Offset: 264, PUSHS , Operand: 24
+Offset: 265, PUSHS , Operand: </col>
+Offset: 266, PUSHS , Operand:  of Daemonheim.
+Offset: 267, CONCAT , Operand: 5
+Offset: 268, RETURN , Operand: 0
+Offset: 269, GOTO , Operand: 252
+Offset: 270, PUSHI , Operand: 49
+Offset: 271, PUSHI , Operand: 18577
+Offset: 272, PUSHS , Operand: Floor 25
+Offset: 273, PUSHS , Operand: You can now access floor 
+Offset: 274, PUSHS , Operand: <col=000080>
+Offset: 275, PUSHS , Operand: 25
+Offset: 276, PUSHS , Operand: </col>
+Offset: 277, PUSHS , Operand:  of Daemonheim.
+Offset: 278, CONCAT , Operand: 5
+Offset: 279, RETURN , Operand: 0
+Offset: 280, GOTO , Operand: 241
+Offset: 281, PUSHI , Operand: 51
+Offset: 282, PUSHI , Operand: 18577
+Offset: 283, PUSHS , Operand: Floor 26
+Offset: 284, PUSHS , Operand: You can now access floor 
+Offset: 285, PUSHS , Operand: <col=000080>
+Offset: 286, PUSHS , Operand: 26
+Offset: 287, PUSHS , Operand: </col>
+Offset: 288, PUSHS , Operand:  of Daemonheim.
+Offset: 289, CONCAT , Operand: 5
+Offset: 290, RETURN , Operand: 0
+Offset: 291, GOTO , Operand: 230
+Offset: 292, PUSHI , Operand: 53
+Offset: 293, PUSHI , Operand: 18577
+Offset: 294, PUSHS , Operand: Floor 27
+Offset: 295, PUSHS , Operand: You can now access floor 
+Offset: 296, PUSHS , Operand: <col=000080>
+Offset: 297, PUSHS , Operand: 27
+Offset: 298, PUSHS , Operand: </col>
+Offset: 299, PUSHS , Operand:  of Daemonheim.
+Offset: 300, CONCAT , Operand: 5
+Offset: 301, RETURN , Operand: 0
+Offset: 302, GOTO , Operand: 219
+Offset: 303, PUSHI , Operand: 55
+Offset: 304, PUSHI , Operand: 18577
+Offset: 305, PUSHS , Operand: Floor 28
+Offset: 306, PUSHS , Operand: You can now access floor 
+Offset: 307, PUSHS , Operand: <col=000080>
+Offset: 308, PUSHS , Operand: 28
+Offset: 309, PUSHS , Operand: </col>
+Offset: 310, PUSHS , Operand:  of Daemonheim.
+Offset: 311, CONCAT , Operand: 5
+Offset: 312, RETURN , Operand: 0
+Offset: 313, GOTO , Operand: 208
+Offset: 314, PUSHI , Operand: 57
+Offset: 315, PUSHI , Operand: 18577
+Offset: 316, PUSHS , Operand: Floor 29
+Offset: 317, PUSHS , Operand: You can now access floor 
+Offset: 318, PUSHS , Operand: <col=000080>
+Offset: 319, PUSHS , Operand: 29
+Offset: 320, PUSHS , Operand: </col>
+Offset: 321, PUSHS , Operand:  of Daemonheim.
+Offset: 322, CONCAT , Operand: 5
+Offset: 323, RETURN , Operand: 0
+Offset: 324, GOTO , Operand: 197
+Offset: 325, PUSHI , Operand: 59
+Offset: 326, PUSHI , Operand: 18578
+Offset: 327, PUSHS , Operand: Floor 30
+Offset: 328, PUSHS , Operand: You can now access floor 
+Offset: 329, PUSHS , Operand: <col=000080>
+Offset: 330, PUSHS , Operand: 30
+Offset: 331, PUSHS , Operand: </col>
+Offset: 332, PUSHS , Operand:  of Daemonheim.
+Offset: 333, CONCAT , Operand: 5
+Offset: 334, RETURN , Operand: 0
+Offset: 335, GOTO , Operand: 186
+Offset: 336, PUSHI , Operand: 61
+Offset: 337, PUSHI , Operand: 18578
+Offset: 338, PUSHS , Operand: Floor 31
+Offset: 339, PUSHS , Operand: You can now access floor 
+Offset: 340, PUSHS , Operand: <col=000080>
+Offset: 341, PUSHS , Operand: 31
+Offset: 342, PUSHS , Operand: </col>
+Offset: 343, PUSHS , Operand:  of Daemonheim.
+Offset: 344, CONCAT , Operand: 5
+Offset: 345, RETURN , Operand: 0
+Offset: 346, GOTO , Operand: 175
+Offset: 347, PUSHI , Operand: 63
+Offset: 348, PUSHI , Operand: 18578
+Offset: 349, PUSHS , Operand: Floor 32
+Offset: 350, PUSHS , Operand: You can now access floor 
+Offset: 351, PUSHS , Operand: <col=000080>
+Offset: 352, PUSHS , Operand: 32
+Offset: 353, PUSHS , Operand: </col>
+Offset: 354, PUSHS , Operand:  of Daemonheim.
+Offset: 355, CONCAT , Operand: 5
+Offset: 356, RETURN , Operand: 0
+Offset: 357, GOTO , Operand: 164
+Offset: 358, PUSHI , Operand: 65
+Offset: 359, PUSHI , Operand: 18578
+Offset: 360, PUSHS , Operand: Floor 33
+Offset: 361, PUSHS , Operand: You can now access floor 
+Offset: 362, PUSHS , Operand: <col=000080>
+Offset: 363, PUSHS , Operand: 33
+Offset: 364, PUSHS , Operand: </col>
+Offset: 365, PUSHS , Operand:  of Daemonheim.
+Offset: 366, CONCAT , Operand: 5
+Offset: 367, RETURN , Operand: 0
+Offset: 368, GOTO , Operand: 153
+Offset: 369, PUSHI , Operand: 67
+Offset: 370, PUSHI , Operand: 18578
+Offset: 371, PUSHS , Operand: Floor 34
+Offset: 372, PUSHS , Operand: You can now access floor 
+Offset: 373, PUSHS , Operand: <col=000080>
+Offset: 374, PUSHS , Operand: 34
+Offset: 375, PUSHS , Operand: </col>
+Offset: 376, PUSHS , Operand:  of Daemonheim.
+Offset: 377, CONCAT , Operand: 5
+Offset: 378, RETURN , Operand: 0
+Offset: 379, GOTO , Operand: 142
+Offset: 380, PUSHI , Operand: 69
+Offset: 381, PUSHI , Operand: 18578
+Offset: 382, PUSHS , Operand: Floor 35
+Offset: 383, PUSHS , Operand: You can now access floor 
+Offset: 384, PUSHS , Operand: <col=000080>
+Offset: 385, PUSHS , Operand: 35
+Offset: 386, PUSHS , Operand: </col>
+Offset: 387, PUSHS , Operand:  of Daemonheim.
+Offset: 388, CONCAT , Operand: 5
+Offset: 389, RETURN , Operand: 0
+Offset: 390, GOTO , Operand: 131
+Offset: 391, PUSHI , Operand: 71
+Offset: 392, PUSHI , Operand: 19690
+Offset: 393, PUSHS , Operand: Members: Floor 36
+Offset: 394, PUSHS , Operand: Members can now access floor 
+Offset: 395, PUSHS , Operand: <col=000080>
+Offset: 396, PUSHS , Operand: 36
+Offset: 397, PUSHS , Operand: </col>
+Offset: 398, PUSHS , Operand:  of Daemonheim.
+Offset: 399, CONCAT , Operand: 5
+Offset: 400, RETURN , Operand: 0
+Offset: 401, GOTO , Operand: 120
+Offset: 402, PUSHI , Operand: 73
+Offset: 403, PUSHI , Operand: 19690
+Offset: 404, PUSHS , Operand: Members: Floor 37
+Offset: 405, PUSHS , Operand: Members can now access floor 
+Offset: 406, PUSHS , Operand: <col=000080>
+Offset: 407, PUSHS , Operand: 37
+Offset: 408, PUSHS , Operand: </col>
+Offset: 409, PUSHS , Operand:  of Daemonheim.
+Offset: 410, CONCAT , Operand: 5
+Offset: 411, RETURN , Operand: 0
+Offset: 412, GOTO , Operand: 109
+Offset: 413, PUSHI , Operand: 75
+Offset: 414, PUSHI , Operand: 19690
+Offset: 415, PUSHS , Operand: Members: Floor 38
+Offset: 416, PUSHS , Operand: Members can now access floor 
+Offset: 417, PUSHS , Operand: <col=000080>
+Offset: 418, PUSHS , Operand: 38
+Offset: 419, PUSHS , Operand: </col>
+Offset: 420, PUSHS , Operand:  of Daemonheim.
+Offset: 421, CONCAT , Operand: 5
+Offset: 422, RETURN , Operand: 0
+Offset: 423, GOTO , Operand: 98
+Offset: 424, PUSHI , Operand: 77
+Offset: 425, PUSHI , Operand: 19690
+Offset: 426, PUSHS , Operand: Members: Floor 39
+Offset: 427, PUSHS , Operand: Members can now access floor 
+Offset: 428, PUSHS , Operand: <col=000080>
+Offset: 429, PUSHS , Operand: 39
+Offset: 430, PUSHS , Operand: </col>
+Offset: 431, PUSHS , Operand:  of Daemonheim.
+Offset: 432, CONCAT , Operand: 5
+Offset: 433, RETURN , Operand: 0
+Offset: 434, GOTO , Operand: 87
+Offset: 435, PUSHI , Operand: 79
+Offset: 436, PUSHI , Operand: 19690
+Offset: 437, PUSHS , Operand: Members: Floor 40
+Offset: 438, PUSHS , Operand: Members can now access floor 
+Offset: 439, PUSHS , Operand: <col=000080>
+Offset: 440, PUSHS , Operand: 40
+Offset: 441, PUSHS , Operand: </col>
+Offset: 442, PUSHS , Operand:  of Daemonheim.
+Offset: 443, CONCAT , Operand: 5
+Offset: 444, RETURN , Operand: 0
+Offset: 445, GOTO , Operand: 76
+Offset: 446, PUSHI , Operand: 81
+Offset: 447, PUSHI , Operand: 19690
+Offset: 448, PUSHS , Operand: Members: Floor 41
+Offset: 449, PUSHS , Operand: Members can now access floor 
+Offset: 450, PUSHS , Operand: <col=000080>
+Offset: 451, PUSHS , Operand: 41
+Offset: 452, PUSHS , Operand: </col>
+Offset: 453, PUSHS , Operand:  of Daemonheim.
+Offset: 454, CONCAT , Operand: 5
+Offset: 455, RETURN , Operand: 0
+Offset: 456, GOTO , Operand: 65
+Offset: 457, PUSHI , Operand: 83
+Offset: 458, PUSHI , Operand: 19690
+Offset: 459, PUSHS , Operand: Members: Floor 42
+Offset: 460, PUSHS , Operand: Members can now access floor 
+Offset: 461, PUSHS , Operand: <col=000080>
+Offset: 462, PUSHS , Operand: 42
+Offset: 463, PUSHS , Operand: </col>
+Offset: 464, PUSHS , Operand:  of Daemonheim.
+Offset: 465, CONCAT , Operand: 5
+Offset: 466, RETURN , Operand: 0
+Offset: 467, GOTO , Operand: 54
+Offset: 468, PUSHI , Operand: 85
+Offset: 469, PUSHI , Operand: 19690
+Offset: 470, PUSHS , Operand: Members: Floor 43
+Offset: 471, PUSHS , Operand: Members can now access floor 
+Offset: 472, PUSHS , Operand: <col=000080>
+Offset: 473, PUSHS , Operand: 43
+Offset: 474, PUSHS , Operand: </col>
+Offset: 475, PUSHS , Operand:  of Daemonheim.
+Offset: 476, CONCAT , Operand: 5
+Offset: 477, RETURN , Operand: 0
+Offset: 478, GOTO , Operand: 43
+Offset: 479, PUSHI , Operand: 87
+Offset: 480, PUSHI , Operand: 19690
+Offset: 481, PUSHS , Operand: Members: Floor 44
+Offset: 482, PUSHS , Operand: Members can now access floor 
+Offset: 483, PUSHS , Operand: <col=000080>
+Offset: 484, PUSHS , Operand: 44
+Offset: 485, PUSHS , Operand: </col>
+Offset: 486, PUSHS , Operand:  of Daemonheim.
+Offset: 487, CONCAT , Operand: 5
+Offset: 488, RETURN , Operand: 0
+Offset: 489, GOTO , Operand: 32
+Offset: 490, PUSHI , Operand: 89
+Offset: 491, PUSHI , Operand: 19690
+Offset: 492, PUSHS , Operand: Members: Floor 45
+Offset: 493, PUSHS , Operand: Members can now access floor 
+Offset: 494, PUSHS , Operand: <col=000080>
+Offset: 495, PUSHS , Operand: 45
+Offset: 496, PUSHS , Operand: </col>
+Offset: 497, PUSHS , Operand:  of Daemonheim.
+Offset: 498, CONCAT , Operand: 5
+Offset: 499, RETURN , Operand: 0
+Offset: 500, GOTO , Operand: 21
+Offset: 501, PUSHI , Operand: 91
+Offset: 502, PUSHI , Operand: 19690
+Offset: 503, PUSHS , Operand: Members: Floor 46
+Offset: 504, PUSHS , Operand: Members can now access floor 
+Offset: 505, PUSHS , Operand: <col=000080>
+Offset: 506, PUSHS , Operand: 46
+Offset: 507, PUSHS , Operand: </col>
+Offset: 508, PUSHS , Operand:  of Daemonheim.
+Offset: 509, CONCAT , Operand: 5
+Offset: 510, RETURN , Operand: 0
+Offset: 511, GOTO , Operand: 10
+Offset: 512, PUSHI , Operand: 93
+Offset: 513, PUSHI , Operand: 19690
+Offset: 514, PUSHS , Operand: Members: Floor 47
+Offset: 515, PUSHS , Operand: Members can now access floor 
+Offset: 516, PUSHS , Operand: <col=000080>
+Offset: 517, PUSHS , Operand: 47
+Offset: 518, PUSHS , Operand: </col>
+Offset: 519, PUSHS , Operand:  of Daemonheim.
+Offset: 520, CONCAT , Operand: 5
+Offset: 521, RETURN , Operand: 0
+Offset: 522, GOTO , Operand: 917
+Offset: 523, LOADINT , Operand: 1
+Offset: 524, SWITCH , Operand: 2
+Offset: 525, GOTO , Operand: 263
+Offset: 526, PUSHI , Operand: 1
+Offset: 527, PUSHI , Operand: 18619
+Offset: 528, PUSHS , Operand: Gluttonous behemoth
+Offset: 529, PUSHS , Operand: You can now fight 
+Offset: 530, PUSHS , Operand: <col=000080>
+Offset: 531, PUSHS , Operand: gluttonous behemoths
+Offset: 532, PUSHS , Operand: </col>
+Offset: 533, PUSHS , Operand:  in Daemonheim.
+Offset: 534, CONCAT , Operand: 5
+Offset: 535, RETURN , Operand: 0
+Offset: 536, GOTO , Operand: 252
+Offset: 537, PUSHI , Operand: 1
+Offset: 538, PUSHI , Operand: 18617
+Offset: 539, PUSHS , Operand: Astea Frostweb
+Offset: 540, PUSHS , Operand: You can now fight 
+Offset: 541, PUSHS , Operand: <col=000080>
+Offset: 542, PUSHS , Operand: Astea Frostweb
+Offset: 543, PUSHS , Operand: </col>
+Offset: 544, PUSHS , Operand:  in Daemonheim.
+Offset: 545, CONCAT , Operand: 5
+Offset: 546, RETURN , Operand: 0
+Offset: 547, GOTO , Operand: 241
+Offset: 548, PUSHI , Operand: 1
+Offset: 549, PUSHI , Operand: 18625
+Offset: 550, PUSHS , Operand: Icy Bones
+Offset: 551, PUSHS , Operand: You can now fight 
+Offset: 552, PUSHS , Operand: <col=000080>
+Offset: 553, PUSHS , Operand: Icy Bones
+Offset: 554, PUSHS , Operand: </col>
+Offset: 555, PUSHS , Operand:  in Daemonheim.
+Offset: 556, CONCAT , Operand: 5
+Offset: 557, RETURN , Operand: 0
+Offset: 558, GOTO , Operand: 230
+Offset: 559, PUSHI , Operand: 5
+Offset: 560, PUSHI , Operand: 18628
+Offset: 561, PUSHS , Operand: Luminescent icefiend
+Offset: 562, PUSHS , Operand: You can now fight 
+Offset: 563, PUSHS , Operand: <col=000080>
+Offset: 564, PUSHS , Operand: luminescent icefiends
+Offset: 565, PUSHS , Operand: </col>
+Offset: 566, PUSHS , Operand:  in Daemonheim.
+Offset: 567, CONCAT , Operand: 5
+Offset: 568, RETURN , Operand: 0
+Offset: 569, GOTO , Operand: 219
+Offset: 570, PUSHI , Operand: 11
+Offset: 571, PUSHI , Operand: 18621
+Offset: 572, PUSHS , Operand: Plane-freezer Lakhrahnaz
+Offset: 573, PUSHS , Operand: You can now fight 
+Offset: 574, PUSHS , Operand: <col=000080>
+Offset: 575, PUSHS , Operand: Plane-freezer Lakhrahnaz
+Offset: 576, PUSHS , Operand: </col>
+Offset: 577, PUSHS , Operand:  in Daemonheim.
+Offset: 578, CONCAT , Operand: 5
+Offset: 579, RETURN , Operand: 0
+Offset: 580, GOTO , Operand: 208
+Offset: 581, PUSHI , Operand: 17
+Offset: 582, PUSHI , Operand: 18623
+Offset: 583, PUSHS , Operand: To'Kash the Bloodchiller
+Offset: 584, PUSHS , Operand: You can now fight 
+Offset: 585, PUSHS , Operand: <col=000080>
+Offset: 586, PUSHS , Operand: To'Kash the Bloodchiller
+Offset: 587, PUSHS , Operand: </col>
+Offset: 588, PUSHS , Operand:  in Daemonheim.
+Offset: 589, CONCAT , Operand: 5
+Offset: 590, RETURN , Operand: 0
+Offset: 591, GOTO , Operand: 197
+Offset: 592, PUSHI , Operand: 23
+Offset: 593, PUSHI , Operand: 18618
+Offset: 594, PUSHS , Operand: Skeletal Horde
+Offset: 595, PUSHS , Operand: You can now fight 
+Offset: 596, PUSHS , Operand: <col=000080>
+Offset: 597, PUSHS , Operand: skeletal hordes
+Offset: 598, PUSHS , Operand: </col>
+Offset: 599, PUSHS , Operand:  in Daemonheim.
+Offset: 600, CONCAT , Operand: 5
+Offset: 601, RETURN , Operand: 0
+Offset: 602, GOTO , Operand: 186
+Offset: 603, PUSHI , Operand: 23
+Offset: 604, PUSHI , Operand: 18624
+Offset: 605, PUSHS , Operand: Hobgoblin Geomancer
+Offset: 606, PUSHS , Operand: You can now fight the 
+Offset: 607, PUSHS , Operand: <col=000080>
+Offset: 608, PUSHS , Operand: Geomancer Shaman
+Offset: 609, PUSHS , Operand: </col>
+Offset: 610, PUSHS , Operand:  in Daemonheim.
+Offset: 611, CONCAT , Operand: 5
+Offset: 612, RETURN , Operand: 0
+Offset: 613, GOTO , Operand: 175
+Offset: 614, PUSHI , Operand: 23
+Offset: 615, PUSHI , Operand: 19699
+Offset: 616, PUSHS , Operand: Bulwark beast
+Offset: 617, PUSHS , Operand: You can now fight 
+Offset: 618, PUSHS , Operand: <col=000080>
+Offset: 619, PUSHS , Operand: bulwark beasts
+Offset: 620, PUSHS , Operand: </col>
+Offset: 621, PUSHS , Operand:  in Daemonheim.
+Offset: 622, CONCAT , Operand: 5
+Offset: 623, RETURN , Operand: 0
+Offset: 624, GOTO , Operand: 164
+Offset: 625, PUSHI , Operand: 29
+Offset: 626, PUSHI , Operand: 18632
+Offset: 627, PUSHS , Operand: Unholy cursebearer
+Offset: 628, PUSHS , Operand: You can now fight 
+Offset: 629, PUSHS , Operand: <col=000080>
+Offset: 630, PUSHS , Operand: unholy cursebearers
+Offset: 631, PUSHS , Operand: </col>
+Offset: 632, PUSHS , Operand:  in Daemonheim.
+Offset: 633, CONCAT , Operand: 5
+Offset: 634, RETURN , Operand: 0
+Offset: 635, GOTO , Operand: 153
+Offset: 636, PUSHI , Operand: 35
+Offset: 637, PUSHI , Operand: 18622
+Offset: 638, PUSHS , Operand: Rammernaut
+Offset: 639, PUSHS , Operand: You can now fight 
+Offset: 640, PUSHS , Operand: <col=000080>
+Offset: 641, PUSHS , Operand: rammernauts
+Offset: 642, PUSHS , Operand: </col>
+Offset: 643, PUSHS , Operand:  in Daemonheim.
+Offset: 644, CONCAT , Operand: 5
+Offset: 645, RETURN , Operand: 0
+Offset: 646, GOTO , Operand: 142
+Offset: 647, PUSHI , Operand: 35
+Offset: 648, PUSHI , Operand: 18633
+Offset: 649, PUSHS , Operand: Stomp
+Offset: 650, PUSHS , Operand: You can now fight 
+Offset: 651, PUSHS , Operand: <col=000080>
+Offset: 652, PUSHS , Operand: stomps
+Offset: 653, PUSHS , Operand: </col>
+Offset: 654, PUSHS , Operand:  in Daemonheim.
+Offset: 655, CONCAT , Operand: 5
+Offset: 656, RETURN , Operand: 0
+Offset: 657, GOTO , Operand: 131
+Offset: 658, PUSHI , Operand: 35
+Offset: 659, PUSHI , Operand: 19697
+Offset: 660, PUSHS , Operand: Har'Lakk the Riftsplitter
+Offset: 661, PUSHS , Operand: You can now fight 
+Offset: 662, PUSHS , Operand: <col=000080>
+Offset: 663, PUSHS , Operand: Har'Lakk the Riftsplitter
+Offset: 664, PUSHS , Operand: </col>
+Offset: 665, PUSHS , Operand:  in Daemonheim.
+Offset: 666, CONCAT , Operand: 5
+Offset: 667, RETURN , Operand: 0
+Offset: 668, GOTO , Operand: 120
+Offset: 669, PUSHI , Operand: 39
+Offset: 670, PUSHI , Operand: 18627
+Offset: 671, PUSHS , Operand: Lexicus Runewright
+Offset: 672, PUSHS , Operand: You can now fight 
+Offset: 673, PUSHS , Operand: <col=000080>
+Offset: 674, PUSHS , Operand: Lexicus Runewright
+Offset: 675, PUSHS , Operand: </col>
+Offset: 676, PUSHS , Operand:  in Daemonheim.
+Offset: 677, CONCAT , Operand: 5
+Offset: 678, RETURN , Operand: 0
+Offset: 679, GOTO , Operand: 109
+Offset: 680, PUSHI , Operand: 45
+Offset: 681, PUSHI , Operand: 18630
+Offset: 682, PUSHS , Operand: Sagittare
+Offset: 683, PUSHS , Operand: You can now fight 
+Offset: 684, PUSHS , Operand: <col=000080>
+Offset: 685, PUSHS , Operand: sagittares
+Offset: 686, PUSHS , Operand: </col>
+Offset: 687, PUSHS , Operand:  in Daemonheim.
+Offset: 688, CONCAT , Operand: 5
+Offset: 689, RETURN , Operand: 0
+Offset: 690, GOTO , Operand: 98
+Offset: 691, PUSHI , Operand: 51
+Offset: 692, PUSHI , Operand: 18631
+Offset: 693, PUSHS , Operand: Night-gazer Khighorahk
+Offset: 694, PUSHS , Operand: You can now fight 
+Offset: 695, PUSHS , Operand: <col=000080>
+Offset: 696, PUSHS , Operand: Night-gazer Khighorahk
+Offset: 697, PUSHS , Operand: </col>
+Offset: 698, PUSHS , Operand:  in Daemonheim.
+Offset: 699, CONCAT , Operand: 5
+Offset: 700, RETURN , Operand: 0
+Offset: 701, GOTO , Operand: 87
+Offset: 702, PUSHI , Operand: 59
+Offset: 703, PUSHI , Operand: 18626
+Offset: 704, PUSHS , Operand: Shadow-forger Ihlakhizan
+Offset: 705, PUSHS , Operand: You can now fight 
+Offset: 706, PUSHS , Operand: <col=000080>
+Offset: 707, PUSHS , Operand: Shadow-forger Ihlakhizan
+Offset: 708, PUSHS , Operand: </col>
+Offset: 709, PUSHS , Operand:  in Daemonheim.
+Offset: 710, CONCAT , Operand: 5
+Offset: 711, RETURN , Operand: 0
+Offset: 712, GOTO , Operand: 76
+Offset: 713, PUSHI , Operand: 65
+Offset: 714, PUSHI , Operand: 19696
+Offset: 715, PUSHS , Operand: Bal'lak the Pummeller
+Offset: 716, PUSHS , Operand: You can now fight 
+Offset: 717, PUSHS , Operand: <col=000080>
+Offset: 718, PUSHS , Operand: Bal'Lak the Pummeller
+Offset: 719, PUSHS , Operand: </col>
+Offset: 720, PUSHS , Operand:  in Daemonheim.
+Offset: 721, CONCAT , Operand: 5
+Offset: 722, RETURN , Operand: 0
+Offset: 723, GOTO , Operand: 65
+Offset: 724, PUSHI , Operand: 71
+Offset: 725, PUSHI , Operand: 19694
+Offset: 726, PUSHS , Operand: Members: Skeletal trio
+Offset: 727, PUSHS , Operand: Members can now fight the 
+Offset: 728, PUSHS , Operand: <col=000080>
+Offset: 729, PUSHS , Operand: skeletal trio
+Offset: 730, PUSHS , Operand: </col>
+Offset: 731, PUSHS , Operand:  in Daemonheim.
+Offset: 732, CONCAT , Operand: 5
+Offset: 733, RETURN , Operand: 0
+Offset: 734, GOTO , Operand: 54
+Offset: 735, PUSHI , Operand: 71
+Offset: 736, PUSHI , Operand: 19695
+Offset: 737, PUSHS , Operand: Members: Runebound behemoth
+Offset: 738, PUSHS , Operand: Members can now fight 
+Offset: 739, PUSHS , Operand: <col=000080>
+Offset: 740, PUSHS , Operand: runebound behemoths
+Offset: 741, PUSHS , Operand: </col>
+Offset: 742, PUSHS , Operand:  in Daemonheim.
+Offset: 743, CONCAT , Operand: 5
+Offset: 744, RETURN , Operand: 0
+Offset: 745, GOTO , Operand: 43
+Offset: 746, PUSHI , Operand: 71
+Offset: 747, PUSHI , Operand: 19692
+Offset: 748, PUSHS , Operand: Members: Gravecreeper
+Offset: 749, PUSHS , Operand: Members can now fight 
+Offset: 750, PUSHS , Operand: <col=000080>
+Offset: 751, PUSHS , Operand: Grave Creeper
+Offset: 752, PUSHS , Operand: </col>
+Offset: 753, PUSHS , Operand:  in Daemonheim.
+Offset: 754, CONCAT , Operand: 5
+Offset: 755, RETURN , Operand: 0
+Offset: 756, GOTO , Operand: 32
+Offset: 757, PUSHI , Operand: 77
+Offset: 758, PUSHI , Operand: 19691
+Offset: 759, PUSHS , Operand: Members: Necrolord
+Offset: 760, PUSHS , Operand: Members can now fight 
+Offset: 761, PUSHS , Operand: <col=000080>
+Offset: 762, PUSHS , Operand: necrolords
+Offset: 763, PUSHS , Operand: </col>
+Offset: 764, PUSHS , Operand:  in Daemonheim.
+Offset: 765, CONCAT , Operand: 5
+Offset: 766, RETURN , Operand: 0
+Offset: 767, GOTO , Operand: 21
+Offset: 768, PUSHI , Operand: 83
+Offset: 769, PUSHI , Operand: 19693
+Offset: 770, PUSHS , Operand: Members: Flesh-spoiler Haasghenahk
+Offset: 771, PUSHS , Operand: Members can now fight 
+Offset: 772, PUSHS , Operand: <col=000080>
+Offset: 773, PUSHS , Operand: Flesh-spoiler Haasghenahk
+Offset: 774, PUSHS , Operand: </col>
+Offset: 775, PUSHS , Operand:  in Daemonheim.
+Offset: 776, CONCAT , Operand: 5
+Offset: 777, RETURN , Operand: 0
+Offset: 778, GOTO , Operand: 10
+Offset: 779, PUSHI , Operand: 89
+Offset: 780, PUSHI , Operand: 19698
+Offset: 781, PUSHS , Operand: Members: Yk'Lagor the Thunderous
+Offset: 782, PUSHS , Operand: Members can now fight 
+Offset: 783, PUSHS , Operand: <col=000080>
+Offset: 784, PUSHS , Operand: Yk'Lagor the Thunderous
+Offset: 785, PUSHS , Operand: </col>
+Offset: 786, PUSHS , Operand:  in Daemonheim.
+Offset: 787, CONCAT , Operand: 5
+Offset: 788, RETURN , Operand: 0
+Offset: 789, GOTO , Operand: 650
+Offset: 790, LOADINT , Operand: 1
+Offset: 791, SWITCH , Operand: 3
+Offset: 792, GOTO , Operand: 54
+Offset: 793, PUSHI , Operand: 1
+Offset: 794, PUSHI , Operand: 16405
+Offset: 795, PUSHS , Operand: Bind one item
+Offset: 796, PUSHS , Operand: You can now bind 
+Offset: 797, PUSHS , Operand: <col=000080>
+Offset: 798, PUSHS , Operand: one item
+Offset: 799, PUSHS , Operand: </col>
+Offset: 800, PUSHS , Operand:  within Daemonheim.
+Offset: 801, CONCAT , Operand: 5
+Offset: 802, RETURN , Operand: 0
+Offset: 803, GOTO , Operand: 43
+Offset: 804, PUSHI , Operand: 1
+Offset: 805, PUSHI , Operand: 16405
+Offset: 806, PUSHS , Operand: Bind rune or ammo item
+Offset: 807, PUSHS , Operand: You can now bind 
+Offset: 808, PUSHS , Operand: <col=000080>
+Offset: 809, PUSHS , Operand: up to 125 of one type of rune or ammunition
+Offset: 810, PUSHS , Operand: </col>
+Offset: 811, PUSHS , Operand:  within Daemonheim.
+Offset: 812, CONCAT , Operand: 5
+Offset: 813, RETURN , Operand: 0
+Offset: 814, GOTO , Operand: 32
+Offset: 815, PUSHI , Operand: 50
+Offset: 816, PUSHI , Operand: 16415
+Offset: 817, PUSHS , Operand: Bind two items
+Offset: 818, PUSHS , Operand: You can now bind 
+Offset: 819, PUSHS , Operand: <col=000080>
+Offset: 820, PUSHS , Operand: two items
+Offset: 821, PUSHS , Operand: </col>
+Offset: 822, PUSHS , Operand:  within Daemonheim.
+Offset: 823, CONCAT , Operand: 5
+Offset: 824, RETURN , Operand: 0
+Offset: 825, GOTO , Operand: 21
+Offset: 826, PUSHI , Operand: 100
+Offset: 827, PUSHI , Operand: 16423
+Offset: 828, PUSHS , Operand: Bind three items
+Offset: 829, PUSHS , Operand: You can now bind 
+Offset: 830, PUSHS , Operand: <col=000080>
+Offset: 831, PUSHS , Operand: three items
+Offset: 832, PUSHS , Operand: </col>
+Offset: 833, PUSHS , Operand:  within Daemonheim.
+Offset: 834, CONCAT , Operand: 5
+Offset: 835, RETURN , Operand: 0
+Offset: 836, GOTO , Operand: 10
+Offset: 837, PUSHI , Operand: 120
+Offset: 838, PUSHI , Operand: 16425
+Offset: 839, PUSHS , Operand: Bind four items
+Offset: 840, PUSHS , Operand: You can now bind 
+Offset: 841, PUSHS , Operand: <col=000080>
+Offset: 842, PUSHS , Operand: four items
+Offset: 843, PUSHS , Operand: </col>
+Offset: 844, PUSHS , Operand:  within Daemonheim.
+Offset: 845, CONCAT , Operand: 5
+Offset: 846, RETURN , Operand: 0
+Offset: 847, GOTO , Operand: 592
+Offset: 848, LOADINT , Operand: 1
+Offset: 849, SWITCH , Operand: 4
+Offset: 850, GOTO , Operand: 465
+Offset: 851, PUSHI , Operand: 21
+Offset: 852, PUSHI , Operand: 18337
+Offset: 853, PUSHS , Operand: Members: Bonecrusher
+Offset: 854, PUSHS , Operand: <br>
+Offset: 855, PUSHS , Operand:  (with 21 Prayer)
+Offset: 856, CONCAT , Operand: 3
+Offset: 857, PUSHS , Operand: Members can now use 
+Offset: 858, PUSHS , Operand: <col=000080>
+Offset: 859, PUSHS , Operand: bonecrushers
+Offset: 860, PUSHS , Operand: </col>
+Offset: 861, PUSHS , Operand: . (They also need level 21 Prayer.)
+Offset: 862, CONCAT , Operand: 5
+Offset: 863, RETURN , Operand: 0
+Offset: 864, GOTO , Operand: 451
+Offset: 865, PUSHI , Operand: 21
+Offset: 866, PUSHI , Operand: 19675
+Offset: 867, PUSHS , Operand: Members: Herbicide
+Offset: 868, PUSHS , Operand: <br>
+Offset: 869, PUSHS , Operand:  (with 21 Herblore)
+Offset: 870, CONCAT , Operand: 3
+Offset: 871, PUSHS , Operand: Members can now use 
+Offset: 872, PUSHS , Operand: <col=000080>
+Offset: 873, PUSHS , Operand: herbicide
+Offset: 874, PUSHS , Operand: </col>
+Offset: 875, PUSHS , Operand: . (They also need level 21 Herblore.)
+Offset: 876, CONCAT , Operand: 5
+Offset: 877, RETURN , Operand: 0
+Offset: 878, GOTO , Operand: 437
+Offset: 879, PUSHI , Operand: 25
+Offset: 880, PUSHI , Operand: 18338
+Offset: 881, PUSHS , Operand: Gem bag
+Offset: 882, PUSHS , Operand: <br>
+Offset: 883, PUSHS , Operand:  (with 25 Crafting)
+Offset: 884, CONCAT , Operand: 3
+Offset: 885, PUSHS , Operand: You can now use 
+Offset: 886, PUSHS , Operand: <col=000080>
+Offset: 887, PUSHS , Operand: gem bags
+Offset: 888, PUSHS , Operand: </col>
+Offset: 889, PUSHS , Operand: . (You also need level 25 Crafting.)
+Offset: 890, CONCAT , Operand: 5
+Offset: 891, RETURN , Operand: 0
+Offset: 892, GOTO , Operand: 423
+Offset: 893, PUSHI , Operand: 25
+Offset: 894, PUSHI , Operand: 18336
+Offset: 895, PUSHS , Operand: Members: Scroll of life
+Offset: 896, PUSHS , Operand: <br>
+Offset: 897, PUSHS , Operand:  (with 25 Farming)
+Offset: 898, CONCAT , Operand: 3
+Offset: 899, PUSHS , Operand: Members can now use the 
+Offset: 900, PUSHS , Operand: <col=000080>
+Offset: 901, PUSHS , Operand: scroll of life
+Offset: 902, PUSHS , Operand: </col>
+Offset: 903, PUSHS , Operand: . (They also need level 25 Farming.)
+Offset: 904, CONCAT , Operand: 5
+Offset: 905, RETURN , Operand: 0
+Offset: 906, GOTO , Operand: 409
+Offset: 907, PUSHI , Operand: 30
+Offset: 908, PUSHI , Operand: 18333
+Offset: 909, PUSHS , Operand: Arcane pulse necklace
+Offset: 910, PUSHS , Operand: <br>
+Offset: 911, PUSHS , Operand:  (with 30 Magic)
+Offset: 912, CONCAT , Operand: 3
+Offset: 913, PUSHS , Operand: You can now wear 
+Offset: 914, PUSHS , Operand: <col=000080>
+Offset: 915, PUSHS , Operand: arcane pulse necklaces
+Offset: 916, PUSHS , Operand: </col>
+Offset: 917, PUSHS , Operand: . (You also need level 30 Magic.)
+Offset: 918, CONCAT , Operand: 5
+Offset: 919, RETURN , Operand: 0
+Offset: 920, GOTO , Operand: 395
+Offset: 921, PUSHI , Operand: 30
+Offset: 922, PUSHI , Operand: 19671
+Offset: 923, PUSHS , Operand: Magical blastbox
+Offset: 924, PUSHS , Operand: <br>
+Offset: 925, PUSHS , Operand:  (with 30 Magic and 30 Runecrafting)
+Offset: 926, CONCAT , Operand: 3
+Offset: 927, PUSHS , Operand: You can now use 
+Offset: 928, PUSHS , Operand: <col=000080>
+Offset: 929, PUSHS , Operand: magical blastboxes
+Offset: 930, PUSHS , Operand: </col>
+Offset: 931, PUSHS , Operand: . (You also need level 30 Magic and 30 Runecrafting.)
+Offset: 932, CONCAT , Operand: 5
+Offset: 933, RETURN , Operand: 0
+Offset: 934, GOTO , Operand: 381
+Offset: 935, PUSHI , Operand: 35
+Offset: 936, PUSHI , Operand: 18339
+Offset: 937, PUSHS , Operand: Coal bag
+Offset: 938, PUSHS , Operand: <br>
+Offset: 939, PUSHS , Operand:  (with 35 Mining)
+Offset: 940, CONCAT , Operand: 3
+Offset: 941, PUSHS , Operand: You can now use 
+Offset: 942, PUSHS , Operand: <col=000080>
+Offset: 943, PUSHS , Operand: coal bags
+Offset: 944, PUSHS , Operand: </col>
+Offset: 945, PUSHS , Operand: . (You also need level 35 Mining.)
+Offset: 946, CONCAT , Operand: 5
+Offset: 947, RETURN , Operand: 0
+Offset: 948, GOTO , Operand: 367
+Offset: 949, PUSHI , Operand: 45
+Offset: 950, PUSHI , Operand: 18330
+Offset: 951, PUSHS , Operand: Longbow sight
+Offset: 952, PUSHS , Operand: <br>
+Offset: 953, PUSHS , Operand:  (with 45 Ranged)
+Offset: 954, CONCAT , Operand: 3
+Offset: 955, PUSHS , Operand: You can now use 
+Offset: 956, PUSHS , Operand: <col=000080>
+Offset: 957, PUSHS , Operand: longbow sights
+Offset: 958, PUSHS , Operand: </col>
+Offset: 959, PUSHS , Operand: . (You also need level 45 Ranged.)
+Offset: 960, CONCAT , Operand: 5
+Offset: 961, RETURN , Operand: 0
+Offset: 962, GOTO , Operand: 353
+Offset: 963, PUSHI , Operand: 45
+Offset: 964, PUSHI , Operand: 18367
+Offset: 965, PUSHS , Operand: Gravite longsword
+Offset: 966, PUSHS , Operand: <br>
+Offset: 967, PUSHS , Operand:  (with 45 Attack)
+Offset: 968, CONCAT , Operand: 3
+Offset: 969, PUSHS , Operand: You can now wield 
+Offset: 970, PUSHS , Operand: <col=000080>
+Offset: 971, PUSHS , Operand: gravite longswords
+Offset: 972, PUSHS , Operand: </col>
+Offset: 973, PUSHS , Operand: . (You also need level 45 Attack.)
+Offset: 974, CONCAT , Operand: 5
+Offset: 975, RETURN , Operand: 0
+Offset: 976, GOTO , Operand: 339
+Offset: 977, PUSHI , Operand: 45
+Offset: 978, PUSHI , Operand: 18365
+Offset: 979, PUSHS , Operand: Gravite rapier
+Offset: 980, PUSHS , Operand: <br>
+Offset: 981, PUSHS , Operand:  (with 45 Attack)
+Offset: 982, CONCAT , Operand: 3
+Offset: 983, PUSHS , Operand: You can now wield 
+Offset: 984, PUSHS , Operand: <col=000080>
+Offset: 985, PUSHS , Operand: gravite rapiers
+Offset: 986, PUSHS , Operand: </col>
+Offset: 987, PUSHS , Operand: . (You also need level 45 Attack.)
+Offset: 988, CONCAT , Operand: 5
+Offset: 989, RETURN , Operand: 0
+Offset: 990, GOTO , Operand: 325
+Offset: 991, PUSHI , Operand: 45
+Offset: 992, PUSHI , Operand: 18373
+Offset: 993, PUSHS , Operand: Gravite shortbow
+Offset: 994, PUSHS , Operand: <br>
+Offset: 995, PUSHS , Operand:  Ammo: Arrows up to rune
+Offset: 996, PUSHS , Operand: <br>
+Offset: 997, PUSHS , Operand:  (with 45 Ranged)
+Offset: 998, CONCAT , Operand: 5
+Offset: 999, PUSHS , Operand: You can now wield 
+Offset: 1000, PUSHS , Operand: <col=000080>
+Offset: 1001, PUSHS , Operand: gravite shortbows
+Offset: 1002, PUSHS , Operand: </col>
+Offset: 1003, PUSHS , Operand: . (You also need level 45 Ranged.)
+Offset: 1004, CONCAT , Operand: 5
+Offset: 1005, RETURN , Operand: 0
+Offset: 1006, GOTO , Operand: 309
+Offset: 1007, PUSHI , Operand: 45
+Offset: 1008, PUSHI , Operand: 18371
+Offset: 1009, PUSHS , Operand: Gravite staff
+Offset: 1010, PUSHS , Operand: <br>
+Offset: 1011, PUSHS , Operand:  (with 45 Magic)
+Offset: 1012, CONCAT , Operand: 3
+Offset: 1013, PUSHS , Operand: You can now wield 
+Offset: 1014, PUSHS , Operand: <col=000080>
+Offset: 1015, PUSHS , Operand: gravite staves
+Offset: 1016, PUSHS , Operand: </col>
+Offset: 1017, PUSHS , Operand: . (You also need level 45 Magic.)
+Offset: 1018, CONCAT , Operand: 5
+Offset: 1019, RETURN , Operand: 0
+Offset: 1020, GOTO , Operand: 295
+Offset: 1021, PUSHI , Operand: 45
+Offset: 1022, PUSHI , Operand: 18369
+Offset: 1023, PUSHS , Operand: Gravite two-handed sword
+Offset: 1024, PUSHS , Operand: <br>
+Offset: 1025, PUSHS , Operand:  (with 45 Attack)
+Offset: 1026, CONCAT , Operand: 3
+Offset: 1027, PUSHS , Operand: You can now wield 
+Offset: 1028, PUSHS , Operand: <col=000080>
+Offset: 1029, PUSHS , Operand: gravite two-handed swords
+Offset: 1030, PUSHS , Operand: </col>
+Offset: 1031, PUSHS , Operand: . (You also need level 45 Attack.)
+Offset: 1032, CONCAT , Operand: 5
+Offset: 1033, RETURN , Operand: 0
+Offset: 1034, GOTO , Operand: 281
+Offset: 1035, PUSHI , Operand: 45
+Offset: 1036, PUSHI , Operand: 18342
+Offset: 1037, PUSHS , Operand: Law staff
+Offset: 1038, PUSHS , Operand: <br>
+Offset: 1039, PUSHS , Operand:  (with 40 Attack and 45 Magic)
+Offset: 1040, CONCAT , Operand: 3
+Offset: 1041, PUSHS , Operand: You can now use 
+Offset: 1042, PUSHS , Operand: <col=000080>
+Offset: 1043, PUSHS , Operand: law staves
+Offset: 1044, PUSHS , Operand: </col>
+Offset: 1045, PUSHS , Operand: . (You also need level 40 Attack and level 45 Magic.)
+Offset: 1046, CONCAT , Operand: 5
+Offset: 1047, RETURN , Operand: 0
+Offset: 1048, GOTO , Operand: 267
+Offset: 1049, PUSHI , Operand: 48
+Offset: 1050, PUSHI , Operand: 18346
+Offset: 1051, PUSHS , Operand: Tome of frost
+Offset: 1052, PUSHS , Operand: <br>
+Offset: 1053, PUSHS , Operand:  (with 48 Magic)
+Offset: 1054, CONCAT , Operand: 3
+Offset: 1055, PUSHS , Operand: You can now use 
+Offset: 1056, PUSHS , Operand: <col=000080>
+Offset: 1057, PUSHS , Operand: tomes of frost
+Offset: 1058, PUSHS , Operand: </col>
+Offset: 1059, PUSHS , Operand: . (You also need level 48 Magic.)
+Offset: 1060, CONCAT , Operand: 5
+Offset: 1061, RETURN , Operand: 0
+Offset: 1062, GOTO , Operand: 253
+Offset: 1063, PUSHI , Operand: 50
+Offset: 1064, PUSHI , Operand: 18334
+Offset: 1065, PUSHS , Operand: Arcane blast necklace
+Offset: 1066, PUSHS , Operand: <br>
+Offset: 1067, PUSHS , Operand:  (with 50 Magic)
+Offset: 1068, CONCAT , Operand: 3
+Offset: 1069, PUSHS , Operand: You can now wear 
+Offset: 1070, PUSHS , Operand: <col=000080>
+Offset: 1071, PUSHS , Operand: arcane blast necklaces
+Offset: 1072, PUSHS , Operand: </col>
+Offset: 1073, PUSHS , Operand: . (You also need level 50 Magic.)
+Offset: 1074, CONCAT , Operand: 5
+Offset: 1075, RETURN , Operand: 0
+Offset: 1076, GOTO , Operand: 239
+Offset: 1077, PUSHI , Operand: 53
+Offset: 1078, PUSHI , Operand: 18341
+Offset: 1079, PUSHS , Operand: Nature staff
+Offset: 1080, PUSHS , Operand: <br>
+Offset: 1081, PUSHS , Operand:  (with 40 Attack and 53 Magic)
+Offset: 1082, CONCAT , Operand: 3
+Offset: 1083, PUSHS , Operand: You can now use 
+Offset: 1084, PUSHS , Operand: <col=000080>
+Offset: 1085, PUSHS , Operand: nature staves
+Offset: 1086, PUSHS , Operand: </col>
+Offset: 1087, PUSHS , Operand: . (You also need level 40 Attack and level 53 Magic.)
+Offset: 1088, CONCAT , Operand: 5
+Offset: 1089, RETURN , Operand: 0
+Offset: 1090, GOTO , Operand: 225
+Offset: 1091, PUSHI , Operand: 55
+Offset: 1092, PUSHI , Operand: 19670
+Offset: 1093, PUSHS , Operand: Scroll of efficiency
+Offset: 1094, PUSHS , Operand: <br>
+Offset: 1095, PUSHS , Operand:  (with 55 Smithing)
+Offset: 1096, CONCAT , Operand: 3
+Offset: 1097, PUSHS , Operand: You can now use 
+Offset: 1098, PUSHS , Operand: <col=000080>
+Offset: 1099, PUSHS , Operand: scrolls of efficiency
+Offset: 1100, PUSHS , Operand: </col>
+Offset: 1101, PUSHS , Operand: . (You also need level 55 Smithing.)
+Offset: 1102, CONCAT , Operand: 5
+Offset: 1103, RETURN , Operand: 0
+Offset: 1104, GOTO , Operand: 211
+Offset: 1105, PUSHI , Operand: 60
+Offset: 1106, PUSHI , Operand: 18340
+Offset: 1107, PUSHS , Operand: Members: Anti-poison totem
+Offset: 1108, PUSHS , Operand: <br>
+Offset: 1109, PUSHS , Operand:  (with 60 Defence and 70 Herblore)
+Offset: 1110, CONCAT , Operand: 3
+Offset: 1111, PUSHS , Operand: Members can now wield 
+Offset: 1112, PUSHS , Operand: <col=000080>
+Offset: 1113, PUSHS , Operand: anti-poison totems
+Offset: 1114, PUSHS , Operand: </col>
+Offset: 1115, PUSHS , Operand: . (They also need level 60 Defence and level 70 Herblore.)
+Offset: 1116, CONCAT , Operand: 5
+Offset: 1117, RETURN , Operand: 0
+Offset: 1118, GOTO , Operand: 197
+Offset: 1119, PUSHI , Operand: 62
+Offset: 1120, PUSHI , Operand: 19669
+Offset: 1121, PUSHS , Operand: Members: Ring of vigour
+Offset: 1122, PUSHS , Operand: <br>
+Offset: 1123, PUSHS , Operand:  (with 62 Attack)
+Offset: 1124, CONCAT , Operand: 3
+Offset: 1125, PUSHS , Operand: Members can now wear 
+Offset: 1126, PUSHS , Operand: <col=000080>
+Offset: 1127, PUSHS , Operand: rings of vigour
+Offset: 1128, PUSHS , Operand: </col>
+Offset: 1129, PUSHS , Operand: . (They also need level 62 Attack.)
+Offset: 1130, CONCAT , Operand: 5
+Offset: 1131, RETURN , Operand: 0
+Offset: 1132, GOTO , Operand: 183
+Offset: 1133, PUSHI , Operand: 65
+Offset: 1134, PUSHI , Operand: 18343
+Offset: 1135, PUSHS , Operand: Members: Rapid Renewal
+Offset: 1136, PUSHS , Operand: <br>
+Offset: 1137, PUSHS , Operand:  (with 65 Prayer)
+Offset: 1138, CONCAT , Operand: 3
+Offset: 1139, PUSHS , Operand: Members can now use the 
+Offset: 1140, PUSHS , Operand: <col=000080>
+Offset: 1141, PUSHS , Operand: Rapid Renewal
+Offset: 1142, PUSHS , Operand: </col>
+Offset: 1143, PUSHS , Operand:  prayer (bought from Daemonheim). (They also need level 65 Prayer.)
+Offset: 1144, CONCAT , Operand: 5
+Offset: 1145, RETURN , Operand: 0
+Offset: 1146, GOTO , Operand: 169
+Offset: 1147, PUSHI , Operand: 70
+Offset: 1148, PUSHI , Operand: 18335
+Offset: 1149, PUSHS , Operand: Members: Arcane stream necklace
+Offset: 1150, PUSHS , Operand: <br>
+Offset: 1151, PUSHS , Operand:  (with 70 Magic)
+Offset: 1152, CONCAT , Operand: 3
+Offset: 1153, PUSHS , Operand: Members can now wear 
+Offset: 1154, PUSHS , Operand: <col=000080>
+Offset: 1155, PUSHS , Operand: arcane stream necklaces
+Offset: 1156, PUSHS , Operand: </col>
+Offset: 1157, PUSHS , Operand: . (They also need level 70 Magic.)
+Offset: 1158, CONCAT , Operand: 5
+Offset: 1159, RETURN , Operand: 0
+Offset: 1160, GOTO , Operand: 155
+Offset: 1161, PUSHI , Operand: 73
+Offset: 1162, PUSHI , Operand: 18347
+Offset: 1163, PUSHS , Operand: Members: Mercenary's gloves
+Offset: 1164, PUSHS , Operand: <br>
+Offset: 1165, PUSHS , Operand:  (with 73 Ranged)
+Offset: 1166, CONCAT , Operand: 3
+Offset: 1167, PUSHS , Operand: Members can now wear 
+Offset: 1168, PUSHS , Operand: <col=000080>
+Offset: 1169, PUSHS , Operand: mercenary's gloves
+Offset: 1170, PUSHS , Operand: </col>
+Offset: 1171, PUSHS , Operand: . (They also need level 73 Ranged.)
+Offset: 1172, CONCAT , Operand: 5
+Offset: 1173, RETURN , Operand: 0
+Offset: 1174, GOTO , Operand: 141
+Offset: 1175, PUSHI , Operand: 74
+Offset: 1176, PUSHI , Operand: 18839
+Offset: 1177, PUSHS , Operand: Members: Rigour
+Offset: 1178, PUSHS , Operand: <br>
+Offset: 1179, PUSHS , Operand:  (with 74 Prayer)
+Offset: 1180, CONCAT , Operand: 3
+Offset: 1181, PUSHS , Operand: Members can now use the 
+Offset: 1182, PUSHS , Operand: <col=000080>
+Offset: 1183, PUSHS , Operand: Rigour
+Offset: 1184, PUSHS , Operand: </col>
+Offset: 1185, PUSHS , Operand:  prayer (bought from Daemonheim). (They also need level 74 Prayer.)
+Offset: 1186, CONCAT , Operand: 5
+Offset: 1187, RETURN , Operand: 0
+Offset: 1188, GOTO , Operand: 127
+Offset: 1189, PUSHI , Operand: 77
+Offset: 1190, PUSHI , Operand: 18344
+Offset: 1191, PUSHS , Operand: Members: Augury
+Offset: 1192, PUSHS , Operand: <br>
+Offset: 1193, PUSHS , Operand:  (with 77 Prayer)
+Offset: 1194, CONCAT , Operand: 3
+Offset: 1195, PUSHS , Operand: Members can now use the 
+Offset: 1196, PUSHS , Operand: <col=000080>
+Offset: 1197, PUSHS , Operand: Augury
+Offset: 1198, PUSHS , Operand: </col>
+Offset: 1199, PUSHS , Operand:  prayer (bought from Daemonheim). (They also need level 77 Prayer.)
+Offset: 1200, CONCAT , Operand: 5
+Offset: 1201, RETURN , Operand: 0
+Offset: 1202, GOTO , Operand: 113
+Offset: 1203, PUSHI , Operand: 80
+Offset: 1204, PUSHI , Operand: 18358
+Offset: 1205, PUSHS , Operand: Members: Chaotic crossbow
+Offset: 1206, PUSHS , Operand: <br>
+Offset: 1207, PUSHS , Operand:   Ammo: Bolts up to rune
+Offset: 1208, PUSHS , Operand: <br>
+Offset: 1209, PUSHS , Operand:  (with 80 Ranged)
+Offset: 1210, CONCAT , Operand: 5
+Offset: 1211, PUSHS , Operand: Members can now wield 
+Offset: 1212, PUSHS , Operand: <col=000080>
+Offset: 1213, PUSHS , Operand: chaotic crossbows
+Offset: 1214, PUSHS , Operand: </col>
+Offset: 1215, PUSHS , Operand: . (They also need level 80 Ranged.)
+Offset: 1216, CONCAT , Operand: 5
+Offset: 1217, RETURN , Operand: 0
+Offset: 1218, GOTO , Operand: 97
+Offset: 1219, PUSHI , Operand: 80
+Offset: 1220, PUSHI , Operand: 18359
+Offset: 1221, PUSHS , Operand: Members: Chaotic kiteshield
+Offset: 1222, PUSHS , Operand: <br>
+Offset: 1223, PUSHS , Operand:  (with 80 Defence)
+Offset: 1224, CONCAT , Operand: 3
+Offset: 1225, PUSHS , Operand: Members can now wield 
+Offset: 1226, PUSHS , Operand: <col=000080>
+Offset: 1227, PUSHS , Operand: chaotic kiteshields
+Offset: 1228, PUSHS , Operand: </col>
+Offset: 1229, PUSHS , Operand: . (They also need level 80 Defence.)
+Offset: 1230, CONCAT , Operand: 5
+Offset: 1231, RETURN , Operand: 0
+Offset: 1232, GOTO , Operand: 83
+Offset: 1233, PUSHI , Operand: 80
+Offset: 1234, PUSHI , Operand: 18351
+Offset: 1235, PUSHS , Operand: Members: Chaotic longsword
+Offset: 1236, PUSHS , Operand: <br>
+Offset: 1237, PUSHS , Operand:  (with 80 Attack)
+Offset: 1238, CONCAT , Operand: 3
+Offset: 1239, PUSHS , Operand: Members can now wield 
+Offset: 1240, PUSHS , Operand: <col=000080>
+Offset: 1241, PUSHS , Operand: chaotic longswords
+Offset: 1242, PUSHS , Operand: </col>
+Offset: 1243, PUSHS , Operand: . (They also need level 80 Attack.)
+Offset: 1244, CONCAT , Operand: 5
+Offset: 1245, RETURN , Operand: 0
+Offset: 1246, GOTO , Operand: 69
+Offset: 1247, PUSHI , Operand: 80
+Offset: 1248, PUSHI , Operand: 18353
+Offset: 1249, PUSHS , Operand: Members: Chaotic maul
+Offset: 1250, PUSHS , Operand: <br>
+Offset: 1251, PUSHS , Operand:  (with 80 Attack)
+Offset: 1252, CONCAT , Operand: 3
+Offset: 1253, PUSHS , Operand: Members can now wield 
+Offset: 1254, PUSHS , Operand: <col=000080>
+Offset: 1255, PUSHS , Operand: chaotic mauls
+Offset: 1256, PUSHS , Operand: </col>
+Offset: 1257, PUSHS , Operand: . (They also need level 80 Attack.)
+Offset: 1258, CONCAT , Operand: 5
+Offset: 1259, RETURN , Operand: 0
+Offset: 1260, GOTO , Operand: 55
+Offset: 1261, PUSHI , Operand: 80
+Offset: 1262, PUSHI , Operand: 18349
+Offset: 1263, PUSHS , Operand: Members: Chaotic rapier
+Offset: 1264, PUSHS , Operand: <br>
+Offset: 1265, PUSHS , Operand:  (with 80 Attack)
+Offset: 1266, CONCAT , Operand: 3
+Offset: 1267, PUSHS , Operand: Members can now wield 
+Offset: 1268, PUSHS , Operand: <col=000080>
+Offset: 1269, PUSHS , Operand: chaotic rapiers
+Offset: 1270, PUSHS , Operand: </col>
+Offset: 1271, PUSHS , Operand: . (They also need level 80 Attack.)
+Offset: 1272, CONCAT , Operand: 5
+Offset: 1273, RETURN , Operand: 0
+Offset: 1274, GOTO , Operand: 41
+Offset: 1275, PUSHI , Operand: 80
+Offset: 1276, PUSHI , Operand: 18355
+Offset: 1277, PUSHS , Operand: Members: Chaotic staff
+Offset: 1278, PUSHS , Operand: <br>
+Offset: 1279, PUSHS , Operand:  (with 80 Magic)
+Offset: 1280, CONCAT , Operand: 3
+Offset: 1281, PUSHS , Operand: Members can now wield 
+Offset: 1282, PUSHS , Operand: <col=000080>
+Offset: 1283, PUSHS , Operand: chaotic staves
+Offset: 1284, PUSHS , Operand: </col>
+Offset: 1285, PUSHS , Operand: . (They also need level 80 Magic.)
+Offset: 1286, CONCAT , Operand: 5
+Offset: 1287, RETURN , Operand: 0
+Offset: 1288, GOTO , Operand: 27
+Offset: 1289, PUSHI , Operand: 80
+Offset: 1290, PUSHI , Operand: 18361
+Offset: 1291, PUSHS , Operand: Members: Eagle-eye kiteshield
+Offset: 1292, PUSHS , Operand: <br>
+Offset: 1293, PUSHS , Operand:  (with 80 Defence)
+Offset: 1294, CONCAT , Operand: 3
+Offset: 1295, PUSHS , Operand: Members can now wield 
+Offset: 1296, PUSHS , Operand: <col=000080>
+Offset: 1297, PUSHS , Operand: eagle-eye kiteshields
+Offset: 1298, PUSHS , Operand: </col>
+Offset: 1299, PUSHS , Operand: . (They also need level 80 Defence.)
+Offset: 1300, CONCAT , Operand: 5
+Offset: 1301, RETURN , Operand: 0
+Offset: 1302, GOTO , Operand: 13
+Offset: 1303, PUSHI , Operand: 80
+Offset: 1304, PUSHI , Operand: 18363
+Offset: 1305, PUSHS , Operand: Members: Farseer kiteshield
+Offset: 1306, PUSHS , Operand: <br>
+Offset: 1307, PUSHS , Operand:  (with 80 Defence)
+Offset: 1308, CONCAT , Operand: 3
+Offset: 1309, PUSHS , Operand: Members can now wield 
+Offset: 1310, PUSHS , Operand: <col=000080>
+Offset: 1311, PUSHS , Operand: farseer kiteshields
+Offset: 1312, PUSHS , Operand: </col>
+Offset: 1313, PUSHS , Operand: . (They also need level 80 Defence.)
+Offset: 1314, CONCAT , Operand: 5
+Offset: 1315, RETURN , Operand: 0
+Offset: 1316, GOTO , Operand: 123
+Offset: 1317, LOADINT , Operand: 1
+Offset: 1318, SWITCH , Operand: 5
+Offset: 1319, GOTO , Operand: 83
+Offset: 1320, PUSHI , Operand: 10
+Offset: 1321, PUSHI , Operand: 562
+Offset: 1322, PUSHS , Operand: Members: Edgeville Dungeon chaos druids
+Offset: 1323, PUSHS , Operand: Members can now pass the mysterious entrance in Edgeville Dungeon to reach the chaos druids.
+Offset: 1324, RETURN , Operand: 0
+Offset: 1325, GOTO , Operand: 77
+Offset: 1326, PUSHI , Operand: 15
+Offset: 1327, PUSHI , Operand: 453
+Offset: 1328, PUSHS , Operand: Dwarven Mine hidden mine
+Offset: 1329, PUSHS , Operand: You can now pass the mysterious entrance in the Dwarven Mine to reach the hidden mine.
+Offset: 1330, RETURN , Operand: 0
+Offset: 1331, GOTO , Operand: 71
+Offset: 1332, PUSHI , Operand: 20
+Offset: 1333, PUSHI , Operand: 532
+Offset: 1334, PUSHS , Operand: Edgeville Dungeon hill giants
+Offset: 1335, PUSHS , Operand: You can now pass the mysterious entrance in Edgeville Dungeon to reach the hill giants.
+Offset: 1336, RETURN , Operand: 0
+Offset: 1337, GOTO , Operand: 65
+Offset: 1338, PUSHI , Operand: 25
+Offset: 1339, PUSHI , Operand: 9952
+Offset: 1340, PUSHS , Operand: Karamja Volcano lesser demons
+Offset: 1341, PUSHS , Operand: You can now pass the mysterious entrance in Karamja Volcano to reach the lesser demons.
+Offset: 1342, RETURN , Operand: 0
+Offset: 1343, GOTO , Operand: 59
+Offset: 1344, PUSHI , Operand: 30
+Offset: 1345, PUSHI , Operand: 1517
+Offset: 1346, PUSHS , Operand: Daemonheim woodcutting island
+Offset: 1347, PUSHS , Operand: You can now pass the mysterious entrance in Daemonheim to reach the woodcutting island.
+Offset: 1348, RETURN , Operand: 0
+Offset: 1349, GOTO , Operand: 53
+Offset: 1350, PUSHI , Operand: 35
+Offset: 1351, PUSHI , Operand: 554
+Offset: 1352, PUSHS , Operand: Members: Waterfall fire giants
+Offset: 1353, PUSHS , Operand: Members can now pass the Baxtorian Waterfall mysterious entrance to reach the fire giants.
+Offset: 1354, RETURN , Operand: 0
+Offset: 1355, GOTO , Operand: 47
+Offset: 1356, PUSHI , Operand: 45
+Offset: 1357, PUSHI , Operand: 451
+Offset: 1358, PUSHS , Operand: Mining Guild hidden mine
+Offset: 1359, PUSHS , Operand: You can now pass the mysterious entrance in the Mining Guild to reach the hidden mine.
+Offset: 1360, RETURN , Operand: 0
+Offset: 1361, GOTO , Operand: 41
+Offset: 1362, PUSHI , Operand: 55
+Offset: 1363, PUSHI , Operand: 8137
+Offset: 1364, PUSHS , Operand: Members: Taverley hellhounds
+Offset: 1365, PUSHS , Operand: Members can now pass the mysterious entrance in Taverley Dungeon to reach the hellhounds.
+Offset: 1366, RETURN , Operand: 0
+Offset: 1367, GOTO , Operand: 35
+Offset: 1368, PUSHI , Operand: 60
+Offset: 1369, PUSHI , Operand: 1751
+Offset: 1370, PUSHS , Operand: Members: Taverley blue dragons
+Offset: 1371, PUSHS , Operand: Members can now pass the mysterious entrance in Taverley Dungeon to reach the blue dragons.
+Offset: 1372, RETURN , Operand: 0
+Offset: 1373, GOTO , Operand: 29
+Offset: 1374, PUSHI , Operand: 65
+Offset: 1375, PUSHI , Operand: 8179
+Offset: 1376, PUSHS , Operand: Members: Varrock moss giants
+Offset: 1377, PUSHS , Operand: Members can now pass the mysterious entrance in Varrock Sewers to reach the moss giants.
+Offset: 1378, RETURN , Operand: 0
+Offset: 1379, GOTO , Operand: 23
+Offset: 1380, PUSHI , Operand: 70
+Offset: 1381, PUSHI , Operand: 592
+Offset: 1382, PUSHS , Operand: Members: Chaos Tunnels black demons
+Offset: 1383, PUSHS , Operand: Members can now pass the mysterious entrance in the Chaos Tunnels to reach the black demons.
+Offset: 1384, RETURN , Operand: 0
+Offset: 1385, GOTO , Operand: 17
+Offset: 1386, PUSHI , Operand: 75
+Offset: 1387, PUSHI , Operand: 11254
+Offset: 1388, PUSHS , Operand: Members: Al Kharid hidden mine
+Offset: 1389, PUSHS , Operand: Members can now pass the mysterious entrance in Al Kharid scorpion pit to reach the hidden mine.
+Offset: 1390, RETURN , Operand: 0
+Offset: 1391, GOTO , Operand: 11
+Offset: 1392, PUSHI , Operand: 80
+Offset: 1393, PUSHI , Operand: 8142
+Offset: 1394, PUSHS , Operand: Members: Brimhaven metal dragons
+Offset: 1395, PUSHS , Operand: Members can now pass the mysterious entrance in Brimhaven Dungeon to reach the metal dragons.
+Offset: 1396, RETURN , Operand: 0
+Offset: 1397, GOTO , Operand: 5
+Offset: 1398, PUSHI , Operand: 85
+Offset: 1399, PUSHI , Operand: 18796
+Offset: 1400, PUSHS , Operand: Members: Ice Dungeon frost dragons
+Offset: 1401, PUSHS , Operand: Members can now pass the mysterious entrance in the Asgarnian Ice Dungeon to reach the frost dragons.
+Offset: 1402, RETURN , Operand: 0
+Offset: 1403, GOTO , Operand: 36
+Offset: 1404, LOADINT , Operand: 1
+Offset: 1405, SWITCH , Operand: 6
+Offset: 1406, GOTO , Operand: 33
+Offset: 1407, PUSHI , Operand: 99
+Offset: 1408, PUSHI , Operand: 18508
+Offset: 1409, PUSHS , Operand: Skill Mastery
+Offset: 1410, PUSHS , Operand: You have achieved 
+Offset: 1411, PUSHS , Operand: <col=000080>
+Offset: 1412, PUSHS , Operand: level 99
+Offset: 1413, PUSHS , Operand: </col>
+Offset: 1414, PUSHS , Operand:  in the 
+Offset: 1415, PUSHS , Operand: <col=000080>
+Offset: 1416, PUSHS , Operand: Dungeoneering
+Offset: 1417, PUSHS , Operand: </col>
+Offset: 1418, PUSHS , Operand:  skill.
+Offset: 1419, PUSHS , Operand: <br>
+Offset: 1420, PUSHS , Operand: What are you waiting for? Keep going!
+Offset: 1421, CONCAT , Operand: 11
+Offset: 1422, RETURN , Operand: 0
+Offset: 1423, GOTO , Operand: 16
+Offset: 1424, PUSHI , Operand: 120
+Offset: 1425, PUSHI , Operand: 18509
+Offset: 1426, PUSHS , Operand: True Skill Mastery
+Offset: 1427, PUSHS , Operand: You have achieved 
+Offset: 1428, PUSHS , Operand: <col=000080>
+Offset: 1429, PUSHS , Operand: level 120
+Offset: 1430, PUSHS , Operand: </col>
+Offset: 1431, PUSHS , Operand:  in the 
+Offset: 1432, PUSHS , Operand: <col=000080>
+Offset: 1433, PUSHS , Operand: Dungeoneering
+Offset: 1434, PUSHS , Operand: </col>
+Offset: 1435, PUSHS , Operand:  skill.
+Offset: 1436, PUSHS , Operand: <br>
+Offset: 1437, PUSHS , Operand: This is the highest level for this skill: for real, this time!
+Offset: 1438, CONCAT , Operand: 11
+Offset: 1439, RETURN , Operand: 0
+Offset: 1440, PUSHI , Operand: 0
+Offset: 1441, PUSHI , Operand: -1
+Offset: 1442, PUSHS , Operand: 
+Offset: 1443, PUSHS , Operand: 
+Offset: 1444, RETURN , Operand: 0
+
+================================================
+                Switch Table 0                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 521
+Key: 2, Value: 788
+Key: 3, Value: 846
+Key: 4, Value: 1315
+Key: 5, Value: 1402
+
+================================================
+                Switch Table 1                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 12
+Key: 2, Value: 23
+Key: 3, Value: 34
+Key: 4, Value: 45
+Key: 5, Value: 56
+Key: 6, Value: 67
+Key: 7, Value: 78
+Key: 8, Value: 89
+Key: 9, Value: 100
+Key: 10, Value: 111
+Key: 11, Value: 122
+Key: 12, Value: 133
+Key: 13, Value: 144
+Key: 14, Value: 155
+Key: 15, Value: 166
+Key: 17, Value: 188
+Key: 16, Value: 177
+Key: 19, Value: 210
+Key: 18, Value: 199
+Key: 21, Value: 232
+Key: 20, Value: 221
+Key: 23, Value: 254
+Key: 22, Value: 243
+Key: 25, Value: 276
+Key: 24, Value: 265
+Key: 27, Value: 298
+Key: 26, Value: 287
+Key: 29, Value: 320
+Key: 28, Value: 309
+Key: 31, Value: 342
+Key: 30, Value: 331
+Key: 34, Value: 375
+Key: 35, Value: 386
+Key: 32, Value: 353
+Key: 33, Value: 364
+Key: 38, Value: 419
+Key: 39, Value: 430
+Key: 36, Value: 397
+Key: 37, Value: 408
+Key: 42, Value: 463
+Key: 43, Value: 474
+Key: 40, Value: 441
+Key: 41, Value: 452
+Key: 46, Value: 507
+Key: 44, Value: 485
+Key: 45, Value: 496
+
+================================================
+                Switch Table 2                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 12
+Key: 2, Value: 23
+Key: 3, Value: 34
+Key: 4, Value: 45
+Key: 5, Value: 56
+Key: 6, Value: 67
+Key: 7, Value: 78
+Key: 8, Value: 89
+Key: 9, Value: 100
+Key: 10, Value: 111
+Key: 11, Value: 122
+Key: 12, Value: 133
+Key: 13, Value: 144
+Key: 14, Value: 155
+Key: 15, Value: 166
+Key: 17, Value: 188
+Key: 16, Value: 177
+Key: 19, Value: 210
+Key: 18, Value: 199
+Key: 21, Value: 232
+Key: 20, Value: 221
+Key: 23, Value: 254
+Key: 22, Value: 243
+
+================================================
+                Switch Table 3                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 12
+Key: 2, Value: 23
+Key: 3, Value: 34
+Key: 4, Value: 45
+
+================================================
+                Switch Table 4                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 15
+Key: 2, Value: 29
+Key: 3, Value: 43
+Key: 4, Value: 57
+Key: 5, Value: 71
+Key: 6, Value: 85
+Key: 7, Value: 99
+Key: 8, Value: 113
+Key: 9, Value: 127
+Key: 10, Value: 141
+Key: 11, Value: 157
+Key: 12, Value: 171
+Key: 13, Value: 185
+Key: 14, Value: 199
+Key: 15, Value: 213
+Key: 17, Value: 241
+Key: 16, Value: 227
+Key: 19, Value: 269
+Key: 18, Value: 255
+Key: 21, Value: 297
+Key: 20, Value: 283
+Key: 23, Value: 325
+Key: 22, Value: 311
+Key: 25, Value: 353
+Key: 24, Value: 339
+Key: 27, Value: 383
+Key: 26, Value: 369
+Key: 29, Value: 411
+Key: 28, Value: 397
+Key: 31, Value: 439
+Key: 30, Value: 425
+Key: 32, Value: 453
+
+================================================
+                Switch Table 5                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 7
+Key: 2, Value: 13
+Key: 3, Value: 19
+Key: 4, Value: 25
+Key: 5, Value: 31
+Key: 6, Value: 37
+Key: 7, Value: 43
+Key: 8, Value: 49
+Key: 9, Value: 55
+Key: 10, Value: 61
+Key: 11, Value: 67
+Key: 12, Value: 73
+Key: 13, Value: 79
+
+================================================
+                Switch Table 6                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 18

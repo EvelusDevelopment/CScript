@@ -1,0 +1,60 @@
+================================================
+      Client Script 1015 Dumped by SiniSoul    
+      Instruction Size: 37
+      Integer Arguments: 1 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADINT , Operand: 0
+Offset: 1, SWITCH , Operand: 0
+Offset: 2, GOTO , Operand: 28
+Offset: 3, PUSHS , Operand: Ores
+Offset: 4, PUSHI , Operand: 0
+Offset: 5, RETURN , Operand: 0
+Offset: 6, GOTO , Operand: 27
+Offset: 7, PUSHS , Operand: Equipment
+Offset: 8, PUSHI , Operand: 0
+Offset: 9, RETURN , Operand: 0
+Offset: 10, GOTO , Operand: 23
+Offset: 11, PUSHS , Operand: Other
+Offset: 12, PUSHI , Operand: 0
+Offset: 13, RETURN , Operand: 0
+Offset: 14, GOTO , Operand: 19
+Offset: 15, PUSHS , Operand: Shooting Stars
+Offset: 16, PUSHI , Operand: 1
+Offset: 17, RETURN , Operand: 0
+Offset: 18, GOTO , Operand: 15
+Offset: 19, PUSHS , Operand: Activities
+Offset: 20, PUSHI , Operand: 1
+Offset: 21, RETURN , Operand: 0
+Offset: 22, GOTO , Operand: 11
+Offset: 23, PUSHS , Operand: Dungeoneering
+Offset: 24, PUSHI , Operand: 0
+Offset: 25, RETURN , Operand: 0
+Offset: 26, GOTO , Operand: 7
+Offset: 27, PUSHS , Operand: Milestones
+Offset: 28, PUSHI , Operand: 0
+Offset: 29, RETURN , Operand: 0
+Offset: 30, GOTO , Operand: 3
+Offset: 31, PUSHS , Operand: 
+Offset: 32, PUSHI , Operand: -1
+Offset: 33, RETURN , Operand: 0
+Offset: 34, PUSHS , Operand: 
+Offset: 35, PUSHI , Operand: 0
+Offset: 36, RETURN , Operand: 0
+
+================================================
+                Switch Table 0                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 5
+Key: 2, Value: 9
+Key: 3, Value: 13
+Key: 4, Value: 17
+Key: 5, Value: 21
+Key: 6, Value: 25

@@ -1,0 +1,72 @@
+================================================
+      Client Script 2840 Dumped by SiniSoul    
+      Instruction Size: 52
+      Integer Arguments: 0 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADGINT , Operand: 1068
+Offset: 1, PUSHI , Operand: 1
+Offset: 2, IADD , Operand: 0
+Offset: 3, STOREGINT , Operand: 1068
+Offset: 4, LOADGINT , Operand: 1068
+Offset: 5, SWITCH , Operand: 0
+Offset: 6, PUSHI , Operand: 2840
+Offset: 7, PUSHS , Operand: 
+Offset: 8, PUSHI , Operand: 25165824
+Offset: 9, setInterfaceDefinitionScriptParams26 , Operand: 0
+Offset: 10, PUSHI , Operand: 0
+Offset: 11, LOADGINT , Operand: 1068
+Offset: 12, PUSHI , Operand: 400
+Offset: 13, PUSHI , Operand: 400
+Offset: 14, PUSHI , Operand: 1
+Offset: 15, LOADGINT , Operand: 1068
+Offset: 16, Unref Method: 5502, Operand: 0
+Offset: 17, GOTO , Operand: 33
+Offset: 18, PUSHI , Operand: 2840
+Offset: 19, PUSHS , Operand: 
+Offset: 20, PUSHI , Operand: 25165824
+Offset: 21, setInterfaceDefinitionScriptParams26 , Operand: 0
+Offset: 22, PUSHI , Operand: 0
+Offset: 23, LOADGINT , Operand: 1068
+Offset: 24, PUSHI , Operand: 400
+Offset: 25, PUSHI , Operand: 0
+Offset: 26, PUSHI , Operand: 1
+Offset: 27, LOADGINT , Operand: 1068
+Offset: 28, Unref Method: 5502, Operand: 0
+Offset: 29, GOTO , Operand: 21
+Offset: 30, PUSHI , Operand: -1
+Offset: 31, PUSHS , Operand: 
+Offset: 32, PUSHI , Operand: 25165824
+Offset: 33, setInterfaceDefinitionScriptParams26 , Operand: 0
+Offset: 34, GOTO , Operand: 16
+Offset: 35, PUSHI , Operand: 2840
+Offset: 36, PUSHS , Operand: 
+Offset: 37, PUSHI , Operand: 25165824
+Offset: 38, setInterfaceDefinitionScriptParams26 , Operand: 0
+Offset: 39, PUSHI , Operand: 0
+Offset: 40, LOADGINT , Operand: 1068
+Offset: 41, PUSHI , Operand: 650
+Offset: 42, PUSHI , Operand: 700
+Offset: 43, PUSHI , Operand: 1
+Offset: 44, LOADGINT , Operand: 1068
+Offset: 45, Unref Method: 5502, Operand: 0
+Offset: 46, GOTO , Operand: 4
+Offset: 47, PUSHI , Operand: -1
+Offset: 48, PUSHS , Operand: 
+Offset: 49, PUSHI , Operand: 25165824
+Offset: 50, setInterfaceDefinitionScriptParams26 , Operand: 0
+Offset: 51, RETURN , Operand: 0
+
+================================================
+                Switch Table 0                
+================================================
+
+Key: 1, Value: 12
+Key: 2, Value: 24
+Key: 3, Value: 29
+Key: 5, Value: 41

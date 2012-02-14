@@ -1,0 +1,73 @@
+================================================
+      Client Script 3281 Dumped by SiniSoul    
+      Instruction Size: 55
+      Integer Arguments: 5 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHI , Operand: 0
+Offset: 1, STOREINT , Operand: 3
+Offset: 2, PUSHI , Operand: 0
+Offset: 3, STOREINT , Operand: 4
+Offset: 4, LOADINT , Operand: 2
+Offset: 5, SWITCH , Operand: 0
+Offset: 6, GOTO , Operand: 17
+Offset: 7, PUSHI , Operand: 61734915
+Offset: 8, Unref Method: 2502, Operand: 0
+Offset: 9, PUSHI , Operand: 4
+Offset: 10, IDIV , Operand: 0
+Offset: 11, STOREINT , Operand: 3
+Offset: 12, PUSHI , Operand: 61734915
+Offset: 13, Unref Method: 2503, Operand: 0
+Offset: 14, PUSHI , Operand: 4
+Offset: 15, IDIV , Operand: 0
+Offset: 16, STOREINT , Operand: 4
+Offset: 17, GOTO , Operand: 6
+Offset: 18, PUSHI , Operand: 61734915
+Offset: 19, Unref Method: 2502, Operand: 0
+Offset: 20, PUSHI , Operand: 4
+Offset: 21, IDIV , Operand: 0
+Offset: 22, STOREINT , Operand: 3
+Offset: 23, GOTO , Operand: 0
+Offset: 24, PUSHI , Operand: 61734916
+Offset: 25, PUSHI , Operand: 5
+Offset: 26, LOADGINT , Operand: 1151
+Offset: 27, Unref Method: 100, Operand: 0
+Offset: 28, LOADGINT , Operand: 1151
+Offset: 29, PUSHI , Operand: 1
+Offset: 30, IADD , Operand: 0
+Offset: 31, STOREGINT , Operand: 1151
+Offset: 32, PUSHI , Operand: 32
+Offset: 33, PUSHI , Operand: 32
+Offset: 34, PUSHI , Operand: 0
+Offset: 35, PUSHI , Operand: 0
+Offset: 36, Unref Method: 1001, Operand: 0
+Offset: 37, PUSHI , Operand: 2833
+Offset: 38, Unref Method: 1105, Operand: 0
+Offset: 39, LOADINT , Operand: 0
+Offset: 40, PUSHI , Operand: 32
+Offset: 41, IMUL , Operand: 0
+Offset: 42, LOADINT , Operand: 3
+Offset: 43, IADD , Operand: 0
+Offset: 44, LOADINT , Operand: 1
+Offset: 45, PUSHI , Operand: 32
+Offset: 46, IMUL , Operand: 0
+Offset: 47, LOADINT , Operand: 4
+Offset: 48, IADD , Operand: 0
+Offset: 49, PUSHI , Operand: 0
+Offset: 50, PUSHI , Operand: 2
+Offset: 51, Unref Method: 1000, Operand: 0
+Offset: 52, PUSHI , Operand: 0
+Offset: 53, Unref Method: 1003, Operand: 0
+Offset: 54, RETURN , Operand: 0
+
+================================================
+                Switch Table 0                
+================================================
+
+Key: 1, Value: 1
+Key: 2, Value: 12

@@ -1,0 +1,40 @@
+================================================
+      Client Script 1812 Dumped by SiniSoul    
+      Instruction Size: 29
+      Integer Arguments: 1 
+      String  Arguments: 1 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADSTR , Operand: 0
+Offset: 1, getStringLength , Operand: 0
+Offset: 2, PUSHI , Operand: 0
+Offset: 3, IFEQ , Operand: 1
+Offset: 4, GOTO , Operand: 10
+Offset: 5, PUSHS , Operand: 
+Offset: 6, LOADINT , Operand: 0
+Offset: 7, Unref Method: 2112, Operand: 0
+Offset: 8, PUSHS , Operand: 
+Offset: 9, STOREGSTR , Operand: 39
+Offset: 10, PUSHI , Operand: -1
+Offset: 11, PUSHS , Operand: 
+Offset: 12, LOADINT , Operand: 0
+Offset: 13, setInterfaceDefinitionScriptParams8 , Operand: 0
+Offset: 14, RETURN , Operand: 0
+Offset: 15, LOADSTR , Operand: 0
+Offset: 16, LOADINT , Operand: 0
+Offset: 17, Unref Method: 2112, Operand: 0
+Offset: 18, LOADSTR , Operand: 0
+Offset: 19, STOREGSTR , Operand: 39
+Offset: 20, PUSHI , Operand: 1813
+Offset: 21, Unref Method: 3300, Operand: 0
+Offset: 22, PUSHI , Operand: 1000
+Offset: 23, IADD , Operand: 0
+Offset: 24, LOADINT , Operand: 0
+Offset: 25, PUSHS , Operand: iI
+Offset: 26, LOADINT , Operand: 0
+Offset: 27, setInterfaceDefinitionScriptParams8 , Operand: 0
+Offset: 28, RETURN , Operand: 0

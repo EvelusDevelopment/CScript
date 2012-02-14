@@ -1,0 +1,39 @@
+================================================
+      Client Script 1334 Dumped by SiniSoul    
+      Instruction Size: 28
+      Integer Arguments: 2 
+      String  Arguments: 1 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADINT , Operand: 0
+Offset: 1, PUSHI , Operand: -1
+Offset: 2, IFNE , Operand: 1
+Offset: 3, GOTO , Operand: 23
+Offset: 4, LOADINT , Operand: 1
+Offset: 5, PUSHI , Operand: 1
+Offset: 6, IFEQ , Operand: 1
+Offset: 7, GOTO , Operand: 10
+Offset: 8, PUSHS , Operand: <u=91b1f4>
+Offset: 9, LOADSTR , Operand: 0
+Offset: 10, PUSHS , Operand: </u>
+Offset: 11, CONCAT , Operand: 3
+Offset: 12, LOADINT , Operand: 0
+Offset: 13, Unref Method: 2112, Operand: 0
+Offset: 14, PUSHI , Operand: 9548276
+Offset: 15, LOADINT , Operand: 0
+Offset: 16, Unref Method: 2101, Operand: 0
+Offset: 17, GOTO , Operand: 9
+Offset: 18, PUSHS , Operand: <u=2c6ff8>
+Offset: 19, LOADSTR , Operand: 0
+Offset: 20, PUSHS , Operand: </u>
+Offset: 21, CONCAT , Operand: 3
+Offset: 22, LOADINT , Operand: 0
+Offset: 23, Unref Method: 2112, Operand: 0
+Offset: 24, PUSHI , Operand: 2912248
+Offset: 25, LOADINT , Operand: 0
+Offset: 26, Unref Method: 2101, Operand: 0
+Offset: 27, RETURN , Operand: 0

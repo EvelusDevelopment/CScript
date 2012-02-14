@@ -1,0 +1,39 @@
+================================================
+      Client Script 2221 Dumped by SiniSoul    
+      Instruction Size: 19
+      Integer Arguments: 0 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, Unref Opcode: 1, Operand: 1685
+Offset: 1, SWITCH , Operand: 0
+Offset: 2, GOTO , Operand: 15
+Offset: 3, PUSHS , Operand: 
+Offset: 4, PUSHI , Operand: 61014172
+Offset: 5, Unref Method: 2112, Operand: 0
+Offset: 6, GOTO , Operand: 11
+Offset: 7, PUSHS , Operand: Not enough workers.
+Offset: 8, PUSHI , Operand: 61014172
+Offset: 9, Unref Method: 2112, Operand: 0
+Offset: 10, GOTO , Operand: 7
+Offset: 11, PUSHS , Operand: Not enough resources.
+Offset: 12, PUSHI , Operand: 61014172
+Offset: 13, Unref Method: 2112, Operand: 0
+Offset: 14, GOTO , Operand: 3
+Offset: 15, PUSHS , Operand: Worker limit reached.
+Offset: 16, PUSHI , Operand: 61014172
+Offset: 17, Unref Method: 2112, Operand: 0
+Offset: 18, RETURN , Operand: 0
+
+================================================
+                Switch Table 0                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 5
+Key: 2, Value: 9
+Key: 3, Value: 13

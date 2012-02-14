@@ -1,0 +1,191 @@
+================================================
+      Client Script 2242 Dumped by SiniSoul    
+      Instruction Size: 180
+      Integer Arguments: 1 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHI , Operand: 8727
+Offset: 1, PUSHI , Operand: 3
+Offset: 2, PUSHI , Operand: 0
+Offset: 3, Unref Method: 3200, Operand: 0
+Offset: 4, PUSHS , Operand: Turns taken score: 
+Offset: 5, Unref Opcode: 1, Operand: 1674
+Offset: 6, integerToString , Operand: 0
+Offset: 7, PUSHS , Operand:  x 101 = 
+Offset: 8, Unref Opcode: 1, Operand: 1674
+Offset: 9, PUSHI , Operand: 101
+Offset: 10, IMUL , Operand: 0
+Offset: 11, integerToString , Operand: 0
+Offset: 12, CONCAT , Operand: 4
+Offset: 13, PUSHI , Operand: 60751894
+Offset: 14, Unref Method: 2112, Operand: 0
+Offset: 15, PUSHS , Operand: Resources spare: 
+Offset: 16, Unref Opcode: 1, Operand: 1688
+Offset: 17, Unref Opcode: 1, Operand: 1687
+Offset: 18, Unref Opcode: 1, Operand: 1686
+Offset: 19, IADD , Operand: 0
+Offset: 20, IADD , Operand: 0
+Offset: 21, integerToString , Operand: 0
+Offset: 22, PUSHS , Operand:  x -10 = -
+Offset: 23, Unref Opcode: 1, Operand: 1688
+Offset: 24, Unref Opcode: 1, Operand: 1687
+Offset: 25, Unref Opcode: 1, Operand: 1686
+Offset: 26, IADD , Operand: 0
+Offset: 27, IADD , Operand: 0
+Offset: 28, PUSHI , Operand: 10
+Offset: 29, IMUL , Operand: 0
+Offset: 30, integerToString , Operand: 0
+Offset: 31, CONCAT , Operand: 4
+Offset: 32, PUSHI , Operand: 60751898
+Offset: 33, Unref Method: 2112, Operand: 0
+Offset: 34, Unref Opcode: 1, Operand: 1674
+Offset: 35, PUSHI , Operand: 16
+Offset: 36, IFLT , Operand: 1
+Offset: 37, GOTO , Operand: 4
+Offset: 38, PUSHS , Operand: Completed within turn limit: -100
+Offset: 39, PUSHI , Operand: 60751899
+Offset: 40, Unref Method: 2112, Operand: 0
+Offset: 41, GOTO , Operand: 3
+Offset: 42, PUSHS , Operand: Not completed within turn limit: 0
+Offset: 43, PUSHI , Operand: 60751899
+Offset: 44, Unref Method: 2112, Operand: 0
+Offset: 45, PUSHS , Operand: Workers employed: 
+Offset: 46, Unref Opcode: 1, Operand: 1681
+Offset: 47, integerToString , Operand: 0
+Offset: 48, PUSHS , Operand:  x -10 = -
+Offset: 49, Unref Opcode: 1, Operand: 1681
+Offset: 50, PUSHI , Operand: 10
+Offset: 51, IMUL , Operand: 0
+Offset: 52, integerToString , Operand: 0
+Offset: 53, CONCAT , Operand: 4
+Offset: 54, PUSHI , Operand: 60751900
+Offset: 55, Unref Method: 2112, Operand: 0
+Offset: 56, PUSHS , Operand: Turns taken: 
+Offset: 57, Unref Opcode: 1, Operand: 1674
+Offset: 58, integerToString , Operand: 0
+Offset: 59, CONCAT , Operand: 2
+Offset: 60, PUSHI , Operand: 60751904
+Offset: 61, Unref Method: 2112, Operand: 0
+Offset: 62, Unref Opcode: 25, Operand: 7324
+Offset: 63, PUSHI , Operand: 0
+Offset: 64, IFEQ , Operand: 1
+Offset: 65, GOTO , Operand: 4
+Offset: 66, PUSHS , Operand: Oven not repaired: 50
+Offset: 67, PUSHI , Operand: 60751895
+Offset: 68, Unref Method: 2112, Operand: 0
+Offset: 69, GOTO , Operand: 3
+Offset: 70, PUSHS , Operand: Oven repaired: 0
+Offset: 71, PUSHI , Operand: 60751895
+Offset: 72, Unref Method: 2112, Operand: 0
+Offset: 73, Unref Opcode: 25, Operand: 7326
+Offset: 74, PUSHI , Operand: 0
+Offset: 75, IFEQ , Operand: 1
+Offset: 76, GOTO , Operand: 4
+Offset: 77, PUSHS , Operand: Conveyor not repaired: 50
+Offset: 78, PUSHI , Operand: 60751896
+Offset: 79, Unref Method: 2112, Operand: 0
+Offset: 80, GOTO , Operand: 3
+Offset: 81, PUSHS , Operand: Conveyor repaired: 0
+Offset: 82, PUSHI , Operand: 60751896
+Offset: 83, Unref Method: 2112, Operand: 0
+Offset: 84, Unref Opcode: 25, Operand: 7325
+Offset: 85, PUSHI , Operand: 0
+Offset: 86, IFEQ , Operand: 1
+Offset: 87, GOTO , Operand: 4
+Offset: 88, PUSHS , Operand: Painter not repaired: 50
+Offset: 89, PUSHI , Operand: 60751897
+Offset: 90, Unref Method: 2112, Operand: 0
+Offset: 91, GOTO , Operand: 3
+Offset: 92, PUSHS , Operand: Painter repaired: 0
+Offset: 93, PUSHI , Operand: 60751897
+Offset: 94, Unref Method: 2112, Operand: 0
+Offset: 95, PUSHI , Operand: 0
+Offset: 96, STOREINT , Operand: 0
+Offset: 97, Unref Opcode: 1, Operand: 1674
+Offset: 98, PUSHI , Operand: 101
+Offset: 99, IMUL , Operand: 0
+Offset: 100, STOREINT , Operand: 0
+Offset: 101, Unref Opcode: 25, Operand: 7325
+Offset: 102, PUSHI , Operand: 0
+Offset: 103, IFEQ , Operand: 1
+Offset: 104, GOTO , Operand: 4
+Offset: 105, LOADINT , Operand: 0
+Offset: 106, PUSHI , Operand: 50
+Offset: 107, IADD , Operand: 0
+Offset: 108, STOREINT , Operand: 0
+Offset: 109, Unref Opcode: 25, Operand: 7324
+Offset: 110, PUSHI , Operand: 0
+Offset: 111, IFEQ , Operand: 1
+Offset: 112, GOTO , Operand: 4
+Offset: 113, LOADINT , Operand: 0
+Offset: 114, PUSHI , Operand: 50
+Offset: 115, IADD , Operand: 0
+Offset: 116, STOREINT , Operand: 0
+Offset: 117, Unref Opcode: 25, Operand: 7326
+Offset: 118, PUSHI , Operand: 0
+Offset: 119, IFEQ , Operand: 1
+Offset: 120, GOTO , Operand: 4
+Offset: 121, LOADINT , Operand: 0
+Offset: 122, PUSHI , Operand: 50
+Offset: 123, IADD , Operand: 0
+Offset: 124, STOREINT , Operand: 0
+Offset: 125, LOADINT , Operand: 0
+Offset: 126, Unref Opcode: 1, Operand: 1688
+Offset: 127, Unref Opcode: 1, Operand: 1687
+Offset: 128, Unref Opcode: 1, Operand: 1686
+Offset: 129, IADD , Operand: 0
+Offset: 130, IADD , Operand: 0
+Offset: 131, PUSHI , Operand: 10
+Offset: 132, IMUL , Operand: 0
+Offset: 133, ISUB , Operand: 0
+Offset: 134, STOREINT , Operand: 0
+Offset: 135, Unref Opcode: 1, Operand: 1674
+Offset: 136, PUSHI , Operand: 16
+Offset: 137, IFLT , Operand: 1
+Offset: 138, GOTO , Operand: 4
+Offset: 139, LOADINT , Operand: 0
+Offset: 140, PUSHI , Operand: 100
+Offset: 141, ISUB , Operand: 0
+Offset: 142, STOREINT , Operand: 0
+Offset: 143, LOADINT , Operand: 0
+Offset: 144, Unref Opcode: 1, Operand: 1681
+Offset: 145, PUSHI , Operand: 10
+Offset: 146, IMUL , Operand: 0
+Offset: 147, ISUB , Operand: 0
+Offset: 148, STOREINT , Operand: 0
+Offset: 149, LOADINT , Operand: 0
+Offset: 150, PUSHI , Operand: 0
+Offset: 151, IFLT , Operand: 1
+Offset: 152, GOTO , Operand: 2
+Offset: 153, PUSHI , Operand: 0
+Offset: 154, STOREINT , Operand: 0
+Offset: 155, LOADINT , Operand: 0
+Offset: 156, PUSHI , Operand: 32768
+Offset: 157, IFGT , Operand: 1
+Offset: 158, GOTO , Operand: 2
+Offset: 159, PUSHI , Operand: 32768
+Offset: 160, STOREINT , Operand: 0
+Offset: 161, LOADINT , Operand: 0
+Offset: 162, Unref Opcode: 25, Operand: 7339
+Offset: 163, IFEQ , Operand: 1
+Offset: 164, GOTO , Operand: 8
+Offset: 165, PUSHS , Operand: Final score: 
+Offset: 166, LOADINT , Operand: 0
+Offset: 167, integerToString , Operand: 0
+Offset: 168, PUSHS , Operand:  (New best score)
+Offset: 169, CONCAT , Operand: 3
+Offset: 170, PUSHI , Operand: 60751903
+Offset: 171, Unref Method: 2112, Operand: 0
+Offset: 172, GOTO , Operand: 6
+Offset: 173, PUSHS , Operand: Final score: 
+Offset: 174, LOADINT , Operand: 0
+Offset: 175, integerToString , Operand: 0
+Offset: 176, CONCAT , Operand: 2
+Offset: 177, PUSHI , Operand: 60751903
+Offset: 178, Unref Method: 2112, Operand: 0
+Offset: 179, RETURN , Operand: 0

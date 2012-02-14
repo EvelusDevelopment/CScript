@@ -1,0 +1,110 @@
+================================================
+      Client Script 2435 Dumped by SiniSoul    
+      Instruction Size: 99
+      Integer Arguments: 2 
+      String  Arguments: 2 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADGINT , Operand: 815
+Offset: 1, PUSHI , Operand: 0
+Offset: 2, IFGT , Operand: 1
+Offset: 3, GOTO , Operand: 5
+Offset: 4, LOADGINT , Operand: 815
+Offset: 5, PUSHI , Operand: 1
+Offset: 6, ISUB , Operand: 0
+Offset: 7, STOREGINT , Operand: 815
+Offset: 8, GOTO , Operand: 2
+Offset: 9, CALL , Operand: 2436
+Offset: 10, RETURN , Operand: 0
+Offset: 11, LOADGINT , Operand: 815
+Offset: 12, PUSHI , Operand: 50
+Offset: 13, IDIV , Operand: 0
+Offset: 14, STOREINT , Operand: 0
+Offset: 15, LOADINT , Operand: 0
+Offset: 16, PUSHI , Operand: 60
+Offset: 17, IDIV , Operand: 0
+Offset: 18, STOREINT , Operand: 1
+Offset: 19, LOADINT , Operand: 0
+Offset: 20, LOADINT , Operand: 1
+Offset: 21, PUSHI , Operand: 60
+Offset: 22, IMUL , Operand: 0
+Offset: 23, ISUB , Operand: 0
+Offset: 24, STOREINT , Operand: 0
+Offset: 25, PUSHS , Operand: 
+Offset: 26, STORESTR , Operand: 0
+Offset: 27, PUSHS , Operand: 
+Offset: 28, STORESTR , Operand: 1
+Offset: 29, LOADINT , Operand: 1
+Offset: 30, PUSHI , Operand: 0
+Offset: 31, IFEQ , Operand: 1
+Offset: 32, GOTO , Operand: 3
+Offset: 33, PUSHS , Operand: 00
+Offset: 34, STORESTR , Operand: 0
+Offset: 35, GOTO , Operand: 13
+Offset: 36, LOADINT , Operand: 1
+Offset: 37, PUSHI , Operand: 10
+Offset: 38, IFLT , Operand: 1
+Offset: 39, GOTO , Operand: 6
+Offset: 40, PUSHS , Operand: 0
+Offset: 41, LOADINT , Operand: 1
+Offset: 42, integerToString , Operand: 0
+Offset: 43, CONCAT , Operand: 2
+Offset: 44, STORESTR , Operand: 0
+Offset: 45, GOTO , Operand: 3
+Offset: 46, LOADINT , Operand: 1
+Offset: 47, integerToString , Operand: 0
+Offset: 48, STORESTR , Operand: 0
+Offset: 49, LOADINT , Operand: 0
+Offset: 50, PUSHI , Operand: 0
+Offset: 51, IFEQ , Operand: 1
+Offset: 52, GOTO , Operand: 3
+Offset: 53, PUSHS , Operand: 00
+Offset: 54, STORESTR , Operand: 1
+Offset: 55, GOTO , Operand: 13
+Offset: 56, LOADINT , Operand: 0
+Offset: 57, PUSHI , Operand: 10
+Offset: 58, IFLT , Operand: 1
+Offset: 59, GOTO , Operand: 6
+Offset: 60, PUSHS , Operand: 0
+Offset: 61, LOADINT , Operand: 0
+Offset: 62, integerToString , Operand: 0
+Offset: 63, CONCAT , Operand: 2
+Offset: 64, STORESTR , Operand: 1
+Offset: 65, GOTO , Operand: 3
+Offset: 66, LOADINT , Operand: 0
+Offset: 67, integerToString , Operand: 0
+Offset: 68, STORESTR , Operand: 1
+Offset: 69, Unref Method: 5306, Operand: 0
+Offset: 70, PUSHI , Operand: 2
+Offset: 71, IFLT , Operand: 1
+Offset: 72, GOTO , Operand: 13
+Offset: 73, PUSHI , Operand: 0
+Offset: 74, PUSHI , Operand: 35913739
+Offset: 75, Unref Method: 2003, Operand: 0
+Offset: 76, PUSHI , Operand: 0
+Offset: 77, PUSHI , Operand: 35913738
+Offset: 78, Unref Method: 2003, Operand: 0
+Offset: 79, LOADSTR , Operand: 0
+Offset: 80, PUSHS , Operand: :
+Offset: 81, LOADSTR , Operand: 1
+Offset: 82, CONCAT , Operand: 3
+Offset: 83, PUSHI , Operand: 35913739
+Offset: 84, Unref Method: 2112, Operand: 0
+Offset: 85, GOTO , Operand: 12
+Offset: 86, PUSHI , Operand: 0
+Offset: 87, PUSHI , Operand: 48890019
+Offset: 88, Unref Method: 2003, Operand: 0
+Offset: 89, PUSHI , Operand: 0
+Offset: 90, PUSHI , Operand: 48890018
+Offset: 91, Unref Method: 2003, Operand: 0
+Offset: 92, LOADSTR , Operand: 0
+Offset: 93, PUSHS , Operand: :
+Offset: 94, LOADSTR , Operand: 1
+Offset: 95, CONCAT , Operand: 3
+Offset: 96, PUSHI , Operand: 48890019
+Offset: 97, Unref Method: 2112, Operand: 0
+Offset: 98, RETURN , Operand: 0

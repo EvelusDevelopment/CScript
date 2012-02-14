@@ -1,0 +1,51 @@
+================================================
+      Client Script 2516 Dumped by SiniSoul    
+      Instruction Size: 40
+      Integer Arguments: 0 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, Unref Opcode: 25, Operand: 6364
+Offset: 1, STOREGINT , Operand: 847
+Offset: 2, Unref Opcode: 25, Operand: 6366
+Offset: 3, STOREGINT , Operand: 848
+Offset: 4, Unref Opcode: 25, Operand: 6367
+Offset: 5, STOREGINT , Operand: 849
+Offset: 6, Unref Opcode: 25, Operand: 6363
+Offset: 7, STOREGINT , Operand: 850
+Offset: 8, Unref Opcode: 25, Operand: 6365
+Offset: 9, STOREGINT , Operand: 851
+Offset: 10, Unref Opcode: 25, Operand: 6351
+Offset: 11, STOREGINT , Operand: 839
+Offset: 12, LOADGINT , Operand: 847
+Offset: 13, integerToString , Operand: 0
+Offset: 14, PUSHI , Operand: 42860557
+Offset: 15, Unref Method: 2112, Operand: 0
+Offset: 16, LOADGINT , Operand: 848
+Offset: 17, integerToString , Operand: 0
+Offset: 18, PUSHI , Operand: 42860605
+Offset: 19, Unref Method: 2112, Operand: 0
+Offset: 20, LOADGINT , Operand: 849
+Offset: 21, integerToString , Operand: 0
+Offset: 22, PUSHI , Operand: 42860597
+Offset: 23, Unref Method: 2112, Operand: 0
+Offset: 24, LOADGINT , Operand: 850
+Offset: 25, integerToString , Operand: 0
+Offset: 26, PUSHI , Operand: 42860589
+Offset: 27, Unref Method: 2112, Operand: 0
+Offset: 28, LOADGINT , Operand: 851
+Offset: 29, integerToString , Operand: 0
+Offset: 30, PUSHI , Operand: 42860614
+Offset: 31, Unref Method: 2112, Operand: 0
+Offset: 32, LOADGINT , Operand: 839
+Offset: 33, PUSHS , Operand: ,
+Offset: 34, CALL , Operand: 46
+Offset: 35, PUSHI , Operand: 42860621
+Offset: 36, Unref Method: 2112, Operand: 0
+Offset: 37, CALL , Operand: 2517
+Offset: 38, RETURN , Operand: 0
+Offset: 39, RETURN , Operand: 0

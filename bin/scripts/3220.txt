@@ -1,0 +1,233 @@
+================================================
+      Client Script 3220 Dumped by SiniSoul    
+      Instruction Size: 199
+      Integer Arguments: 9 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, Unref Method: 5609, Operand: 0
+Offset: 1, STOREINT , Operand: 0
+Offset: 2, LOADINT , Operand: 0
+Offset: 3, PUSHI , Operand: -3
+Offset: 4, IFEQ , Operand: 1
+Offset: 5, GOTO , Operand: 1
+Offset: 6, RETURN , Operand: 0
+Offset: 7, PUSHI , Operand: -1
+Offset: 8, PUSHS , Operand: 
+Offset: 9, PUSHI , Operand: 44105756
+Offset: 10, setInterfaceDefinitionScriptParams8 , Operand: 0
+Offset: 11, PUSHI , Operand: 0
+Offset: 12, STOREINT , Operand: 1
+Offset: 13, PUSHI , Operand: 0
+Offset: 14, STOREINT , Operand: 2
+Offset: 15, PUSHI , Operand: 44105845
+Offset: 16, STOREINT , Operand: 3
+Offset: 17, PUSHI , Operand: 44105829
+Offset: 18, STOREINT , Operand: 4
+Offset: 19, PUSHI , Operand: 44105834
+Offset: 20, STOREINT , Operand: 5
+Offset: 21, PUSHI , Operand: 44105833
+Offset: 22, STOREINT , Operand: 6
+Offset: 23, PUSHI , Operand: 44105818
+Offset: 24, STOREINT , Operand: 7
+Offset: 25, PUSHI , Operand: 44105817
+Offset: 26, STOREINT , Operand: 8
+Offset: 27, LOADINT , Operand: 0
+Offset: 28, PUSHI , Operand: 2
+Offset: 29, IFEQ , Operand: 1
+Offset: 30, GOTO , Operand: 14
+Offset: 31, Unref Method: 5430, Operand: 0
+Offset: 32, LOADGINT , Operand: 1095
+Offset: 33, PUSHI , Operand: 1
+Offset: 34, IFEQ , Operand: 1
+Offset: 35, GOTO , Operand: 5
+Offset: 36, isPreferenceStrNull , Operand: 0
+Offset: 37, PUSHI , Operand: 1
+Offset: 38, IFEQ , Operand: 1
+Offset: 39, GOTO , Operand: 1
+Offset: 40, getPreferenceStr , Operand: 0
+Offset: 41, PUSHI , Operand: 0
+Offset: 42, STOREGINT , Operand: 1095
+Offset: 43, CALL , Operand: 2223
+Offset: 44, GOTO , Operand: 145
+Offset: 45, PUSHS , Operand: 
+Offset: 46, LOADINT , Operand: 5
+Offset: 47, LOADINT , Operand: 6
+Offset: 48, CALL , Operand: 3213
+Offset: 49, PUSHI , Operand: -1
+Offset: 50, LOADINT , Operand: 3
+Offset: 51, Unref Method: 2105, Operand: 0
+Offset: 52, PUSHI , Operand: -1
+Offset: 53, LOADINT , Operand: 4
+Offset: 54, Unref Method: 2105, Operand: 0
+Offset: 55, PUSHI , Operand: -1
+Offset: 56, PUSHI , Operand: 44105813
+Offset: 57, Unref Method: 2105, Operand: 0
+Offset: 58, PUSHS , Operand: 
+Offset: 59, LOADINT , Operand: 5
+Offset: 60, LOADINT , Operand: 6
+Offset: 61, CALL , Operand: 3213
+Offset: 62, PUSHS , Operand: 
+Offset: 63, LOADINT , Operand: 7
+Offset: 64, LOADINT , Operand: 8
+Offset: 65, CALL , Operand: 3213
+Offset: 66, PUSHS , Operand: 
+Offset: 67, PUSHI , Operand: 44105802
+Offset: 68, PUSHI , Operand: 44105801
+Offset: 69, CALL , Operand: 3213
+Offset: 70, LOADINT , Operand: 0
+Offset: 71, SWITCH , Operand: 0
+Offset: 72, GOTO , Operand: 113
+Offset: 73, PUSHS , Operand: There was an error contacting the server. Please try using a different world.
+Offset: 74, LOADINT , Operand: 5
+Offset: 75, LOADINT , Operand: 6
+Offset: 76, CALL , Operand: 3213
+Offset: 77, GOTO , Operand: 112
+Offset: 78, PUSHS , Operand: There was no response from the server. Please try using a different world.
+Offset: 79, LOADINT , Operand: 5
+Offset: 80, LOADINT , Operand: 6
+Offset: 81, CALL , Operand: 3213
+Offset: 82, GOTO , Operand: 107
+Offset: 83, PUSHS , Operand: There was an error contacting the account creation server. Please try again.
+Offset: 84, LOADINT , Operand: 5
+Offset: 85, LOADINT , Operand: 6
+Offset: 86, CALL , Operand: 3213
+Offset: 87, GOTO , Operand: 102
+Offset: 88, PUSHS , Operand: The server is currently very busy. Please try again shortly.
+Offset: 89, LOADINT , Operand: 5
+Offset: 90, LOADINT , Operand: 6
+Offset: 91, CALL , Operand: 3213
+Offset: 92, GOTO , Operand: 97
+Offset: 93, PUSHS , Operand: You cannot create an account at this time. Please try again later.
+Offset: 94, LOADINT , Operand: 5
+Offset: 95, LOADINT , Operand: 6
+Offset: 96, CALL , Operand: 3213
+Offset: 97, GOTO , Operand: 92
+Offset: 98, PUSHI , Operand: 1726
+Offset: 99, LOADINT , Operand: 3
+Offset: 100, Unref Method: 2105, Operand: 0
+Offset: 101, PUSHS , Operand: Sorry, that username is not available. Please choose again.
+Offset: 102, LOADINT , Operand: 5
+Offset: 103, LOADINT , Operand: 6
+Offset: 104, CALL , Operand: 3213
+Offset: 105, PUSHI , Operand: 1
+Offset: 106, STOREINT , Operand: 2
+Offset: 107, GOTO , Operand: 82
+Offset: 108, PUSHI , Operand: 1726
+Offset: 109, LOADINT , Operand: 3
+Offset: 110, Unref Method: 2105, Operand: 0
+Offset: 111, PUSHS , Operand: 
+Offset: 112, LOADINT , Operand: 5
+Offset: 113, LOADINT , Operand: 6
+Offset: 114, CALL , Operand: 3213
+Offset: 115, Unref Method: 5610, Operand: 0
+Offset: 116, CALL , Operand: 3221
+Offset: 117, GOTO , Operand: 72
+Offset: 118, PUSHI , Operand: 1726
+Offset: 119, LOADINT , Operand: 3
+Offset: 120, Unref Method: 2105, Operand: 0
+Offset: 121, PUSHS , Operand: Please supply a valid username.
+Offset: 122, LOADINT , Operand: 5
+Offset: 123, LOADINT , Operand: 6
+Offset: 124, CALL , Operand: 3213
+Offset: 125, PUSHI , Operand: 1
+Offset: 126, STOREINT , Operand: 2
+Offset: 127, GOTO , Operand: 62
+Offset: 128, LOADGSTR , Operand: 124
+Offset: 129, getStringLength , Operand: 0
+Offset: 130, STOREINT , Operand: 1
+Offset: 131, LOADINT , Operand: 1
+Offset: 132, PUSHI , Operand: 5
+Offset: 133, IFLT , Operand: 1
+Offset: 134, GOTO , Operand: 5
+Offset: 135, PUSHS , Operand: Password is too short, it must be at least 5 characters long.
+Offset: 136, LOADINT , Operand: 7
+Offset: 137, LOADINT , Operand: 8
+Offset: 138, CALL , Operand: 3213
+Offset: 139, GOTO , Operand: 13
+Offset: 140, LOADINT , Operand: 1
+Offset: 141, PUSHI , Operand: 20
+Offset: 142, IFGT , Operand: 1
+Offset: 143, GOTO , Operand: 5
+Offset: 144, PUSHS , Operand: Password is too long, it must be no more than 20 characters.
+Offset: 145, LOADINT , Operand: 7
+Offset: 146, LOADINT , Operand: 8
+Offset: 147, CALL , Operand: 3213
+Offset: 148, GOTO , Operand: 4
+Offset: 149, PUSHS , Operand: Please supply a valid password.
+Offset: 150, LOADINT , Operand: 7
+Offset: 151, LOADINT , Operand: 8
+Offset: 152, CALL , Operand: 3213
+Offset: 153, PUSHI , Operand: 1726
+Offset: 154, LOADINT , Operand: 4
+Offset: 155, Unref Method: 2105, Operand: 0
+Offset: 156, GOTO , Operand: 33
+Offset: 157, PUSHS , Operand: Passwords may only contain letters and numbers.
+Offset: 158, LOADINT , Operand: 7
+Offset: 159, LOADINT , Operand: 8
+Offset: 160, CALL , Operand: 3213
+Offset: 161, PUSHI , Operand: 1726
+Offset: 162, LOADINT , Operand: 4
+Offset: 163, Unref Method: 2105, Operand: 0
+Offset: 164, GOTO , Operand: 25
+Offset: 165, PUSHS , Operand: Your password is too easy to guess.
+Offset: 166, LOADINT , Operand: 7
+Offset: 167, LOADINT , Operand: 8
+Offset: 168, CALL , Operand: 3213
+Offset: 169, PUSHI , Operand: 1726
+Offset: 170, LOADINT , Operand: 4
+Offset: 171, Unref Method: 2105, Operand: 0
+Offset: 172, GOTO , Operand: 17
+Offset: 173, PUSHS , Operand: Your password is too similar to your username.
+Offset: 174, LOADINT , Operand: 7
+Offset: 175, LOADINT , Operand: 8
+Offset: 176, CALL , Operand: 3213
+Offset: 177, PUSHI , Operand: 1726
+Offset: 178, LOADINT , Operand: 4
+Offset: 179, Unref Method: 2105, Operand: 0
+Offset: 180, GOTO , Operand: 9
+Offset: 181, PUSHS , Operand: RuneScape has been updated. Please reload this page.
+Offset: 182, LOADINT , Operand: 5
+Offset: 183, LOADINT , Operand: 6
+Offset: 184, CALL , Operand: 3213
+Offset: 185, GOTO , Operand: 4
+Offset: 186, PUSHS , Operand: Unexpected server response. Please try again.
+Offset: 187, LOADINT , Operand: 5
+Offset: 188, LOADINT , Operand: 6
+Offset: 189, CALL , Operand: 3213
+Offset: 190, PUSHI , Operand: 0
+Offset: 191, CALL , Operand: 3208
+Offset: 192, LOADINT , Operand: 2
+Offset: 193, PUSHI , Operand: 1
+Offset: 194, IFEQ , Operand: 1
+Offset: 195, GOTO , Operand: 2
+Offset: 196, PUSHI , Operand: 0
+Offset: 197, CALL , Operand: 2283
+Offset: 198, RETURN , Operand: 0
+
+================================================
+                Switch Table 0                
+================================================
+
+Key: 34, Value: 101
+Key: 35, Value: 101
+Key: 32, Value: 93
+Key: 33, Value: 93
+Key: 3, Value: 11
+Key: 38, Value: 21
+Key: 36, Value: 101
+Key: 37, Value: 109
+Key: 7, Value: 16
+Key: 9, Value: 21
+Key: 21, Value: 36
+Key: 20, Value: 26
+Key: 22, Value: 46
+Key: -5, Value: 6
+Key: -4, Value: 1
+Key: 31, Value: 85
+Key: 30, Value: 56
+Key: -1, Value: 1

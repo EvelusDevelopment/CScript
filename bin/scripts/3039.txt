@@ -1,0 +1,50 @@
+================================================
+      Client Script 3039 Dumped by SiniSoul    
+      Instruction Size: 29
+      Integer Arguments: 3 
+      String  Arguments: 1 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADINT , Operand: 0
+Offset: 1, SWITCH , Operand: 0
+Offset: 2, GOTO , Operand: 25
+Offset: 3, Unref Method: 6900, Operand: 0
+Offset: 4, PUSHI , Operand: 0
+Offset: 5, IFEQ , Operand: 1
+Offset: 6, GOTO , Operand: 9
+Offset: 7, PUSHS , Operand: Send message to 
+Offset: 8, LOADSTR , Operand: 0
+Offset: 9, CONCAT , Operand: 2
+Offset: 10, PUSHS , Operand: 
+Offset: 11, PUSHI , Operand: 0
+Offset: 12, LOADSTR , Operand: 0
+Offset: 13, PUSHS , Operand: 
+Offset: 14, CALL , Operand: 3015
+Offset: 15, GOTO , Operand: 2
+Offset: 16, PUSHS , Operand: Users restricted to quick-chat cannot send messages from the Lobby.
+Offset: 17, Unref Method: 3100, Operand: 0
+Offset: 18, GOTO , Operand: 9
+Offset: 19, LOADINT , Operand: 1
+Offset: 20, CALL , Operand: 1182
+Offset: 21, GOTO , Operand: 6
+Offset: 22, PUSHS , Operand: That player is currently offline.
+Offset: 23, Unref Method: 3100, Operand: 0
+Offset: 24, GOTO , Operand: 3
+Offset: 25, LOADSTR , Operand: 0
+Offset: 26, discludeTagsInString , Operand: 0
+Offset: 27, Unref Method: 3606, Operand: 0
+Offset: 28, RETURN , Operand: 0
+
+================================================
+                Switch Table 0                
+================================================
+
+Key: 1, Value: 1
+Key: 10, Value: 23
+Key: 2, Value: 17
+Key: 3, Value: 20
+Key: 4, Value: 20

@@ -1,0 +1,49 @@
+================================================
+      Client Script 117 Dumped by SiniSoul    
+      Instruction Size: 38
+      Integer Arguments: 0 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, Unref Opcode: 25, Operand: 3756
+Offset: 1, PUSHI , Operand: 1
+Offset: 2, IFLT , Operand: 10
+Offset: 3, Unref Opcode: 25, Operand: 3756
+Offset: 4, PUSHI , Operand: 20
+Offset: 5, IFGT , Operand: 7
+Offset: 6, Unref Opcode: 25, Operand: 3756
+Offset: 7, PUSHI , Operand: 1
+Offset: 8, ISUB , Operand: 0
+Offset: 9, CALL , Operand: 1314
+Offset: 10, PUSHI , Operand: 0
+Offset: 11, IFEQ , Operand: 1
+Offset: 12, GOTO , Operand: 15
+Offset: 13, PUSHI , Operand: -1
+Offset: 14, PUSHS , Operand: 
+Offset: 15, PUSHI , Operand: 48889874
+Offset: 16, setInterfaceDefinitionScriptParams8 , Operand: 0
+Offset: 17, PUSHI , Operand: -1
+Offset: 18, PUSHS , Operand: 
+Offset: 19, PUSHI , Operand: 35913850
+Offset: 20, setInterfaceDefinitionScriptParams8 , Operand: 0
+Offset: 21, PUSHI , Operand: -1
+Offset: 22, PUSHI , Operand: -1
+Offset: 23, PUSHI , Operand: -1
+Offset: 24, PUSHI , Operand: -1
+Offset: 25, CALL , Operand: 736
+Offset: 26, CALL , Operand: 1364
+Offset: 27, RETURN , Operand: 0
+Offset: 28, CALL , Operand: 2756
+Offset: 29, PUSHI , Operand: 1420
+Offset: 30, PUSHS , Operand: 
+Offset: 31, PUSHI , Operand: 48889874
+Offset: 32, setInterfaceDefinitionScriptParams8 , Operand: 0
+Offset: 33, PUSHI , Operand: 1420
+Offset: 34, PUSHS , Operand: 
+Offset: 35, PUSHI , Operand: 35913850
+Offset: 36, setInterfaceDefinitionScriptParams8 , Operand: 0
+Offset: 37, RETURN , Operand: 0

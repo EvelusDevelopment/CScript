@@ -1,0 +1,170 @@
+================================================
+      Client Script 1816 Dumped by SiniSoul    
+      Instruction Size: 143
+      Integer Arguments: 6 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADGINT , Operand: 268
+Offset: 1, SWITCH , Operand: 0
+Offset: 2, GOTO , Operand: 121
+Offset: 3, LOADINT , Operand: 0
+Offset: 4, LOADINT , Operand: 1
+Offset: 5, LOADINT , Operand: 2
+Offset: 6, LOADINT , Operand: 3
+Offset: 7, LOADINT , Operand: 4
+Offset: 8, LOADINT , Operand: 5
+Offset: 9, CALL , Operand: 1817
+Offset: 10, PUSHS , Operand: Your clan knocked the enemy right out of the arena.
+Offset: 11, LOADINT , Operand: 2
+Offset: 12, Unref Method: 2112, Operand: 0
+Offset: 13, GOTO , Operand: 128
+Offset: 14, LOADINT , Operand: 0
+Offset: 15, LOADINT , Operand: 1
+Offset: 16, LOADINT , Operand: 2
+Offset: 17, LOADINT , Operand: 3
+Offset: 18, LOADINT , Operand: 4
+Offset: 19, LOADINT , Operand: 5
+Offset: 20, CALL , Operand: 1817
+Offset: 21, PUSHS , Operand: Your clan reached the target kill-count.
+Offset: 22, LOADINT , Operand: 2
+Offset: 23, Unref Method: 2112, Operand: 0
+Offset: 24, GOTO , Operand: 117
+Offset: 25, LOADINT , Operand: 0
+Offset: 26, LOADINT , Operand: 1
+Offset: 27, LOADINT , Operand: 2
+Offset: 28, LOADINT , Operand: 3
+Offset: 29, LOADINT , Operand: 4
+Offset: 30, LOADINT , Operand: 5
+Offset: 31, CALL , Operand: 1817
+Offset: 32, PUSHS , Operand: Your clan had the highest kill-count when the time expired.
+Offset: 33, LOADINT , Operand: 2
+Offset: 34, Unref Method: 2112, Operand: 0
+Offset: 35, GOTO , Operand: 106
+Offset: 36, LOADINT , Operand: 0
+Offset: 37, LOADINT , Operand: 1
+Offset: 38, LOADINT , Operand: 2
+Offset: 39, LOADINT , Operand: 3
+Offset: 40, LOADINT , Operand: 4
+Offset: 41, LOADINT , Operand: 5
+Offset: 42, CALL , Operand: 1817
+Offset: 43, PUSHS , Operand: Your clan had the most survivors when the time expired.
+Offset: 44, LOADINT , Operand: 2
+Offset: 45, Unref Method: 2112, Operand: 0
+Offset: 46, GOTO , Operand: 95
+Offset: 47, LOADINT , Operand: 0
+Offset: 48, LOADINT , Operand: 1
+Offset: 49, LOADINT , Operand: 2
+Offset: 50, LOADINT , Operand: 3
+Offset: 51, LOADINT , Operand: 4
+Offset: 52, LOADINT , Operand: 5
+Offset: 53, CALL , Operand: 1818
+Offset: 54, PUSHS , Operand: Your clan was knocked right out of the arena.
+Offset: 55, LOADINT , Operand: 2
+Offset: 56, Unref Method: 2112, Operand: 0
+Offset: 57, GOTO , Operand: 84
+Offset: 58, LOADINT , Operand: 0
+Offset: 59, LOADINT , Operand: 1
+Offset: 60, LOADINT , Operand: 2
+Offset: 61, LOADINT , Operand: 3
+Offset: 62, LOADINT , Operand: 4
+Offset: 63, LOADINT , Operand: 5
+Offset: 64, CALL , Operand: 1818
+Offset: 65, PUSHS , Operand: Your enemy reached the target kill-count.
+Offset: 66, LOADINT , Operand: 2
+Offset: 67, Unref Method: 2112, Operand: 0
+Offset: 68, GOTO , Operand: 73
+Offset: 69, LOADINT , Operand: 0
+Offset: 70, LOADINT , Operand: 1
+Offset: 71, LOADINT , Operand: 2
+Offset: 72, LOADINT , Operand: 3
+Offset: 73, LOADINT , Operand: 4
+Offset: 74, LOADINT , Operand: 5
+Offset: 75, CALL , Operand: 1818
+Offset: 76, PUSHS , Operand: Your enemy had the highest kill-count when the time expired.
+Offset: 77, LOADINT , Operand: 2
+Offset: 78, Unref Method: 2112, Operand: 0
+Offset: 79, GOTO , Operand: 62
+Offset: 80, LOADINT , Operand: 0
+Offset: 81, LOADINT , Operand: 1
+Offset: 82, LOADINT , Operand: 2
+Offset: 83, LOADINT , Operand: 3
+Offset: 84, LOADINT , Operand: 4
+Offset: 85, LOADINT , Operand: 5
+Offset: 86, CALL , Operand: 1818
+Offset: 87, PUSHS , Operand: Your enemy had the most survivors when the time expired.
+Offset: 88, LOADINT , Operand: 2
+Offset: 89, Unref Method: 2112, Operand: 0
+Offset: 90, GOTO , Operand: 51
+Offset: 91, LOADINT , Operand: 0
+Offset: 92, LOADINT , Operand: 1
+Offset: 93, LOADINT , Operand: 2
+Offset: 94, LOADINT , Operand: 3
+Offset: 95, LOADINT , Operand: 4
+Offset: 96, LOADINT , Operand: 5
+Offset: 97, CALL , Operand: 1819
+Offset: 98, PUSHS , Operand: The match was aborted due to a lack of fighters.
+Offset: 99, LOADINT , Operand: 2
+Offset: 100, Unref Method: 2112, Operand: 0
+Offset: 101, GOTO , Operand: 40
+Offset: 102, LOADINT , Operand: 0
+Offset: 103, LOADINT , Operand: 1
+Offset: 104, LOADINT , Operand: 2
+Offset: 105, LOADINT , Operand: 3
+Offset: 106, LOADINT , Operand: 4
+Offset: 107, LOADINT , Operand: 5
+Offset: 108, CALL , Operand: 1819
+Offset: 109, PUSHS , Operand: Your kill-counts were equal.
+Offset: 110, LOADINT , Operand: 2
+Offset: 111, Unref Method: 2112, Operand: 0
+Offset: 112, GOTO , Operand: 29
+Offset: 113, LOADINT , Operand: 0
+Offset: 114, LOADINT , Operand: 1
+Offset: 115, LOADINT , Operand: 2
+Offset: 116, LOADINT , Operand: 3
+Offset: 117, LOADINT , Operand: 4
+Offset: 118, LOADINT , Operand: 5
+Offset: 119, CALL , Operand: 1819
+Offset: 120, PUSHS , Operand: You had equal numbers of survivors.
+Offset: 121, LOADINT , Operand: 2
+Offset: 122, Unref Method: 2112, Operand: 0
+Offset: 123, GOTO , Operand: 18
+Offset: 124, PUSHI , Operand: 1
+Offset: 125, LOADINT , Operand: 0
+Offset: 126, Unref Method: 2003, Operand: 0
+Offset: 127, PUSHI , Operand: 1
+Offset: 128, LOADINT , Operand: 1
+Offset: 129, Unref Method: 2003, Operand: 0
+Offset: 130, PUSHI , Operand: 1
+Offset: 131, LOADINT , Operand: 2
+Offset: 132, Unref Method: 2003, Operand: 0
+Offset: 133, PUSHI , Operand: 1
+Offset: 134, LOADINT , Operand: 3
+Offset: 135, Unref Method: 2003, Operand: 0
+Offset: 136, PUSHI , Operand: 1
+Offset: 137, LOADINT , Operand: 4
+Offset: 138, Unref Method: 2003, Operand: 0
+Offset: 139, PUSHI , Operand: 1
+Offset: 140, LOADINT , Operand: 5
+Offset: 141, Unref Method: 2003, Operand: 0
+Offset: 142, RETURN , Operand: 0
+
+================================================
+                Switch Table 0                
+================================================
+
+Key: 1, Value: 89
+Key: 2, Value: 100
+Key: 3, Value: 111
+Key: 4, Value: 1
+Key: 5, Value: 12
+Key: 6, Value: 23
+Key: 7, Value: 34
+Key: 8, Value: 45
+Key: 9, Value: 56
+Key: 10, Value: 67
+Key: 11, Value: 78

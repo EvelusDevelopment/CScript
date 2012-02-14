@@ -1,0 +1,24 @@
+================================================
+      Client Script 2633 Dumped by SiniSoul    
+      Instruction Size: 13
+      Integer Arguments: 1 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADINT , Operand: 0
+Offset: 1, PUSHI , Operand: 56295424
+Offset: 2, IFNE , Operand: 1
+Offset: 3, GOTO , Operand: 2
+Offset: 4, LOADINT , Operand: 0
+Offset: 5, CALL , Operand: 679
+Offset: 6, PUSHS , Operand: 
+Offset: 7, PUSHI , Operand: 56295452
+Offset: 8, Unref Method: 2112, Operand: 0
+Offset: 9, PUSHS , Operand: 
+Offset: 10, PUSHI , Operand: 56295453
+Offset: 11, Unref Method: 2112, Operand: 0
+Offset: 12, RETURN , Operand: 0

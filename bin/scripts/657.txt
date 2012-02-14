@@ -1,0 +1,25 @@
+================================================
+      Client Script 657 Dumped by SiniSoul    
+      Instruction Size: 14
+      Integer Arguments: 1 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHI , Operand: 0
+Offset: 1, STOREINT , Operand: 0
+Offset: 2, LOADINT , Operand: 0
+Offset: 3, PUSHI , Operand: 6
+Offset: 4, IFLT , Operand: 1
+Offset: 5, GOTO , Operand: 7
+Offset: 6, LOADINT , Operand: 0
+Offset: 7, CALL , Operand: 662
+Offset: 8, LOADINT , Operand: 0
+Offset: 9, PUSHI , Operand: 1
+Offset: 10, IADD , Operand: 0
+Offset: 11, STOREINT , Operand: 0
+Offset: 12, GOTO , Operand: -11
+Offset: 13, RETURN , Operand: 0

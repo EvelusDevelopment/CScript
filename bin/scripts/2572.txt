@@ -1,0 +1,39 @@
+================================================
+      Client Script 2572 Dumped by SiniSoul    
+      Instruction Size: 28
+      Integer Arguments: 0 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHI , Operand: 93
+Offset: 1, PUSHI , Operand: 803
+Offset: 2, Unref Method: 3331, Operand: 0
+Offset: 3, PUSHI , Operand: 93
+Offset: 4, PUSHI , Operand: 802
+Offset: 5, Unref Method: 3331, Operand: 0
+Offset: 6, IADD , Operand: 0
+Offset: 7, Unref Opcode: 25, Operand: 6429
+Offset: 8, IFLT , Operand: 1
+Offset: 9, GOTO , Operand: 1
+Offset: 10, RETURN , Operand: 0
+Offset: 11, Unref Opcode: 25, Operand: 6429
+Offset: 12, PUSHI , Operand: 0
+Offset: 13, IFGT , Operand: 1
+Offset: 14, GOTO , Operand: 9
+Offset: 15, Unref Opcode: 25, Operand: 6429
+Offset: 16, PUSHI , Operand: 11
+Offset: 17, IFLT , Operand: 1
+Offset: 18, GOTO , Operand: 5
+Offset: 19, Unref Opcode: 25, Operand: 6429
+Offset: 20, PUSHI , Operand: 1
+Offset: 21, ISUB , Operand: 0
+Offset: 22, STOREGINT , Operand: 929
+Offset: 23, GOTO , Operand: 2
+Offset: 24, PUSHI , Operand: 0
+Offset: 25, STOREGINT , Operand: 929
+Offset: 26, CALL , Operand: 2573
+Offset: 27, RETURN , Operand: 0

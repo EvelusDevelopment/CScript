@@ -1,0 +1,46 @@
+================================================
+      Client Script 278 Dumped by SiniSoul    
+      Instruction Size: 24
+      Integer Arguments: 1 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADINT , Operand: 0
+Offset: 1, SWITCH , Operand: 0
+Offset: 2, GOTO , Operand: 17
+Offset: 3, PUSHS , Operand: Standard
+Offset: 4, RETURN , Operand: 0
+Offset: 5, GOTO , Operand: 14
+Offset: 6, PUSHS , Operand: Large
+Offset: 7, RETURN , Operand: 0
+Offset: 8, GOTO , Operand: 11
+Offset: 9, PUSHS , Operand: Slim
+Offset: 10, RETURN , Operand: 0
+Offset: 11, GOTO , Operand: 8
+Offset: 12, PUSHS , Operand: Double
+Offset: 13, RETURN , Operand: 0
+Offset: 14, GOTO , Operand: 5
+Offset: 15, PUSHS , Operand: Wood
+Offset: 16, RETURN , Operand: 0
+Offset: 17, GOTO , Operand: 2
+Offset: 18, PUSHS , Operand: Bone
+Offset: 19, RETURN , Operand: 0
+Offset: 20, PUSHS , Operand: Unknown hook
+Offset: 21, RETURN , Operand: 0
+Offset: 22, PUSHS , Operand: 
+Offset: 23, RETURN , Operand: 0
+
+================================================
+                Switch Table 0                
+================================================
+
+Key: 1, Value: 1
+Key: 2, Value: 7
+Key: 3, Value: 4
+Key: 4, Value: 16
+Key: 5, Value: 13
+Key: 6, Value: 10

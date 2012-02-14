@@ -1,0 +1,26 @@
+================================================
+      Client Script 3684 Dumped by SiniSoul    
+      Instruction Size: 15
+      Integer Arguments: 0 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, Unref Opcode: 25, Operand: 4393
+Offset: 1, PUSHI , Operand: 1
+Offset: 2, IFEQ , Operand: 4
+Offset: 3, Unref Opcode: 25, Operand: 542
+Offset: 4, PUSHI , Operand: 1
+Offset: 5, IFEQ , Operand: 1
+Offset: 6, GOTO , Operand: 1
+Offset: 7, RETURN , Operand: 0
+Offset: 8, PUSHI , Operand: 12255242
+Offset: 9, PUSHI , Operand: 12255248
+Offset: 10, PUSHS , Operand: Click here to search for a song
+Offset: 11, PUSHI , Operand: 25
+Offset: 12, PUSHI , Operand: 189
+Offset: 13, CALL , Operand: 39
+Offset: 14, RETURN , Operand: 0

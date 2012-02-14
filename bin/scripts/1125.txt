@@ -1,0 +1,21 @@
+================================================
+      Client Script 1125 Dumped by SiniSoul    
+      Instruction Size: 10
+      Integer Arguments: 1 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHI , Operand: 1
+Offset: 1, STOREGINT , Operand: 993
+Offset: 2, Unref Opcode: 25, Operand: 2668
+Offset: 3, PUSHI , Operand: 0
+Offset: 4, IFEQ , Operand: 1
+Offset: 5, GOTO , Operand: 3
+Offset: 6, PUSHI , Operand: 1702
+Offset: 7, LOADINT , Operand: 0
+Offset: 8, Unref Method: 2105, Operand: 0
+Offset: 9, RETURN , Operand: 0

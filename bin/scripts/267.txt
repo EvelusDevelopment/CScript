@@ -1,0 +1,101 @@
+================================================
+      Client Script 267 Dumped by SiniSoul    
+      Instruction Size: 90
+      Integer Arguments: 4 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, CALL , Operand: 269
+Offset: 1, PUSHI , Operand: 5
+Offset: 2, IFGTEQ , Operand: 1
+Offset: 3, GOTO , Operand: 1
+Offset: 4, RETURN , Operand: 0
+Offset: 5, PUSHI , Operand: 5
+Offset: 6, NEWARRAY , Operand: 105
+Offset: 7, PUSHI , Operand: 0
+Offset: 8, LOADGINT , Operand: 1104
+Offset: 9, AALOAD , Operand: 0
+Offset: 10, PUSHI , Operand: 1
+Offset: 11, LOADGINT , Operand: 1105
+Offset: 12, AALOAD , Operand: 0
+Offset: 13, PUSHI , Operand: 2
+Offset: 14, LOADGINT , Operand: 1106
+Offset: 15, AALOAD , Operand: 0
+Offset: 16, PUSHI , Operand: 3
+Offset: 17, LOADGINT , Operand: 1107
+Offset: 18, AALOAD , Operand: 0
+Offset: 19, PUSHI , Operand: 4
+Offset: 20, LOADGINT , Operand: 1108
+Offset: 21, AALOAD , Operand: 0
+Offset: 22, PUSHI , Operand: 5
+Offset: 23, NEWARRAY , Operand: 65641
+Offset: 24, PUSHI , Operand: 0
+Offset: 25, STOREINT , Operand: 1
+Offset: 26, PUSHI , Operand: 0
+Offset: 27, STOREINT , Operand: 2
+Offset: 28, PUSHI , Operand: 3
+Offset: 29, STOREINT , Operand: 3
+Offset: 30, LOADINT , Operand: 3
+Offset: 31, PUSHI , Operand: 0
+Offset: 32, IFGT , Operand: 1
+Offset: 33, GOTO , Operand: 39
+Offset: 34, LOADINT , Operand: 0
+Offset: 35, LOADINT , Operand: 3
+Offset: 36, IFEQ , Operand: 1
+Offset: 37, GOTO , Operand: 7
+Offset: 38, LOADINT , Operand: 2
+Offset: 39, LOADINT , Operand: 0
+Offset: 40, AALOAD , Operand: 1
+Offset: 41, LOADINT , Operand: 2
+Offset: 42, PUSHI , Operand: 1
+Offset: 43, IADD , Operand: 0
+Offset: 44, STOREINT , Operand: 2
+Offset: 45, PUSHI , Operand: 0
+Offset: 46, STOREINT , Operand: 1
+Offset: 47, LOADINT , Operand: 1
+Offset: 48, PUSHI , Operand: 5
+Offset: 49, IFLT , Operand: 1
+Offset: 50, GOTO , Operand: 17
+Offset: 51, LOADINT , Operand: 1
+Offset: 52, AASTORE , Operand: 0
+Offset: 53, LOADINT , Operand: 3
+Offset: 54, IFEQ , Operand: 1
+Offset: 55, GOTO , Operand: 7
+Offset: 56, LOADINT , Operand: 2
+Offset: 57, LOADINT , Operand: 3
+Offset: 58, AALOAD , Operand: 1
+Offset: 59, LOADINT , Operand: 2
+Offset: 60, PUSHI , Operand: 1
+Offset: 61, IADD , Operand: 0
+Offset: 62, STOREINT , Operand: 2
+Offset: 63, LOADINT , Operand: 1
+Offset: 64, PUSHI , Operand: 1
+Offset: 65, IADD , Operand: 0
+Offset: 66, STOREINT , Operand: 1
+Offset: 67, GOTO , Operand: -21
+Offset: 68, LOADINT , Operand: 3
+Offset: 69, PUSHI , Operand: 1
+Offset: 70, ISUB , Operand: 0
+Offset: 71, STOREINT , Operand: 3
+Offset: 72, GOTO , Operand: -43
+Offset: 73, PUSHI , Operand: 0
+Offset: 74, AASTORE , Operand: 1
+Offset: 75, STOREGINT , Operand: 1104
+Offset: 76, PUSHI , Operand: 1
+Offset: 77, AASTORE , Operand: 1
+Offset: 78, STOREGINT , Operand: 1105
+Offset: 79, PUSHI , Operand: 2
+Offset: 80, AASTORE , Operand: 1
+Offset: 81, STOREGINT , Operand: 1106
+Offset: 82, PUSHI , Operand: 3
+Offset: 83, AASTORE , Operand: 1
+Offset: 84, STOREGINT , Operand: 1107
+Offset: 85, PUSHI , Operand: 4
+Offset: 86, AASTORE , Operand: 1
+Offset: 87, STOREGINT , Operand: 1108
+Offset: 88, CALL , Operand: 261
+Offset: 89, RETURN , Operand: 0

@@ -1,0 +1,58 @@
+================================================
+      Client Script 2962 Dumped by SiniSoul    
+      Instruction Size: 47
+      Integer Arguments: 7 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, Unref Method: 3300, Operand: 0
+Offset: 1, LOADINT , Operand: 6
+Offset: 2, IFGTEQ , Operand: 1
+Offset: 3, GOTO , Operand: 42
+Offset: 4, LOADGINT , Operand: 176
+Offset: 5, PUSHI , Operand: 2
+Offset: 6, IADD , Operand: 0
+Offset: 7, STOREGINT , Operand: 176
+Offset: 8, PUSHI , Operand: 1249
+Offset: 9, LOADINT , Operand: 0
+Offset: 10, LOADINT , Operand: 2
+Offset: 11, LOADINT , Operand: 1
+Offset: 12, PUSHS , Operand: III
+Offset: 13, LOADINT , Operand: 0
+Offset: 14, setInterfaceDefinitionScriptParams8 , Operand: 0
+Offset: 15, PUSHI , Operand: 0
+Offset: 16, STOREGINT , Operand: 177
+Offset: 17, PUSHI , Operand: 2713
+Offset: 18, LOADINT , Operand: 0
+Offset: 19, LOADINT , Operand: 1
+Offset: 20, LOADINT , Operand: 2
+Offset: 21, LOADINT , Operand: 3
+Offset: 22, LOADINT , Operand: 4
+Offset: 23, LOADINT , Operand: 5
+Offset: 24, PUSHS , Operand: IIIIII
+Offset: 25, LOADINT , Operand: 3
+Offset: 26, setInterfaceDefinitionScriptParams0 , Operand: 0
+Offset: 27, PUSHI , Operand: 2961
+Offset: 28, LOADINT , Operand: 4
+Offset: 29, LOADINT , Operand: 5
+Offset: 30, PUSHI , Operand: 1
+Offset: 31, PUSHS , Operand: II1
+Offset: 32, LOADINT , Operand: 3
+Offset: 33, setInterfaceDefinitionScriptParams12 , Operand: 0
+Offset: 34, PUSHI , Operand: 2961
+Offset: 35, LOADINT , Operand: 4
+Offset: 36, LOADINT , Operand: 5
+Offset: 37, PUSHI , Operand: 0
+Offset: 38, PUSHS , Operand: II1
+Offset: 39, LOADINT , Operand: 3
+Offset: 40, setInterfaceDefinitionScriptParams4 , Operand: 0
+Offset: 41, PUSHI , Operand: 2703
+Offset: 42, LOADINT , Operand: 4
+Offset: 43, Unref Method: 2105, Operand: 0
+Offset: 44, PUSHI , Operand: 0
+Offset: 45, STOREGINT , Operand: 986
+Offset: 46, RETURN , Operand: 0

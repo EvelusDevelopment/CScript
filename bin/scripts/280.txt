@@ -1,0 +1,33 @@
+================================================
+      Client Script 280 Dumped by SiniSoul    
+      Instruction Size: 22
+      Integer Arguments: 0 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHI , Operand: 281
+Offset: 1, PUSHI , Operand: 1118
+Offset: 2, PUSHI , Operand: 1119
+Offset: 3, PUSHI , Operand: 1120
+Offset: 4, PUSHI , Operand: 1121
+Offset: 5, PUSHI , Operand: 4
+Offset: 6, PUSHS , Operand: Y
+Offset: 7, PUSHI , Operand: 60620800
+Offset: 8, setInterfaceDefinitionScriptParams28 , Operand: 0
+Offset: 9, PUSHI , Operand: 281
+Offset: 10, PUSHI , Operand: 1660
+Offset: 11, PUSHI , Operand: 1661
+Offset: 12, PUSHI , Operand: 2
+Offset: 13, PUSHS , Operand: Y
+Offset: 14, PUSHI , Operand: 60620800
+Offset: 15, setInterfaceDefinitionScriptParams7 , Operand: 0
+Offset: 16, Unref Opcode: 25, Operand: 7285
+Offset: 17, integerToString , Operand: 0
+Offset: 18, PUSHI , Operand: 60620878
+Offset: 19, Unref Method: 2112, Operand: 0
+Offset: 20, RETURN , Operand: 0
+Offset: 21, RETURN , Operand: 0

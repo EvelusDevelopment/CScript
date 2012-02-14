@@ -1,0 +1,503 @@
+================================================
+      Client Script 973 Dumped by SiniSoul    
+      Instruction Size: 492
+      Integer Arguments: 16 
+      String  Arguments: 3 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, Unref Opcode: 25, Operand: 4729
+Offset: 1, STOREINT , Operand: 0
+Offset: 2, Unref Opcode: 25, Operand: 4729
+Offset: 3, PUSHI , Operand: 1
+Offset: 4, IFLT , Operand: 4
+Offset: 5, Unref Opcode: 25, Operand: 4729
+Offset: 6, PUSHI , Operand: 25
+Offset: 7, IFGT , Operand: 1
+Offset: 8, GOTO , Operand: 1
+Offset: 9, RETURN , Operand: 0
+Offset: 10, PUSHI , Operand: 1477
+Offset: 11, LOADINT , Operand: 0
+Offset: 12, Unref Method: 3400, Operand: 0
+Offset: 13, STORESTR , Operand: 0
+Offset: 14, PUSHI , Operand: 105
+Offset: 15, PUSHI , Operand: 83
+Offset: 16, PUSHI , Operand: 681
+Offset: 17, LOADINT , Operand: 0
+Offset: 18, Unref Method: 3408, Operand: 0
+Offset: 19, STOREINT , Operand: 1
+Offset: 20, PUSHI , Operand: 105
+Offset: 21, PUSHI , Operand: 100
+Offset: 22, PUSHI , Operand: 1478
+Offset: 23, LOADINT , Operand: 0
+Offset: 24, Unref Method: 3408, Operand: 0
+Offset: 25, STOREINT , Operand: 2
+Offset: 26, PUSHI , Operand: 1
+Offset: 27, STOREINT , Operand: 3
+Offset: 28, LOADINT , Operand: 0
+Offset: 29, PUSHI , Operand: 0
+Offset: 30, IFNE , Operand: 1
+Offset: 31, GOTO , Operand: 22
+Offset: 32, LOADINT , Operand: 0
+Offset: 33, PUSHI , Operand: 9
+Offset: 34, IFEQ , Operand: 1
+Offset: 35, GOTO , Operand: 7
+Offset: 36, LOADINT , Operand: 1
+Offset: 37, Unref Method: 3306, Operand: 0
+Offset: 38, PUSHI , Operand: 3
+Offset: 39, IFEQ , Operand: 1
+Offset: 40, GOTO , Operand: 2
+Offset: 41, PUSHS , Operand: You've just advanced 2 Herblore levels!
+Offset: 42, STORESTR , Operand: 0
+Offset: 43, LOADINT , Operand: 0
+Offset: 44, PUSHI , Operand: 24
+Offset: 45, IFEQ , Operand: 1
+Offset: 46, GOTO , Operand: 7
+Offset: 47, LOADINT , Operand: 1
+Offset: 48, Unref Method: 3306, Operand: 0
+Offset: 49, PUSHI , Operand: 4
+Offset: 50, IFEQ , Operand: 1
+Offset: 51, GOTO , Operand: 2
+Offset: 52, PUSHS , Operand: You've just advanced 3 Summoning levels!
+Offset: 53, STORESTR , Operand: 0
+Offset: 54, LOADSTR , Operand: 0
+Offset: 55, PUSHI , Operand: 48562180
+Offset: 56, Unref Method: 2112, Operand: 0
+Offset: 57, PUSHS , Operand: You have now reached level 
+Offset: 58, LOADINT , Operand: 1
+Offset: 59, Unref Method: 3306, Operand: 0
+Offset: 60, integerToString , Operand: 0
+Offset: 61, PUSHS , Operand: .
+Offset: 62, CONCAT , Operand: 3
+Offset: 63, PUSHI , Operand: 48562182
+Offset: 64, Unref Method: 2112, Operand: 0
+Offset: 65, LOADINT , Operand: 2
+Offset: 66, PUSHI , Operand: 48562183
+Offset: 67, Unref Method: 2105, Operand: 0
+Offset: 68, PUSHI , Operand: 0
+Offset: 69, STOREINT , Operand: 4
+Offset: 70, PUSHI , Operand: 0
+Offset: 71, STOREINT , Operand: 5
+Offset: 72, PUSHI , Operand: 0
+Offset: 73, STOREINT , Operand: 6
+Offset: 74, PUSHS , Operand: 
+Offset: 75, STORESTR , Operand: 1
+Offset: 76, PUSHI , Operand: 0
+Offset: 77, STOREINT , Operand: 7
+Offset: 78, PUSHI , Operand: -1
+Offset: 79, STOREINT , Operand: 8
+Offset: 80, PUSHI , Operand: 2287
+Offset: 81, STOREINT , Operand: 9
+Offset: 82, LOADINT , Operand: 9
+Offset: 83, STOREINT , Operand: 10
+Offset: 84, PUSHI , Operand: 0
+Offset: 85, STOREINT , Operand: 11
+Offset: 86, PUSHI , Operand: 48562178
+Offset: 87, Unref Method: 102, Operand: 0
+Offset: 88, PUSHI , Operand: 48562179
+Offset: 89, Unref Method: 102, Operand: 0
+Offset: 90, Unref Opcode: 1, Operand: 281
+Offset: 91, PUSHI , Operand: 1000
+Offset: 92, IFLT , Operand: 1
+Offset: 93, GOTO , Operand: 28
+Offset: 94, LOADINT , Operand: 1
+Offset: 95, Unref Method: 3306, Operand: 0
+Offset: 96, PUSHI , Operand: 3
+Offset: 97, IFEQ , Operand: 1
+Offset: 98, GOTO , Operand: 23
+Offset: 99, PUSHS , Operand: <col=000080>
+Offset: 100, PUSHS , Operand: You've now reached the highest skill level that you can achieve during the tutorial. Once you finish the tutorial, you can advance this skill even further!
+Offset: 101, CONCAT , Operand: 2
+Offset: 102, STORESTR , Operand: 1
+Offset: 103, LOADINT , Operand: 4
+Offset: 104, LOADINT , Operand: 5
+Offset: 105, PUSHI , Operand: 7620
+Offset: 106, LOADINT , Operand: 9
+Offset: 107, LOADSTR , Operand: 1
+Offset: 108, PUSHI , Operand: 0
+Offset: 109, PUSHI , Operand: 0
+Offset: 110, CALL , Operand: 974
+Offset: 111, STOREINT , Operand: 6
+Offset: 112, LOADSTR , Operand: 1
+Offset: 113, Unref Method: 1112, Operand: 0
+Offset: 114, LOADINT , Operand: 5
+Offset: 115, LOADINT , Operand: 6
+Offset: 116, CALL , Operand: 975
+Offset: 117, STOREINT , Operand: 5
+Offset: 118, PUSHI , Operand: 2
+Offset: 119, LOADINT , Operand: 4
+Offset: 120, IADD , Operand: 0
+Offset: 121, STOREINT , Operand: 4
+Offset: 122, Unref Opcode: 25, Operand: 4730
+Offset: 123, PUSHI , Operand: 1
+Offset: 124, IFEQ , Operand: 1
+Offset: 125, GOTO , Operand: 30
+Offset: 126, PUSHS , Operand: <col=800000>
+Offset: 127, PUSHS , Operand: Well done! You've reached the total level 
+Offset: 128, PUSHI , Operand: 105
+Offset: 129, PUSHI , Operand: 105
+Offset: 130, PUSHI , Operand: 1475
+Offset: 131, Unref Opcode: 25, Operand: 4728
+Offset: 132, Unref Method: 3408, Operand: 0
+Offset: 133, integerToString , Operand: 0
+Offset: 134, PUSHS , Operand:  milestone!
+Offset: 135, CONCAT , Operand: 4
+Offset: 136, STORESTR , Operand: 1
+Offset: 137, LOADINT , Operand: 4
+Offset: 138, LOADINT , Operand: 5
+Offset: 139, PUSHI , Operand: 7620
+Offset: 140, LOADINT , Operand: 9
+Offset: 141, LOADSTR , Operand: 1
+Offset: 142, PUSHI , Operand: 0
+Offset: 143, PUSHI , Operand: 0
+Offset: 144, CALL , Operand: 974
+Offset: 145, STOREINT , Operand: 6
+Offset: 146, LOADSTR , Operand: 1
+Offset: 147, Unref Method: 1112, Operand: 0
+Offset: 148, LOADINT , Operand: 5
+Offset: 149, LOADINT , Operand: 6
+Offset: 150, CALL , Operand: 975
+Offset: 151, STOREINT , Operand: 5
+Offset: 152, PUSHI , Operand: 2
+Offset: 153, LOADINT , Operand: 4
+Offset: 154, IADD , Operand: 0
+Offset: 155, STOREINT , Operand: 4
+Offset: 156, PUSHI , Operand: 0
+Offset: 157, STOREINT , Operand: 7
+Offset: 158, PUSHS , Operand: null
+Offset: 159, STORESTR , Operand: 1
+Offset: 160, PUSHI , Operand: 7620
+Offset: 161, STOREINT , Operand: 8
+Offset: 162, LOADINT , Operand: 0
+Offset: 163, PUSHI , Operand: 1
+Offset: 164, IFEQ , Operand: 22
+Offset: 165, LOADINT , Operand: 0
+Offset: 166, PUSHI , Operand: 2
+Offset: 167, IFEQ , Operand: 19
+Offset: 168, LOADINT , Operand: 0
+Offset: 169, PUSHI , Operand: 5
+Offset: 170, IFEQ , Operand: 16
+Offset: 171, LOADINT , Operand: 0
+Offset: 172, PUSHI , Operand: 3
+Offset: 173, IFEQ , Operand: 13
+Offset: 174, LOADINT , Operand: 0
+Offset: 175, PUSHI , Operand: 7
+Offset: 176, IFEQ , Operand: 10
+Offset: 177, LOADINT , Operand: 0
+Offset: 178, PUSHI , Operand: 4
+Offset: 179, IFEQ , Operand: 7
+Offset: 180, LOADINT , Operand: 0
+Offset: 181, PUSHI , Operand: 6
+Offset: 182, IFEQ , Operand: 4
+Offset: 183, LOADINT , Operand: 0
+Offset: 184, PUSHI , Operand: 24
+Offset: 185, IFEQ , Operand: 1
+Offset: 186, GOTO , Operand: 75
+Offset: 187, Unref Opcode: 25, Operand: 4731
+Offset: 188, PUSHI , Operand: 1
+Offset: 189, IFEQ , Operand: 1
+Offset: 190, GOTO , Operand: 30
+Offset: 191, PUSHS , Operand: <col=800000>
+Offset: 192, PUSHS , Operand: Well done! You've reached the Combat level 
+Offset: 193, PUSHI , Operand: 105
+Offset: 194, PUSHI , Operand: 105
+Offset: 195, PUSHI , Operand: 1473
+Offset: 196, Unref Opcode: 25, Operand: 4727
+Offset: 197, Unref Method: 3408, Operand: 0
+Offset: 198, integerToString , Operand: 0
+Offset: 199, PUSHS , Operand:  milestone!
+Offset: 200, CONCAT , Operand: 4
+Offset: 201, STORESTR , Operand: 1
+Offset: 202, LOADINT , Operand: 4
+Offset: 203, LOADINT , Operand: 5
+Offset: 204, PUSHI , Operand: 7620
+Offset: 205, LOADINT , Operand: 9
+Offset: 206, LOADSTR , Operand: 1
+Offset: 207, PUSHI , Operand: 0
+Offset: 208, PUSHI , Operand: 0
+Offset: 209, CALL , Operand: 974
+Offset: 210, STOREINT , Operand: 6
+Offset: 211, LOADSTR , Operand: 1
+Offset: 212, Unref Method: 1112, Operand: 0
+Offset: 213, LOADINT , Operand: 5
+Offset: 214, LOADINT , Operand: 6
+Offset: 215, CALL , Operand: 975
+Offset: 216, STOREINT , Operand: 5
+Offset: 217, PUSHI , Operand: 2
+Offset: 218, LOADINT , Operand: 4
+Offset: 219, IADD , Operand: 0
+Offset: 220, STOREINT , Operand: 4
+Offset: 221, Unref Opcode: 25, Operand: 5395
+Offset: 222, PUSHI , Operand: 1
+Offset: 223, IFEQ , Operand: 1
+Offset: 224, GOTO , Operand: 37
+Offset: 225, LOADINT , Operand: 8
+Offset: 226, PUSHI , Operand: -1
+Offset: 227, IFNE , Operand: 1
+Offset: 228, GOTO , Operand: 33
+Offset: 229, LOADINT , Operand: 7
+Offset: 230, CALL , Operand: 976
+Offset: 231, STORESTR , Operand: 1
+Offset: 232, STOREINT , Operand: 8
+Offset: 233, STOREINT , Operand: 11
+Offset: 234, LOADINT , Operand: 11
+Offset: 235, CALL , Operand: 1432
+Offset: 236, IFEQ , Operand: 1
+Offset: 237, GOTO , Operand: 19
+Offset: 238, LOADINT , Operand: 4
+Offset: 239, LOADINT , Operand: 5
+Offset: 240, LOADINT , Operand: 8
+Offset: 241, LOADINT , Operand: 9
+Offset: 242, LOADSTR , Operand: 1
+Offset: 243, PUSHI , Operand: 0
+Offset: 244, PUSHI , Operand: 0
+Offset: 245, CALL , Operand: 974
+Offset: 246, STOREINT , Operand: 6
+Offset: 247, LOADSTR , Operand: 1
+Offset: 248, Unref Method: 1112, Operand: 0
+Offset: 249, LOADINT , Operand: 5
+Offset: 250, LOADINT , Operand: 6
+Offset: 251, CALL , Operand: 975
+Offset: 252, STOREINT , Operand: 5
+Offset: 253, PUSHI , Operand: 2
+Offset: 254, LOADINT , Operand: 4
+Offset: 255, IADD , Operand: 0
+Offset: 256, STOREINT , Operand: 4
+Offset: 257, LOADINT , Operand: 7
+Offset: 258, PUSHI , Operand: 1
+Offset: 259, IADD , Operand: 0
+Offset: 260, STOREINT , Operand: 7
+Offset: 261, GOTO , Operand: -37
+Offset: 262, PUSHS , Operand: 
+Offset: 263, STORESTR , Operand: 1
+Offset: 264, PUSHI , Operand: 7620
+Offset: 265, STOREINT , Operand: 8
+Offset: 266, PUSHI , Operand: 0
+Offset: 267, STOREINT , Operand: 12
+Offset: 268, PUSHI , Operand: 0
+Offset: 269, STOREINT , Operand: 7
+Offset: 270, LOADINT , Operand: 12
+Offset: 271, PUSHI , Operand: -1
+Offset: 272, IFNE , Operand: 1
+Offset: 273, GOTO , Operand: 38
+Offset: 274, PUSHI , Operand: 0
+Offset: 275, STOREINT , Operand: 12
+Offset: 276, LOADINT , Operand: 1
+Offset: 277, LOADINT , Operand: 7
+Offset: 278, CALL , Operand: 1023
+Offset: 279, STOREINT , Operand: 12
+Offset: 280, STOREINT , Operand: 8
+Offset: 281, STORESTR , Operand: 1
+Offset: 282, LOADINT , Operand: 12
+Offset: 283, PUSHI , Operand: 1
+Offset: 284, IFEQ , Operand: 1
+Offset: 285, GOTO , Operand: 21
+Offset: 286, LOADINT , Operand: 4
+Offset: 287, LOADINT , Operand: 5
+Offset: 288, LOADINT , Operand: 8
+Offset: 289, LOADINT , Operand: 9
+Offset: 290, LOADSTR , Operand: 1
+Offset: 291, PUSHI , Operand: 0
+Offset: 292, PUSHI , Operand: 0
+Offset: 293, CALL , Operand: 974
+Offset: 294, STOREINT , Operand: 6
+Offset: 295, LOADSTR , Operand: 1
+Offset: 296, Unref Method: 1112, Operand: 0
+Offset: 297, LOADINT , Operand: 5
+Offset: 298, LOADINT , Operand: 6
+Offset: 299, CALL , Operand: 975
+Offset: 300, STOREINT , Operand: 5
+Offset: 301, PUSHI , Operand: 2
+Offset: 302, LOADINT , Operand: 4
+Offset: 303, IADD , Operand: 0
+Offset: 304, STOREINT , Operand: 4
+Offset: 305, PUSHI , Operand: 0
+Offset: 306, STOREINT , Operand: 3
+Offset: 307, LOADINT , Operand: 7
+Offset: 308, PUSHI , Operand: 1
+Offset: 309, IADD , Operand: 0
+Offset: 310, STOREINT , Operand: 7
+Offset: 311, GOTO , Operand: -42
+Offset: 312, LOADINT , Operand: 9
+Offset: 313, STOREINT , Operand: 10
+Offset: 314, PUSHI , Operand: 7620
+Offset: 315, STOREINT , Operand: 8
+Offset: 316, PUSHS , Operand: 
+Offset: 317, STORESTR , Operand: 1
+Offset: 318, PUSHI , Operand: 0
+Offset: 319, STOREINT , Operand: 7
+Offset: 320, PUSHI , Operand: 0
+Offset: 321, STOREINT , Operand: 13
+Offset: 322, PUSHI , Operand: 0
+Offset: 323, STOREINT , Operand: 14
+Offset: 324, PUSHI , Operand: 0
+Offset: 325, STOREINT , Operand: 15
+Offset: 326, PUSHS , Operand: 
+Offset: 327, STORESTR , Operand: 2
+Offset: 328, LOADINT , Operand: 0
+Offset: 329, CALL , Operand: 12
+Offset: 330, STOREINT , Operand: 13
+Offset: 331, STORESTR , Operand: 0
+Offset: 332, LOADINT , Operand: 7
+Offset: 333, LOADINT , Operand: 13
+Offset: 334, IFLT , Operand: 1
+Offset: 335, GOTO , Operand: 113
+Offset: 336, LOADINT , Operand: 0
+Offset: 337, LOADINT , Operand: 7
+Offset: 338, CALL , Operand: 13
+Offset: 339, STOREINT , Operand: 14
+Offset: 340, STORESTR , Operand: 0
+Offset: 341, PUSHI , Operand: 0
+Offset: 342, STOREINT , Operand: 15
+Offset: 343, PUSHI , Operand: 7620
+Offset: 344, STOREINT , Operand: 8
+Offset: 345, LOADINT , Operand: 9
+Offset: 346, STOREINT , Operand: 10
+Offset: 347, LOADINT , Operand: 0
+Offset: 348, LOADINT , Operand: 7
+Offset: 349, CALL , Operand: 1566
+Offset: 350, PUSHI , Operand: 1
+Offset: 351, IFEQ , Operand: 1
+Offset: 352, GOTO , Operand: 48
+Offset: 353, LOADINT , Operand: 10
+Offset: 354, PUSHI , Operand: -1
+Offset: 355, IFNE , Operand: 1
+Offset: 356, GOTO , Operand: 39
+Offset: 357, LOADINT , Operand: 0
+Offset: 358, LOADINT , Operand: 7
+Offset: 359, LOADINT , Operand: 15
+Offset: 360, CALL , Operand: 1567
+Offset: 361, STORESTR , Operand: 1
+Offset: 362, STORESTR , Operand: 2
+Offset: 363, STOREINT , Operand: 10
+Offset: 364, STOREINT , Operand: 11
+Offset: 365, LOADINT , Operand: 11
+Offset: 366, LOADINT , Operand: 1
+Offset: 367, Unref Method: 3306, Operand: 0
+Offset: 368, IFEQ , Operand: 1
+Offset: 369, GOTO , Operand: 21
+Offset: 370, LOADINT , Operand: 4
+Offset: 371, LOADINT , Operand: 5
+Offset: 372, LOADINT , Operand: 8
+Offset: 373, LOADINT , Operand: 10
+Offset: 374, LOADSTR , Operand: 1
+Offset: 375, LOADINT , Operand: 0
+Offset: 376, LOADINT , Operand: 7
+Offset: 377, CALL , Operand: 974
+Offset: 378, STOREINT , Operand: 6
+Offset: 379, LOADSTR , Operand: 1
+Offset: 380, Unref Method: 1112, Operand: 0
+Offset: 381, LOADINT , Operand: 5
+Offset: 382, LOADINT , Operand: 6
+Offset: 383, CALL , Operand: 975
+Offset: 384, STOREINT , Operand: 5
+Offset: 385, PUSHI , Operand: 2
+Offset: 386, LOADINT , Operand: 4
+Offset: 387, IADD , Operand: 0
+Offset: 388, STOREINT , Operand: 4
+Offset: 389, PUSHI , Operand: 0
+Offset: 390, STOREINT , Operand: 3
+Offset: 391, LOADINT , Operand: 15
+Offset: 392, PUSHI , Operand: 1
+Offset: 393, IADD , Operand: 0
+Offset: 394, STOREINT , Operand: 15
+Offset: 395, GOTO , Operand: -43
+Offset: 396, LOADINT , Operand: 7
+Offset: 397, PUSHI , Operand: 1
+Offset: 398, IADD , Operand: 0
+Offset: 399, STOREINT , Operand: 7
+Offset: 400, GOTO , Operand: 47
+Offset: 401, LOADINT , Operand: 8
+Offset: 402, PUSHI , Operand: -1
+Offset: 403, IFNE , Operand: 1
+Offset: 404, GOTO , Operand: 39
+Offset: 405, LOADINT , Operand: 0
+Offset: 406, LOADINT , Operand: 7
+Offset: 407, LOADINT , Operand: 15
+Offset: 408, CALL , Operand: 14
+Offset: 409, STORESTR , Operand: 1
+Offset: 410, STORESTR , Operand: 2
+Offset: 411, STOREINT , Operand: 8
+Offset: 412, STOREINT , Operand: 11
+Offset: 413, LOADINT , Operand: 11
+Offset: 414, LOADINT , Operand: 1
+Offset: 415, Unref Method: 3306, Operand: 0
+Offset: 416, IFEQ , Operand: 1
+Offset: 417, GOTO , Operand: 21
+Offset: 418, LOADINT , Operand: 4
+Offset: 419, LOADINT , Operand: 5
+Offset: 420, LOADINT , Operand: 8
+Offset: 421, LOADINT , Operand: 10
+Offset: 422, LOADSTR , Operand: 1
+Offset: 423, LOADINT , Operand: 0
+Offset: 424, LOADINT , Operand: 7
+Offset: 425, CALL , Operand: 974
+Offset: 426, STOREINT , Operand: 6
+Offset: 427, LOADSTR , Operand: 1
+Offset: 428, Unref Method: 1112, Operand: 0
+Offset: 429, LOADINT , Operand: 5
+Offset: 430, LOADINT , Operand: 6
+Offset: 431, CALL , Operand: 975
+Offset: 432, STOREINT , Operand: 5
+Offset: 433, PUSHI , Operand: 2
+Offset: 434, LOADINT , Operand: 4
+Offset: 435, IADD , Operand: 0
+Offset: 436, STOREINT , Operand: 4
+Offset: 437, PUSHI , Operand: 0
+Offset: 438, STOREINT , Operand: 3
+Offset: 439, LOADINT , Operand: 15
+Offset: 440, PUSHI , Operand: 1
+Offset: 441, IADD , Operand: 0
+Offset: 442, STOREINT , Operand: 15
+Offset: 443, GOTO , Operand: -43
+Offset: 444, LOADINT , Operand: 7
+Offset: 445, PUSHI , Operand: 1
+Offset: 446, IADD , Operand: 0
+Offset: 447, STOREINT , Operand: 7
+Offset: 448, GOTO , Operand: -117
+Offset: 449, LOADINT , Operand: 3
+Offset: 450, PUSHI , Operand: 1
+Offset: 451, IFEQ , Operand: 1
+Offset: 452, GOTO , Operand: 17
+Offset: 453, PUSHS , Operand: Check out the skill advance guide to see what you'll be able to do when you reach even higher levels...
+Offset: 454, STORESTR , Operand: 1
+Offset: 455, LOADINT , Operand: 4
+Offset: 456, LOADINT , Operand: 5
+Offset: 457, PUSHI , Operand: 7620
+Offset: 458, LOADINT , Operand: 9
+Offset: 459, LOADSTR , Operand: 1
+Offset: 460, PUSHI , Operand: 0
+Offset: 461, PUSHI , Operand: 0
+Offset: 462, CALL , Operand: 974
+Offset: 463, STOREINT , Operand: 6
+Offset: 464, LOADSTR , Operand: 1
+Offset: 465, Unref Method: 1112, Operand: 0
+Offset: 466, LOADINT , Operand: 5
+Offset: 467, LOADINT , Operand: 6
+Offset: 468, CALL , Operand: 975
+Offset: 469, STOREINT , Operand: 5
+Offset: 470, PUSHI , Operand: 0
+Offset: 471, PUSHI , Operand: 0
+Offset: 472, PUSHI , Operand: 48562178
+Offset: 473, Unref Method: 2100, Operand: 0
+Offset: 474, PUSHI , Operand: 296
+Offset: 475, LOADINT , Operand: 5
+Offset: 476, PUSHI , Operand: 48562178
+Offset: 477, Unref Method: 2120, Operand: 0
+Offset: 478, LOADINT , Operand: 5
+Offset: 479, PUSHI , Operand: 160
+Offset: 480, IFGT , Operand: 1
+Offset: 481, GOTO , Operand: 9
+Offset: 482, PUSHI , Operand: 48562179
+Offset: 483, PUSHI , Operand: 48562178
+Offset: 484, PUSHI , Operand: 798
+Offset: 485, PUSHI , Operand: 795
+Offset: 486, PUSHI , Operand: 796
+Offset: 487, PUSHI , Operand: 797
+Offset: 488, PUSHI , Operand: 793
+Offset: 489, PUSHI , Operand: 794
+Offset: 490, CALL , Operand: 31
+Offset: 491, RETURN , Operand: 0

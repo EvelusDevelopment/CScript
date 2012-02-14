@@ -1,0 +1,52 @@
+================================================
+      Client Script 1419 Dumped by SiniSoul    
+      Instruction Size: 41
+      Integer Arguments: 0 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADGINT , Operand: 11
+Offset: 1, PUSHI , Operand: 1
+Offset: 2, IFEQ , Operand: 1
+Offset: 3, GOTO , Operand: 1
+Offset: 4, CALL , Operand: 675
+Offset: 5, Unref Method: 5306, Operand: 0
+Offset: 6, PUSHI , Operand: 2
+Offset: 7, IFGTEQ , Operand: 1
+Offset: 8, GOTO , Operand: 3
+Offset: 9, PUSHI , Operand: 0
+Offset: 10, PUSHI , Operand: 48889925
+Offset: 11, Unref Method: 2003, Operand: 0
+Offset: 12, PUSHI , Operand: 0
+Offset: 13, PUSHI , Operand: 49283075
+Offset: 14, Unref Method: 2003, Operand: 0
+Offset: 15, PUSHI , Operand: 1
+Offset: 16, PUSHI , Operand: 49283079
+Offset: 17, Unref Method: 2003, Operand: 0
+Offset: 18, PUSHI , Operand: 1
+Offset: 19, PUSHI , Operand: 49283080
+Offset: 20, Unref Method: 2003, Operand: 0
+Offset: 21, PUSHS , Operand: Enter name of player to delete from list
+Offset: 22, PUSHI , Operand: 49283076
+Offset: 23, Unref Method: 2112, Operand: 0
+Offset: 24, PUSHI , Operand: 5
+Offset: 25, STOREGINT , Operand: 5
+Offset: 26, PUSHS , Operand: 
+Offset: 27, CALL , Operand: 1564
+Offset: 28, PUSHI , Operand: -1
+Offset: 29, PUSHS , Operand: 
+Offset: 30, PUSHI , Operand: 49283075
+Offset: 31, setInterfaceDefinitionScriptParams0 , Operand: 0
+Offset: 32, CALL , Operand: 2026
+Offset: 33, PUSHI , Operand: 112
+Offset: 34, PUSHI , Operand: -2147483640
+Offset: 35, PUSHI , Operand: -2147483639
+Offset: 36, PUSHS , Operand: iz
+Offset: 37, PUSHI , Operand: 49283077
+Offset: 38, setInterfaceDefinitionScriptParams19 , Operand: 0
+Offset: 39, CALL , Operand: 1188
+Offset: 40, RETURN , Operand: 0

@@ -1,0 +1,60 @@
+================================================
+      Client Script 2771 Dumped by SiniSoul    
+      Instruction Size: 41
+      Integer Arguments: 3 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, Unref Method: 3300, Operand: 0
+Offset: 1, LOADINT , Operand: 1
+Offset: 2, ISUB , Operand: 0
+Offset: 3, STOREINT , Operand: 2
+Offset: 4, LOADINT , Operand: 2
+Offset: 5, PUSHI , Operand: 181
+Offset: 6, IFGTEQ , Operand: 4
+Offset: 7, LOADGINT , Operand: 1007
+Offset: 8, PUSHI , Operand: 1
+Offset: 9, IFNE , Operand: 1
+Offset: 10, GOTO , Operand: 5
+Offset: 11, PUSHI , Operand: -1
+Offset: 12, PUSHS , Operand: 
+Offset: 13, LOADINT , Operand: 0
+Offset: 14, setInterfaceDefinitionScriptParams8 , Operand: 0
+Offset: 15, RETURN , Operand: 0
+Offset: 16, LOADINT , Operand: 2
+Offset: 17, PUSHI , Operand: 25
+Offset: 18, IMOD , Operand: 0
+Offset: 19, PUSHI , Operand: 0
+Offset: 20, IFEQ , Operand: 1
+Offset: 21, GOTO , Operand: 18
+Offset: 22, PUSHI , Operand: 2
+Offset: 23, getRandom2 , Operand: 0
+Offset: 24, SWITCH , Operand: 0
+Offset: 25, GOTO , Operand: 14
+Offset: 26, PUSHI , Operand: 6645
+Offset: 27, PUSHI , Operand: 1
+Offset: 28, PUSHI , Operand: 0
+Offset: 29, Unref Method: 3200, Operand: 0
+Offset: 30, GOTO , Operand: 9
+Offset: 31, PUSHI , Operand: 6644
+Offset: 32, PUSHI , Operand: 1
+Offset: 33, PUSHI , Operand: 0
+Offset: 34, Unref Method: 3200, Operand: 0
+Offset: 35, GOTO , Operand: 4
+Offset: 36, PUSHI , Operand: 6643
+Offset: 37, PUSHI , Operand: 1
+Offset: 38, PUSHI , Operand: 0
+Offset: 39, Unref Method: 3200, Operand: 0
+Offset: 40, RETURN , Operand: 0
+
+================================================
+                Switch Table 0                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 6
+Key: 2, Value: 11

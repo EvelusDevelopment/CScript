@@ -1,0 +1,34 @@
+================================================
+      Client Script 1236 Dumped by SiniSoul    
+      Instruction Size: 23
+      Integer Arguments: 0 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHI , Operand: -1
+Offset: 1, STOREGINT , Operand: 1063
+Offset: 2, PUSHI , Operand: 1716
+Offset: 3, PUSHI , Operand: 1584
+Offset: 4, PUSHI , Operand: 1
+Offset: 5, PUSHS , Operand: Y
+Offset: 6, PUSHI , Operand: 17760264
+Offset: 7, setInterfaceDefinitionScriptParams7 , Operand: 0
+Offset: 8, PUSHI , Operand: 1705
+Offset: 9, PUSHI , Operand: 0
+Offset: 10, PUSHI , Operand: 2
+Offset: 11, PUSHI , Operand: 1
+Offset: 12, PUSHI , Operand: 4
+Offset: 13, PUSHI , Operand: 6
+Offset: 14, PUSHI , Operand: 5
+Offset: 15, PUSHS , Operand: Y
+Offset: 16, PUSHI , Operand: 17760264
+Offset: 17, setInterfaceDefinitionScriptParams15 , Operand: 0
+Offset: 18, CALL , Operand: 1717
+Offset: 19, PUSHI , Operand: 17760262
+Offset: 20, Unref Method: 102, Operand: 0
+Offset: 21, CALL , Operand: 1704
+Offset: 22, RETURN , Operand: 0

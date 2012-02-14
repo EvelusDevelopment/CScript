@@ -1,0 +1,120 @@
+================================================
+      Client Script 811 Dumped by SiniSoul    
+      Instruction Size: 109
+      Integer Arguments: 2 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHI , Operand: 0
+Offset: 1, STOREINT , Operand: 1
+Offset: 2, LOADINT , Operand: 0
+Offset: 3, PUSHI , Operand: 1
+Offset: 4, IFGT , Operand: 1
+Offset: 5, GOTO , Operand: 1
+Offset: 6, RETURN , Operand: 0
+Offset: 7, Unref Opcode: 25, Operand: 7232
+Offset: 8, PUSHI , Operand: 0
+Offset: 9, IFEQ , Operand: 1
+Offset: 10, GOTO , Operand: 44
+Offset: 11, Unref Method: 5306, Operand: 0
+Offset: 12, PUSHI , Operand: 2
+Offset: 13, IFGTEQ , Operand: 1
+Offset: 14, GOTO , Operand: 4
+Offset: 15, PUSHI , Operand: 48890034
+Offset: 16, Unref Method: 2504, Operand: 0
+Offset: 17, STOREINT , Operand: 1
+Offset: 18, GOTO , Operand: 3
+Offset: 19, PUSHI , Operand: 35913746
+Offset: 20, Unref Method: 2504, Operand: 0
+Offset: 21, STOREINT , Operand: 1
+Offset: 22, LOADINT , Operand: 1
+Offset: 23, PUSHI , Operand: 1
+Offset: 24, IFEQ , Operand: 1
+Offset: 25, GOTO , Operand: 22
+Offset: 26, CALL , Operand: 3337
+Offset: 27, PUSHI , Operand: 1
+Offset: 28, PUSHI , Operand: 35913747
+Offset: 29, Unref Method: 2003, Operand: 0
+Offset: 30, PUSHI , Operand: -1
+Offset: 31, PUSHS , Operand: 
+Offset: 32, PUSHI , Operand: 35913746
+Offset: 33, setInterfaceDefinitionScriptParams8 , Operand: 0
+Offset: 34, PUSHI , Operand: 1
+Offset: 35, PUSHI , Operand: 48890035
+Offset: 36, Unref Method: 2003, Operand: 0
+Offset: 37, PUSHI , Operand: -1
+Offset: 38, PUSHS , Operand: 
+Offset: 39, PUSHI , Operand: 48890034
+Offset: 40, setInterfaceDefinitionScriptParams8 , Operand: 0
+Offset: 41, PUSHI , Operand: 0
+Offset: 42, PUSHI , Operand: 48890034
+Offset: 43, Unref Method: 2003, Operand: 0
+Offset: 44, PUSHI , Operand: 0
+Offset: 45, PUSHI , Operand: 35913746
+Offset: 46, Unref Method: 2003, Operand: 0
+Offset: 47, GOTO , Operand: 6
+Offset: 48, PUSHI , Operand: 1
+Offset: 49, PUSHI , Operand: 48890034
+Offset: 50, Unref Method: 2003, Operand: 0
+Offset: 51, PUSHI , Operand: 1
+Offset: 52, PUSHI , Operand: 35913746
+Offset: 53, Unref Method: 2003, Operand: 0
+Offset: 54, GOTO , Operand: 53
+Offset: 55, Unref Method: 5306, Operand: 0
+Offset: 56, PUSHI , Operand: 2
+Offset: 57, IFGTEQ , Operand: 1
+Offset: 58, GOTO , Operand: 4
+Offset: 59, PUSHI , Operand: 48890051
+Offset: 60, Unref Method: 2504, Operand: 0
+Offset: 61, STOREINT , Operand: 1
+Offset: 62, GOTO , Operand: 3
+Offset: 63, PUSHI , Operand: 35913764
+Offset: 64, Unref Method: 2504, Operand: 0
+Offset: 65, STOREINT , Operand: 1
+Offset: 66, LOADINT , Operand: 1
+Offset: 67, PUSHI , Operand: 1
+Offset: 68, IFEQ , Operand: 1
+Offset: 69, GOTO , Operand: 25
+Offset: 70, Unref Opcode: 25, Operand: 7230
+Offset: 71, integerToString , Operand: 0
+Offset: 72, PUSHS , Operand: xp
+Offset: 73, CONCAT , Operand: 2
+Offset: 74, PUSHI , Operand: 48890067
+Offset: 75, Unref Method: 2112, Operand: 0
+Offset: 76, Unref Opcode: 25, Operand: 7230
+Offset: 77, integerToString , Operand: 0
+Offset: 78, PUSHS , Operand: xp
+Offset: 79, CONCAT , Operand: 2
+Offset: 80, PUSHI , Operand: 35913784
+Offset: 81, Unref Method: 2112, Operand: 0
+Offset: 82, PUSHI , Operand: 0
+Offset: 83, PUSHI , Operand: 48890051
+Offset: 84, Unref Method: 2003, Operand: 0
+Offset: 85, PUSHI , Operand: 0
+Offset: 86, PUSHI , Operand: 35913764
+Offset: 87, Unref Method: 2003, Operand: 0
+Offset: 88, PUSHI , Operand: 0
+Offset: 89, PUSHI , Operand: 35913912
+Offset: 90, Unref Method: 2003, Operand: 0
+Offset: 91, PUSHI , Operand: 0
+Offset: 92, PUSHI , Operand: 48890076
+Offset: 93, Unref Method: 2003, Operand: 0
+Offset: 94, GOTO , Operand: 12
+Offset: 95, PUSHI , Operand: 1
+Offset: 96, PUSHI , Operand: 48890051
+Offset: 97, Unref Method: 2003, Operand: 0
+Offset: 98, PUSHI , Operand: 1
+Offset: 99, PUSHI , Operand: 35913764
+Offset: 100, Unref Method: 2003, Operand: 0
+Offset: 101, PUSHI , Operand: 1
+Offset: 102, PUSHI , Operand: 35913912
+Offset: 103, Unref Method: 2003, Operand: 0
+Offset: 104, PUSHI , Operand: 1
+Offset: 105, PUSHI , Operand: 48890076
+Offset: 106, Unref Method: 2003, Operand: 0
+Offset: 107, CALL , Operand: 776
+Offset: 108, RETURN , Operand: 0

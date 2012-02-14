@@ -1,0 +1,40 @@
+================================================
+      Client Script 3064 Dumped by SiniSoul    
+      Instruction Size: 29
+      Integer Arguments: 1 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADINT , Operand: 0
+Offset: 1, PUSHI , Operand: 1
+Offset: 2, IFEQ , Operand: 1
+Offset: 3, GOTO , Operand: 13
+Offset: 4, PUSHS , Operand: Click Here To Play
+Offset: 5, PUSHI , Operand: 59375797
+Offset: 6, Unref Method: 2112, Operand: 0
+Offset: 7, PUSHI , Operand: 1
+Offset: 8, PUSHS , Operand: Click Here To Play
+Offset: 9, PUSHI , Operand: 59375786
+Offset: 10, Unref Method: 2300, Operand: 0
+Offset: 11, PUSHI , Operand: 3061
+Offset: 12, PUSHI , Operand: 59375786
+Offset: 13, PUSHS , Operand: I
+Offset: 14, PUSHI , Operand: 59375786
+Offset: 15, setInterfaceDefinitionScriptParams9 , Operand: 0
+Offset: 16, GOTO , Operand: 9
+Offset: 17, PUSHS , Operand: Entering game...
+Offset: 18, PUSHI , Operand: 59375797
+Offset: 19, Unref Method: 2112, Operand: 0
+Offset: 20, PUSHI , Operand: 59375786
+Offset: 21, Unref Method: 2307, Operand: 0
+Offset: 22, PUSHI , Operand: -1
+Offset: 23, PUSHS , Operand: 
+Offset: 24, PUSHI , Operand: 59375786
+Offset: 25, setInterfaceDefinitionScriptParams9 , Operand: 0
+Offset: 26, LOADINT , Operand: 0
+Offset: 27, CALL , Operand: 3065
+Offset: 28, RETURN , Operand: 0

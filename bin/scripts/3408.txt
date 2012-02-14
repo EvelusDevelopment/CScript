@@ -1,0 +1,48 @@
+================================================
+      Client Script 3408 Dumped by SiniSoul    
+      Instruction Size: 37
+      Integer Arguments: 1 
+      String  Arguments: 3 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHS , Operand: <u=88ffff>
+Offset: 1, LOADSTR , Operand: 0
+Offset: 2, PUSHS , Operand: </u>
+Offset: 3, CONCAT , Operand: 3
+Offset: 4, STORESTR , Operand: 1
+Offset: 5, PUSHS , Operand: <u=64c8fa>
+Offset: 6, LOADSTR , Operand: 0
+Offset: 7, PUSHS , Operand: </u>
+Offset: 8, CONCAT , Operand: 3
+Offset: 9, STORESTR , Operand: 2
+Offset: 10, PUSHI , Operand: 1
+Offset: 11, PUSHS , Operand: Open link
+Offset: 12, LOADINT , Operand: 0
+Offset: 13, Unref Method: 2300, Operand: 0
+Offset: 14, PUSHI , Operand: 1897
+Offset: 15, PUSHS , Operand: 
+Offset: 16, LOADINT , Operand: 0
+Offset: 17, setInterfaceDefinitionScriptParams9 , Operand: 0
+Offset: 18, PUSHI , Operand: 1
+Offset: 19, PUSHI , Operand: 146
+Offset: 20, LOADINT , Operand: 0
+Offset: 21, Unref Method: 2309, Operand: 0
+Offset: 22, PUSHI , Operand: 2381
+Offset: 23, LOADINT , Operand: 0
+Offset: 24, PUSHI , Operand: 8978431
+Offset: 25, LOADSTR , Operand: 1
+Offset: 26, PUSHS , Operand: Iis
+Offset: 27, LOADINT , Operand: 0
+Offset: 28, setInterfaceDefinitionScriptParams3 , Operand: 0
+Offset: 29, PUSHI , Operand: 2381
+Offset: 30, LOADINT , Operand: 0
+Offset: 31, PUSHI , Operand: 6605050
+Offset: 32, LOADSTR , Operand: 2
+Offset: 33, PUSHS , Operand: Iis
+Offset: 34, LOADINT , Operand: 0
+Offset: 35, setInterfaceDefinitionScriptParams4 , Operand: 0
+Offset: 36, RETURN , Operand: 0

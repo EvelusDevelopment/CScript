@@ -1,0 +1,31 @@
+================================================
+      Client Script 2618 Dumped by SiniSoul    
+      Instruction Size: 11
+      Integer Arguments: 1 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADINT , Operand: 0
+Offset: 1, SWITCH , Operand: 0
+Offset: 2, GOTO , Operand: 7
+Offset: 3, Unref Method: 5507, Operand: 0
+Offset: 4, GOTO , Operand: 5
+Offset: 5, Unref Method: 5508, Operand: 0
+Offset: 6, GOTO , Operand: 3
+Offset: 7, Unref Method: 5509, Operand: 0
+Offset: 8, GOTO , Operand: 1
+Offset: 9, Unref Method: 5510, Operand: 0
+Offset: 10, RETURN , Operand: 0
+
+================================================
+                Switch Table 0                
+================================================
+
+Key: 1, Value: 1
+Key: 2, Value: 3
+Key: 3, Value: 5
+Key: 4, Value: 7

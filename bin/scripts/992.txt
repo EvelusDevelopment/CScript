@@ -1,0 +1,2001 @@
+================================================
+      Client Script 992 Dumped by SiniSoul    
+      Instruction Size: 1809
+      Integer Arguments: 2 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADINT , Operand: 0
+Offset: 1, SWITCH , Operand: 0
+Offset: 2, GOTO , Operand: 1801
+Offset: 3, LOADINT , Operand: 1
+Offset: 4, SWITCH , Operand: 1
+Offset: 5, GOTO , Operand: 234
+Offset: 6, PUSHI , Operand: 1
+Offset: 7, PUSHI , Operand: 3241
+Offset: 8, PUSHS , Operand: Man
+Offset: 9, PUSHS , Operand: You can now pickpocket 
+Offset: 10, PUSHS , Operand: <col=000080>
+Offset: 11, PUSHS , Operand: men
+Offset: 12, PUSHS , Operand: </col>
+Offset: 13, PUSHS , Operand:  and 
+Offset: 14, PUSHS , Operand: <col=000080>
+Offset: 15, PUSHS , Operand: women
+Offset: 16, PUSHS , Operand: </col>
+Offset: 17, PUSHS , Operand: .
+Offset: 18, CONCAT , Operand: 9
+Offset: 19, RETURN , Operand: 0
+Offset: 20, GOTO , Operand: 219
+Offset: 21, PUSHI , Operand: 10
+Offset: 22, PUSHI , Operand: 3243
+Offset: 23, PUSHS , Operand: Farmer
+Offset: 24, PUSHS , Operand: You can now pickpocket 
+Offset: 25, PUSHS , Operand: <col=000080>
+Offset: 26, PUSHS , Operand: farmers
+Offset: 27, PUSHS , Operand: </col>
+Offset: 28, PUSHS , Operand: .
+Offset: 29, CONCAT , Operand: 5
+Offset: 30, RETURN , Operand: 0
+Offset: 31, GOTO , Operand: 208
+Offset: 32, PUSHI , Operand: 15
+Offset: 33, PUSHI , Operand: 4295
+Offset: 34, PUSHS , Operand: Female H.A.M. follower
+Offset: 35, PUSHS , Operand: You can now pickpocket 
+Offset: 36, PUSHS , Operand: <col=000080>
+Offset: 37, PUSHS , Operand: female H.A.M. followers
+Offset: 38, PUSHS , Operand: </col>
+Offset: 39, PUSHS , Operand: .
+Offset: 40, CONCAT , Operand: 5
+Offset: 41, RETURN , Operand: 0
+Offset: 42, GOTO , Operand: 197
+Offset: 43, PUSHI , Operand: 20
+Offset: 44, PUSHI , Operand: 4297
+Offset: 45, PUSHS , Operand: Male H.A.M. follower
+Offset: 46, PUSHS , Operand: You can now pickpocket 
+Offset: 47, PUSHS , Operand: <col=000080>
+Offset: 48, PUSHS , Operand: male H.A.M. followers
+Offset: 49, PUSHS , Operand: </col>
+Offset: 50, PUSHS , Operand: .
+Offset: 51, CONCAT , Operand: 5
+Offset: 52, RETURN , Operand: 0
+Offset: 53, GOTO , Operand: 186
+Offset: 54, PUSHI , Operand: 25
+Offset: 55, PUSHI , Operand: 3245
+Offset: 56, PUSHS , Operand: Warrior
+Offset: 57, PUSHS , Operand: You can now pickpocket 
+Offset: 58, PUSHS , Operand: <col=000080>
+Offset: 59, PUSHS , Operand: warriors
+Offset: 60, PUSHS , Operand: </col>
+Offset: 61, PUSHS , Operand: .
+Offset: 62, CONCAT , Operand: 5
+Offset: 63, RETURN , Operand: 0
+Offset: 64, GOTO , Operand: 175
+Offset: 65, PUSHI , Operand: 32
+Offset: 66, PUSHI , Operand: 3247
+Offset: 67, PUSHS , Operand: Rogue
+Offset: 68, PUSHS , Operand: You can now pickpocket 
+Offset: 69, PUSHS , Operand: <col=000080>
+Offset: 70, PUSHS , Operand: rogues
+Offset: 71, PUSHS , Operand: </col>
+Offset: 72, PUSHS , Operand: .
+Offset: 73, CONCAT , Operand: 5
+Offset: 74, RETURN , Operand: 0
+Offset: 75, GOTO , Operand: 164
+Offset: 76, PUSHI , Operand: 36
+Offset: 77, PUSHI , Operand: 10998
+Offset: 78, PUSHS , Operand: Cave goblin
+Offset: 79, PUSHS , Operand: You can now pickpocket 
+Offset: 80, PUSHS , Operand: <col=000080>
+Offset: 81, PUSHS , Operand: cave goblins
+Offset: 82, PUSHS , Operand: </col>
+Offset: 83, PUSHS , Operand: .
+Offset: 84, CONCAT , Operand: 5
+Offset: 85, RETURN , Operand: 0
+Offset: 86, GOTO , Operand: 153
+Offset: 87, PUSHI , Operand: 38
+Offset: 88, PUSHI , Operand: 5068
+Offset: 89, PUSHS , Operand: Master farmer
+Offset: 90, PUSHS , Operand: You can now pickpocket 
+Offset: 91, PUSHS , Operand: <col=000080>
+Offset: 92, PUSHS , Operand: master farmers
+Offset: 93, PUSHS , Operand: </col>
+Offset: 94, PUSHS , Operand: .
+Offset: 95, CONCAT , Operand: 5
+Offset: 96, RETURN , Operand: 0
+Offset: 97, GOTO , Operand: 142
+Offset: 98, PUSHI , Operand: 40
+Offset: 99, PUSHI , Operand: 3249
+Offset: 100, PUSHS , Operand: Guard
+Offset: 101, PUSHS , Operand: You can now pickpocket 
+Offset: 102, PUSHS , Operand: <col=000080>
+Offset: 103, PUSHS , Operand: guards
+Offset: 104, PUSHS , Operand: </col>
+Offset: 105, PUSHS , Operand: .
+Offset: 106, CONCAT , Operand: 5
+Offset: 107, RETURN , Operand: 0
+Offset: 108, GOTO , Operand: 131
+Offset: 109, PUSHI , Operand: 45
+Offset: 110, PUSHI , Operand: 3686
+Offset: 111, PUSHS , Operand: Fremennik citizen
+Offset: 112, PUSHS , Operand: You can now pickpocket 
+Offset: 113, PUSHS , Operand: <col=000080>
+Offset: 114, PUSHS , Operand: Fremennik citizens
+Offset: 115, PUSHS , Operand: </col>
+Offset: 116, PUSHS , Operand: .
+Offset: 117, CONCAT , Operand: 5
+Offset: 118, RETURN , Operand: 0
+Offset: 119, GOTO , Operand: 120
+Offset: 120, PUSHI , Operand: 45
+Offset: 121, PUSHI , Operand: 6782
+Offset: 122, PUSHS , Operand: Bearded Pollnivnian bandit
+Offset: 123, PUSHS , Operand: You can now pickpocket 
+Offset: 124, PUSHS , Operand: <col=000080>
+Offset: 125, PUSHS , Operand: bearded Pollnivnian bandits
+Offset: 126, PUSHS , Operand: </col>
+Offset: 127, PUSHS , Operand: .
+Offset: 128, CONCAT , Operand: 5
+Offset: 129, RETURN , Operand: 0
+Offset: 130, GOTO , Operand: 109
+Offset: 131, PUSHI , Operand: 53
+Offset: 132, PUSHI , Operand: 4625
+Offset: 133, PUSHS , Operand: Desert bandit
+Offset: 134, PUSHS , Operand: You can now pickpocket 
+Offset: 135, PUSHS , Operand: <col=000080>
+Offset: 136, PUSHS , Operand: desert bandits
+Offset: 137, PUSHS , Operand: </col>
+Offset: 138, PUSHS , Operand: .
+Offset: 139, CONCAT , Operand: 5
+Offset: 140, RETURN , Operand: 0
+Offset: 141, GOTO , Operand: 98
+Offset: 142, PUSHI , Operand: 55
+Offset: 143, PUSHI , Operand: 3251
+Offset: 144, PUSHS , Operand: Knight
+Offset: 145, PUSHS , Operand: You can now pickpocket 
+Offset: 146, PUSHS , Operand: <col=000080>
+Offset: 147, PUSHS , Operand: knights
+Offset: 148, PUSHS , Operand: </col>
+Offset: 149, PUSHS , Operand: .
+Offset: 150, CONCAT , Operand: 5
+Offset: 151, RETURN , Operand: 0
+Offset: 152, GOTO , Operand: 87
+Offset: 153, PUSHI , Operand: 55
+Offset: 154, PUSHI , Operand: 6781
+Offset: 155, PUSHS , Operand: Pollnivnian bandit
+Offset: 156, PUSHS , Operand: You can now pickpocket 
+Offset: 157, PUSHS , Operand: <col=000080>
+Offset: 158, PUSHS , Operand: Pollnivnian bandits
+Offset: 159, PUSHS , Operand: </col>
+Offset: 160, PUSHS , Operand: .
+Offset: 161, CONCAT , Operand: 5
+Offset: 162, RETURN , Operand: 0
+Offset: 163, GOTO , Operand: 76
+Offset: 164, PUSHI , Operand: 65
+Offset: 165, PUSHI , Operand: 3253
+Offset: 166, PUSHS , Operand: Watchman
+Offset: 167, PUSHS , Operand: You can now pickpocket 
+Offset: 168, PUSHS , Operand: <col=000080>
+Offset: 169, PUSHS , Operand: watchmen
+Offset: 170, PUSHS , Operand: </col>
+Offset: 171, PUSHS , Operand: .
+Offset: 172, CONCAT , Operand: 5
+Offset: 173, RETURN , Operand: 0
+Offset: 174, GOTO , Operand: 65
+Offset: 175, PUSHI , Operand: 65
+Offset: 176, PUSHI , Operand: 6780
+Offset: 177, PUSHS , Operand: Menaphite thug
+Offset: 178, PUSHS , Operand: You can now pickpocket 
+Offset: 179, PUSHS , Operand: <col=000080>
+Offset: 180, PUSHS , Operand: Menaphite thugs
+Offset: 181, PUSHS , Operand: </col>
+Offset: 182, PUSHS , Operand: .
+Offset: 183, CONCAT , Operand: 5
+Offset: 184, RETURN , Operand: 0
+Offset: 185, GOTO , Operand: 54
+Offset: 186, PUSHI , Operand: 70
+Offset: 187, PUSHI , Operand: 3255
+Offset: 188, PUSHS , Operand: Paladin
+Offset: 189, PUSHS , Operand: You can now pickpocket 
+Offset: 190, PUSHS , Operand: <col=000080>
+Offset: 191, PUSHS , Operand: paladins
+Offset: 192, PUSHS , Operand: </col>
+Offset: 193, PUSHS , Operand: .
+Offset: 194, CONCAT , Operand: 5
+Offset: 195, RETURN , Operand: 0
+Offset: 196, GOTO , Operand: 43
+Offset: 197, PUSHI , Operand: 75
+Offset: 198, PUSHI , Operand: 3257
+Offset: 199, PUSHS , Operand: Gnome
+Offset: 200, PUSHS , Operand: You can now pickpocket 
+Offset: 201, PUSHS , Operand: <col=000080>
+Offset: 202, PUSHS , Operand: gnomes
+Offset: 203, PUSHS , Operand: </col>
+Offset: 204, PUSHS , Operand: .
+Offset: 205, CONCAT , Operand: 5
+Offset: 206, RETURN , Operand: 0
+Offset: 207, GOTO , Operand: 32
+Offset: 208, PUSHI , Operand: 80
+Offset: 209, PUSHI , Operand: 3259
+Offset: 210, PUSHS , Operand: Hero
+Offset: 211, PUSHS , Operand: You can now pickpocket 
+Offset: 212, PUSHS , Operand: <col=000080>
+Offset: 213, PUSHS , Operand: heroes
+Offset: 214, PUSHS , Operand: </col>
+Offset: 215, PUSHS , Operand: .
+Offset: 216, CONCAT , Operand: 5
+Offset: 217, RETURN , Operand: 0
+Offset: 218, GOTO , Operand: 21
+Offset: 219, PUSHI , Operand: 85
+Offset: 220, PUSHI , Operand: 6105
+Offset: 221, PUSHS , Operand: Elf
+Offset: 222, PUSHS , Operand: You can now pickpocket 
+Offset: 223, PUSHS , Operand: <col=000080>
+Offset: 224, PUSHS , Operand: elves
+Offset: 225, PUSHS , Operand: </col>
+Offset: 226, PUSHS , Operand: .
+Offset: 227, CONCAT , Operand: 5
+Offset: 228, RETURN , Operand: 0
+Offset: 229, GOTO , Operand: 10
+Offset: 230, PUSHI , Operand: 90
+Offset: 231, PUSHI , Operand: 15258
+Offset: 232, PUSHS , Operand: Dwarf trader
+Offset: 233, PUSHS , Operand: You can now pickpocket 
+Offset: 234, PUSHS , Operand: <col=000080>
+Offset: 235, PUSHS , Operand: dwarven traders
+Offset: 236, PUSHS , Operand: </col>
+Offset: 237, PUSHS , Operand: .
+Offset: 238, CONCAT , Operand: 5
+Offset: 239, RETURN , Operand: 0
+Offset: 240, GOTO , Operand: 1563
+Offset: 241, LOADINT , Operand: 1
+Offset: 242, SWITCH , Operand: 2
+Offset: 243, GOTO , Operand: 764
+Offset: 244, PUSHI , Operand: 11
+Offset: 245, PUSHI , Operand: 3241
+Offset: 246, PUSHS , Operand: Possibility of stealing double loot from a man
+Offset: 247, PUSHS , Operand: You now have the Thieving level required to potentially steal double loot from 
+Offset: 248, PUSHS , Operand: <col=000080>
+Offset: 249, PUSHS , Operand: men
+Offset: 250, PUSHS , Operand: </col>
+Offset: 251, PUSHS , Operand:  and 
+Offset: 252, PUSHS , Operand: <col=000080>
+Offset: 253, PUSHS , Operand: women
+Offset: 254, PUSHS , Operand: </col>
+Offset: 255, PUSHS , Operand: .
+Offset: 256, CONCAT , Operand: 9
+Offset: 257, RETURN , Operand: 0
+Offset: 258, GOTO , Operand: 749
+Offset: 259, PUSHI , Operand: 20
+Offset: 260, PUSHI , Operand: 3243
+Offset: 261, PUSHS , Operand: Possibility of stealing double loot from a farmer
+Offset: 262, PUSHS , Operand: <br>
+Offset: 263, PUSHS , Operand:  (with 10 Agility)
+Offset: 264, CONCAT , Operand: 3
+Offset: 265, PUSHS , Operand: You now have the Thieving level required to potentially steal double loot from 
+Offset: 266, PUSHS , Operand: <col=000080>
+Offset: 267, PUSHS , Operand: farmers
+Offset: 268, PUSHS , Operand: </col>
+Offset: 269, PUSHS , Operand: . (You also need level 10 Agility.)
+Offset: 270, CONCAT , Operand: 5
+Offset: 271, RETURN , Operand: 0
+Offset: 272, GOTO , Operand: 735
+Offset: 273, PUSHI , Operand: 21
+Offset: 274, PUSHI , Operand: 3241
+Offset: 275, PUSHS , Operand: Possibility of stealing triple loot from a man
+Offset: 276, PUSHS , Operand: <br>
+Offset: 277, PUSHS , Operand:  (with 11 Agility)
+Offset: 278, CONCAT , Operand: 3
+Offset: 279, PUSHS , Operand: You now have the Thieving level required to potentially steal triple loot from 
+Offset: 280, PUSHS , Operand: <col=000080>
+Offset: 281, PUSHS , Operand: men
+Offset: 282, PUSHS , Operand: </col>
+Offset: 283, PUSHS , Operand:  and 
+Offset: 284, PUSHS , Operand: <col=000080>
+Offset: 285, PUSHS , Operand: women
+Offset: 286, PUSHS , Operand: </col>
+Offset: 287, PUSHS , Operand: . (You also need level 11 Agility.)
+Offset: 288, CONCAT , Operand: 9
+Offset: 289, RETURN , Operand: 0
+Offset: 290, GOTO , Operand: 717
+Offset: 291, PUSHI , Operand: 25
+Offset: 292, PUSHI , Operand: 4295
+Offset: 293, PUSHS , Operand: Possibility of stealing double loot from a female H.A.M. follower
+Offset: 294, PUSHS , Operand: <br>
+Offset: 295, PUSHS , Operand:  (with 15 Agility)
+Offset: 296, CONCAT , Operand: 3
+Offset: 297, PUSHS , Operand: You now have the Thieving level required to potentially steal double loot from 
+Offset: 298, PUSHS , Operand: <col=000080>
+Offset: 299, PUSHS , Operand: female H.A.M. followers
+Offset: 300, PUSHS , Operand: </col>
+Offset: 301, PUSHS , Operand: . (You also need level 15 Agility.)
+Offset: 302, CONCAT , Operand: 5
+Offset: 303, RETURN , Operand: 0
+Offset: 304, GOTO , Operand: 703
+Offset: 305, PUSHI , Operand: 30
+Offset: 306, PUSHI , Operand: 3243
+Offset: 307, PUSHS , Operand: Possibility of stealing triple loot from a farmer
+Offset: 308, PUSHS , Operand: <br>
+Offset: 309, PUSHS , Operand:  (with 20 Agility)
+Offset: 310, CONCAT , Operand: 3
+Offset: 311, PUSHS , Operand: You now have the Thieving level required to potentially steal triple loot from 
+Offset: 312, PUSHS , Operand: <col=000080>
+Offset: 313, PUSHS , Operand: farmers
+Offset: 314, PUSHS , Operand: </col>
+Offset: 315, PUSHS , Operand: . (You also need level 20 Agility.)
+Offset: 316, CONCAT , Operand: 5
+Offset: 317, RETURN , Operand: 0
+Offset: 318, GOTO , Operand: 689
+Offset: 319, PUSHI , Operand: 30
+Offset: 320, PUSHI , Operand: 4297
+Offset: 321, PUSHS , Operand: Possibility of stealing double loot from a male H.A.M. follower
+Offset: 322, PUSHS , Operand: <br>
+Offset: 323, PUSHS , Operand:  (with 20 Agility)
+Offset: 324, CONCAT , Operand: 3
+Offset: 325, PUSHS , Operand: You now have the Thieving level required to potentially steal double loot from 
+Offset: 326, PUSHS , Operand: <col=000080>
+Offset: 327, PUSHS , Operand: male H.A.M. followers
+Offset: 328, PUSHS , Operand: </col>
+Offset: 329, PUSHS , Operand: . (You also need level 20 Agility.)
+Offset: 330, CONCAT , Operand: 5
+Offset: 331, RETURN , Operand: 0
+Offset: 332, GOTO , Operand: 675
+Offset: 333, PUSHI , Operand: 31
+Offset: 334, PUSHI , Operand: 3241
+Offset: 335, PUSHS , Operand: Possibility of stealing quadruple loot from a man
+Offset: 336, PUSHS , Operand: <br>
+Offset: 337, PUSHS , Operand:  (with 21 Agility)
+Offset: 338, CONCAT , Operand: 3
+Offset: 339, PUSHS , Operand: You now have the Thieving level required to potentially steal quadruple loot from 
+Offset: 340, PUSHS , Operand: <col=000080>
+Offset: 341, PUSHS , Operand: men
+Offset: 342, PUSHS , Operand: </col>
+Offset: 343, PUSHS , Operand:  and 
+Offset: 344, PUSHS , Operand: <col=000080>
+Offset: 345, PUSHS , Operand: women
+Offset: 346, PUSHS , Operand: </col>
+Offset: 347, PUSHS , Operand: . (You also need level 21 Agility.)
+Offset: 348, CONCAT , Operand: 9
+Offset: 349, RETURN , Operand: 0
+Offset: 350, GOTO , Operand: 657
+Offset: 351, PUSHI , Operand: 35
+Offset: 352, PUSHI , Operand: 4295
+Offset: 353, PUSHS , Operand: Possibility of stealing triple loot from a female H.A.M. follower
+Offset: 354, PUSHS , Operand: <br>
+Offset: 355, PUSHS , Operand:  (with 25 Agility)
+Offset: 356, CONCAT , Operand: 3
+Offset: 357, PUSHS , Operand: You now have the Thieving level required to potentially steal triple loot from 
+Offset: 358, PUSHS , Operand: <col=000080>
+Offset: 359, PUSHS , Operand: female H.A.M. followers
+Offset: 360, PUSHS , Operand: </col>
+Offset: 361, PUSHS , Operand: . (You also need level 25 Agility.)
+Offset: 362, CONCAT , Operand: 5
+Offset: 363, RETURN , Operand: 0
+Offset: 364, GOTO , Operand: 643
+Offset: 365, PUSHI , Operand: 35
+Offset: 366, PUSHI , Operand: 3245
+Offset: 367, PUSHS , Operand: Possibility of stealing double loot from a warrior
+Offset: 368, PUSHS , Operand: <br>
+Offset: 369, PUSHS , Operand:  (with 25 Agility)
+Offset: 370, CONCAT , Operand: 3
+Offset: 371, PUSHS , Operand: You now have the Thieving level required to potentially steal double loot from 
+Offset: 372, PUSHS , Operand: <col=000080>
+Offset: 373, PUSHS , Operand: warriors
+Offset: 374, PUSHS , Operand: </col>
+Offset: 375, PUSHS , Operand: . (You also need level 25 Agility.)
+Offset: 376, CONCAT , Operand: 5
+Offset: 377, RETURN , Operand: 0
+Offset: 378, GOTO , Operand: 629
+Offset: 379, PUSHI , Operand: 40
+Offset: 380, PUSHI , Operand: 3243
+Offset: 381, PUSHS , Operand: Possibility of stealing quadruple loot from a farmer
+Offset: 382, PUSHS , Operand: <br>
+Offset: 383, PUSHS , Operand:  (with 30 Agility)
+Offset: 384, CONCAT , Operand: 3
+Offset: 385, PUSHS , Operand: You now have the Thieving level required to potentially steal quadruple loot from 
+Offset: 386, PUSHS , Operand: <col=000080>
+Offset: 387, PUSHS , Operand: farmers
+Offset: 388, PUSHS , Operand: </col>
+Offset: 389, PUSHS , Operand: . (You also need level 30 Agility.)
+Offset: 390, CONCAT , Operand: 5
+Offset: 391, RETURN , Operand: 0
+Offset: 392, GOTO , Operand: 615
+Offset: 393, PUSHI , Operand: 40
+Offset: 394, PUSHI , Operand: 4297
+Offset: 395, PUSHS , Operand: Possibility of stealing triple loot from a male H.A.M. follower
+Offset: 396, PUSHS , Operand: <br>
+Offset: 397, PUSHS , Operand:  (with 30 Agility)
+Offset: 398, CONCAT , Operand: 3
+Offset: 399, PUSHS , Operand: You now have the Thieving level required to potentially steal triple loot from 
+Offset: 400, PUSHS , Operand: <col=000080>
+Offset: 401, PUSHS , Operand: male H.A.M. followers
+Offset: 402, PUSHS , Operand: </col>
+Offset: 403, PUSHS , Operand: . (You also need level 30 Agility.)
+Offset: 404, CONCAT , Operand: 5
+Offset: 405, RETURN , Operand: 0
+Offset: 406, GOTO , Operand: 601
+Offset: 407, PUSHI , Operand: 42
+Offset: 408, PUSHI , Operand: 3247
+Offset: 409, PUSHS , Operand: Possibility of stealing double loot from a rogue
+Offset: 410, PUSHS , Operand: <br>
+Offset: 411, PUSHS , Operand:  (with 32 Agility)
+Offset: 412, CONCAT , Operand: 3
+Offset: 413, PUSHS , Operand: You now have the Thieving level required to potentially steal double loot from 
+Offset: 414, PUSHS , Operand: <col=000080>
+Offset: 415, PUSHS , Operand: rogues
+Offset: 416, PUSHS , Operand: </col>
+Offset: 417, PUSHS , Operand: . (You also need level 32 Agility.)
+Offset: 418, CONCAT , Operand: 5
+Offset: 419, RETURN , Operand: 0
+Offset: 420, GOTO , Operand: 587
+Offset: 421, PUSHI , Operand: 45
+Offset: 422, PUSHI , Operand: 4295
+Offset: 423, PUSHS , Operand: Possibility of stealing quadruple loot from a female H.A.M. follower
+Offset: 424, PUSHS , Operand: <br>
+Offset: 425, PUSHS , Operand:  (with 35 Agility)
+Offset: 426, CONCAT , Operand: 3
+Offset: 427, PUSHS , Operand: You now have the Thieving level required to potentially steal quadruple loot from 
+Offset: 428, PUSHS , Operand: <col=000080>
+Offset: 429, PUSHS , Operand: female H.A.M. followers
+Offset: 430, PUSHS , Operand: </col>
+Offset: 431, PUSHS , Operand: . (You also need level 35 Agility.)
+Offset: 432, CONCAT , Operand: 5
+Offset: 433, RETURN , Operand: 0
+Offset: 434, GOTO , Operand: 573
+Offset: 435, PUSHI , Operand: 45
+Offset: 436, PUSHI , Operand: 3245
+Offset: 437, PUSHS , Operand: Possibility of stealing triple loot from a warrior
+Offset: 438, PUSHS , Operand: <br>
+Offset: 439, PUSHS , Operand:  (with 35 Agility)
+Offset: 440, CONCAT , Operand: 3
+Offset: 441, PUSHS , Operand: You now have the Thieving level required to potentially steal triple loot from 
+Offset: 442, PUSHS , Operand: <col=000080>
+Offset: 443, PUSHS , Operand: warriors
+Offset: 444, PUSHS , Operand: </col>
+Offset: 445, PUSHS , Operand: . (You also need level 35 Agility.)
+Offset: 446, CONCAT , Operand: 5
+Offset: 447, RETURN , Operand: 0
+Offset: 448, GOTO , Operand: 559
+Offset: 449, PUSHI , Operand: 46
+Offset: 450, PUSHI , Operand: 10998
+Offset: 451, PUSHS , Operand: Possibility of stealing double loot from a cave goblin
+Offset: 452, PUSHS , Operand: <br>
+Offset: 453, PUSHS , Operand:  (with 36 Agility)
+Offset: 454, CONCAT , Operand: 3
+Offset: 455, PUSHS , Operand: You now have the Thieving level required to potentially steal double loot from 
+Offset: 456, PUSHS , Operand: <col=000080>
+Offset: 457, PUSHS , Operand: cave goblins
+Offset: 458, PUSHS , Operand: </col>
+Offset: 459, PUSHS , Operand: . (You also need level 36 Agility.)
+Offset: 460, CONCAT , Operand: 5
+Offset: 461, RETURN , Operand: 0
+Offset: 462, GOTO , Operand: 545
+Offset: 463, PUSHI , Operand: 48
+Offset: 464, PUSHI , Operand: 5068
+Offset: 465, PUSHS , Operand: Possibility of stealing double loot from a master farmer
+Offset: 466, PUSHS , Operand: <br>
+Offset: 467, PUSHS , Operand:  (with 38 Agility)
+Offset: 468, CONCAT , Operand: 3
+Offset: 469, PUSHS , Operand: You now have the Thieving level required to potentially steal double loot from 
+Offset: 470, PUSHS , Operand: <col=000080>
+Offset: 471, PUSHS , Operand: master farmers
+Offset: 472, PUSHS , Operand: </col>
+Offset: 473, PUSHS , Operand: . (You also need level 38 Agility.)
+Offset: 474, CONCAT , Operand: 5
+Offset: 475, RETURN , Operand: 0
+Offset: 476, GOTO , Operand: 531
+Offset: 477, PUSHI , Operand: 50
+Offset: 478, PUSHI , Operand: 4297
+Offset: 479, PUSHS , Operand: Possibility of stealing quadruple loot from a male H.A.M. follower
+Offset: 480, PUSHS , Operand: <br>
+Offset: 481, PUSHS , Operand:  (with 40 Agility)
+Offset: 482, CONCAT , Operand: 3
+Offset: 483, PUSHS , Operand: You now have the Thieving level required to potentially steal quadruple loot from 
+Offset: 484, PUSHS , Operand: <col=000080>
+Offset: 485, PUSHS , Operand: male H.A.M. followers
+Offset: 486, PUSHS , Operand: </col>
+Offset: 487, PUSHS , Operand: . (You also need level 40 Agility.)
+Offset: 488, CONCAT , Operand: 5
+Offset: 489, RETURN , Operand: 0
+Offset: 490, GOTO , Operand: 517
+Offset: 491, PUSHI , Operand: 50
+Offset: 492, PUSHI , Operand: 3249
+Offset: 493, PUSHS , Operand: Possibility of stealing double loot from a guard
+Offset: 494, PUSHS , Operand: <br>
+Offset: 495, PUSHS , Operand:  (with 40 Agility)
+Offset: 496, CONCAT , Operand: 3
+Offset: 497, PUSHS , Operand: You now have the Thieving level required to potentially steal double loot from 
+Offset: 498, PUSHS , Operand: <col=000080>
+Offset: 499, PUSHS , Operand: guards
+Offset: 500, PUSHS , Operand: </col>
+Offset: 501, PUSHS , Operand: . (You also need level 40 Agility.)
+Offset: 502, CONCAT , Operand: 5
+Offset: 503, RETURN , Operand: 0
+Offset: 504, GOTO , Operand: 503
+Offset: 505, PUSHI , Operand: 52
+Offset: 506, PUSHI , Operand: 3247
+Offset: 507, PUSHS , Operand: Possibility of stealing triple loot from a rogue
+Offset: 508, PUSHS , Operand: <br>
+Offset: 509, PUSHS , Operand:  (with 42 Agility)
+Offset: 510, CONCAT , Operand: 3
+Offset: 511, PUSHS , Operand: You now have the Thieving level required to potentially steal triple loot from 
+Offset: 512, PUSHS , Operand: <col=000080>
+Offset: 513, PUSHS , Operand: rogues
+Offset: 514, PUSHS , Operand: </col>
+Offset: 515, PUSHS , Operand: . (You also need level 42 Agility.)
+Offset: 516, CONCAT , Operand: 5
+Offset: 517, RETURN , Operand: 0
+Offset: 518, GOTO , Operand: 489
+Offset: 519, PUSHI , Operand: 55
+Offset: 520, PUSHI , Operand: 3245
+Offset: 521, PUSHS , Operand: Possibility of stealing quadruple loot from a warrior
+Offset: 522, PUSHS , Operand: <br>
+Offset: 523, PUSHS , Operand:  (with 45 Agility)
+Offset: 524, CONCAT , Operand: 3
+Offset: 525, PUSHS , Operand: You now have the Thieving level required to potentially steal quadruple loot from 
+Offset: 526, PUSHS , Operand: <col=000080>
+Offset: 527, PUSHS , Operand: warriors
+Offset: 528, PUSHS , Operand: </col>
+Offset: 529, PUSHS , Operand: . (You also need level 45 Agility.)
+Offset: 530, CONCAT , Operand: 5
+Offset: 531, RETURN , Operand: 0
+Offset: 532, GOTO , Operand: 475
+Offset: 533, PUSHI , Operand: 55
+Offset: 534, PUSHI , Operand: 3686
+Offset: 535, PUSHS , Operand: Possibility of stealing double loot from a Fremennik citizen
+Offset: 536, PUSHS , Operand: <br>
+Offset: 537, PUSHS , Operand:  (with 45 Agility)
+Offset: 538, CONCAT , Operand: 3
+Offset: 539, PUSHS , Operand: You now have the Thieving level required to potentially steal double loot from 
+Offset: 540, PUSHS , Operand: <col=000080>
+Offset: 541, PUSHS , Operand: Fremennik citizens
+Offset: 542, PUSHS , Operand: </col>
+Offset: 543, PUSHS , Operand: . (You also need level 45 Agility.)
+Offset: 544, CONCAT , Operand: 5
+Offset: 545, RETURN , Operand: 0
+Offset: 546, GOTO , Operand: 461
+Offset: 547, PUSHI , Operand: 55
+Offset: 548, PUSHI , Operand: 6782
+Offset: 549, PUSHS , Operand: Possibility of stealing double loot from a bearded Pollnivnian bandit
+Offset: 550, PUSHS , Operand: <br>
+Offset: 551, PUSHS , Operand:  (with 45 Agility)
+Offset: 552, CONCAT , Operand: 3
+Offset: 553, PUSHS , Operand: You now have the Thieving level required to to potentially steal double loot from 
+Offset: 554, PUSHS , Operand: <col=000080>
+Offset: 555, PUSHS , Operand: bearded Pollnivnian bandits
+Offset: 556, PUSHS , Operand: </col>
+Offset: 557, PUSHS , Operand: . (You also need level 45 Agility.)
+Offset: 558, CONCAT , Operand: 5
+Offset: 559, RETURN , Operand: 0
+Offset: 560, GOTO , Operand: 447
+Offset: 561, PUSHI , Operand: 56
+Offset: 562, PUSHI , Operand: 10998
+Offset: 563, PUSHS , Operand: Possibility of stealing triple loot from a cave goblin
+Offset: 564, PUSHS , Operand: <br>
+Offset: 565, PUSHS , Operand:  (with 46 Agility)
+Offset: 566, CONCAT , Operand: 3
+Offset: 567, PUSHS , Operand: You now have the Thieving level required to potentially steal triple loot from 
+Offset: 568, PUSHS , Operand: <col=000080>
+Offset: 569, PUSHS , Operand: cave goblins
+Offset: 570, PUSHS , Operand: </col>
+Offset: 571, PUSHS , Operand: . (You also need level 46 Agility.)
+Offset: 572, CONCAT , Operand: 5
+Offset: 573, RETURN , Operand: 0
+Offset: 574, GOTO , Operand: 433
+Offset: 575, PUSHI , Operand: 58
+Offset: 576, PUSHI , Operand: 5068
+Offset: 577, PUSHS , Operand: Possibility of stealing triple loot from a master farmer
+Offset: 578, PUSHS , Operand: <br>
+Offset: 579, PUSHS , Operand:  (with 48 Agility)
+Offset: 580, CONCAT , Operand: 3
+Offset: 581, PUSHS , Operand: You now have the Thieving level required to potentially steal triple loot from 
+Offset: 582, PUSHS , Operand: <col=000080>
+Offset: 583, PUSHS , Operand: master farmers
+Offset: 584, PUSHS , Operand: </col>
+Offset: 585, PUSHS , Operand: . (You also need level 48 Agility.)
+Offset: 586, CONCAT , Operand: 5
+Offset: 587, RETURN , Operand: 0
+Offset: 588, GOTO , Operand: 419
+Offset: 589, PUSHI , Operand: 60
+Offset: 590, PUSHI , Operand: 3249
+Offset: 591, PUSHS , Operand: Possibility of stealing triple loot from a guard
+Offset: 592, PUSHS , Operand: <br>
+Offset: 593, PUSHS , Operand:  (with 50 Agility)
+Offset: 594, CONCAT , Operand: 3
+Offset: 595, PUSHS , Operand: You now have the Thieving level required to potentially steal triple loot from 
+Offset: 596, PUSHS , Operand: <col=000080>
+Offset: 597, PUSHS , Operand: guards
+Offset: 598, PUSHS , Operand: </col>
+Offset: 599, PUSHS , Operand: . (You also need level 50 Agility.)
+Offset: 600, CONCAT , Operand: 5
+Offset: 601, RETURN , Operand: 0
+Offset: 602, GOTO , Operand: 405
+Offset: 603, PUSHI , Operand: 62
+Offset: 604, PUSHI , Operand: 3247
+Offset: 605, PUSHS , Operand: Possibility of stealing quadruple loot from a rogue
+Offset: 606, PUSHS , Operand: <br>
+Offset: 607, PUSHS , Operand:  (with 52 Agility)
+Offset: 608, CONCAT , Operand: 3
+Offset: 609, PUSHS , Operand: You now have the Thieving level required to potentially steal quadruple loot from 
+Offset: 610, PUSHS , Operand: <col=000080>
+Offset: 611, PUSHS , Operand: rogues
+Offset: 612, PUSHS , Operand: </col>
+Offset: 613, PUSHS , Operand: . (You also need level 52 Agility.)
+Offset: 614, CONCAT , Operand: 5
+Offset: 615, RETURN , Operand: 0
+Offset: 616, GOTO , Operand: 391
+Offset: 617, PUSHI , Operand: 63
+Offset: 618, PUSHI , Operand: 4625
+Offset: 619, PUSHS , Operand: Possibility of stealing double loot from a desert bandit
+Offset: 620, PUSHS , Operand: <br>
+Offset: 621, PUSHS , Operand:  (with 53 Agility)
+Offset: 622, CONCAT , Operand: 3
+Offset: 623, PUSHS , Operand: You now have the Thieving level required to potentially steal double loot from 
+Offset: 624, PUSHS , Operand: <col=000080>
+Offset: 625, PUSHS , Operand: desert bandits
+Offset: 626, PUSHS , Operand: </col>
+Offset: 627, PUSHS , Operand: . (You also need level 53 Agility.)
+Offset: 628, CONCAT , Operand: 5
+Offset: 629, RETURN , Operand: 0
+Offset: 630, GOTO , Operand: 377
+Offset: 631, PUSHI , Operand: 65
+Offset: 632, PUSHI , Operand: 3686
+Offset: 633, PUSHS , Operand: Possibility of stealing triple loot from a Fremennik citizen
+Offset: 634, PUSHS , Operand: <br>
+Offset: 635, PUSHS , Operand:  (with 55 Agility)
+Offset: 636, CONCAT , Operand: 3
+Offset: 637, PUSHS , Operand: You now have the Thieving level required to potentially steal triple loot from 
+Offset: 638, PUSHS , Operand: <col=000080>
+Offset: 639, PUSHS , Operand: Fremennik citizens
+Offset: 640, PUSHS , Operand: </col>
+Offset: 641, PUSHS , Operand: . (You also need level 55 Agility.)
+Offset: 642, CONCAT , Operand: 5
+Offset: 643, RETURN , Operand: 0
+Offset: 644, GOTO , Operand: 363
+Offset: 645, PUSHI , Operand: 65
+Offset: 646, PUSHI , Operand: 6782
+Offset: 647, PUSHS , Operand: Possibility of stealing triple loot from a bearded Pollnivnian bandit
+Offset: 648, PUSHS , Operand: <br>
+Offset: 649, PUSHS , Operand:  (with 55 Agility)
+Offset: 650, CONCAT , Operand: 3
+Offset: 651, PUSHS , Operand: You now have the Thieving level required to potentially steal triple loot from 
+Offset: 652, PUSHS , Operand: <col=000080>
+Offset: 653, PUSHS , Operand: bearded Pollnivnian bandits
+Offset: 654, PUSHS , Operand: </col>
+Offset: 655, PUSHS , Operand: . (You also need level 55 Agility.)
+Offset: 656, CONCAT , Operand: 5
+Offset: 657, RETURN , Operand: 0
+Offset: 658, GOTO , Operand: 349
+Offset: 659, PUSHI , Operand: 65
+Offset: 660, PUSHI , Operand: 3251
+Offset: 661, PUSHS , Operand: Possibility of stealing double loot from a knight
+Offset: 662, PUSHS , Operand: <br>
+Offset: 663, PUSHS , Operand:  (with 55 Agility)
+Offset: 664, CONCAT , Operand: 3
+Offset: 665, PUSHS , Operand: You now have the Thieving level required to potentially steal double loot from 
+Offset: 666, PUSHS , Operand: <col=000080>
+Offset: 667, PUSHS , Operand: knights
+Offset: 668, PUSHS , Operand: </col>
+Offset: 669, PUSHS , Operand: . (You also need level 55 Agility.)
+Offset: 670, CONCAT , Operand: 5
+Offset: 671, RETURN , Operand: 0
+Offset: 672, GOTO , Operand: 335
+Offset: 673, PUSHI , Operand: 65
+Offset: 674, PUSHI , Operand: 6781
+Offset: 675, PUSHS , Operand: Possibility of stealing double loot from a Pollnivnian bandit
+Offset: 676, PUSHS , Operand: <br>
+Offset: 677, PUSHS , Operand:  (with 55 Agility)
+Offset: 678, CONCAT , Operand: 3
+Offset: 679, PUSHS , Operand: You now have the Thieving level required to potentially steal double loot from 
+Offset: 680, PUSHS , Operand: <col=000080>
+Offset: 681, PUSHS , Operand: Pollnivnian bandits
+Offset: 682, PUSHS , Operand: </col>
+Offset: 683, PUSHS , Operand: . (You also need level 55 Agility.)
+Offset: 684, CONCAT , Operand: 5
+Offset: 685, RETURN , Operand: 0
+Offset: 686, GOTO , Operand: 321
+Offset: 687, PUSHI , Operand: 66
+Offset: 688, PUSHI , Operand: 10998
+Offset: 689, PUSHS , Operand: Possibility of stealing quadruple loot from a cave goblin
+Offset: 690, PUSHS , Operand: <br>
+Offset: 691, PUSHS , Operand:  (with 56 Agility)
+Offset: 692, CONCAT , Operand: 3
+Offset: 693, PUSHS , Operand: You now have the Thieving level required to potentially steal quadruple loot from 
+Offset: 694, PUSHS , Operand: <col=000080>
+Offset: 695, PUSHS , Operand: cave goblins
+Offset: 696, PUSHS , Operand: </col>
+Offset: 697, PUSHS , Operand: . (You also need level 56 Agility.)
+Offset: 698, CONCAT , Operand: 5
+Offset: 699, RETURN , Operand: 0
+Offset: 700, GOTO , Operand: 307
+Offset: 701, PUSHI , Operand: 68
+Offset: 702, PUSHI , Operand: 5068
+Offset: 703, PUSHS , Operand: Possibility of stealing quadruple loot from a master farmer
+Offset: 704, PUSHS , Operand: <br>
+Offset: 705, PUSHS , Operand:  (with 58 Agility)
+Offset: 706, CONCAT , Operand: 3
+Offset: 707, PUSHS , Operand: You now have the Thieving level required to potentially steal quadruple loot from 
+Offset: 708, PUSHS , Operand: <col=000080>
+Offset: 709, PUSHS , Operand: master farmers
+Offset: 710, PUSHS , Operand: </col>
+Offset: 711, PUSHS , Operand: . (You also need level 58 Agility.)
+Offset: 712, CONCAT , Operand: 5
+Offset: 713, RETURN , Operand: 0
+Offset: 714, GOTO , Operand: 293
+Offset: 715, PUSHI , Operand: 70
+Offset: 716, PUSHI , Operand: 3249
+Offset: 717, PUSHS , Operand: Possibility of stealing quadruple loot from a guard
+Offset: 718, PUSHS , Operand: <br>
+Offset: 719, PUSHS , Operand:  (with 60 Agility)
+Offset: 720, CONCAT , Operand: 3
+Offset: 721, PUSHS , Operand: You now have the Thieving level required to potentially steal quadruple loot from 
+Offset: 722, PUSHS , Operand: <col=000080>
+Offset: 723, PUSHS , Operand: guards
+Offset: 724, PUSHS , Operand: </col>
+Offset: 725, PUSHS , Operand: . (You also need level 60 Agility.)
+Offset: 726, CONCAT , Operand: 5
+Offset: 727, RETURN , Operand: 0
+Offset: 728, GOTO , Operand: 279
+Offset: 729, PUSHI , Operand: 73
+Offset: 730, PUSHI , Operand: 4625
+Offset: 731, PUSHS , Operand: Possibility of stealing triple loot from a desert bandit
+Offset: 732, PUSHS , Operand: <br>
+Offset: 733, PUSHS , Operand:  (with 63 Agility)
+Offset: 734, CONCAT , Operand: 3
+Offset: 735, PUSHS , Operand: You now have the Thieving level required to potentially steal triple loot from 
+Offset: 736, PUSHS , Operand: <col=000080>
+Offset: 737, PUSHS , Operand: desert bandits
+Offset: 738, PUSHS , Operand: </col>
+Offset: 739, PUSHS , Operand: . (You also need level 63 Agility.)
+Offset: 740, CONCAT , Operand: 5
+Offset: 741, RETURN , Operand: 0
+Offset: 742, GOTO , Operand: 265
+Offset: 743, PUSHI , Operand: 75
+Offset: 744, PUSHI , Operand: 3686
+Offset: 745, PUSHS , Operand: Possibility of stealing quadruple loot from a Fremennik citizen
+Offset: 746, PUSHS , Operand: <br>
+Offset: 747, PUSHS , Operand:  (with 65 Agility)
+Offset: 748, CONCAT , Operand: 3
+Offset: 749, PUSHS , Operand: You now have the Thieving level required to potentially steal quadruple loot from 
+Offset: 750, PUSHS , Operand: <col=000080>
+Offset: 751, PUSHS , Operand: Fremennik citizens
+Offset: 752, PUSHS , Operand: </col>
+Offset: 753, PUSHS , Operand: . (You also need level 65 Agility.)
+Offset: 754, CONCAT , Operand: 5
+Offset: 755, RETURN , Operand: 0
+Offset: 756, GOTO , Operand: 251
+Offset: 757, PUSHI , Operand: 75
+Offset: 758, PUSHI , Operand: 6782
+Offset: 759, PUSHS , Operand: Possibility of stealing quadruple loot from a bearded Pollnivnian bandit
+Offset: 760, PUSHS , Operand: <br>
+Offset: 761, PUSHS , Operand:  (with 65 Agility)
+Offset: 762, CONCAT , Operand: 3
+Offset: 763, PUSHS , Operand: You now have the Thieving level required to potentially steal quadruple loot from 
+Offset: 764, PUSHS , Operand: <col=000080>
+Offset: 765, PUSHS , Operand: bearded Pollnivnian bandits
+Offset: 766, PUSHS , Operand: </col>
+Offset: 767, PUSHS , Operand: . (You also need level 65 Agility.)
+Offset: 768, CONCAT , Operand: 5
+Offset: 769, RETURN , Operand: 0
+Offset: 770, GOTO , Operand: 237
+Offset: 771, PUSHI , Operand: 75
+Offset: 772, PUSHI , Operand: 3251
+Offset: 773, PUSHS , Operand: Possibility of stealing triple loot from a knight
+Offset: 774, PUSHS , Operand: <br>
+Offset: 775, PUSHS , Operand:  (with 65 Agility)
+Offset: 776, CONCAT , Operand: 3
+Offset: 777, PUSHS , Operand: You now have the Thieving level required to potentially steal triple loot from 
+Offset: 778, PUSHS , Operand: <col=000080>
+Offset: 779, PUSHS , Operand: knights
+Offset: 780, PUSHS , Operand: </col>
+Offset: 781, PUSHS , Operand: . (You also need level 65 Agility.)
+Offset: 782, CONCAT , Operand: 5
+Offset: 783, RETURN , Operand: 0
+Offset: 784, GOTO , Operand: 223
+Offset: 785, PUSHI , Operand: 75
+Offset: 786, PUSHI , Operand: 6781
+Offset: 787, PUSHS , Operand: Possibility of stealing triple loot from a Pollnivnian bandit
+Offset: 788, PUSHS , Operand: <br>
+Offset: 789, PUSHS , Operand:  (with 65 Agility)
+Offset: 790, CONCAT , Operand: 3
+Offset: 791, PUSHS , Operand: You now have the Thieving level required to potentially steal triple loot from 
+Offset: 792, PUSHS , Operand: <col=000080>
+Offset: 793, PUSHS , Operand: Pollnivnian bandits
+Offset: 794, PUSHS , Operand: </col>
+Offset: 795, PUSHS , Operand: . (You also need level 65 Agility.)
+Offset: 796, CONCAT , Operand: 5
+Offset: 797, RETURN , Operand: 0
+Offset: 798, GOTO , Operand: 209
+Offset: 799, PUSHI , Operand: 75
+Offset: 800, PUSHI , Operand: 3253
+Offset: 801, PUSHS , Operand: Possibility of stealing double loot from a watchman
+Offset: 802, PUSHS , Operand: <br>
+Offset: 803, PUSHS , Operand:  (with 65 Agility)
+Offset: 804, CONCAT , Operand: 3
+Offset: 805, PUSHS , Operand: You now have the Thieving level required to potentially steal double loot from 
+Offset: 806, PUSHS , Operand: <col=000080>
+Offset: 807, PUSHS , Operand: watchmen
+Offset: 808, PUSHS , Operand: </col>
+Offset: 809, PUSHS , Operand: . (You also need level 65 Agility.)
+Offset: 810, CONCAT , Operand: 5
+Offset: 811, RETURN , Operand: 0
+Offset: 812, GOTO , Operand: 195
+Offset: 813, PUSHI , Operand: 75
+Offset: 814, PUSHI , Operand: 6780
+Offset: 815, PUSHS , Operand: Possibility of stealing double loot from a Menaphite thug
+Offset: 816, PUSHS , Operand: <br>
+Offset: 817, PUSHS , Operand:  (with 65 Agility)
+Offset: 818, CONCAT , Operand: 3
+Offset: 819, PUSHS , Operand: You now have the Thieving level required to potentially steal double loot from 
+Offset: 820, PUSHS , Operand: <col=000080>
+Offset: 821, PUSHS , Operand: Menaphite thugs
+Offset: 822, PUSHS , Operand: </col>
+Offset: 823, PUSHS , Operand: . (You also need level 65 Agility.)
+Offset: 824, CONCAT , Operand: 5
+Offset: 825, RETURN , Operand: 0
+Offset: 826, GOTO , Operand: 181
+Offset: 827, PUSHI , Operand: 80
+Offset: 828, PUSHI , Operand: 3255
+Offset: 829, PUSHS , Operand: Possibility of stealing double loot from a paladin
+Offset: 830, PUSHS , Operand: <br>
+Offset: 831, PUSHS , Operand:  (with 70 Agility)
+Offset: 832, CONCAT , Operand: 3
+Offset: 833, PUSHS , Operand: You now have the Thieving level required to potentially steal double loot from 
+Offset: 834, PUSHS , Operand: <col=000080>
+Offset: 835, PUSHS , Operand: paladins
+Offset: 836, PUSHS , Operand: </col>
+Offset: 837, PUSHS , Operand: . (You also need level 70 Agility.)
+Offset: 838, CONCAT , Operand: 5
+Offset: 839, RETURN , Operand: 0
+Offset: 840, GOTO , Operand: 167
+Offset: 841, PUSHI , Operand: 83
+Offset: 842, PUSHI , Operand: 4625
+Offset: 843, PUSHS , Operand: Possibility of stealing quadruple loot from a desert bandit
+Offset: 844, PUSHS , Operand: <br>
+Offset: 845, PUSHS , Operand:  (with 73 Agility)
+Offset: 846, CONCAT , Operand: 3
+Offset: 847, PUSHS , Operand: You now have the Thieving level required to potentially steal quadruple loot from 
+Offset: 848, PUSHS , Operand: <col=000080>
+Offset: 849, PUSHS , Operand: desert bandits
+Offset: 850, PUSHS , Operand: </col>
+Offset: 851, PUSHS , Operand: . (You also need level 73 Agility.)
+Offset: 852, CONCAT , Operand: 5
+Offset: 853, RETURN , Operand: 0
+Offset: 854, GOTO , Operand: 153
+Offset: 855, PUSHI , Operand: 85
+Offset: 856, PUSHI , Operand: 3251
+Offset: 857, PUSHS , Operand: Possibility of stealing quadruple loot from a knight
+Offset: 858, PUSHS , Operand: <br>
+Offset: 859, PUSHS , Operand:  (with 75 Agility)
+Offset: 860, CONCAT , Operand: 3
+Offset: 861, PUSHS , Operand: You now have the Thieving level required to potentially steal quadruple loot from 
+Offset: 862, PUSHS , Operand: <col=000080>
+Offset: 863, PUSHS , Operand: knights
+Offset: 864, PUSHS , Operand: </col>
+Offset: 865, PUSHS , Operand: . (You also need level 75 Agility.)
+Offset: 866, CONCAT , Operand: 5
+Offset: 867, RETURN , Operand: 0
+Offset: 868, GOTO , Operand: 139
+Offset: 869, PUSHI , Operand: 85
+Offset: 870, PUSHI , Operand: 6781
+Offset: 871, PUSHS , Operand: Possibility of stealing quadruple loot from a Pollnivnian bandit
+Offset: 872, PUSHS , Operand: <br>
+Offset: 873, PUSHS , Operand:  (with 75 Agility)
+Offset: 874, CONCAT , Operand: 3
+Offset: 875, PUSHS , Operand: You now have the Thieving level required to potentially steal quadruple loot from 
+Offset: 876, PUSHS , Operand: <col=000080>
+Offset: 877, PUSHS , Operand: Pollnivnian bandits
+Offset: 878, PUSHS , Operand: </col>
+Offset: 879, PUSHS , Operand: . (You also need level 75 Agility.)
+Offset: 880, CONCAT , Operand: 5
+Offset: 881, RETURN , Operand: 0
+Offset: 882, GOTO , Operand: 125
+Offset: 883, PUSHI , Operand: 85
+Offset: 884, PUSHI , Operand: 3253
+Offset: 885, PUSHS , Operand: Possibility of stealing triple loot from a watchman
+Offset: 886, PUSHS , Operand: <br>
+Offset: 887, PUSHS , Operand:  (with 75 Agility)
+Offset: 888, CONCAT , Operand: 3
+Offset: 889, PUSHS , Operand: You now have the Thieving level required to potentially steal triple loot from 
+Offset: 890, PUSHS , Operand: <col=000080>
+Offset: 891, PUSHS , Operand: watchmen
+Offset: 892, PUSHS , Operand: </col>
+Offset: 893, PUSHS , Operand: . (You also need level 75 Agility.)
+Offset: 894, CONCAT , Operand: 5
+Offset: 895, RETURN , Operand: 0
+Offset: 896, GOTO , Operand: 111
+Offset: 897, PUSHI , Operand: 85
+Offset: 898, PUSHI , Operand: 6780
+Offset: 899, PUSHS , Operand: Possibility of stealing triple loot from a Menaphite thug
+Offset: 900, PUSHS , Operand: <br>
+Offset: 901, PUSHS , Operand:  (with 75 Agility)
+Offset: 902, CONCAT , Operand: 3
+Offset: 903, PUSHS , Operand: You now have the Thieving level required to potentially steal triple loot from 
+Offset: 904, PUSHS , Operand: <col=000080>
+Offset: 905, PUSHS , Operand: Menaphite thugs
+Offset: 906, PUSHS , Operand: </col>
+Offset: 907, PUSHS , Operand: . (You also need level 75 Agility.)
+Offset: 908, CONCAT , Operand: 5
+Offset: 909, RETURN , Operand: 0
+Offset: 910, GOTO , Operand: 97
+Offset: 911, PUSHI , Operand: 85
+Offset: 912, PUSHI , Operand: 3257
+Offset: 913, PUSHS , Operand: Possibility of stealing double loot from a gnome
+Offset: 914, PUSHS , Operand: <br>
+Offset: 915, PUSHS , Operand:  (with 75 Agility)
+Offset: 916, CONCAT , Operand: 3
+Offset: 917, PUSHS , Operand: You now have the Thieving level required to potentially steal double loot from 
+Offset: 918, PUSHS , Operand: <col=000080>
+Offset: 919, PUSHS , Operand: gnomes
+Offset: 920, PUSHS , Operand: </col>
+Offset: 921, PUSHS , Operand: . (You also need level 75 Agility.)
+Offset: 922, CONCAT , Operand: 5
+Offset: 923, RETURN , Operand: 0
+Offset: 924, GOTO , Operand: 83
+Offset: 925, PUSHI , Operand: 90
+Offset: 926, PUSHI , Operand: 3255
+Offset: 927, PUSHS , Operand: Possibility of stealing triple loot from a paladin
+Offset: 928, PUSHS , Operand: <br>
+Offset: 929, PUSHS , Operand:  (with 80 Agility)
+Offset: 930, CONCAT , Operand: 3
+Offset: 931, PUSHS , Operand: You now have the Thieving level required to potentially steal triple loot from 
+Offset: 932, PUSHS , Operand: <col=000080>
+Offset: 933, PUSHS , Operand: paladins
+Offset: 934, PUSHS , Operand: </col>
+Offset: 935, PUSHS , Operand: . (You also need level 80 Agility.)
+Offset: 936, CONCAT , Operand: 5
+Offset: 937, RETURN , Operand: 0
+Offset: 938, GOTO , Operand: 69
+Offset: 939, PUSHI , Operand: 90
+Offset: 940, PUSHI , Operand: 3259
+Offset: 941, PUSHS , Operand: Possibility of stealing double loot from a hero
+Offset: 942, PUSHS , Operand: <br>
+Offset: 943, PUSHS , Operand:  (with 80 Agility)
+Offset: 944, CONCAT , Operand: 3
+Offset: 945, PUSHS , Operand: You now have the Thieving level required to potentially steal double loot from 
+Offset: 946, PUSHS , Operand: <col=000080>
+Offset: 947, PUSHS , Operand: heroes
+Offset: 948, PUSHS , Operand: </col>
+Offset: 949, PUSHS , Operand: . (You also need level 80 Agility.)
+Offset: 950, CONCAT , Operand: 5
+Offset: 951, RETURN , Operand: 0
+Offset: 952, GOTO , Operand: 55
+Offset: 953, PUSHI , Operand: 95
+Offset: 954, PUSHI , Operand: 3253
+Offset: 955, PUSHS , Operand: Possibility of stealing quadruple loot from a watchman
+Offset: 956, PUSHS , Operand: <br>
+Offset: 957, PUSHS , Operand:  (with 85 Agility)
+Offset: 958, CONCAT , Operand: 3
+Offset: 959, PUSHS , Operand: You now have the Thieving level required to potentially steal quadruple loot from 
+Offset: 960, PUSHS , Operand: <col=000080>
+Offset: 961, PUSHS , Operand: watchmen
+Offset: 962, PUSHS , Operand: </col>
+Offset: 963, PUSHS , Operand: . (You also need level 85 Agility.)
+Offset: 964, CONCAT , Operand: 5
+Offset: 965, RETURN , Operand: 0
+Offset: 966, GOTO , Operand: 41
+Offset: 967, PUSHI , Operand: 95
+Offset: 968, PUSHI , Operand: 6780
+Offset: 969, PUSHS , Operand: Possibility of stealing quadruple loot from a Menaphite thug
+Offset: 970, PUSHS , Operand: <br>
+Offset: 971, PUSHS , Operand:  (with 85 Agility)
+Offset: 972, CONCAT , Operand: 3
+Offset: 973, PUSHS , Operand: You now have the Thieving level required to potentially steal quadruple loot from 
+Offset: 974, PUSHS , Operand: <col=000080>
+Offset: 975, PUSHS , Operand: Menaphite thugs
+Offset: 976, PUSHS , Operand: </col>
+Offset: 977, PUSHS , Operand: . (You also need level 85 Agility.)
+Offset: 978, CONCAT , Operand: 5
+Offset: 979, RETURN , Operand: 0
+Offset: 980, GOTO , Operand: 27
+Offset: 981, PUSHI , Operand: 95
+Offset: 982, PUSHI , Operand: 3257
+Offset: 983, PUSHS , Operand: Possibility of stealing triple loot from a gnome
+Offset: 984, PUSHS , Operand: <br>
+Offset: 985, PUSHS , Operand:  (with 85 Agility)
+Offset: 986, CONCAT , Operand: 3
+Offset: 987, PUSHS , Operand: You now have the Thieving level required to potentially steal triple loot from 
+Offset: 988, PUSHS , Operand: <col=000080>
+Offset: 989, PUSHS , Operand: gnomes
+Offset: 990, PUSHS , Operand: </col>
+Offset: 991, PUSHS , Operand: . (You also need level 85 Agility.)
+Offset: 992, CONCAT , Operand: 5
+Offset: 993, RETURN , Operand: 0
+Offset: 994, GOTO , Operand: 13
+Offset: 995, PUSHI , Operand: 95
+Offset: 996, PUSHI , Operand: 6105
+Offset: 997, PUSHS , Operand: Possibility of stealing double loot from an elf
+Offset: 998, PUSHS , Operand: <br>
+Offset: 999, PUSHS , Operand:  (with 85 Agility)
+Offset: 1000, CONCAT , Operand: 3
+Offset: 1001, PUSHS , Operand: You now have the Thieving level required to potentially steal double loot from 
+Offset: 1002, PUSHS , Operand: <col=000080>
+Offset: 1003, PUSHS , Operand: elves
+Offset: 1004, PUSHS , Operand: </col>
+Offset: 1005, PUSHS , Operand: . (You also need level 85 Agility.)
+Offset: 1006, CONCAT , Operand: 5
+Offset: 1007, RETURN , Operand: 0
+Offset: 1008, GOTO , Operand: 795
+Offset: 1009, LOADINT , Operand: 1
+Offset: 1010, SWITCH , Operand: 3
+Offset: 1011, GOTO , Operand: 224
+Offset: 1012, PUSHI , Operand: 2
+Offset: 1013, PUSHI , Operand: 1965
+Offset: 1014, PUSHS , Operand: Vegetable stall
+Offset: 1015, PUSHS , Operand: <br>
+Offset: 1016, PUSHS , Operand:  (after Fremennik Trials)
+Offset: 1017, CONCAT , Operand: 3
+Offset: 1018, PUSHS , Operand: You now have the Thieving level required to steal from 
+Offset: 1019, PUSHS , Operand: <col=000080>
+Offset: 1020, PUSHS , Operand: vegetable stalls
+Offset: 1021, PUSHS , Operand: </col>
+Offset: 1022, PUSHS , Operand:  (after Fremennik Trials).
+Offset: 1023, CONCAT , Operand: 5
+Offset: 1024, RETURN , Operand: 0
+Offset: 1025, GOTO , Operand: 210
+Offset: 1026, PUSHI , Operand: 5
+Offset: 1027, PUSHI , Operand: 1891
+Offset: 1028, PUSHS , Operand: Baker's stall
+Offset: 1029, PUSHS , Operand: You can now steal from 
+Offset: 1030, PUSHS , Operand: <col=000080>
+Offset: 1031, PUSHS , Operand: bakers' stalls
+Offset: 1032, PUSHS , Operand: </col>
+Offset: 1033, PUSHS , Operand: .
+Offset: 1034, CONCAT , Operand: 5
+Offset: 1035, RETURN , Operand: 0
+Offset: 1036, GOTO , Operand: 199
+Offset: 1037, PUSHI , Operand: 5
+Offset: 1038, PUSHI , Operand: 1933
+Offset: 1039, PUSHS , Operand: Ape Atoll general stall
+Offset: 1040, PUSHS , Operand: <br>
+Offset: 1041, PUSHS , Operand:  (after starting Monkey Madness)
+Offset: 1042, CONCAT , Operand: 3
+Offset: 1043, PUSHS , Operand: You now have the Thieving level required to steal from the 
+Offset: 1044, PUSHS , Operand: <col=000080>
+Offset: 1045, PUSHS , Operand: general stall
+Offset: 1046, PUSHS , Operand: </col>
+Offset: 1047, PUSHS , Operand:  on Ape Atoll (after starting Monkey Madness).
+Offset: 1048, CONCAT , Operand: 5
+Offset: 1049, RETURN , Operand: 0
+Offset: 1050, GOTO , Operand: 185
+Offset: 1051, PUSHI , Operand: 5
+Offset: 1052, PUSHI , Operand: 1978
+Offset: 1053, PUSHS , Operand: Tea stall
+Offset: 1054, PUSHS , Operand: You can now steal from 
+Offset: 1055, PUSHS , Operand: <col=000080>
+Offset: 1056, PUSHS , Operand: tea stalls
+Offset: 1057, PUSHS , Operand: </col>
+Offset: 1058, PUSHS , Operand: .
+Offset: 1059, CONCAT , Operand: 5
+Offset: 1060, RETURN , Operand: 0
+Offset: 1061, GOTO , Operand: 174
+Offset: 1062, PUSHI , Operand: 5
+Offset: 1063, PUSHI , Operand: 1755
+Offset: 1064, PUSHS , Operand: Crafting stall
+Offset: 1065, PUSHS , Operand: You can now steal from the 
+Offset: 1066, PUSHS , Operand: <col=000080>
+Offset: 1067, PUSHS , Operand: crafting stalls
+Offset: 1068, PUSHS , Operand: </col>
+Offset: 1069, PUSHS , Operand:  in Keldagrim and, after starting Monkey Madness, the Ape Atoll.
+Offset: 1070, CONCAT , Operand: 5
+Offset: 1071, RETURN , Operand: 0
+Offset: 1072, GOTO , Operand: 163
+Offset: 1073, PUSHI , Operand: 5
+Offset: 1074, PUSHI , Operand: 1963
+Offset: 1075, PUSHS , Operand: Monkey food stall
+Offset: 1076, PUSHS , Operand: <br>
+Offset: 1077, PUSHS , Operand:  (after starting Monkey Madness)
+Offset: 1078, CONCAT , Operand: 3
+Offset: 1079, PUSHS , Operand: You now have the Thieving level required to steal from the 
+Offset: 1080, PUSHS , Operand: <col=000080>
+Offset: 1081, PUSHS , Operand: monkey food stall
+Offset: 1082, PUSHS , Operand: </col>
+Offset: 1083, PUSHS , Operand:  (after starting Monkey Madness).
+Offset: 1084, CONCAT , Operand: 5
+Offset: 1085, RETURN , Operand: 0
+Offset: 1086, GOTO , Operand: 149
+Offset: 1087, PUSHI , Operand: 15
+Offset: 1088, PUSHI , Operand: 2379
+Offset: 1089, PUSHS , Operand: Rock cake stall
+Offset: 1090, PUSHS , Operand: You can now steal from 
+Offset: 1091, PUSHS , Operand: <col=000080>
+Offset: 1092, PUSHS , Operand: rock cake stalls
+Offset: 1093, PUSHS , Operand: </col>
+Offset: 1094, PUSHS , Operand: .
+Offset: 1095, CONCAT , Operand: 5
+Offset: 1096, RETURN , Operand: 0
+Offset: 1097, GOTO , Operand: 138
+Offset: 1098, PUSHI , Operand: 20
+Offset: 1099, PUSHI , Operand: 950
+Offset: 1100, PUSHS , Operand: Silk stall
+Offset: 1101, PUSHS , Operand: You can now steal from 
+Offset: 1102, PUSHS , Operand: <col=000080>
+Offset: 1103, PUSHS , Operand: silk stalls
+Offset: 1104, PUSHS , Operand: </col>
+Offset: 1105, PUSHS , Operand: .
+Offset: 1106, CONCAT , Operand: 5
+Offset: 1107, RETURN , Operand: 0
+Offset: 1108, GOTO , Operand: 127
+Offset: 1109, PUSHI , Operand: 22
+Offset: 1110, PUSHI , Operand: 7919
+Offset: 1111, PUSHS , Operand: Wine stall
+Offset: 1112, PUSHS , Operand: You can now steal from 
+Offset: 1113, PUSHS , Operand: <col=000080>
+Offset: 1114, PUSHS , Operand: wine stalls
+Offset: 1115, PUSHS , Operand: </col>
+Offset: 1116, PUSHS , Operand: .
+Offset: 1117, CONCAT , Operand: 5
+Offset: 1118, RETURN , Operand: 0
+Offset: 1119, GOTO , Operand: 116
+Offset: 1120, PUSHI , Operand: 27
+Offset: 1121, PUSHI , Operand: 5171
+Offset: 1122, PUSHS , Operand: Seed stall
+Offset: 1123, PUSHS , Operand: You can now steal from 
+Offset: 1124, PUSHS , Operand: <col=000080>
+Offset: 1125, PUSHS , Operand: seed stalls
+Offset: 1126, PUSHS , Operand: </col>
+Offset: 1127, PUSHS , Operand: .
+Offset: 1128, CONCAT , Operand: 5
+Offset: 1129, RETURN , Operand: 0
+Offset: 1130, GOTO , Operand: 105
+Offset: 1131, PUSHI , Operand: 35
+Offset: 1132, PUSHI , Operand: 948
+Offset: 1133, PUSHS , Operand: Fur stall
+Offset: 1134, PUSHS , Operand: You can now steal from 
+Offset: 1135, PUSHS , Operand: <col=000080>
+Offset: 1136, PUSHS , Operand: fur stalls
+Offset: 1137, PUSHS , Operand: </col>
+Offset: 1138, PUSHS , Operand: .
+Offset: 1139, CONCAT , Operand: 5
+Offset: 1140, RETURN , Operand: 0
+Offset: 1141, GOTO , Operand: 94
+Offset: 1142, PUSHI , Operand: 42
+Offset: 1143, PUSHI , Operand: 331
+Offset: 1144, PUSHS , Operand: Fish stall
+Offset: 1145, PUSHS , Operand: You can now steal from 
+Offset: 1146, PUSHS , Operand: <col=000080>
+Offset: 1147, PUSHS , Operand: fish stalls
+Offset: 1148, PUSHS , Operand: </col>
+Offset: 1149, PUSHS , Operand: .
+Offset: 1150, CONCAT , Operand: 5
+Offset: 1151, RETURN , Operand: 0
+Offset: 1152, GOTO , Operand: 83
+Offset: 1153, PUSHI , Operand: 49
+Offset: 1154, PUSHI , Operand: 9174
+Offset: 1155, PUSHS , Operand: Crossbow stall
+Offset: 1156, PUSHS , Operand: You can now steal from 
+Offset: 1157, PUSHS , Operand: <col=000080>
+Offset: 1158, PUSHS , Operand: crossbow stalls
+Offset: 1159, PUSHS , Operand: </col>
+Offset: 1160, PUSHS , Operand: .
+Offset: 1161, CONCAT , Operand: 5
+Offset: 1162, RETURN , Operand: 0
+Offset: 1163, GOTO , Operand: 72
+Offset: 1164, PUSHI , Operand: 50
+Offset: 1165, PUSHI , Operand: 442
+Offset: 1166, PUSHS , Operand: Silver stall
+Offset: 1167, PUSHS , Operand: You can now steal from 
+Offset: 1168, PUSHS , Operand: <col=000080>
+Offset: 1169, PUSHS , Operand: silver stalls
+Offset: 1170, PUSHS , Operand: </col>
+Offset: 1171, PUSHS , Operand: .
+Offset: 1172, CONCAT , Operand: 5
+Offset: 1173, RETURN , Operand: 0
+Offset: 1174, GOTO , Operand: 61
+Offset: 1175, PUSHI , Operand: 63
+Offset: 1176, PUSHI , Operand: 2773
+Offset: 1177, PUSHS , Operand: Customs evidence files
+Offset: 1178, PUSHS , Operand: <br>
+Offset: 1179, PUSHS , Operand:  (after Rocking Out)
+Offset: 1180, CONCAT , Operand: 3
+Offset: 1181, PUSHS , Operand: You now have the Thieving level to steal from the 
+Offset: 1182, PUSHS , Operand: <col=000080>
+Offset: 1183, PUSHS , Operand: customs evidence files
+Offset: 1184, PUSHS , Operand: </col>
+Offset: 1185, PUSHS , Operand:  of 
+Offset: 1186, PUSHS , Operand: <col=000080>
+Offset: 1187, PUSHS , Operand: Rock Island Prison
+Offset: 1188, PUSHS , Operand: </col>
+Offset: 1189, PUSHS , Operand:  (after Rocking Out).
+Offset: 1190, CONCAT , Operand: 9
+Offset: 1191, RETURN , Operand: 0
+Offset: 1192, GOTO , Operand: 43
+Offset: 1193, PUSHI , Operand: 65
+Offset: 1194, PUSHI , Operand: 556
+Offset: 1195, PUSHS , Operand: Magic stall
+Offset: 1196, PUSHS , Operand: You can now steal from 
+Offset: 1197, PUSHS , Operand: <col=000080>
+Offset: 1198, PUSHS , Operand: magic stalls
+Offset: 1199, PUSHS , Operand: </col>
+Offset: 1200, PUSHS , Operand: .
+Offset: 1201, CONCAT , Operand: 5
+Offset: 1202, RETURN , Operand: 0
+Offset: 1203, GOTO , Operand: 32
+Offset: 1204, PUSHI , Operand: 65
+Offset: 1205, PUSHI , Operand: 1323
+Offset: 1206, PUSHS , Operand: Scimitar stall
+Offset: 1207, PUSHS , Operand: You can now steal from 
+Offset: 1208, PUSHS , Operand: <col=000080>
+Offset: 1209, PUSHS , Operand: scimitar stalls
+Offset: 1210, PUSHS , Operand: </col>
+Offset: 1211, PUSHS , Operand: .
+Offset: 1212, CONCAT , Operand: 5
+Offset: 1213, RETURN , Operand: 0
+Offset: 1214, GOTO , Operand: 21
+Offset: 1215, PUSHI , Operand: 65
+Offset: 1216, PUSHI , Operand: 2007
+Offset: 1217, PUSHS , Operand: Spice stall
+Offset: 1218, PUSHS , Operand: You can now steal from 
+Offset: 1219, PUSHS , Operand: <col=000080>
+Offset: 1220, PUSHS , Operand: spice stalls
+Offset: 1221, PUSHS , Operand: </col>
+Offset: 1222, PUSHS , Operand: .
+Offset: 1223, CONCAT , Operand: 5
+Offset: 1224, RETURN , Operand: 0
+Offset: 1225, GOTO , Operand: 10
+Offset: 1226, PUSHI , Operand: 75
+Offset: 1227, PUSHI , Operand: 1607
+Offset: 1228, PUSHS , Operand: Gem stall
+Offset: 1229, PUSHS , Operand: You can now steal from 
+Offset: 1230, PUSHS , Operand: <col=000080>
+Offset: 1231, PUSHS , Operand: gem stalls
+Offset: 1232, PUSHS , Operand: </col>
+Offset: 1233, PUSHS , Operand: .
+Offset: 1234, CONCAT , Operand: 5
+Offset: 1235, RETURN , Operand: 0
+Offset: 1236, GOTO , Operand: 567
+Offset: 1237, LOADINT , Operand: 1
+Offset: 1238, SWITCH , Operand: 4
+Offset: 1239, GOTO , Operand: 154
+Offset: 1240, PUSHI , Operand: 13
+Offset: 1241, PUSHI , Operand: 1001
+Offset: 1242, PUSHS , Operand: Ardougne, Rellekka and the Wilderness
+Offset: 1243, PUSHS , Operand: You can now steal from certain 
+Offset: 1244, PUSHS , Operand: <col=000080>
+Offset: 1245, PUSHS , Operand: chests
+Offset: 1246, PUSHS , Operand: </col>
+Offset: 1247, PUSHS , Operand:  in 
+Offset: 1248, PUSHS , Operand: <col=000080>
+Offset: 1249, PUSHS , Operand: Ardougne
+Offset: 1250, PUSHS , Operand: </col>
+Offset: 1251, PUSHS , Operand: , 
+Offset: 1252, PUSHS , Operand: <col=000080>
+Offset: 1253, PUSHS , Operand: Rellekka
+Offset: 1254, PUSHS , Operand: </col>
+Offset: 1255, PUSHS , Operand:  and the 
+Offset: 1256, PUSHS , Operand: <col=000080>
+Offset: 1257, PUSHS , Operand: Wilderness
+Offset: 1258, PUSHS , Operand: </col>
+Offset: 1259, PUSHS , Operand: .
+Offset: 1260, CONCAT , Operand: 17
+Offset: 1261, RETURN , Operand: 0
+Offset: 1262, GOTO , Operand: 131
+Offset: 1263, PUSHI , Operand: 28
+Offset: 1264, PUSHI , Operand: 561
+Offset: 1265, PUSHS , Operand: Upstairs in Ardougne and Rellekka
+Offset: 1266, PUSHS , Operand: You can now steal from certain 
+Offset: 1267, PUSHS , Operand: <col=000080>
+Offset: 1268, PUSHS , Operand: chests
+Offset: 1269, PUSHS , Operand: </col>
+Offset: 1270, PUSHS , Operand:  upstairs in 
+Offset: 1271, PUSHS , Operand: <col=000080>
+Offset: 1272, PUSHS , Operand: Ardougne
+Offset: 1273, PUSHS , Operand: </col>
+Offset: 1274, PUSHS , Operand:  and 
+Offset: 1275, PUSHS , Operand: <col=000080>
+Offset: 1276, PUSHS , Operand: Rellekka
+Offset: 1277, PUSHS , Operand: </col>
+Offset: 1278, PUSHS , Operand: .
+Offset: 1279, CONCAT , Operand: 13
+Offset: 1280, RETURN , Operand: 0
+Offset: 1281, GOTO , Operand: 112
+Offset: 1282, PUSHI , Operand: 43
+Offset: 1283, PUSHI , Operand: 1001
+Offset: 1284, PUSHS , Operand: Upstairs in Ardougne
+Offset: 1285, PUSHS , Operand: You can now steal from certain 
+Offset: 1286, PUSHS , Operand: <col=000080>
+Offset: 1287, PUSHS , Operand: chests
+Offset: 1288, PUSHS , Operand: </col>
+Offset: 1289, PUSHS , Operand:  upstairs in 
+Offset: 1290, PUSHS , Operand: <col=000080>
+Offset: 1291, PUSHS , Operand: Ardougne
+Offset: 1292, PUSHS , Operand: </col>
+Offset: 1293, PUSHS , Operand: .
+Offset: 1294, CONCAT , Operand: 9
+Offset: 1295, RETURN , Operand: 0
+Offset: 1296, GOTO , Operand: 97
+Offset: 1297, PUSHI , Operand: 47
+Offset: 1298, PUSHI , Operand: 41
+Offset: 1299, PUSHS , Operand: Hemenster
+Offset: 1300, PUSHS , Operand: You can now steal from certain 
+Offset: 1301, PUSHS , Operand: <col=000080>
+Offset: 1302, PUSHS , Operand: chests
+Offset: 1303, PUSHS , Operand: </col>
+Offset: 1304, PUSHS , Operand:  in 
+Offset: 1305, PUSHS , Operand: <col=000080>
+Offset: 1306, PUSHS , Operand: Hemenster
+Offset: 1307, PUSHS , Operand: </col>
+Offset: 1308, PUSHS , Operand: .
+Offset: 1309, CONCAT , Operand: 9
+Offset: 1310, RETURN , Operand: 0
+Offset: 1311, GOTO , Operand: 82
+Offset: 1312, PUSHI , Operand: 47
+Offset: 1313, PUSHI , Operand: 1001
+Offset: 1314, PUSHS , Operand: Rellekka
+Offset: 1315, PUSHS , Operand: You can now steal from certain 
+Offset: 1316, PUSHS , Operand: <col=000080>
+Offset: 1317, PUSHS , Operand: chests
+Offset: 1318, PUSHS , Operand: </col>
+Offset: 1319, PUSHS , Operand:  in 
+Offset: 1320, PUSHS , Operand: <col=000080>
+Offset: 1321, PUSHS , Operand: Rellekka
+Offset: 1322, PUSHS , Operand: </col>
+Offset: 1323, PUSHS , Operand: .
+Offset: 1324, CONCAT , Operand: 9
+Offset: 1325, RETURN , Operand: 0
+Offset: 1326, GOTO , Operand: 67
+Offset: 1327, PUSHI , Operand: 52
+Offset: 1328, PUSHI , Operand: 4522
+Offset: 1329, PUSHS , Operand: Dorgesh-Kaan (average chests)
+Offset: 1330, PUSHS , Operand: You can now steal from 
+Offset: 1331, PUSHS , Operand: <col=000080>
+Offset: 1332, PUSHS , Operand: average chests
+Offset: 1333, PUSHS , Operand: </col>
+Offset: 1334, PUSHS , Operand:  in 
+Offset: 1335, PUSHS , Operand: <col=000080>
+Offset: 1336, PUSHS , Operand: Dorgesh-Kaan
+Offset: 1337, PUSHS , Operand: </col>
+Offset: 1338, PUSHS , Operand: .
+Offset: 1339, CONCAT , Operand: 9
+Offset: 1340, RETURN , Operand: 0
+Offset: 1341, GOTO , Operand: 52
+Offset: 1342, PUSHI , Operand: 59
+Offset: 1343, PUSHI , Operand: 565
+Offset: 1344, PUSHS , Operand: Chaos Druid Tower, north of Ardougne
+Offset: 1345, PUSHS , Operand: You can now steal from 
+Offset: 1346, PUSHS , Operand: <col=000080>
+Offset: 1347, PUSHS , Operand: chests
+Offset: 1348, PUSHS , Operand: </col>
+Offset: 1349, PUSHS , Operand:  in the 
+Offset: 1350, PUSHS , Operand: <col=000080>
+Offset: 1351, PUSHS , Operand: Chaos Druid Tower
+Offset: 1352, PUSHS , Operand: </col>
+Offset: 1353, PUSHS , Operand: , north of 
+Offset: 1354, PUSHS , Operand: <col=000080>
+Offset: 1355, PUSHS , Operand: Ardougne
+Offset: 1356, PUSHS , Operand: </col>
+Offset: 1357, PUSHS , Operand: .
+Offset: 1358, CONCAT , Operand: 13
+Offset: 1359, RETURN , Operand: 0
+Offset: 1360, GOTO , Operand: 33
+Offset: 1361, PUSHI , Operand: 72
+Offset: 1362, PUSHI , Operand: 383
+Offset: 1363, PUSHS , Operand: King Lathas's castle in Ardougne
+Offset: 1364, PUSHS , Operand: You can now steal from 
+Offset: 1365, PUSHS , Operand: <col=000080>
+Offset: 1366, PUSHS , Operand: chests
+Offset: 1367, PUSHS , Operand: </col>
+Offset: 1368, PUSHS , Operand:  in 
+Offset: 1369, PUSHS , Operand: <col=000080>
+Offset: 1370, PUSHS , Operand: King Lathas's castle
+Offset: 1371, PUSHS , Operand: </col>
+Offset: 1372, PUSHS , Operand:  in 
+Offset: 1373, PUSHS , Operand: <col=000080>
+Offset: 1374, PUSHS , Operand: Ardougne
+Offset: 1375, PUSHS , Operand: </col>
+Offset: 1376, PUSHS , Operand: .
+Offset: 1377, CONCAT , Operand: 13
+Offset: 1378, RETURN , Operand: 0
+Offset: 1379, GOTO , Operand: 14
+Offset: 1380, PUSHI , Operand: 78
+Offset: 1381, PUSHI , Operand: 1623
+Offset: 1382, PUSHS , Operand: Dorgesh-Kaan (rich chests)
+Offset: 1383, PUSHS , Operand: You can now steal from 
+Offset: 1384, PUSHS , Operand: <col=000080>
+Offset: 1385, PUSHS , Operand: rich chests
+Offset: 1386, PUSHS , Operand: </col>
+Offset: 1387, PUSHS , Operand:  in 
+Offset: 1388, PUSHS , Operand: <col=000080>
+Offset: 1389, PUSHS , Operand: Dorgesh-Kaan
+Offset: 1390, PUSHS , Operand: </col>
+Offset: 1391, PUSHS , Operand: .
+Offset: 1392, CONCAT , Operand: 9
+Offset: 1393, RETURN , Operand: 0
+Offset: 1394, GOTO , Operand: 409
+Offset: 1395, LOADINT , Operand: 1
+Offset: 1396, SWITCH , Operand: 5
+Offset: 1397, GOTO , Operand: 73
+Offset: 1398, PUSHI , Operand: 15
+Offset: 1399, PUSHI , Operand: 10593
+Offset: 1400, PUSHS , Operand: Cowbells from dairy cows (after starting Cold War)
+Offset: 1401, PUSHS , Operand: You now have the Thieving level required to steal 
+Offset: 1402, PUSHS , Operand: <col=000080>
+Offset: 1403, PUSHS , Operand: cowbells
+Offset: 1404, PUSHS , Operand: </col>
+Offset: 1405, PUSHS , Operand:  from 
+Offset: 1406, PUSHS , Operand: <col=000080>
+Offset: 1407, PUSHS , Operand: dairy cows
+Offset: 1408, PUSHS , Operand: </col>
+Offset: 1409, PUSHS , Operand:  (after starting Cold War).
+Offset: 1410, CONCAT , Operand: 9
+Offset: 1411, RETURN , Operand: 0
+Offset: 1412, GOTO , Operand: 58
+Offset: 1413, PUSHI , Operand: 20
+Offset: 1414, PUSHI , Operand: 4834
+Offset: 1415, PUSHS , Operand: Zogre coffins at Jiggig
+Offset: 1416, PUSHS , Operand: You can now pick locks in 
+Offset: 1417, PUSHS , Operand: <col=000080>
+Offset: 1418, PUSHS , Operand: zogre coffins
+Offset: 1419, PUSHS , Operand: </col>
+Offset: 1420, PUSHS , Operand:  at 
+Offset: 1421, PUSHS , Operand: <col=000080>
+Offset: 1422, PUSHS , Operand: Jiggig
+Offset: 1423, PUSHS , Operand: </col>
+Offset: 1424, PUSHS , Operand: .
+Offset: 1425, CONCAT , Operand: 9
+Offset: 1426, RETURN , Operand: 0
+Offset: 1427, GOTO , Operand: 43
+Offset: 1428, PUSHI , Operand: 30
+Offset: 1429, PUSHI , Operand: 4599
+Offset: 1430, PUSHS , Operand: Blackjack lure and knockout
+Offset: 1431, PUSHS , Operand: <br>
+Offset: 1432, PUSHS , Operand:  (after starting The Feud)
+Offset: 1433, CONCAT , Operand: 3
+Offset: 1434, PUSHS , Operand: Members now have the Thieving level required to use a 
+Offset: 1435, PUSHS , Operand: <col=000080>
+Offset: 1436, PUSHS , Operand: blackjack
+Offset: 1437, PUSHS , Operand: </col>
+Offset: 1438, PUSHS , Operand:  to lure and knockout a target (after starting The Feud).
+Offset: 1439, CONCAT , Operand: 5
+Offset: 1440, RETURN , Operand: 0
+Offset: 1441, GOTO , Operand: 29
+Offset: 1442, PUSHI , Operand: 44
+Offset: 1443, PUSHI , Operand: 10981
+Offset: 1444, PUSHS , Operand: Wire from the Dorgeshuun wire machine.
+Offset: 1445, PUSHS , Operand: You can now steal 
+Offset: 1446, PUSHS , Operand: <col=000080>
+Offset: 1447, PUSHS , Operand: wire
+Offset: 1448, PUSHS , Operand: </col>
+Offset: 1449, PUSHS , Operand:  from the 
+Offset: 1450, PUSHS , Operand: <col=000080>
+Offset: 1451, PUSHS , Operand: Dorgeshuun wire machine
+Offset: 1452, PUSHS , Operand: </col>
+Offset: 1453, PUSHS , Operand: .
+Offset: 1454, CONCAT , Operand: 9
+Offset: 1455, RETURN , Operand: 0
+Offset: 1456, GOTO , Operand: 14
+Offset: 1457, PUSHI , Operand: 82
+Offset: 1458, PUSHI , Operand: 1523
+Offset: 1459, PUSHS , Operand: Pick lock to enter Agility Dungeon from Yanille
+Offset: 1460, PUSHS , Operand: You can now use your lock-picking skills to access the 
+Offset: 1461, PUSHS , Operand: <col=000080>
+Offset: 1462, PUSHS , Operand: Agility Dungeon
+Offset: 1463, PUSHS , Operand: </col>
+Offset: 1464, PUSHS , Operand:  from 
+Offset: 1465, PUSHS , Operand: <col=000080>
+Offset: 1466, PUSHS , Operand: Yanille
+Offset: 1467, PUSHS , Operand: </col>
+Offset: 1468, PUSHS , Operand: .
+Offset: 1469, CONCAT , Operand: 9
+Offset: 1470, RETURN , Operand: 0
+Offset: 1471, GOTO , Operand: 332
+Offset: 1472, LOADINT , Operand: 1
+Offset: 1473, SWITCH , Operand: 6
+Offset: 1474, GOTO , Operand: 43
+Offset: 1475, PUSHI , Operand: 91
+Offset: 1476, PUSHI , Operand: 18778
+Offset: 1477, PUSHS , Operand: Starved ancient effigies
+Offset: 1478, PUSHS , Operand: You can now investigate 
+Offset: 1479, PUSHS , Operand: <col=000080>
+Offset: 1480, PUSHS , Operand: starved ancient effigies
+Offset: 1481, PUSHS , Operand: </col>
+Offset: 1482, PUSHS , Operand:  using your knowledge of Thieving.
+Offset: 1483, CONCAT , Operand: 5
+Offset: 1484, RETURN , Operand: 0
+Offset: 1485, GOTO , Operand: 32
+Offset: 1486, PUSHI , Operand: 93
+Offset: 1487, PUSHI , Operand: 18779
+Offset: 1488, PUSHS , Operand: Nourished ancient effigies
+Offset: 1489, PUSHS , Operand: You can now investigate 
+Offset: 1490, PUSHS , Operand: <col=000080>
+Offset: 1491, PUSHS , Operand: nourished ancient effigies
+Offset: 1492, PUSHS , Operand: </col>
+Offset: 1493, PUSHS , Operand:  using your knowledge of Thieving.
+Offset: 1494, CONCAT , Operand: 5
+Offset: 1495, RETURN , Operand: 0
+Offset: 1496, GOTO , Operand: 21
+Offset: 1497, PUSHI , Operand: 95
+Offset: 1498, PUSHI , Operand: 18780
+Offset: 1499, PUSHS , Operand: Sated ancient effigies
+Offset: 1500, PUSHS , Operand: You can now investigate 
+Offset: 1501, PUSHS , Operand: <col=000080>
+Offset: 1502, PUSHS , Operand: sated ancient effigies
+Offset: 1503, PUSHS , Operand: </col>
+Offset: 1504, PUSHS , Operand:  using your knowledge of Thieving.
+Offset: 1505, CONCAT , Operand: 5
+Offset: 1506, RETURN , Operand: 0
+Offset: 1507, GOTO , Operand: 10
+Offset: 1508, PUSHI , Operand: 97
+Offset: 1509, PUSHI , Operand: 18781
+Offset: 1510, PUSHS , Operand: Gorged ancient effigies
+Offset: 1511, PUSHS , Operand: You can now investigate 
+Offset: 1512, PUSHS , Operand: <col=000080>
+Offset: 1513, PUSHS , Operand: gorged ancient effigies
+Offset: 1514, PUSHS , Operand: </col>
+Offset: 1515, PUSHS , Operand:  using your knowledge of Thieving.
+Offset: 1516, CONCAT , Operand: 5
+Offset: 1517, RETURN , Operand: 0
+Offset: 1518, GOTO , Operand: 285
+Offset: 1519, LOADINT , Operand: 1
+Offset: 1520, SWITCH , Operand: 7
+Offset: 1521, GOTO , Operand: 235
+Offset: 1522, PUSHI , Operand: -1
+Offset: 1523, PUSHI , Operand: 7620
+Offset: 1524, PUSHS , Operand: In Stealing Creation, you can pickpocket players 20 levels above your own.
+Offset: 1525, PUSHS , Operand: 
+Offset: 1526, RETURN , Operand: 0
+Offset: 1527, GOTO , Operand: 229
+Offset: 1528, PUSHI , Operand: 1
+Offset: 1529, PUSHI , Operand: 10855
+Offset: 1530, PUSHS , Operand: Sorceress's Garden - Winter
+Offset: 1531, PUSHS , Operand: You can now enter the 
+Offset: 1532, PUSHS , Operand: <col=000080>
+Offset: 1533, PUSHS , Operand: winter garden
+Offset: 1534, PUSHS , Operand: </col>
+Offset: 1535, PUSHS , Operand:  in 
+Offset: 1536, PUSHS , Operand: <col=000080>
+Offset: 1537, PUSHS , Operand: Sorceress's Garden
+Offset: 1538, PUSHS , Operand: </col>
+Offset: 1539, PUSHS , Operand: .
+Offset: 1540, CONCAT , Operand: 9
+Offset: 1541, RETURN , Operand: 0
+Offset: 1542, GOTO , Operand: 214
+Offset: 1543, PUSHI , Operand: 21
+Offset: 1544, PUSHI , Operand: 9026
+Offset: 1545, PUSHS , Operand: Pyramid Plunder - Room 1
+Offset: 1546, PUSHS , Operand: You can now enter the 
+Offset: 1547, PUSHS , Operand: <col=000080>
+Offset: 1548, PUSHS , Operand: first chamber
+Offset: 1549, PUSHS , Operand: </col>
+Offset: 1550, PUSHS , Operand:  of the 
+Offset: 1551, PUSHS , Operand: <col=000080>
+Offset: 1552, PUSHS , Operand: Pyramid of Jalsavrah
+Offset: 1553, PUSHS , Operand: </col>
+Offset: 1554, PUSHS , Operand:  in 
+Offset: 1555, PUSHS , Operand: <col=000080>
+Offset: 1556, PUSHS , Operand: Pyramid Plunder
+Offset: 1557, PUSHS , Operand: </col>
+Offset: 1558, PUSHS , Operand: .
+Offset: 1559, CONCAT , Operand: 13
+Offset: 1560, RETURN , Operand: 0
+Offset: 1561, GOTO , Operand: 195
+Offset: 1562, PUSHI , Operand: 25
+Offset: 1563, PUSHI , Operand: 10853
+Offset: 1564, PUSHS , Operand: Sorceress's Garden - Spring
+Offset: 1565, PUSHS , Operand: You can now enter the 
+Offset: 1566, PUSHS , Operand: <col=000080>
+Offset: 1567, PUSHS , Operand: spring garden
+Offset: 1568, PUSHS , Operand: </col>
+Offset: 1569, PUSHS , Operand:  in 
+Offset: 1570, PUSHS , Operand: <col=000080>
+Offset: 1571, PUSHS , Operand: Sorceress's Garden
+Offset: 1572, PUSHS , Operand: </col>
+Offset: 1573, PUSHS , Operand: .
+Offset: 1574, CONCAT , Operand: 9
+Offset: 1575, RETURN , Operand: 0
+Offset: 1576, GOTO , Operand: 180
+Offset: 1577, PUSHI , Operand: 31
+Offset: 1578, PUSHI , Operand: 9032
+Offset: 1579, PUSHS , Operand: Pyramid Plunder - Room 2
+Offset: 1580, PUSHS , Operand: You can now enter the 
+Offset: 1581, PUSHS , Operand: <col=000080>
+Offset: 1582, PUSHS , Operand: second chamber
+Offset: 1583, PUSHS , Operand: </col>
+Offset: 1584, PUSHS , Operand:  of the 
+Offset: 1585, PUSHS , Operand: <col=000080>
+Offset: 1586, PUSHS , Operand: Pyramid of Jalsavrah
+Offset: 1587, PUSHS , Operand: </col>
+Offset: 1588, PUSHS , Operand:  in 
+Offset: 1589, PUSHS , Operand: <col=000080>
+Offset: 1590, PUSHS , Operand: Pyramid Plunder
+Offset: 1591, PUSHS , Operand: </col>
+Offset: 1592, PUSHS , Operand: .
+Offset: 1593, CONCAT , Operand: 13
+Offset: 1594, RETURN , Operand: 0
+Offset: 1595, GOTO , Operand: 161
+Offset: 1596, PUSHI , Operand: 41
+Offset: 1597, PUSHI , Operand: 9036
+Offset: 1598, PUSHS , Operand: Pyramid Plunder - Room 3
+Offset: 1599, PUSHS , Operand: You can now enter the 
+Offset: 1600, PUSHS , Operand: <col=000080>
+Offset: 1601, PUSHS , Operand: third chamber
+Offset: 1602, PUSHS , Operand: </col>
+Offset: 1603, PUSHS , Operand:  of the 
+Offset: 1604, PUSHS , Operand: <col=000080>
+Offset: 1605, PUSHS , Operand: Pyramid of Jalsavrah
+Offset: 1606, PUSHS , Operand: </col>
+Offset: 1607, PUSHS , Operand:  in 
+Offset: 1608, PUSHS , Operand: <col=000080>
+Offset: 1609, PUSHS , Operand: Pyramid Plunder
+Offset: 1610, PUSHS , Operand: </col>
+Offset: 1611, PUSHS , Operand: .
+Offset: 1612, CONCAT , Operand: 13
+Offset: 1613, RETURN , Operand: 0
+Offset: 1614, GOTO , Operand: 142
+Offset: 1615, PUSHI , Operand: 45
+Offset: 1616, PUSHI , Operand: 10854
+Offset: 1617, PUSHS , Operand: Sorceress's Garden - Autumn
+Offset: 1618, PUSHS , Operand: You can now enter the 
+Offset: 1619, PUSHS , Operand: <col=000080>
+Offset: 1620, PUSHS , Operand: autumn garden
+Offset: 1621, PUSHS , Operand: </col>
+Offset: 1622, PUSHS , Operand:  in 
+Offset: 1623, PUSHS , Operand: <col=000080>
+Offset: 1624, PUSHS , Operand: Sorceress's Garden
+Offset: 1625, PUSHS , Operand: </col>
+Offset: 1626, PUSHS , Operand: .
+Offset: 1627, CONCAT , Operand: 9
+Offset: 1628, RETURN , Operand: 0
+Offset: 1629, GOTO , Operand: 127
+Offset: 1630, PUSHI , Operand: 50
+Offset: 1631, PUSHI , Operand: 5559
+Offset: 1632, PUSHS , Operand: Rogues' Den
+Offset: 1633, PUSHS , Operand: <br>
+Offset: 1634, PUSHS , Operand:  (with 50 Agility)
+Offset: 1635, CONCAT , Operand: 3
+Offset: 1636, PUSHS , Operand: You now have the Thieving level required to attempt the 
+Offset: 1637, PUSHS , Operand: <col=000080>
+Offset: 1638, PUSHS , Operand: Rogues' Den
+Offset: 1639, PUSHS , Operand: </col>
+Offset: 1640, PUSHS , Operand: , located below the Toad and Chicken in 
+Offset: 1641, PUSHS , Operand: <col=000080>
+Offset: 1642, PUSHS , Operand: Burthorpe
+Offset: 1643, PUSHS , Operand: </col>
+Offset: 1644, PUSHS , Operand: . (You also need level 50 Agility.)
+Offset: 1645, CONCAT , Operand: 9
+Offset: 1646, RETURN , Operand: 0
+Offset: 1647, GOTO , Operand: 109
+Offset: 1648, PUSHI , Operand: 51
+Offset: 1649, PUSHI , Operand: 9042
+Offset: 1650, PUSHS , Operand: Pyramid Plunder - Room 4
+Offset: 1651, PUSHS , Operand: You can now enter the 
+Offset: 1652, PUSHS , Operand: <col=000080>
+Offset: 1653, PUSHS , Operand: fourth chamber
+Offset: 1654, PUSHS , Operand: </col>
+Offset: 1655, PUSHS , Operand:  of the 
+Offset: 1656, PUSHS , Operand: <col=000080>
+Offset: 1657, PUSHS , Operand: Pyramid of Jalsavrah
+Offset: 1658, PUSHS , Operand: </col>
+Offset: 1659, PUSHS , Operand:  in 
+Offset: 1660, PUSHS , Operand: <col=000080>
+Offset: 1661, PUSHS , Operand: Pyramid Plunder
+Offset: 1662, PUSHS , Operand: </col>
+Offset: 1663, PUSHS , Operand: .
+Offset: 1664, CONCAT , Operand: 13
+Offset: 1665, RETURN , Operand: 0
+Offset: 1666, GOTO , Operand: 90
+Offset: 1667, PUSHI , Operand: 61
+Offset: 1668, PUSHI , Operand: 9038
+Offset: 1669, PUSHS , Operand: Pyramid Plunder - Room 5
+Offset: 1670, PUSHS , Operand: You can now enter the 
+Offset: 1671, PUSHS , Operand: <col=000080>
+Offset: 1672, PUSHS , Operand: fifth chamber
+Offset: 1673, PUSHS , Operand: </col>
+Offset: 1674, PUSHS , Operand:  of the 
+Offset: 1675, PUSHS , Operand: <col=000080>
+Offset: 1676, PUSHS , Operand: Pyramid of Jalsavrah
+Offset: 1677, PUSHS , Operand: </col>
+Offset: 1678, PUSHS , Operand:  in 
+Offset: 1679, PUSHS , Operand: <col=000080>
+Offset: 1680, PUSHS , Operand: Pyramid Plunder
+Offset: 1681, PUSHS , Operand: </col>
+Offset: 1682, PUSHS , Operand: .
+Offset: 1683, CONCAT , Operand: 13
+Offset: 1684, RETURN , Operand: 0
+Offset: 1685, GOTO , Operand: 71
+Offset: 1686, PUSHI , Operand: 65
+Offset: 1687, PUSHI , Operand: 10852
+Offset: 1688, PUSHS , Operand: Sorceress's Garden - Summer
+Offset: 1689, PUSHS , Operand: You can now enter the 
+Offset: 1690, PUSHS , Operand: <col=000080>
+Offset: 1691, PUSHS , Operand: summer garden
+Offset: 1692, PUSHS , Operand: </col>
+Offset: 1693, PUSHS , Operand:  in 
+Offset: 1694, PUSHS , Operand: <col=000080>
+Offset: 1695, PUSHS , Operand: Sorceress's Garden
+Offset: 1696, PUSHS , Operand: </col>
+Offset: 1697, PUSHS , Operand: .
+Offset: 1698, CONCAT , Operand: 9
+Offset: 1699, RETURN , Operand: 0
+Offset: 1700, GOTO , Operand: 56
+Offset: 1701, PUSHI , Operand: 71
+Offset: 1702, PUSHI , Operand: 9040
+Offset: 1703, PUSHS , Operand: Pyramid Plunder - Room 6
+Offset: 1704, PUSHS , Operand: You can now enter the 
+Offset: 1705, PUSHS , Operand: <col=000080>
+Offset: 1706, PUSHS , Operand: sixth chamber
+Offset: 1707, PUSHS , Operand: </col>
+Offset: 1708, PUSHS , Operand:  of the 
+Offset: 1709, PUSHS , Operand: <col=000080>
+Offset: 1710, PUSHS , Operand: Pyramid of Jalsavrah
+Offset: 1711, PUSHS , Operand: </col>
+Offset: 1712, PUSHS , Operand:  in 
+Offset: 1713, PUSHS , Operand: <col=000080>
+Offset: 1714, PUSHS , Operand: Pyramid Plunder
+Offset: 1715, PUSHS , Operand: </col>
+Offset: 1716, PUSHS , Operand: .
+Offset: 1717, CONCAT , Operand: 13
+Offset: 1718, RETURN , Operand: 0
+Offset: 1719, GOTO , Operand: 37
+Offset: 1720, PUSHI , Operand: 81
+Offset: 1721, PUSHI , Operand: 9028
+Offset: 1722, PUSHS , Operand: Pyramid Plunder - Room 7
+Offset: 1723, PUSHS , Operand: You can now enter the 
+Offset: 1724, PUSHS , Operand: <col=000080>
+Offset: 1725, PUSHS , Operand: seventh chamber
+Offset: 1726, PUSHS , Operand: </col>
+Offset: 1727, PUSHS , Operand:  of the 
+Offset: 1728, PUSHS , Operand: <col=000080>
+Offset: 1729, PUSHS , Operand: Pyramid of Jalsavrah
+Offset: 1730, PUSHS , Operand: </col>
+Offset: 1731, PUSHS , Operand:  in 
+Offset: 1732, PUSHS , Operand: <col=000080>
+Offset: 1733, PUSHS , Operand: Pyramid Plunder
+Offset: 1734, PUSHS , Operand: </col>
+Offset: 1735, PUSHS , Operand: .
+Offset: 1736, CONCAT , Operand: 13
+Offset: 1737, RETURN , Operand: 0
+Offset: 1738, GOTO , Operand: 18
+Offset: 1739, PUSHI , Operand: 91
+Offset: 1740, PUSHI , Operand: 9034
+Offset: 1741, PUSHS , Operand: Pyramid Plunder - Room 8
+Offset: 1742, PUSHS , Operand: You can now enter the 
+Offset: 1743, PUSHS , Operand: <col=000080>
+Offset: 1744, PUSHS , Operand: eighth chamber
+Offset: 1745, PUSHS , Operand: </col>
+Offset: 1746, PUSHS , Operand:  of the 
+Offset: 1747, PUSHS , Operand: <col=000080>
+Offset: 1748, PUSHS , Operand: Pyramid of Jalsavrah
+Offset: 1749, PUSHS , Operand: </col>
+Offset: 1750, PUSHS , Operand:  in 
+Offset: 1751, PUSHS , Operand: <col=000080>
+Offset: 1752, PUSHS , Operand: Pyramid Plunder
+Offset: 1753, PUSHS , Operand: </col>
+Offset: 1754, PUSHS , Operand: .
+Offset: 1755, CONCAT , Operand: 13
+Offset: 1756, RETURN , Operand: 0
+Offset: 1757, GOTO , Operand: 46
+Offset: 1758, LOADINT , Operand: 1
+Offset: 1759, SWITCH , Operand: 8
+Offset: 1760, GOTO , Operand: 19
+Offset: 1761, PUSHI , Operand: -1
+Offset: 1762, PUSHI , Operand: 15707
+Offset: 1763, PUSHS , Operand: Dungeoneering skill tasks
+Offset: 1764, PUSHS , Operand: <br>
+Offset: 1765, PUSHS , Operand: <br>
+Offset: 1766, PUSHS , Operand: As your Thieving level increases, you will be able to attempt higher-level Thieving tasks within Daemonheim.
+Offset: 1767, PUSHS , Operand: <br>
+Offset: 1768, PUSHS , Operand: <br>
+Offset: 1769, PUSHS , Operand: You will be more likely to succeed when attempting Thieving tasks within Daemonheim.
+Offset: 1770, PUSHS , Operand: <br>
+Offset: 1771, PUSHS , Operand: <br>
+Offset: 1772, PUSHS , Operand: You will also be able to open higher level 
+Offset: 1773, PUSHS , Operand: <col=000080>
+Offset: 1774, PUSHS , Operand: locked chests
+Offset: 1775, PUSHS , Operand: </col>
+Offset: 1776, PUSHS , Operand:  within Daemonheim.
+Offset: 1777, CONCAT , Operand: 14
+Offset: 1778, PUSHS , Operand: 
+Offset: 1779, RETURN , Operand: 0
+Offset: 1780, GOTO , Operand: 23
+Offset: 1781, LOADINT , Operand: 1
+Offset: 1782, PUSHI , Operand: 0
+Offset: 1783, IFEQ , Operand: 1
+Offset: 1784, GOTO , Operand: 19
+Offset: 1785, PUSHI , Operand: 99
+Offset: 1786, PUSHI , Operand: 9777
+Offset: 1787, PUSHS , Operand: Skill mastery
+Offset: 1788, PUSHS , Operand: <col=000080>
+Offset: 1789, PUSHS , Operand: Congratulations! You are now a master thief. Why not visit 
+Offset: 1790, PUSHS , Operand: <col=800000>
+Offset: 1791, PUSHS , Operand: Martin Thwait
+Offset: 1792, PUSHS , Operand: <col=000080>
+Offset: 1793, PUSHS , Operand: , who runs a shop at the 
+Offset: 1794, PUSHS , Operand: <col=800000>
+Offset: 1795, PUSHS , Operand: Rogues' Den
+Offset: 1796, PUSHS , Operand: <col=000080>
+Offset: 1797, PUSHS , Operand: . He has something special that is only available to true masters of the 
+Offset: 1798, PUSHS , Operand: <col=800000>
+Offset: 1799, PUSHS , Operand: Thieving
+Offset: 1800, PUSHS , Operand: <col=000080>
+Offset: 1801, PUSHS , Operand:  skill!
+Offset: 1802, CONCAT , Operand: 14
+Offset: 1803, RETURN , Operand: 0
+Offset: 1804, PUSHI , Operand: 0
+Offset: 1805, PUSHI , Operand: -1
+Offset: 1806, PUSHS , Operand: 
+Offset: 1807, PUSHS , Operand: 
+Offset: 1808, RETURN , Operand: 0
+
+================================================
+                Switch Table 0                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 239
+Key: 2, Value: 1007
+Key: 3, Value: 1235
+Key: 4, Value: 1393
+Key: 5, Value: 1470
+Key: 6, Value: 1517
+Key: 7, Value: 1756
+Key: 8, Value: 1779
+
+================================================
+                Switch Table 1                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 16
+Key: 2, Value: 27
+Key: 3, Value: 38
+Key: 4, Value: 49
+Key: 5, Value: 60
+Key: 6, Value: 71
+Key: 7, Value: 82
+Key: 8, Value: 93
+Key: 9, Value: 104
+Key: 10, Value: 115
+Key: 11, Value: 126
+Key: 12, Value: 137
+Key: 13, Value: 148
+Key: 14, Value: 159
+Key: 15, Value: 170
+Key: 17, Value: 192
+Key: 16, Value: 181
+Key: 19, Value: 214
+Key: 18, Value: 203
+Key: 20, Value: 225
+
+================================================
+                Switch Table 2                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 16
+Key: 2, Value: 30
+Key: 3, Value: 48
+Key: 4, Value: 62
+Key: 5, Value: 76
+Key: 6, Value: 90
+Key: 7, Value: 108
+Key: 8, Value: 122
+Key: 9, Value: 136
+Key: 10, Value: 150
+Key: 11, Value: 164
+Key: 12, Value: 178
+Key: 13, Value: 192
+Key: 14, Value: 206
+Key: 15, Value: 220
+Key: 17, Value: 248
+Key: 16, Value: 234
+Key: 19, Value: 276
+Key: 18, Value: 262
+Key: 21, Value: 304
+Key: 20, Value: 290
+Key: 23, Value: 332
+Key: 22, Value: 318
+Key: 25, Value: 360
+Key: 24, Value: 346
+Key: 27, Value: 388
+Key: 26, Value: 374
+Key: 29, Value: 416
+Key: 28, Value: 402
+Key: 31, Value: 444
+Key: 30, Value: 430
+Key: 34, Value: 486
+Key: 35, Value: 500
+Key: 32, Value: 458
+Key: 33, Value: 472
+Key: 38, Value: 542
+Key: 39, Value: 556
+Key: 36, Value: 514
+Key: 37, Value: 528
+Key: 42, Value: 598
+Key: 43, Value: 612
+Key: 40, Value: 570
+Key: 41, Value: 584
+Key: 46, Value: 654
+Key: 47, Value: 668
+Key: 44, Value: 626
+Key: 45, Value: 640
+Key: 51, Value: 724
+Key: 50, Value: 710
+Key: 49, Value: 696
+Key: 48, Value: 682
+Key: 53, Value: 752
+Key: 52, Value: 738
+
+================================================
+                Switch Table 3                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 15
+Key: 2, Value: 26
+Key: 3, Value: 40
+Key: 4, Value: 51
+Key: 5, Value: 62
+Key: 6, Value: 76
+Key: 7, Value: 87
+Key: 8, Value: 98
+Key: 9, Value: 109
+Key: 10, Value: 120
+Key: 11, Value: 131
+Key: 12, Value: 142
+Key: 13, Value: 153
+Key: 14, Value: 164
+Key: 15, Value: 182
+Key: 17, Value: 204
+Key: 16, Value: 193
+Key: 18, Value: 215
+
+================================================
+                Switch Table 4                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 24
+Key: 2, Value: 43
+Key: 3, Value: 58
+Key: 4, Value: 73
+Key: 5, Value: 88
+Key: 6, Value: 103
+Key: 7, Value: 122
+Key: 8, Value: 141
+
+================================================
+                Switch Table 5                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 16
+Key: 2, Value: 31
+Key: 3, Value: 45
+Key: 4, Value: 60
+
+================================================
+                Switch Table 6                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 12
+Key: 2, Value: 23
+Key: 3, Value: 34
+
+================================================
+                Switch Table 7                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 7
+Key: 2, Value: 22
+Key: 3, Value: 41
+Key: 4, Value: 56
+Key: 5, Value: 75
+Key: 6, Value: 94
+Key: 7, Value: 109
+Key: 8, Value: 127
+Key: 9, Value: 146
+Key: 10, Value: 165
+Key: 11, Value: 180
+Key: 12, Value: 199
+Key: 13, Value: 218
+
+================================================
+                Switch Table 8                
+================================================
+
+Key: 0, Value: 1

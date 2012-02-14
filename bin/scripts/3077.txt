@@ -1,0 +1,120 @@
+================================================
+      Client Script 3077 Dumped by SiniSoul    
+      Instruction Size: 109
+      Integer Arguments: 5 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADINT , Operand: 0
+Offset: 1, PUSHI , Operand: 0
+Offset: 2, PUSHI , Operand: 16
+Offset: 3, PUSHI , Operand: 32
+Offset: 4, PUSHI , Operand: 0
+Offset: 5, PUSHI , Operand: 0
+Offset: 6, LOADINT , Operand: 1
+Offset: 7, PUSHI , Operand: 0
+Offset: 8, PUSHI , Operand: 0
+Offset: 9, PUSHI , Operand: 0
+Offset: 10, PUSHI , Operand: 0
+Offset: 11, CALL , Operand: 2994
+Offset: 12, LOADINT , Operand: 0
+Offset: 13, PUSHI , Operand: 1
+Offset: 14, PUSHI , Operand: 32
+Offset: 15, PUSHI , Operand: 32
+Offset: 16, PUSHI , Operand: 16
+Offset: 17, PUSHI , Operand: 0
+Offset: 18, LOADINT , Operand: 2
+Offset: 19, PUSHI , Operand: 0
+Offset: 20, PUSHI , Operand: 0
+Offset: 21, PUSHI , Operand: 0
+Offset: 22, PUSHI , Operand: 0
+Offset: 23, CALL , Operand: 2994
+Offset: 24, PUSHI , Operand: 32
+Offset: 25, PUSHI , Operand: 32
+Offset: 26, PUSHI , Operand: 1
+Offset: 27, PUSHI , Operand: 0
+Offset: 28, Unref Method: 1001, Operand: 0
+Offset: 29, LOADINT , Operand: 0
+Offset: 30, PUSHI , Operand: 2
+Offset: 31, PUSHI , Operand: 16
+Offset: 32, PUSHI , Operand: 32
+Offset: 33, PUSHI , Operand: 0
+Offset: 34, PUSHI , Operand: 0
+Offset: 35, LOADINT , Operand: 1
+Offset: 36, PUSHI , Operand: 1
+Offset: 37, PUSHI , Operand: 0
+Offset: 38, PUSHI , Operand: 0
+Offset: 39, PUSHI , Operand: 0
+Offset: 40, CALL , Operand: 2994
+Offset: 41, PUSHI , Operand: 0
+Offset: 42, PUSHI , Operand: 0
+Offset: 43, PUSHI , Operand: 2
+Offset: 44, PUSHI , Operand: 0
+Offset: 45, Unref Method: 1000, Operand: 0
+Offset: 46, LOADINT , Operand: 0
+Offset: 47, PUSHI , Operand: 3
+Offset: 48, PUSHI , Operand: 16
+Offset: 49, PUSHI , Operand: 32
+Offset: 50, PUSHI , Operand: 0
+Offset: 51, PUSHI , Operand: 0
+Offset: 52, LOADINT , Operand: 3
+Offset: 53, PUSHI , Operand: 0
+Offset: 54, PUSHI , Operand: 0
+Offset: 55, PUSHI , Operand: 0
+Offset: 56, PUSHI , Operand: 0
+Offset: 57, CALL , Operand: 2994
+Offset: 58, PUSHI , Operand: 1
+Offset: 59, Unref Method: 1003, Operand: 0
+Offset: 60, LOADINT , Operand: 0
+Offset: 61, PUSHI , Operand: 4
+Offset: 62, PUSHI , Operand: 32
+Offset: 63, PUSHI , Operand: 32
+Offset: 64, PUSHI , Operand: 16
+Offset: 65, PUSHI , Operand: 0
+Offset: 66, LOADINT , Operand: 4
+Offset: 67, PUSHI , Operand: 0
+Offset: 68, PUSHI , Operand: 0
+Offset: 69, PUSHI , Operand: 0
+Offset: 70, PUSHI , Operand: 0
+Offset: 71, CALL , Operand: 2994
+Offset: 72, PUSHI , Operand: 32
+Offset: 73, PUSHI , Operand: 32
+Offset: 74, PUSHI , Operand: 1
+Offset: 75, PUSHI , Operand: 0
+Offset: 76, Unref Method: 1001, Operand: 0
+Offset: 77, PUSHI , Operand: 1
+Offset: 78, Unref Method: 1003, Operand: 0
+Offset: 79, LOADINT , Operand: 0
+Offset: 80, PUSHI , Operand: 5
+Offset: 81, PUSHI , Operand: 16
+Offset: 82, PUSHI , Operand: 32
+Offset: 83, PUSHI , Operand: 0
+Offset: 84, PUSHI , Operand: 0
+Offset: 85, LOADINT , Operand: 3
+Offset: 86, PUSHI , Operand: 1
+Offset: 87, PUSHI , Operand: 0
+Offset: 88, PUSHI , Operand: 0
+Offset: 89, PUSHI , Operand: 0
+Offset: 90, CALL , Operand: 2994
+Offset: 91, PUSHI , Operand: 0
+Offset: 92, PUSHI , Operand: 0
+Offset: 93, PUSHI , Operand: 2
+Offset: 94, PUSHI , Operand: 0
+Offset: 95, Unref Method: 1000, Operand: 0
+Offset: 96, PUSHI , Operand: 1
+Offset: 97, Unref Method: 1003, Operand: 0
+Offset: 98, PUSHI , Operand: 3078
+Offset: 99, LOADINT , Operand: 0
+Offset: 100, PUSHS , Operand: I
+Offset: 101, LOADINT , Operand: 0
+Offset: 102, setInterfaceDefinitionScriptParams3 , Operand: 0
+Offset: 103, PUSHI , Operand: 3080
+Offset: 104, LOADINT , Operand: 0
+Offset: 105, PUSHS , Operand: I
+Offset: 106, LOADINT , Operand: 0
+Offset: 107, setInterfaceDefinitionScriptParams4 , Operand: 0
+Offset: 108, RETURN , Operand: 0

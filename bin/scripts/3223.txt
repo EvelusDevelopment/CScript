@@ -1,0 +1,97 @@
+================================================
+      Client Script 3223 Dumped by SiniSoul    
+      Instruction Size: 86
+      Integer Arguments: 1 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADINT , Operand: 0
+Offset: 1, STOREGINT , Operand: 1101
+Offset: 2, PUSHI , Operand: 1
+Offset: 3, PUSHI , Operand: 44105736
+Offset: 4, Unref Method: 2003, Operand: 0
+Offset: 5, PUSHI , Operand: 44105740
+Offset: 6, PUSHS , Operand: 
+Offset: 7, PUSHI , Operand: 0
+Offset: 8, CALL , Operand: 3226
+Offset: 9, PUSHI , Operand: 44105741
+Offset: 10, PUSHS , Operand: 
+Offset: 11, PUSHI , Operand: 0
+Offset: 12, CALL , Operand: 3226
+Offset: 13, PUSHI , Operand: 44105742
+Offset: 14, PUSHS , Operand: 
+Offset: 15, PUSHI , Operand: 0
+Offset: 16, CALL , Operand: 3226
+Offset: 17, PUSHI , Operand: 44105743
+Offset: 18, PUSHS , Operand: 
+Offset: 19, PUSHI , Operand: 0
+Offset: 20, CALL , Operand: 3226
+Offset: 21, PUSHI , Operand: 44105744
+Offset: 22, PUSHS , Operand: 
+Offset: 23, PUSHI , Operand: 0
+Offset: 24, CALL , Operand: 3226
+Offset: 25, PUSHI , Operand: -1
+Offset: 26, PUSHS , Operand: 
+Offset: 27, PUSHI , Operand: 44105740
+Offset: 28, setInterfaceDefinitionScriptParams0 , Operand: 0
+Offset: 29, PUSHI , Operand: -1
+Offset: 30, PUSHS , Operand: 
+Offset: 31, PUSHI , Operand: 44105741
+Offset: 32, setInterfaceDefinitionScriptParams0 , Operand: 0
+Offset: 33, PUSHI , Operand: -1
+Offset: 34, PUSHS , Operand: 
+Offset: 35, PUSHI , Operand: 44105742
+Offset: 36, setInterfaceDefinitionScriptParams0 , Operand: 0
+Offset: 37, PUSHI , Operand: -1
+Offset: 38, PUSHS , Operand: 
+Offset: 39, PUSHI , Operand: 44105743
+Offset: 40, setInterfaceDefinitionScriptParams0 , Operand: 0
+Offset: 41, PUSHI , Operand: -1
+Offset: 42, PUSHS , Operand: 
+Offset: 43, PUSHI , Operand: 44105744
+Offset: 44, setInterfaceDefinitionScriptParams0 , Operand: 0
+Offset: 45, PUSHI , Operand: -1
+Offset: 46, PUSHS , Operand: 
+Offset: 47, PUSHI , Operand: 44105740
+Offset: 48, setInterfaceDefinitionScriptParams3 , Operand: 0
+Offset: 49, PUSHI , Operand: -1
+Offset: 50, PUSHS , Operand: 
+Offset: 51, PUSHI , Operand: 44105741
+Offset: 52, setInterfaceDefinitionScriptParams3 , Operand: 0
+Offset: 53, PUSHI , Operand: -1
+Offset: 54, PUSHS , Operand: 
+Offset: 55, PUSHI , Operand: 44105742
+Offset: 56, setInterfaceDefinitionScriptParams3 , Operand: 0
+Offset: 57, PUSHI , Operand: -1
+Offset: 58, PUSHS , Operand: 
+Offset: 59, PUSHI , Operand: 44105743
+Offset: 60, setInterfaceDefinitionScriptParams3 , Operand: 0
+Offset: 61, PUSHI , Operand: -1
+Offset: 62, PUSHS , Operand: 
+Offset: 63, PUSHI , Operand: 44105744
+Offset: 64, setInterfaceDefinitionScriptParams3 , Operand: 0
+Offset: 65, PUSHI , Operand: -1
+Offset: 66, PUSHS , Operand: 
+Offset: 67, PUSHI , Operand: 44105740
+Offset: 68, setInterfaceDefinitionScriptParams4 , Operand: 0
+Offset: 69, PUSHI , Operand: -1
+Offset: 70, PUSHS , Operand: 
+Offset: 71, PUSHI , Operand: 44105741
+Offset: 72, setInterfaceDefinitionScriptParams4 , Operand: 0
+Offset: 73, PUSHI , Operand: -1
+Offset: 74, PUSHS , Operand: 
+Offset: 75, PUSHI , Operand: 44105742
+Offset: 76, setInterfaceDefinitionScriptParams4 , Operand: 0
+Offset: 77, PUSHI , Operand: -1
+Offset: 78, PUSHS , Operand: 
+Offset: 79, PUSHI , Operand: 44105743
+Offset: 80, setInterfaceDefinitionScriptParams4 , Operand: 0
+Offset: 81, PUSHI , Operand: -1
+Offset: 82, PUSHS , Operand: 
+Offset: 83, PUSHI , Operand: 44105744
+Offset: 84, setInterfaceDefinitionScriptParams4 , Operand: 0
+Offset: 85, RETURN , Operand: 0

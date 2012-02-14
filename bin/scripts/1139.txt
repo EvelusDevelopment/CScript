@@ -1,0 +1,29 @@
+================================================
+      Client Script 1139 Dumped by SiniSoul    
+      Instruction Size: 18
+      Integer Arguments: 1 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, Unref Opcode: 1, Operand: 172
+Offset: 1, PUSHI , Operand: 1
+Offset: 2, IFEQ , Operand: 1
+Offset: 3, GOTO , Operand: 7
+Offset: 4, PUSHS , Operand: Auto Retaliate 
+Offset: 5, PUSHS , Operand: <br>
+Offset: 6, PUSHS , Operand: (Off)
+Offset: 7, CONCAT , Operand: 3
+Offset: 8, LOADINT , Operand: 0
+Offset: 9, Unref Method: 2112, Operand: 0
+Offset: 10, GOTO , Operand: 6
+Offset: 11, PUSHS , Operand: Auto Retaliate 
+Offset: 12, PUSHS , Operand: <br>
+Offset: 13, PUSHS , Operand: (On)
+Offset: 14, CONCAT , Operand: 3
+Offset: 15, LOADINT , Operand: 0
+Offset: 16, Unref Method: 2112, Operand: 0
+Offset: 17, RETURN , Operand: 0

@@ -1,0 +1,63 @@
+================================================
+      Client Script 249 Dumped by SiniSoul    
+      Instruction Size: 52
+      Integer Arguments: 0 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADGINT , Operand: 799
+Offset: 1, PUSHI , Operand: 1
+Offset: 2, IADD , Operand: 0
+Offset: 3, STOREGINT , Operand: 799
+Offset: 4, LOADGINT , Operand: 799
+Offset: 5, PUSHI , Operand: 30
+Offset: 6, IFGTEQ , Operand: 1
+Offset: 7, GOTO , Operand: 11
+Offset: 8, PUSHI , Operand: 0
+Offset: 9, STOREGINT , Operand: 799
+Offset: 10, LOADGINT , Operand: 798
+Offset: 11, PUSHI , Operand: 1
+Offset: 12, IFEQ , Operand: 1
+Offset: 13, GOTO , Operand: 3
+Offset: 14, PUSHI , Operand: 0
+Offset: 15, STOREGINT , Operand: 798
+Offset: 16, GOTO , Operand: 2
+Offset: 17, PUSHI , Operand: 1
+Offset: 18, STOREGINT , Operand: 798
+Offset: 19, LOADGINT , Operand: 798
+Offset: 20, PUSHI , Operand: 1
+Offset: 21, IFEQ , Operand: 1
+Offset: 22, GOTO , Operand: 8
+Offset: 23, LOADGSTR , Operand: 24
+Offset: 24, Unref Method: 4111, Operand: 0
+Offset: 25, PUSHS , Operand: <col=ffff00>
+Offset: 26, PUSHS , Operand:  
+Offset: 27, CONCAT , Operand: 3
+Offset: 28, PUSHI , Operand: 38928437
+Offset: 29, Unref Method: 2112, Operand: 0
+Offset: 30, GOTO , Operand: 7
+Offset: 31, LOADGSTR , Operand: 24
+Offset: 32, Unref Method: 4111, Operand: 0
+Offset: 33, PUSHS , Operand: <col=ffff00>
+Offset: 34, PUSHS , Operand: |
+Offset: 35, CONCAT , Operand: 3
+Offset: 36, PUSHI , Operand: 38928437
+Offset: 37, Unref Method: 2112, Operand: 0
+Offset: 38, LOADGSTR , Operand: 24
+Offset: 39, PUSHS , Operand: 
+Offset: 40, Unref Method: 4107, Operand: 0
+Offset: 41, PUSHI , Operand: 0
+Offset: 42, IFEQ , Operand: 1
+Offset: 43, GOTO , Operand: 4
+Offset: 44, PUSHI , Operand: 12303291
+Offset: 45, PUSHI , Operand: 38928442
+Offset: 46, Unref Method: 2101, Operand: 0
+Offset: 47, GOTO , Operand: 3
+Offset: 48, PUSHI , Operand: 16777215
+Offset: 49, PUSHI , Operand: 38928442
+Offset: 50, Unref Method: 2101, Operand: 0
+Offset: 51, RETURN , Operand: 0

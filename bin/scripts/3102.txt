@@ -1,0 +1,61 @@
+================================================
+      Client Script 3102 Dumped by SiniSoul    
+      Instruction Size: 50
+      Integer Arguments: 0 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHI , Operand: 59637766
+Offset: 1, CALL , Operand: 3104
+Offset: 2, PUSHI , Operand: 59637764
+Offset: 3, CALL , Operand: 3105
+Offset: 4, PUSHI , Operand: 59637769
+Offset: 5, CALL , Operand: 3107
+Offset: 6, PUSHI , Operand: 59637770
+Offset: 7, CALL , Operand: 3107
+Offset: 8, PUSHI , Operand: 59637813
+Offset: 9, CALL , Operand: 3108
+Offset: 10, PUSHI , Operand: 59637790
+Offset: 11, CALL , Operand: 3108
+Offset: 12, PUSHI , Operand: 59637810
+Offset: 13, CALL , Operand: 3108
+Offset: 14, PUSHI , Operand: 59637807
+Offset: 15, CALL , Operand: 3108
+Offset: 16, PUSHI , Operand: 59637803
+Offset: 17, CALL , Operand: 3108
+Offset: 18, Unref Method: 3335, Operand: 0
+Offset: 19, PUSHI , Operand: 0
+Offset: 20, IFNE , Operand: 1
+Offset: 21, GOTO , Operand: 3
+Offset: 22, PUSHS , Operand: Language
+Offset: 23, PUSHI , Operand: 59637810
+Offset: 24, Unref Method: 2112, Operand: 0
+Offset: 25, PUSHI , Operand: 59637785
+Offset: 26, CALL , Operand: 3109
+Offset: 27, PUSHI , Operand: 59637778
+Offset: 28, CALL , Operand: 3109
+Offset: 29, PUSHI , Operand: 59637795
+Offset: 30, CALL , Operand: 3111
+Offset: 31, PUSHI , Operand: 59637783
+Offset: 32, CALL , Operand: 3111
+Offset: 33, PUSHI , Operand: 59637815
+Offset: 34, CALL , Operand: 3110
+Offset: 35, PUSHI , Operand: 59637816
+Offset: 36, CALL , Operand: 3110
+Offset: 37, PUSHI , Operand: 59637817
+Offset: 38, CALL , Operand: 3110
+Offset: 39, PUSHI , Operand: 59637818
+Offset: 40, CALL , Operand: 3110
+Offset: 41, PUSHI , Operand: 59637819
+Offset: 42, CALL , Operand: 3110
+Offset: 43, PUSHI , Operand: 59637820
+Offset: 44, CALL , Operand: 3110
+Offset: 45, PUSHI , Operand: 59637812
+Offset: 46, CALL , Operand: 3155
+Offset: 47, PUSHI , Operand: 59637809
+Offset: 48, CALL , Operand: 3155
+Offset: 49, RETURN , Operand: 0

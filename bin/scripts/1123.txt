@@ -1,0 +1,48 @@
+================================================
+      Client Script 1123 Dumped by SiniSoul    
+      Instruction Size: 28
+      Integer Arguments: 1 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, Unref Opcode: 25, Operand: 804
+Offset: 1, SWITCH , Operand: 0
+Offset: 2, GOTO , Operand: 20
+Offset: 3, PUSHI , Operand: 6090
+Offset: 4, PUSHI , Operand: 300
+Offset: 5, LOADINT , Operand: 0
+Offset: 6, Unref Method: 2200, Operand: 0
+Offset: 7, GOTO , Operand: 19
+Offset: 8, PUSHI , Operand: 6092
+Offset: 9, PUSHI , Operand: 300
+Offset: 10, LOADINT , Operand: 0
+Offset: 11, Unref Method: 2200, Operand: 0
+Offset: 12, GOTO , Operand: 14
+Offset: 13, PUSHI , Operand: 6089
+Offset: 14, PUSHI , Operand: 300
+Offset: 15, LOADINT , Operand: 0
+Offset: 16, Unref Method: 2200, Operand: 0
+Offset: 17, GOTO , Operand: 9
+Offset: 18, PUSHI , Operand: 6091
+Offset: 19, PUSHI , Operand: 300
+Offset: 20, LOADINT , Operand: 0
+Offset: 21, Unref Method: 2200, Operand: 0
+Offset: 22, GOTO , Operand: 4
+Offset: 23, PUSHI , Operand: -1
+Offset: 24, PUSHI , Operand: 300
+Offset: 25, LOADINT , Operand: 0
+Offset: 26, Unref Method: 2200, Operand: 0
+Offset: 27, RETURN , Operand: 0
+
+================================================
+                Switch Table 0                
+================================================
+
+Key: 1, Value: 1
+Key: 2, Value: 6
+Key: 3, Value: 11
+Key: 4, Value: 16

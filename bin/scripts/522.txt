@@ -1,0 +1,29 @@
+================================================
+      Client Script 522 Dumped by SiniSoul    
+      Instruction Size: 18
+      Integer Arguments: 5 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADINT , Operand: 1
+Offset: 1, Unref Method: 3307, Operand: 0
+Offset: 2, STOREINT , Operand: 2
+Offset: 3, LOADINT , Operand: 1
+Offset: 4, Unref Method: 3307, Operand: 0
+Offset: 5, STOREINT , Operand: 3
+Offset: 6, LOADINT , Operand: 1
+Offset: 7, CALL , Operand: 523
+Offset: 8, STOREINT , Operand: 2
+Offset: 9, LOADINT , Operand: 3
+Offset: 10, LOADINT , Operand: 2
+Offset: 11, ISUB , Operand: 0
+Offset: 12, STOREINT , Operand: 4
+Offset: 13, LOADINT , Operand: 4
+Offset: 14, integerToString , Operand: 0
+Offset: 15, LOADINT , Operand: 0
+Offset: 16, Unref Method: 2112, Operand: 0
+Offset: 17, RETURN , Operand: 0

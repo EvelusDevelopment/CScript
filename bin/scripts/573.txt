@@ -1,0 +1,40 @@
+================================================
+      Client Script 573 Dumped by SiniSoul    
+      Instruction Size: 29
+      Integer Arguments: 0 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHI , Operand: 25493508
+Offset: 1, Unref Method: 102, Operand: 0
+Offset: 2, PUSHI , Operand: 0
+Offset: 3, PUSHI , Operand: 49283080
+Offset: 4, Unref Method: 2003, Operand: 0
+Offset: 5, PUSHI , Operand: 1
+Offset: 6, PUSHI , Operand: 49283075
+Offset: 7, Unref Method: 2003, Operand: 0
+Offset: 8, PUSHI , Operand: 1
+Offset: 9, PUSHI , Operand: 49283079
+Offset: 10, Unref Method: 2003, Operand: 0
+Offset: 11, PUSHI , Operand: -1
+Offset: 12, PUSHS , Operand: 
+Offset: 13, PUSHI , Operand: 25493513
+Offset: 14, setInterfaceDefinitionScriptParams19 , Operand: 0
+Offset: 15, PUSHI , Operand: -1
+Offset: 16, PUSHS , Operand: 
+Offset: 17, PUSHI , Operand: 25493513
+Offset: 18, setInterfaceDefinitionScriptParams23 , Operand: 0
+Offset: 19, PUSHI , Operand: -1
+Offset: 20, PUSHS , Operand: 
+Offset: 21, PUSHI , Operand: 25493513
+Offset: 22, setInterfaceDefinitionScriptParams8 , Operand: 0
+Offset: 23, Unref Method: 5306, Operand: 0
+Offset: 24, PUSHI , Operand: 2
+Offset: 25, IFGTEQ , Operand: 1
+Offset: 26, GOTO , Operand: 1
+Offset: 27, CALL , Operand: 1364
+Offset: 28, RETURN , Operand: 0

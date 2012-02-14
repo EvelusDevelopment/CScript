@@ -1,0 +1,52 @@
+================================================
+      Client Script 144 Dumped by SiniSoul    
+      Instruction Size: 41
+      Integer Arguments: 5 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHI , Operand: 0
+Offset: 1, STOREINT , Operand: 4
+Offset: 2, LOADINT , Operand: 0
+Offset: 3, LOADINT , Operand: 1
+Offset: 4, Unref Method: 200, Operand: 0
+Offset: 5, PUSHI , Operand: 1
+Offset: 6, IFEQ , Operand: 1
+Offset: 7, GOTO , Operand: 32
+Offset: 8, Unref Method: 3300, Operand: 0
+Offset: 9, LOADINT , Operand: 3
+Offset: 10, IFGTEQ , Operand: 1
+Offset: 11, GOTO , Operand: 3
+Offset: 12, Unref Method: 101, Operand: 0
+Offset: 13, RETURN , Operand: 0
+Offset: 14, GOTO , Operand: 25
+Offset: 15, Unref Method: 3300, Operand: 0
+Offset: 16, PUSHI , Operand: 40
+Offset: 17, IMOD , Operand: 0
+Offset: 18, PUSHI , Operand: 20
+Offset: 19, IFLT , Operand: 1
+Offset: 20, GOTO , Operand: 17
+Offset: 21, Unref Method: 3300, Operand: 0
+Offset: 22, LOADINT , Operand: 2
+Offset: 23, ISUB , Operand: 0
+Offset: 24, STOREINT , Operand: 4
+Offset: 25, LOADINT , Operand: 4
+Offset: 26, PUSHI , Operand: 255
+Offset: 27, IMUL , Operand: 0
+Offset: 28, STOREINT , Operand: 4
+Offset: 29, LOADINT , Operand: 4
+Offset: 30, LOADINT , Operand: 3
+Offset: 31, LOADINT , Operand: 2
+Offset: 32, ISUB , Operand: 0
+Offset: 33, IDIV , Operand: 0
+Offset: 34, STOREINT , Operand: 4
+Offset: 35, LOADINT , Operand: 4
+Offset: 36, Unref Method: 1103, Operand: 0
+Offset: 37, GOTO , Operand: 2
+Offset: 38, PUSHI , Operand: 255
+Offset: 39, Unref Method: 1103, Operand: 0
+Offset: 40, RETURN , Operand: 0

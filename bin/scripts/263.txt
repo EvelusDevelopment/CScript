@@ -1,0 +1,56 @@
+================================================
+      Client Script 263 Dumped by SiniSoul    
+      Instruction Size: 32
+      Integer Arguments: 0 
+      String  Arguments: 1 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHS , Operand: None
+Offset: 1, STORESTR , Operand: 0
+Offset: 2, LOADGINT , Operand: 1109
+Offset: 3, SWITCH , Operand: 0
+Offset: 4, GOTO , Operand: 23
+Offset: 5, PUSHS , Operand: Worm
+Offset: 6, STORESTR , Operand: 0
+Offset: 7, GOTO , Operand: 20
+Offset: 8, PUSHS , Operand: Maggot
+Offset: 9, STORESTR , Operand: 0
+Offset: 10, GOTO , Operand: 17
+Offset: 11, PUSHS , Operand: Locust
+Offset: 12, STORESTR , Operand: 0
+Offset: 13, GOTO , Operand: 14
+Offset: 14, PUSHS , Operand: Cricket
+Offset: 15, STORESTR , Operand: 0
+Offset: 16, GOTO , Operand: 11
+Offset: 17, PUSHS , Operand: Cray
+Offset: 18, STORESTR , Operand: 0
+Offset: 19, GOTO , Operand: 8
+Offset: 20, PUSHS , Operand: Shrimp
+Offset: 21, STORESTR , Operand: 0
+Offset: 22, GOTO , Operand: 5
+Offset: 23, PUSHS , Operand: Green moth
+Offset: 24, STORESTR , Operand: 0
+Offset: 25, GOTO , Operand: 2
+Offset: 26, PUSHS , Operand: Grey moth
+Offset: 27, STORESTR , Operand: 0
+Offset: 28, LOADSTR , Operand: 0
+Offset: 29, PUSHI , Operand: 60489779
+Offset: 30, Unref Method: 2112, Operand: 0
+Offset: 31, RETURN , Operand: 0
+
+================================================
+                Switch Table 0                
+================================================
+
+Key: 1, Value: 1
+Key: 2, Value: 4
+Key: 3, Value: 10
+Key: 4, Value: 7
+Key: 5, Value: 13
+Key: 6, Value: 16
+Key: 7, Value: 19
+Key: 8, Value: 22

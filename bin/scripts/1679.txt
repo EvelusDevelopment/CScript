@@ -1,0 +1,28 @@
+================================================
+      Client Script 1679 Dumped by SiniSoul    
+      Instruction Size: 11
+      Integer Arguments: 0 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, CALL , Operand: 1678
+Offset: 1, LOADGINT , Operand: 1044
+Offset: 2, SWITCH , Operand: 0
+Offset: 3, GOTO , Operand: 2
+Offset: 4, CALL , Operand: 1687
+Offset: 5, GOTO , Operand: 4
+Offset: 6, PUSHI , Operand: -1
+Offset: 7, PUSHS , Operand: 
+Offset: 8, PUSHI , Operand: 5570560
+Offset: 9, setInterfaceDefinitionScriptParams26 , Operand: 0
+Offset: 10, RETURN , Operand: 0
+
+================================================
+                Switch Table 0                
+================================================
+
+Key: 0, Value: 1

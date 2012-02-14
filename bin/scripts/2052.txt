@@ -1,0 +1,59 @@
+================================================
+      Client Script 2052 Dumped by SiniSoul    
+      Instruction Size: 48
+      Integer Arguments: 6 
+      String  Arguments: 3 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHI , Operand: 0
+Offset: 1, Unref Method: 1003, Operand: 0
+Offset: 2, LOADINT , Operand: 0
+Offset: 3, LOADINT , Operand: 1
+Offset: 4, PUSHI , Operand: 0
+Offset: 5, PUSHI , Operand: 0
+Offset: 6, Unref Method: 1001, Operand: 0
+Offset: 7, LOADINT , Operand: 2
+Offset: 8, LOADINT , Operand: 3
+Offset: 9, PUSHI , Operand: 1
+Offset: 10, PUSHI , Operand: 1
+Offset: 11, Unref Method: 1000, Operand: 0
+Offset: 12, LOADINT , Operand: 4
+Offset: 13, Unref Method: 1101, Operand: 0
+Offset: 14, PUSHI , Operand: 591
+Offset: 15, Unref Method: 1113, Operand: 0
+Offset: 16, PUSHI , Operand: 1
+Offset: 17, PUSHI , Operand: 1
+Offset: 18, PUSHI , Operand: 13
+Offset: 19, Unref Method: 1114, Operand: 0
+Offset: 20, LOADSTR , Operand: 0
+Offset: 21, Unref Method: 1112, Operand: 0
+Offset: 22, LOADINT , Operand: 5
+Offset: 23, PUSHI , Operand: -1
+Offset: 24, IFNE , Operand: 1
+Offset: 25, GOTO , Operand: 15
+Offset: 26, PUSHS , Operand: <col=ff9040>
+Offset: 27, LOADSTR , Operand: 1
+Offset: 28, PUSHS , Operand: </col>
+Offset: 29, CONCAT , Operand: 3
+Offset: 30, Unref Method: 1305, Operand: 0
+Offset: 31, PUSHI , Operand: 1
+Offset: 32, LOADSTR , Operand: 2
+Offset: 33, setChildInterfaceText , Operand: 0
+Offset: 34, PUSHI , Operand: 2053
+Offset: 35, PUSHI , Operand: -2147483644
+Offset: 36, PUSHI , Operand: -2147483645
+Offset: 37, LOADINT , Operand: 5
+Offset: 38, PUSHS , Operand: iIc
+Offset: 39, Unref Method: 1409, Operand: 0
+Offset: 40, GOTO , Operand: 6
+Offset: 41, PUSHI , Operand: 1
+Offset: 42, PUSHS , Operand: 
+Offset: 43, setChildInterfaceText , Operand: 0
+Offset: 44, PUSHI , Operand: -1
+Offset: 45, PUSHS , Operand: 
+Offset: 46, Unref Method: 1409, Operand: 0
+Offset: 47, RETURN , Operand: 0

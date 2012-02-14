@@ -1,0 +1,29 @@
+================================================
+      Client Script 3180 Dumped by SiniSoul    
+      Instruction Size: 18
+      Integer Arguments: 0 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, CALL , Operand: 3181
+Offset: 1, PUSHI , Operand: 59375698
+Offset: 2, Unref Method: 3112, Operand: 0
+Offset: 3, PUSHI , Operand: 1
+Offset: 4, PUSHI , Operand: 59375637
+Offset: 5, Unref Method: 2003, Operand: 0
+Offset: 6, PUSHI , Operand: 105
+Offset: 7, PUSHI , Operand: 73
+Offset: 8, PUSHI , Operand: 941
+Offset: 9, PUSHI , Operand: 3
+Offset: 10, Unref Method: 3408, Operand: 0
+Offset: 11, Unref Method: 2504, Operand: 0
+Offset: 12, PUSHI , Operand: 0
+Offset: 13, IFEQ , Operand: 1
+Offset: 14, GOTO , Operand: 2
+Offset: 15, PUSHI , Operand: 1
+Offset: 16, CALL , Operand: 3161
+Offset: 17, RETURN , Operand: 0

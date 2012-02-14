@@ -1,0 +1,728 @@
+================================================
+      Client Script 2788 Dumped by SiniSoul    
+      Instruction Size: 662
+      Integer Arguments: 2 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADINT , Operand: 1
+Offset: 1, SWITCH , Operand: 0
+Offset: 2, GOTO , Operand: 654
+Offset: 3, PUSHI , Operand: -1
+Offset: 4, PUSHI , Operand: 2287
+Offset: 5, PUSHS , Operand: You can see what each prayer does by selecting the Prayer icon on your side interface. Move your mouse over the icon of the prayer you want and a description will be available.
+Offset: 6, PUSHS , Operand: 
+Offset: 7, RETURN , Operand: 0
+Offset: 8, GOTO , Operand: 648
+Offset: 9, PUSHI , Operand: 1
+Offset: 10, PUSHI , Operand: 660
+Offset: 11, PUSHI , Operand: 735
+Offset: 12, Unref Method: 4500, Operand: 0
+Offset: 13, PUSHS , Operand: Thick Skin
+Offset: 14, PUSHS , Operand: You can now use the 
+Offset: 15, PUSHS , Operand: <col=000080>
+Offset: 16, PUSHS , Operand: Thick Skin
+Offset: 17, PUSHS , Operand: </col>
+Offset: 18, PUSHS , Operand:  prayer.
+Offset: 19, CONCAT , Operand: 5
+Offset: 20, RETURN , Operand: 0
+Offset: 21, GOTO , Operand: 635
+Offset: 22, PUSHI , Operand: 4
+Offset: 23, PUSHI , Operand: 661
+Offset: 24, PUSHI , Operand: 735
+Offset: 25, Unref Method: 4500, Operand: 0
+Offset: 26, PUSHS , Operand: Burst of Strength
+Offset: 27, PUSHS , Operand: You can now use the 
+Offset: 28, PUSHS , Operand: <col=000080>
+Offset: 29, PUSHS , Operand: Burst of Strength
+Offset: 30, PUSHS , Operand: </col>
+Offset: 31, PUSHS , Operand:  prayer.
+Offset: 32, CONCAT , Operand: 5
+Offset: 33, RETURN , Operand: 0
+Offset: 34, GOTO , Operand: 622
+Offset: 35, PUSHI , Operand: 7
+Offset: 36, PUSHI , Operand: 662
+Offset: 37, PUSHI , Operand: 735
+Offset: 38, Unref Method: 4500, Operand: 0
+Offset: 39, PUSHS , Operand: Clarity of Thought
+Offset: 40, PUSHS , Operand: You can now use the 
+Offset: 41, PUSHS , Operand: <col=000080>
+Offset: 42, PUSHS , Operand: Clarity of Thought
+Offset: 43, PUSHS , Operand: </col>
+Offset: 44, PUSHS , Operand:  prayer.
+Offset: 45, CONCAT , Operand: 5
+Offset: 46, RETURN , Operand: 0
+Offset: 47, GOTO , Operand: 609
+Offset: 48, PUSHI , Operand: 8
+Offset: 49, PUSHI , Operand: 678
+Offset: 50, PUSHI , Operand: 735
+Offset: 51, Unref Method: 4500, Operand: 0
+Offset: 52, PUSHS , Operand: Sharp Eye
+Offset: 53, PUSHS , Operand: You can now use the 
+Offset: 54, PUSHS , Operand: <col=000080>
+Offset: 55, PUSHS , Operand: Sharp Eye
+Offset: 56, PUSHS , Operand: </col>
+Offset: 57, PUSHS , Operand:  prayer.
+Offset: 58, CONCAT , Operand: 5
+Offset: 59, RETURN , Operand: 0
+Offset: 60, GOTO , Operand: 596
+Offset: 61, PUSHI , Operand: 9
+Offset: 62, PUSHI , Operand: 679
+Offset: 63, PUSHI , Operand: 735
+Offset: 64, Unref Method: 4500, Operand: 0
+Offset: 65, PUSHS , Operand: Mystic Will
+Offset: 66, PUSHS , Operand: You can now use the 
+Offset: 67, PUSHS , Operand: <col=000080>
+Offset: 68, PUSHS , Operand: Mystic Will
+Offset: 69, PUSHS , Operand: </col>
+Offset: 70, PUSHS , Operand:  prayer.
+Offset: 71, CONCAT , Operand: 5
+Offset: 72, RETURN , Operand: 0
+Offset: 73, GOTO , Operand: 583
+Offset: 74, PUSHI , Operand: 10
+Offset: 75, PUSHI , Operand: 663
+Offset: 76, PUSHI , Operand: 735
+Offset: 77, Unref Method: 4500, Operand: 0
+Offset: 78, PUSHS , Operand: Rock Skin
+Offset: 79, PUSHS , Operand: You can now use the 
+Offset: 80, PUSHS , Operand: <col=000080>
+Offset: 81, PUSHS , Operand: Rock Skin
+Offset: 82, PUSHS , Operand: </col>
+Offset: 83, PUSHS , Operand:  prayer.
+Offset: 84, CONCAT , Operand: 5
+Offset: 85, RETURN , Operand: 0
+Offset: 86, GOTO , Operand: 570
+Offset: 87, PUSHI , Operand: 13
+Offset: 88, PUSHI , Operand: 664
+Offset: 89, PUSHI , Operand: 735
+Offset: 90, Unref Method: 4500, Operand: 0
+Offset: 91, PUSHS , Operand: Superhuman Strength
+Offset: 92, PUSHS , Operand: You can now use the 
+Offset: 93, PUSHS , Operand: <col=000080>
+Offset: 94, PUSHS , Operand: Superhuman Strength
+Offset: 95, PUSHS , Operand: </col>
+Offset: 96, PUSHS , Operand:  prayer.
+Offset: 97, CONCAT , Operand: 5
+Offset: 98, RETURN , Operand: 0
+Offset: 99, GOTO , Operand: 557
+Offset: 100, PUSHI , Operand: 16
+Offset: 101, PUSHI , Operand: 665
+Offset: 102, PUSHI , Operand: 735
+Offset: 103, Unref Method: 4500, Operand: 0
+Offset: 104, PUSHS , Operand: Improved Reflexes
+Offset: 105, PUSHS , Operand: You can now use the 
+Offset: 106, PUSHS , Operand: <col=000080>
+Offset: 107, PUSHS , Operand: Improved Reflexes
+Offset: 108, PUSHS , Operand: </col>
+Offset: 109, PUSHS , Operand:  prayer.
+Offset: 110, CONCAT , Operand: 5
+Offset: 111, RETURN , Operand: 0
+Offset: 112, GOTO , Operand: 544
+Offset: 113, PUSHI , Operand: 19
+Offset: 114, PUSHI , Operand: 666
+Offset: 115, PUSHI , Operand: 735
+Offset: 116, Unref Method: 4500, Operand: 0
+Offset: 117, PUSHS , Operand: Rapid Restore
+Offset: 118, PUSHS , Operand: You can now use the 
+Offset: 119, PUSHS , Operand: <col=000080>
+Offset: 120, PUSHS , Operand: Rapid Restore
+Offset: 121, PUSHS , Operand: </col>
+Offset: 122, PUSHS , Operand:  prayer.
+Offset: 123, CONCAT , Operand: 5
+Offset: 124, RETURN , Operand: 0
+Offset: 125, GOTO , Operand: 531
+Offset: 126, PUSHI , Operand: 22
+Offset: 127, PUSHI , Operand: 667
+Offset: 128, PUSHI , Operand: 735
+Offset: 129, Unref Method: 4500, Operand: 0
+Offset: 130, PUSHS , Operand: Rapid Heal
+Offset: 131, PUSHS , Operand: You can now use the 
+Offset: 132, PUSHS , Operand: <col=000080>
+Offset: 133, PUSHS , Operand: Rapid Heal
+Offset: 134, PUSHS , Operand: </col>
+Offset: 135, PUSHS , Operand:  prayer.
+Offset: 136, CONCAT , Operand: 5
+Offset: 137, RETURN , Operand: 0
+Offset: 138, GOTO , Operand: 518
+Offset: 139, PUSHI , Operand: 25
+Offset: 140, PUSHI , Operand: 668
+Offset: 141, PUSHI , Operand: 735
+Offset: 142, Unref Method: 4500, Operand: 0
+Offset: 143, PUSHS , Operand: Protect Item
+Offset: 144, PUSHS , Operand: You can now use the 
+Offset: 145, PUSHS , Operand: <col=000080>
+Offset: 146, PUSHS , Operand: Protect Item
+Offset: 147, PUSHS , Operand: </col>
+Offset: 148, PUSHS , Operand:  prayer.
+Offset: 149, CONCAT , Operand: 5
+Offset: 150, RETURN , Operand: 0
+Offset: 151, GOTO , Operand: 505
+Offset: 152, PUSHI , Operand: 26
+Offset: 153, PUSHI , Operand: 680
+Offset: 154, PUSHI , Operand: 735
+Offset: 155, Unref Method: 4500, Operand: 0
+Offset: 156, PUSHS , Operand: Hawk Eye
+Offset: 157, PUSHS , Operand: You can now use the 
+Offset: 158, PUSHS , Operand: <col=000080>
+Offset: 159, PUSHS , Operand: Hawk Eye
+Offset: 160, PUSHS , Operand: </col>
+Offset: 161, PUSHS , Operand:  prayer.
+Offset: 162, CONCAT , Operand: 5
+Offset: 163, RETURN , Operand: 0
+Offset: 164, GOTO , Operand: 492
+Offset: 165, PUSHI , Operand: 27
+Offset: 166, PUSHI , Operand: 681
+Offset: 167, PUSHI , Operand: 735
+Offset: 168, Unref Method: 4500, Operand: 0
+Offset: 169, PUSHS , Operand: Mystic Lore
+Offset: 170, PUSHS , Operand: You can now use the 
+Offset: 171, PUSHS , Operand: <col=000080>
+Offset: 172, PUSHS , Operand: Mystic Lore
+Offset: 173, PUSHS , Operand: </col>
+Offset: 174, PUSHS , Operand:  prayer.
+Offset: 175, CONCAT , Operand: 5
+Offset: 176, RETURN , Operand: 0
+Offset: 177, GOTO , Operand: 479
+Offset: 178, PUSHI , Operand: 28
+Offset: 179, PUSHI , Operand: 669
+Offset: 180, PUSHI , Operand: 735
+Offset: 181, Unref Method: 4500, Operand: 0
+Offset: 182, PUSHS , Operand: Steel Skin
+Offset: 183, PUSHS , Operand: You can now use the 
+Offset: 184, PUSHS , Operand: <col=000080>
+Offset: 185, PUSHS , Operand: Steel Skin
+Offset: 186, PUSHS , Operand: </col>
+Offset: 187, PUSHS , Operand:  prayer.
+Offset: 188, CONCAT , Operand: 5
+Offset: 189, RETURN , Operand: 0
+Offset: 190, GOTO , Operand: 466
+Offset: 191, PUSHI , Operand: 31
+Offset: 192, PUSHI , Operand: 670
+Offset: 193, PUSHI , Operand: 735
+Offset: 194, Unref Method: 4500, Operand: 0
+Offset: 195, PUSHS , Operand: Ultimate Strength
+Offset: 196, PUSHS , Operand: You can now use the 
+Offset: 197, PUSHS , Operand: <col=000080>
+Offset: 198, PUSHS , Operand: Ultimate Strength
+Offset: 199, PUSHS , Operand: </col>
+Offset: 200, PUSHS , Operand:  prayer.
+Offset: 201, CONCAT , Operand: 5
+Offset: 202, RETURN , Operand: 0
+Offset: 203, GOTO , Operand: 453
+Offset: 204, PUSHI , Operand: 34
+Offset: 205, PUSHI , Operand: 671
+Offset: 206, PUSHI , Operand: 735
+Offset: 207, Unref Method: 4500, Operand: 0
+Offset: 208, PUSHS , Operand: Incredible Reflexes
+Offset: 209, PUSHS , Operand: You can now use the 
+Offset: 210, PUSHS , Operand: <col=000080>
+Offset: 211, PUSHS , Operand: Incredible Reflexes
+Offset: 212, PUSHS , Operand: </col>
+Offset: 213, PUSHS , Operand:  prayer.
+Offset: 214, CONCAT , Operand: 5
+Offset: 215, RETURN , Operand: 0
+Offset: 216, GOTO , Operand: 440
+Offset: 217, PUSHI , Operand: 35
+Offset: 218, PUSHI , Operand: 684
+Offset: 219, PUSHI , Operand: 735
+Offset: 220, Unref Method: 4500, Operand: 0
+Offset: 221, PUSHS , Operand: Members: Protect from Summoning
+Offset: 222, PUSHS , Operand: Members can now use the 
+Offset: 223, PUSHS , Operand: <col=000080>
+Offset: 224, PUSHS , Operand: Protect from Summoning
+Offset: 225, PUSHS , Operand: </col>
+Offset: 226, PUSHS , Operand:  prayer.
+Offset: 227, CONCAT , Operand: 5
+Offset: 228, RETURN , Operand: 0
+Offset: 229, GOTO , Operand: 427
+Offset: 230, PUSHI , Operand: 37
+Offset: 231, PUSHI , Operand: 672
+Offset: 232, PUSHI , Operand: 735
+Offset: 233, Unref Method: 4500, Operand: 0
+Offset: 234, PUSHS , Operand: Protect from Magic
+Offset: 235, PUSHS , Operand: You can now use the 
+Offset: 236, PUSHS , Operand: <col=000080>
+Offset: 237, PUSHS , Operand: Protect from Magic
+Offset: 238, PUSHS , Operand: </col>
+Offset: 239, PUSHS , Operand:  prayer.
+Offset: 240, CONCAT , Operand: 5
+Offset: 241, RETURN , Operand: 0
+Offset: 242, GOTO , Operand: 414
+Offset: 243, PUSHI , Operand: 40
+Offset: 244, PUSHI , Operand: 673
+Offset: 245, PUSHI , Operand: 735
+Offset: 246, Unref Method: 4500, Operand: 0
+Offset: 247, PUSHS , Operand: Protect from Missiles
+Offset: 248, PUSHS , Operand: You can now use the 
+Offset: 249, PUSHS , Operand: <col=000080>
+Offset: 250, PUSHS , Operand: Protect from Missiles
+Offset: 251, PUSHS , Operand: </col>
+Offset: 252, PUSHS , Operand:  prayer.
+Offset: 253, CONCAT , Operand: 5
+Offset: 254, RETURN , Operand: 0
+Offset: 255, GOTO , Operand: 401
+Offset: 256, PUSHI , Operand: 43
+Offset: 257, PUSHI , Operand: 674
+Offset: 258, PUSHI , Operand: 735
+Offset: 259, Unref Method: 4500, Operand: 0
+Offset: 260, PUSHS , Operand: Protect from Melee
+Offset: 261, PUSHS , Operand: You can now use the 
+Offset: 262, PUSHS , Operand: <col=000080>
+Offset: 263, PUSHS , Operand: Protect from Melee
+Offset: 264, PUSHS , Operand: </col>
+Offset: 265, PUSHS , Operand:  prayer.
+Offset: 266, CONCAT , Operand: 5
+Offset: 267, RETURN , Operand: 0
+Offset: 268, GOTO , Operand: 388
+Offset: 269, PUSHI , Operand: 44
+Offset: 270, PUSHI , Operand: 682
+Offset: 271, PUSHI , Operand: 735
+Offset: 272, Unref Method: 4500, Operand: 0
+Offset: 273, PUSHS , Operand: Eagle Eye
+Offset: 274, PUSHS , Operand: You can now use the 
+Offset: 275, PUSHS , Operand: <col=000080>
+Offset: 276, PUSHS , Operand: Eagle Eye
+Offset: 277, PUSHS , Operand: </col>
+Offset: 278, PUSHS , Operand:  prayer.
+Offset: 279, CONCAT , Operand: 5
+Offset: 280, RETURN , Operand: 0
+Offset: 281, GOTO , Operand: 375
+Offset: 282, PUSHI , Operand: 45
+Offset: 283, PUSHI , Operand: 683
+Offset: 284, PUSHI , Operand: 735
+Offset: 285, Unref Method: 4500, Operand: 0
+Offset: 286, PUSHS , Operand: Mystic Might
+Offset: 287, PUSHS , Operand: You can now use the 
+Offset: 288, PUSHS , Operand: <col=000080>
+Offset: 289, PUSHS , Operand: Mystic Might
+Offset: 290, PUSHS , Operand: </col>
+Offset: 291, PUSHS , Operand:  prayer.
+Offset: 292, CONCAT , Operand: 5
+Offset: 293, RETURN , Operand: 0
+Offset: 294, GOTO , Operand: 362
+Offset: 295, PUSHI , Operand: 46
+Offset: 296, PUSHI , Operand: 675
+Offset: 297, PUSHI , Operand: 735
+Offset: 298, Unref Method: 4500, Operand: 0
+Offset: 299, PUSHS , Operand: Members: Retribution
+Offset: 300, PUSHS , Operand: Members can now use the 
+Offset: 301, PUSHS , Operand: <col=000080>
+Offset: 302, PUSHS , Operand: Retribution
+Offset: 303, PUSHS , Operand: </col>
+Offset: 304, PUSHS , Operand:  prayer.
+Offset: 305, CONCAT , Operand: 5
+Offset: 306, RETURN , Operand: 0
+Offset: 307, GOTO , Operand: 349
+Offset: 308, PUSHI , Operand: 49
+Offset: 309, PUSHI , Operand: 676
+Offset: 310, PUSHI , Operand: 735
+Offset: 311, Unref Method: 4500, Operand: 0
+Offset: 312, PUSHS , Operand: Members: Redemption
+Offset: 313, PUSHS , Operand: Members can now use the 
+Offset: 314, PUSHS , Operand: <col=000080>
+Offset: 315, PUSHS , Operand: Redemption
+Offset: 316, PUSHS , Operand: </col>
+Offset: 317, PUSHS , Operand:  prayer.
+Offset: 318, CONCAT , Operand: 5
+Offset: 319, RETURN , Operand: 0
+Offset: 320, GOTO , Operand: 336
+Offset: 321, PUSHI , Operand: 50
+Offset: 322, PUSHI , Operand: 888
+Offset: 323, PUSHI , Operand: 735
+Offset: 324, Unref Method: 4500, Operand: 0
+Offset: 325, PUSHS , Operand: Members: Protect Item (curse)
+Offset: 326, PUSHS , Operand: Members can now use the 
+Offset: 327, PUSHS , Operand: <col=000080>
+Offset: 328, PUSHS , Operand: Protect Item
+Offset: 329, PUSHS , Operand: </col>
+Offset: 330, PUSHS , Operand:  curse (after The Temple at Senntisten).
+Offset: 331, CONCAT , Operand: 5
+Offset: 332, RETURN , Operand: 0
+Offset: 333, GOTO , Operand: 323
+Offset: 334, PUSHI , Operand: 50
+Offset: 335, PUSHI , Operand: 889
+Offset: 336, PUSHI , Operand: 735
+Offset: 337, Unref Method: 4500, Operand: 0
+Offset: 338, PUSHS , Operand: Members: Sap Warrior
+Offset: 339, PUSHS , Operand: Members can now use the 
+Offset: 340, PUSHS , Operand: <col=000080>
+Offset: 341, PUSHS , Operand: Sap Warrior
+Offset: 342, PUSHS , Operand: </col>
+Offset: 343, PUSHS , Operand:  curse (after The Temple at Senntisten).
+Offset: 344, CONCAT , Operand: 5
+Offset: 345, RETURN , Operand: 0
+Offset: 346, GOTO , Operand: 310
+Offset: 347, PUSHI , Operand: 52
+Offset: 348, PUSHI , Operand: 677
+Offset: 349, PUSHI , Operand: 735
+Offset: 350, Unref Method: 4500, Operand: 0
+Offset: 351, PUSHS , Operand: Members: Smite
+Offset: 352, PUSHS , Operand: Members can now use the 
+Offset: 353, PUSHS , Operand: <col=000080>
+Offset: 354, PUSHS , Operand: Smite
+Offset: 355, PUSHS , Operand: </col>
+Offset: 356, PUSHS , Operand:  prayer.
+Offset: 357, CONCAT , Operand: 5
+Offset: 358, RETURN , Operand: 0
+Offset: 359, GOTO , Operand: 297
+Offset: 360, PUSHI , Operand: 52
+Offset: 361, PUSHI , Operand: 890
+Offset: 362, PUSHI , Operand: 735
+Offset: 363, Unref Method: 4500, Operand: 0
+Offset: 364, PUSHS , Operand: Members: Sap Ranger
+Offset: 365, PUSHS , Operand: Members can now use the 
+Offset: 366, PUSHS , Operand: <col=000080>
+Offset: 367, PUSHS , Operand: Sap Ranger
+Offset: 368, PUSHS , Operand: </col>
+Offset: 369, PUSHS , Operand:  curse (after The Temple at Senntisten).
+Offset: 370, CONCAT , Operand: 5
+Offset: 371, RETURN , Operand: 0
+Offset: 372, GOTO , Operand: 284
+Offset: 373, PUSHI , Operand: 54
+Offset: 374, PUSHI , Operand: 891
+Offset: 375, PUSHI , Operand: 735
+Offset: 376, Unref Method: 4500, Operand: 0
+Offset: 377, PUSHS , Operand: Members: Sap Mage
+Offset: 378, PUSHS , Operand: Members can now use the 
+Offset: 379, PUSHS , Operand: <col=000080>
+Offset: 380, PUSHS , Operand: Sap Mage
+Offset: 381, PUSHS , Operand: </col>
+Offset: 382, PUSHS , Operand:  curse (after The Temple at Senntisten).
+Offset: 383, CONCAT , Operand: 5
+Offset: 384, RETURN , Operand: 0
+Offset: 385, GOTO , Operand: 271
+Offset: 386, PUSHI , Operand: 56
+Offset: 387, PUSHI , Operand: 892
+Offset: 388, PUSHI , Operand: 735
+Offset: 389, Unref Method: 4500, Operand: 0
+Offset: 390, PUSHS , Operand: Members: Sap Spirit
+Offset: 391, PUSHS , Operand: Members can now use the 
+Offset: 392, PUSHS , Operand: <col=000080>
+Offset: 393, PUSHS , Operand: Sap Spirit
+Offset: 394, PUSHS , Operand: </col>
+Offset: 395, PUSHS , Operand:  curse (after The Temple at Senntisten).
+Offset: 396, CONCAT , Operand: 5
+Offset: 397, RETURN , Operand: 0
+Offset: 398, GOTO , Operand: 258
+Offset: 399, PUSHI , Operand: 59
+Offset: 400, PUSHI , Operand: 893
+Offset: 401, PUSHI , Operand: 735
+Offset: 402, Unref Method: 4500, Operand: 0
+Offset: 403, PUSHS , Operand: Members: Berserker
+Offset: 404, PUSHS , Operand: Members can now use the 
+Offset: 405, PUSHS , Operand: <col=000080>
+Offset: 406, PUSHS , Operand: Berserker
+Offset: 407, PUSHS , Operand: </col>
+Offset: 408, PUSHS , Operand:  curse (after The Temple at Senntisten).
+Offset: 409, CONCAT , Operand: 5
+Offset: 410, RETURN , Operand: 0
+Offset: 411, GOTO , Operand: 245
+Offset: 412, PUSHI , Operand: 60
+Offset: 413, PUSHI , Operand: 685
+Offset: 414, PUSHI , Operand: 735
+Offset: 415, Unref Method: 4500, Operand: 0
+Offset: 416, PUSHS , Operand: Members: Chivalry
+Offset: 417, PUSHS , Operand: <br>
+Offset: 418, PUSHS , Operand:  (after King's Ransom)
+Offset: 419, CONCAT , Operand: 3
+Offset: 420, PUSHS , Operand: Members now have the Prayer level required to use the 
+Offset: 421, PUSHS , Operand: <col=000080>
+Offset: 422, PUSHS , Operand: Chivalry
+Offset: 423, PUSHS , Operand: </col>
+Offset: 424, PUSHS , Operand:  prayer (after King's Ransom).
+Offset: 425, CONCAT , Operand: 5
+Offset: 426, RETURN , Operand: 0
+Offset: 427, GOTO , Operand: 229
+Offset: 428, PUSHI , Operand: 62
+Offset: 429, PUSHI , Operand: 894
+Offset: 430, PUSHI , Operand: 735
+Offset: 431, Unref Method: 4500, Operand: 0
+Offset: 432, PUSHS , Operand: Members: Deflect Summoning
+Offset: 433, PUSHS , Operand: Members can now use the 
+Offset: 434, PUSHS , Operand: <col=000080>
+Offset: 435, PUSHS , Operand: Deflect Summoning
+Offset: 436, PUSHS , Operand: </col>
+Offset: 437, PUSHS , Operand:  curse (after The Temple at Senntisten).
+Offset: 438, CONCAT , Operand: 5
+Offset: 439, RETURN , Operand: 0
+Offset: 440, GOTO , Operand: 216
+Offset: 441, PUSHI , Operand: 65
+Offset: 442, PUSHI , Operand: 895
+Offset: 443, PUSHI , Operand: 735
+Offset: 444, Unref Method: 4500, Operand: 0
+Offset: 445, PUSHS , Operand: Members: Deflect Magic
+Offset: 446, PUSHS , Operand: Members can now use the 
+Offset: 447, PUSHS , Operand: <col=000080>
+Offset: 448, PUSHS , Operand: Deflect Magic
+Offset: 449, PUSHS , Operand: </col>
+Offset: 450, PUSHS , Operand:  curse (after The Temple at Senntisten).
+Offset: 451, CONCAT , Operand: 5
+Offset: 452, RETURN , Operand: 0
+Offset: 453, GOTO , Operand: 203
+Offset: 454, PUSHI , Operand: 65
+Offset: 455, PUSHI , Operand: 1005
+Offset: 456, PUSHI , Operand: 735
+Offset: 457, Unref Method: 4500, Operand: 0
+Offset: 458, PUSHS , Operand: Members: Rapid Renewal
+Offset: 459, PUSHS , Operand: <br>
+Offset: 460, PUSHS , Operand:  (with 65 Dungeoneering)
+Offset: 461, CONCAT , Operand: 3
+Offset: 462, PUSHS , Operand: Members can now use the 
+Offset: 463, PUSHS , Operand: <col=000080>
+Offset: 464, PUSHS , Operand: Rapid Renewal
+Offset: 465, PUSHS , Operand: </col>
+Offset: 466, PUSHS , Operand:  prayer (bought from Daemonheim). (They also need level 65 Dungeoneering.)
+Offset: 467, CONCAT , Operand: 5
+Offset: 468, RETURN , Operand: 0
+Offset: 469, GOTO , Operand: 187
+Offset: 470, PUSHI , Operand: 68
+Offset: 471, PUSHI , Operand: 896
+Offset: 472, PUSHI , Operand: 735
+Offset: 473, Unref Method: 4500, Operand: 0
+Offset: 474, PUSHS , Operand: Members: Deflect Missiles
+Offset: 475, PUSHS , Operand: Members can now use the 
+Offset: 476, PUSHS , Operand: <col=000080>
+Offset: 477, PUSHS , Operand: Deflect Missiles
+Offset: 478, PUSHS , Operand: </col>
+Offset: 479, PUSHS , Operand:  curse (after The Temple at Senntisten).
+Offset: 480, CONCAT , Operand: 5
+Offset: 481, RETURN , Operand: 0
+Offset: 482, GOTO , Operand: 174
+Offset: 483, PUSHI , Operand: 70
+Offset: 484, PUSHI , Operand: 686
+Offset: 485, PUSHI , Operand: 735
+Offset: 486, Unref Method: 4500, Operand: 0
+Offset: 487, PUSHS , Operand: Members: Piety
+Offset: 488, PUSHS , Operand: <br>
+Offset: 489, PUSHS , Operand:  (after King's Ransom)
+Offset: 490, CONCAT , Operand: 3
+Offset: 491, PUSHS , Operand: Members now have the Prayer level required to use the 
+Offset: 492, PUSHS , Operand: <col=000080>
+Offset: 493, PUSHS , Operand: Piety
+Offset: 494, PUSHS , Operand: </col>
+Offset: 495, PUSHS , Operand:  prayer (after King's Ransom).
+Offset: 496, CONCAT , Operand: 5
+Offset: 497, RETURN , Operand: 0
+Offset: 498, GOTO , Operand: 158
+Offset: 499, PUSHI , Operand: 71
+Offset: 500, PUSHI , Operand: 897
+Offset: 501, PUSHI , Operand: 735
+Offset: 502, Unref Method: 4500, Operand: 0
+Offset: 503, PUSHS , Operand: Members: Deflect Melee
+Offset: 504, PUSHS , Operand: Members can now use the 
+Offset: 505, PUSHS , Operand: <col=000080>
+Offset: 506, PUSHS , Operand: Deflect Melee
+Offset: 507, PUSHS , Operand: </col>
+Offset: 508, PUSHS , Operand:  curse (after The Temple at Senntisten).
+Offset: 509, CONCAT , Operand: 5
+Offset: 510, RETURN , Operand: 0
+Offset: 511, GOTO , Operand: 145
+Offset: 512, PUSHI , Operand: 74
+Offset: 513, PUSHI , Operand: 898
+Offset: 514, PUSHI , Operand: 735
+Offset: 515, Unref Method: 4500, Operand: 0
+Offset: 516, PUSHS , Operand: Members: Leech Attack
+Offset: 517, PUSHS , Operand: Members can now use the 
+Offset: 518, PUSHS , Operand: <col=000080>
+Offset: 519, PUSHS , Operand: Leech Attack
+Offset: 520, PUSHS , Operand: </col>
+Offset: 521, PUSHS , Operand:  curse (after The Temple at Senntisten).
+Offset: 522, CONCAT , Operand: 5
+Offset: 523, RETURN , Operand: 0
+Offset: 524, GOTO , Operand: 132
+Offset: 525, PUSHI , Operand: 76
+Offset: 526, PUSHI , Operand: 899
+Offset: 527, PUSHI , Operand: 735
+Offset: 528, Unref Method: 4500, Operand: 0
+Offset: 529, PUSHS , Operand: Members: Leech Ranged
+Offset: 530, PUSHS , Operand: Members can now use the 
+Offset: 531, PUSHS , Operand: <col=000080>
+Offset: 532, PUSHS , Operand: Leech Ranged
+Offset: 533, PUSHS , Operand: </col>
+Offset: 534, PUSHS , Operand:  curse (after The Temple at Senntisten).
+Offset: 535, CONCAT , Operand: 5
+Offset: 536, RETURN , Operand: 0
+Offset: 537, GOTO , Operand: 119
+Offset: 538, PUSHI , Operand: 77
+Offset: 539, PUSHI , Operand: 1006
+Offset: 540, PUSHI , Operand: 735
+Offset: 541, Unref Method: 4500, Operand: 0
+Offset: 542, PUSHS , Operand: Members: Augury
+Offset: 543, PUSHS , Operand: <br>
+Offset: 544, PUSHS , Operand:  (bought from Daemonheim, with 77 Dungeoneering)
+Offset: 545, CONCAT , Operand: 3
+Offset: 546, PUSHS , Operand: Members can now use the 
+Offset: 547, PUSHS , Operand: <col=000080>
+Offset: 548, PUSHS , Operand: Augury
+Offset: 549, PUSHS , Operand: </col>
+Offset: 550, PUSHS , Operand:  prayer (bought from Daemonheim). (They also need level 77 Dungeoneering.)
+Offset: 551, CONCAT , Operand: 5
+Offset: 552, RETURN , Operand: 0
+Offset: 553, GOTO , Operand: 103
+Offset: 554, PUSHI , Operand: 78
+Offset: 555, PUSHI , Operand: 900
+Offset: 556, PUSHI , Operand: 735
+Offset: 557, Unref Method: 4500, Operand: 0
+Offset: 558, PUSHS , Operand: Members: Leech Magic
+Offset: 559, PUSHS , Operand: Members can now use the 
+Offset: 560, PUSHS , Operand: <col=000080>
+Offset: 561, PUSHS , Operand: Leech Magic
+Offset: 562, PUSHS , Operand: </col>
+Offset: 563, PUSHS , Operand:  curse (after The Temple at Senntisten).
+Offset: 564, CONCAT , Operand: 5
+Offset: 565, RETURN , Operand: 0
+Offset: 566, GOTO , Operand: 90
+Offset: 567, PUSHI , Operand: 80
+Offset: 568, PUSHI , Operand: 901
+Offset: 569, PUSHI , Operand: 735
+Offset: 570, Unref Method: 4500, Operand: 0
+Offset: 571, PUSHS , Operand: Members: Leech Defence
+Offset: 572, PUSHS , Operand: Members can now use the 
+Offset: 573, PUSHS , Operand: <col=000080>
+Offset: 574, PUSHS , Operand: Leech Defence
+Offset: 575, PUSHS , Operand: </col>
+Offset: 576, PUSHS , Operand:  curse (after The Temple at Senntisten).
+Offset: 577, CONCAT , Operand: 5
+Offset: 578, RETURN , Operand: 0
+Offset: 579, GOTO , Operand: 77
+Offset: 580, PUSHI , Operand: 82
+Offset: 581, PUSHI , Operand: 902
+Offset: 582, PUSHI , Operand: 735
+Offset: 583, Unref Method: 4500, Operand: 0
+Offset: 584, PUSHS , Operand: Members: Leech Strength
+Offset: 585, PUSHS , Operand: Members can now use the 
+Offset: 586, PUSHS , Operand: <col=000080>
+Offset: 587, PUSHS , Operand: Leech Strength
+Offset: 588, PUSHS , Operand: </col>
+Offset: 589, PUSHS , Operand:  curse (after The Temple at Senntisten).
+Offset: 590, CONCAT , Operand: 5
+Offset: 591, RETURN , Operand: 0
+Offset: 592, GOTO , Operand: 64
+Offset: 593, PUSHI , Operand: 84
+Offset: 594, PUSHI , Operand: 903
+Offset: 595, PUSHI , Operand: 735
+Offset: 596, Unref Method: 4500, Operand: 0
+Offset: 597, PUSHS , Operand: Members: Leech Energy
+Offset: 598, PUSHS , Operand: Members can now use the 
+Offset: 599, PUSHS , Operand: <col=000080>
+Offset: 600, PUSHS , Operand: Leech Energy
+Offset: 601, PUSHS , Operand: </col>
+Offset: 602, PUSHS , Operand:  curse (after The Temple at Senntisten).
+Offset: 603, CONCAT , Operand: 5
+Offset: 604, RETURN , Operand: 0
+Offset: 605, GOTO , Operand: 51
+Offset: 606, PUSHI , Operand: 86
+Offset: 607, PUSHI , Operand: 904
+Offset: 608, PUSHI , Operand: 735
+Offset: 609, Unref Method: 4500, Operand: 0
+Offset: 610, PUSHS , Operand: Members: Leech Special Attack
+Offset: 611, PUSHS , Operand: Members can now use the 
+Offset: 612, PUSHS , Operand: <col=000080>
+Offset: 613, PUSHS , Operand: Leech Special Attack
+Offset: 614, PUSHS , Operand: </col>
+Offset: 615, PUSHS , Operand:  curse (after The Temple at Senntisten).
+Offset: 616, CONCAT , Operand: 5
+Offset: 617, RETURN , Operand: 0
+Offset: 618, GOTO , Operand: 38
+Offset: 619, PUSHI , Operand: 89
+Offset: 620, PUSHI , Operand: 905
+Offset: 621, PUSHI , Operand: 735
+Offset: 622, Unref Method: 4500, Operand: 0
+Offset: 623, PUSHS , Operand: Members: Wrath
+Offset: 624, PUSHS , Operand: Members can now use the 
+Offset: 625, PUSHS , Operand: <col=000080>
+Offset: 626, PUSHS , Operand: Wrath
+Offset: 627, PUSHS , Operand: </col>
+Offset: 628, PUSHS , Operand:  curse (after The Temple at Senntisten).
+Offset: 629, CONCAT , Operand: 5
+Offset: 630, RETURN , Operand: 0
+Offset: 631, GOTO , Operand: 25
+Offset: 632, PUSHI , Operand: 92
+Offset: 633, PUSHI , Operand: 906
+Offset: 634, PUSHI , Operand: 735
+Offset: 635, Unref Method: 4500, Operand: 0
+Offset: 636, PUSHS , Operand: Members: Soul Split
+Offset: 637, PUSHS , Operand: Members can now use the 
+Offset: 638, PUSHS , Operand: <col=000080>
+Offset: 639, PUSHS , Operand: Soul Split
+Offset: 640, PUSHS , Operand: </col>
+Offset: 641, PUSHS , Operand:  curse (after The Temple at Senntisten).
+Offset: 642, CONCAT , Operand: 5
+Offset: 643, RETURN , Operand: 0
+Offset: 644, GOTO , Operand: 12
+Offset: 645, PUSHI , Operand: 95
+Offset: 646, PUSHI , Operand: 907
+Offset: 647, PUSHI , Operand: 735
+Offset: 648, Unref Method: 4500, Operand: 0
+Offset: 649, PUSHS , Operand: Members: Turmoil
+Offset: 650, PUSHS , Operand: Members can now use the 
+Offset: 651, PUSHS , Operand: <col=000080>
+Offset: 652, PUSHS , Operand: Turmoil
+Offset: 653, PUSHS , Operand: </col>
+Offset: 654, PUSHS , Operand:  curse (after The Temple at Senntisten).
+Offset: 655, CONCAT , Operand: 5
+Offset: 656, RETURN , Operand: 0
+Offset: 657, PUSHI , Operand: 0
+Offset: 658, PUSHI , Operand: -1
+Offset: 659, PUSHS , Operand: 
+Offset: 660, PUSHS , Operand: 
+Offset: 661, RETURN , Operand: 0
+
+================================================
+                Switch Table 0                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 7
+Key: 2, Value: 20
+Key: 3, Value: 33
+Key: 4, Value: 46
+Key: 5, Value: 59
+Key: 6, Value: 72
+Key: 7, Value: 85
+Key: 8, Value: 98
+Key: 9, Value: 111
+Key: 10, Value: 124
+Key: 11, Value: 137
+Key: 12, Value: 150
+Key: 13, Value: 163
+Key: 14, Value: 176
+Key: 15, Value: 189
+Key: 17, Value: 215
+Key: 16, Value: 202
+Key: 19, Value: 241
+Key: 18, Value: 228
+Key: 21, Value: 267
+Key: 20, Value: 254
+Key: 23, Value: 293
+Key: 22, Value: 280
+Key: 25, Value: 319
+Key: 24, Value: 306
+Key: 27, Value: 345
+Key: 26, Value: 332
+Key: 29, Value: 371
+Key: 28, Value: 358
+Key: 31, Value: 397
+Key: 30, Value: 384
+Key: 34, Value: 439
+Key: 35, Value: 452
+Key: 32, Value: 410
+Key: 33, Value: 426
+Key: 38, Value: 497
+Key: 39, Value: 510
+Key: 36, Value: 468
+Key: 37, Value: 481
+Key: 42, Value: 552
+Key: 43, Value: 565
+Key: 40, Value: 523
+Key: 41, Value: 536
+Key: 46, Value: 604
+Key: 47, Value: 617
+Key: 44, Value: 578
+Key: 45, Value: 591
+Key: 49, Value: 643
+Key: 48, Value: 630

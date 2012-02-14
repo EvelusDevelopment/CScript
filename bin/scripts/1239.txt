@@ -1,0 +1,73 @@
+================================================
+      Client Script 1239 Dumped by SiniSoul    
+      Instruction Size: 51
+      Integer Arguments: 4 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADGINT , Operand: 176
+Offset: 1, PUSHI , Operand: 10
+Offset: 2, IDIV , Operand: 0
+Offset: 3, STOREINT , Operand: 1
+Offset: 4, LOADINT , Operand: 1
+Offset: 5, PUSHI , Operand: 5
+Offset: 6, IFGT , Operand: 1
+Offset: 7, GOTO , Operand: 6
+Offset: 8, PUSHI , Operand: 1
+Offset: 9, STOREINT , Operand: 1
+Offset: 10, LOADINT , Operand: 1
+Offset: 11, PUSHI , Operand: 10
+Offset: 12, IMUL , Operand: 0
+Offset: 13, STOREGINT , Operand: 176
+Offset: 14, PUSHI , Operand: -1
+Offset: 15, STOREINT , Operand: 2
+Offset: 16, PUSHI , Operand: 0
+Offset: 17, STOREINT , Operand: 3
+Offset: 18, LOADINT , Operand: 1
+Offset: 19, SWITCH , Operand: 0
+Offset: 20, GOTO , Operand: 24
+Offset: 21, LOADINT , Operand: 0
+Offset: 22, CALL , Operand: 3415
+Offset: 23, STOREINT , Operand: 3
+Offset: 24, STOREINT , Operand: 2
+Offset: 25, GOTO , Operand: 19
+Offset: 26, LOADINT , Operand: 0
+Offset: 27, CALL , Operand: 3371
+Offset: 28, STOREINT , Operand: 3
+Offset: 29, STOREINT , Operand: 2
+Offset: 30, GOTO , Operand: 14
+Offset: 31, LOADINT , Operand: 0
+Offset: 32, CALL , Operand: 3372
+Offset: 33, STOREINT , Operand: 3
+Offset: 34, STOREINT , Operand: 2
+Offset: 35, GOTO , Operand: 9
+Offset: 36, LOADINT , Operand: 0
+Offset: 37, CALL , Operand: 3373
+Offset: 38, STOREINT , Operand: 3
+Offset: 39, STOREINT , Operand: 2
+Offset: 40, GOTO , Operand: 4
+Offset: 41, LOADINT , Operand: 0
+Offset: 42, CALL , Operand: 3374
+Offset: 43, STOREINT , Operand: 3
+Offset: 44, STOREINT , Operand: 2
+Offset: 45, LOADINT , Operand: 2
+Offset: 46, LOADINT , Operand: 3
+Offset: 47, RETURN , Operand: 0
+Offset: 48, PUSHI , Operand: -1
+Offset: 49, PUSHI , Operand: 0
+Offset: 50, RETURN , Operand: 0
+
+================================================
+                Switch Table 0                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 1
+Key: 2, Value: 6
+Key: 3, Value: 11
+Key: 4, Value: 16
+Key: 5, Value: 21

@@ -1,0 +1,36 @@
+================================================
+      Client Script 748 Dumped by SiniSoul    
+      Instruction Size: 25
+      Integer Arguments: 2 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADINT , Operand: 0
+Offset: 1, CALL , Operand: 750
+Offset: 2, PUSHI , Operand: 0
+Offset: 3, IFEQ , Operand: 1
+Offset: 4, GOTO , Operand: 10
+Offset: 5, PUSHI , Operand: 656
+Offset: 6, PUSHI , Operand: 43515913
+Offset: 7, Unref Method: 2105, Operand: 0
+Offset: 8, PUSHS , Operand: Auto-retaliate 
+Offset: 9, PUSHS , Operand: <br>
+Offset: 10, PUSHS , Operand: (On)
+Offset: 11, CONCAT , Operand: 3
+Offset: 12, PUSHI , Operand: 43515914
+Offset: 13, Unref Method: 2112, Operand: 0
+Offset: 14, GOTO , Operand: 9
+Offset: 15, PUSHI , Operand: 655
+Offset: 16, PUSHI , Operand: 43515913
+Offset: 17, Unref Method: 2105, Operand: 0
+Offset: 18, PUSHS , Operand: Auto-retaliate 
+Offset: 19, PUSHS , Operand: <br>
+Offset: 20, PUSHS , Operand: (Off)
+Offset: 21, CONCAT , Operand: 3
+Offset: 22, PUSHI , Operand: 43515914
+Offset: 23, Unref Method: 2112, Operand: 0
+Offset: 24, RETURN , Operand: 0

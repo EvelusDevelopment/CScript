@@ -1,0 +1,1988 @@
+================================================
+      Client Script 980 Dumped by SiniSoul    
+      Instruction Size: 1777
+      Integer Arguments: 2 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADINT , Operand: 0
+Offset: 1, SWITCH , Operand: 0
+Offset: 2, GOTO , Operand: 1769
+Offset: 3, LOADINT , Operand: 1
+Offset: 4, SWITCH , Operand: 1
+Offset: 5, GOTO , Operand: 202
+Offset: 6, PUSHI , Operand: 1
+Offset: 7, PUSHI , Operand: 882
+Offset: 8, PUSHS , Operand: Bronze arrow
+Offset: 9, PUSHS , Operand: You can now fletch 
+Offset: 10, PUSHS , Operand: <col=000080>
+Offset: 11, PUSHS , Operand: bronze arrows
+Offset: 12, PUSHS , Operand: </col>
+Offset: 13, PUSHS , Operand: .
+Offset: 14, CONCAT , Operand: 5
+Offset: 15, RETURN , Operand: 0
+Offset: 16, GOTO , Operand: 191
+Offset: 17, PUSHI , Operand: 5
+Offset: 18, PUSHI , Operand: 2866
+Offset: 19, PUSHS , Operand: Ogre arrow
+Offset: 20, PUSHS , Operand: <br>
+Offset: 21, PUSHS , Operand:  (after starting Big Chompy Bird Hunting)
+Offset: 22, CONCAT , Operand: 3
+Offset: 23, PUSHS , Operand: You now have the Fletching level required to fletch 
+Offset: 24, PUSHS , Operand: <col=000080>
+Offset: 25, PUSHS , Operand: ogre arrows
+Offset: 26, PUSHS , Operand: </col>
+Offset: 27, PUSHS , Operand:  (after starting Big Chompy Bird Hunting).
+Offset: 28, CONCAT , Operand: 5
+Offset: 29, RETURN , Operand: 0
+Offset: 30, GOTO , Operand: 177
+Offset: 31, PUSHI , Operand: 7
+Offset: 32, PUSHI , Operand: 4773
+Offset: 33, PUSHS , Operand: Bronze 'brutal' arrow
+Offset: 34, PUSHS , Operand: <br>
+Offset: 35, PUSHS , Operand:  (after starting Zogre Flesh Eaters)
+Offset: 36, CONCAT , Operand: 3
+Offset: 37, PUSHS , Operand: You now have the Fletching level required to fletch 
+Offset: 38, PUSHS , Operand: <col=000080>
+Offset: 39, PUSHS , Operand: bronze 'brutal' arrows
+Offset: 40, PUSHS , Operand: </col>
+Offset: 41, PUSHS , Operand:  (after starting Zogre Flesh Eaters).
+Offset: 42, CONCAT , Operand: 5
+Offset: 43, RETURN , Operand: 0
+Offset: 44, GOTO , Operand: 163
+Offset: 45, PUSHI , Operand: 15
+Offset: 46, PUSHI , Operand: 884
+Offset: 47, PUSHS , Operand: Iron arrow
+Offset: 48, PUSHS , Operand: You can now fletch 
+Offset: 49, PUSHS , Operand: <col=000080>
+Offset: 50, PUSHS , Operand: iron arrows
+Offset: 51, PUSHS , Operand: </col>
+Offset: 52, PUSHS , Operand: .
+Offset: 53, CONCAT , Operand: 5
+Offset: 54, RETURN , Operand: 0
+Offset: 55, GOTO , Operand: 152
+Offset: 56, PUSHI , Operand: 18
+Offset: 57, PUSHI , Operand: 4778
+Offset: 58, PUSHS , Operand: Iron 'brutal' arrow
+Offset: 59, PUSHS , Operand: <br>
+Offset: 60, PUSHS , Operand:  (after starting Zogre Flesh Eaters)
+Offset: 61, CONCAT , Operand: 3
+Offset: 62, PUSHS , Operand: You now have the Fletching level required to fletch 
+Offset: 63, PUSHS , Operand: <col=000080>
+Offset: 64, PUSHS , Operand: iron 'brutal' arrows
+Offset: 65, PUSHS , Operand: </col>
+Offset: 66, PUSHS , Operand:  (after starting Zogre Flesh Eaters).
+Offset: 67, CONCAT , Operand: 5
+Offset: 68, RETURN , Operand: 0
+Offset: 69, GOTO , Operand: 138
+Offset: 70, PUSHI , Operand: 30
+Offset: 71, PUSHI , Operand: 886
+Offset: 72, PUSHS , Operand: Steel arrow
+Offset: 73, PUSHS , Operand: You can now fletch 
+Offset: 74, PUSHS , Operand: <col=000080>
+Offset: 75, PUSHS , Operand: steel arrows
+Offset: 76, PUSHS , Operand: </col>
+Offset: 77, PUSHS , Operand: .
+Offset: 78, CONCAT , Operand: 5
+Offset: 79, RETURN , Operand: 0
+Offset: 80, GOTO , Operand: 127
+Offset: 81, PUSHI , Operand: 33
+Offset: 82, PUSHI , Operand: 4783
+Offset: 83, PUSHS , Operand: Steel 'brutal' arrow
+Offset: 84, PUSHS , Operand: <br>
+Offset: 85, PUSHS , Operand:  (after starting Zogre Flesh Eaters)
+Offset: 86, CONCAT , Operand: 3
+Offset: 87, PUSHS , Operand: You now have the Fletching level required to fletch 
+Offset: 88, PUSHS , Operand: <col=000080>
+Offset: 89, PUSHS , Operand: steel 'brutal' arrows
+Offset: 90, PUSHS , Operand: </col>
+Offset: 91, PUSHS , Operand:  (after starting Zogre Flesh Eaters).
+Offset: 92, CONCAT , Operand: 5
+Offset: 93, RETURN , Operand: 0
+Offset: 94, GOTO , Operand: 113
+Offset: 95, PUSHI , Operand: 38
+Offset: 96, PUSHI , Operand: 4788
+Offset: 97, PUSHS , Operand: Black 'brutal' arrow
+Offset: 98, PUSHS , Operand: <br>
+Offset: 99, PUSHS , Operand:  (after starting Zogre Flesh Eaters)
+Offset: 100, CONCAT , Operand: 3
+Offset: 101, PUSHS , Operand: You now have the Fletching level required to fletch 
+Offset: 102, PUSHS , Operand: <col=000080>
+Offset: 103, PUSHS , Operand: black 'brutal' arrows
+Offset: 104, PUSHS , Operand: </col>
+Offset: 105, PUSHS , Operand:  (after starting Zogre Flesh Eaters).
+Offset: 106, CONCAT , Operand: 5
+Offset: 107, RETURN , Operand: 0
+Offset: 108, GOTO , Operand: 99
+Offset: 109, PUSHI , Operand: 45
+Offset: 110, PUSHI , Operand: 888
+Offset: 111, PUSHS , Operand: Mithril arrow
+Offset: 112, PUSHS , Operand: You can now fletch 
+Offset: 113, PUSHS , Operand: <col=000080>
+Offset: 114, PUSHS , Operand: mithril arrows
+Offset: 115, PUSHS , Operand: </col>
+Offset: 116, PUSHS , Operand: .
+Offset: 117, CONCAT , Operand: 5
+Offset: 118, RETURN , Operand: 0
+Offset: 119, GOTO , Operand: 88
+Offset: 120, PUSHI , Operand: 49
+Offset: 121, PUSHI , Operand: 4793
+Offset: 122, PUSHS , Operand: Mithril 'brutal' arrow
+Offset: 123, PUSHS , Operand: <br>
+Offset: 124, PUSHS , Operand:  (after starting Zogre Flesh Eaters)
+Offset: 125, CONCAT , Operand: 3
+Offset: 126, PUSHS , Operand: You now have the Fletching level required to fletch 
+Offset: 127, PUSHS , Operand: <col=000080>
+Offset: 128, PUSHS , Operand: mithril 'brutal' arrows
+Offset: 129, PUSHS , Operand: </col>
+Offset: 130, PUSHS , Operand:  (after starting Zogre Flesh Eaters).
+Offset: 131, CONCAT , Operand: 5
+Offset: 132, RETURN , Operand: 0
+Offset: 133, GOTO , Operand: 74
+Offset: 134, PUSHI , Operand: 52
+Offset: 135, PUSHI , Operand: 13278
+Offset: 136, PUSHS , Operand: Broad leaf arrows
+Offset: 137, PUSHS , Operand: <br>
+Offset: 138, PUSHS , Operand:  (after Smoking Kills)
+Offset: 139, CONCAT , Operand: 3
+Offset: 140, PUSHS , Operand: You can now fletch 
+Offset: 141, PUSHS , Operand: <col=000080>
+Offset: 142, PUSHS , Operand: broad leaf arrows
+Offset: 143, PUSHS , Operand: </col>
+Offset: 144, PUSHS , Operand:  (after Smoking Kills).
+Offset: 145, CONCAT , Operand: 5
+Offset: 146, RETURN , Operand: 0
+Offset: 147, GOTO , Operand: 60
+Offset: 148, PUSHI , Operand: 60
+Offset: 149, PUSHI , Operand: 890
+Offset: 150, PUSHS , Operand: Adamant arrow
+Offset: 151, PUSHS , Operand: You can now fletch 
+Offset: 152, PUSHS , Operand: <col=000080>
+Offset: 153, PUSHS , Operand: adamant arrows
+Offset: 154, PUSHS , Operand: </col>
+Offset: 155, PUSHS , Operand: .
+Offset: 156, CONCAT , Operand: 5
+Offset: 157, RETURN , Operand: 0
+Offset: 158, GOTO , Operand: 49
+Offset: 159, PUSHI , Operand: 62
+Offset: 160, PUSHI , Operand: 4798
+Offset: 161, PUSHS , Operand: Adamant 'brutal' arrow
+Offset: 162, PUSHS , Operand: <br>
+Offset: 163, PUSHS , Operand:  (after starting Zogre Flesh Eaters)
+Offset: 164, CONCAT , Operand: 3
+Offset: 165, PUSHS , Operand: You now have the Fletching level required to fletch 
+Offset: 166, PUSHS , Operand: <col=000080>
+Offset: 167, PUSHS , Operand: adamant 'brutal' arrows
+Offset: 168, PUSHS , Operand: </col>
+Offset: 169, PUSHS , Operand:  (after starting Zogre Flesh Eaters).
+Offset: 170, CONCAT , Operand: 5
+Offset: 171, RETURN , Operand: 0
+Offset: 172, GOTO , Operand: 35
+Offset: 173, PUSHI , Operand: 75
+Offset: 174, PUSHI , Operand: 892
+Offset: 175, PUSHS , Operand: Rune arrow
+Offset: 176, PUSHS , Operand: You can now fletch 
+Offset: 177, PUSHS , Operand: <col=000080>
+Offset: 178, PUSHS , Operand: rune arrows
+Offset: 179, PUSHS , Operand: </col>
+Offset: 180, PUSHS , Operand: .
+Offset: 181, CONCAT , Operand: 5
+Offset: 182, RETURN , Operand: 0
+Offset: 183, GOTO , Operand: 24
+Offset: 184, PUSHI , Operand: 77
+Offset: 185, PUSHI , Operand: 4803
+Offset: 186, PUSHS , Operand: Rune 'brutal' arrow
+Offset: 187, PUSHS , Operand: <br>
+Offset: 188, PUSHS , Operand:  (after starting Zogre Flesh Eaters)
+Offset: 189, CONCAT , Operand: 3
+Offset: 190, PUSHS , Operand: You now have the Fletching level required to fletch 
+Offset: 191, PUSHS , Operand: <col=000080>
+Offset: 192, PUSHS , Operand: rune 'brutal' arrows
+Offset: 193, PUSHS , Operand: </col>
+Offset: 194, PUSHS , Operand:  (after starting Zogre Flesh Eaters).
+Offset: 195, CONCAT , Operand: 5
+Offset: 196, RETURN , Operand: 0
+Offset: 197, GOTO , Operand: 10
+Offset: 198, PUSHI , Operand: 90
+Offset: 199, PUSHI , Operand: 11212
+Offset: 200, PUSHS , Operand: Dragon arrow
+Offset: 201, PUSHS , Operand: You can now fletch 
+Offset: 202, PUSHS , Operand: <col=000080>
+Offset: 203, PUSHS , Operand: dragon arrows
+Offset: 204, PUSHS , Operand: </col>
+Offset: 205, PUSHS , Operand: .
+Offset: 206, CONCAT , Operand: 5
+Offset: 207, RETURN , Operand: 0
+Offset: 208, GOTO , Operand: 1563
+Offset: 209, LOADINT , Operand: 1
+Offset: 210, SWITCH , Operand: 2
+Offset: 211, GOTO , Operand: 145
+Offset: 212, PUSHI , Operand: 5
+Offset: 213, PUSHI , Operand: 841
+Offset: 214, PUSHS , Operand: Shortbow
+Offset: 215, PUSHS , Operand: You can now fletch 
+Offset: 216, PUSHS , Operand: <col=000080>
+Offset: 217, PUSHS , Operand: shortbows
+Offset: 218, PUSHS , Operand: </col>
+Offset: 219, PUSHS , Operand: .
+Offset: 220, CONCAT , Operand: 5
+Offset: 221, RETURN , Operand: 0
+Offset: 222, GOTO , Operand: 134
+Offset: 223, PUSHI , Operand: 10
+Offset: 224, PUSHI , Operand: 839
+Offset: 225, PUSHS , Operand: Longbow
+Offset: 226, PUSHS , Operand: You can now fletch 
+Offset: 227, PUSHS , Operand: <col=000080>
+Offset: 228, PUSHS , Operand: longbows
+Offset: 229, PUSHS , Operand: </col>
+Offset: 230, PUSHS , Operand: .
+Offset: 231, CONCAT , Operand: 5
+Offset: 232, RETURN , Operand: 0
+Offset: 233, GOTO , Operand: 123
+Offset: 234, PUSHI , Operand: 20
+Offset: 235, PUSHI , Operand: 843
+Offset: 236, PUSHS , Operand: Oak shortbow
+Offset: 237, PUSHS , Operand: You can now fletch 
+Offset: 238, PUSHS , Operand: <col=000080>
+Offset: 239, PUSHS , Operand: oak shortbows
+Offset: 240, PUSHS , Operand: </col>
+Offset: 241, PUSHS , Operand: .
+Offset: 242, CONCAT , Operand: 5
+Offset: 243, RETURN , Operand: 0
+Offset: 244, GOTO , Operand: 112
+Offset: 245, PUSHI , Operand: 25
+Offset: 246, PUSHI , Operand: 845
+Offset: 247, PUSHS , Operand: Oak longbow
+Offset: 248, PUSHS , Operand: You can now fletch 
+Offset: 249, PUSHS , Operand: <col=000080>
+Offset: 250, PUSHS , Operand: oak longbows
+Offset: 251, PUSHS , Operand: </col>
+Offset: 252, PUSHS , Operand: .
+Offset: 253, CONCAT , Operand: 5
+Offset: 254, RETURN , Operand: 0
+Offset: 255, GOTO , Operand: 101
+Offset: 256, PUSHI , Operand: 30
+Offset: 257, PUSHI , Operand: 4827
+Offset: 258, PUSHS , Operand: Ogre composite bow
+Offset: 259, PUSHS , Operand: <br>
+Offset: 260, PUSHS , Operand:  (after starting Zogre Flesh Eaters)
+Offset: 261, CONCAT , Operand: 3
+Offset: 262, PUSHS , Operand: You now have the Fletching level required to fletch 
+Offset: 263, PUSHS , Operand: <col=000080>
+Offset: 264, PUSHS , Operand: ogre composite bows
+Offset: 265, PUSHS , Operand: </col>
+Offset: 266, PUSHS , Operand:  (after starting Zogre Flesh Eaters).
+Offset: 267, CONCAT , Operand: 5
+Offset: 268, RETURN , Operand: 0
+Offset: 269, GOTO , Operand: 87
+Offset: 270, PUSHI , Operand: 35
+Offset: 271, PUSHI , Operand: 849
+Offset: 272, PUSHS , Operand: Willow shortbow
+Offset: 273, PUSHS , Operand: You can now fletch 
+Offset: 274, PUSHS , Operand: <col=000080>
+Offset: 275, PUSHS , Operand: willow shortbows
+Offset: 276, PUSHS , Operand: </col>
+Offset: 277, PUSHS , Operand: .
+Offset: 278, CONCAT , Operand: 5
+Offset: 279, RETURN , Operand: 0
+Offset: 280, GOTO , Operand: 76
+Offset: 281, PUSHI , Operand: 40
+Offset: 282, PUSHI , Operand: 847
+Offset: 283, PUSHS , Operand: Willow longbow
+Offset: 284, PUSHS , Operand: You can now fletch 
+Offset: 285, PUSHS , Operand: <col=000080>
+Offset: 286, PUSHS , Operand: willow longbows
+Offset: 287, PUSHS , Operand: </col>
+Offset: 288, PUSHS , Operand: .
+Offset: 289, CONCAT , Operand: 5
+Offset: 290, RETURN , Operand: 0
+Offset: 291, GOTO , Operand: 65
+Offset: 292, PUSHI , Operand: 50
+Offset: 293, PUSHI , Operand: 853
+Offset: 294, PUSHS , Operand: Maple shortbow
+Offset: 295, PUSHS , Operand: You can now fletch 
+Offset: 296, PUSHS , Operand: <col=000080>
+Offset: 297, PUSHS , Operand: maple shortbows
+Offset: 298, PUSHS , Operand: </col>
+Offset: 299, PUSHS , Operand: .
+Offset: 300, CONCAT , Operand: 5
+Offset: 301, RETURN , Operand: 0
+Offset: 302, GOTO , Operand: 54
+Offset: 303, PUSHI , Operand: 55
+Offset: 304, PUSHI , Operand: 851
+Offset: 305, PUSHS , Operand: Maple longbow
+Offset: 306, PUSHS , Operand: You can now fletch 
+Offset: 307, PUSHS , Operand: <col=000080>
+Offset: 308, PUSHS , Operand: maple longbows
+Offset: 309, PUSHS , Operand: </col>
+Offset: 310, PUSHS , Operand: .
+Offset: 311, CONCAT , Operand: 5
+Offset: 312, RETURN , Operand: 0
+Offset: 313, GOTO , Operand: 43
+Offset: 314, PUSHI , Operand: 65
+Offset: 315, PUSHI , Operand: 857
+Offset: 316, PUSHS , Operand: Yew shortbow
+Offset: 317, PUSHS , Operand: You can now fletch 
+Offset: 318, PUSHS , Operand: <col=000080>
+Offset: 319, PUSHS , Operand: yew shortbows
+Offset: 320, PUSHS , Operand: </col>
+Offset: 321, PUSHS , Operand: .
+Offset: 322, CONCAT , Operand: 5
+Offset: 323, RETURN , Operand: 0
+Offset: 324, GOTO , Operand: 32
+Offset: 325, PUSHI , Operand: 70
+Offset: 326, PUSHI , Operand: 855
+Offset: 327, PUSHS , Operand: Yew longbow
+Offset: 328, PUSHS , Operand: You can now fletch 
+Offset: 329, PUSHS , Operand: <col=000080>
+Offset: 330, PUSHS , Operand: yew longbows
+Offset: 331, PUSHS , Operand: </col>
+Offset: 332, PUSHS , Operand: .
+Offset: 333, CONCAT , Operand: 5
+Offset: 334, RETURN , Operand: 0
+Offset: 335, GOTO , Operand: 21
+Offset: 336, PUSHI , Operand: 80
+Offset: 337, PUSHI , Operand: 861
+Offset: 338, PUSHS , Operand: Magic shortbow
+Offset: 339, PUSHS , Operand: You can now fletch 
+Offset: 340, PUSHS , Operand: <col=000080>
+Offset: 341, PUSHS , Operand: magic shortbows
+Offset: 342, PUSHS , Operand: </col>
+Offset: 343, PUSHS , Operand: .
+Offset: 344, CONCAT , Operand: 5
+Offset: 345, RETURN , Operand: 0
+Offset: 346, GOTO , Operand: 10
+Offset: 347, PUSHI , Operand: 85
+Offset: 348, PUSHI , Operand: 859
+Offset: 349, PUSHS , Operand: Magic longbow
+Offset: 350, PUSHS , Operand: You can now fletch 
+Offset: 351, PUSHS , Operand: <col=000080>
+Offset: 352, PUSHS , Operand: magic longbows
+Offset: 353, PUSHS , Operand: </col>
+Offset: 354, PUSHS , Operand: .
+Offset: 355, CONCAT , Operand: 5
+Offset: 356, RETURN , Operand: 0
+Offset: 357, GOTO , Operand: 1414
+Offset: 358, LOADINT , Operand: 1
+Offset: 359, SWITCH , Operand: 3
+Offset: 360, GOTO , Operand: 261
+Offset: 361, PUSHI , Operand: 9
+Offset: 362, PUSHI , Operand: 877
+Offset: 363, PUSHS , Operand: Bronze bolt
+Offset: 364, PUSHS , Operand: You can now fletch 
+Offset: 365, PUSHS , Operand: <col=000080>
+Offset: 366, PUSHS , Operand: bronze bolts
+Offset: 367, PUSHS , Operand: </col>
+Offset: 368, PUSHS , Operand: .
+Offset: 369, CONCAT , Operand: 5
+Offset: 370, RETURN , Operand: 0
+Offset: 371, GOTO , Operand: 250
+Offset: 372, PUSHI , Operand: 11
+Offset: 373, PUSHI , Operand: 879
+Offset: 374, PUSHS , Operand: Opal-tipped bronze bolt
+Offset: 375, PUSHS , Operand: You can now fletch 
+Offset: 376, PUSHS , Operand: <col=000080>
+Offset: 377, PUSHS , Operand: opal-tipped bronze bolts
+Offset: 378, PUSHS , Operand: </col>
+Offset: 379, PUSHS , Operand: .
+Offset: 380, CONCAT , Operand: 5
+Offset: 381, RETURN , Operand: 0
+Offset: 382, GOTO , Operand: 239
+Offset: 383, PUSHI , Operand: 24
+Offset: 384, PUSHI , Operand: 9139
+Offset: 385, PUSHS , Operand: Blurite bolt
+Offset: 386, PUSHS , Operand: <br>
+Offset: 387, PUSHS , Operand:  (after The Knight's Sword)
+Offset: 388, CONCAT , Operand: 3
+Offset: 389, PUSHS , Operand: You now have the Fletching level required to fletch 
+Offset: 390, PUSHS , Operand: <col=000080>
+Offset: 391, PUSHS , Operand: blurite bolts
+Offset: 392, PUSHS , Operand: </col>
+Offset: 393, PUSHS , Operand:  (after The Knight's Sword).
+Offset: 394, CONCAT , Operand: 5
+Offset: 395, RETURN , Operand: 0
+Offset: 396, GOTO , Operand: 225
+Offset: 397, PUSHI , Operand: 26
+Offset: 398, PUSHI , Operand: 9335
+Offset: 399, PUSHS , Operand: Jade-tipped blurite bolt
+Offset: 400, PUSHS , Operand: <br>
+Offset: 401, PUSHS , Operand:  (after The Knight's Sword)
+Offset: 402, CONCAT , Operand: 3
+Offset: 403, PUSHS , Operand: You now have the Fletching level required to fletch 
+Offset: 404, PUSHS , Operand: <col=000080>
+Offset: 405, PUSHS , Operand: jade-tipped blurite bolts
+Offset: 406, PUSHS , Operand: </col>
+Offset: 407, PUSHS , Operand:  (after The Knight's Sword).
+Offset: 408, CONCAT , Operand: 5
+Offset: 409, RETURN , Operand: 0
+Offset: 410, GOTO , Operand: 211
+Offset: 411, PUSHI , Operand: 32
+Offset: 412, PUSHI , Operand: 10158
+Offset: 413, PUSHS , Operand: Kebbit-tipped hunting bolt
+Offset: 414, PUSHS , Operand: You can now fletch 
+Offset: 415, PUSHS , Operand: <col=000080>
+Offset: 416, PUSHS , Operand: kebbit-tipped hunting bolts
+Offset: 417, PUSHS , Operand: </col>
+Offset: 418, PUSHS , Operand: .
+Offset: 419, CONCAT , Operand: 5
+Offset: 420, RETURN , Operand: 0
+Offset: 421, GOTO , Operand: 200
+Offset: 422, PUSHI , Operand: 39
+Offset: 423, PUSHI , Operand: 9140
+Offset: 424, PUSHS , Operand: Iron bolt
+Offset: 425, PUSHS , Operand: You can now fletch 
+Offset: 426, PUSHS , Operand: <col=000080>
+Offset: 427, PUSHS , Operand: iron bolts
+Offset: 428, PUSHS , Operand: </col>
+Offset: 429, PUSHS , Operand: .
+Offset: 430, CONCAT , Operand: 5
+Offset: 431, RETURN , Operand: 0
+Offset: 432, GOTO , Operand: 189
+Offset: 433, PUSHI , Operand: 41
+Offset: 434, PUSHI , Operand: 880
+Offset: 435, PUSHS , Operand: Pearl-tipped iron bolt
+Offset: 436, PUSHS , Operand: You can now fletch 
+Offset: 437, PUSHS , Operand: <col=000080>
+Offset: 438, PUSHS , Operand: pearl-tipped iron bolts
+Offset: 439, PUSHS , Operand: </col>
+Offset: 440, PUSHS , Operand: .
+Offset: 441, CONCAT , Operand: 5
+Offset: 442, RETURN , Operand: 0
+Offset: 443, GOTO , Operand: 178
+Offset: 444, PUSHI , Operand: 42
+Offset: 445, PUSHI , Operand: 10159
+Offset: 446, PUSHS , Operand: Long kebbit-tipped hunting bolt
+Offset: 447, PUSHS , Operand: You can now fletch 
+Offset: 448, PUSHS , Operand: <col=000080>
+Offset: 449, PUSHS , Operand: long kebbit-tipped hunting bolts
+Offset: 450, PUSHS , Operand: </col>
+Offset: 451, PUSHS , Operand: .
+Offset: 452, CONCAT , Operand: 5
+Offset: 453, RETURN , Operand: 0
+Offset: 454, GOTO , Operand: 167
+Offset: 455, PUSHI , Operand: 43
+Offset: 456, PUSHI , Operand: 9145
+Offset: 457, PUSHS , Operand: Silver bolt
+Offset: 458, PUSHS , Operand: You can now fletch 
+Offset: 459, PUSHS , Operand: <col=000080>
+Offset: 460, PUSHS , Operand: silver bolts
+Offset: 461, PUSHS , Operand: </col>
+Offset: 462, PUSHS , Operand: .
+Offset: 463, CONCAT , Operand: 5
+Offset: 464, RETURN , Operand: 0
+Offset: 465, GOTO , Operand: 156
+Offset: 466, PUSHI , Operand: 46
+Offset: 467, PUSHI , Operand: 9141
+Offset: 468, PUSHS , Operand: Steel bolt
+Offset: 469, PUSHS , Operand: You can now fletch 
+Offset: 470, PUSHS , Operand: <col=000080>
+Offset: 471, PUSHS , Operand: steel bolts
+Offset: 472, PUSHS , Operand: </col>
+Offset: 473, PUSHS , Operand: .
+Offset: 474, CONCAT , Operand: 5
+Offset: 475, RETURN , Operand: 0
+Offset: 476, GOTO , Operand: 145
+Offset: 477, PUSHI , Operand: 48
+Offset: 478, PUSHI , Operand: 9336
+Offset: 479, PUSHS , Operand: Red topaz-tipped steel bolt
+Offset: 480, PUSHS , Operand: You can now fletch 
+Offset: 481, PUSHS , Operand: <col=000080>
+Offset: 482, PUSHS , Operand: red topaz-tipped steel bolts
+Offset: 483, PUSHS , Operand: </col>
+Offset: 484, PUSHS , Operand: .
+Offset: 485, CONCAT , Operand: 5
+Offset: 486, RETURN , Operand: 0
+Offset: 487, GOTO , Operand: 134
+Offset: 488, PUSHI , Operand: 51
+Offset: 489, PUSHI , Operand: 881
+Offset: 490, PUSHS , Operand: Barbed bolts
+Offset: 491, PUSHS , Operand: You can now fletch 
+Offset: 492, PUSHS , Operand: <col=000080>
+Offset: 493, PUSHS , Operand: barbed bolts
+Offset: 494, PUSHS , Operand: </col>
+Offset: 495, PUSHS , Operand: .
+Offset: 496, CONCAT , Operand: 5
+Offset: 497, RETURN , Operand: 0
+Offset: 498, GOTO , Operand: 123
+Offset: 499, PUSHI , Operand: 54
+Offset: 500, PUSHI , Operand: 9142
+Offset: 501, PUSHS , Operand: Mithril bolt
+Offset: 502, PUSHS , Operand: You can now fletch 
+Offset: 503, PUSHS , Operand: <col=000080>
+Offset: 504, PUSHS , Operand: mithril bolts
+Offset: 505, PUSHS , Operand: </col>
+Offset: 506, PUSHS , Operand: .
+Offset: 507, CONCAT , Operand: 5
+Offset: 508, RETURN , Operand: 0
+Offset: 509, GOTO , Operand: 112
+Offset: 510, PUSHI , Operand: 55
+Offset: 511, PUSHI , Operand: 13279
+Offset: 512, PUSHS , Operand: Broad leaf bolts
+Offset: 513, PUSHS , Operand: <br>
+Offset: 514, PUSHS , Operand:  (after Smoking Kills)
+Offset: 515, CONCAT , Operand: 3
+Offset: 516, PUSHS , Operand: You can now fletch 
+Offset: 517, PUSHS , Operand: <col=000080>
+Offset: 518, PUSHS , Operand: broad leaf bolts
+Offset: 519, PUSHS , Operand: </col>
+Offset: 520, PUSHS , Operand:  (after Smoking Kills).
+Offset: 521, CONCAT , Operand: 5
+Offset: 522, RETURN , Operand: 0
+Offset: 523, GOTO , Operand: 98
+Offset: 524, PUSHI , Operand: 56
+Offset: 525, PUSHI , Operand: 9337
+Offset: 526, PUSHS , Operand: Sapphire-tipped mithril bolt
+Offset: 527, PUSHS , Operand: You can now fletch 
+Offset: 528, PUSHS , Operand: <col=000080>
+Offset: 529, PUSHS , Operand: sapphire-tipped mithril bolts
+Offset: 530, PUSHS , Operand: </col>
+Offset: 531, PUSHS , Operand: .
+Offset: 532, CONCAT , Operand: 5
+Offset: 533, RETURN , Operand: 0
+Offset: 534, GOTO , Operand: 87
+Offset: 535, PUSHI , Operand: 58
+Offset: 536, PUSHI , Operand: 9338
+Offset: 537, PUSHS , Operand: Emerald-tipped mithril bolt
+Offset: 538, PUSHS , Operand: You can now fletch 
+Offset: 539, PUSHS , Operand: <col=000080>
+Offset: 540, PUSHS , Operand: emerald-tipped mithril bolts
+Offset: 541, PUSHS , Operand: </col>
+Offset: 542, PUSHS , Operand: .
+Offset: 543, CONCAT , Operand: 5
+Offset: 544, RETURN , Operand: 0
+Offset: 545, GOTO , Operand: 76
+Offset: 546, PUSHI , Operand: 59
+Offset: 547, PUSHI , Operand: 9418
+Offset: 548, PUSHS , Operand: Mithril grapple-tipped bolt
+Offset: 549, PUSHS , Operand: You can now fletch 
+Offset: 550, PUSHS , Operand: <col=000080>
+Offset: 551, PUSHS , Operand: mithril grapple-tipped bolts
+Offset: 552, PUSHS , Operand: </col>
+Offset: 553, PUSHS , Operand: .
+Offset: 554, CONCAT , Operand: 5
+Offset: 555, RETURN , Operand: 0
+Offset: 556, GOTO , Operand: 65
+Offset: 557, PUSHI , Operand: 61
+Offset: 558, PUSHI , Operand: 9143
+Offset: 559, PUSHS , Operand: Adamantite bolt
+Offset: 560, PUSHS , Operand: You can now fletch 
+Offset: 561, PUSHS , Operand: <col=000080>
+Offset: 562, PUSHS , Operand: adamantite bolts
+Offset: 563, PUSHS , Operand: </col>
+Offset: 564, PUSHS , Operand: .
+Offset: 565, CONCAT , Operand: 5
+Offset: 566, RETURN , Operand: 0
+Offset: 567, GOTO , Operand: 54
+Offset: 568, PUSHI , Operand: 63
+Offset: 569, PUSHI , Operand: 9339
+Offset: 570, PUSHS , Operand: Ruby-tipped adamantite bolt
+Offset: 571, PUSHS , Operand: You can now fletch 
+Offset: 572, PUSHS , Operand: <col=000080>
+Offset: 573, PUSHS , Operand: ruby-tipped adamantite bolts
+Offset: 574, PUSHS , Operand: </col>
+Offset: 575, PUSHS , Operand: .
+Offset: 576, CONCAT , Operand: 5
+Offset: 577, RETURN , Operand: 0
+Offset: 578, GOTO , Operand: 43
+Offset: 579, PUSHI , Operand: 65
+Offset: 580, PUSHI , Operand: 9340
+Offset: 581, PUSHS , Operand: Diamond-tipped adamantite bolt
+Offset: 582, PUSHS , Operand: You can now fletch 
+Offset: 583, PUSHS , Operand: <col=000080>
+Offset: 584, PUSHS , Operand: diamond-tipped adamantite bolts
+Offset: 585, PUSHS , Operand: </col>
+Offset: 586, PUSHS , Operand: .
+Offset: 587, CONCAT , Operand: 5
+Offset: 588, RETURN , Operand: 0
+Offset: 589, GOTO , Operand: 32
+Offset: 590, PUSHI , Operand: 69
+Offset: 591, PUSHI , Operand: 9144
+Offset: 592, PUSHS , Operand: Runite bolt
+Offset: 593, PUSHS , Operand: You can now fletch 
+Offset: 594, PUSHS , Operand: <col=000080>
+Offset: 595, PUSHS , Operand: runite bolts
+Offset: 596, PUSHS , Operand: </col>
+Offset: 597, PUSHS , Operand: .
+Offset: 598, CONCAT , Operand: 5
+Offset: 599, RETURN , Operand: 0
+Offset: 600, GOTO , Operand: 21
+Offset: 601, PUSHI , Operand: 71
+Offset: 602, PUSHI , Operand: 9341
+Offset: 603, PUSHS , Operand: Dragonstone-tipped runite bolt
+Offset: 604, PUSHS , Operand: You can now fletch 
+Offset: 605, PUSHS , Operand: <col=000080>
+Offset: 606, PUSHS , Operand: dragonstone-tipped runite bolts
+Offset: 607, PUSHS , Operand: </col>
+Offset: 608, PUSHS , Operand: .
+Offset: 609, CONCAT , Operand: 5
+Offset: 610, RETURN , Operand: 0
+Offset: 611, GOTO , Operand: 10
+Offset: 612, PUSHI , Operand: 73
+Offset: 613, PUSHI , Operand: 9342
+Offset: 614, PUSHS , Operand: Onyx-tipped runite bolt
+Offset: 615, PUSHS , Operand: You can now fletch 
+Offset: 616, PUSHS , Operand: <col=000080>
+Offset: 617, PUSHS , Operand: onyx-tipped runite bolts
+Offset: 618, PUSHS , Operand: </col>
+Offset: 619, PUSHS , Operand: .
+Offset: 620, CONCAT , Operand: 5
+Offset: 621, RETURN , Operand: 0
+Offset: 622, GOTO , Operand: 1149
+Offset: 623, LOADINT , Operand: 1
+Offset: 624, SWITCH , Operand: 4
+Offset: 625, GOTO , Operand: 76
+Offset: 626, PUSHI , Operand: 1
+Offset: 627, PUSHI , Operand: 806
+Offset: 628, PUSHS , Operand: Bronze dart
+Offset: 629, PUSHS , Operand: You can now fletch 
+Offset: 630, PUSHS , Operand: <col=000080>
+Offset: 631, PUSHS , Operand: bronze darts
+Offset: 632, PUSHS , Operand: </col>
+Offset: 633, PUSHS , Operand: .
+Offset: 634, CONCAT , Operand: 5
+Offset: 635, RETURN , Operand: 0
+Offset: 636, GOTO , Operand: 65
+Offset: 637, PUSHI , Operand: 22
+Offset: 638, PUSHI , Operand: 807
+Offset: 639, PUSHS , Operand: Iron dart
+Offset: 640, PUSHS , Operand: You can now fletch 
+Offset: 641, PUSHS , Operand: <col=000080>
+Offset: 642, PUSHS , Operand: iron darts
+Offset: 643, PUSHS , Operand: </col>
+Offset: 644, PUSHS , Operand: .
+Offset: 645, CONCAT , Operand: 5
+Offset: 646, RETURN , Operand: 0
+Offset: 647, GOTO , Operand: 54
+Offset: 648, PUSHI , Operand: 37
+Offset: 649, PUSHI , Operand: 808
+Offset: 650, PUSHS , Operand: Steel dart
+Offset: 651, PUSHS , Operand: You can now fletch 
+Offset: 652, PUSHS , Operand: <col=000080>
+Offset: 653, PUSHS , Operand: steel darts
+Offset: 654, PUSHS , Operand: </col>
+Offset: 655, PUSHS , Operand: .
+Offset: 656, CONCAT , Operand: 5
+Offset: 657, RETURN , Operand: 0
+Offset: 658, GOTO , Operand: 43
+Offset: 659, PUSHI , Operand: 52
+Offset: 660, PUSHI , Operand: 809
+Offset: 661, PUSHS , Operand: Mithril dart
+Offset: 662, PUSHS , Operand: You can now fletch 
+Offset: 663, PUSHS , Operand: <col=000080>
+Offset: 664, PUSHS , Operand: mithril darts
+Offset: 665, PUSHS , Operand: </col>
+Offset: 666, PUSHS , Operand: .
+Offset: 667, CONCAT , Operand: 5
+Offset: 668, RETURN , Operand: 0
+Offset: 669, GOTO , Operand: 32
+Offset: 670, PUSHI , Operand: 67
+Offset: 671, PUSHI , Operand: 810
+Offset: 672, PUSHS , Operand: Adamant dart
+Offset: 673, PUSHS , Operand: You can now fletch 
+Offset: 674, PUSHS , Operand: <col=000080>
+Offset: 675, PUSHS , Operand: adamant darts
+Offset: 676, PUSHS , Operand: </col>
+Offset: 677, PUSHS , Operand: .
+Offset: 678, CONCAT , Operand: 5
+Offset: 679, RETURN , Operand: 0
+Offset: 680, GOTO , Operand: 21
+Offset: 681, PUSHI , Operand: 81
+Offset: 682, PUSHI , Operand: 811
+Offset: 683, PUSHS , Operand: Rune dart
+Offset: 684, PUSHS , Operand: You can now fletch 
+Offset: 685, PUSHS , Operand: <col=000080>
+Offset: 686, PUSHS , Operand: rune darts
+Offset: 687, PUSHS , Operand: </col>
+Offset: 688, PUSHS , Operand: .
+Offset: 689, CONCAT , Operand: 5
+Offset: 690, RETURN , Operand: 0
+Offset: 691, GOTO , Operand: 10
+Offset: 692, PUSHI , Operand: 95
+Offset: 693, PUSHI , Operand: 11230
+Offset: 694, PUSHS , Operand: Dragon dart
+Offset: 695, PUSHS , Operand: You can now fletch 
+Offset: 696, PUSHS , Operand: <col=000080>
+Offset: 697, PUSHS , Operand: dragon darts
+Offset: 698, PUSHS , Operand: </col>
+Offset: 699, PUSHS , Operand: .
+Offset: 700, CONCAT , Operand: 5
+Offset: 701, RETURN , Operand: 0
+Offset: 702, GOTO , Operand: 1069
+Offset: 703, LOADINT , Operand: 1
+Offset: 704, SWITCH , Operand: 5
+Offset: 705, GOTO , Operand: 79
+Offset: 706, PUSHI , Operand: 9
+Offset: 707, PUSHI , Operand: 9440
+Offset: 708, PUSHS , Operand: Bronze/wooden crossbow
+Offset: 709, PUSHS , Operand: You can now fletch 
+Offset: 710, PUSHS , Operand: <col=000080>
+Offset: 711, PUSHS , Operand: bronze and wooden crossbows
+Offset: 712, PUSHS , Operand: </col>
+Offset: 713, PUSHS , Operand: .
+Offset: 714, CONCAT , Operand: 5
+Offset: 715, RETURN , Operand: 0
+Offset: 716, GOTO , Operand: 68
+Offset: 717, PUSHI , Operand: 24
+Offset: 718, PUSHI , Operand: 9442
+Offset: 719, PUSHS , Operand: Blurite/oak crossbow
+Offset: 720, PUSHS , Operand: <br>
+Offset: 721, PUSHS , Operand:  (after The Knight's Sword)
+Offset: 722, CONCAT , Operand: 3
+Offset: 723, PUSHS , Operand: You now have the Fletching level required to fletch 
+Offset: 724, PUSHS , Operand: <col=000080>
+Offset: 725, PUSHS , Operand: blurite and oak crossbows
+Offset: 726, PUSHS , Operand: </col>
+Offset: 727, PUSHS , Operand:  (after The Knight's Sword).
+Offset: 728, CONCAT , Operand: 5
+Offset: 729, RETURN , Operand: 0
+Offset: 730, GOTO , Operand: 54
+Offset: 731, PUSHI , Operand: 39
+Offset: 732, PUSHI , Operand: 9444
+Offset: 733, PUSHS , Operand: Iron/willow crossbow
+Offset: 734, PUSHS , Operand: You can now fletch 
+Offset: 735, PUSHS , Operand: <col=000080>
+Offset: 736, PUSHS , Operand: iron and willow crossbows
+Offset: 737, PUSHS , Operand: </col>
+Offset: 738, PUSHS , Operand: .
+Offset: 739, CONCAT , Operand: 5
+Offset: 740, RETURN , Operand: 0
+Offset: 741, GOTO , Operand: 43
+Offset: 742, PUSHI , Operand: 46
+Offset: 743, PUSHI , Operand: 9446
+Offset: 744, PUSHS , Operand: Steel/teak crossbow
+Offset: 745, PUSHS , Operand: You can now fletch 
+Offset: 746, PUSHS , Operand: <col=000080>
+Offset: 747, PUSHS , Operand: steel and teak crossbows
+Offset: 748, PUSHS , Operand: </col>
+Offset: 749, PUSHS , Operand: .
+Offset: 750, CONCAT , Operand: 5
+Offset: 751, RETURN , Operand: 0
+Offset: 752, GOTO , Operand: 32
+Offset: 753, PUSHI , Operand: 54
+Offset: 754, PUSHI , Operand: 9448
+Offset: 755, PUSHS , Operand: Mithril/maple crossbow
+Offset: 756, PUSHS , Operand: You can now fletch 
+Offset: 757, PUSHS , Operand: <col=000080>
+Offset: 758, PUSHS , Operand: mithril and maple crossbows
+Offset: 759, PUSHS , Operand: </col>
+Offset: 760, PUSHS , Operand: .
+Offset: 761, CONCAT , Operand: 5
+Offset: 762, RETURN , Operand: 0
+Offset: 763, GOTO , Operand: 21
+Offset: 764, PUSHI , Operand: 61
+Offset: 765, PUSHI , Operand: 9450
+Offset: 766, PUSHS , Operand: Adamantite/mahogany crossbow
+Offset: 767, PUSHS , Operand: You can now fletch 
+Offset: 768, PUSHS , Operand: <col=000080>
+Offset: 769, PUSHS , Operand: adamantite and mahogany crossbows
+Offset: 770, PUSHS , Operand: </col>
+Offset: 771, PUSHS , Operand: .
+Offset: 772, CONCAT , Operand: 5
+Offset: 773, RETURN , Operand: 0
+Offset: 774, GOTO , Operand: 10
+Offset: 775, PUSHI , Operand: 69
+Offset: 776, PUSHI , Operand: 9452
+Offset: 777, PUSHS , Operand: Runite/yew crossbow
+Offset: 778, PUSHS , Operand: You can now fletch 
+Offset: 779, PUSHS , Operand: <col=000080>
+Offset: 780, PUSHS , Operand: runite and yew crossbows
+Offset: 781, PUSHS , Operand: </col>
+Offset: 782, PUSHS , Operand: .
+Offset: 783, CONCAT , Operand: 5
+Offset: 784, RETURN , Operand: 0
+Offset: 785, GOTO , Operand: 986
+Offset: 786, LOADINT , Operand: 1
+Offset: 787, SWITCH , Operand: 6
+Offset: 788, GOTO , Operand: 43
+Offset: 789, PUSHI , Operand: 91
+Offset: 790, PUSHI , Operand: 18778
+Offset: 791, PUSHS , Operand: Starved ancient effigies
+Offset: 792, PUSHS , Operand: You can now investigate 
+Offset: 793, PUSHS , Operand: <col=000080>
+Offset: 794, PUSHS , Operand: starved ancient effigies
+Offset: 795, PUSHS , Operand: </col>
+Offset: 796, PUSHS , Operand:  using your knowledge of Fletching.
+Offset: 797, CONCAT , Operand: 5
+Offset: 798, RETURN , Operand: 0
+Offset: 799, GOTO , Operand: 32
+Offset: 800, PUSHI , Operand: 93
+Offset: 801, PUSHI , Operand: 18779
+Offset: 802, PUSHS , Operand: Nourished ancient effigies
+Offset: 803, PUSHS , Operand: You can now investigate 
+Offset: 804, PUSHS , Operand: <col=000080>
+Offset: 805, PUSHS , Operand: nourished ancient effigies
+Offset: 806, PUSHS , Operand: </col>
+Offset: 807, PUSHS , Operand:  using your knowledge of Fletching.
+Offset: 808, CONCAT , Operand: 5
+Offset: 809, RETURN , Operand: 0
+Offset: 810, GOTO , Operand: 21
+Offset: 811, PUSHI , Operand: 95
+Offset: 812, PUSHI , Operand: 18780
+Offset: 813, PUSHS , Operand: Sated ancient effigies
+Offset: 814, PUSHS , Operand: You can now investigate 
+Offset: 815, PUSHS , Operand: <col=000080>
+Offset: 816, PUSHS , Operand: sated ancient effigies
+Offset: 817, PUSHS , Operand: </col>
+Offset: 818, PUSHS , Operand:  using your knowledge of Fletching.
+Offset: 819, CONCAT , Operand: 5
+Offset: 820, RETURN , Operand: 0
+Offset: 821, GOTO , Operand: 10
+Offset: 822, PUSHI , Operand: 97
+Offset: 823, PUSHI , Operand: 18781
+Offset: 824, PUSHS , Operand: Gorged ancient effigies
+Offset: 825, PUSHS , Operand: You can now investigate 
+Offset: 826, PUSHS , Operand: <col=000080>
+Offset: 827, PUSHS , Operand: gorged ancient effigies
+Offset: 828, PUSHS , Operand: </col>
+Offset: 829, PUSHS , Operand:  using your knowledge of Fletching.
+Offset: 830, CONCAT , Operand: 5
+Offset: 831, RETURN , Operand: 0
+Offset: 832, GOTO , Operand: 939
+Offset: 833, LOADINT , Operand: 1
+Offset: 834, SWITCH , Operand: 7
+Offset: 835, GOTO , Operand: 164
+Offset: 836, PUSHI , Operand: 1
+Offset: 837, PUSHI , Operand: 14192
+Offset: 838, PUSHS , Operand: Stealing Creation - class 1 bow
+Offset: 839, PUSHS , Operand: Members can now fletch 
+Offset: 840, PUSHS , Operand: <col=000080>
+Offset: 841, PUSHS , Operand: class 1 bows
+Offset: 842, PUSHS , Operand: </col>
+Offset: 843, PUSHS , Operand:  in Stealing Creation.
+Offset: 844, CONCAT , Operand: 5
+Offset: 845, RETURN , Operand: 0
+Offset: 846, GOTO , Operand: 153
+Offset: 847, PUSHI , Operand: 1
+Offset: 848, PUSHI , Operand: 14202
+Offset: 849, PUSHS , Operand: Stealing Creation - class 1 arrow
+Offset: 850, PUSHS , Operand: You can now fletch 
+Offset: 851, PUSHS , Operand: <col=000080>
+Offset: 852, PUSHS , Operand: class 1 arrows
+Offset: 853, PUSHS , Operand: </col>
+Offset: 854, PUSHS , Operand:  in Stealing Creation.
+Offset: 855, CONCAT , Operand: 5
+Offset: 856, RETURN , Operand: 0
+Offset: 857, GOTO , Operand: 142
+Offset: 858, PUSHI , Operand: 20
+Offset: 859, PUSHI , Operand: 14194
+Offset: 860, PUSHS , Operand: Stealing Creation - class 2 bow
+Offset: 861, PUSHS , Operand: Members can now fletch 
+Offset: 862, PUSHS , Operand: <col=000080>
+Offset: 863, PUSHS , Operand: class 2 bows
+Offset: 864, PUSHS , Operand: </col>
+Offset: 865, PUSHS , Operand:  in Stealing Creation.
+Offset: 866, CONCAT , Operand: 5
+Offset: 867, RETURN , Operand: 0
+Offset: 868, GOTO , Operand: 131
+Offset: 869, PUSHI , Operand: 20
+Offset: 870, PUSHI , Operand: 14203
+Offset: 871, PUSHS , Operand: Stealing Creation - class 2 arrow
+Offset: 872, PUSHS , Operand: You can now fletch 
+Offset: 873, PUSHS , Operand: <col=000080>
+Offset: 874, PUSHS , Operand: class 2 arrows
+Offset: 875, PUSHS , Operand: </col>
+Offset: 876, PUSHS , Operand:  in Stealing Creation.
+Offset: 877, CONCAT , Operand: 5
+Offset: 878, RETURN , Operand: 0
+Offset: 879, GOTO , Operand: 120
+Offset: 880, PUSHI , Operand: 40
+Offset: 881, PUSHI , Operand: 14196
+Offset: 882, PUSHS , Operand: Stealing Creation - class 3 bow
+Offset: 883, PUSHS , Operand: Members can now fletch 
+Offset: 884, PUSHS , Operand: <col=000080>
+Offset: 885, PUSHS , Operand: class 3 bows
+Offset: 886, PUSHS , Operand: </col>
+Offset: 887, PUSHS , Operand:  in Stealing Creation.
+Offset: 888, CONCAT , Operand: 5
+Offset: 889, RETURN , Operand: 0
+Offset: 890, GOTO , Operand: 109
+Offset: 891, PUSHI , Operand: 40
+Offset: 892, PUSHI , Operand: 14204
+Offset: 893, PUSHS , Operand: Stealing Creation - class 3 arrow
+Offset: 894, PUSHS , Operand: You can now fletch 
+Offset: 895, PUSHS , Operand: <col=000080>
+Offset: 896, PUSHS , Operand: class 3 arrows
+Offset: 897, PUSHS , Operand: </col>
+Offset: 898, PUSHS , Operand:  in Stealing Creation.
+Offset: 899, CONCAT , Operand: 5
+Offset: 900, RETURN , Operand: 0
+Offset: 901, GOTO , Operand: 98
+Offset: 902, PUSHI , Operand: 53
+Offset: 903, PUSHI , Operand: 14611
+Offset: 904, PUSHS , Operand: Phoenix lair - cinnamon weaving ribbon
+Offset: 905, PUSHS , Operand: Members can now fletch 
+Offset: 906, PUSHS , Operand: <col=000080>
+Offset: 907, PUSHS , Operand: cinnamon weaving ribbon
+Offset: 908, PUSHS , Operand: </col>
+Offset: 909, PUSHS , Operand:  in the phoenix lair.
+Offset: 910, CONCAT , Operand: 5
+Offset: 911, RETURN , Operand: 0
+Offset: 912, GOTO , Operand: 87
+Offset: 913, PUSHI , Operand: 53
+Offset: 914, PUSHI , Operand: 14612
+Offset: 915, PUSHS , Operand: Phoenix lair - sassafras weaving ribbon
+Offset: 916, PUSHS , Operand: Members can now fletch 
+Offset: 917, PUSHS , Operand: <col=000080>
+Offset: 918, PUSHS , Operand: sassafras weaving ribbon
+Offset: 919, PUSHS , Operand: </col>
+Offset: 920, PUSHS , Operand:  in the phoenix lair.
+Offset: 921, CONCAT , Operand: 5
+Offset: 922, RETURN , Operand: 0
+Offset: 923, GOTO , Operand: 76
+Offset: 924, PUSHI , Operand: 53
+Offset: 925, PUSHI , Operand: 14613
+Offset: 926, PUSHS , Operand: Phoenix lair - ailanthus weaving ribbon
+Offset: 927, PUSHS , Operand: Members can now fletch 
+Offset: 928, PUSHS , Operand: <col=000080>
+Offset: 929, PUSHS , Operand: ailanthus weaving ribbon
+Offset: 930, PUSHS , Operand: </col>
+Offset: 931, PUSHS , Operand:  in the phoenix lair.
+Offset: 932, CONCAT , Operand: 5
+Offset: 933, RETURN , Operand: 0
+Offset: 934, GOTO , Operand: 65
+Offset: 935, PUSHI , Operand: 53
+Offset: 936, PUSHI , Operand: 14614
+Offset: 937, PUSHS , Operand: Phoenix lair - cedar weaving ribbon
+Offset: 938, PUSHS , Operand: Members can now fletch 
+Offset: 939, PUSHS , Operand: <col=000080>
+Offset: 940, PUSHS , Operand: cedar weaving ribbon
+Offset: 941, PUSHS , Operand: </col>
+Offset: 942, PUSHS , Operand:  in the phoenix lair.
+Offset: 943, CONCAT , Operand: 5
+Offset: 944, RETURN , Operand: 0
+Offset: 945, GOTO , Operand: 54
+Offset: 946, PUSHI , Operand: 53
+Offset: 947, PUSHI , Operand: 14615
+Offset: 948, PUSHS , Operand: Phoenix lair - mastic weaving ribbon
+Offset: 949, PUSHS , Operand: Members can now fletch 
+Offset: 950, PUSHS , Operand: <col=000080>
+Offset: 951, PUSHS , Operand: mastic weaving ribbon
+Offset: 952, PUSHS , Operand: </col>
+Offset: 953, PUSHS , Operand:  in the phoenix lair.
+Offset: 954, CONCAT , Operand: 5
+Offset: 955, RETURN , Operand: 0
+Offset: 956, GOTO , Operand: 43
+Offset: 957, PUSHI , Operand: 60
+Offset: 958, PUSHI , Operand: 14198
+Offset: 959, PUSHS , Operand: Stealing Creation - class 4 bow
+Offset: 960, PUSHS , Operand: Members can now fletch 
+Offset: 961, PUSHS , Operand: <col=000080>
+Offset: 962, PUSHS , Operand: class 4 bows
+Offset: 963, PUSHS , Operand: </col>
+Offset: 964, PUSHS , Operand:  in Stealing Creation.
+Offset: 965, CONCAT , Operand: 5
+Offset: 966, RETURN , Operand: 0
+Offset: 967, GOTO , Operand: 32
+Offset: 968, PUSHI , Operand: 60
+Offset: 969, PUSHI , Operand: 14205
+Offset: 970, PUSHS , Operand: Stealing Creation - class 4 arrow
+Offset: 971, PUSHS , Operand: You can now fletch 
+Offset: 972, PUSHS , Operand: <col=000080>
+Offset: 973, PUSHS , Operand: class 4 arrows
+Offset: 974, PUSHS , Operand: </col>
+Offset: 975, PUSHS , Operand:  in Stealing Creation.
+Offset: 976, CONCAT , Operand: 5
+Offset: 977, RETURN , Operand: 0
+Offset: 978, GOTO , Operand: 21
+Offset: 979, PUSHI , Operand: 80
+Offset: 980, PUSHI , Operand: 14200
+Offset: 981, PUSHS , Operand: Stealing Creation - class 5 bow
+Offset: 982, PUSHS , Operand: Members can now fletch 
+Offset: 983, PUSHS , Operand: <col=000080>
+Offset: 984, PUSHS , Operand: class 5 bows
+Offset: 985, PUSHS , Operand: </col>
+Offset: 986, PUSHS , Operand:  in Stealing Creation.
+Offset: 987, CONCAT , Operand: 5
+Offset: 988, RETURN , Operand: 0
+Offset: 989, GOTO , Operand: 10
+Offset: 990, PUSHI , Operand: 80
+Offset: 991, PUSHI , Operand: 14206
+Offset: 992, PUSHS , Operand: Stealing Creation - class 5 arrow
+Offset: 993, PUSHS , Operand: You can now fletch 
+Offset: 994, PUSHS , Operand: <col=000080>
+Offset: 995, PUSHS , Operand: class 5 arrows
+Offset: 996, PUSHS , Operand: </col>
+Offset: 997, PUSHS , Operand:  in Stealing Creation.
+Offset: 998, CONCAT , Operand: 5
+Offset: 999, RETURN , Operand: 0
+Offset: 1000, GOTO , Operand: 771
+Offset: 1001, LOADINT , Operand: 1
+Offset: 1002, SWITCH , Operand: 8
+Offset: 1003, GOTO , Operand: 736
+Offset: 1004, PUSHI , Operand: -1
+Offset: 1005, PUSHI , Operand: 15707
+Offset: 1006, PUSHS , Operand: Dungeoneering skill tasks
+Offset: 1007, PUSHS , Operand: <br>
+Offset: 1008, PUSHS , Operand: As your Fletching level increases, you will be able to attempt higher-level fletching tasks within Daemonheim. You will also be more likely to succeed when attempting fletching tasks within Daemonheim.
+Offset: 1009, CONCAT , Operand: 3
+Offset: 1010, PUSHS , Operand: 
+Offset: 1011, RETURN , Operand: 0
+Offset: 1012, GOTO , Operand: 727
+Offset: 1013, PUSHI , Operand: 1
+Offset: 1014, PUSHI , Operand: 17742
+Offset: 1015, PUSHS , Operand: Tangle gum
+Offset: 1016, PUSHS , Operand: <br>
+Offset: 1017, PUSHS , Operand:  15 Arrow shafts
+Offset: 1018, CONCAT , Operand: 3
+Offset: 1019, PUSHS , Operand: You can now fletch 
+Offset: 1020, PUSHS , Operand: <col=000080>
+Offset: 1021, PUSHS , Operand: tangle gum branches
+Offset: 1022, PUSHS , Operand: </col>
+Offset: 1023, PUSHS , Operand:  into 
+Offset: 1024, PUSHS , Operand: <col=000080>
+Offset: 1025, PUSHS , Operand: 15 arrow shafts
+Offset: 1026, PUSHS , Operand: </col>
+Offset: 1027, PUSHS , Operand:  within Daemonheim.
+Offset: 1028, CONCAT , Operand: 9
+Offset: 1029, RETURN , Operand: 0
+Offset: 1030, GOTO , Operand: 709
+Offset: 1031, PUSHI , Operand: 1
+Offset: 1032, PUSHI , Operand: 16427
+Offset: 1033, PUSHS , Operand: Novite arrows (Tier 1)
+Offset: 1034, PUSHS , Operand: You can now fletch 
+Offset: 1035, PUSHS , Operand: <col=000080>
+Offset: 1036, PUSHS , Operand: novite arrows
+Offset: 1037, PUSHS , Operand: </col>
+Offset: 1038, PUSHS , Operand:  within Daemonheim.
+Offset: 1039, CONCAT , Operand: 5
+Offset: 1040, RETURN , Operand: 0
+Offset: 1041, GOTO , Operand: 698
+Offset: 1042, PUSHI , Operand: 1
+Offset: 1043, PUSHI , Operand: 16867
+Offset: 1044, PUSHS , Operand: Tangle gum shortbow (Tier 1)
+Offset: 1045, PUSHS , Operand: You can now fletch 
+Offset: 1046, PUSHS , Operand: <col=000080>
+Offset: 1047, PUSHS , Operand: tangle gum shortbows
+Offset: 1048, PUSHS , Operand: </col>
+Offset: 1049, PUSHS , Operand:  within Daemonheim.
+Offset: 1050, CONCAT , Operand: 5
+Offset: 1051, RETURN , Operand: 0
+Offset: 1052, GOTO , Operand: 687
+Offset: 1053, PUSHI , Operand: 3
+Offset: 1054, PUSHI , Operand: 17756
+Offset: 1055, PUSHS , Operand: Tangle gum trap (Tier 1)
+Offset: 1056, PUSHS , Operand: You can now fletch 
+Offset: 1057, PUSHS , Operand: <col=000080>
+Offset: 1058, PUSHS , Operand: tangle gum traps
+Offset: 1059, PUSHS , Operand: </col>
+Offset: 1060, PUSHS , Operand:  within Daemonheim.
+Offset: 1061, CONCAT , Operand: 5
+Offset: 1062, RETURN , Operand: 0
+Offset: 1063, GOTO , Operand: 676
+Offset: 1064, PUSHI , Operand: 6
+Offset: 1065, PUSHI , Operand: 16317
+Offset: 1066, PUSHS , Operand: Tangle gum longbow (Tier 1)
+Offset: 1067, PUSHS , Operand: You can now fletch 
+Offset: 1068, PUSHS , Operand: <col=000080>
+Offset: 1069, PUSHS , Operand: tangle gum longbows
+Offset: 1070, PUSHS , Operand: </col>
+Offset: 1071, PUSHS , Operand:  within Daemonheim.
+Offset: 1072, CONCAT , Operand: 5
+Offset: 1073, RETURN , Operand: 0
+Offset: 1074, GOTO , Operand: 665
+Offset: 1075, PUSHI , Operand: 8
+Offset: 1076, PUSHI , Operand: 16977
+Offset: 1077, PUSHS , Operand: Tangle gum staff (Tier 1)
+Offset: 1078, PUSHS , Operand: You can now fletch 
+Offset: 1079, PUSHS , Operand: <col=000080>
+Offset: 1080, PUSHS , Operand: tangle gum staves
+Offset: 1081, PUSHS , Operand: </col>
+Offset: 1082, PUSHS , Operand:  within Daemonheim.
+Offset: 1083, CONCAT , Operand: 5
+Offset: 1084, RETURN , Operand: 0
+Offset: 1085, GOTO , Operand: 654
+Offset: 1086, PUSHI , Operand: 10
+Offset: 1087, PUSHI , Operand: 17742
+Offset: 1088, PUSHS , Operand: Seeping elm
+Offset: 1089, PUSHS , Operand: <br>
+Offset: 1090, PUSHS , Operand:  21 Arrow shafts
+Offset: 1091, CONCAT , Operand: 3
+Offset: 1092, PUSHS , Operand: You can now fletch 
+Offset: 1093, PUSHS , Operand: <col=000080>
+Offset: 1094, PUSHS , Operand: seeping elm branches
+Offset: 1095, PUSHS , Operand: </col>
+Offset: 1096, PUSHS , Operand:  into 
+Offset: 1097, PUSHS , Operand: <col=000080>
+Offset: 1098, PUSHS , Operand: 21 arrow shafts
+Offset: 1099, PUSHS , Operand: </col>
+Offset: 1100, PUSHS , Operand:  within Daemonheim.
+Offset: 1101, CONCAT , Operand: 9
+Offset: 1102, RETURN , Operand: 0
+Offset: 1103, GOTO , Operand: 636
+Offset: 1104, PUSHI , Operand: 11
+Offset: 1105, PUSHI , Operand: 16432
+Offset: 1106, PUSHS , Operand: Bathus arrows (Tier 2)
+Offset: 1107, PUSHS , Operand: You can now fletch 
+Offset: 1108, PUSHS , Operand: <col=000080>
+Offset: 1109, PUSHS , Operand: bathus arrows
+Offset: 1110, PUSHS , Operand: </col>
+Offset: 1111, PUSHS , Operand:  within Daemonheim.
+Offset: 1112, CONCAT , Operand: 5
+Offset: 1113, RETURN , Operand: 0
+Offset: 1114, GOTO , Operand: 625
+Offset: 1115, PUSHI , Operand: 11
+Offset: 1116, PUSHI , Operand: 16869
+Offset: 1117, PUSHS , Operand: Seeping elm shortbow (Tier 2)
+Offset: 1118, PUSHS , Operand: You can now fletch 
+Offset: 1119, PUSHS , Operand: <col=000080>
+Offset: 1120, PUSHS , Operand: seeping elm shortbows
+Offset: 1121, PUSHS , Operand: </col>
+Offset: 1122, PUSHS , Operand:  within Daemonheim.
+Offset: 1123, CONCAT , Operand: 5
+Offset: 1124, RETURN , Operand: 0
+Offset: 1125, GOTO , Operand: 614
+Offset: 1126, PUSHI , Operand: 13
+Offset: 1127, PUSHI , Operand: 17758
+Offset: 1128, PUSHS , Operand: Seeping elm trap (Tier 2)
+Offset: 1129, PUSHS , Operand: You can now fletch 
+Offset: 1130, PUSHS , Operand: <col=000080>
+Offset: 1131, PUSHS , Operand: seeping elm traps
+Offset: 1132, PUSHS , Operand: </col>
+Offset: 1133, PUSHS , Operand:  within Daemonheim.
+Offset: 1134, CONCAT , Operand: 5
+Offset: 1135, RETURN , Operand: 0
+Offset: 1136, GOTO , Operand: 603
+Offset: 1137, PUSHI , Operand: 16
+Offset: 1138, PUSHI , Operand: 16319
+Offset: 1139, PUSHS , Operand: Seeping elm longbow (Tier 2)
+Offset: 1140, PUSHS , Operand: You can now fletch 
+Offset: 1141, PUSHS , Operand: <col=000080>
+Offset: 1142, PUSHS , Operand: seeping elm longbows
+Offset: 1143, PUSHS , Operand: </col>
+Offset: 1144, PUSHS , Operand:  within Daemonheim.
+Offset: 1145, CONCAT , Operand: 5
+Offset: 1146, RETURN , Operand: 0
+Offset: 1147, GOTO , Operand: 592
+Offset: 1148, PUSHI , Operand: 18
+Offset: 1149, PUSHI , Operand: 16979
+Offset: 1150, PUSHS , Operand: Seeping elm staff (Tier 2)
+Offset: 1151, PUSHS , Operand: You can now fletch 
+Offset: 1152, PUSHS , Operand: <col=000080>
+Offset: 1153, PUSHS , Operand: seeping elm staves
+Offset: 1154, PUSHS , Operand: </col>
+Offset: 1155, PUSHS , Operand:  within Daemonheim.
+Offset: 1156, CONCAT , Operand: 5
+Offset: 1157, RETURN , Operand: 0
+Offset: 1158, GOTO , Operand: 581
+Offset: 1159, PUSHI , Operand: 20
+Offset: 1160, PUSHI , Operand: 17742
+Offset: 1161, PUSHS , Operand: Blood spindle
+Offset: 1162, PUSHS , Operand: <br>
+Offset: 1163, PUSHS , Operand:  26 Arrow shafts
+Offset: 1164, CONCAT , Operand: 3
+Offset: 1165, PUSHS , Operand: You can now fletch 
+Offset: 1166, PUSHS , Operand: <col=000080>
+Offset: 1167, PUSHS , Operand: blood spindle branches
+Offset: 1168, PUSHS , Operand: </col>
+Offset: 1169, PUSHS , Operand:  into 
+Offset: 1170, PUSHS , Operand: <col=000080>
+Offset: 1171, PUSHS , Operand: 26 arrow shafts
+Offset: 1172, PUSHS , Operand: </col>
+Offset: 1173, PUSHS , Operand:  within Daemonheim.
+Offset: 1174, CONCAT , Operand: 9
+Offset: 1175, RETURN , Operand: 0
+Offset: 1176, GOTO , Operand: 563
+Offset: 1177, PUSHI , Operand: 21
+Offset: 1178, PUSHI , Operand: 16871
+Offset: 1179, PUSHS , Operand: Blood spindle shortbow (Tier 3)
+Offset: 1180, PUSHS , Operand: You can now fletch 
+Offset: 1181, PUSHS , Operand: <col=000080>
+Offset: 1182, PUSHS , Operand: blood spindle shortbows
+Offset: 1183, PUSHS , Operand: </col>
+Offset: 1184, PUSHS , Operand:  within Daemonheim.
+Offset: 1185, CONCAT , Operand: 5
+Offset: 1186, RETURN , Operand: 0
+Offset: 1187, GOTO , Operand: 552
+Offset: 1188, PUSHI , Operand: 22
+Offset: 1189, PUSHI , Operand: 16437
+Offset: 1190, PUSHS , Operand: Marmaros arrows (Tier 3)
+Offset: 1191, PUSHS , Operand: You can now fletch 
+Offset: 1192, PUSHS , Operand: <col=000080>
+Offset: 1193, PUSHS , Operand: marmaros arrows
+Offset: 1194, PUSHS , Operand: </col>
+Offset: 1195, PUSHS , Operand:  within Daemonheim.
+Offset: 1196, CONCAT , Operand: 5
+Offset: 1197, RETURN , Operand: 0
+Offset: 1198, GOTO , Operand: 541
+Offset: 1199, PUSHI , Operand: 23
+Offset: 1200, PUSHI , Operand: 17760
+Offset: 1201, PUSHS , Operand: Blood spindle trap (Tier 3)
+Offset: 1202, PUSHS , Operand: You can now fletch 
+Offset: 1203, PUSHS , Operand: <col=000080>
+Offset: 1204, PUSHS , Operand: blood spindle traps
+Offset: 1205, PUSHS , Operand: </col>
+Offset: 1206, PUSHS , Operand:  within Daemonheim.
+Offset: 1207, CONCAT , Operand: 5
+Offset: 1208, RETURN , Operand: 0
+Offset: 1209, GOTO , Operand: 530
+Offset: 1210, PUSHI , Operand: 26
+Offset: 1211, PUSHI , Operand: 16321
+Offset: 1212, PUSHS , Operand: Blood spindle longbow (Tier 3)
+Offset: 1213, PUSHS , Operand: You can now fletch 
+Offset: 1214, PUSHS , Operand: <col=000080>
+Offset: 1215, PUSHS , Operand: blood spindle longbows
+Offset: 1216, PUSHS , Operand: </col>
+Offset: 1217, PUSHS , Operand:  within Daemonheim.
+Offset: 1218, CONCAT , Operand: 5
+Offset: 1219, RETURN , Operand: 0
+Offset: 1220, GOTO , Operand: 519
+Offset: 1221, PUSHI , Operand: 28
+Offset: 1222, PUSHI , Operand: 16981
+Offset: 1223, PUSHS , Operand: Blood spindle staff (Tier 3)
+Offset: 1224, PUSHS , Operand: You can now fletch 
+Offset: 1225, PUSHS , Operand: <col=000080>
+Offset: 1226, PUSHS , Operand: blood spindle staves
+Offset: 1227, PUSHS , Operand: </col>
+Offset: 1228, PUSHS , Operand:  within Daemonheim.
+Offset: 1229, CONCAT , Operand: 5
+Offset: 1230, RETURN , Operand: 0
+Offset: 1231, GOTO , Operand: 508
+Offset: 1232, PUSHI , Operand: 30
+Offset: 1233, PUSHI , Operand: 17742
+Offset: 1234, PUSHS , Operand: Utuku
+Offset: 1235, PUSHS , Operand: <br>
+Offset: 1236, PUSHS , Operand:  32 Arrow shafts
+Offset: 1237, CONCAT , Operand: 3
+Offset: 1238, PUSHS , Operand: You can now fletch 
+Offset: 1239, PUSHS , Operand: <col=000080>
+Offset: 1240, PUSHS , Operand: utuku branches
+Offset: 1241, PUSHS , Operand: </col>
+Offset: 1242, PUSHS , Operand:  into 
+Offset: 1243, PUSHS , Operand: <col=000080>
+Offset: 1244, PUSHS , Operand: 32 arrow shafts
+Offset: 1245, PUSHS , Operand: </col>
+Offset: 1246, PUSHS , Operand:  within Daemonheim.
+Offset: 1247, CONCAT , Operand: 9
+Offset: 1248, RETURN , Operand: 0
+Offset: 1249, GOTO , Operand: 490
+Offset: 1250, PUSHI , Operand: 31
+Offset: 1251, PUSHI , Operand: 16873
+Offset: 1252, PUSHS , Operand: Utuku shortbow (Tier 4)
+Offset: 1253, PUSHS , Operand: You can now fletch 
+Offset: 1254, PUSHS , Operand: <col=000080>
+Offset: 1255, PUSHS , Operand: utuku shortbows
+Offset: 1256, PUSHS , Operand: </col>
+Offset: 1257, PUSHS , Operand:  within Daemonheim.
+Offset: 1258, CONCAT , Operand: 5
+Offset: 1259, RETURN , Operand: 0
+Offset: 1260, GOTO , Operand: 479
+Offset: 1261, PUSHI , Operand: 33
+Offset: 1262, PUSHI , Operand: 16442
+Offset: 1263, PUSHS , Operand: Kratonite arrows (Tier 4)
+Offset: 1264, PUSHS , Operand: You can now fletch 
+Offset: 1265, PUSHS , Operand: <col=000080>
+Offset: 1266, PUSHS , Operand: kratonite arrows
+Offset: 1267, PUSHS , Operand: </col>
+Offset: 1268, PUSHS , Operand:  within Daemonheim.
+Offset: 1269, CONCAT , Operand: 5
+Offset: 1270, RETURN , Operand: 0
+Offset: 1271, GOTO , Operand: 468
+Offset: 1272, PUSHI , Operand: 33
+Offset: 1273, PUSHI , Operand: 17762
+Offset: 1274, PUSHS , Operand: Utuku trap (Tier 4)
+Offset: 1275, PUSHS , Operand: You can now fletch 
+Offset: 1276, PUSHS , Operand: <col=000080>
+Offset: 1277, PUSHS , Operand: utuku traps
+Offset: 1278, PUSHS , Operand: </col>
+Offset: 1279, PUSHS , Operand:  within Daemonheim.
+Offset: 1280, CONCAT , Operand: 5
+Offset: 1281, RETURN , Operand: 0
+Offset: 1282, GOTO , Operand: 457
+Offset: 1283, PUSHI , Operand: 36
+Offset: 1284, PUSHI , Operand: 16323
+Offset: 1285, PUSHS , Operand: Utuku longbow (Tier 4)
+Offset: 1286, PUSHS , Operand: You can now fletch 
+Offset: 1287, PUSHS , Operand: <col=000080>
+Offset: 1288, PUSHS , Operand: utuku longbows
+Offset: 1289, PUSHS , Operand: </col>
+Offset: 1290, PUSHS , Operand:  within Daemonheim.
+Offset: 1291, CONCAT , Operand: 5
+Offset: 1292, RETURN , Operand: 0
+Offset: 1293, GOTO , Operand: 446
+Offset: 1294, PUSHI , Operand: 38
+Offset: 1295, PUSHI , Operand: 16983
+Offset: 1296, PUSHS , Operand: Utuku staff (Tier 4)
+Offset: 1297, PUSHS , Operand: You can now fletch 
+Offset: 1298, PUSHS , Operand: <col=000080>
+Offset: 1299, PUSHS , Operand: utuku staves
+Offset: 1300, PUSHS , Operand: </col>
+Offset: 1301, PUSHS , Operand:  within Daemonheim.
+Offset: 1302, CONCAT , Operand: 5
+Offset: 1303, RETURN , Operand: 0
+Offset: 1304, GOTO , Operand: 435
+Offset: 1305, PUSHI , Operand: 40
+Offset: 1306, PUSHI , Operand: 17742
+Offset: 1307, PUSHS , Operand: Spinebeam
+Offset: 1308, PUSHS , Operand: <br>
+Offset: 1309, PUSHS , Operand:  37 Arrow shafts
+Offset: 1310, CONCAT , Operand: 3
+Offset: 1311, PUSHS , Operand: You can now fletch 
+Offset: 1312, PUSHS , Operand: <col=000080>
+Offset: 1313, PUSHS , Operand: spinebeam branches
+Offset: 1314, PUSHS , Operand: </col>
+Offset: 1315, PUSHS , Operand:  into 
+Offset: 1316, PUSHS , Operand: <col=000080>
+Offset: 1317, PUSHS , Operand: 37 arrow shafts
+Offset: 1318, PUSHS , Operand: </col>
+Offset: 1319, PUSHS , Operand:  within Daemonheim.
+Offset: 1320, CONCAT , Operand: 9
+Offset: 1321, RETURN , Operand: 0
+Offset: 1322, GOTO , Operand: 417
+Offset: 1323, PUSHI , Operand: 41
+Offset: 1324, PUSHI , Operand: 16875
+Offset: 1325, PUSHS , Operand: Spinebeam shortbow (Tier 5)
+Offset: 1326, PUSHS , Operand: You can now fletch 
+Offset: 1327, PUSHS , Operand: <col=000080>
+Offset: 1328, PUSHS , Operand: spinebeam shortbows
+Offset: 1329, PUSHS , Operand: </col>
+Offset: 1330, PUSHS , Operand:  within Daemonheim.
+Offset: 1331, CONCAT , Operand: 5
+Offset: 1332, RETURN , Operand: 0
+Offset: 1333, GOTO , Operand: 406
+Offset: 1334, PUSHI , Operand: 43
+Offset: 1335, PUSHI , Operand: 17764
+Offset: 1336, PUSHS , Operand: Spinebeam trap (Tier 5)
+Offset: 1337, PUSHS , Operand: You can now fletch 
+Offset: 1338, PUSHS , Operand: <col=000080>
+Offset: 1339, PUSHS , Operand: spinebeam traps
+Offset: 1340, PUSHS , Operand: </col>
+Offset: 1341, PUSHS , Operand:  within Daemonheim.
+Offset: 1342, CONCAT , Operand: 5
+Offset: 1343, RETURN , Operand: 0
+Offset: 1344, GOTO , Operand: 395
+Offset: 1345, PUSHI , Operand: 44
+Offset: 1346, PUSHI , Operand: 16447
+Offset: 1347, PUSHS , Operand: Fractite arrows (Tier 5)
+Offset: 1348, PUSHS , Operand: You can now fletch 
+Offset: 1349, PUSHS , Operand: <col=000080>
+Offset: 1350, PUSHS , Operand: fractite arrows
+Offset: 1351, PUSHS , Operand: </col>
+Offset: 1352, PUSHS , Operand:  within Daemonheim.
+Offset: 1353, CONCAT , Operand: 5
+Offset: 1354, RETURN , Operand: 0
+Offset: 1355, GOTO , Operand: 384
+Offset: 1356, PUSHI , Operand: 46
+Offset: 1357, PUSHI , Operand: 16325
+Offset: 1358, PUSHS , Operand: Spinebeam longbow (Tier 5)
+Offset: 1359, PUSHS , Operand: You can now fletch 
+Offset: 1360, PUSHS , Operand: <col=000080>
+Offset: 1361, PUSHS , Operand: spinebeam longbows
+Offset: 1362, PUSHS , Operand: </col>
+Offset: 1363, PUSHS , Operand:  within Daemonheim.
+Offset: 1364, CONCAT , Operand: 5
+Offset: 1365, RETURN , Operand: 0
+Offset: 1366, GOTO , Operand: 373
+Offset: 1367, PUSHI , Operand: 48
+Offset: 1368, PUSHI , Operand: 16985
+Offset: 1369, PUSHS , Operand: Spinebeam staff (Tier 5)
+Offset: 1370, PUSHS , Operand: You can now fletch 
+Offset: 1371, PUSHS , Operand: <col=000080>
+Offset: 1372, PUSHS , Operand: spinebeam staves
+Offset: 1373, PUSHS , Operand: </col>
+Offset: 1374, PUSHS , Operand:  within Daemonheim.
+Offset: 1375, CONCAT , Operand: 5
+Offset: 1376, RETURN , Operand: 0
+Offset: 1377, GOTO , Operand: 362
+Offset: 1378, PUSHI , Operand: 50
+Offset: 1379, PUSHI , Operand: 17742
+Offset: 1380, PUSHS , Operand: Bovistrangler
+Offset: 1381, PUSHS , Operand: <br>
+Offset: 1382, PUSHS , Operand:  43 Arrow shafts
+Offset: 1383, CONCAT , Operand: 3
+Offset: 1384, PUSHS , Operand: You can now fletch 
+Offset: 1385, PUSHS , Operand: <col=000080>
+Offset: 1386, PUSHS , Operand: bovistrangler branches
+Offset: 1387, PUSHS , Operand: </col>
+Offset: 1388, PUSHS , Operand:  into 
+Offset: 1389, PUSHS , Operand: <col=000080>
+Offset: 1390, PUSHS , Operand: 43 arrow shafts
+Offset: 1391, PUSHS , Operand: </col>
+Offset: 1392, PUSHS , Operand:  within Daemonheim.
+Offset: 1393, CONCAT , Operand: 9
+Offset: 1394, RETURN , Operand: 0
+Offset: 1395, GOTO , Operand: 344
+Offset: 1396, PUSHI , Operand: 51
+Offset: 1397, PUSHI , Operand: 16877
+Offset: 1398, PUSHS , Operand: Bovistrangler shortbow (Tier 6)
+Offset: 1399, PUSHS , Operand: You can now fletch 
+Offset: 1400, PUSHS , Operand: <col=000080>
+Offset: 1401, PUSHS , Operand: bovistrangler shortbows
+Offset: 1402, PUSHS , Operand: </col>
+Offset: 1403, PUSHS , Operand:  within Daemonheim.
+Offset: 1404, CONCAT , Operand: 5
+Offset: 1405, RETURN , Operand: 0
+Offset: 1406, GOTO , Operand: 333
+Offset: 1407, PUSHI , Operand: 53
+Offset: 1408, PUSHI , Operand: 17766
+Offset: 1409, PUSHS , Operand: Bovistrangler trap (Tier 6)
+Offset: 1410, PUSHS , Operand: You can now fletch 
+Offset: 1411, PUSHS , Operand: <col=000080>
+Offset: 1412, PUSHS , Operand: bovistrangler traps
+Offset: 1413, PUSHS , Operand: </col>
+Offset: 1414, PUSHS , Operand:  within Daemonheim.
+Offset: 1415, CONCAT , Operand: 5
+Offset: 1416, RETURN , Operand: 0
+Offset: 1417, GOTO , Operand: 322
+Offset: 1418, PUSHI , Operand: 55
+Offset: 1419, PUSHI , Operand: 16452
+Offset: 1420, PUSHS , Operand: Zephyrium arrows (Tier 6)
+Offset: 1421, PUSHS , Operand: You can now fletch 
+Offset: 1422, PUSHS , Operand: <col=000080>
+Offset: 1423, PUSHS , Operand: zephyrium arrows
+Offset: 1424, PUSHS , Operand: </col>
+Offset: 1425, PUSHS , Operand:  within Daemonheim.
+Offset: 1426, CONCAT , Operand: 5
+Offset: 1427, RETURN , Operand: 0
+Offset: 1428, GOTO , Operand: 311
+Offset: 1429, PUSHI , Operand: 56
+Offset: 1430, PUSHI , Operand: 16327
+Offset: 1431, PUSHS , Operand: Bovistrangler longbow (Tier 6)
+Offset: 1432, PUSHS , Operand: You can now fletch 
+Offset: 1433, PUSHS , Operand: <col=000080>
+Offset: 1434, PUSHS , Operand: bovistrangler longbows
+Offset: 1435, PUSHS , Operand: </col>
+Offset: 1436, PUSHS , Operand:  within Daemonheim.
+Offset: 1437, CONCAT , Operand: 5
+Offset: 1438, RETURN , Operand: 0
+Offset: 1439, GOTO , Operand: 300
+Offset: 1440, PUSHI , Operand: 58
+Offset: 1441, PUSHI , Operand: 16987
+Offset: 1442, PUSHS , Operand: Bovistrangler staff (Tier 6)
+Offset: 1443, PUSHS , Operand: You can now fletch 
+Offset: 1444, PUSHS , Operand: <col=000080>
+Offset: 1445, PUSHS , Operand: bovistrangler staves
+Offset: 1446, PUSHS , Operand: </col>
+Offset: 1447, PUSHS , Operand:  within Daemonheim.
+Offset: 1448, CONCAT , Operand: 5
+Offset: 1449, RETURN , Operand: 0
+Offset: 1450, GOTO , Operand: 289
+Offset: 1451, PUSHI , Operand: 60
+Offset: 1452, PUSHI , Operand: 17742
+Offset: 1453, PUSHS , Operand: Thigat
+Offset: 1454, PUSHS , Operand: <br>
+Offset: 1455, PUSHS , Operand:  48 Arrow shafts
+Offset: 1456, CONCAT , Operand: 3
+Offset: 1457, PUSHS , Operand: You can now fletch 
+Offset: 1458, PUSHS , Operand: <col=000080>
+Offset: 1459, PUSHS , Operand: thigat branches
+Offset: 1460, PUSHS , Operand: </col>
+Offset: 1461, PUSHS , Operand:  into 
+Offset: 1462, PUSHS , Operand: <col=000080>
+Offset: 1463, PUSHS , Operand: 48 arrow shafts
+Offset: 1464, PUSHS , Operand: </col>
+Offset: 1465, PUSHS , Operand:  within Daemonheim.
+Offset: 1466, CONCAT , Operand: 9
+Offset: 1467, RETURN , Operand: 0
+Offset: 1468, GOTO , Operand: 271
+Offset: 1469, PUSHI , Operand: 61
+Offset: 1470, PUSHI , Operand: 16879
+Offset: 1471, PUSHS , Operand: Thigat shortbow (Tier 7)
+Offset: 1472, PUSHS , Operand: You can now fletch 
+Offset: 1473, PUSHS , Operand: <col=000080>
+Offset: 1474, PUSHS , Operand: thigat shortbows
+Offset: 1475, PUSHS , Operand: </col>
+Offset: 1476, PUSHS , Operand:  within Daemonheim.
+Offset: 1477, CONCAT , Operand: 5
+Offset: 1478, RETURN , Operand: 0
+Offset: 1479, GOTO , Operand: 260
+Offset: 1480, PUSHI , Operand: 63
+Offset: 1481, PUSHI , Operand: 17768
+Offset: 1482, PUSHS , Operand: Thigat trap (Tier 7)
+Offset: 1483, PUSHS , Operand: You can now fletch 
+Offset: 1484, PUSHS , Operand: <col=000080>
+Offset: 1485, PUSHS , Operand: thigat traps
+Offset: 1486, PUSHS , Operand: </col>
+Offset: 1487, PUSHS , Operand:  within Daemonheim.
+Offset: 1488, CONCAT , Operand: 5
+Offset: 1489, RETURN , Operand: 0
+Offset: 1490, GOTO , Operand: 249
+Offset: 1491, PUSHI , Operand: 66
+Offset: 1492, PUSHI , Operand: 16457
+Offset: 1493, PUSHS , Operand: Argonite arrows (Tier 7)
+Offset: 1494, PUSHS , Operand: You can now fletch 
+Offset: 1495, PUSHS , Operand: <col=000080>
+Offset: 1496, PUSHS , Operand: argonite arrows
+Offset: 1497, PUSHS , Operand: </col>
+Offset: 1498, PUSHS , Operand:  within Daemonheim.
+Offset: 1499, CONCAT , Operand: 5
+Offset: 1500, RETURN , Operand: 0
+Offset: 1501, GOTO , Operand: 238
+Offset: 1502, PUSHI , Operand: 66
+Offset: 1503, PUSHI , Operand: 16329
+Offset: 1504, PUSHS , Operand: Thigat longbow (Tier 7)
+Offset: 1505, PUSHS , Operand: You can now fletch 
+Offset: 1506, PUSHS , Operand: <col=000080>
+Offset: 1507, PUSHS , Operand: thigat longbows
+Offset: 1508, PUSHS , Operand: </col>
+Offset: 1509, PUSHS , Operand:  within Daemonheim.
+Offset: 1510, CONCAT , Operand: 5
+Offset: 1511, RETURN , Operand: 0
+Offset: 1512, GOTO , Operand: 227
+Offset: 1513, PUSHI , Operand: 68
+Offset: 1514, PUSHI , Operand: 16989
+Offset: 1515, PUSHS , Operand: Thigat staff (Tier 7)
+Offset: 1516, PUSHS , Operand: You can now fletch 
+Offset: 1517, PUSHS , Operand: <col=000080>
+Offset: 1518, PUSHS , Operand: thigat staves
+Offset: 1519, PUSHS , Operand: </col>
+Offset: 1520, PUSHS , Operand:  within Daemonheim.
+Offset: 1521, CONCAT , Operand: 5
+Offset: 1522, RETURN , Operand: 0
+Offset: 1523, GOTO , Operand: 216
+Offset: 1524, PUSHI , Operand: 70
+Offset: 1525, PUSHI , Operand: 17742
+Offset: 1526, PUSHS , Operand: Corpsethorn
+Offset: 1527, PUSHS , Operand: <br>
+Offset: 1528, PUSHS , Operand:  54 Arrow shafts
+Offset: 1529, CONCAT , Operand: 3
+Offset: 1530, PUSHS , Operand: You can now fletch 
+Offset: 1531, PUSHS , Operand: <col=000080>
+Offset: 1532, PUSHS , Operand: corpsethorn branches
+Offset: 1533, PUSHS , Operand: </col>
+Offset: 1534, PUSHS , Operand:  into 
+Offset: 1535, PUSHS , Operand: <col=000080>
+Offset: 1536, PUSHS , Operand: 54 arrow shafts
+Offset: 1537, PUSHS , Operand: </col>
+Offset: 1538, PUSHS , Operand:  within Daemonheim.
+Offset: 1539, CONCAT , Operand: 9
+Offset: 1540, RETURN , Operand: 0
+Offset: 1541, GOTO , Operand: 198
+Offset: 1542, PUSHI , Operand: 71
+Offset: 1543, PUSHI , Operand: 16881
+Offset: 1544, PUSHS , Operand: Corpsethorn shortbow (Tier 8)
+Offset: 1545, PUSHS , Operand: You can now fletch 
+Offset: 1546, PUSHS , Operand: <col=000080>
+Offset: 1547, PUSHS , Operand: corpsethorn shortbows
+Offset: 1548, PUSHS , Operand: </col>
+Offset: 1549, PUSHS , Operand:  within Daemonheim.
+Offset: 1550, CONCAT , Operand: 5
+Offset: 1551, RETURN , Operand: 0
+Offset: 1552, GOTO , Operand: 187
+Offset: 1553, PUSHI , Operand: 73
+Offset: 1554, PUSHI , Operand: 17770
+Offset: 1555, PUSHS , Operand: Corpsethorn trap (Tier 8)
+Offset: 1556, PUSHS , Operand: You can now fletch 
+Offset: 1557, PUSHS , Operand: <col=000080>
+Offset: 1558, PUSHS , Operand: corpsethorn traps
+Offset: 1559, PUSHS , Operand: </col>
+Offset: 1560, PUSHS , Operand:  within Daemonheim.
+Offset: 1561, CONCAT , Operand: 5
+Offset: 1562, RETURN , Operand: 0
+Offset: 1563, GOTO , Operand: 176
+Offset: 1564, PUSHI , Operand: 76
+Offset: 1565, PUSHI , Operand: 16331
+Offset: 1566, PUSHS , Operand: Corpsethorn longbow (Tier 8)
+Offset: 1567, PUSHS , Operand: You can now fletch 
+Offset: 1568, PUSHS , Operand: <col=000080>
+Offset: 1569, PUSHS , Operand: corpsethorn longbows
+Offset: 1570, PUSHS , Operand: </col>
+Offset: 1571, PUSHS , Operand:  within Daemonheim.
+Offset: 1572, CONCAT , Operand: 5
+Offset: 1573, RETURN , Operand: 0
+Offset: 1574, GOTO , Operand: 165
+Offset: 1575, PUSHI , Operand: 77
+Offset: 1576, PUSHI , Operand: 16462
+Offset: 1577, PUSHS , Operand: Katagon arrows (Tier 8)
+Offset: 1578, PUSHS , Operand: You can now fletch 
+Offset: 1579, PUSHS , Operand: <col=000080>
+Offset: 1580, PUSHS , Operand: katagon arrows
+Offset: 1581, PUSHS , Operand: </col>
+Offset: 1582, PUSHS , Operand:  within Daemonheim.
+Offset: 1583, CONCAT , Operand: 5
+Offset: 1584, RETURN , Operand: 0
+Offset: 1585, GOTO , Operand: 154
+Offset: 1586, PUSHI , Operand: 78
+Offset: 1587, PUSHI , Operand: 16991
+Offset: 1588, PUSHS , Operand: Corpsethorn staff (Tier 8)
+Offset: 1589, PUSHS , Operand: You can now fletch 
+Offset: 1590, PUSHS , Operand: <col=000080>
+Offset: 1591, PUSHS , Operand: corpsethorn staves
+Offset: 1592, PUSHS , Operand: </col>
+Offset: 1593, PUSHS , Operand:  within Daemonheim.
+Offset: 1594, CONCAT , Operand: 5
+Offset: 1595, RETURN , Operand: 0
+Offset: 1596, GOTO , Operand: 143
+Offset: 1597, PUSHI , Operand: 80
+Offset: 1598, PUSHI , Operand: 17742
+Offset: 1599, PUSHS , Operand: Entgallow
+Offset: 1600, PUSHS , Operand: <br>
+Offset: 1601, PUSHS , Operand:  59 Arrow shafts
+Offset: 1602, CONCAT , Operand: 3
+Offset: 1603, PUSHS , Operand: You can now fletch 
+Offset: 1604, PUSHS , Operand: <col=000080>
+Offset: 1605, PUSHS , Operand: entgallow branches
+Offset: 1606, PUSHS , Operand: </col>
+Offset: 1607, PUSHS , Operand:  into 
+Offset: 1608, PUSHS , Operand: <col=000080>
+Offset: 1609, PUSHS , Operand: 59 arrow shafts
+Offset: 1610, PUSHS , Operand: </col>
+Offset: 1611, PUSHS , Operand:  within Daemonheim.
+Offset: 1612, CONCAT , Operand: 9
+Offset: 1613, RETURN , Operand: 0
+Offset: 1614, GOTO , Operand: 125
+Offset: 1615, PUSHI , Operand: 81
+Offset: 1616, PUSHI , Operand: 16883
+Offset: 1617, PUSHS , Operand: Entgallow shortbow (Tier 9)
+Offset: 1618, PUSHS , Operand: You can now fletch 
+Offset: 1619, PUSHS , Operand: <col=000080>
+Offset: 1620, PUSHS , Operand: entgallow shortbows
+Offset: 1621, PUSHS , Operand: </col>
+Offset: 1622, PUSHS , Operand:  within Daemonheim.
+Offset: 1623, CONCAT , Operand: 5
+Offset: 1624, RETURN , Operand: 0
+Offset: 1625, GOTO , Operand: 114
+Offset: 1626, PUSHI , Operand: 83
+Offset: 1627, PUSHI , Operand: 17772
+Offset: 1628, PUSHS , Operand: Entgallow trap (Tier 9)
+Offset: 1629, PUSHS , Operand: You can now fletch 
+Offset: 1630, PUSHS , Operand: <col=000080>
+Offset: 1631, PUSHS , Operand: entgallow traps
+Offset: 1632, PUSHS , Operand: </col>
+Offset: 1633, PUSHS , Operand:  within Daemonheim.
+Offset: 1634, CONCAT , Operand: 5
+Offset: 1635, RETURN , Operand: 0
+Offset: 1636, GOTO , Operand: 103
+Offset: 1637, PUSHI , Operand: 86
+Offset: 1638, PUSHI , Operand: 16333
+Offset: 1639, PUSHS , Operand: Entgallow longbow (Tier 9)
+Offset: 1640, PUSHS , Operand: You can now fletch 
+Offset: 1641, PUSHS , Operand: <col=000080>
+Offset: 1642, PUSHS , Operand: entgallow longbows
+Offset: 1643, PUSHS , Operand: </col>
+Offset: 1644, PUSHS , Operand:  within Daemonheim.
+Offset: 1645, CONCAT , Operand: 5
+Offset: 1646, RETURN , Operand: 0
+Offset: 1647, GOTO , Operand: 92
+Offset: 1648, PUSHI , Operand: 88
+Offset: 1649, PUSHI , Operand: 16467
+Offset: 1650, PUSHS , Operand: Gorgonite arrows (Tier 9)
+Offset: 1651, PUSHS , Operand: You can now fletch 
+Offset: 1652, PUSHS , Operand: <col=000080>
+Offset: 1653, PUSHS , Operand: gorgonite arrows
+Offset: 1654, PUSHS , Operand: </col>
+Offset: 1655, PUSHS , Operand:  within Daemonheim.
+Offset: 1656, CONCAT , Operand: 5
+Offset: 1657, RETURN , Operand: 0
+Offset: 1658, GOTO , Operand: 81
+Offset: 1659, PUSHI , Operand: 88
+Offset: 1660, PUSHI , Operand: 16993
+Offset: 1661, PUSHS , Operand: Entgallow staff (Tier 9)
+Offset: 1662, PUSHS , Operand: You can now fletch 
+Offset: 1663, PUSHS , Operand: <col=000080>
+Offset: 1664, PUSHS , Operand: entgallow staves
+Offset: 1665, PUSHS , Operand: </col>
+Offset: 1666, PUSHS , Operand:  within Daemonheim.
+Offset: 1667, CONCAT , Operand: 5
+Offset: 1668, RETURN , Operand: 0
+Offset: 1669, GOTO , Operand: 70
+Offset: 1670, PUSHI , Operand: 90
+Offset: 1671, PUSHI , Operand: 17742
+Offset: 1672, PUSHS , Operand: Grave creeper
+Offset: 1673, PUSHS , Operand: <br>
+Offset: 1674, PUSHS , Operand:  65 Arrow shafts
+Offset: 1675, CONCAT , Operand: 3
+Offset: 1676, PUSHS , Operand: You can now fletch 
+Offset: 1677, PUSHS , Operand: <col=000080>
+Offset: 1678, PUSHS , Operand: grave creeper branches
+Offset: 1679, PUSHS , Operand: </col>
+Offset: 1680, PUSHS , Operand:  into 
+Offset: 1681, PUSHS , Operand: <col=000080>
+Offset: 1682, PUSHS , Operand: 65 arrow shafts
+Offset: 1683, PUSHS , Operand: </col>
+Offset: 1684, PUSHS , Operand:  within Daemonheim.
+Offset: 1685, CONCAT , Operand: 9
+Offset: 1686, RETURN , Operand: 0
+Offset: 1687, GOTO , Operand: 52
+Offset: 1688, PUSHI , Operand: 91
+Offset: 1689, PUSHI , Operand: 16885
+Offset: 1690, PUSHS , Operand: Grave creeper shortbow (Tier 10)
+Offset: 1691, PUSHS , Operand: You can now fletch 
+Offset: 1692, PUSHS , Operand: <col=000080>
+Offset: 1693, PUSHS , Operand: grave creeper shortbows
+Offset: 1694, PUSHS , Operand: </col>
+Offset: 1695, PUSHS , Operand:  within Daemonheim.
+Offset: 1696, CONCAT , Operand: 5
+Offset: 1697, RETURN , Operand: 0
+Offset: 1698, GOTO , Operand: 41
+Offset: 1699, PUSHI , Operand: 93
+Offset: 1700, PUSHI , Operand: 17774
+Offset: 1701, PUSHS , Operand: Grave creeper trap (Tier 10)
+Offset: 1702, PUSHS , Operand: You can now fletch 
+Offset: 1703, PUSHS , Operand: <col=000080>
+Offset: 1704, PUSHS , Operand: grave creeper traps
+Offset: 1705, PUSHS , Operand: </col>
+Offset: 1706, PUSHS , Operand:  within Daemonheim.
+Offset: 1707, CONCAT , Operand: 5
+Offset: 1708, RETURN , Operand: 0
+Offset: 1709, GOTO , Operand: 30
+Offset: 1710, PUSHI , Operand: 96
+Offset: 1711, PUSHI , Operand: 16335
+Offset: 1712, PUSHS , Operand: Grave creeper longbow (Tier 10)
+Offset: 1713, PUSHS , Operand: You can now fletch 
+Offset: 1714, PUSHS , Operand: <col=000080>
+Offset: 1715, PUSHS , Operand: grave creeper longbows
+Offset: 1716, PUSHS , Operand: </col>
+Offset: 1717, PUSHS , Operand:  within Daemonheim.
+Offset: 1718, CONCAT , Operand: 5
+Offset: 1719, RETURN , Operand: 0
+Offset: 1720, GOTO , Operand: 19
+Offset: 1721, PUSHI , Operand: 98
+Offset: 1722, PUSHI , Operand: 16995
+Offset: 1723, PUSHS , Operand: Grave creeper staff (Tier 10)
+Offset: 1724, PUSHS , Operand: You can now fletch 
+Offset: 1725, PUSHS , Operand: <col=000080>
+Offset: 1726, PUSHS , Operand: grave creeper staves
+Offset: 1727, PUSHS , Operand: </col>
+Offset: 1728, PUSHS , Operand:  within Daemonheim.
+Offset: 1729, CONCAT , Operand: 5
+Offset: 1730, RETURN , Operand: 0
+Offset: 1731, GOTO , Operand: 8
+Offset: 1732, PUSHI , Operand: 99
+Offset: 1733, PUSHI , Operand: 16472
+Offset: 1734, PUSHS , Operand: Promethium arrows (Tier 10)
+Offset: 1735, PUSHS , Operand: You can now fletch promethium arrows
+Offset: 1736, PUSHS , Operand: </col>
+Offset: 1737, PUSHS , Operand:  within Daemonheim.
+Offset: 1738, CONCAT , Operand: 3
+Offset: 1739, RETURN , Operand: 0
+Offset: 1740, GOTO , Operand: 31
+Offset: 1741, LOADINT , Operand: 1
+Offset: 1742, PUSHI , Operand: 0
+Offset: 1743, IFEQ , Operand: 1
+Offset: 1744, GOTO , Operand: 27
+Offset: 1745, PUSHI , Operand: 99
+Offset: 1746, PUSHI , Operand: 9783
+Offset: 1747, PUSHS , Operand: Skill mastery
+Offset: 1748, PUSHS , Operand: <col=000080>
+Offset: 1749, PUSHS , Operand: Congratulations! You are now a master of 
+Offset: 1750, PUSHS , Operand: <col=800000>
+Offset: 1751, PUSHS , Operand: Fletching
+Offset: 1752, PUSHS , Operand: <col=000080>
+Offset: 1753, PUSHS , Operand: . Why not visit 
+Offset: 1754, PUSHS , Operand: <col=800000>
+Offset: 1755, PUSHS , Operand: Hickton
+Offset: 1756, PUSHS , Operand: <col=000080>
+Offset: 1757, PUSHS , Operand:  who runs the 
+Offset: 1758, PUSHS , Operand: <col=800000>
+Offset: 1759, PUSHS , Operand: bow and arrow shop
+Offset: 1760, PUSHS , Operand: <col=000080>
+Offset: 1761, PUSHS , Operand:  in 
+Offset: 1762, PUSHS , Operand: <col=800000>
+Offset: 1763, PUSHS , Operand: Catherby
+Offset: 1764, PUSHS , Operand: <col=000080>
+Offset: 1765, PUSHS , Operand: ? He has something special that is only available to true masters of the 
+Offset: 1766, PUSHS , Operand: <col=800000>
+Offset: 1767, PUSHS , Operand: Fletching
+Offset: 1768, PUSHS , Operand: <col=000080>
+Offset: 1769, PUSHS , Operand:  skill!
+Offset: 1770, CONCAT , Operand: 22
+Offset: 1771, RETURN , Operand: 0
+Offset: 1772, PUSHI , Operand: 0
+Offset: 1773, PUSHI , Operand: -1
+Offset: 1774, PUSHS , Operand: 
+Offset: 1775, PUSHS , Operand: 
+Offset: 1776, RETURN , Operand: 0
+
+================================================
+                Switch Table 0                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 207
+Key: 2, Value: 356
+Key: 3, Value: 621
+Key: 4, Value: 701
+Key: 5, Value: 784
+Key: 6, Value: 831
+Key: 7, Value: 999
+Key: 8, Value: 1739
+
+================================================
+                Switch Table 1                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 12
+Key: 2, Value: 26
+Key: 3, Value: 40
+Key: 4, Value: 51
+Key: 5, Value: 65
+Key: 6, Value: 76
+Key: 7, Value: 90
+Key: 8, Value: 104
+Key: 9, Value: 115
+Key: 10, Value: 129
+Key: 11, Value: 143
+Key: 12, Value: 154
+Key: 13, Value: 168
+Key: 14, Value: 179
+Key: 15, Value: 193
+
+================================================
+                Switch Table 2                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 12
+Key: 2, Value: 23
+Key: 3, Value: 34
+Key: 4, Value: 45
+Key: 5, Value: 59
+Key: 6, Value: 70
+Key: 7, Value: 81
+Key: 8, Value: 92
+Key: 9, Value: 103
+Key: 10, Value: 114
+Key: 11, Value: 125
+Key: 12, Value: 136
+
+================================================
+                Switch Table 3                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 12
+Key: 2, Value: 23
+Key: 3, Value: 37
+Key: 4, Value: 51
+Key: 5, Value: 62
+Key: 6, Value: 73
+Key: 7, Value: 84
+Key: 8, Value: 95
+Key: 9, Value: 106
+Key: 10, Value: 117
+Key: 11, Value: 128
+Key: 12, Value: 139
+Key: 13, Value: 150
+Key: 14, Value: 164
+Key: 15, Value: 175
+Key: 17, Value: 197
+Key: 16, Value: 186
+Key: 19, Value: 219
+Key: 18, Value: 208
+Key: 21, Value: 241
+Key: 20, Value: 230
+Key: 22, Value: 252
+
+================================================
+                Switch Table 4                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 12
+Key: 2, Value: 23
+Key: 3, Value: 34
+Key: 4, Value: 45
+Key: 5, Value: 56
+Key: 6, Value: 67
+
+================================================
+                Switch Table 5                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 12
+Key: 2, Value: 26
+Key: 3, Value: 37
+Key: 4, Value: 48
+Key: 5, Value: 59
+Key: 6, Value: 70
+
+================================================
+                Switch Table 6                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 12
+Key: 2, Value: 23
+Key: 3, Value: 34
+
+================================================
+                Switch Table 7                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 12
+Key: 2, Value: 23
+Key: 3, Value: 34
+Key: 4, Value: 45
+Key: 5, Value: 56
+Key: 6, Value: 67
+Key: 7, Value: 78
+Key: 8, Value: 89
+Key: 9, Value: 100
+Key: 10, Value: 111
+Key: 11, Value: 122
+Key: 12, Value: 133
+Key: 13, Value: 144
+Key: 14, Value: 155
+
+================================================
+                Switch Table 8                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 10
+Key: 2, Value: 28
+Key: 3, Value: 39
+Key: 4, Value: 50
+Key: 5, Value: 61
+Key: 6, Value: 72
+Key: 7, Value: 83
+Key: 8, Value: 101
+Key: 9, Value: 112
+Key: 10, Value: 123
+Key: 11, Value: 134
+Key: 12, Value: 145
+Key: 13, Value: 156
+Key: 14, Value: 174
+Key: 15, Value: 185
+Key: 17, Value: 207
+Key: 16, Value: 196
+Key: 19, Value: 229
+Key: 18, Value: 218
+Key: 21, Value: 258
+Key: 20, Value: 247
+Key: 23, Value: 280
+Key: 22, Value: 269
+Key: 25, Value: 302
+Key: 24, Value: 291
+Key: 27, Value: 331
+Key: 26, Value: 320
+Key: 29, Value: 353
+Key: 28, Value: 342
+Key: 31, Value: 375
+Key: 30, Value: 364
+Key: 34, Value: 415
+Key: 35, Value: 426
+Key: 32, Value: 393
+Key: 33, Value: 404
+Key: 38, Value: 466
+Key: 39, Value: 477
+Key: 36, Value: 437
+Key: 37, Value: 448
+Key: 42, Value: 510
+Key: 43, Value: 521
+Key: 40, Value: 488
+Key: 41, Value: 499
+Key: 46, Value: 561
+Key: 47, Value: 572
+Key: 44, Value: 539
+Key: 45, Value: 550
+Key: 51, Value: 623
+Key: 50, Value: 612
+Key: 49, Value: 594
+Key: 48, Value: 583
+Key: 55, Value: 667
+Key: 54, Value: 656
+Key: 53, Value: 645
+Key: 52, Value: 634
+Key: 59, Value: 718
+Key: 58, Value: 707
+Key: 57, Value: 696
+Key: 56, Value: 685
+Key: 60, Value: 729

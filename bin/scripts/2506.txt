@@ -1,0 +1,21 @@
+================================================
+      Client Script 2506 Dumped by SiniSoul    
+      Instruction Size: 10
+      Integer Arguments: 1 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, Unref Opcode: 25, Operand: 6351
+Offset: 1, Unref Opcode: 25, Operand: 6427
+Offset: 2, ISUB , Operand: 0
+Offset: 3, STOREGINT , Operand: 839
+Offset: 4, LOADGINT , Operand: 839
+Offset: 5, PUSHS , Operand: ,
+Offset: 6, CALL , Operand: 46
+Offset: 7, LOADINT , Operand: 0
+Offset: 8, Unref Method: 2112, Operand: 0
+Offset: 9, RETURN , Operand: 0

@@ -1,0 +1,79 @@
+================================================
+      Client Script 854 Dumped by SiniSoul    
+      Instruction Size: 68
+      Integer Arguments: 1 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADINT , Operand: 0
+Offset: 1, PUSHI , Operand: 10
+Offset: 2, IFEQ , Operand: 1
+Offset: 3, GOTO , Operand: 2
+Offset: 4, PUSHI , Operand: 0
+Offset: 5, RETURN , Operand: 0
+Offset: 6, LOADINT , Operand: 0
+Offset: 7, PUSHI , Operand: 0
+Offset: 8, IFEQ , Operand: 1
+Offset: 9, GOTO , Operand: 2
+Offset: 10, PUSHI , Operand: 1
+Offset: 11, RETURN , Operand: 0
+Offset: 12, LOADINT , Operand: 0
+Offset: 13, PUSHI , Operand: 1
+Offset: 14, IFEQ , Operand: 1
+Offset: 15, GOTO , Operand: 2
+Offset: 16, PUSHI , Operand: 1
+Offset: 17, RETURN , Operand: 0
+Offset: 18, LOADINT , Operand: 0
+Offset: 19, PUSHI , Operand: 2
+Offset: 20, IFEQ , Operand: 1
+Offset: 21, GOTO , Operand: 2
+Offset: 22, PUSHI , Operand: 1
+Offset: 23, RETURN , Operand: 0
+Offset: 24, LOADINT , Operand: 0
+Offset: 25, PUSHI , Operand: 3
+Offset: 26, IFEQ , Operand: 1
+Offset: 27, GOTO , Operand: 2
+Offset: 28, PUSHI , Operand: 1
+Offset: 29, RETURN , Operand: 0
+Offset: 30, LOADINT , Operand: 0
+Offset: 31, PUSHI , Operand: 4
+Offset: 32, IFEQ , Operand: 1
+Offset: 33, GOTO , Operand: 2
+Offset: 34, PUSHI , Operand: 2
+Offset: 35, RETURN , Operand: 0
+Offset: 36, LOADINT , Operand: 0
+Offset: 37, PUSHI , Operand: 5
+Offset: 38, IFEQ , Operand: 1
+Offset: 39, GOTO , Operand: 2
+Offset: 40, PUSHI , Operand: 2
+Offset: 41, RETURN , Operand: 0
+Offset: 42, LOADINT , Operand: 0
+Offset: 43, PUSHI , Operand: 6
+Offset: 44, IFEQ , Operand: 1
+Offset: 45, GOTO , Operand: 2
+Offset: 46, PUSHI , Operand: 2
+Offset: 47, RETURN , Operand: 0
+Offset: 48, LOADINT , Operand: 0
+Offset: 49, PUSHI , Operand: 7
+Offset: 50, IFEQ , Operand: 1
+Offset: 51, GOTO , Operand: 2
+Offset: 52, PUSHI , Operand: 2
+Offset: 53, RETURN , Operand: 0
+Offset: 54, LOADINT , Operand: 0
+Offset: 55, PUSHI , Operand: 8
+Offset: 56, IFEQ , Operand: 1
+Offset: 57, GOTO , Operand: 2
+Offset: 58, PUSHI , Operand: 2
+Offset: 59, RETURN , Operand: 0
+Offset: 60, LOADINT , Operand: 0
+Offset: 61, PUSHI , Operand: 9
+Offset: 62, IFEQ , Operand: 1
+Offset: 63, GOTO , Operand: 2
+Offset: 64, PUSHI , Operand: 3
+Offset: 65, RETURN , Operand: 0
+Offset: 66, PUSHI , Operand: 0
+Offset: 67, RETURN , Operand: 0

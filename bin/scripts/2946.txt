@@ -1,0 +1,544 @@
+================================================
+      Client Script 2946 Dumped by SiniSoul    
+      Instruction Size: 484
+      Integer Arguments: 12 
+      String  Arguments: 5 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, CALL , Operand: 2948
+Offset: 1, STOREINT , Operand: 0
+Offset: 2, PUSHI , Operand: 39059543
+Offset: 3, STOREINT , Operand: 1
+Offset: 4, PUSHI , Operand: 39059531
+Offset: 5, STOREINT , Operand: 2
+Offset: 6, PUSHI , Operand: 39059475
+Offset: 7, STOREINT , Operand: 3
+Offset: 8, isSSKStrNull , Operand: 0
+Offset: 9, PUSHI , Operand: 1
+Offset: 10, IFEQ , Operand: 1
+Offset: 11, GOTO , Operand: 6
+Offset: 12, PUSHI , Operand: 63897654
+Offset: 13, STOREINT , Operand: 1
+Offset: 14, PUSHI , Operand: 63897650
+Offset: 15, STOREINT , Operand: 2
+Offset: 16, PUSHI , Operand: 63897629
+Offset: 17, STOREINT , Operand: 3
+Offset: 18, LOADINT , Operand: 0
+Offset: 19, PUSHI , Operand: -3
+Offset: 20, IFEQ , Operand: 1
+Offset: 21, GOTO , Operand: 24
+Offset: 22, PUSHS , Operand: Performing login...
+Offset: 23, LOADINT , Operand: 1
+Offset: 24, Unref Method: 2112, Operand: 0
+Offset: 25, PUSHI , Operand: -1
+Offset: 26, PUSHS , Operand: 
+Offset: 27, LOADINT , Operand: 2
+Offset: 28, setInterfaceDefinitionScriptParams0 , Operand: 0
+Offset: 29, LOADINT , Operand: 0
+Offset: 30, PUSHI , Operand: 0
+Offset: 31, PUSHS , Operand: LOGGING IN
+Offset: 32, PUSHS , Operand: <br>
+Offset: 33, PUSHS , Operand: PLEASE WAIT
+Offset: 34, CONCAT , Operand: 3
+Offset: 35, PUSHI , Operand: 1
+Offset: 36, PUSHI , Operand: -1
+Offset: 37, PUSHI , Operand: 0
+Offset: 38, PUSHI , Operand: -1
+Offset: 39, PUSHS , Operand: 
+Offset: 40, PUSHI , Operand: 0
+Offset: 41, PUSHS , Operand: 
+Offset: 42, CALL , Operand: 2950
+Offset: 43, PUSHI , Operand: -3
+Offset: 44, STOREGINT , Operand: 1100
+Offset: 45, RETURN , Operand: 0
+Offset: 46, LOADGINT , Operand: 1100
+Offset: 47, PUSHI , Operand: -3
+Offset: 48, IFEQ , Operand: 1
+Offset: 49, GOTO , Operand: 1
+Offset: 50, CALL , Operand: 2954
+Offset: 51, PUSHI , Operand: 0
+Offset: 52, STOREINT , Operand: 4
+Offset: 53, PUSHS , Operand: 
+Offset: 54, STORESTR , Operand: 0
+Offset: 55, LOADINT , Operand: 0
+Offset: 56, PUSHI , Operand: 21
+Offset: 57, IFEQ , Operand: 1
+Offset: 58, GOTO , Operand: 70
+Offset: 59, PUSHI , Operand: 21
+Offset: 60, STOREGINT , Operand: 1100
+Offset: 61, PUSHS , Operand: Performing login...
+Offset: 62, LOADINT , Operand: 1
+Offset: 63, Unref Method: 2112, Operand: 0
+Offset: 64, PUSHI , Operand: -1
+Offset: 65, PUSHS , Operand: 
+Offset: 66, LOADINT , Operand: 2
+Offset: 67, setInterfaceDefinitionScriptParams0 , Operand: 0
+Offset: 68, LOADGINT , Operand: 200
+Offset: 69, PUSHI , Operand: 0
+Offset: 70, IFEQ , Operand: 1
+Offset: 71, GOTO , Operand: 2
+Offset: 72, Unref Method: 5608, Operand: 0
+Offset: 73, STOREGINT , Operand: 200
+Offset: 74, LOADGINT , Operand: 200
+Offset: 75, PUSHI , Operand: 1
+Offset: 76, ISUB , Operand: 0
+Offset: 77, STOREGINT , Operand: 200
+Offset: 78, LOADGINT , Operand: 200
+Offset: 79, PUSHI , Operand: 0
+Offset: 80, IFLTEQ , Operand: 1
+Offset: 81, GOTO , Operand: 6
+Offset: 82, PUSHI , Operand: -1
+Offset: 83, PUSHS , Operand: 
+Offset: 84, LOADINT , Operand: 2
+Offset: 85, setInterfaceDefinitionScriptParams8 , Operand: 0
+Offset: 86, CALL , Operand: 2945
+Offset: 87, RETURN , Operand: 0
+Offset: 88, LOADGINT , Operand: 200
+Offset: 89, PUSHI , Operand: 50
+Offset: 90, IDIV , Operand: 0
+Offset: 91, STOREINT , Operand: 4
+Offset: 92, LOADINT , Operand: 4
+Offset: 93, PUSHI , Operand: 1
+Offset: 94, IFEQ , Operand: 1
+Offset: 95, GOTO , Operand: 6
+Offset: 96, PUSHS , Operand: YOU HAVE ONLY JUST LEFT ANOTHER WORLD. YOUR PROFILE WILL BE TRANSFERRED IN
+Offset: 97, PUSHS , Operand: <br>
+Offset: 98, PUSHS , Operand: 1 SECOND.
+Offset: 99, CONCAT , Operand: 3
+Offset: 100, STORESTR , Operand: 0
+Offset: 101, GOTO , Operand: 7
+Offset: 102, PUSHS , Operand: YOU HAVE ONLY JUST LEFT ANOTHER WORLD. YOUR PROFILE WILL BE TRANSFERRED IN
+Offset: 103, PUSHS , Operand: <br>
+Offset: 104, LOADINT , Operand: 4
+Offset: 105, integerToString , Operand: 0
+Offset: 106, PUSHS , Operand:  SECONDS.
+Offset: 107, CONCAT , Operand: 4
+Offset: 108, STORESTR , Operand: 0
+Offset: 109, LOADINT , Operand: 3
+Offset: 110, Unref Method: 2504, Operand: 0
+Offset: 111, PUSHI , Operand: 1
+Offset: 112, IFEQ , Operand: 1
+Offset: 113, GOTO , Operand: 12
+Offset: 114, LOADINT , Operand: 0
+Offset: 115, PUSHI , Operand: 0
+Offset: 116, LOADSTR , Operand: 0
+Offset: 117, PUSHI , Operand: 0
+Offset: 118, PUSHI , Operand: 2611
+Offset: 119, PUSHI , Operand: 1
+Offset: 120, PUSHI , Operand: 1
+Offset: 121, PUSHS , Operand: ABORT LOGIN
+Offset: 122, PUSHI , Operand: 0
+Offset: 123, PUSHS , Operand: 
+Offset: 124, CALL , Operand: 2950
+Offset: 125, GOTO , Operand: 2
+Offset: 126, LOADSTR , Operand: 0
+Offset: 127, CALL , Operand: 3233
+Offset: 128, RETURN , Operand: 0
+Offset: 129, CALL , Operand: 2954
+Offset: 130, PUSHI , Operand: 0
+Offset: 131, STOREINT , Operand: 5
+Offset: 132, PUSHS , Operand: 
+Offset: 133, STORESTR , Operand: 1
+Offset: 134, LOADINT , Operand: 0
+Offset: 135, PUSHI , Operand: 1
+Offset: 136, IFEQ , Operand: 1
+Offset: 137, GOTO , Operand: 87
+Offset: 138, PUSHS , Operand: Performing login...
+Offset: 139, LOADINT , Operand: 1
+Offset: 140, Unref Method: 2112, Operand: 0
+Offset: 141, PUSHI , Operand: -1
+Offset: 142, PUSHS , Operand: 
+Offset: 143, LOADINT , Operand: 2
+Offset: 144, setInterfaceDefinitionScriptParams0 , Operand: 0
+Offset: 145, LOADGINT , Operand: 201
+Offset: 146, PUSHI , Operand: 0
+Offset: 147, IFEQ , Operand: 1
+Offset: 148, GOTO , Operand: 2
+Offset: 149, Unref Method: 6405, Operand: 0
+Offset: 150, STOREGINT , Operand: 202
+Offset: 151, PUSHI , Operand: 500
+Offset: 152, LOADGINT , Operand: 201
+Offset: 153, ISUB , Operand: 0
+Offset: 154, PUSHI , Operand: 50
+Offset: 155, IDIV , Operand: 0
+Offset: 156, STOREINT , Operand: 5
+Offset: 157, LOADGINT , Operand: 202
+Offset: 158, PUSHI , Operand: 0
+Offset: 159, IFEQ , Operand: 1
+Offset: 160, GOTO , Operand: 14
+Offset: 161, LOADINT , Operand: 5
+Offset: 162, PUSHI , Operand: 1
+Offset: 163, IFEQ , Operand: 1
+Offset: 164, GOTO , Operand: 3
+Offset: 165, PUSHS , Operand: COULD NOT DISPLAY VIDEO ADVERTISEMENT. LOGIN WILL CONTINUE IN 1 SECOND.
+Offset: 166, STORESTR , Operand: 1
+Offset: 167, GOTO , Operand: 6
+Offset: 168, PUSHS , Operand: COULD NOT DISPLAY VIDEO ADVERTISEMENT. LOGIN WILL CONTINUE IN 
+Offset: 169, LOADINT , Operand: 5
+Offset: 170, integerToString , Operand: 0
+Offset: 171, PUSHS , Operand:  SECONDS.
+Offset: 172, CONCAT , Operand: 3
+Offset: 173, STORESTR , Operand: 1
+Offset: 174, GOTO , Operand: 20
+Offset: 175, LOADGINT , Operand: 201
+Offset: 176, PUSHI , Operand: 500
+Offset: 177, IFLT , Operand: 1
+Offset: 178, GOTO , Operand: 14
+Offset: 179, LOADINT , Operand: 5
+Offset: 180, PUSHI , Operand: 1
+Offset: 181, IFEQ , Operand: 1
+Offset: 182, GOTO , Operand: 3
+Offset: 183, PUSHS , Operand: DISPLAYING VIDEO ADVERTISEMENT. LOGIN WILL CONTINUE IN 1 SECOND.
+Offset: 184, STORESTR , Operand: 1
+Offset: 185, GOTO , Operand: 6
+Offset: 186, PUSHS , Operand: DISPLAYING VIDEO ADVERTISEMENT. LOGIN WILL CONTINUE IN 
+Offset: 187, LOADINT , Operand: 5
+Offset: 188, integerToString , Operand: 0
+Offset: 189, PUSHS , Operand:  SECONDS.
+Offset: 190, CONCAT , Operand: 3
+Offset: 191, STORESTR , Operand: 1
+Offset: 192, GOTO , Operand: 2
+Offset: 193, PUSHS , Operand: Displaying video advertisement. Login will continue in 0 seconds.
+Offset: 194, STORESTR , Operand: 1
+Offset: 195, LOADINT , Operand: 0
+Offset: 196, PUSHI , Operand: 0
+Offset: 197, LOADSTR , Operand: 1
+Offset: 198, PUSHI , Operand: 0
+Offset: 199, PUSHI , Operand: 2611
+Offset: 200, PUSHI , Operand: 0
+Offset: 201, PUSHI , Operand: -1
+Offset: 202, PUSHS , Operand: 
+Offset: 203, PUSHI , Operand: 0
+Offset: 204, PUSHS , Operand: 
+Offset: 205, CALL , Operand: 2950
+Offset: 206, LOADGINT , Operand: 201
+Offset: 207, PUSHI , Operand: 1
+Offset: 208, IADD , Operand: 0
+Offset: 209, STOREGINT , Operand: 201
+Offset: 210, LOADGINT , Operand: 202
+Offset: 211, PUSHI , Operand: 1
+Offset: 212, IFEQ , Operand: 1
+Offset: 213, GOTO , Operand: 3
+Offset: 214, Unref Method: 6406, Operand: 0
+Offset: 215, PUSHI , Operand: 0
+Offset: 216, IFEQ , Operand: 4
+Offset: 217, LOADGINT , Operand: 201
+Offset: 218, PUSHI , Operand: 500
+Offset: 219, IFLT , Operand: 1
+Offset: 220, GOTO , Operand: 1
+Offset: 221, RETURN , Operand: 0
+Offset: 222, CALL , Operand: 2954
+Offset: 223, Unref Method: 5601, Operand: 0
+Offset: 224, RETURN , Operand: 0
+Offset: 225, CALL , Operand: 2954
+Offset: 226, isSSKStrNull , Operand: 0
+Offset: 227, PUSHI , Operand: 1
+Offset: 228, IFEQ , Operand: 1
+Offset: 229, GOTO , Operand: 4
+Offset: 230, PUSHS , Operand: Play Game
+Offset: 231, LOADINT , Operand: 1
+Offset: 232, Unref Method: 2112, Operand: 0
+Offset: 233, GOTO , Operand: 3
+Offset: 234, PUSHS , Operand: Log In
+Offset: 235, LOADINT , Operand: 1
+Offset: 236, Unref Method: 2112, Operand: 0
+Offset: 237, PUSHI , Operand: 2944
+Offset: 238, PUSHS , Operand: 
+Offset: 239, LOADINT , Operand: 2
+Offset: 240, setInterfaceDefinitionScriptParams0 , Operand: 0
+Offset: 241, PUSHI , Operand: -1
+Offset: 242, PUSHS , Operand: 
+Offset: 243, LOADINT , Operand: 2
+Offset: 244, setInterfaceDefinitionScriptParams8 , Operand: 0
+Offset: 245, PUSHS , Operand: 
+Offset: 246, STORESTR , Operand: 2
+Offset: 247, PUSHI , Operand: 1
+Offset: 248, STOREINT , Operand: 6
+Offset: 249, PUSHI , Operand: 0
+Offset: 250, STOREINT , Operand: 7
+Offset: 251, PUSHI , Operand: 2608
+Offset: 252, STOREINT , Operand: 8
+Offset: 253, PUSHI , Operand: 0
+Offset: 254, STOREINT , Operand: 9
+Offset: 255, PUSHI , Operand: 0
+Offset: 256, STOREINT , Operand: 10
+Offset: 257, PUSHS , Operand: 
+Offset: 258, STORESTR , Operand: 3
+Offset: 259, PUSHI , Operand: 1
+Offset: 260, STOREINT , Operand: 11
+Offset: 261, PUSHS , Operand: BACK
+Offset: 262, STORESTR , Operand: 4
+Offset: 263, LOADINT , Operand: 0
+Offset: 264, SWITCH , Operand: 0
+Offset: 265, GOTO , Operand: 203
+Offset: 266, CALL , Operand: 2954
+Offset: 267, isSSKStrNull , Operand: 0
+Offset: 268, PUSHI , Operand: 1
+Offset: 269, IFEQ , Operand: 1
+Offset: 270, GOTO , Operand: 2
+Offset: 271, RETURN , Operand: 0
+Offset: 272, GOTO , Operand: 16
+Offset: 273, LOADGINT , Operand: 174
+Offset: 274, PUSHI , Operand: 2
+Offset: 275, IFEQ , Operand: 1
+Offset: 276, GOTO , Operand: 3
+Offset: 277, PUSHI , Operand: 2
+Offset: 278, CALL , Operand: 2940
+Offset: 279, GOTO , Operand: 9
+Offset: 280, LOADGINT , Operand: 1093
+Offset: 281, PUSHI , Operand: 1
+Offset: 282, IFEQ , Operand: 1
+Offset: 283, GOTO , Operand: 3
+Offset: 284, PUSHI , Operand: 4
+Offset: 285, CALL , Operand: 2940
+Offset: 286, GOTO , Operand: 2
+Offset: 287, PUSHI , Operand: 3
+Offset: 288, CALL , Operand: 2940
+Offset: 289, RETURN , Operand: 0
+Offset: 290, GOTO , Operand: 180
+Offset: 291, Unref Method: 5611, Operand: 0
+Offset: 292, SWITCH , Operand: 1
+Offset: 293, GOTO , Operand: 18
+Offset: 294, PUSHS , Operand: YOU MUST HAVE A COMBAT LEVEL OF AT LEAST 20 (WITHOUT SUMMONING) TO ENTER A PvP WORLD.
+Offset: 295, STORESTR , Operand: 2
+Offset: 296, GOTO , Operand: 17
+Offset: 297, PUSHS , Operand: YOU ARE CURRENTLY CARRYING LENT ITEMS AND CANNOT ENTER A PvP WORLD.
+Offset: 298, STORESTR , Operand: 2
+Offset: 299, GOTO , Operand: 14
+Offset: 300, PUSHS , Operand: YOU MUST BE STANDING IN THE WILDERNESS OR EDGEVILLE TO ENTER THIS BOUNTY WORLD.
+Offset: 301, STORESTR , Operand: 2
+Offset: 302, GOTO , Operand: 11
+Offset: 303, PUSHS , Operand: YOU MUST HAVE A TOTAL SKILL LEVEL OF 1,000 OR GREATER TO ENTER THIS WORLD.
+Offset: 304, STORESTR , Operand: 2
+Offset: 305, GOTO , Operand: 8
+Offset: 306, PUSHS , Operand: YOU MUST HAVE A TOTAL SKILL LEVEL OF 1,500 OR GREATER TO ENTER THIS WORLD.
+Offset: 307, STORESTR , Operand: 2
+Offset: 308, GOTO , Operand: 5
+Offset: 309, PUSHS , Operand: YOU MUST MOVE TO A SAFE AREA BEFORE YOU CAN LOG IN TO A PvP OR BOUNTY WORLD.
+Offset: 310, STORESTR , Operand: 2
+Offset: 311, GOTO , Operand: 2
+Offset: 312, PUSHS , Operand: UNEXPECTED SERVER RESPONSE. PLEASE TRY USING A DIFFERENT WORLD.
+Offset: 313, STORESTR , Operand: 2
+Offset: 314, GOTO , Operand: 156
+Offset: 315, PUSHS , Operand: CONNECTION TIMED OUT. PLEASE TRY USING A DIFFERENT WORLD.
+Offset: 316, STORESTR , Operand: 2
+Offset: 317, GOTO , Operand: 153
+Offset: 318, PUSHS , Operand: ERROR CONNECTING TO SERVER.
+Offset: 319, STORESTR , Operand: 2
+Offset: 320, GOTO , Operand: 150
+Offset: 321, PUSHS , Operand: NO RESPONSE FROM SERVER. PLEASE TRY USING A DIFFERENT WORLD.
+Offset: 322, STORESTR , Operand: 2
+Offset: 323, GOTO , Operand: 147
+Offset: 324, PUSHS , Operand: YOUR ACCOUNT HAS NOT LOGGED OUT FROM ITS LAST SESSION. TRY AGAIN IN A FEW MINUTES.
+Offset: 325, STORESTR , Operand: 2
+Offset: 326, GOTO , Operand: 144
+Offset: 327, PUSHS , Operand: THIS WORLD IS FULL. PLEASE USE A DIFFERENT WORLD.
+Offset: 328, STORESTR , Operand: 2
+Offset: 329, GOTO , Operand: 141
+Offset: 330, PUSHS , Operand: UNABLE TO CONNECT: LOGIN SERVER OFFLINE.
+Offset: 331, STORESTR , Operand: 2
+Offset: 332, GOTO , Operand: 138
+Offset: 333, PUSHS , Operand: LOGIN LIMIT EXCEEDED: TOO MANY CONNECTIONS FROM YOUR ADDRESS.
+Offset: 334, STORESTR , Operand: 2
+Offset: 335, GOTO , Operand: 135
+Offset: 336, PUSHS , Operand: UNABLE TO CONNECT: BAD SESSION ID.
+Offset: 337, STORESTR , Operand: 2
+Offset: 338, GOTO , Operand: 132
+Offset: 339, PUSHS , Operand: COULD NOT COMPLETE LOGIN. PLEASE TRY USING A DIFFERENT WORLD.
+Offset: 340, STORESTR , Operand: 2
+Offset: 341, GOTO , Operand: 129
+Offset: 342, PUSHS , Operand: TOO MANY INCORRECT LOGINS FROM YOUR ADDRESS. PLEASE WAIT 5 MINUTES BEFORE TRYING AGAIN.
+Offset: 343, STORESTR , Operand: 2
+Offset: 344, GOTO , Operand: 126
+Offset: 345, PUSHS , Operand: YOU ARE STANDING IN A MEMBERS-ONLY AREA. TO PLAY ON THIS WORLD, MOVE TO A FREE AREA FIRST.
+Offset: 346, STORESTR , Operand: 2
+Offset: 347, GOTO , Operand: 123
+Offset: 348, PUSHS , Operand: INVALID LOGINSERVER REQUESTED. PLEASE TRY USING A DIFFERENT WORLD.
+Offset: 349, STORESTR , Operand: 2
+Offset: 350, GOTO , Operand: 120
+Offset: 351, PUSHS , Operand: MALFORMED LOGIN PACKET. PLEASE TRY AGAIN.
+Offset: 352, STORESTR , Operand: 2
+Offset: 353, GOTO , Operand: 117
+Offset: 354, PUSHS , Operand: NO REPLY FROM LOGIN SERVER. PLEASE WAIT A MINUTE AND TRY AGAIN.
+Offset: 355, STORESTR , Operand: 2
+Offset: 356, GOTO , Operand: 114
+Offset: 357, PUSHS , Operand: ERROR LOADING YOUR PROFILE. PLEASE CONTACT CUSTOMER SUPPORT.
+Offset: 358, STORESTR , Operand: 2
+Offset: 359, GOTO , Operand: 111
+Offset: 360, PUSHS , Operand: UNEXPECTED LOGINSERVER RESPONSE. PLEASE TRY USING A DIFFERENT WORLD.
+Offset: 361, STORESTR , Operand: 2
+Offset: 362, GOTO , Operand: 108
+Offset: 363, PUSHS , Operand: THIS COMPUTER'S ADDRESS HAS BEEN BLOCKED AS IT WAS USED TO BREAK OUR RULES.
+Offset: 364, STORESTR , Operand: 2
+Offset: 365, GOTO , Operand: 105
+Offset: 366, PUSHS , Operand: SERVICE UNAVAILABLE.
+Offset: 367, STORESTR , Operand: 2
+Offset: 368, GOTO , Operand: 102
+Offset: 369, PUSHS , Operand: YOUR SESSION HAS EXPIRED, PLEASE GO BACK IN YOUR BROWSER TO RENEW IT.
+Offset: 370, STORESTR , Operand: 2
+Offset: 371, PUSHS , Operand: CLOSE
+Offset: 372, STORESTR , Operand: 4
+Offset: 373, GOTO , Operand: 97
+Offset: 374, PUSHI , Operand: 0
+Offset: 375, STOREINT , Operand: 6
+Offset: 376, PUSHI , Operand: 2610
+Offset: 377, STOREINT , Operand: 8
+Offset: 378, PUSHS , Operand: THE SERVER IS BEING UPDATED. PLEASE WAIT A FEW MINUTES AND TRY AGAIN.
+Offset: 379, STORESTR , Operand: 2
+Offset: 380, GOTO , Operand: 90
+Offset: 381, PUSHI , Operand: 0
+Offset: 382, STOREINT , Operand: 6
+Offset: 383, PUSHI , Operand: 2610
+Offset: 384, STOREINT , Operand: 8
+Offset: 385, PUSHS , Operand: RUNESCAPE HAS BEEN UPDATED! PLEASE RELOAD THIS PAGE.
+Offset: 386, STORESTR , Operand: 2
+Offset: 387, GOTO , Operand: 83
+Offset: 388, PUSHI , Operand: 0
+Offset: 389, STOREINT , Operand: 6
+Offset: 390, PUSHI , Operand: 2609
+Offset: 391, STOREINT , Operand: 8
+Offset: 392, PUSHS , Operand: YOUR DEMO ACCOUNT IS AWAITING TRANSFER. PLEASE TRY AGAIN IN A MOMENT.
+Offset: 393, STORESTR , Operand: 2
+Offset: 394, GOTO , Operand: 76
+Offset: 395, PUSHS , Operand: INVALID USERNAME OR PASSWORD.
+Offset: 396, STORESTR , Operand: 2
+Offset: 397, PUSHS , Operand: TRY AGAIN
+Offset: 398, STORESTR , Operand: 4
+Offset: 399, PUSHI , Operand: 1
+Offset: 400, STOREINT , Operand: 9
+Offset: 401, PUSHS , Operand: FORGOTTEN YOUR PASSWORD?
+Offset: 402, STORESTR , Operand: 3
+Offset: 403, GOTO , Operand: 67
+Offset: 404, PUSHS , Operand: YOUR ACCOUNT HAS BEEN DISABLED. CHECK YOUR MESSAGE CENTRE FOR DETAILS.
+Offset: 405, STORESTR , Operand: 2
+Offset: 406, PUSHI , Operand: 1
+Offset: 407, STOREINT , Operand: 9
+Offset: 408, PUSHS , Operand: MESSAGE CENTRE
+Offset: 409, STORESTR , Operand: 3
+Offset: 410, GOTO , Operand: 60
+Offset: 411, PUSHS , Operand: YOUR PASSWORD IS AN EXTREMELY COMMON CHOICE, AND IS VERY WEAK. YOU MUST CHANGE IT BEFORE YOU CAN LOGIN.
+Offset: 412, STORESTR , Operand: 2
+Offset: 413, PUSHI , Operand: 1
+Offset: 414, STOREINT , Operand: 9
+Offset: 415, PUSHS , Operand: CHANGE PASSWORD
+Offset: 416, STORESTR , Operand: 3
+Offset: 417, GOTO , Operand: 53
+Offset: 418, PUSHI , Operand: 2612
+Offset: 419, STOREINT , Operand: 8
+Offset: 420, PUSHS , Operand: YOUR ACCOUNT HAS BEEN LOCKED AS WE SUSPECT IT HAS BEEN STOLEN.
+Offset: 421, STORESTR , Operand: 2
+Offset: 422, PUSHI , Operand: 1
+Offset: 423, STOREINT , Operand: 9
+Offset: 424, PUSHS , Operand: RECOVER ACCOUNT
+Offset: 425, STORESTR , Operand: 3
+Offset: 426, GOTO , Operand: 44
+Offset: 427, PUSHS , Operand: THIS IS NOT A MEMBERS' ACCOUNT; PLEASE CHOOSE A 'FREE' WORLD FROM THE WEBSITE TO PLAY ON THIS ACCOUNT.
+Offset: 428, STORESTR , Operand: 2
+Offset: 429, PUSHI , Operand: 1
+Offset: 430, STOREINT , Operand: 9
+Offset: 431, Unref Method: 5420, Operand: 0
+Offset: 432, PUSHI , Operand: 1
+Offset: 433, IFEQ , Operand: 1
+Offset: 434, GOTO , Operand: 3
+Offset: 435, PUSHS , Operand: CHOOSE WORLD
+Offset: 436, STORESTR , Operand: 3
+Offset: 437, GOTO , Operand: 2
+Offset: 438, PUSHS , Operand: SUBSCRIBE
+Offset: 439, STORESTR , Operand: 3
+Offset: 440, GOTO , Operand: 30
+Offset: 441, PUSHS , Operand: YOU MUST CHANGE YOUR ACCOUNT'S DISPLAY NAME BEFORE YOU CAN LOGIN
+Offset: 442, STORESTR , Operand: 2
+Offset: 443, PUSHI , Operand: 1
+Offset: 444, STOREINT , Operand: 9
+Offset: 445, PUSHS , Operand: CHANGE DISPLAY NAME
+Offset: 446, STORESTR , Operand: 3
+Offset: 447, GOTO , Operand: 23
+Offset: 448, PUSHS , Operand: FULLSCREEN IS CURRENTLY A MEMBERS-ONLY FEATURE. TO LOG IN, EITHER EXIT FULLSCREEN VIA THE OPTIONS MENU OR USE A MEMBERS' ACCOUNT.
+Offset: 449, STORESTR , Operand: 2
+Offset: 450, PUSHI , Operand: 1
+Offset: 451, STOREINT , Operand: 9
+Offset: 452, PUSHS , Operand: SUBSCRIBE
+Offset: 453, STORESTR , Operand: 3
+Offset: 454, GOTO , Operand: 16
+Offset: 455, PUSHS , Operand: YOU NEED A MEMBERS' ACCOUNT TO LOG IN TO THIS WORLD. PLEASE SUBSCRIBE OR USE A DIFFERENT WORLD.
+Offset: 456, STORESTR , Operand: 2
+Offset: 457, PUSHI , Operand: 1
+Offset: 458, STOREINT , Operand: 9
+Offset: 459, PUSHS , Operand: SUBSCRIBE
+Offset: 460, STORESTR , Operand: 3
+Offset: 461, GOTO , Operand: 9
+Offset: 462, PUSHS , Operand: YOUR ACCOUNT HAS NEGATIVE MEMBERSHIP CREDIT. PLEASE LOG INTO THE BILLING SYSTEM TO ADD CREDIT TO YOUR ACCOUNT.
+Offset: 463, STORESTR , Operand: 2
+Offset: 464, PUSHI , Operand: 1
+Offset: 465, STOREINT , Operand: 9
+Offset: 466, PUSHS , Operand: ADD CREDIT
+Offset: 467, STORESTR , Operand: 3
+Offset: 468, GOTO , Operand: 2
+Offset: 469, PUSHS , Operand: UNEXPECTED SERVER RESPONSE. PLEASE TRY USING A DIFFERENT WORLD.
+Offset: 470, STORESTR , Operand: 2
+Offset: 471, LOADINT , Operand: 0
+Offset: 472, LOADINT , Operand: 6
+Offset: 473, LOADSTR , Operand: 2
+Offset: 474, LOADINT , Operand: 7
+Offset: 475, LOADINT , Operand: 8
+Offset: 476, LOADINT , Operand: 9
+Offset: 477, LOADINT , Operand: 10
+Offset: 478, LOADSTR , Operand: 3
+Offset: 479, LOADINT , Operand: 11
+Offset: 480, LOADSTR , Operand: 4
+Offset: 481, CALL , Operand: 2950
+Offset: 482, Unref Method: 5602, Operand: 0
+Offset: 483, RETURN , Operand: 0
+
+================================================
+                Switch Table 0                
+================================================
+
+Key: 3, Value: 130
+Key: 4, Value: 139
+Key: 5, Value: 59
+Key: 6, Value: 116
+Key: 7, Value: 62
+Key: 8, Value: 65
+Key: 9, Value: 68
+Key: 10, Value: 71
+Key: 11, Value: 146
+Key: 12, Value: 190
+Key: 13, Value: 74
+Key: 14, Value: 109
+Key: 17, Value: 80
+Key: 16, Value: 77
+Key: 19, Value: 183
+Key: 18, Value: 153
+Key: 20, Value: 83
+Key: 23, Value: 89
+Key: 22, Value: 86
+Key: 25, Value: 95
+Key: 24, Value: 92
+Key: 27, Value: 101
+Key: 26, Value: 98
+Key: -5, Value: 50
+Key: -4, Value: 53
+Key: 29, Value: 26
+Key: 31, Value: 176
+Key: -2, Value: 1
+Key: 30, Value: 162
+Key: -1, Value: 56
+Key: 35, Value: 104
+Key: 32, Value: 197
+Key: 33, Value: 123
+
+================================================
+                Switch Table 1                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 4
+Key: 2, Value: 7
+Key: 3, Value: 10
+Key: 4, Value: 16
+Key: 5, Value: 13

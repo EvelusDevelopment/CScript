@@ -1,0 +1,49 @@
+================================================
+      Client Script 1631 Dumped by SiniSoul    
+      Instruction Size: 31
+      Integer Arguments: 0 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADGINT , Operand: 1033
+Offset: 1, PUSHI , Operand: 0
+Offset: 2, Unref Method: 5407, Operand: 0
+Offset: 3, IFLTEQ , Operand: 1
+Offset: 4, GOTO , Operand: 23
+Offset: 5, LOADGINT , Operand: 1033
+Offset: 6, PUSHI , Operand: 1
+Offset: 7, IADD , Operand: 0
+Offset: 8, STOREGINT , Operand: 1033
+Offset: 9, LOADGINT , Operand: 1033
+Offset: 10, SWITCH , Operand: 0
+Offset: 11, PUSHI , Operand: -1
+Offset: 12, PUSHS , Operand: 
+Offset: 13, PUSHI , Operand: 4915200
+Offset: 14, setInterfaceDefinitionScriptParams26 , Operand: 0
+Offset: 15, GOTO , Operand: 11
+Offset: 16, PUSHI , Operand: 1631
+Offset: 17, PUSHS , Operand: 
+Offset: 18, PUSHI , Operand: 4915200
+Offset: 19, setInterfaceDefinitionScriptParams26 , Operand: 0
+Offset: 20, PUSHI , Operand: 0
+Offset: 21, LOADGINT , Operand: 1033
+Offset: 22, PUSHI , Operand: 200
+Offset: 23, PUSHI , Operand: 200
+Offset: 24, PUSHI , Operand: 1
+Offset: 25, LOADGINT , Operand: 1033
+Offset: 26, Unref Method: 5502, Operand: 0
+Offset: 27, GOTO , Operand: 2
+Offset: 28, PUSHI , Operand: 0
+Offset: 29, STOREGINT , Operand: 1033
+Offset: 30, RETURN , Operand: 0
+
+================================================
+                Switch Table 0                
+================================================
+
+Key: 4, Value: 5
+Key: 2, Value: 5

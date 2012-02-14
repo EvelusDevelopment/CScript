@@ -1,0 +1,87 @@
+================================================
+      Client Script 742 Dumped by SiniSoul    
+      Instruction Size: 76
+      Integer Arguments: 4 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, Unref Opcode: 1, Operand: 1164
+Offset: 1, STOREINT , Operand: 0
+Offset: 2, PUSHI , Operand: 0
+Offset: 3, STOREINT , Operand: 1
+Offset: 4, LOADINT , Operand: 0
+Offset: 5, PUSHI , Operand: 0
+Offset: 6, IFEQ , Operand: 1
+Offset: 7, GOTO , Operand: 1
+Offset: 8, RETURN , Operand: 0
+Offset: 9, LOADINT , Operand: 0
+Offset: 10, PUSHI , Operand: 10
+Offset: 11, IFEQ , Operand: 1
+Offset: 12, GOTO , Operand: 27
+Offset: 13, LOADGINT , Operand: 105
+Offset: 14, PUSHI , Operand: 1
+Offset: 15, ISUB , Operand: 0
+Offset: 16, STOREGINT , Operand: 105
+Offset: 17, Unref Opcode: 25, Operand: 4228
+Offset: 18, LOADGINT , Operand: 105
+Offset: 19, IFNE , Operand: 1
+Offset: 20, GOTO , Operand: 10
+Offset: 21, Unref Opcode: 25, Operand: 4228
+Offset: 22, LOADGINT , Operand: 105
+Offset: 23, IFGT , Operand: 1
+Offset: 24, GOTO , Operand: 4
+Offset: 25, PUSHI , Operand: 1
+Offset: 26, STOREINT , Operand: 1
+Offset: 27, PUSHS , Operand: Part of the mechanism jams due to your frenzied manipulation.
+Offset: 28, Unref Method: 3100, Operand: 0
+Offset: 29, Unref Opcode: 25, Operand: 4228
+Offset: 30, STOREGINT , Operand: 105
+Offset: 31, LOADGINT , Operand: 105
+Offset: 32, PUSHI , Operand: 0
+Offset: 33, IFEQ , Operand: 1
+Offset: 34, GOTO , Operand: 3
+Offset: 35, PUSHS , Operand: The mechanism issues forth a whine and shuts down.
+Offset: 36, Unref Method: 3100, Operand: 0
+Offset: 37, CALL , Operand: 675
+Offset: 38, CALL , Operand: 738
+Offset: 39, RETURN , Operand: 0
+Offset: 40, LOADINT , Operand: 0
+Offset: 41, PUSHI , Operand: 1
+Offset: 42, ISUB , Operand: 0
+Offset: 43, STOREINT , Operand: 0
+Offset: 44, LOADGINT , Operand: 106
+Offset: 45, LOADINT , Operand: 0
+Offset: 46, isBitToggled , Operand: 0
+Offset: 47, PUSHI , Operand: 1
+Offset: 48, IFEQ , Operand: 1
+Offset: 49, GOTO , Operand: 1
+Offset: 50, RETURN , Operand: 0
+Offset: 51, LOADGINT , Operand: 106
+Offset: 52, LOADINT , Operand: 0
+Offset: 53, toggleBit , Operand: 0
+Offset: 54, STOREGINT , Operand: 106
+Offset: 55, LOADGINT , Operand: 105
+Offset: 56, PUSHI , Operand: 5
+Offset: 57, IADD , Operand: 0
+Offset: 58, STOREGINT , Operand: 105
+Offset: 59, CALL , Operand: 738
+Offset: 60, PUSHI , Operand: 105
+Offset: 61, PUSHI , Operand: 109
+Offset: 62, PUSHI , Operand: 1155
+Offset: 63, LOADINT , Operand: 0
+Offset: 64, Unref Method: 3408, Operand: 0
+Offset: 65, STOREINT , Operand: 2
+Offset: 66, PUSHI , Operand: 105
+Offset: 67, PUSHI , Operand: 73
+Offset: 68, PUSHI , Operand: 1154
+Offset: 69, LOADINT , Operand: 0
+Offset: 70, Unref Method: 3408, Operand: 0
+Offset: 71, STOREINT , Operand: 3
+Offset: 72, LOADINT , Operand: 2
+Offset: 73, LOADINT , Operand: 3
+Offset: 74, Unref Method: 2108, Operand: 0
+Offset: 75, RETURN , Operand: 0

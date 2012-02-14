@@ -1,0 +1,24 @@
+================================================
+      Client Script 1940 Dumped by SiniSoul    
+      Instruction Size: 13
+      Integer Arguments: 1 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, Unref Method: 3300, Operand: 0
+Offset: 1, LOADGINT , Operand: 557
+Offset: 2, PUSHI , Operand: 3000
+Offset: 3, IMUL , Operand: 0
+Offset: 4, IADD , Operand: 0
+Offset: 5, STOREINT , Operand: 0
+Offset: 6, LOADINT , Operand: 0
+Offset: 7, LOADGINT , Operand: 556
+Offset: 8, IFLT , Operand: 1
+Offset: 9, GOTO , Operand: 2
+Offset: 10, LOADINT , Operand: 0
+Offset: 11, STOREGINT , Operand: 556
+Offset: 12, RETURN , Operand: 0

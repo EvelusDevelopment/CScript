@@ -1,0 +1,136 @@
+================================================
+      Client Script 942 Dumped by SiniSoul    
+      Instruction Size: 111
+      Integer Arguments: 1 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, Unref Opcode: 1, Operand: 1469
+Offset: 1, PUSHI , Operand: 105
+Offset: 2, PUSHI , Operand: 99
+Offset: 3, PUSHI , Operand: 2536
+Offset: 4, LOADINT , Operand: 0
+Offset: 5, Unref Method: 3408, Operand: 0
+Offset: 6, IFEQ , Operand: 1
+Offset: 7, GOTO , Operand: 3
+Offset: 8, PUSHI , Operand: 0
+Offset: 9, PUSHS , Operand: null
+Offset: 10, RETURN , Operand: 0
+Offset: 11, LOADINT , Operand: 0
+Offset: 12, SWITCH , Operand: 0
+Offset: 13, GOTO , Operand: 88
+Offset: 14, PUSHI , Operand: 1
+Offset: 15, PUSHI , Operand: 105
+Offset: 16, PUSHI , Operand: 115
+Offset: 17, PUSHI , Operand: 2535
+Offset: 18, PUSHI , Operand: 0
+Offset: 19, Unref Method: 3408, Operand: 0
+Offset: 20, RETURN , Operand: 0
+Offset: 21, GOTO , Operand: 83
+Offset: 22, PUSHI , Operand: 1
+Offset: 23, PUSHI , Operand: 105
+Offset: 24, PUSHI , Operand: 115
+Offset: 25, PUSHI , Operand: 2535
+Offset: 26, PUSHI , Operand: 1
+Offset: 27, Unref Method: 3408, Operand: 0
+Offset: 28, RETURN , Operand: 0
+Offset: 29, GOTO , Operand: 75
+Offset: 30, PUSHI , Operand: 1
+Offset: 31, PUSHI , Operand: 105
+Offset: 32, PUSHI , Operand: 115
+Offset: 33, PUSHI , Operand: 2535
+Offset: 34, PUSHI , Operand: 2
+Offset: 35, Unref Method: 3408, Operand: 0
+Offset: 36, RETURN , Operand: 0
+Offset: 37, GOTO , Operand: 67
+Offset: 38, PUSHI , Operand: 1
+Offset: 39, PUSHI , Operand: 105
+Offset: 40, PUSHI , Operand: 115
+Offset: 41, PUSHI , Operand: 2535
+Offset: 42, PUSHI , Operand: 3
+Offset: 43, Unref Method: 3408, Operand: 0
+Offset: 44, RETURN , Operand: 0
+Offset: 45, GOTO , Operand: 59
+Offset: 46, PUSHI , Operand: 1
+Offset: 47, PUSHI , Operand: 105
+Offset: 48, PUSHI , Operand: 115
+Offset: 49, PUSHI , Operand: 2535
+Offset: 50, PUSHI , Operand: 4
+Offset: 51, Unref Method: 3408, Operand: 0
+Offset: 52, RETURN , Operand: 0
+Offset: 53, GOTO , Operand: 51
+Offset: 54, Unref Opcode: 25, Operand: 720
+Offset: 55, PUSHI , Operand: 20
+Offset: 56, IFEQ , Operand: 1
+Offset: 57, GOTO , Operand: 7
+Offset: 58, PUSHI , Operand: 1
+Offset: 59, PUSHI , Operand: 105
+Offset: 60, PUSHI , Operand: 115
+Offset: 61, PUSHI , Operand: 2535
+Offset: 62, PUSHI , Operand: 5
+Offset: 63, Unref Method: 3408, Operand: 0
+Offset: 64, RETURN , Operand: 0
+Offset: 65, GOTO , Operand: 39
+Offset: 66, Unref Opcode: 25, Operand: 722
+Offset: 67, PUSHI , Operand: 20
+Offset: 68, IFEQ , Operand: 1
+Offset: 69, GOTO , Operand: 7
+Offset: 70, PUSHI , Operand: 1
+Offset: 71, PUSHI , Operand: 105
+Offset: 72, PUSHI , Operand: 115
+Offset: 73, PUSHI , Operand: 2535
+Offset: 74, PUSHI , Operand: 6
+Offset: 75, Unref Method: 3408, Operand: 0
+Offset: 76, RETURN , Operand: 0
+Offset: 77, GOTO , Operand: 27
+Offset: 78, Unref Opcode: 25, Operand: 724
+Offset: 79, PUSHI , Operand: 20
+Offset: 80, IFEQ , Operand: 1
+Offset: 81, GOTO , Operand: 7
+Offset: 82, PUSHI , Operand: 1
+Offset: 83, PUSHI , Operand: 105
+Offset: 84, PUSHI , Operand: 115
+Offset: 85, PUSHI , Operand: 2535
+Offset: 86, PUSHI , Operand: 7
+Offset: 87, Unref Method: 3408, Operand: 0
+Offset: 88, RETURN , Operand: 0
+Offset: 89, GOTO , Operand: 15
+Offset: 90, Unref Opcode: 25, Operand: 3959
+Offset: 91, PUSHI , Operand: 3
+Offset: 92, IFGTEQ , Operand: 1
+Offset: 93, GOTO , Operand: 7
+Offset: 94, PUSHI , Operand: 1
+Offset: 95, PUSHI , Operand: 105
+Offset: 96, PUSHI , Operand: 115
+Offset: 97, PUSHI , Operand: 2535
+Offset: 98, PUSHI , Operand: 8
+Offset: 99, Unref Method: 3408, Operand: 0
+Offset: 100, RETURN , Operand: 0
+Offset: 101, GOTO , Operand: 3
+Offset: 102, PUSHI , Operand: -1
+Offset: 103, PUSHS , Operand: null
+Offset: 104, RETURN , Operand: 0
+Offset: 105, PUSHI , Operand: 0
+Offset: 106, PUSHS , Operand: null
+Offset: 107, RETURN , Operand: 0
+Offset: 108, PUSHI , Operand: 0
+Offset: 109, PUSHS , Operand: 
+Offset: 110, RETURN , Operand: 0
+
+================================================
+                Switch Table 0                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 9
+Key: 2, Value: 17
+Key: 3, Value: 25
+Key: 4, Value: 33
+Key: 5, Value: 41
+Key: 6, Value: 53
+Key: 7, Value: 65
+Key: 8, Value: 77

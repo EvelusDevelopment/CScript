@@ -1,0 +1,95 @@
+================================================
+      Client Script 1477 Dumped by SiniSoul    
+      Instruction Size: 84
+      Integer Arguments: 0 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, Unref Opcode: 25, Operand: 5007
+Offset: 1, PUSHI , Operand: 0
+Offset: 2, IFEQ , Operand: 1
+Offset: 3, GOTO , Operand: 4
+Offset: 4, PUSHS , Operand: Quick task:
+Offset: 5, PUSHI , Operand: 50200612
+Offset: 6, Unref Method: 2112, Operand: 0
+Offset: 7, GOTO , Operand: 3
+Offset: 8, PUSHS , Operand: Large task:
+Offset: 9, PUSHI , Operand: 50200612
+Offset: 10, Unref Method: 2112, Operand: 0
+Offset: 11, Unref Opcode: 25, Operand: 4216
+Offset: 12, integerToString , Operand: 0
+Offset: 13, PUSHI , Operand: 50200676
+Offset: 14, Unref Method: 2112, Operand: 0
+Offset: 15, Unref Opcode: 25, Operand: 4208
+Offset: 16, PUSHI , Operand: 1
+Offset: 17, IADD , Operand: 0
+Offset: 18, PUSHI , Operand: 5
+Offset: 19, IMUL , Operand: 0
+Offset: 20, integerToString , Operand: 0
+Offset: 21, PUSHI , Operand: 50200678
+Offset: 22, Unref Method: 2112, Operand: 0
+Offset: 23, Unref Opcode: 25, Operand: 4217
+Offset: 24, integerToString , Operand: 0
+Offset: 25, PUSHI , Operand: 50200667
+Offset: 26, Unref Method: 2112, Operand: 0
+Offset: 27, Unref Opcode: 25, Operand: 4209
+Offset: 28, PUSHI , Operand: 1
+Offset: 29, IADD , Operand: 0
+Offset: 30, PUSHI , Operand: 5
+Offset: 31, IMUL , Operand: 0
+Offset: 32, integerToString , Operand: 0
+Offset: 33, PUSHI , Operand: 50200669
+Offset: 34, Unref Method: 2112, Operand: 0
+Offset: 35, Unref Opcode: 25, Operand: 4218
+Offset: 36, integerToString , Operand: 0
+Offset: 37, PUSHI , Operand: 50200657
+Offset: 38, Unref Method: 2112, Operand: 0
+Offset: 39, Unref Opcode: 25, Operand: 4210
+Offset: 40, PUSHI , Operand: 1
+Offset: 41, IADD , Operand: 0
+Offset: 42, PUSHI , Operand: 5
+Offset: 43, IMUL , Operand: 0
+Offset: 44, integerToString , Operand: 0
+Offset: 45, PUSHI , Operand: 50200659
+Offset: 46, Unref Method: 2112, Operand: 0
+Offset: 47, Unref Opcode: 25, Operand: 4219
+Offset: 48, integerToString , Operand: 0
+Offset: 49, PUSHI , Operand: 50200647
+Offset: 50, Unref Method: 2112, Operand: 0
+Offset: 51, Unref Opcode: 25, Operand: 4211
+Offset: 52, PUSHI , Operand: 1
+Offset: 53, IADD , Operand: 0
+Offset: 54, PUSHI , Operand: 5
+Offset: 55, IMUL , Operand: 0
+Offset: 56, integerToString , Operand: 0
+Offset: 57, PUSHI , Operand: 50200649
+Offset: 58, Unref Method: 2112, Operand: 0
+Offset: 59, Unref Opcode: 25, Operand: 4220
+Offset: 60, integerToString , Operand: 0
+Offset: 61, PUSHI , Operand: 50200637
+Offset: 62, Unref Method: 2112, Operand: 0
+Offset: 63, Unref Opcode: 25, Operand: 4212
+Offset: 64, PUSHI , Operand: 1
+Offset: 65, IADD , Operand: 0
+Offset: 66, PUSHI , Operand: 5
+Offset: 67, IMUL , Operand: 0
+Offset: 68, integerToString , Operand: 0
+Offset: 69, PUSHI , Operand: 50200639
+Offset: 70, Unref Method: 2112, Operand: 0
+Offset: 71, Unref Opcode: 25, Operand: 5008
+Offset: 72, integerToString , Operand: 0
+Offset: 73, PUSHI , Operand: 50200627
+Offset: 74, Unref Method: 2112, Operand: 0
+Offset: 75, Unref Opcode: 25, Operand: 4213
+Offset: 76, PUSHI , Operand: 1
+Offset: 77, IADD , Operand: 0
+Offset: 78, PUSHI , Operand: 5
+Offset: 79, IMUL , Operand: 0
+Offset: 80, integerToString , Operand: 0
+Offset: 81, PUSHI , Operand: 50200629
+Offset: 82, Unref Method: 2112, Operand: 0
+Offset: 83, RETURN , Operand: 0

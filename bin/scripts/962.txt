@@ -1,0 +1,101 @@
+================================================
+      Client Script 962 Dumped by SiniSoul    
+      Instruction Size: 66
+      Integer Arguments: 1 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHI , Operand: 1
+Offset: 1, STOREGINT , Operand: 157
+Offset: 2, LOADGINT , Operand: 125
+Offset: 3, Unref Method: 3300, Operand: 0
+Offset: 4, PUSHI , Operand: 5
+Offset: 5, ISUB , Operand: 0
+Offset: 6, IFGTEQ , Operand: 1
+Offset: 7, GOTO , Operand: 1
+Offset: 8, RETURN , Operand: 0
+Offset: 9, LOADINT , Operand: 0
+Offset: 10, PUSHI , Operand: 48103425
+Offset: 11, IFEQ , Operand: 1
+Offset: 12, GOTO , Operand: 15
+Offset: 13, LOADGINT , Operand: 122
+Offset: 14, SWITCH , Operand: 0
+Offset: 15, GOTO , Operand: 9
+Offset: 16, PUSHI , Operand: 1536
+Offset: 17, STOREGINT , Operand: 122
+Offset: 18, GOTO , Operand: 8
+Offset: 19, PUSHI , Operand: 0
+Offset: 20, STOREGINT , Operand: 122
+Offset: 21, GOTO , Operand: 5
+Offset: 22, PUSHI , Operand: 1024
+Offset: 23, STOREGINT , Operand: 122
+Offset: 24, GOTO , Operand: 2
+Offset: 25, PUSHI , Operand: 512
+Offset: 26, STOREGINT , Operand: 122
+Offset: 27, GOTO , Operand: 37
+Offset: 28, LOADINT , Operand: 0
+Offset: 29, PUSHI , Operand: 48103430
+Offset: 30, IFEQ , Operand: 1
+Offset: 31, GOTO , Operand: 15
+Offset: 32, LOADGINT , Operand: 123
+Offset: 33, SWITCH , Operand: 1
+Offset: 34, GOTO , Operand: 9
+Offset: 35, PUSHI , Operand: 1536
+Offset: 36, STOREGINT , Operand: 123
+Offset: 37, GOTO , Operand: 8
+Offset: 38, PUSHI , Operand: 0
+Offset: 39, STOREGINT , Operand: 123
+Offset: 40, GOTO , Operand: 5
+Offset: 41, PUSHI , Operand: 1024
+Offset: 42, STOREGINT , Operand: 123
+Offset: 43, GOTO , Operand: 2
+Offset: 44, PUSHI , Operand: 512
+Offset: 45, STOREGINT , Operand: 123
+Offset: 46, GOTO , Operand: 18
+Offset: 47, LOADINT , Operand: 0
+Offset: 48, PUSHI , Operand: 48103435
+Offset: 49, IFEQ , Operand: 1
+Offset: 50, GOTO , Operand: 14
+Offset: 51, LOADGINT , Operand: 124
+Offset: 52, SWITCH , Operand: 2
+Offset: 53, GOTO , Operand: 9
+Offset: 54, PUSHI , Operand: 1536
+Offset: 55, STOREGINT , Operand: 124
+Offset: 56, GOTO , Operand: 8
+Offset: 57, PUSHI , Operand: 0
+Offset: 58, STOREGINT , Operand: 124
+Offset: 59, GOTO , Operand: 5
+Offset: 60, PUSHI , Operand: 1024
+Offset: 61, STOREGINT , Operand: 124
+Offset: 62, GOTO , Operand: 2
+Offset: 63, PUSHI , Operand: 512
+Offset: 64, STOREGINT , Operand: 124
+Offset: 65, RETURN , Operand: 0
+
+================================================
+                Switch Table 0                
+================================================
+
+Key: 1024, Value: 7
+Key: 512, Value: 4
+Key: 0, Value: 1
+
+================================================
+                Switch Table 1                
+================================================
+
+Key: 1024, Value: 7
+Key: 512, Value: 4
+Key: 0, Value: 1
+
+================================================
+                Switch Table 2                
+================================================
+
+Key: 1024, Value: 7
+Key: 512, Value: 4
+Key: 0, Value: 1

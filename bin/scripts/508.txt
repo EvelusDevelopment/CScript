@@ -1,0 +1,59 @@
+================================================
+      Client Script 508 Dumped by SiniSoul    
+      Instruction Size: 48
+      Integer Arguments: 0 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHI , Operand: 0
+Offset: 1, STOREGINT , Operand: 6
+Offset: 2, Unref Method: 3324, Operand: 0
+Offset: 3, PUSHI , Operand: 5
+Offset: 4, IFEQ , Operand: 4
+Offset: 5, Unref Method: 3324, Operand: 0
+Offset: 6, PUSHI , Operand: 6
+Offset: 7, IFEQ , Operand: 1
+Offset: 8, GOTO , Operand: 10
+Offset: 9, PUSHS , Operand: Suggest to mute this player for 48 hours
+Offset: 10, PUSHI , Operand: 38928467
+Offset: 11, Unref Method: 2112, Operand: 0
+Offset: 12, PUSHS , Operand: Suggest to mute this player for 48 hours
+Offset: 13, PUSHI , Operand: 38928394
+Offset: 14, Unref Method: 2112, Operand: 0
+Offset: 15, PUSHS , Operand: Suggest to mute this player for 48 hours
+Offset: 16, PUSHI , Operand: 38928444
+Offset: 17, Unref Method: 2112, Operand: 0
+Offset: 18, GOTO , Operand: 9
+Offset: 19, PUSHS , Operand: Mute this player for 48 hours
+Offset: 20, PUSHI , Operand: 38928467
+Offset: 21, Unref Method: 2112, Operand: 0
+Offset: 22, PUSHS , Operand: Mute this player for 48 hours
+Offset: 23, PUSHI , Operand: 38928394
+Offset: 24, Unref Method: 2112, Operand: 0
+Offset: 25, PUSHS , Operand: Mute this player for 48 hours
+Offset: 26, PUSHI , Operand: 38928444
+Offset: 27, Unref Method: 2112, Operand: 0
+Offset: 28, PUSHI , Operand: 1
+Offset: 29, STOREGINT , Operand: 11
+Offset: 30, Unref Method: 3335, Operand: 0
+Offset: 31, PUSHI , Operand: 1
+Offset: 32, IFNE , Operand: 1
+Offset: 33, GOTO , Operand: 3
+Offset: 34, CALL , Operand: 216
+Offset: 35, CALL , Operand: 246
+Offset: 36, RETURN , Operand: 0
+Offset: 37, PUSHI , Operand: 218
+Offset: 38, PUSHI , Operand: 24
+Offset: 39, PUSHI , Operand: 1
+Offset: 40, PUSHS , Operand: Y
+Offset: 41, PUSHI , Operand: 38928416
+Offset: 42, setInterfaceDefinitionScriptParams29 , Operand: 0
+Offset: 43, PUSHI , Operand: -1
+Offset: 44, STOREGINT , Operand: 792
+Offset: 45, CALL , Operand: 224
+Offset: 46, CALL , Operand: 216
+Offset: 47, RETURN , Operand: 0

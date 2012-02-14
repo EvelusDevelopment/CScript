@@ -1,0 +1,1412 @@
+================================================
+      Client Script 1014 Dumped by SiniSoul    
+      Instruction Size: 1218
+      Integer Arguments: 2 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADINT , Operand: 0
+Offset: 1, SWITCH , Operand: 0
+Offset: 2, GOTO , Operand: 1210
+Offset: 3, LOADINT , Operand: 1
+Offset: 4, SWITCH , Operand: 1
+Offset: 5, GOTO , Operand: 76
+Offset: 6, PUSHI , Operand: 1
+Offset: 7, PUSHI , Operand: 1942
+Offset: 8, PUSHS , Operand: Potato
+Offset: 9, PUSHS , Operand: You can now plant 
+Offset: 10, PUSHS , Operand: <col=000080>
+Offset: 11, PUSHS , Operand: potatoes
+Offset: 12, PUSHS , Operand: </col>
+Offset: 13, PUSHS , Operand: .
+Offset: 14, CONCAT , Operand: 5
+Offset: 15, RETURN , Operand: 0
+Offset: 16, GOTO , Operand: 65
+Offset: 17, PUSHI , Operand: 5
+Offset: 18, PUSHI , Operand: 1957
+Offset: 19, PUSHS , Operand: Onion
+Offset: 20, PUSHS , Operand: You can now plant 
+Offset: 21, PUSHS , Operand: <col=000080>
+Offset: 22, PUSHS , Operand: onions
+Offset: 23, PUSHS , Operand: </col>
+Offset: 24, PUSHS , Operand: .
+Offset: 25, CONCAT , Operand: 5
+Offset: 26, RETURN , Operand: 0
+Offset: 27, GOTO , Operand: 54
+Offset: 28, PUSHI , Operand: 7
+Offset: 29, PUSHI , Operand: 1965
+Offset: 30, PUSHS , Operand: Cabbage
+Offset: 31, PUSHS , Operand: You can now plant 
+Offset: 32, PUSHS , Operand: <col=000080>
+Offset: 33, PUSHS , Operand: cabbages
+Offset: 34, PUSHS , Operand: </col>
+Offset: 35, PUSHS , Operand: .
+Offset: 36, CONCAT , Operand: 5
+Offset: 37, RETURN , Operand: 0
+Offset: 38, GOTO , Operand: 43
+Offset: 39, PUSHI , Operand: 12
+Offset: 40, PUSHI , Operand: 1982
+Offset: 41, PUSHS , Operand: Tomato
+Offset: 42, PUSHS , Operand: You can now plant 
+Offset: 43, PUSHS , Operand: <col=000080>
+Offset: 44, PUSHS , Operand: tomatoes
+Offset: 45, PUSHS , Operand: </col>
+Offset: 46, PUSHS , Operand: .
+Offset: 47, CONCAT , Operand: 5
+Offset: 48, RETURN , Operand: 0
+Offset: 49, GOTO , Operand: 32
+Offset: 50, PUSHI , Operand: 20
+Offset: 51, PUSHI , Operand: 5986
+Offset: 52, PUSHS , Operand: Sweetcorn
+Offset: 53, PUSHS , Operand: You can now plant 
+Offset: 54, PUSHS , Operand: <col=000080>
+Offset: 55, PUSHS , Operand: sweetcorn
+Offset: 56, PUSHS , Operand: </col>
+Offset: 57, PUSHS , Operand: .
+Offset: 58, CONCAT , Operand: 5
+Offset: 59, RETURN , Operand: 0
+Offset: 60, GOTO , Operand: 21
+Offset: 61, PUSHI , Operand: 31
+Offset: 62, PUSHI , Operand: 5504
+Offset: 63, PUSHS , Operand: Strawberry
+Offset: 64, PUSHS , Operand: You can now plant 
+Offset: 65, PUSHS , Operand: <col=000080>
+Offset: 66, PUSHS , Operand: strawberries
+Offset: 67, PUSHS , Operand: </col>
+Offset: 68, PUSHS , Operand: .
+Offset: 69, CONCAT , Operand: 5
+Offset: 70, RETURN , Operand: 0
+Offset: 71, GOTO , Operand: 10
+Offset: 72, PUSHI , Operand: 47
+Offset: 73, PUSHI , Operand: 5982
+Offset: 74, PUSHS , Operand: Watermelon
+Offset: 75, PUSHS , Operand: You can now plant 
+Offset: 76, PUSHS , Operand: <col=000080>
+Offset: 77, PUSHS , Operand: watermelons
+Offset: 78, PUSHS , Operand: </col>
+Offset: 79, PUSHS , Operand: .
+Offset: 80, CONCAT , Operand: 5
+Offset: 81, RETURN , Operand: 0
+Offset: 82, GOTO , Operand: 1130
+Offset: 83, LOADINT , Operand: 1
+Offset: 84, SWITCH , Operand: 2
+Offset: 85, GOTO , Operand: 76
+Offset: 86, PUSHI , Operand: 3
+Offset: 87, PUSHI , Operand: 6006
+Offset: 88, PUSHS , Operand: Barley
+Offset: 89, PUSHS , Operand: You can now plant 
+Offset: 90, PUSHS , Operand: <col=000080>
+Offset: 91, PUSHS , Operand: barley
+Offset: 92, PUSHS , Operand: </col>
+Offset: 93, PUSHS , Operand: .
+Offset: 94, CONCAT , Operand: 5
+Offset: 95, RETURN , Operand: 0
+Offset: 96, GOTO , Operand: 65
+Offset: 97, PUSHI , Operand: 4
+Offset: 98, PUSHI , Operand: 5994
+Offset: 99, PUSHS , Operand: Hammerstone hop
+Offset: 100, PUSHS , Operand: You can now plant 
+Offset: 101, PUSHS , Operand: <col=000080>
+Offset: 102, PUSHS , Operand: hammerstone hops
+Offset: 103, PUSHS , Operand: </col>
+Offset: 104, PUSHS , Operand: .
+Offset: 105, CONCAT , Operand: 5
+Offset: 106, RETURN , Operand: 0
+Offset: 107, GOTO , Operand: 54
+Offset: 108, PUSHI , Operand: 8
+Offset: 109, PUSHI , Operand: 5996
+Offset: 110, PUSHS , Operand: Asgarnian hop
+Offset: 111, PUSHS , Operand: You can now plant 
+Offset: 112, PUSHS , Operand: <col=000080>
+Offset: 113, PUSHS , Operand: Asgarnian hops
+Offset: 114, PUSHS , Operand: </col>
+Offset: 115, PUSHS , Operand: .
+Offset: 116, CONCAT , Operand: 5
+Offset: 117, RETURN , Operand: 0
+Offset: 118, GOTO , Operand: 43
+Offset: 119, PUSHI , Operand: 13
+Offset: 120, PUSHI , Operand: 5931
+Offset: 121, PUSHS , Operand: Jute plant
+Offset: 122, PUSHS , Operand: You can now plant 
+Offset: 123, PUSHS , Operand: <col=000080>
+Offset: 124, PUSHS , Operand: jute plants
+Offset: 125, PUSHS , Operand: </col>
+Offset: 126, PUSHS , Operand: .
+Offset: 127, CONCAT , Operand: 5
+Offset: 128, RETURN , Operand: 0
+Offset: 129, GOTO , Operand: 32
+Offset: 130, PUSHI , Operand: 16
+Offset: 131, PUSHI , Operand: 5998
+Offset: 132, PUSHS , Operand: Yanillian hop
+Offset: 133, PUSHS , Operand: You can now plant 
+Offset: 134, PUSHS , Operand: <col=000080>
+Offset: 135, PUSHS , Operand: Yanillian hops
+Offset: 136, PUSHS , Operand: </col>
+Offset: 137, PUSHS , Operand: .
+Offset: 138, CONCAT , Operand: 5
+Offset: 139, RETURN , Operand: 0
+Offset: 140, GOTO , Operand: 21
+Offset: 141, PUSHI , Operand: 21
+Offset: 142, PUSHI , Operand: 6000
+Offset: 143, PUSHS , Operand: Krandorian hop
+Offset: 144, PUSHS , Operand: You can now plant 
+Offset: 145, PUSHS , Operand: <col=000080>
+Offset: 146, PUSHS , Operand: Krandorian hops
+Offset: 147, PUSHS , Operand: </col>
+Offset: 148, PUSHS , Operand: .
+Offset: 149, CONCAT , Operand: 5
+Offset: 150, RETURN , Operand: 0
+Offset: 151, GOTO , Operand: 10
+Offset: 152, PUSHI , Operand: 28
+Offset: 153, PUSHI , Operand: 6002
+Offset: 154, PUSHS , Operand: Wildblood hop
+Offset: 155, PUSHS , Operand: You can now plant 
+Offset: 156, PUSHS , Operand: <col=000080>
+Offset: 157, PUSHS , Operand: wildblood hops
+Offset: 158, PUSHS , Operand: </col>
+Offset: 159, PUSHS , Operand: .
+Offset: 160, CONCAT , Operand: 5
+Offset: 161, RETURN , Operand: 0
+Offset: 162, GOTO , Operand: 1050
+Offset: 163, LOADINT , Operand: 1
+Offset: 164, SWITCH , Operand: 3
+Offset: 165, GOTO , Operand: 54
+Offset: 166, PUSHI , Operand: 15
+Offset: 167, PUSHI , Operand: 1521
+Offset: 168, PUSHS , Operand: Oak tree
+Offset: 169, PUSHS , Operand: You can now plant 
+Offset: 170, PUSHS , Operand: <col=000080>
+Offset: 171, PUSHS , Operand: oak trees
+Offset: 172, PUSHS , Operand: </col>
+Offset: 173, PUSHS , Operand: .
+Offset: 174, CONCAT , Operand: 5
+Offset: 175, RETURN , Operand: 0
+Offset: 176, GOTO , Operand: 43
+Offset: 177, PUSHI , Operand: 30
+Offset: 178, PUSHI , Operand: 1519
+Offset: 179, PUSHS , Operand: Willow tree
+Offset: 180, PUSHS , Operand: You can now plant 
+Offset: 181, PUSHS , Operand: <col=000080>
+Offset: 182, PUSHS , Operand: willow trees
+Offset: 183, PUSHS , Operand: </col>
+Offset: 184, PUSHS , Operand: .
+Offset: 185, CONCAT , Operand: 5
+Offset: 186, RETURN , Operand: 0
+Offset: 187, GOTO , Operand: 32
+Offset: 188, PUSHI , Operand: 45
+Offset: 189, PUSHI , Operand: 1517
+Offset: 190, PUSHS , Operand: Maple tree
+Offset: 191, PUSHS , Operand: You can now plant 
+Offset: 192, PUSHS , Operand: <col=000080>
+Offset: 193, PUSHS , Operand: maple trees
+Offset: 194, PUSHS , Operand: </col>
+Offset: 195, PUSHS , Operand: .
+Offset: 196, CONCAT , Operand: 5
+Offset: 197, RETURN , Operand: 0
+Offset: 198, GOTO , Operand: 21
+Offset: 199, PUSHI , Operand: 60
+Offset: 200, PUSHI , Operand: 1515
+Offset: 201, PUSHS , Operand: Yew tree
+Offset: 202, PUSHS , Operand: You can now plant 
+Offset: 203, PUSHS , Operand: <col=000080>
+Offset: 204, PUSHS , Operand: yew trees
+Offset: 205, PUSHS , Operand: </col>
+Offset: 206, PUSHS , Operand: .
+Offset: 207, CONCAT , Operand: 5
+Offset: 208, RETURN , Operand: 0
+Offset: 209, GOTO , Operand: 10
+Offset: 210, PUSHI , Operand: 75
+Offset: 211, PUSHI , Operand: 1513
+Offset: 212, PUSHS , Operand: Magic tree
+Offset: 213, PUSHS , Operand: You can now plant 
+Offset: 214, PUSHS , Operand: <col=000080>
+Offset: 215, PUSHS , Operand: magic trees
+Offset: 216, PUSHS , Operand: </col>
+Offset: 217, PUSHS , Operand: .
+Offset: 218, CONCAT , Operand: 5
+Offset: 219, RETURN , Operand: 0
+Offset: 220, GOTO , Operand: 992
+Offset: 221, LOADINT , Operand: 1
+Offset: 222, SWITCH , Operand: 4
+Offset: 223, GOTO , Operand: 76
+Offset: 224, PUSHI , Operand: 27
+Offset: 225, PUSHI , Operand: 1955
+Offset: 226, PUSHS , Operand: Apple tree
+Offset: 227, PUSHS , Operand: You can now plant 
+Offset: 228, PUSHS , Operand: <col=000080>
+Offset: 229, PUSHS , Operand: apple trees
+Offset: 230, PUSHS , Operand: </col>
+Offset: 231, PUSHS , Operand: .
+Offset: 232, CONCAT , Operand: 5
+Offset: 233, RETURN , Operand: 0
+Offset: 234, GOTO , Operand: 65
+Offset: 235, PUSHI , Operand: 33
+Offset: 236, PUSHI , Operand: 1963
+Offset: 237, PUSHS , Operand: Banana tree
+Offset: 238, PUSHS , Operand: You can now plant 
+Offset: 239, PUSHS , Operand: <col=000080>
+Offset: 240, PUSHS , Operand: banana trees
+Offset: 241, PUSHS , Operand: </col>
+Offset: 242, PUSHS , Operand: .
+Offset: 243, CONCAT , Operand: 5
+Offset: 244, RETURN , Operand: 0
+Offset: 245, GOTO , Operand: 54
+Offset: 246, PUSHI , Operand: 39
+Offset: 247, PUSHI , Operand: 2108
+Offset: 248, PUSHS , Operand: Orange tree
+Offset: 249, PUSHS , Operand: You can now plant 
+Offset: 250, PUSHS , Operand: <col=000080>
+Offset: 251, PUSHS , Operand: orange trees
+Offset: 252, PUSHS , Operand: </col>
+Offset: 253, PUSHS , Operand: .
+Offset: 254, CONCAT , Operand: 5
+Offset: 255, RETURN , Operand: 0
+Offset: 256, GOTO , Operand: 43
+Offset: 257, PUSHI , Operand: 42
+Offset: 258, PUSHI , Operand: 5970
+Offset: 259, PUSHS , Operand: Curry tree
+Offset: 260, PUSHS , Operand: You can now plant 
+Offset: 261, PUSHS , Operand: <col=000080>
+Offset: 262, PUSHS , Operand: curry trees
+Offset: 263, PUSHS , Operand: </col>
+Offset: 264, PUSHS , Operand: .
+Offset: 265, CONCAT , Operand: 5
+Offset: 266, RETURN , Operand: 0
+Offset: 267, GOTO , Operand: 32
+Offset: 268, PUSHI , Operand: 51
+Offset: 269, PUSHI , Operand: 2114
+Offset: 270, PUSHS , Operand: Pineapple plant
+Offset: 271, PUSHS , Operand: You can now plant 
+Offset: 272, PUSHS , Operand: <col=000080>
+Offset: 273, PUSHS , Operand: pineapple plants
+Offset: 274, PUSHS , Operand: </col>
+Offset: 275, PUSHS , Operand: .
+Offset: 276, CONCAT , Operand: 5
+Offset: 277, RETURN , Operand: 0
+Offset: 278, GOTO , Operand: 21
+Offset: 279, PUSHI , Operand: 57
+Offset: 280, PUSHI , Operand: 5972
+Offset: 281, PUSHS , Operand: Papaya tree
+Offset: 282, PUSHS , Operand: You can now plant 
+Offset: 283, PUSHS , Operand: <col=000080>
+Offset: 284, PUSHS , Operand: papaya trees
+Offset: 285, PUSHS , Operand: </col>
+Offset: 286, PUSHS , Operand: .
+Offset: 287, CONCAT , Operand: 5
+Offset: 288, RETURN , Operand: 0
+Offset: 289, GOTO , Operand: 10
+Offset: 290, PUSHI , Operand: 68
+Offset: 291, PUSHI , Operand: 5974
+Offset: 292, PUSHS , Operand: Palm tree
+Offset: 293, PUSHS , Operand: You can now plant 
+Offset: 294, PUSHS , Operand: <col=000080>
+Offset: 295, PUSHS , Operand: palm trees
+Offset: 296, PUSHS , Operand: </col>
+Offset: 297, PUSHS , Operand: .
+Offset: 298, CONCAT , Operand: 5
+Offset: 299, RETURN , Operand: 0
+Offset: 300, GOTO , Operand: 912
+Offset: 301, LOADINT , Operand: 1
+Offset: 302, SWITCH , Operand: 5
+Offset: 303, GOTO , Operand: 65
+Offset: 304, PUSHI , Operand: 10
+Offset: 305, PUSHI , Operand: 1951
+Offset: 306, PUSHS , Operand: Redberry bush
+Offset: 307, PUSHS , Operand: You can now plant 
+Offset: 308, PUSHS , Operand: <col=000080>
+Offset: 309, PUSHS , Operand: redberry bushes
+Offset: 310, PUSHS , Operand: </col>
+Offset: 311, PUSHS , Operand: .
+Offset: 312, CONCAT , Operand: 5
+Offset: 313, RETURN , Operand: 0
+Offset: 314, GOTO , Operand: 54
+Offset: 315, PUSHI , Operand: 22
+Offset: 316, PUSHI , Operand: 753
+Offset: 317, PUSHS , Operand: Cadavaberry bush
+Offset: 318, PUSHS , Operand: You can now plant 
+Offset: 319, PUSHS , Operand: <col=000080>
+Offset: 320, PUSHS , Operand: cadavaberry bushes
+Offset: 321, PUSHS , Operand: </col>
+Offset: 322, PUSHS , Operand: .
+Offset: 323, CONCAT , Operand: 5
+Offset: 324, RETURN , Operand: 0
+Offset: 325, GOTO , Operand: 43
+Offset: 326, PUSHI , Operand: 36
+Offset: 327, PUSHI , Operand: 2126
+Offset: 328, PUSHS , Operand: Dwellberry bush
+Offset: 329, PUSHS , Operand: You can now plant 
+Offset: 330, PUSHS , Operand: <col=000080>
+Offset: 331, PUSHS , Operand: dwellberry bushes
+Offset: 332, PUSHS , Operand: </col>
+Offset: 333, PUSHS , Operand: .
+Offset: 334, CONCAT , Operand: 5
+Offset: 335, RETURN , Operand: 0
+Offset: 336, GOTO , Operand: 32
+Offset: 337, PUSHI , Operand: 48
+Offset: 338, PUSHI , Operand: 247
+Offset: 339, PUSHS , Operand: Jangerberry bush
+Offset: 340, PUSHS , Operand: You can now plant 
+Offset: 341, PUSHS , Operand: <col=000080>
+Offset: 342, PUSHS , Operand: jangerberry bushes
+Offset: 343, PUSHS , Operand: </col>
+Offset: 344, PUSHS , Operand: .
+Offset: 345, CONCAT , Operand: 5
+Offset: 346, RETURN , Operand: 0
+Offset: 347, GOTO , Operand: 21
+Offset: 348, PUSHI , Operand: 59
+Offset: 349, PUSHI , Operand: 239
+Offset: 350, PUSHS , Operand: White berry bush
+Offset: 351, PUSHS , Operand: You can now plant 
+Offset: 352, PUSHS , Operand: <col=000080>
+Offset: 353, PUSHS , Operand: white berry bushes
+Offset: 354, PUSHS , Operand: </col>
+Offset: 355, PUSHS , Operand: .
+Offset: 356, CONCAT , Operand: 5
+Offset: 357, RETURN , Operand: 0
+Offset: 358, GOTO , Operand: 10
+Offset: 359, PUSHI , Operand: 70
+Offset: 360, PUSHI , Operand: 6018
+Offset: 361, PUSHS , Operand: Poison ivy bush
+Offset: 362, PUSHS , Operand: You can now plant 
+Offset: 363, PUSHS , Operand: <col=000080>
+Offset: 364, PUSHS , Operand: poison ivy bushes
+Offset: 365, PUSHS , Operand: </col>
+Offset: 366, PUSHS , Operand: .
+Offset: 367, CONCAT , Operand: 5
+Offset: 368, RETURN , Operand: 0
+Offset: 369, GOTO , Operand: 843
+Offset: 370, LOADINT , Operand: 1
+Offset: 371, SWITCH , Operand: 6
+Offset: 372, GOTO , Operand: 77
+Offset: 373, PUSHI , Operand: 2
+Offset: 374, PUSHI , Operand: 6010
+Offset: 375, PUSHS , Operand: Marigold
+Offset: 376, PUSHS , Operand: <br>
+Offset: 377, PUSHS , Operand:  Protects onions, tomatoes and potatoes from disease
+Offset: 378, CONCAT , Operand: 3
+Offset: 379, PUSHS , Operand: You can now 
+Offset: 380, PUSHS , Operand: <col=000080>
+Offset: 381, PUSHS , Operand: plant marigolds
+Offset: 382, PUSHS , Operand: </col>
+Offset: 383, PUSHS , Operand: .
+Offset: 384, CONCAT , Operand: 5
+Offset: 385, RETURN , Operand: 0
+Offset: 386, GOTO , Operand: 63
+Offset: 387, PUSHI , Operand: 11
+Offset: 388, PUSHI , Operand: 6014
+Offset: 389, PUSHS , Operand: Rosemary
+Offset: 390, PUSHS , Operand: <br>
+Offset: 391, PUSHS , Operand:  Protects cabbages from disease
+Offset: 392, CONCAT , Operand: 3
+Offset: 393, PUSHS , Operand: You can now plant 
+Offset: 394, PUSHS , Operand: <col=000080>
+Offset: 395, PUSHS , Operand: rosemary
+Offset: 396, PUSHS , Operand: </col>
+Offset: 397, PUSHS , Operand: .
+Offset: 398, CONCAT , Operand: 5
+Offset: 399, RETURN , Operand: 0
+Offset: 400, GOTO , Operand: 49
+Offset: 401, PUSHI , Operand: 24
+Offset: 402, PUSHI , Operand: 6012
+Offset: 403, PUSHS , Operand: Nasturtium
+Offset: 404, PUSHS , Operand: <br>
+Offset: 405, PUSHS , Operand:  Protects watermelons from disease
+Offset: 406, CONCAT , Operand: 3
+Offset: 407, PUSHS , Operand: You can now plant 
+Offset: 408, PUSHS , Operand: <col=000080>
+Offset: 409, PUSHS , Operand: nasturtiums
+Offset: 410, PUSHS , Operand: </col>
+Offset: 411, PUSHS , Operand: .
+Offset: 412, CONCAT , Operand: 5
+Offset: 413, RETURN , Operand: 0
+Offset: 414, GOTO , Operand: 35
+Offset: 415, PUSHI , Operand: 25
+Offset: 416, PUSHI , Operand: 5738
+Offset: 417, PUSHS , Operand: Woad
+Offset: 418, PUSHS , Operand: You can now plant 
+Offset: 419, PUSHS , Operand: <col=000080>
+Offset: 420, PUSHS , Operand: woad
+Offset: 421, PUSHS , Operand: </col>
+Offset: 422, PUSHS , Operand: .
+Offset: 423, CONCAT , Operand: 5
+Offset: 424, RETURN , Operand: 0
+Offset: 425, GOTO , Operand: 24
+Offset: 426, PUSHI , Operand: 26
+Offset: 427, PUSHI , Operand: 225
+Offset: 428, PUSHS , Operand: Limpwurt
+Offset: 429, PUSHS , Operand: You can now plant 
+Offset: 430, PUSHS , Operand: <col=000080>
+Offset: 431, PUSHS , Operand: limpwurt
+Offset: 432, PUSHS , Operand: </col>
+Offset: 433, PUSHS , Operand: .
+Offset: 434, CONCAT , Operand: 5
+Offset: 435, RETURN , Operand: 0
+Offset: 436, GOTO , Operand: 13
+Offset: 437, PUSHI , Operand: 52
+Offset: 438, PUSHI , Operand: 14583
+Offset: 439, PUSHS , Operand: White lily
+Offset: 440, PUSHS , Operand: <br>
+Offset: 441, PUSHS , Operand:  Protects all neighbouring fruit and vegetables from disease
+Offset: 442, CONCAT , Operand: 3
+Offset: 443, PUSHS , Operand: You can now plant 
+Offset: 444, PUSHS , Operand: <col=000080>
+Offset: 445, PUSHS , Operand: white lilies
+Offset: 446, PUSHS , Operand: </col>
+Offset: 447, PUSHS , Operand: .
+Offset: 448, CONCAT , Operand: 5
+Offset: 449, RETURN , Operand: 0
+Offset: 450, GOTO , Operand: 762
+Offset: 451, LOADINT , Operand: 1
+Offset: 452, SWITCH , Operand: 7
+Offset: 453, GOTO , Operand: 189
+Offset: 454, PUSHI , Operand: 9
+Offset: 455, PUSHI , Operand: 249
+Offset: 456, PUSHS , Operand: Guam
+Offset: 457, PUSHS , Operand: You can now plant 
+Offset: 458, PUSHS , Operand: <col=000080>
+Offset: 459, PUSHS , Operand: guam
+Offset: 460, PUSHS , Operand: </col>
+Offset: 461, PUSHS , Operand: .
+Offset: 462, CONCAT , Operand: 5
+Offset: 463, RETURN , Operand: 0
+Offset: 464, GOTO , Operand: 178
+Offset: 465, PUSHI , Operand: 14
+Offset: 466, PUSHI , Operand: 251
+Offset: 467, PUSHS , Operand: Marrentill
+Offset: 468, PUSHS , Operand: You can now plant 
+Offset: 469, PUSHS , Operand: <col=000080>
+Offset: 470, PUSHS , Operand: marrentill
+Offset: 471, PUSHS , Operand: </col>
+Offset: 472, PUSHS , Operand: .
+Offset: 473, CONCAT , Operand: 5
+Offset: 474, RETURN , Operand: 0
+Offset: 475, GOTO , Operand: 167
+Offset: 476, PUSHI , Operand: 19
+Offset: 477, PUSHI , Operand: 253
+Offset: 478, PUSHS , Operand: Tarromin
+Offset: 479, PUSHS , Operand: You can now plant 
+Offset: 480, PUSHS , Operand: <col=000080>
+Offset: 481, PUSHS , Operand: tarromin
+Offset: 482, PUSHS , Operand: </col>
+Offset: 483, PUSHS , Operand: .
+Offset: 484, CONCAT , Operand: 5
+Offset: 485, RETURN , Operand: 0
+Offset: 486, GOTO , Operand: 156
+Offset: 487, PUSHI , Operand: 26
+Offset: 488, PUSHI , Operand: 255
+Offset: 489, PUSHS , Operand: Harralander
+Offset: 490, PUSHS , Operand: You can now plant 
+Offset: 491, PUSHS , Operand: <col=000080>
+Offset: 492, PUSHS , Operand: harralander
+Offset: 493, PUSHS , Operand: </col>
+Offset: 494, PUSHS , Operand: .
+Offset: 495, CONCAT , Operand: 5
+Offset: 496, RETURN , Operand: 0
+Offset: 497, GOTO , Operand: 145
+Offset: 498, PUSHI , Operand: 29
+Offset: 499, PUSHI , Operand: 3261
+Offset: 500, PUSHS , Operand: Goutweed
+Offset: 501, PUSHS , Operand: <br>
+Offset: 502, PUSHS , Operand:  (after Eadgar's Ruse)
+Offset: 503, CONCAT , Operand: 3
+Offset: 504, PUSHS , Operand: You now have the Farming level required to plant 
+Offset: 505, PUSHS , Operand: <col=000080>
+Offset: 506, PUSHS , Operand: goutweed
+Offset: 507, PUSHS , Operand: </col>
+Offset: 508, PUSHS , Operand:  (after Eadgar's Ruse).
+Offset: 509, CONCAT , Operand: 5
+Offset: 510, RETURN , Operand: 0
+Offset: 511, GOTO , Operand: 131
+Offset: 512, PUSHI , Operand: 32
+Offset: 513, PUSHI , Operand: 257
+Offset: 514, PUSHS , Operand: Ranarr
+Offset: 515, PUSHS , Operand: You can now plant 
+Offset: 516, PUSHS , Operand: <col=000080>
+Offset: 517, PUSHS , Operand: ranarr
+Offset: 518, PUSHS , Operand: </col>
+Offset: 519, PUSHS , Operand: .
+Offset: 520, CONCAT , Operand: 5
+Offset: 521, RETURN , Operand: 0
+Offset: 522, GOTO , Operand: 120
+Offset: 523, PUSHI , Operand: 36
+Offset: 524, PUSHI , Operand: 12172
+Offset: 525, PUSHS , Operand: Spirit weed
+Offset: 526, PUSHS , Operand: You can now plant 
+Offset: 527, PUSHS , Operand: <col=000080>
+Offset: 528, PUSHS , Operand: spirit weed
+Offset: 529, PUSHS , Operand: </col>
+Offset: 530, PUSHS , Operand: .
+Offset: 531, CONCAT , Operand: 5
+Offset: 532, RETURN , Operand: 0
+Offset: 533, GOTO , Operand: 109
+Offset: 534, PUSHI , Operand: 38
+Offset: 535, PUSHI , Operand: 2998
+Offset: 536, PUSHS , Operand: Toadflax
+Offset: 537, PUSHS , Operand: You can now plant 
+Offset: 538, PUSHS , Operand: <col=000080>
+Offset: 539, PUSHS , Operand: toadflax
+Offset: 540, PUSHS , Operand: </col>
+Offset: 541, PUSHS , Operand: .
+Offset: 542, CONCAT , Operand: 5
+Offset: 543, RETURN , Operand: 0
+Offset: 544, GOTO , Operand: 98
+Offset: 545, PUSHI , Operand: 44
+Offset: 546, PUSHI , Operand: 259
+Offset: 547, PUSHS , Operand: Irit
+Offset: 548, PUSHS , Operand: You can now plant 
+Offset: 549, PUSHS , Operand: <col=000080>
+Offset: 550, PUSHS , Operand: irit
+Offset: 551, PUSHS , Operand: </col>
+Offset: 552, PUSHS , Operand: .
+Offset: 553, CONCAT , Operand: 5
+Offset: 554, RETURN , Operand: 0
+Offset: 555, GOTO , Operand: 87
+Offset: 556, PUSHI , Operand: 46
+Offset: 557, PUSHI , Operand: 14854
+Offset: 558, PUSHS , Operand: Wergali
+Offset: 559, PUSHS , Operand: You can now plant 
+Offset: 560, PUSHS , Operand: <col=000080>
+Offset: 561, PUSHS , Operand: wergali
+Offset: 562, PUSHS , Operand: </col>
+Offset: 563, PUSHS , Operand: .
+Offset: 564, CONCAT , Operand: 5
+Offset: 565, RETURN , Operand: 0
+Offset: 566, GOTO , Operand: 76
+Offset: 567, PUSHI , Operand: 50
+Offset: 568, PUSHI , Operand: 261
+Offset: 569, PUSHS , Operand: Avantoe
+Offset: 570, PUSHS , Operand: You can now plant 
+Offset: 571, PUSHS , Operand: <col=000080>
+Offset: 572, PUSHS , Operand: avantoe
+Offset: 573, PUSHS , Operand: </col>
+Offset: 574, PUSHS , Operand: .
+Offset: 575, CONCAT , Operand: 5
+Offset: 576, RETURN , Operand: 0
+Offset: 577, GOTO , Operand: 65
+Offset: 578, PUSHI , Operand: 56
+Offset: 579, PUSHI , Operand: 263
+Offset: 580, PUSHS , Operand: Kwuarm
+Offset: 581, PUSHS , Operand: You can now plant 
+Offset: 582, PUSHS , Operand: <col=000080>
+Offset: 583, PUSHS , Operand: kwuarm
+Offset: 584, PUSHS , Operand: </col>
+Offset: 585, PUSHS , Operand: .
+Offset: 586, CONCAT , Operand: 5
+Offset: 587, RETURN , Operand: 0
+Offset: 588, GOTO , Operand: 54
+Offset: 589, PUSHI , Operand: 62
+Offset: 590, PUSHI , Operand: 3000
+Offset: 591, PUSHS , Operand: Snapdragon
+Offset: 592, PUSHS , Operand: You can now plant 
+Offset: 593, PUSHS , Operand: <col=000080>
+Offset: 594, PUSHS , Operand: snapdragon
+Offset: 595, PUSHS , Operand: </col>
+Offset: 596, PUSHS , Operand: .
+Offset: 597, CONCAT , Operand: 5
+Offset: 598, RETURN , Operand: 0
+Offset: 599, GOTO , Operand: 43
+Offset: 600, PUSHI , Operand: 67
+Offset: 601, PUSHI , Operand: 265
+Offset: 602, PUSHS , Operand: Cadantine
+Offset: 603, PUSHS , Operand: You can now plant 
+Offset: 604, PUSHS , Operand: <col=000080>
+Offset: 605, PUSHS , Operand: cadantine
+Offset: 606, PUSHS , Operand: </col>
+Offset: 607, PUSHS , Operand: .
+Offset: 608, CONCAT , Operand: 5
+Offset: 609, RETURN , Operand: 0
+Offset: 610, GOTO , Operand: 32
+Offset: 611, PUSHI , Operand: 73
+Offset: 612, PUSHI , Operand: 2481
+Offset: 613, PUSHS , Operand: Lantadyme
+Offset: 614, PUSHS , Operand: You can now plant 
+Offset: 615, PUSHS , Operand: <col=000080>
+Offset: 616, PUSHS , Operand: lantadyme
+Offset: 617, PUSHS , Operand: </col>
+Offset: 618, PUSHS , Operand: .
+Offset: 619, CONCAT , Operand: 5
+Offset: 620, RETURN , Operand: 0
+Offset: 621, GOTO , Operand: 21
+Offset: 622, PUSHI , Operand: 79
+Offset: 623, PUSHI , Operand: 267
+Offset: 624, PUSHS , Operand: Dwarf weed
+Offset: 625, PUSHS , Operand: You can now plant 
+Offset: 626, PUSHS , Operand: <col=000080>
+Offset: 627, PUSHS , Operand: dwarf weed
+Offset: 628, PUSHS , Operand: </col>
+Offset: 629, PUSHS , Operand: .
+Offset: 630, CONCAT , Operand: 5
+Offset: 631, RETURN , Operand: 0
+Offset: 632, GOTO , Operand: 10
+Offset: 633, PUSHI , Operand: 85
+Offset: 634, PUSHI , Operand: 269
+Offset: 635, PUSHS , Operand: Torstol
+Offset: 636, PUSHS , Operand: You can now plant 
+Offset: 637, PUSHS , Operand: <col=000080>
+Offset: 638, PUSHS , Operand: torstol
+Offset: 639, PUSHS , Operand: </col>
+Offset: 640, PUSHS , Operand: .
+Offset: 641, CONCAT , Operand: 5
+Offset: 642, RETURN , Operand: 0
+Offset: 643, GOTO , Operand: 569
+Offset: 644, LOADINT , Operand: 1
+Offset: 645, SWITCH , Operand: 8
+Offset: 646, GOTO , Operand: 82
+Offset: 647, PUSHI , Operand: 42
+Offset: 648, PUSHI , Operand: 12134
+Offset: 649, PUSHS , Operand: Evil turnip
+Offset: 650, PUSHS , Operand: You can now plant 
+Offset: 651, PUSHS , Operand: <col=000080>
+Offset: 652, PUSHS , Operand: evil turnips
+Offset: 653, PUSHS , Operand: </col>
+Offset: 654, PUSHS , Operand: .
+Offset: 655, CONCAT , Operand: 5
+Offset: 656, RETURN , Operand: 0
+Offset: 657, GOTO , Operand: 71
+Offset: 658, PUSHI , Operand: 53
+Offset: 659, PUSHI , Operand: 6004
+Offset: 660, PUSHS , Operand: Bittercap mushroom
+Offset: 661, PUSHS , Operand: You can now plant 
+Offset: 662, PUSHS , Operand: <col=000080>
+Offset: 663, PUSHS , Operand: bittercap mushrooms
+Offset: 664, PUSHS , Operand: </col>
+Offset: 665, PUSHS , Operand: .
+Offset: 666, CONCAT , Operand: 5
+Offset: 667, RETURN , Operand: 0
+Offset: 668, GOTO , Operand: 60
+Offset: 669, PUSHI , Operand: 53
+Offset: 670, PUSHI , Operand: 11779
+Offset: 671, PUSHS , Operand: Jade vine
+Offset: 672, PUSHS , Operand: <br>
+Offset: 673, PUSHS , Operand:  (after Back to My Roots)
+Offset: 674, CONCAT , Operand: 3
+Offset: 675, PUSHS , Operand: You now have the Farming level required to plant 
+Offset: 676, PUSHS , Operand: <col=000080>
+Offset: 677, PUSHS , Operand: jade vines
+Offset: 678, PUSHS , Operand: </col>
+Offset: 679, PUSHS , Operand:  (after Back to my Roots).
+Offset: 680, CONCAT , Operand: 5
+Offset: 681, RETURN , Operand: 0
+Offset: 682, GOTO , Operand: 46
+Offset: 683, PUSHI , Operand: 55
+Offset: 684, PUSHI , Operand: 6016
+Offset: 685, PUSHS , Operand: Cactus
+Offset: 686, PUSHS , Operand: You can now plant 
+Offset: 687, PUSHS , Operand: <col=000080>
+Offset: 688, PUSHS , Operand: cacti
+Offset: 689, PUSHS , Operand: </col>
+Offset: 690, PUSHS , Operand: .
+Offset: 691, CONCAT , Operand: 5
+Offset: 692, RETURN , Operand: 0
+Offset: 693, GOTO , Operand: 35
+Offset: 694, PUSHI , Operand: 63
+Offset: 695, PUSHI , Operand: 2398
+Offset: 696, PUSHS , Operand: Belladonna
+Offset: 697, PUSHS , Operand: You can now plant 
+Offset: 698, PUSHS , Operand: <col=000080>
+Offset: 699, PUSHS , Operand: belladonna
+Offset: 700, PUSHS , Operand: </col>
+Offset: 701, PUSHS , Operand: .
+Offset: 702, CONCAT , Operand: 5
+Offset: 703, RETURN , Operand: 0
+Offset: 704, GOTO , Operand: 24
+Offset: 705, PUSHI , Operand: 72
+Offset: 706, PUSHI , Operand: 5980
+Offset: 707, PUSHS , Operand: Calquat tree
+Offset: 708, PUSHS , Operand: You can now plant 
+Offset: 709, PUSHS , Operand: <col=000080>
+Offset: 710, PUSHS , Operand: calquat trees
+Offset: 711, PUSHS , Operand: </col>
+Offset: 712, PUSHS , Operand: .
+Offset: 713, CONCAT , Operand: 5
+Offset: 714, RETURN , Operand: 0
+Offset: 715, GOTO , Operand: 13
+Offset: 716, PUSHI , Operand: 83
+Offset: 717, PUSHI , Operand: 6063
+Offset: 718, PUSHS , Operand: Spirit tree
+Offset: 719, PUSHS , Operand: <br>
+Offset: 720, PUSHS , Operand:  (only 1 planted at a time)
+Offset: 721, CONCAT , Operand: 3
+Offset: 722, PUSHS , Operand: You can now plant 
+Offset: 723, PUSHS , Operand: <col=000080>
+Offset: 724, PUSHS , Operand: spirit trees
+Offset: 725, PUSHS , Operand: </col>
+Offset: 726, PUSHS , Operand: .
+Offset: 727, CONCAT , Operand: 5
+Offset: 728, RETURN , Operand: 0
+Offset: 729, GOTO , Operand: 483
+Offset: 730, LOADINT , Operand: 1
+Offset: 731, SWITCH , Operand: 9
+Offset: 732, GOTO , Operand: 60
+Offset: 733, PUSHI , Operand: 23
+Offset: 734, PUSHI , Operand: 6059
+Offset: 735, PUSHS , Operand: Able to make and place a scarecrow
+Offset: 736, PUSHS , Operand: You now have the ability to make and place a 
+Offset: 737, PUSHS , Operand: <col=000080>
+Offset: 738, PUSHS , Operand: scarecrow
+Offset: 739, PUSHS , Operand: </col>
+Offset: 740, PUSHS , Operand: .
+Offset: 741, CONCAT , Operand: 5
+Offset: 742, RETURN , Operand: 0
+Offset: 743, GOTO , Operand: 49
+Offset: 744, PUSHI , Operand: -1
+Offset: 745, PUSHI , Operand: 7620
+Offset: 746, PUSHS , Operand: Scarecrows help to stop sweetcorn from being attacked by birds, while also helping to prevent disease.
+Offset: 747, PUSHS , Operand: 
+Offset: 748, RETURN , Operand: 0
+Offset: 749, GOTO , Operand: 43
+Offset: 750, PUSHI , Operand: -1
+Offset: 751, PUSHI , Operand: 7620
+Offset: 752, PUSHS , Operand: How to make a scarecrow:
+Offset: 753, PUSHS , Operand: 
+Offset: 754, RETURN , Operand: 0
+Offset: 755, GOTO , Operand: 37
+Offset: 756, PUSHI , Operand: -1
+Offset: 757, PUSHI , Operand: 7620
+Offset: 758, PUSHS , Operand: 1. Fill an empty sack with straw from a haystack.
+Offset: 759, PUSHS , Operand: 
+Offset: 760, RETURN , Operand: 0
+Offset: 761, GOTO , Operand: 31
+Offset: 762, PUSHI , Operand: -1
+Offset: 763, PUSHI , Operand: 7620
+Offset: 764, PUSHS , Operand: 2. Drive the hay sack onto a bronze spear.
+Offset: 765, PUSHS , Operand: 
+Offset: 766, RETURN , Operand: 0
+Offset: 767, GOTO , Operand: 25
+Offset: 768, PUSHI , Operand: -1
+Offset: 769, PUSHI , Operand: 7620
+Offset: 770, PUSHS , Operand: 3. Place a watermelon at the very top as a head.
+Offset: 771, PUSHS , Operand: 
+Offset: 772, RETURN , Operand: 0
+Offset: 773, GOTO , Operand: 19
+Offset: 774, PUSHI , Operand: -1
+Offset: 775, PUSHI , Operand: 7620
+Offset: 776, PUSHS , Operand: 4. Stand the scarecrow in an empty flower patch.
+Offset: 777, PUSHS , Operand: 
+Offset: 778, RETURN , Operand: 0
+Offset: 779, GOTO , Operand: 13
+Offset: 780, PUSHI , Operand: 25
+Offset: 781, PUSHI , Operand: 18336
+Offset: 782, PUSHS , Operand: Scroll of life
+Offset: 783, PUSHS , Operand: <br>
+Offset: 784, PUSHS , Operand:  (with 25 Dungeoneering)
+Offset: 785, CONCAT , Operand: 3
+Offset: 786, PUSHS , Operand: You can now use the 
+Offset: 787, PUSHS , Operand: <col=000080>
+Offset: 788, PUSHS , Operand: scroll of life
+Offset: 789, PUSHS , Operand: </col>
+Offset: 790, PUSHS , Operand: . (You also need level 25 Dungeoneering.)
+Offset: 791, CONCAT , Operand: 5
+Offset: 792, RETURN , Operand: 0
+Offset: 793, GOTO , Operand: 419
+Offset: 794, LOADINT , Operand: 1
+Offset: 795, SWITCH , Operand: 10
+Offset: 796, GOTO , Operand: 43
+Offset: 797, PUSHI , Operand: 91
+Offset: 798, PUSHI , Operand: 18778
+Offset: 799, PUSHS , Operand: Starved ancient effigies
+Offset: 800, PUSHS , Operand: You can now investigate 
+Offset: 801, PUSHS , Operand: <col=000080>
+Offset: 802, PUSHS , Operand: starved ancient effigies
+Offset: 803, PUSHS , Operand: </col>
+Offset: 804, PUSHS , Operand:  using your knowledge of Farming.
+Offset: 805, CONCAT , Operand: 5
+Offset: 806, RETURN , Operand: 0
+Offset: 807, GOTO , Operand: 32
+Offset: 808, PUSHI , Operand: 93
+Offset: 809, PUSHI , Operand: 18779
+Offset: 810, PUSHS , Operand: Nourished ancient effigies
+Offset: 811, PUSHS , Operand: You can now investigate 
+Offset: 812, PUSHS , Operand: <col=000080>
+Offset: 813, PUSHS , Operand: nourished ancient effigies
+Offset: 814, PUSHS , Operand: </col>
+Offset: 815, PUSHS , Operand:  using your knowledge of Farming.
+Offset: 816, CONCAT , Operand: 5
+Offset: 817, RETURN , Operand: 0
+Offset: 818, GOTO , Operand: 21
+Offset: 819, PUSHI , Operand: 95
+Offset: 820, PUSHI , Operand: 18780
+Offset: 821, PUSHS , Operand: Sated ancient effigies
+Offset: 822, PUSHS , Operand: You can now investigate 
+Offset: 823, PUSHS , Operand: <col=000080>
+Offset: 824, PUSHS , Operand: sated ancient effigies
+Offset: 825, PUSHS , Operand: </col>
+Offset: 826, PUSHS , Operand:  using your knowledge of Farming.
+Offset: 827, CONCAT , Operand: 5
+Offset: 828, RETURN , Operand: 0
+Offset: 829, GOTO , Operand: 10
+Offset: 830, PUSHI , Operand: 97
+Offset: 831, PUSHI , Operand: 18781
+Offset: 832, PUSHS , Operand: Gorged ancient effigies
+Offset: 833, PUSHS , Operand: You can now investigate 
+Offset: 834, PUSHS , Operand: <col=000080>
+Offset: 835, PUSHS , Operand: gorged ancient effigies
+Offset: 836, PUSHS , Operand: </col>
+Offset: 837, PUSHS , Operand:  using your knowledge of Farming.
+Offset: 838, CONCAT , Operand: 5
+Offset: 839, RETURN , Operand: 0
+Offset: 840, GOTO , Operand: 372
+Offset: 841, LOADINT , Operand: 1
+Offset: 842, SWITCH , Operand: 11
+Offset: 843, GOTO , Operand: 87
+Offset: 844, PUSHI , Operand: 1
+Offset: 845, PUSHI , Operand: 12625
+Offset: 846, PUSHS , Operand: Vinesweeper
+Offset: 847, PUSHS , Operand: You can now play 
+Offset: 848, PUSHS , Operand: <col=000080>
+Offset: 849, PUSHS , Operand: Vinesweeper
+Offset: 850, PUSHS , Operand: </col>
+Offset: 851, PUSHS , Operand: .
+Offset: 852, CONCAT , Operand: 5
+Offset: 853, RETURN , Operand: 0
+Offset: 854, GOTO , Operand: 76
+Offset: 855, PUSHI , Operand: 1
+Offset: 856, PUSHI , Operand: 14667
+Offset: 857, PUSHS , Operand: Nurture basic evil tree saplings
+Offset: 858, PUSHS , Operand: You can now nurture 
+Offset: 859, PUSHS , Operand: <col=000080>
+Offset: 860, PUSHS , Operand: basic evil tree saplings
+Offset: 861, PUSHS , Operand: </col>
+Offset: 862, PUSHS , Operand: .
+Offset: 863, CONCAT , Operand: 5
+Offset: 864, RETURN , Operand: 0
+Offset: 865, GOTO , Operand: 65
+Offset: 866, PUSHI , Operand: 7
+Offset: 867, PUSHI , Operand: 14667
+Offset: 868, PUSHS , Operand: Nurture evil oak tree saplings
+Offset: 869, PUSHS , Operand: You can now nurture 
+Offset: 870, PUSHS , Operand: <col=000080>
+Offset: 871, PUSHS , Operand: evil oak tree saplings
+Offset: 872, PUSHS , Operand: </col>
+Offset: 873, PUSHS , Operand: .
+Offset: 874, CONCAT , Operand: 5
+Offset: 875, RETURN , Operand: 0
+Offset: 876, GOTO , Operand: 54
+Offset: 877, PUSHI , Operand: 15
+Offset: 878, PUSHI , Operand: 14667
+Offset: 879, PUSHS , Operand: Nurture evil willow tree saplings
+Offset: 880, PUSHS , Operand: You can now nurture 
+Offset: 881, PUSHS , Operand: <col=000080>
+Offset: 882, PUSHS , Operand: evil willow tree saplings
+Offset: 883, PUSHS , Operand: </col>
+Offset: 884, PUSHS , Operand: .
+Offset: 885, CONCAT , Operand: 5
+Offset: 886, RETURN , Operand: 0
+Offset: 887, GOTO , Operand: 43
+Offset: 888, PUSHI , Operand: 22
+Offset: 889, PUSHI , Operand: 14667
+Offset: 890, PUSHS , Operand: Nurture evil maple tree saplings
+Offset: 891, PUSHS , Operand: You can now nurture 
+Offset: 892, PUSHS , Operand: <col=000080>
+Offset: 893, PUSHS , Operand: evil maple tree saplings
+Offset: 894, PUSHS , Operand: </col>
+Offset: 895, PUSHS , Operand: .
+Offset: 896, CONCAT , Operand: 5
+Offset: 897, RETURN , Operand: 0
+Offset: 898, GOTO , Operand: 32
+Offset: 899, PUSHI , Operand: 30
+Offset: 900, PUSHI , Operand: 14667
+Offset: 901, PUSHS , Operand: Nurture evil yew tree saplings
+Offset: 902, PUSHS , Operand: You can now nurture 
+Offset: 903, PUSHS , Operand: <col=000080>
+Offset: 904, PUSHS , Operand: evil yew tree saplings
+Offset: 905, PUSHS , Operand: </col>
+Offset: 906, PUSHS , Operand: .
+Offset: 907, CONCAT , Operand: 5
+Offset: 908, RETURN , Operand: 0
+Offset: 909, GOTO , Operand: 21
+Offset: 910, PUSHI , Operand: 37
+Offset: 911, PUSHI , Operand: 14667
+Offset: 912, PUSHS , Operand: Nurture evil magic tree saplings
+Offset: 913, PUSHS , Operand: You can now nurture 
+Offset: 914, PUSHS , Operand: <col=000080>
+Offset: 915, PUSHS , Operand: evil magic tree saplings
+Offset: 916, PUSHS , Operand: </col>
+Offset: 917, PUSHS , Operand: .
+Offset: 918, CONCAT , Operand: 5
+Offset: 919, RETURN , Operand: 0
+Offset: 920, GOTO , Operand: 10
+Offset: 921, PUSHI , Operand: 42
+Offset: 922, PUSHI , Operand: 14667
+Offset: 923, PUSHS , Operand: Nurture elder evil tree saplings
+Offset: 924, PUSHS , Operand: You can now nurture 
+Offset: 925, PUSHS , Operand: <col=000080>
+Offset: 926, PUSHS , Operand: elder evil tree saplings
+Offset: 927, PUSHS , Operand: </col>
+Offset: 928, PUSHS , Operand: .
+Offset: 929, CONCAT , Operand: 5
+Offset: 930, RETURN , Operand: 0
+Offset: 931, GOTO , Operand: 281
+Offset: 932, LOADINT , Operand: 1
+Offset: 933, SWITCH , Operand: 12
+Offset: 934, GOTO , Operand: 250
+Offset: 935, PUSHI , Operand: -1
+Offset: 936, PUSHI , Operand: 15707
+Offset: 937, PUSHS , Operand: Dungeoneering skill tasks
+Offset: 938, PUSHS , Operand: <br>
+Offset: 939, PUSHS , Operand: As your Farming level increases, you will be able to attempt higher-level farming tasks within Daemonheim. You will also be more likely to succeed when attempting farming tasks within Daemonheim.
+Offset: 940, CONCAT , Operand: 3
+Offset: 941, PUSHS , Operand: 
+Offset: 942, RETURN , Operand: 0
+Offset: 943, GOTO , Operand: 241
+Offset: 944, PUSHI , Operand: 1
+Offset: 945, PUSHI , Operand: 17448
+Offset: 946, PUSHS , Operand: Salve nettles
+Offset: 947, PUSHS , Operand: You can now harvest 
+Offset: 948, PUSHS , Operand: <col=000080>
+Offset: 949, PUSHS , Operand: salve nettles
+Offset: 950, PUSHS , Operand: </col>
+Offset: 951, PUSHS , Operand:  within Daemonheim.
+Offset: 952, CONCAT , Operand: 5
+Offset: 953, RETURN , Operand: 0
+Offset: 954, GOTO , Operand: 230
+Offset: 955, PUSHI , Operand: 1
+Offset: 956, PUSHI , Operand: 17823
+Offset: 957, PUSHS , Operand: Cave potato
+Offset: 958, PUSHS , Operand: You can now plant 
+Offset: 959, PUSHS , Operand: <col=000080>
+Offset: 960, PUSHS , Operand: cave potatoes
+Offset: 961, PUSHS , Operand: </col>
+Offset: 962, PUSHS , Operand:  within Daemonheim.
+Offset: 963, CONCAT , Operand: 5
+Offset: 964, RETURN , Operand: 0
+Offset: 965, GOTO , Operand: 219
+Offset: 966, PUSHI , Operand: 7
+Offset: 967, PUSHI , Operand: 17826
+Offset: 968, PUSHS , Operand: Sagewort
+Offset: 969, PUSHS , Operand: You can now plant 
+Offset: 970, PUSHS , Operand: <col=000080>
+Offset: 971, PUSHS , Operand: sagewort
+Offset: 972, PUSHS , Operand: </col>
+Offset: 973, PUSHS , Operand:  within Daemonheim.
+Offset: 974, CONCAT , Operand: 5
+Offset: 975, RETURN , Operand: 0
+Offset: 976, GOTO , Operand: 208
+Offset: 977, PUSHI , Operand: 10
+Offset: 978, PUSHI , Operand: 17450
+Offset: 979, PUSHS , Operand: Wildercress
+Offset: 980, PUSHS , Operand: You can now harvest 
+Offset: 981, PUSHS , Operand: <col=000080>
+Offset: 982, PUSHS , Operand: wildercress
+Offset: 983, PUSHS , Operand: </col>
+Offset: 984, PUSHS , Operand:  within Daemonheim.
+Offset: 985, CONCAT , Operand: 5
+Offset: 986, RETURN , Operand: 0
+Offset: 987, GOTO , Operand: 197
+Offset: 988, PUSHI , Operand: 18
+Offset: 989, PUSHI , Operand: 17827
+Offset: 990, PUSHS , Operand: Valerian
+Offset: 991, PUSHS , Operand: You can now plant 
+Offset: 992, PUSHS , Operand: <col=000080>
+Offset: 993, PUSHS , Operand: valerian
+Offset: 994, PUSHS , Operand: </col>
+Offset: 995, PUSHS , Operand:  within Daemonheim.
+Offset: 996, CONCAT , Operand: 5
+Offset: 997, RETURN , Operand: 0
+Offset: 998, GOTO , Operand: 186
+Offset: 999, PUSHI , Operand: 20
+Offset: 1000, PUSHI , Operand: 17452
+Offset: 1001, PUSHS , Operand: Blightleaf
+Offset: 1002, PUSHS , Operand: You can now harvest 
+Offset: 1003, PUSHS , Operand: <col=000080>
+Offset: 1004, PUSHS , Operand: blightleaves
+Offset: 1005, PUSHS , Operand: </col>
+Offset: 1006, PUSHS , Operand:  within Daemonheim.
+Offset: 1007, CONCAT , Operand: 5
+Offset: 1008, RETURN , Operand: 0
+Offset: 1009, GOTO , Operand: 175
+Offset: 1010, PUSHI , Operand: 29
+Offset: 1011, PUSHI , Operand: 17828
+Offset: 1012, PUSHS , Operand: Aloe
+Offset: 1013, PUSHS , Operand: You can now plant 
+Offset: 1014, PUSHS , Operand: <col=000080>
+Offset: 1015, PUSHS , Operand: aloe
+Offset: 1016, PUSHS , Operand: </col>
+Offset: 1017, PUSHS , Operand:  within Daemonheim.
+Offset: 1018, CONCAT , Operand: 5
+Offset: 1019, RETURN , Operand: 0
+Offset: 1020, GOTO , Operand: 164
+Offset: 1021, PUSHI , Operand: 30
+Offset: 1022, PUSHI , Operand: 17454
+Offset: 1023, PUSHS , Operand: Roseblood
+Offset: 1024, PUSHS , Operand: You can now harvest 
+Offset: 1025, PUSHS , Operand: <col=000080>
+Offset: 1026, PUSHS , Operand: roseblood
+Offset: 1027, PUSHS , Operand: </col>
+Offset: 1028, PUSHS , Operand:  within Daemonheim.
+Offset: 1029, CONCAT , Operand: 5
+Offset: 1030, RETURN , Operand: 0
+Offset: 1031, GOTO , Operand: 153
+Offset: 1032, PUSHI , Operand: 34
+Offset: 1033, PUSHI , Operand: 17824
+Offset: 1034, PUSHS , Operand: Gissel mushroom
+Offset: 1035, PUSHS , Operand: You can now plant 
+Offset: 1036, PUSHS , Operand: <col=000080>
+Offset: 1037, PUSHS , Operand: gissel mushrooms
+Offset: 1038, PUSHS , Operand: </col>
+Offset: 1039, PUSHS , Operand:  within Daemonheim.
+Offset: 1040, CONCAT , Operand: 5
+Offset: 1041, RETURN , Operand: 0
+Offset: 1042, GOTO , Operand: 142
+Offset: 1043, PUSHI , Operand: 40
+Offset: 1044, PUSHI , Operand: 17829
+Offset: 1045, PUSHS , Operand: Wormwood
+Offset: 1046, PUSHS , Operand: You can now plant 
+Offset: 1047, PUSHS , Operand: <col=000080>
+Offset: 1048, PUSHS , Operand: wormwood
+Offset: 1049, PUSHS , Operand: </col>
+Offset: 1050, PUSHS , Operand:  within Daemonheim.
+Offset: 1051, CONCAT , Operand: 5
+Offset: 1052, RETURN , Operand: 0
+Offset: 1053, GOTO , Operand: 131
+Offset: 1054, PUSHI , Operand: 40
+Offset: 1055, PUSHI , Operand: 17456
+Offset: 1056, PUSHS , Operand: Bryll
+Offset: 1057, PUSHS , Operand: You can now harvest 
+Offset: 1058, PUSHS , Operand: <col=000080>
+Offset: 1059, PUSHS , Operand: bryll
+Offset: 1060, PUSHS , Operand: </col>
+Offset: 1061, PUSHS , Operand:  within Daemonheim.
+Offset: 1062, CONCAT , Operand: 5
+Offset: 1063, RETURN , Operand: 0
+Offset: 1064, GOTO , Operand: 120
+Offset: 1065, PUSHI , Operand: 50
+Offset: 1066, PUSHI , Operand: 17458
+Offset: 1067, PUSHS , Operand: Duskweed
+Offset: 1068, PUSHS , Operand: You can now plant 
+Offset: 1069, PUSHS , Operand: <col=000080>
+Offset: 1070, PUSHS , Operand: duskweed
+Offset: 1071, PUSHS , Operand: </col>
+Offset: 1072, PUSHS , Operand:  within Daemonheim.
+Offset: 1073, CONCAT , Operand: 5
+Offset: 1074, RETURN , Operand: 0
+Offset: 1075, GOTO , Operand: 109
+Offset: 1076, PUSHI , Operand: 51
+Offset: 1077, PUSHI , Operand: 17830
+Offset: 1078, PUSHS , Operand: Magebane
+Offset: 1079, PUSHS , Operand: You can now plant 
+Offset: 1080, PUSHS , Operand: <col=000080>
+Offset: 1081, PUSHS , Operand: magebane
+Offset: 1082, PUSHS , Operand: </col>
+Offset: 1083, PUSHS , Operand:  within Daemonheim.
+Offset: 1084, CONCAT , Operand: 5
+Offset: 1085, RETURN , Operand: 0
+Offset: 1086, GOTO , Operand: 98
+Offset: 1087, PUSHI , Operand: 60
+Offset: 1088, PUSHI , Operand: 17460
+Offset: 1089, PUSHS , Operand: Soulbell
+Offset: 1090, PUSHS , Operand: You can now harvest 
+Offset: 1091, PUSHS , Operand: <col=000080>
+Offset: 1092, PUSHS , Operand: soulbells
+Offset: 1093, PUSHS , Operand: </col>
+Offset: 1094, PUSHS , Operand:  within Daemonheim.
+Offset: 1095, CONCAT , Operand: 5
+Offset: 1096, RETURN , Operand: 0
+Offset: 1097, GOTO , Operand: 87
+Offset: 1098, PUSHI , Operand: 62
+Offset: 1099, PUSHI , Operand: 17831
+Offset: 1100, PUSHS , Operand: Featherfoil
+Offset: 1101, PUSHS , Operand: You can now plant 
+Offset: 1102, PUSHS , Operand: <col=000080>
+Offset: 1103, PUSHS , Operand: featherfoil
+Offset: 1104, PUSHS , Operand: </col>
+Offset: 1105, PUSHS , Operand:  within Daemonheim.
+Offset: 1106, CONCAT , Operand: 5
+Offset: 1107, RETURN , Operand: 0
+Offset: 1108, GOTO , Operand: 76
+Offset: 1109, PUSHI , Operand: 68
+Offset: 1110, PUSHI , Operand: 17825
+Offset: 1111, PUSHS , Operand: Edicap mushroom
+Offset: 1112, PUSHS , Operand: You can now plant 
+Offset: 1113, PUSHS , Operand: <col=000080>
+Offset: 1114, PUSHS , Operand: edicap mushrooms
+Offset: 1115, PUSHS , Operand: </col>
+Offset: 1116, PUSHS , Operand:  within Daemonheim.
+Offset: 1117, CONCAT , Operand: 5
+Offset: 1118, RETURN , Operand: 0
+Offset: 1119, GOTO , Operand: 65
+Offset: 1120, PUSHI , Operand: 70
+Offset: 1121, PUSHI , Operand: 17462
+Offset: 1122, PUSHS , Operand: Ectograss
+Offset: 1123, PUSHS , Operand: You can now harvest 
+Offset: 1124, PUSHS , Operand: <col=000080>
+Offset: 1125, PUSHS , Operand: ectograss
+Offset: 1126, PUSHS , Operand: </col>
+Offset: 1127, PUSHS , Operand:  within Daemonheim.
+Offset: 1128, CONCAT , Operand: 5
+Offset: 1129, RETURN , Operand: 0
+Offset: 1130, GOTO , Operand: 54
+Offset: 1131, PUSHI , Operand: 73
+Offset: 1132, PUSHI , Operand: 17832
+Offset: 1133, PUSHS , Operand: Winter's grip
+Offset: 1134, PUSHS , Operand: You can now plant 
+Offset: 1135, PUSHS , Operand: <col=000080>
+Offset: 1136, PUSHS , Operand: winter's grip
+Offset: 1137, PUSHS , Operand: </col>
+Offset: 1138, PUSHS , Operand:  within Daemonheim.
+Offset: 1139, CONCAT , Operand: 5
+Offset: 1140, RETURN , Operand: 0
+Offset: 1141, GOTO , Operand: 43
+Offset: 1142, PUSHI , Operand: 80
+Offset: 1143, PUSHI , Operand: 17464
+Offset: 1144, PUSHS , Operand: Runeleaf
+Offset: 1145, PUSHS , Operand: You can now harvest 
+Offset: 1146, PUSHS , Operand: <col=000080>
+Offset: 1147, PUSHS , Operand: runeleaves
+Offset: 1148, PUSHS , Operand: </col>
+Offset: 1149, PUSHS , Operand:  within Daemonheim.
+Offset: 1150, CONCAT , Operand: 5
+Offset: 1151, RETURN , Operand: 0
+Offset: 1152, GOTO , Operand: 32
+Offset: 1153, PUSHI , Operand: 84
+Offset: 1154, PUSHI , Operand: 17833
+Offset: 1155, PUSHS , Operand: Lycopus
+Offset: 1156, PUSHS , Operand: You can now plant 
+Offset: 1157, PUSHS , Operand: <col=000080>
+Offset: 1158, PUSHS , Operand: lycopus
+Offset: 1159, PUSHS , Operand: </col>
+Offset: 1160, PUSHS , Operand:  within Daemonheim.
+Offset: 1161, CONCAT , Operand: 5
+Offset: 1162, RETURN , Operand: 0
+Offset: 1163, GOTO , Operand: 21
+Offset: 1164, PUSHI , Operand: 90
+Offset: 1165, PUSHI , Operand: 17466
+Offset: 1166, PUSHS , Operand: Spiritbloom
+Offset: 1167, PUSHS , Operand: You can now harvest 
+Offset: 1168, PUSHS , Operand: <col=000080>
+Offset: 1169, PUSHS , Operand: spiritbloom
+Offset: 1170, PUSHS , Operand: </col>
+Offset: 1171, PUSHS , Operand:  within Daemonheim.
+Offset: 1172, CONCAT , Operand: 5
+Offset: 1173, RETURN , Operand: 0
+Offset: 1174, GOTO , Operand: 10
+Offset: 1175, PUSHI , Operand: 95
+Offset: 1176, PUSHI , Operand: 17834
+Offset: 1177, PUSHS , Operand: Buckthorn
+Offset: 1178, PUSHS , Operand: You can now plant 
+Offset: 1179, PUSHS , Operand: <col=000080>
+Offset: 1180, PUSHS , Operand: buckthorn
+Offset: 1181, PUSHS , Operand: </col>
+Offset: 1182, PUSHS , Operand:  within Daemonheim.
+Offset: 1183, CONCAT , Operand: 5
+Offset: 1184, RETURN , Operand: 0
+Offset: 1185, GOTO , Operand: 27
+Offset: 1186, LOADINT , Operand: 1
+Offset: 1187, PUSHI , Operand: 0
+Offset: 1188, IFEQ , Operand: 1
+Offset: 1189, GOTO , Operand: 23
+Offset: 1190, PUSHI , Operand: 99
+Offset: 1191, PUSHI , Operand: 9810
+Offset: 1192, PUSHS , Operand: Skill mastery
+Offset: 1193, PUSHS , Operand: <col=000080>
+Offset: 1194, PUSHS , Operand: Congratulations! You are now a master of 
+Offset: 1195, PUSHS , Operand: <col=800000>
+Offset: 1196, PUSHS , Operand: Farming
+Offset: 1197, PUSHS , Operand: <col=000080>
+Offset: 1198, PUSHS , Operand: . Why not visit 
+Offset: 1199, PUSHS , Operand: <col=800000>
+Offset: 1200, PUSHS , Operand: Martin the Master Gardener
+Offset: 1201, PUSHS , Operand: <col=000080>
+Offset: 1202, PUSHS , Operand:  in 
+Offset: 1203, PUSHS , Operand: <col=800000>
+Offset: 1204, PUSHS , Operand: Draynor Village
+Offset: 1205, PUSHS , Operand: <col=000080>
+Offset: 1206, PUSHS , Operand: ? He has something special that is only available to true masters of the 
+Offset: 1207, PUSHS , Operand: <col=800000>
+Offset: 1208, PUSHS , Operand: Farming
+Offset: 1209, PUSHS , Operand: <col=000080>
+Offset: 1210, PUSHS , Operand:  skill!
+Offset: 1211, CONCAT , Operand: 18
+Offset: 1212, RETURN , Operand: 0
+Offset: 1213, PUSHI , Operand: 0
+Offset: 1214, PUSHI , Operand: -1
+Offset: 1215, PUSHS , Operand: 
+Offset: 1216, PUSHS , Operand: 
+Offset: 1217, RETURN , Operand: 0
+
+================================================
+                Switch Table 0                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 81
+Key: 2, Value: 161
+Key: 3, Value: 219
+Key: 4, Value: 299
+Key: 5, Value: 368
+Key: 6, Value: 449
+Key: 7, Value: 642
+Key: 8, Value: 728
+Key: 9, Value: 792
+Key: 10, Value: 839
+Key: 11, Value: 930
+Key: 12, Value: 1184
+
+================================================
+                Switch Table 1                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 12
+Key: 2, Value: 23
+Key: 3, Value: 34
+Key: 4, Value: 45
+Key: 5, Value: 56
+Key: 6, Value: 67
+
+================================================
+                Switch Table 2                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 12
+Key: 2, Value: 23
+Key: 3, Value: 34
+Key: 4, Value: 45
+Key: 5, Value: 56
+Key: 6, Value: 67
+
+================================================
+                Switch Table 3                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 12
+Key: 2, Value: 23
+Key: 3, Value: 34
+Key: 4, Value: 45
+
+================================================
+                Switch Table 4                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 12
+Key: 2, Value: 23
+Key: 3, Value: 34
+Key: 4, Value: 45
+Key: 5, Value: 56
+Key: 6, Value: 67
+
+================================================
+                Switch Table 5                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 12
+Key: 2, Value: 23
+Key: 3, Value: 34
+Key: 4, Value: 45
+Key: 5, Value: 56
+
+================================================
+                Switch Table 6                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 15
+Key: 2, Value: 29
+Key: 3, Value: 43
+Key: 4, Value: 54
+Key: 5, Value: 65
+
+================================================
+                Switch Table 7                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 12
+Key: 2, Value: 23
+Key: 3, Value: 34
+Key: 4, Value: 45
+Key: 5, Value: 59
+Key: 6, Value: 70
+Key: 7, Value: 81
+Key: 8, Value: 92
+Key: 9, Value: 103
+Key: 10, Value: 114
+Key: 11, Value: 125
+Key: 12, Value: 136
+Key: 13, Value: 147
+Key: 14, Value: 158
+Key: 15, Value: 169
+Key: 16, Value: 180
+
+================================================
+                Switch Table 8                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 12
+Key: 2, Value: 23
+Key: 3, Value: 37
+Key: 4, Value: 48
+Key: 5, Value: 59
+Key: 6, Value: 70
+
+================================================
+                Switch Table 9                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 12
+Key: 2, Value: 18
+Key: 3, Value: 24
+Key: 4, Value: 30
+Key: 5, Value: 36
+Key: 6, Value: 42
+Key: 7, Value: 48
+
+================================================
+                Switch Table 10                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 12
+Key: 2, Value: 23
+Key: 3, Value: 34
+
+================================================
+                Switch Table 11                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 12
+Key: 2, Value: 23
+Key: 3, Value: 34
+Key: 4, Value: 45
+Key: 5, Value: 56
+Key: 6, Value: 67
+Key: 7, Value: 78
+
+================================================
+                Switch Table 12                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 10
+Key: 2, Value: 21
+Key: 3, Value: 32
+Key: 4, Value: 43
+Key: 5, Value: 54
+Key: 6, Value: 65
+Key: 7, Value: 76
+Key: 8, Value: 87
+Key: 9, Value: 98
+Key: 10, Value: 109
+Key: 11, Value: 120
+Key: 12, Value: 131
+Key: 13, Value: 142
+Key: 14, Value: 153
+Key: 15, Value: 164
+Key: 17, Value: 186
+Key: 16, Value: 175
+Key: 19, Value: 208
+Key: 18, Value: 197
+Key: 21, Value: 230
+Key: 20, Value: 219
+Key: 22, Value: 241

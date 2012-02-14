@@ -1,0 +1,3608 @@
+================================================
+      Client Script 996 Dumped by SiniSoul    
+      Instruction Size: 3294
+      Integer Arguments: 2 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADINT , Operand: 0
+Offset: 1, SWITCH , Operand: 0
+Offset: 2, GOTO , Operand: 3286
+Offset: 3, LOADINT , Operand: 1
+Offset: 4, SWITCH , Operand: 1
+Offset: 5, GOTO , Operand: 219
+Offset: 6, PUSHI , Operand: 4
+Offset: 7, PUSHI , Operand: 9236
+Offset: 8, PUSHS , Operand: Members: Opal-tipped bronze crossbow bolt
+Offset: 9, PUSHS , Operand: Members can now enchant 
+Offset: 10, PUSHS , Operand: <col=000080>
+Offset: 11, PUSHS , Operand: opal-tipped bronze crossbow bolts
+Offset: 12, PUSHS , Operand: </col>
+Offset: 13, PUSHS , Operand: .
+Offset: 14, CONCAT , Operand: 5
+Offset: 15, RETURN , Operand: 0
+Offset: 16, GOTO , Operand: 208
+Offset: 17, PUSHI , Operand: 7
+Offset: 18, PUSHI , Operand: 1607
+Offset: 19, PUSHS , Operand: Sapphire items
+Offset: 20, PUSHS , Operand: You can now enchant 
+Offset: 21, PUSHS , Operand: <col=000080>
+Offset: 22, PUSHS , Operand: sapphire items
+Offset: 23, PUSHS , Operand: </col>
+Offset: 24, PUSHS , Operand: .
+Offset: 25, CONCAT , Operand: 5
+Offset: 26, RETURN , Operand: 0
+Offset: 27, GOTO , Operand: 197
+Offset: 28, PUSHI , Operand: 7
+Offset: 29, PUSHI , Operand: 9240
+Offset: 30, PUSHS , Operand: Members: Sapphire-tipped mithril crossbow bolt
+Offset: 31, PUSHS , Operand: Members can now enchant 
+Offset: 32, PUSHS , Operand: <col=000080>
+Offset: 33, PUSHS , Operand: sapphire-tipped crossbow bolts
+Offset: 34, PUSHS , Operand: </col>
+Offset: 35, PUSHS , Operand: .
+Offset: 36, CONCAT , Operand: 5
+Offset: 37, RETURN , Operand: 0
+Offset: 38, GOTO , Operand: 186
+Offset: 39, PUSHI , Operand: 14
+Offset: 40, PUSHI , Operand: 9237
+Offset: 41, PUSHS , Operand: Members: Jade-tipped blurite crossbow bolt
+Offset: 42, PUSHS , Operand: Members can now enchant 
+Offset: 43, PUSHS , Operand: <col=000080>
+Offset: 44, PUSHS , Operand: jade-tipped blurite crossbow bolts
+Offset: 45, PUSHS , Operand: </col>
+Offset: 46, PUSHS , Operand: .
+Offset: 47, CONCAT , Operand: 5
+Offset: 48, RETURN , Operand: 0
+Offset: 49, GOTO , Operand: 175
+Offset: 50, PUSHI , Operand: 24
+Offset: 51, PUSHI , Operand: 9238
+Offset: 52, PUSHS , Operand: Members: Pearl-tipped iron crossbow bolt
+Offset: 53, PUSHS , Operand: Members can now enchant 
+Offset: 54, PUSHS , Operand: <col=000080>
+Offset: 55, PUSHS , Operand: pearl-tipped iron crossbow bolts
+Offset: 56, PUSHS , Operand: </col>
+Offset: 57, PUSHS , Operand: .
+Offset: 58, CONCAT , Operand: 5
+Offset: 59, RETURN , Operand: 0
+Offset: 60, GOTO , Operand: 164
+Offset: 61, PUSHI , Operand: 27
+Offset: 62, PUSHI , Operand: 1605
+Offset: 63, PUSHS , Operand: Emerald items
+Offset: 64, PUSHS , Operand: You can now enchant 
+Offset: 65, PUSHS , Operand: <col=000080>
+Offset: 66, PUSHS , Operand: emerald items
+Offset: 67, PUSHS , Operand: </col>
+Offset: 68, PUSHS , Operand: .
+Offset: 69, CONCAT , Operand: 5
+Offset: 70, RETURN , Operand: 0
+Offset: 71, GOTO , Operand: 153
+Offset: 72, PUSHI , Operand: 27
+Offset: 73, PUSHI , Operand: 9241
+Offset: 74, PUSHS , Operand: Members: Emerald-tipped mithril crossbow bolt
+Offset: 75, PUSHS , Operand: Members can now enchant 
+Offset: 76, PUSHS , Operand: <col=000080>
+Offset: 77, PUSHS , Operand: emerald-tipped mithril crossbow bolts
+Offset: 78, PUSHS , Operand: </col>
+Offset: 79, PUSHS , Operand: .
+Offset: 80, CONCAT , Operand: 5
+Offset: 81, RETURN , Operand: 0
+Offset: 82, GOTO , Operand: 142
+Offset: 83, PUSHI , Operand: 29
+Offset: 84, PUSHI , Operand: 9239
+Offset: 85, PUSHS , Operand: Members: Red topaz-tipped steel crossbow bolt
+Offset: 86, PUSHS , Operand: Members can now enchant 
+Offset: 87, PUSHS , Operand: <col=000080>
+Offset: 88, PUSHS , Operand: red topaz-tipped steel crossbow bolts
+Offset: 89, PUSHS , Operand: </col>
+Offset: 90, PUSHS , Operand: .
+Offset: 91, CONCAT , Operand: 5
+Offset: 92, RETURN , Operand: 0
+Offset: 93, GOTO , Operand: 131
+Offset: 94, PUSHI , Operand: 49
+Offset: 95, PUSHI , Operand: 1603
+Offset: 96, PUSHS , Operand: Ruby items
+Offset: 97, PUSHS , Operand: You can now enchant 
+Offset: 98, PUSHS , Operand: <col=000080>
+Offset: 99, PUSHS , Operand: ruby items
+Offset: 100, PUSHS , Operand: </col>
+Offset: 101, PUSHS , Operand: .
+Offset: 102, CONCAT , Operand: 5
+Offset: 103, RETURN , Operand: 0
+Offset: 104, GOTO , Operand: 120
+Offset: 105, PUSHI , Operand: 49
+Offset: 106, PUSHI , Operand: 9242
+Offset: 107, PUSHS , Operand: Members: Ruby-tipped adamant crossbow bolt
+Offset: 108, PUSHS , Operand: Members can now 
+Offset: 109, PUSHS , Operand: <col=000080>
+Offset: 110, PUSHS , Operand: enchant ruby-tipped adamant crossbow bolts
+Offset: 111, PUSHS , Operand: </col>
+Offset: 112, PUSHS , Operand: .
+Offset: 113, CONCAT , Operand: 5
+Offset: 114, RETURN , Operand: 0
+Offset: 115, GOTO , Operand: 109
+Offset: 116, PUSHI , Operand: 56
+Offset: 117, PUSHI , Operand: 571
+Offset: 118, PUSHS , Operand: Members: Charge water orbs
+Offset: 119, PUSHS , Operand: Members can now charge 
+Offset: 120, PUSHS , Operand: <col=000080>
+Offset: 121, PUSHS , Operand: water orbs
+Offset: 122, PUSHS , Operand: </col>
+Offset: 123, PUSHS , Operand: .
+Offset: 124, CONCAT , Operand: 5
+Offset: 125, RETURN , Operand: 0
+Offset: 126, GOTO , Operand: 98
+Offset: 127, PUSHI , Operand: 57
+Offset: 128, PUSHI , Operand: 1601
+Offset: 129, PUSHS , Operand: Diamond items
+Offset: 130, PUSHS , Operand: You can now enchant 
+Offset: 131, PUSHS , Operand: <col=000080>
+Offset: 132, PUSHS , Operand: diamond items
+Offset: 133, PUSHS , Operand: </col>
+Offset: 134, PUSHS , Operand: .
+Offset: 135, CONCAT , Operand: 5
+Offset: 136, RETURN , Operand: 0
+Offset: 137, GOTO , Operand: 87
+Offset: 138, PUSHI , Operand: 57
+Offset: 139, PUSHI , Operand: 9243
+Offset: 140, PUSHS , Operand: Members: Diamond-tipped adamant crossbow bolt
+Offset: 141, PUSHS , Operand: Members can now enchant 
+Offset: 142, PUSHS , Operand: <col=000080>
+Offset: 143, PUSHS , Operand: diamond-tipped adamant crossbow bolts
+Offset: 144, PUSHS , Operand: </col>
+Offset: 145, PUSHS , Operand: .
+Offset: 146, CONCAT , Operand: 5
+Offset: 147, RETURN , Operand: 0
+Offset: 148, GOTO , Operand: 76
+Offset: 149, PUSHI , Operand: 60
+Offset: 150, PUSHI , Operand: 575
+Offset: 151, PUSHS , Operand: Members: Charge earth orbs
+Offset: 152, PUSHS , Operand: Members can now charge 
+Offset: 153, PUSHS , Operand: <col=000080>
+Offset: 154, PUSHS , Operand: earth orbs
+Offset: 155, PUSHS , Operand: </col>
+Offset: 156, PUSHS , Operand: .
+Offset: 157, CONCAT , Operand: 5
+Offset: 158, RETURN , Operand: 0
+Offset: 159, GOTO , Operand: 65
+Offset: 160, PUSHI , Operand: 63
+Offset: 161, PUSHI , Operand: 569
+Offset: 162, PUSHS , Operand: Members: Charge fire orbs
+Offset: 163, PUSHS , Operand: Members can now charge 
+Offset: 164, PUSHS , Operand: <col=000080>
+Offset: 165, PUSHS , Operand: fire orbs
+Offset: 166, PUSHS , Operand: </col>
+Offset: 167, PUSHS , Operand: .
+Offset: 168, CONCAT , Operand: 5
+Offset: 169, RETURN , Operand: 0
+Offset: 170, GOTO , Operand: 54
+Offset: 171, PUSHI , Operand: 66
+Offset: 172, PUSHI , Operand: 573
+Offset: 173, PUSHS , Operand: Members: Charge air orbs
+Offset: 174, PUSHS , Operand: Members can now charge 
+Offset: 175, PUSHS , Operand: <col=000080>
+Offset: 176, PUSHS , Operand: air orbs
+Offset: 177, PUSHS , Operand: </col>
+Offset: 178, PUSHS , Operand: .
+Offset: 179, CONCAT , Operand: 5
+Offset: 180, RETURN , Operand: 0
+Offset: 181, GOTO , Operand: 43
+Offset: 182, PUSHI , Operand: 68
+Offset: 183, PUSHI , Operand: 1615
+Offset: 184, PUSHS , Operand: Members: Dragonstone items
+Offset: 185, PUSHS , Operand: Members can now enchant 
+Offset: 186, PUSHS , Operand: <col=000080>
+Offset: 187, PUSHS , Operand: dragonstone items
+Offset: 188, PUSHS , Operand: </col>
+Offset: 189, PUSHS , Operand: .
+Offset: 190, CONCAT , Operand: 5
+Offset: 191, RETURN , Operand: 0
+Offset: 192, GOTO , Operand: 32
+Offset: 193, PUSHI , Operand: 68
+Offset: 194, PUSHI , Operand: 9244
+Offset: 195, PUSHS , Operand: Members: Dragonstone-tipped rune crossbow bolt
+Offset: 196, PUSHS , Operand: Members can now enchant 
+Offset: 197, PUSHS , Operand: <col=000080>
+Offset: 198, PUSHS , Operand: dragonstone-tipped rune crossbow bolts
+Offset: 199, PUSHS , Operand: </col>
+Offset: 200, PUSHS , Operand: .
+Offset: 201, CONCAT , Operand: 5
+Offset: 202, RETURN , Operand: 0
+Offset: 203, GOTO , Operand: 21
+Offset: 204, PUSHI , Operand: 87
+Offset: 205, PUSHI , Operand: 6573
+Offset: 206, PUSHS , Operand: Members: Onyx items
+Offset: 207, PUSHS , Operand: Members can now enchant 
+Offset: 208, PUSHS , Operand: <col=000080>
+Offset: 209, PUSHS , Operand: onyx items
+Offset: 210, PUSHS , Operand: </col>
+Offset: 211, PUSHS , Operand: .
+Offset: 212, CONCAT , Operand: 5
+Offset: 213, RETURN , Operand: 0
+Offset: 214, GOTO , Operand: 10
+Offset: 215, PUSHI , Operand: 87
+Offset: 216, PUSHI , Operand: 9245
+Offset: 217, PUSHS , Operand: Members: Onyx-tipped rune crossbow bolt
+Offset: 218, PUSHS , Operand: Members can now enchant 
+Offset: 219, PUSHS , Operand: <col=000080>
+Offset: 220, PUSHS , Operand: onyx-tipped rune crossbow bolts
+Offset: 221, PUSHS , Operand: </col>
+Offset: 222, PUSHS , Operand: .
+Offset: 223, CONCAT , Operand: 5
+Offset: 224, RETURN , Operand: 0
+Offset: 225, GOTO , Operand: 3063
+Offset: 226, LOADINT , Operand: 1
+Offset: 227, SWITCH , Operand: 2
+Offset: 228, GOTO , Operand: 1034
+Offset: 229, PUSHI , Operand: 1
+Offset: 230, PUSHI , Operand: 3755
+Offset: 231, PUSHS , Operand: Members: Farseer helm
+Offset: 232, PUSHS , Operand: <br>
+Offset: 233, PUSHS , Operand:  (after Fremennik Trials and with 45 Defence)
+Offset: 234, CONCAT , Operand: 3
+Offset: 235, PUSHS , Operand: Members now have the Magic level required to wear 
+Offset: 236, PUSHS , Operand: <col=000080>
+Offset: 237, PUSHS , Operand: farseer helms
+Offset: 238, PUSHS , Operand: </col>
+Offset: 239, PUSHS , Operand:  (after Fremennik Trials).
+Offset: 240, CONCAT , Operand: 5
+Offset: 241, RETURN , Operand: 0
+Offset: 242, GOTO , Operand: 1020
+Offset: 243, PUSHI , Operand: 1
+Offset: 244, PUSHI , Operand: 6153
+Offset: 245, PUSHS , Operand: Members: Skeletal gloves
+Offset: 246, PUSHS , Operand: Members can now wear 
+Offset: 247, PUSHS , Operand: <col=000080>
+Offset: 248, PUSHS , Operand: skeletal gloves
+Offset: 249, PUSHS , Operand: </col>
+Offset: 250, PUSHS , Operand: .
+Offset: 251, CONCAT , Operand: 5
+Offset: 252, RETURN , Operand: 0
+Offset: 253, GOTO , Operand: 1009
+Offset: 254, PUSHI , Operand: 1
+Offset: 255, PUSHI , Operand: 6147
+Offset: 256, PUSHS , Operand: Members: Skeletal boots
+Offset: 257, PUSHS , Operand: Members can now wear 
+Offset: 258, PUSHS , Operand: <col=000080>
+Offset: 259, PUSHS , Operand: skeletal boots
+Offset: 260, PUSHS , Operand: </col>
+Offset: 261, PUSHS , Operand: .
+Offset: 262, CONCAT , Operand: 5
+Offset: 263, RETURN , Operand: 0
+Offset: 264, GOTO , Operand: 998
+Offset: 265, PUSHI , Operand: 20
+Offset: 266, PUSHI , Operand: 2579
+Offset: 267, PUSHS , Operand: Members: Wizard boots
+Offset: 268, PUSHS , Operand: Members can now wear 
+Offset: 269, PUSHS , Operand: <col=000080>
+Offset: 270, PUSHS , Operand: wizard boots.
+Offset: 271, CONCAT , Operand: 3
+Offset: 272, RETURN , Operand: 0
+Offset: 273, GOTO , Operand: 989
+Offset: 274, PUSHI , Operand: 20
+Offset: 275, PUSHI , Operand: 12964
+Offset: 276, PUSHS , Operand: Combat hood
+Offset: 277, PUSHS , Operand: <br>
+Offset: 278, PUSHS , Operand:  (with level 10 Defence)
+Offset: 279, CONCAT , Operand: 3
+Offset: 280, PUSHS , Operand: You now have the Magic level required to wear 
+Offset: 281, PUSHS , Operand: <col=000080>
+Offset: 282, PUSHS , Operand: combat hoods
+Offset: 283, PUSHS , Operand: </col>
+Offset: 284, PUSHS , Operand: . (You also need level 10 Defence.)
+Offset: 285, CONCAT , Operand: 5
+Offset: 286, RETURN , Operand: 0
+Offset: 287, GOTO , Operand: 975
+Offset: 288, PUSHI , Operand: 20
+Offset: 289, PUSHI , Operand: 12971
+Offset: 290, PUSHS , Operand: Combat robe top
+Offset: 291, PUSHS , Operand: <br>
+Offset: 292, PUSHS , Operand:  (with level 10 Defence)
+Offset: 293, CONCAT , Operand: 3
+Offset: 294, PUSHS , Operand: You now have the Magic level required to wear 
+Offset: 295, PUSHS , Operand: <col=000080>
+Offset: 296, PUSHS , Operand: combat robe tops
+Offset: 297, PUSHS , Operand: </col>
+Offset: 298, PUSHS , Operand: . (You also need level 10 Defence.)
+Offset: 299, CONCAT , Operand: 5
+Offset: 300, RETURN , Operand: 0
+Offset: 301, GOTO , Operand: 961
+Offset: 302, PUSHI , Operand: 20
+Offset: 303, PUSHI , Operand: 12978
+Offset: 304, PUSHS , Operand: Combat robe bottom
+Offset: 305, PUSHS , Operand: <br>
+Offset: 306, PUSHS , Operand:  (with level 10 Defence)
+Offset: 307, CONCAT , Operand: 3
+Offset: 308, PUSHS , Operand: You now have the Magic level required to wear 
+Offset: 309, PUSHS , Operand: <col=000080>
+Offset: 310, PUSHS , Operand: combat robe bottoms
+Offset: 311, PUSHS , Operand: </col>
+Offset: 312, PUSHS , Operand: . (You also need level 10 Defence.)
+Offset: 313, CONCAT , Operand: 5
+Offset: 314, RETURN , Operand: 0
+Offset: 315, GOTO , Operand: 947
+Offset: 316, PUSHI , Operand: 20
+Offset: 317, PUSHI , Operand: 12887
+Offset: 318, PUSHS , Operand: Druidic mage hood
+Offset: 319, PUSHS , Operand: <br>
+Offset: 320, PUSHS , Operand:  (with level 10 Defence)
+Offset: 321, CONCAT , Operand: 3
+Offset: 322, PUSHS , Operand: You now have the Magic level required to wear 
+Offset: 323, PUSHS , Operand: <col=000080>
+Offset: 324, PUSHS , Operand: druidic mage hoods
+Offset: 325, PUSHS , Operand: </col>
+Offset: 326, PUSHS , Operand: . (You also need level 10 Defence.)
+Offset: 327, CONCAT , Operand: 5
+Offset: 328, RETURN , Operand: 0
+Offset: 329, GOTO , Operand: 933
+Offset: 330, PUSHI , Operand: 20
+Offset: 331, PUSHI , Operand: 12894
+Offset: 332, PUSHS , Operand: Druidic mage top
+Offset: 333, PUSHS , Operand: <br>
+Offset: 334, PUSHS , Operand:  (with level 10 Defence)
+Offset: 335, CONCAT , Operand: 3
+Offset: 336, PUSHS , Operand: You now have the Magic level required to wear 
+Offset: 337, PUSHS , Operand: <col=000080>
+Offset: 338, PUSHS , Operand: druidic mage tops
+Offset: 339, PUSHS , Operand: </col>
+Offset: 340, PUSHS , Operand: . (You also need level 10 Defence.)
+Offset: 341, CONCAT , Operand: 5
+Offset: 342, RETURN , Operand: 0
+Offset: 343, GOTO , Operand: 919
+Offset: 344, PUSHI , Operand: 20
+Offset: 345, PUSHI , Operand: 12901
+Offset: 346, PUSHS , Operand: Druidic mage bottom
+Offset: 347, PUSHS , Operand: <br>
+Offset: 348, PUSHS , Operand:  (with level 10 Defence)
+Offset: 349, CONCAT , Operand: 3
+Offset: 350, PUSHS , Operand: You now have the Magic level required to wear 
+Offset: 351, PUSHS , Operand: <col=000080>
+Offset: 352, PUSHS , Operand: druidic mage bottoms
+Offset: 353, PUSHS , Operand: </col>
+Offset: 354, PUSHS , Operand: . (You also need level 10 Defence.)
+Offset: 355, CONCAT , Operand: 5
+Offset: 356, RETURN , Operand: 0
+Offset: 357, GOTO , Operand: 905
+Offset: 358, PUSHI , Operand: 20
+Offset: 359, PUSHI , Operand: 13938
+Offset: 360, PUSHS , Operand: Members: Corrupt Zuriel's hood
+Offset: 361, PUSHS , Operand: <br>
+Offset: 362, PUSHS , Operand:  (with level 20 Defence)
+Offset: 363, CONCAT , Operand: 3
+Offset: 364, PUSHS , Operand: Members now have the Magic level required to wear 
+Offset: 365, PUSHS , Operand: <col=000080>
+Offset: 366, PUSHS , Operand: corrupt Zuriel's hood
+Offset: 367, PUSHS , Operand: </col>
+Offset: 368, PUSHS , Operand: . (They also need level 20 Defence.)
+Offset: 369, CONCAT , Operand: 5
+Offset: 370, RETURN , Operand: 0
+Offset: 371, GOTO , Operand: 891
+Offset: 372, PUSHI , Operand: 20
+Offset: 373, PUSHI , Operand: 13932
+Offset: 374, PUSHS , Operand: Members: Corrupt Zuriel's robe top
+Offset: 375, PUSHS , Operand: <br>
+Offset: 376, PUSHS , Operand:  (with level 20 Defence)
+Offset: 377, CONCAT , Operand: 3
+Offset: 378, PUSHS , Operand: Members now have the Magic level required to wear 
+Offset: 379, PUSHS , Operand: <col=000080>
+Offset: 380, PUSHS , Operand: corrupt Zuriel's robe top
+Offset: 381, PUSHS , Operand: </col>
+Offset: 382, PUSHS , Operand: . (They also need level 20 Defence.)
+Offset: 383, CONCAT , Operand: 5
+Offset: 384, RETURN , Operand: 0
+Offset: 385, GOTO , Operand: 877
+Offset: 386, PUSHI , Operand: 20
+Offset: 387, PUSHI , Operand: 13935
+Offset: 388, PUSHS , Operand: Members: Corrupt Zuriel's robe bottom
+Offset: 389, PUSHS , Operand: <br>
+Offset: 390, PUSHS , Operand:  (with level 20 Defence)
+Offset: 391, CONCAT , Operand: 3
+Offset: 392, PUSHS , Operand: Members now have the Magic level required to wear 
+Offset: 393, PUSHS , Operand: <col=000080>
+Offset: 394, PUSHS , Operand: corrupt Zuriel's robe bottom
+Offset: 395, PUSHS , Operand: </col>
+Offset: 396, PUSHS , Operand: . (They also need level 20 Defence.)
+Offset: 397, CONCAT , Operand: 5
+Offset: 398, RETURN , Operand: 0
+Offset: 399, GOTO , Operand: 863
+Offset: 400, PUSHI , Operand: 20
+Offset: 401, PUSHI , Operand: 15488
+Offset: 402, PUSHS , Operand: Members: Hexcrest
+Offset: 403, PUSHS , Operand: <br>
+Offset: 404, PUSHS , Operand:  (with 10 Defence)
+Offset: 405, CONCAT , Operand: 3
+Offset: 406, PUSHS , Operand: Members can now wear 
+Offset: 407, PUSHS , Operand: <col=000080>
+Offset: 408, PUSHS , Operand: hexcrests
+Offset: 409, PUSHS , Operand: </col>
+Offset: 410, PUSHS , Operand:  (with 10 Defence).
+Offset: 411, CONCAT , Operand: 5
+Offset: 412, RETURN , Operand: 0
+Offset: 413, GOTO , Operand: 849
+Offset: 414, PUSHI , Operand: 20
+Offset: 415, PUSHI , Operand: 15492
+Offset: 416, PUSHS , Operand: Members: Full Slayer helmet
+Offset: 417, PUSHS , Operand: <br>
+Offset: 418, PUSHS , Operand:  (after Smoking Kills with 10 Defence, 20 Ranged and Strength)
+Offset: 419, CONCAT , Operand: 3
+Offset: 420, PUSHS , Operand: Members can now wear 
+Offset: 421, PUSHS , Operand: <col=000080>
+Offset: 422, PUSHS , Operand: full slayer helmets
+Offset: 423, PUSHS , Operand: </col>
+Offset: 424, PUSHS , Operand:  (after Smoking Kills with 10 Defence, 20 Ranged and Strength).
+Offset: 425, CONCAT , Operand: 5
+Offset: 426, RETURN , Operand: 0
+Offset: 427, GOTO , Operand: 835
+Offset: 428, PUSHI , Operand: 20
+Offset: 429, PUSHI , Operand: 9733
+Offset: 430, PUSHS , Operand: Members: Elemental mind equipment (After Elemental Workshop II and with level 30 Smithing)
+Offset: 431, PUSHS , Operand: Members now have the Magic level required to wear 
+Offset: 432, PUSHS , Operand: <col=000080>
+Offset: 433, PUSHS , Operand: Elemental mind equipment
+Offset: 434, PUSHS , Operand: </col>
+Offset: 435, PUSHS , Operand: . (After Elemental Workshop II and with level 30 Smithing)
+Offset: 436, CONCAT , Operand: 5
+Offset: 437, RETURN , Operand: 0
+Offset: 438, GOTO , Operand: 824
+Offset: 439, PUSHI , Operand: 30
+Offset: 440, PUSHI , Operand: 18333
+Offset: 441, PUSHS , Operand: Arcane pulse necklace
+Offset: 442, PUSHS , Operand: <br>
+Offset: 443, PUSHS , Operand:  (with 30 Dungeoneering)
+Offset: 444, CONCAT , Operand: 3
+Offset: 445, PUSHS , Operand: You can now wear 
+Offset: 446, PUSHS , Operand: <col=000080>
+Offset: 447, PUSHS , Operand: arcane pulse necklaces
+Offset: 448, PUSHS , Operand: </col>
+Offset: 449, PUSHS , Operand: . (You also need level 30 Dungeoneering.)
+Offset: 450, CONCAT , Operand: 5
+Offset: 451, RETURN , Operand: 0
+Offset: 452, GOTO , Operand: 810
+Offset: 453, PUSHI , Operand: 40
+Offset: 454, PUSHI , Operand: 4089
+Offset: 455, PUSHS , Operand: Members: Mystic hat
+Offset: 456, PUSHS , Operand: <br>
+Offset: 457, PUSHS , Operand:  (with level 20 Defence)
+Offset: 458, CONCAT , Operand: 3
+Offset: 459, PUSHS , Operand: Members now have the Magic level required to wear 
+Offset: 460, PUSHS , Operand: <col=000080>
+Offset: 461, PUSHS , Operand: mystic hats
+Offset: 462, PUSHS , Operand: </col>
+Offset: 463, PUSHS , Operand: . (They also need level 20 Defence.)
+Offset: 464, CONCAT , Operand: 5
+Offset: 465, RETURN , Operand: 0
+Offset: 466, GOTO , Operand: 796
+Offset: 467, PUSHI , Operand: 40
+Offset: 468, PUSHI , Operand: 4091
+Offset: 469, PUSHS , Operand: Members: Mystic robe top
+Offset: 470, PUSHS , Operand: <br>
+Offset: 471, PUSHS , Operand:  (with level 20 Defence)
+Offset: 472, CONCAT , Operand: 3
+Offset: 473, PUSHS , Operand: Members now have the Magic level required to wear 
+Offset: 474, PUSHS , Operand: <col=000080>
+Offset: 475, PUSHS , Operand: mystic robe tops
+Offset: 476, PUSHS , Operand: </col>
+Offset: 477, PUSHS , Operand: . (They also need level 20 Defence.)
+Offset: 478, CONCAT , Operand: 5
+Offset: 479, RETURN , Operand: 0
+Offset: 480, GOTO , Operand: 782
+Offset: 481, PUSHI , Operand: 40
+Offset: 482, PUSHI , Operand: 4093
+Offset: 483, PUSHS , Operand: Members: Mystic robe bottom
+Offset: 484, PUSHS , Operand: <br>
+Offset: 485, PUSHS , Operand:  (with level 20 Defence)
+Offset: 486, CONCAT , Operand: 3
+Offset: 487, PUSHS , Operand: Members now have the Magic level required to wear 
+Offset: 488, PUSHS , Operand: <col=000080>
+Offset: 489, PUSHS , Operand: mystic robe bottoms
+Offset: 490, PUSHS , Operand: </col>
+Offset: 491, PUSHS , Operand: . (They also need level 20 Defence.)
+Offset: 492, CONCAT , Operand: 5
+Offset: 493, RETURN , Operand: 0
+Offset: 494, GOTO , Operand: 768
+Offset: 495, PUSHI , Operand: 40
+Offset: 496, PUSHI , Operand: 4095
+Offset: 497, PUSHS , Operand: Members: Mystic gloves
+Offset: 498, PUSHS , Operand: <br>
+Offset: 499, PUSHS , Operand:  (with level 20 Defence)
+Offset: 500, CONCAT , Operand: 3
+Offset: 501, PUSHS , Operand: Members now have the Magic level required to wear 
+Offset: 502, PUSHS , Operand: <col=000080>
+Offset: 503, PUSHS , Operand: mystic gloves
+Offset: 504, PUSHS , Operand: </col>
+Offset: 505, PUSHS , Operand: . (They also need level 20 Defence.)
+Offset: 506, CONCAT , Operand: 5
+Offset: 507, RETURN , Operand: 0
+Offset: 508, GOTO , Operand: 754
+Offset: 509, PUSHI , Operand: 40
+Offset: 510, PUSHI , Operand: 4097
+Offset: 511, PUSHS , Operand: Members: Mystic boots
+Offset: 512, PUSHS , Operand: <br>
+Offset: 513, PUSHS , Operand:  (with level 20 Defence)
+Offset: 514, CONCAT , Operand: 3
+Offset: 515, PUSHS , Operand: Members now have the Magic level required to wear 
+Offset: 516, PUSHS , Operand: <col=000080>
+Offset: 517, PUSHS , Operand: mystic boots
+Offset: 518, PUSHS , Operand: </col>
+Offset: 519, PUSHS , Operand: . (They also need level 20 Defence.)
+Offset: 520, CONCAT , Operand: 5
+Offset: 521, RETURN , Operand: 0
+Offset: 522, GOTO , Operand: 740
+Offset: 523, PUSHI , Operand: 40
+Offset: 524, PUSHI , Operand: 14499
+Offset: 525, PUSHS , Operand: Members: Dagon'hai hat
+Offset: 526, PUSHS , Operand: <br>
+Offset: 527, PUSHS , Operand:  (with level 20 Defence)
+Offset: 528, CONCAT , Operand: 3
+Offset: 529, PUSHS , Operand: Members now have the Magic level required to wear 
+Offset: 530, PUSHS , Operand: <col=000080>
+Offset: 531, PUSHS , Operand: Dagon'hai hats
+Offset: 532, PUSHS , Operand: </col>
+Offset: 533, PUSHS , Operand: . (They also need level 20 Defence.)
+Offset: 534, CONCAT , Operand: 5
+Offset: 535, RETURN , Operand: 0
+Offset: 536, GOTO , Operand: 726
+Offset: 537, PUSHI , Operand: 40
+Offset: 538, PUSHI , Operand: 14497
+Offset: 539, PUSHS , Operand: Members: Dagon'hai robe top
+Offset: 540, PUSHS , Operand: <br>
+Offset: 541, PUSHS , Operand:  (with level 20 Defence)
+Offset: 542, CONCAT , Operand: 3
+Offset: 543, PUSHS , Operand: Members now have the Magic level required to wear 
+Offset: 544, PUSHS , Operand: <col=000080>
+Offset: 545, PUSHS , Operand: Dagon'hai robe tops
+Offset: 546, PUSHS , Operand: </col>
+Offset: 547, PUSHS , Operand: . (They also need level 20 Defence.)
+Offset: 548, CONCAT , Operand: 5
+Offset: 549, RETURN , Operand: 0
+Offset: 550, GOTO , Operand: 712
+Offset: 551, PUSHI , Operand: 40
+Offset: 552, PUSHI , Operand: 14501
+Offset: 553, PUSHS , Operand: Members: Dagon'hai robe bottom
+Offset: 554, PUSHS , Operand: <br>
+Offset: 555, PUSHS , Operand:  (with level 20 Defence)
+Offset: 556, CONCAT , Operand: 3
+Offset: 557, PUSHS , Operand: Members now have the Magic level required to wear 
+Offset: 558, PUSHS , Operand: <col=000080>
+Offset: 559, PUSHS , Operand: Dagon'hai robe bottoms
+Offset: 560, PUSHS , Operand: </col>
+Offset: 561, PUSHS , Operand: . (They also need level 20 Defence.)
+Offset: 562, CONCAT , Operand: 5
+Offset: 563, RETURN , Operand: 0
+Offset: 564, GOTO , Operand: 698
+Offset: 565, PUSHI , Operand: 40
+Offset: 566, PUSHI , Operand: 7400
+Offset: 567, PUSHS , Operand: Members: Enchanted hat
+Offset: 568, PUSHS , Operand: <br>
+Offset: 569, PUSHS , Operand:  (with level 20 Defence)
+Offset: 570, CONCAT , Operand: 3
+Offset: 571, PUSHS , Operand: Members now have the Magic level required to wear 
+Offset: 572, PUSHS , Operand: <col=000080>
+Offset: 573, PUSHS , Operand: enchanted hats
+Offset: 574, PUSHS , Operand: </col>
+Offset: 575, PUSHS , Operand: . (They also need level 20 Defence.)
+Offset: 576, CONCAT , Operand: 5
+Offset: 577, RETURN , Operand: 0
+Offset: 578, GOTO , Operand: 684
+Offset: 579, PUSHI , Operand: 40
+Offset: 580, PUSHI , Operand: 7399
+Offset: 581, PUSHS , Operand: Members: Enchanted top
+Offset: 582, PUSHS , Operand: <br>
+Offset: 583, PUSHS , Operand:  (with level 20 Defence)
+Offset: 584, CONCAT , Operand: 3
+Offset: 585, PUSHS , Operand: Members now have the Magic level required to wear 
+Offset: 586, PUSHS , Operand: <col=000080>
+Offset: 587, PUSHS , Operand: enchanted tops
+Offset: 588, PUSHS , Operand: </col>
+Offset: 589, PUSHS , Operand: . (They also need level 20 Defence.)
+Offset: 590, CONCAT , Operand: 5
+Offset: 591, RETURN , Operand: 0
+Offset: 592, GOTO , Operand: 670
+Offset: 593, PUSHI , Operand: 40
+Offset: 594, PUSHI , Operand: 7398
+Offset: 595, PUSHS , Operand: Members: Enchanted robe
+Offset: 596, PUSHS , Operand: <br>
+Offset: 597, PUSHS , Operand:  (with level 20 Defence)
+Offset: 598, CONCAT , Operand: 3
+Offset: 599, PUSHS , Operand: Members now have the Magic level required to wear 
+Offset: 600, PUSHS , Operand: <col=000080>
+Offset: 601, PUSHS , Operand: enchanted robes
+Offset: 602, PUSHS , Operand: </col>
+Offset: 603, PUSHS , Operand: . (They also need level 20 Defence.)
+Offset: 604, CONCAT , Operand: 5
+Offset: 605, RETURN , Operand: 0
+Offset: 606, GOTO , Operand: 656
+Offset: 607, PUSHI , Operand: 40
+Offset: 608, PUSHI , Operand: 3385
+Offset: 609, PUSHS , Operand: Members: Splitbark helm
+Offset: 610, PUSHS , Operand: <br>
+Offset: 611, PUSHS , Operand:  (with level 40 Defence)
+Offset: 612, CONCAT , Operand: 3
+Offset: 613, PUSHS , Operand: Members now have the Magic level required to wear 
+Offset: 614, PUSHS , Operand: <col=000080>
+Offset: 615, PUSHS , Operand: splitbark helms
+Offset: 616, PUSHS , Operand: </col>
+Offset: 617, PUSHS , Operand: . (They also need level 40 Defence.)
+Offset: 618, CONCAT , Operand: 5
+Offset: 619, RETURN , Operand: 0
+Offset: 620, GOTO , Operand: 642
+Offset: 621, PUSHI , Operand: 40
+Offset: 622, PUSHI , Operand: 3387
+Offset: 623, PUSHS , Operand: Members: Splitbark body
+Offset: 624, PUSHS , Operand: <br>
+Offset: 625, PUSHS , Operand:  (with level 40 Defence)
+Offset: 626, CONCAT , Operand: 3
+Offset: 627, PUSHS , Operand: Members now have the Magic level required to wear 
+Offset: 628, PUSHS , Operand: <col=000080>
+Offset: 629, PUSHS , Operand: splitbark bodies
+Offset: 630, PUSHS , Operand: </col>
+Offset: 631, PUSHS , Operand: . (They also need level 40 Defence.)
+Offset: 632, CONCAT , Operand: 5
+Offset: 633, RETURN , Operand: 0
+Offset: 634, GOTO , Operand: 628
+Offset: 635, PUSHI , Operand: 40
+Offset: 636, PUSHI , Operand: 3389
+Offset: 637, PUSHS , Operand: Members: Splitbark legs
+Offset: 638, PUSHS , Operand: <br>
+Offset: 639, PUSHS , Operand:  (with level 40 Defence)
+Offset: 640, CONCAT , Operand: 3
+Offset: 641, PUSHS , Operand: Members now have the Magic level required to wear 
+Offset: 642, PUSHS , Operand: <col=000080>
+Offset: 643, PUSHS , Operand: splitbark legs
+Offset: 644, PUSHS , Operand: </col>
+Offset: 645, PUSHS , Operand: . (They also need level 40 Defence.)
+Offset: 646, CONCAT , Operand: 5
+Offset: 647, RETURN , Operand: 0
+Offset: 648, GOTO , Operand: 614
+Offset: 649, PUSHI , Operand: 40
+Offset: 650, PUSHI , Operand: 3391
+Offset: 651, PUSHS , Operand: Members: Splitbark gauntlets
+Offset: 652, PUSHS , Operand: <br>
+Offset: 653, PUSHS , Operand:  (with level 40 Defence)
+Offset: 654, CONCAT , Operand: 3
+Offset: 655, PUSHS , Operand: Members now have the Magic level required to wear 
+Offset: 656, PUSHS , Operand: <col=000080>
+Offset: 657, PUSHS , Operand: splitbark gauntlets
+Offset: 658, PUSHS , Operand: </col>
+Offset: 659, PUSHS , Operand: . (They also need level 40 Defence.)
+Offset: 660, CONCAT , Operand: 5
+Offset: 661, RETURN , Operand: 0
+Offset: 662, GOTO , Operand: 600
+Offset: 663, PUSHI , Operand: 40
+Offset: 664, PUSHI , Operand: 3393
+Offset: 665, PUSHS , Operand: Members: Splitbark boots
+Offset: 666, PUSHS , Operand: <br>
+Offset: 667, PUSHS , Operand:  (with level 40 Defence)
+Offset: 668, CONCAT , Operand: 3
+Offset: 669, PUSHS , Operand: Members now have the Magic level required to wear 
+Offset: 670, PUSHS , Operand: <col=000080>
+Offset: 671, PUSHS , Operand: splitbark boots
+Offset: 672, PUSHS , Operand: </col>
+Offset: 673, PUSHS , Operand: . (They also need level 40 Defence.)
+Offset: 674, CONCAT , Operand: 5
+Offset: 675, RETURN , Operand: 0
+Offset: 676, GOTO , Operand: 586
+Offset: 677, PUSHI , Operand: 40
+Offset: 678, PUSHI , Operand: 6137
+Offset: 679, PUSHS , Operand: Members: Skeletal helmet
+Offset: 680, PUSHS , Operand: <br>
+Offset: 681, PUSHS , Operand:  (after Fremennik Trials and with 40 Defence)
+Offset: 682, CONCAT , Operand: 3
+Offset: 683, PUSHS , Operand: Members now have the Magic level required to wear 
+Offset: 684, PUSHS , Operand: <col=000080>
+Offset: 685, PUSHS , Operand: skeletal helmets
+Offset: 686, PUSHS , Operand: </col>
+Offset: 687, PUSHS , Operand:  (after Fremennik Trials and with level 40 Defence).
+Offset: 688, CONCAT , Operand: 5
+Offset: 689, RETURN , Operand: 0
+Offset: 690, GOTO , Operand: 572
+Offset: 691, PUSHI , Operand: 40
+Offset: 692, PUSHI , Operand: 6139
+Offset: 693, PUSHS , Operand: Members: Skeletal top
+Offset: 694, PUSHS , Operand: <br>
+Offset: 695, PUSHS , Operand:  (after Fremennik Trials and with 40 Defence)
+Offset: 696, CONCAT , Operand: 3
+Offset: 697, PUSHS , Operand: Members now have the Magic level required to wear 
+Offset: 698, PUSHS , Operand: <col=000080>
+Offset: 699, PUSHS , Operand: skeletal tops
+Offset: 700, PUSHS , Operand: </col>
+Offset: 701, PUSHS , Operand:  (after Fremennik Trials and with level 40 Defence).
+Offset: 702, CONCAT , Operand: 5
+Offset: 703, RETURN , Operand: 0
+Offset: 704, GOTO , Operand: 558
+Offset: 705, PUSHI , Operand: 40
+Offset: 706, PUSHI , Operand: 6141
+Offset: 707, PUSHS , Operand: Members: Skeletal bottoms
+Offset: 708, PUSHS , Operand: <br>
+Offset: 709, PUSHS , Operand:  (after Fremennik Trials and with 40 Defence)
+Offset: 710, CONCAT , Operand: 3
+Offset: 711, PUSHS , Operand: Members now have the Magic level required to wear 
+Offset: 712, PUSHS , Operand: <col=000080>
+Offset: 713, PUSHS , Operand: skeletal bottoms
+Offset: 714, PUSHS , Operand: </col>
+Offset: 715, PUSHS , Operand:  (after Fremennik Trials and with level 40 Defence).
+Offset: 716, CONCAT , Operand: 5
+Offset: 717, RETURN , Operand: 0
+Offset: 718, GOTO , Operand: 544
+Offset: 719, PUSHI , Operand: 40
+Offset: 720, PUSHI , Operand: 14116
+Offset: 721, PUSHS , Operand: Members: Sacred clay hat
+Offset: 722, PUSHS , Operand: <br>
+Offset: 723, PUSHS , Operand:  (with level 40 Defence)
+Offset: 724, CONCAT , Operand: 3
+Offset: 725, PUSHS , Operand: Members now have the Magic level required to wear 
+Offset: 726, PUSHS , Operand: <col=000080>
+Offset: 727, PUSHS , Operand: sacred clay hats
+Offset: 728, PUSHS , Operand: </col>
+Offset: 729, PUSHS , Operand: . (They also need level 40 Defence.)
+Offset: 730, CONCAT , Operand: 5
+Offset: 731, RETURN , Operand: 0
+Offset: 732, GOTO , Operand: 530
+Offset: 733, PUSHI , Operand: 40
+Offset: 734, PUSHI , Operand: 14114
+Offset: 735, PUSHS , Operand: Members: Sacred clay robe top
+Offset: 736, PUSHS , Operand: <br>
+Offset: 737, PUSHS , Operand:  (with level 40 Defence)
+Offset: 738, CONCAT , Operand: 3
+Offset: 739, PUSHS , Operand: Members now have the Magic level required to wear 
+Offset: 740, PUSHS , Operand: <col=000080>
+Offset: 741, PUSHS , Operand: sacred clay robe tops
+Offset: 742, PUSHS , Operand: </col>
+Offset: 743, PUSHS , Operand: . (They also need level 40 Defence.)
+Offset: 744, CONCAT , Operand: 5
+Offset: 745, RETURN , Operand: 0
+Offset: 746, GOTO , Operand: 516
+Offset: 747, PUSHI , Operand: 40
+Offset: 748, PUSHI , Operand: 14115
+Offset: 749, PUSHS , Operand: Members: Sacred clay robe bottom
+Offset: 750, PUSHS , Operand: <br>
+Offset: 751, PUSHS , Operand:  (with level 40 Defence)
+Offset: 752, CONCAT , Operand: 3
+Offset: 753, PUSHS , Operand: Members now have the Magic level required to wear 
+Offset: 754, PUSHS , Operand: <col=000080>
+Offset: 755, PUSHS , Operand: sacred clay robe bottoms
+Offset: 756, PUSHS , Operand: </col>
+Offset: 757, PUSHS , Operand: . (They also need level 40 Defence.)
+Offset: 758, CONCAT , Operand: 5
+Offset: 759, RETURN , Operand: 0
+Offset: 760, GOTO , Operand: 502
+Offset: 761, PUSHI , Operand: 40
+Offset: 762, PUSHI , Operand: 10454
+Offset: 763, PUSHS , Operand: Members: Guthix mitre
+Offset: 764, PUSHS , Operand: <br>
+Offset: 765, PUSHS , Operand:  (with 40 Prayer)
+Offset: 766, CONCAT , Operand: 3
+Offset: 767, PUSHS , Operand: Members now have the Magic level required to wear 
+Offset: 768, PUSHS , Operand: <col=000080>
+Offset: 769, PUSHS , Operand: Guthix mitres
+Offset: 770, PUSHS , Operand: </col>
+Offset: 771, PUSHS , Operand: . (They also need level 40 Prayer.)
+Offset: 772, CONCAT , Operand: 5
+Offset: 773, RETURN , Operand: 0
+Offset: 774, GOTO , Operand: 488
+Offset: 775, PUSHI , Operand: 40
+Offset: 776, PUSHI , Operand: 10452
+Offset: 777, PUSHS , Operand: Members: Saradomin mitre
+Offset: 778, PUSHS , Operand: <br>
+Offset: 779, PUSHS , Operand:  (with 40 Prayer)
+Offset: 780, CONCAT , Operand: 3
+Offset: 781, PUSHS , Operand: Members now have the Magic level required to wear 
+Offset: 782, PUSHS , Operand: <col=000080>
+Offset: 783, PUSHS , Operand: Saradomin mitres
+Offset: 784, PUSHS , Operand: </col>
+Offset: 785, PUSHS , Operand: . (They also need level 40 Prayer.)
+Offset: 786, CONCAT , Operand: 5
+Offset: 787, RETURN , Operand: 0
+Offset: 788, GOTO , Operand: 474
+Offset: 789, PUSHI , Operand: 40
+Offset: 790, PUSHI , Operand: 10456
+Offset: 791, PUSHS , Operand: Members: Zamorak mitre
+Offset: 792, PUSHS , Operand: <br>
+Offset: 793, PUSHS , Operand:  (with 40 Prayer)
+Offset: 794, CONCAT , Operand: 3
+Offset: 795, PUSHS , Operand: Members now have the Magic level required to wear 
+Offset: 796, PUSHS , Operand: <col=000080>
+Offset: 797, PUSHS , Operand: Zamorak mitres
+Offset: 798, PUSHS , Operand: </col>
+Offset: 799, PUSHS , Operand: . (They also need level 40 Prayer.)
+Offset: 800, CONCAT , Operand: 5
+Offset: 801, RETURN , Operand: 0
+Offset: 802, GOTO , Operand: 460
+Offset: 803, PUSHI , Operand: 40
+Offset: 804, PUSHI , Operand: 19374
+Offset: 805, PUSHS , Operand: Members: Armadyl mitre
+Offset: 806, PUSHS , Operand: <br>
+Offset: 807, PUSHS , Operand:  (with 40 Prayer)
+Offset: 808, CONCAT , Operand: 3
+Offset: 809, PUSHS , Operand: Members now have the Magic level required to wear 
+Offset: 810, PUSHS , Operand: <col=000080>
+Offset: 811, PUSHS , Operand: Armadyl mitres
+Offset: 812, PUSHS , Operand: </col>
+Offset: 813, PUSHS , Operand: . (They also need level 40 Prayer.)
+Offset: 814, CONCAT , Operand: 5
+Offset: 815, RETURN , Operand: 0
+Offset: 816, GOTO , Operand: 446
+Offset: 817, PUSHI , Operand: 40
+Offset: 818, PUSHI , Operand: 19376
+Offset: 819, PUSHS , Operand: Members: Bandos mitre
+Offset: 820, PUSHS , Operand: <br>
+Offset: 821, PUSHS , Operand:  (with 40 Prayer)
+Offset: 822, CONCAT , Operand: 3
+Offset: 823, PUSHS , Operand: Members now have the Magic level required to wear 
+Offset: 824, PUSHS , Operand: <col=000080>
+Offset: 825, PUSHS , Operand: Bandos mitres
+Offset: 826, PUSHS , Operand: </col>
+Offset: 827, PUSHS , Operand: . (They also need level 40 Prayer.)
+Offset: 828, CONCAT , Operand: 5
+Offset: 829, RETURN , Operand: 0
+Offset: 830, GOTO , Operand: 432
+Offset: 831, PUSHI , Operand: 40
+Offset: 832, PUSHI , Operand: 19378
+Offset: 833, PUSHS , Operand: Members: Ancient mitre
+Offset: 834, PUSHS , Operand: <br>
+Offset: 835, PUSHS , Operand:  (with 40 Prayer)
+Offset: 836, CONCAT , Operand: 3
+Offset: 837, PUSHS , Operand: Members now have the Magic level required to wear 
+Offset: 838, PUSHS , Operand: <col=000080>
+Offset: 839, PUSHS , Operand: Ancient mitres
+Offset: 840, PUSHS , Operand: </col>
+Offset: 841, PUSHS , Operand: . (They also need level 40 Prayer.)
+Offset: 842, CONCAT , Operand: 5
+Offset: 843, RETURN , Operand: 0
+Offset: 844, GOTO , Operand: 418
+Offset: 845, PUSHI , Operand: 50
+Offset: 846, PUSHI , Operand: 6918
+Offset: 847, PUSHS , Operand: Members: Infinity hat
+Offset: 848, PUSHS , Operand: <br>
+Offset: 849, PUSHS , Operand:  (with level 25 Defence)
+Offset: 850, CONCAT , Operand: 3
+Offset: 851, PUSHS , Operand: Members now have the Magic level required to wear 
+Offset: 852, PUSHS , Operand: <col=000080>
+Offset: 853, PUSHS , Operand: infinity hats
+Offset: 854, PUSHS , Operand: </col>
+Offset: 855, PUSHS , Operand: . (They also need level 25 Defence.)
+Offset: 856, CONCAT , Operand: 5
+Offset: 857, RETURN , Operand: 0
+Offset: 858, GOTO , Operand: 404
+Offset: 859, PUSHI , Operand: 50
+Offset: 860, PUSHI , Operand: 6916
+Offset: 861, PUSHS , Operand: Members: Infinity top
+Offset: 862, PUSHS , Operand: <br>
+Offset: 863, PUSHS , Operand:  (with level 25 Defence)
+Offset: 864, CONCAT , Operand: 3
+Offset: 865, PUSHS , Operand: Members now have the Magic level required to wear 
+Offset: 866, PUSHS , Operand: <col=000080>
+Offset: 867, PUSHS , Operand: infinity tops
+Offset: 868, PUSHS , Operand: </col>
+Offset: 869, PUSHS , Operand: . (They also need level 25 Defence.)
+Offset: 870, CONCAT , Operand: 5
+Offset: 871, RETURN , Operand: 0
+Offset: 872, GOTO , Operand: 390
+Offset: 873, PUSHI , Operand: 50
+Offset: 874, PUSHI , Operand: 6924
+Offset: 875, PUSHS , Operand: Members: Infinity bottom
+Offset: 876, PUSHS , Operand: <br>
+Offset: 877, PUSHS , Operand:  (with level 25 Defence)
+Offset: 878, CONCAT , Operand: 3
+Offset: 879, PUSHS , Operand: Members now have the Magic level required to wear 
+Offset: 880, PUSHS , Operand: <col=000080>
+Offset: 881, PUSHS , Operand: infinity bottoms
+Offset: 882, PUSHS , Operand: </col>
+Offset: 883, PUSHS , Operand: . (They also need level 25 Defence.)
+Offset: 884, CONCAT , Operand: 5
+Offset: 885, RETURN , Operand: 0
+Offset: 886, GOTO , Operand: 376
+Offset: 887, PUSHI , Operand: 50
+Offset: 888, PUSHI , Operand: 6920
+Offset: 889, PUSHS , Operand: Members: Infinity boots
+Offset: 890, PUSHS , Operand: <br>
+Offset: 891, PUSHS , Operand:  (with level 25 Defence)
+Offset: 892, CONCAT , Operand: 3
+Offset: 893, PUSHS , Operand: Members now have the Magic level required to wear 
+Offset: 894, PUSHS , Operand: <col=000080>
+Offset: 895, PUSHS , Operand: infinity boots
+Offset: 896, PUSHS , Operand: </col>
+Offset: 897, PUSHS , Operand: . (They also need level 25 Defence.)
+Offset: 898, CONCAT , Operand: 5
+Offset: 899, RETURN , Operand: 0
+Offset: 900, GOTO , Operand: 362
+Offset: 901, PUSHI , Operand: 50
+Offset: 902, PUSHI , Operand: 6922
+Offset: 903, PUSHS , Operand: Members: Infinity gloves
+Offset: 904, PUSHS , Operand: <br>
+Offset: 905, PUSHS , Operand:  (with level 25 Defence)
+Offset: 906, CONCAT , Operand: 3
+Offset: 907, PUSHS , Operand: Members now have the Magic level required to wear 
+Offset: 908, PUSHS , Operand: <col=000080>
+Offset: 909, PUSHS , Operand: infinity gloves
+Offset: 910, PUSHS , Operand: </col>
+Offset: 911, PUSHS , Operand: . (They also need level 25 Defence.)
+Offset: 912, CONCAT , Operand: 5
+Offset: 913, RETURN , Operand: 0
+Offset: 914, GOTO , Operand: 348
+Offset: 915, PUSHI , Operand: 50
+Offset: 916, PUSHI , Operand: 18334
+Offset: 917, PUSHS , Operand: Arcane blast necklace
+Offset: 918, PUSHS , Operand: <br>
+Offset: 919, PUSHS , Operand:  (with 50 Dungeoneering)
+Offset: 920, CONCAT , Operand: 3
+Offset: 921, PUSHS , Operand: You can now wear 
+Offset: 922, PUSHS , Operand: <col=000080>
+Offset: 923, PUSHS , Operand: arcane blast necklaces
+Offset: 924, PUSHS , Operand: </col>
+Offset: 925, PUSHS , Operand: . (You also need level 50 Dungeoneering.)
+Offset: 926, CONCAT , Operand: 5
+Offset: 927, RETURN , Operand: 0
+Offset: 928, GOTO , Operand: 334
+Offset: 929, PUSHI , Operand: 60
+Offset: 930, PUSHI , Operand: 2413
+Offset: 931, PUSHS , Operand: Members: Guthix cape
+Offset: 932, PUSHS , Operand: Members can now wear 
+Offset: 933, PUSHS , Operand: <col=000080>
+Offset: 934, PUSHS , Operand: Guthix capes.
+Offset: 935, CONCAT , Operand: 3
+Offset: 936, RETURN , Operand: 0
+Offset: 937, GOTO , Operand: 325
+Offset: 938, PUSHI , Operand: 60
+Offset: 939, PUSHI , Operand: 2412
+Offset: 940, PUSHS , Operand: Members: Saradomin cape
+Offset: 941, PUSHS , Operand: Members can now wear 
+Offset: 942, PUSHS , Operand: <col=000080>
+Offset: 943, PUSHS , Operand: Saradomin capes.
+Offset: 944, CONCAT , Operand: 3
+Offset: 945, RETURN , Operand: 0
+Offset: 946, GOTO , Operand: 316
+Offset: 947, PUSHI , Operand: 60
+Offset: 948, PUSHI , Operand: 2414
+Offset: 949, PUSHS , Operand: Members: Zamorak cape
+Offset: 950, PUSHS , Operand: Members can now wear 
+Offset: 951, PUSHS , Operand: <col=000080>
+Offset: 952, PUSHS , Operand: Zamorak capes.
+Offset: 953, CONCAT , Operand: 3
+Offset: 954, RETURN , Operand: 0
+Offset: 955, GOTO , Operand: 307
+Offset: 956, PUSHI , Operand: 60
+Offset: 957, PUSHI , Operand: 12866
+Offset: 958, PUSHS , Operand: Members: Battle hood
+Offset: 959, PUSHS , Operand: <br>
+Offset: 960, PUSHS , Operand:  (with level 50 Defence)
+Offset: 961, CONCAT , Operand: 3
+Offset: 962, PUSHS , Operand: Members now have the Magic level required to wear 
+Offset: 963, PUSHS , Operand: <col=000080>
+Offset: 964, PUSHS , Operand: battle hoods
+Offset: 965, PUSHS , Operand: </col>
+Offset: 966, PUSHS , Operand: . (They also need level 50 Defence.)
+Offset: 967, CONCAT , Operand: 5
+Offset: 968, RETURN , Operand: 0
+Offset: 969, GOTO , Operand: 293
+Offset: 970, PUSHI , Operand: 60
+Offset: 971, PUSHI , Operand: 12873
+Offset: 972, PUSHS , Operand: Members: Battle robe top
+Offset: 973, PUSHS , Operand: <br>
+Offset: 974, PUSHS , Operand:  (with level 50 Defence)
+Offset: 975, CONCAT , Operand: 3
+Offset: 976, PUSHS , Operand: Members now have the Magic level required to wear 
+Offset: 977, PUSHS , Operand: <col=000080>
+Offset: 978, PUSHS , Operand: battle robe tops
+Offset: 979, PUSHS , Operand: </col>
+Offset: 980, PUSHS , Operand: . (They also need level 50 Defence.)
+Offset: 981, CONCAT , Operand: 5
+Offset: 982, RETURN , Operand: 0
+Offset: 983, GOTO , Operand: 279
+Offset: 984, PUSHI , Operand: 60
+Offset: 985, PUSHI , Operand: 12880
+Offset: 986, PUSHS , Operand: Members: Battle robe bottom
+Offset: 987, PUSHS , Operand: <br>
+Offset: 988, PUSHS , Operand:  (with level 50 Defence)
+Offset: 989, CONCAT , Operand: 3
+Offset: 990, PUSHS , Operand: Members now have the Magic level required to wear 
+Offset: 991, PUSHS , Operand: <col=000080>
+Offset: 992, PUSHS , Operand: battle robe bottoms
+Offset: 993, PUSHS , Operand: </col>
+Offset: 994, PUSHS , Operand: . (They also need level 50 Defence.)
+Offset: 995, CONCAT , Operand: 5
+Offset: 996, RETURN , Operand: 0
+Offset: 997, GOTO , Operand: 265
+Offset: 998, PUSHI , Operand: 65
+Offset: 999, PUSHI , Operand: 10342
+Offset: 1000, PUSHS , Operand: Members: Third-Age mage hat
+Offset: 1001, PUSHS , Operand: <br>
+Offset: 1002, PUSHS , Operand:  (with level 30 Defence)
+Offset: 1003, CONCAT , Operand: 3
+Offset: 1004, PUSHS , Operand: Members now have the Magic level required to wear 
+Offset: 1005, PUSHS , Operand: <col=000080>
+Offset: 1006, PUSHS , Operand: Third-Age mage hats
+Offset: 1007, PUSHS , Operand: </col>
+Offset: 1008, PUSHS , Operand: . (They also need level 30 Defence)
+Offset: 1009, CONCAT , Operand: 5
+Offset: 1010, RETURN , Operand: 0
+Offset: 1011, GOTO , Operand: 251
+Offset: 1012, PUSHI , Operand: 65
+Offset: 1013, PUSHI , Operand: 10338
+Offset: 1014, PUSHS , Operand: Members: Third-Age robe top
+Offset: 1015, PUSHS , Operand: <br>
+Offset: 1016, PUSHS , Operand:  (with level 30 Defence)
+Offset: 1017, CONCAT , Operand: 3
+Offset: 1018, PUSHS , Operand: Members now have the Magic level required to wear 
+Offset: 1019, PUSHS , Operand: <col=000080>
+Offset: 1020, PUSHS , Operand: Third-Age robe tops
+Offset: 1021, PUSHS , Operand: </col>
+Offset: 1022, PUSHS , Operand: . (They also need level 30 Defence)
+Offset: 1023, CONCAT , Operand: 5
+Offset: 1024, RETURN , Operand: 0
+Offset: 1025, GOTO , Operand: 237
+Offset: 1026, PUSHI , Operand: 65
+Offset: 1027, PUSHI , Operand: 10340
+Offset: 1028, PUSHS , Operand: Members: Third-Age robe
+Offset: 1029, PUSHS , Operand: <br>
+Offset: 1030, PUSHS , Operand:  (with level 30 Defence)
+Offset: 1031, CONCAT , Operand: 3
+Offset: 1032, PUSHS , Operand: Members now have the Magic level required to wear 
+Offset: 1033, PUSHS , Operand: <col=000080>
+Offset: 1034, PUSHS , Operand: Third-Age robes
+Offset: 1035, PUSHS , Operand: </col>
+Offset: 1036, PUSHS , Operand: . (They also need level 30 Defence)
+Offset: 1037, CONCAT , Operand: 5
+Offset: 1038, RETURN , Operand: 0
+Offset: 1039, GOTO , Operand: 223
+Offset: 1040, PUSHI , Operand: 65
+Offset: 1041, PUSHI , Operand: 10344
+Offset: 1042, PUSHS , Operand: Members: Third-Age amulet
+Offset: 1043, PUSHS , Operand: <br>
+Offset: 1044, PUSHS , Operand:  (with level 30 Defence)
+Offset: 1045, CONCAT , Operand: 3
+Offset: 1046, PUSHS , Operand: Members now have the Magic level required to wear 
+Offset: 1047, PUSHS , Operand: <col=000080>
+Offset: 1048, PUSHS , Operand: Third-Age amulets
+Offset: 1049, PUSHS , Operand: </col>
+Offset: 1050, PUSHS , Operand: . (They also need level 30 Defence)
+Offset: 1051, CONCAT , Operand: 5
+Offset: 1052, RETURN , Operand: 0
+Offset: 1053, GOTO , Operand: 209
+Offset: 1054, PUSHI , Operand: 65
+Offset: 1055, PUSHI , Operand: 9096
+Offset: 1056, PUSHS , Operand: Members: Lunar helm
+Offset: 1057, PUSHS , Operand: <br>
+Offset: 1058, PUSHS , Operand:  (with level 40 Defence)
+Offset: 1059, CONCAT , Operand: 3
+Offset: 1060, PUSHS , Operand: Members now have the Magic level required to wear 
+Offset: 1061, PUSHS , Operand: <col=000080>
+Offset: 1062, PUSHS , Operand: lunar helms
+Offset: 1063, PUSHS , Operand: </col>
+Offset: 1064, PUSHS , Operand: . (They also need level 40 Defence.)
+Offset: 1065, CONCAT , Operand: 5
+Offset: 1066, RETURN , Operand: 0
+Offset: 1067, GOTO , Operand: 195
+Offset: 1068, PUSHI , Operand: 65
+Offset: 1069, PUSHI , Operand: 9097
+Offset: 1070, PUSHS , Operand: Members: Lunar torso
+Offset: 1071, PUSHS , Operand: <br>
+Offset: 1072, PUSHS , Operand:  (with level 40 Defence)
+Offset: 1073, CONCAT , Operand: 3
+Offset: 1074, PUSHS , Operand: Members now have the Magic level required to wear 
+Offset: 1075, PUSHS , Operand: <col=000080>
+Offset: 1076, PUSHS , Operand: lunar torsos
+Offset: 1077, PUSHS , Operand: </col>
+Offset: 1078, PUSHS , Operand: . (They also need level 40 Defence.)
+Offset: 1079, CONCAT , Operand: 5
+Offset: 1080, RETURN , Operand: 0
+Offset: 1081, GOTO , Operand: 181
+Offset: 1082, PUSHI , Operand: 65
+Offset: 1083, PUSHI , Operand: 9099
+Offset: 1084, PUSHS , Operand: Members: Lunar gloves
+Offset: 1085, PUSHS , Operand: <br>
+Offset: 1086, PUSHS , Operand:  (with level 40 Defence)
+Offset: 1087, CONCAT , Operand: 3
+Offset: 1088, PUSHS , Operand: Members now have the Magic level required to wear 
+Offset: 1089, PUSHS , Operand: <col=000080>
+Offset: 1090, PUSHS , Operand: lunar gloves
+Offset: 1091, PUSHS , Operand: </col>
+Offset: 1092, PUSHS , Operand: . (They also need level 40 Defence.)
+Offset: 1093, CONCAT , Operand: 5
+Offset: 1094, RETURN , Operand: 0
+Offset: 1095, GOTO , Operand: 167
+Offset: 1096, PUSHI , Operand: 65
+Offset: 1097, PUSHI , Operand: 9098
+Offset: 1098, PUSHS , Operand: Members: Lunar legs
+Offset: 1099, PUSHS , Operand: <br>
+Offset: 1100, PUSHS , Operand:  (with level 40 Defence)
+Offset: 1101, CONCAT , Operand: 3
+Offset: 1102, PUSHS , Operand: Members now have the Magic level required to wear 
+Offset: 1103, PUSHS , Operand: <col=000080>
+Offset: 1104, PUSHS , Operand: lunar legs
+Offset: 1105, PUSHS , Operand: </col>
+Offset: 1106, PUSHS , Operand: . (They also need level 40 Defence.)
+Offset: 1107, CONCAT , Operand: 5
+Offset: 1108, RETURN , Operand: 0
+Offset: 1109, GOTO , Operand: 153
+Offset: 1110, PUSHI , Operand: 65
+Offset: 1111, PUSHI , Operand: 9100
+Offset: 1112, PUSHS , Operand: Members: Lunar boots
+Offset: 1113, PUSHS , Operand: <br>
+Offset: 1114, PUSHS , Operand:  (with level 40 Defence)
+Offset: 1115, CONCAT , Operand: 3
+Offset: 1116, PUSHS , Operand: Members now have the Magic level required to wear 
+Offset: 1117, PUSHS , Operand: <col=000080>
+Offset: 1118, PUSHS , Operand: lunar boots
+Offset: 1119, PUSHS , Operand: </col>
+Offset: 1120, PUSHS , Operand: . (They also need level 40 Defence.)
+Offset: 1121, CONCAT , Operand: 5
+Offset: 1122, RETURN , Operand: 0
+Offset: 1123, GOTO , Operand: 139
+Offset: 1124, PUSHI , Operand: 65
+Offset: 1125, PUSHI , Operand: 9101
+Offset: 1126, PUSHS , Operand: Members: Lunar cape
+Offset: 1127, PUSHS , Operand: <br>
+Offset: 1128, PUSHS , Operand:  (with level 40 Defence)
+Offset: 1129, CONCAT , Operand: 3
+Offset: 1130, PUSHS , Operand: Members now have the Magic level required to wear 
+Offset: 1131, PUSHS , Operand: <col=000080>
+Offset: 1132, PUSHS , Operand: lunar capes
+Offset: 1133, PUSHS , Operand: </col>
+Offset: 1134, PUSHS , Operand: . (They also need level 40 Defence.)
+Offset: 1135, CONCAT , Operand: 5
+Offset: 1136, RETURN , Operand: 0
+Offset: 1137, GOTO , Operand: 125
+Offset: 1138, PUSHI , Operand: 65
+Offset: 1139, PUSHI , Operand: 13738
+Offset: 1140, PUSHS , Operand: Members: Arcane spirit shield
+Offset: 1141, PUSHS , Operand: <br>
+Offset: 1142, PUSHS , Operand:  (after Summer's End and with 70 Prayer and 75 Defence)
+Offset: 1143, CONCAT , Operand: 3
+Offset: 1144, PUSHS , Operand: Members now have the Magic level required to wield 
+Offset: 1145, PUSHS , Operand: <col=000080>
+Offset: 1146, PUSHS , Operand: arcane spirit shields
+Offset: 1147, PUSHS , Operand: </col>
+Offset: 1148, PUSHS , Operand:  (after Summer's End, with level 70 Prayer and 75 Defence).
+Offset: 1149, CONCAT , Operand: 5
+Offset: 1150, RETURN , Operand: 0
+Offset: 1151, GOTO , Operand: 111
+Offset: 1152, PUSHI , Operand: 65
+Offset: 1153, PUSHI , Operand: 13744
+Offset: 1154, PUSHS , Operand: Members: Spectral spirit shield
+Offset: 1155, PUSHS , Operand: <br>
+Offset: 1156, PUSHS , Operand:  (after Summer's End and with 70 Prayer and 75 Defence)
+Offset: 1157, CONCAT , Operand: 3
+Offset: 1158, PUSHS , Operand: Members now have the Magic level required to wield 
+Offset: 1159, PUSHS , Operand: <col=000080>
+Offset: 1160, PUSHS , Operand: spectral spirit shields
+Offset: 1161, PUSHS , Operand: </col>
+Offset: 1162, PUSHS , Operand:  (after Summer's End, with level 70 Prayer and 75 Defence).
+Offset: 1163, CONCAT , Operand: 5
+Offset: 1164, RETURN , Operand: 0
+Offset: 1165, GOTO , Operand: 97
+Offset: 1166, PUSHI , Operand: 70
+Offset: 1167, PUSHI , Operand: 4708
+Offset: 1168, PUSHS , Operand: Members: Ahrim's hood
+Offset: 1169, PUSHS , Operand: <br>
+Offset: 1170, PUSHS , Operand:  (with level 70 Defence)
+Offset: 1171, CONCAT , Operand: 3
+Offset: 1172, PUSHS , Operand: Members now have the Magic level required to wear 
+Offset: 1173, PUSHS , Operand: <col=000080>
+Offset: 1174, PUSHS , Operand: Ahrim's hood
+Offset: 1175, PUSHS , Operand: </col>
+Offset: 1176, PUSHS , Operand: . (They also need level 70 Defence.)
+Offset: 1177, CONCAT , Operand: 5
+Offset: 1178, RETURN , Operand: 0
+Offset: 1179, GOTO , Operand: 83
+Offset: 1180, PUSHI , Operand: 70
+Offset: 1181, PUSHI , Operand: 4712
+Offset: 1182, PUSHS , Operand: Members: Ahrim's robe top
+Offset: 1183, PUSHS , Operand: <br>
+Offset: 1184, PUSHS , Operand:  (with level 70 Defence)
+Offset: 1185, CONCAT , Operand: 3
+Offset: 1186, PUSHS , Operand: Members now have the Magic level required to wear 
+Offset: 1187, PUSHS , Operand: <col=000080>
+Offset: 1188, PUSHS , Operand: Ahrim's robe top
+Offset: 1189, PUSHS , Operand: </col>
+Offset: 1190, PUSHS , Operand: . (They also need level 70 Defence.)
+Offset: 1191, CONCAT , Operand: 5
+Offset: 1192, RETURN , Operand: 0
+Offset: 1193, GOTO , Operand: 69
+Offset: 1194, PUSHI , Operand: 70
+Offset: 1195, PUSHI , Operand: 4714
+Offset: 1196, PUSHS , Operand: Members: Ahrim's robe skirt
+Offset: 1197, PUSHS , Operand: <br>
+Offset: 1198, PUSHS , Operand:  (with level 70 Defence)
+Offset: 1199, CONCAT , Operand: 3
+Offset: 1200, PUSHS , Operand: Members now have the Magic level required to wear 
+Offset: 1201, PUSHS , Operand: <col=000080>
+Offset: 1202, PUSHS , Operand: Ahrim's robe skirt
+Offset: 1203, PUSHS , Operand: </col>
+Offset: 1204, PUSHS , Operand: . (They also need level 70 Defence.)
+Offset: 1205, CONCAT , Operand: 5
+Offset: 1206, RETURN , Operand: 0
+Offset: 1207, GOTO , Operand: 55
+Offset: 1208, PUSHI , Operand: 70
+Offset: 1209, PUSHI , Operand: 18335
+Offset: 1210, PUSHS , Operand: Members: Arcane stream necklace
+Offset: 1211, PUSHS , Operand: <br>
+Offset: 1212, PUSHS , Operand:  (with 70 Dungeoneering)
+Offset: 1213, CONCAT , Operand: 3
+Offset: 1214, PUSHS , Operand: Members can now wear 
+Offset: 1215, PUSHS , Operand: <col=000080>
+Offset: 1216, PUSHS , Operand: arcane stream necklaces
+Offset: 1217, PUSHS , Operand: </col>
+Offset: 1218, PUSHS , Operand: . (They also need level 70 Dungeoneering.)
+Offset: 1219, CONCAT , Operand: 5
+Offset: 1220, RETURN , Operand: 0
+Offset: 1221, GOTO , Operand: 41
+Offset: 1222, PUSHI , Operand: 78
+Offset: 1223, PUSHI , Operand: 13864
+Offset: 1224, PUSHS , Operand: Members: Zuriel's hood
+Offset: 1225, PUSHS , Operand: <br>
+Offset: 1226, PUSHS , Operand:  (with level 78 Defence)
+Offset: 1227, CONCAT , Operand: 3
+Offset: 1228, PUSHS , Operand: Members now have the Magic level required to wear 
+Offset: 1229, PUSHS , Operand: <col=000080>
+Offset: 1230, PUSHS , Operand: Zuriel's hood
+Offset: 1231, PUSHS , Operand: </col>
+Offset: 1232, PUSHS , Operand: . (They also need level 78 Defence.)
+Offset: 1233, CONCAT , Operand: 5
+Offset: 1234, RETURN , Operand: 0
+Offset: 1235, GOTO , Operand: 27
+Offset: 1236, PUSHI , Operand: 78
+Offset: 1237, PUSHI , Operand: 13858
+Offset: 1238, PUSHS , Operand: Members: Zuriel's robe top
+Offset: 1239, PUSHS , Operand: <br>
+Offset: 1240, PUSHS , Operand:  (with level 78 Defence)
+Offset: 1241, CONCAT , Operand: 3
+Offset: 1242, PUSHS , Operand: Members now have the Magic level required to wear 
+Offset: 1243, PUSHS , Operand: <col=000080>
+Offset: 1244, PUSHS , Operand: Zuriel's robe top
+Offset: 1245, PUSHS , Operand: </col>
+Offset: 1246, PUSHS , Operand: . (They also need level 78 Defence.)
+Offset: 1247, CONCAT , Operand: 5
+Offset: 1248, RETURN , Operand: 0
+Offset: 1249, GOTO , Operand: 13
+Offset: 1250, PUSHI , Operand: 78
+Offset: 1251, PUSHI , Operand: 13861
+Offset: 1252, PUSHS , Operand: Members: Zuriel's robe bottom
+Offset: 1253, PUSHS , Operand: <br>
+Offset: 1254, PUSHS , Operand:  (with level 78 Defence)
+Offset: 1255, CONCAT , Operand: 3
+Offset: 1256, PUSHS , Operand: Members now have the Magic level required to wear 
+Offset: 1257, PUSHS , Operand: <col=000080>
+Offset: 1258, PUSHS , Operand: Zuriel's robe bottom
+Offset: 1259, PUSHS , Operand: </col>
+Offset: 1260, PUSHS , Operand: . (They also need level 78 Defence.)
+Offset: 1261, CONCAT , Operand: 5
+Offset: 1262, RETURN , Operand: 0
+Offset: 1263, GOTO , Operand: 2025
+Offset: 1264, LOADINT , Operand: 1
+Offset: 1265, SWITCH , Operand: 3
+Offset: 1266, GOTO , Operand: 579
+Offset: 1267, PUSHI , Operand: 1
+Offset: 1268, PUSHI , Operand: 1379
+Offset: 1269, PUSHS , Operand: Staff
+Offset: 1270, PUSHS , Operand: You can now wield 
+Offset: 1271, PUSHS , Operand: <col=000080>
+Offset: 1272, PUSHS , Operand: staves
+Offset: 1273, PUSHS , Operand: </col>
+Offset: 1274, PUSHS , Operand: .
+Offset: 1275, CONCAT , Operand: 5
+Offset: 1276, RETURN , Operand: 0
+Offset: 1277, GOTO , Operand: 568
+Offset: 1278, PUSHI , Operand: 1
+Offset: 1279, PUSHI , Operand: 15598
+Offset: 1280, PUSHS , Operand: Caitlin's staff
+Offset: 1281, PUSHS , Operand: <br>
+Offset: 1282, PUSHS , Operand:  (after The Blood Pact)
+Offset: 1283, CONCAT , Operand: 3
+Offset: 1284, PUSHS , Operand: You can now wield 
+Offset: 1285, PUSHS , Operand: <col=000080>
+Offset: 1286, PUSHS , Operand: Caitlin's staff
+Offset: 1287, PUSHS , Operand: </col>
+Offset: 1288, PUSHS , Operand:  (after The Blood Pact).
+Offset: 1289, CONCAT , Operand: 5
+Offset: 1290, RETURN , Operand: 0
+Offset: 1291, GOTO , Operand: 554
+Offset: 1292, PUSHI , Operand: 1
+Offset: 1293, PUSHI , Operand: 1389
+Offset: 1294, PUSHS , Operand: Magic staff
+Offset: 1295, PUSHS , Operand: You can now wield 
+Offset: 1296, PUSHS , Operand: <col=000080>
+Offset: 1297, PUSHS , Operand: staves of magic
+Offset: 1298, PUSHS , Operand: </col>
+Offset: 1299, PUSHS , Operand: .
+Offset: 1300, CONCAT , Operand: 5
+Offset: 1301, RETURN , Operand: 0
+Offset: 1302, GOTO , Operand: 543
+Offset: 1303, PUSHI , Operand: 1
+Offset: 1304, PUSHI , Operand: 1381
+Offset: 1305, PUSHS , Operand: Staff of air
+Offset: 1306, PUSHS , Operand: You can now wield 
+Offset: 1307, PUSHS , Operand: <col=000080>
+Offset: 1308, PUSHS , Operand: staves of air
+Offset: 1309, PUSHS , Operand: </col>
+Offset: 1310, PUSHS , Operand: .
+Offset: 1311, CONCAT , Operand: 5
+Offset: 1312, RETURN , Operand: 0
+Offset: 1313, GOTO , Operand: 532
+Offset: 1314, PUSHI , Operand: 1
+Offset: 1315, PUSHI , Operand: 1385
+Offset: 1316, PUSHS , Operand: Staff of earth
+Offset: 1317, PUSHS , Operand: You can now wield 
+Offset: 1318, PUSHS , Operand: <col=000080>
+Offset: 1319, PUSHS , Operand: staves of earth
+Offset: 1320, PUSHS , Operand: </col>
+Offset: 1321, PUSHS , Operand: .
+Offset: 1322, CONCAT , Operand: 5
+Offset: 1323, RETURN , Operand: 0
+Offset: 1324, GOTO , Operand: 521
+Offset: 1325, PUSHI , Operand: 1
+Offset: 1326, PUSHI , Operand: 1387
+Offset: 1327, PUSHS , Operand: Staff of fire
+Offset: 1328, PUSHS , Operand: You can now wield 
+Offset: 1329, PUSHS , Operand: <col=000080>
+Offset: 1330, PUSHS , Operand: staves of fires
+Offset: 1331, PUSHS , Operand: </col>
+Offset: 1332, PUSHS , Operand: .
+Offset: 1333, CONCAT , Operand: 5
+Offset: 1334, RETURN , Operand: 0
+Offset: 1335, GOTO , Operand: 510
+Offset: 1336, PUSHI , Operand: 1
+Offset: 1337, PUSHI , Operand: 1383
+Offset: 1338, PUSHS , Operand: Staff of water
+Offset: 1339, PUSHS , Operand: You can now wield 
+Offset: 1340, PUSHS , Operand: <col=000080>
+Offset: 1341, PUSHS , Operand: staves of water
+Offset: 1342, PUSHS , Operand: </col>
+Offset: 1343, PUSHS , Operand: .
+Offset: 1344, CONCAT , Operand: 5
+Offset: 1345, RETURN , Operand: 0
+Offset: 1346, GOTO , Operand: 499
+Offset: 1347, PUSHI , Operand: 20
+Offset: 1348, PUSHI , Operand: 13941
+Offset: 1349, PUSHS , Operand: Members: Corrupt Zuriel's staff
+Offset: 1350, PUSHS , Operand: <br>
+Offset: 1351, PUSHS , Operand:  (with level 20 Attack)
+Offset: 1352, CONCAT , Operand: 3
+Offset: 1353, PUSHS , Operand: Members now have the Magic level required to use 
+Offset: 1354, PUSHS , Operand: <col=000080>
+Offset: 1355, PUSHS , Operand: Corrupt Zuriel's staff
+Offset: 1356, PUSHS , Operand: </col>
+Offset: 1357, PUSHS , Operand: . (They also need level 20 Attack.)
+Offset: 1358, CONCAT , Operand: 5
+Offset: 1359, RETURN , Operand: 0
+Offset: 1360, GOTO , Operand: 485
+Offset: 1361, PUSHI , Operand: 30
+Offset: 1362, PUSHI , Operand: 1397
+Offset: 1363, PUSHS , Operand: Members: Air battlestaff
+Offset: 1364, PUSHS , Operand: <br>
+Offset: 1365, PUSHS , Operand:  (with level 30 Attack)
+Offset: 1366, CONCAT , Operand: 3
+Offset: 1367, PUSHS , Operand: Members now have the Magic level required to use 
+Offset: 1368, PUSHS , Operand: <col=000080>
+Offset: 1369, PUSHS , Operand: air battlestaves
+Offset: 1370, PUSHS , Operand: </col>
+Offset: 1371, PUSHS , Operand: . (They also need level 30 Attack.)
+Offset: 1372, CONCAT , Operand: 5
+Offset: 1373, RETURN , Operand: 0
+Offset: 1374, GOTO , Operand: 471
+Offset: 1375, PUSHI , Operand: 30
+Offset: 1376, PUSHI , Operand: 1399
+Offset: 1377, PUSHS , Operand: Members: Earth battlestaff
+Offset: 1378, PUSHS , Operand: <br>
+Offset: 1379, PUSHS , Operand:  (with level 30 Attack)
+Offset: 1380, CONCAT , Operand: 3
+Offset: 1381, PUSHS , Operand: Members now have the Magic level required to use 
+Offset: 1382, PUSHS , Operand: <col=000080>
+Offset: 1383, PUSHS , Operand: earth battlestaves
+Offset: 1384, PUSHS , Operand: </col>
+Offset: 1385, PUSHS , Operand: . (They also need level 30 Attack.)
+Offset: 1386, CONCAT , Operand: 5
+Offset: 1387, RETURN , Operand: 0
+Offset: 1388, GOTO , Operand: 457
+Offset: 1389, PUSHI , Operand: 30
+Offset: 1390, PUSHI , Operand: 1393
+Offset: 1391, PUSHS , Operand: Members: Fire battlestaff
+Offset: 1392, PUSHS , Operand: <br>
+Offset: 1393, PUSHS , Operand:  (with level 30 Attack)
+Offset: 1394, CONCAT , Operand: 3
+Offset: 1395, PUSHS , Operand: Members now have the Magic level required to use 
+Offset: 1396, PUSHS , Operand: <col=000080>
+Offset: 1397, PUSHS , Operand: fire battlestaves
+Offset: 1398, PUSHS , Operand: </col>
+Offset: 1399, PUSHS , Operand: . (They also need level 30 Attack.)
+Offset: 1400, CONCAT , Operand: 5
+Offset: 1401, RETURN , Operand: 0
+Offset: 1402, GOTO , Operand: 443
+Offset: 1403, PUSHI , Operand: 30
+Offset: 1404, PUSHI , Operand: 1395
+Offset: 1405, PUSHS , Operand: Members: Water battlestaff
+Offset: 1406, PUSHS , Operand: <br>
+Offset: 1407, PUSHS , Operand:  (with level 30 Attack)
+Offset: 1408, CONCAT , Operand: 3
+Offset: 1409, PUSHS , Operand: Members now have the Magic level required to use 
+Offset: 1410, PUSHS , Operand: <col=000080>
+Offset: 1411, PUSHS , Operand: water battlestaves
+Offset: 1412, PUSHS , Operand: </col>
+Offset: 1413, PUSHS , Operand: . (They also need level 30 Attack.)
+Offset: 1414, CONCAT , Operand: 5
+Offset: 1415, RETURN , Operand: 0
+Offset: 1416, GOTO , Operand: 429
+Offset: 1417, PUSHI , Operand: 30
+Offset: 1418, PUSHI , Operand: 3053
+Offset: 1419, PUSHS , Operand: Members: Lava battlestaff
+Offset: 1420, PUSHS , Operand: <br>
+Offset: 1421, PUSHS , Operand:  (with level 30 Attack)
+Offset: 1422, CONCAT , Operand: 3
+Offset: 1423, PUSHS , Operand: Members now have the Magic level required to use 
+Offset: 1424, PUSHS , Operand: <col=000080>
+Offset: 1425, PUSHS , Operand: lava battlestaves
+Offset: 1426, PUSHS , Operand: </col>
+Offset: 1427, PUSHS , Operand: . (They also need level 30 Attack.)
+Offset: 1428, CONCAT , Operand: 5
+Offset: 1429, RETURN , Operand: 0
+Offset: 1430, GOTO , Operand: 415
+Offset: 1431, PUSHI , Operand: 30
+Offset: 1432, PUSHI , Operand: 6562
+Offset: 1433, PUSHS , Operand: Members: Mud battlestaff
+Offset: 1434, PUSHS , Operand: <br>
+Offset: 1435, PUSHS , Operand:  (with level 30 Attack)
+Offset: 1436, CONCAT , Operand: 3
+Offset: 1437, PUSHS , Operand: Members now have the Magic level required to use 
+Offset: 1438, PUSHS , Operand: <col=000080>
+Offset: 1439, PUSHS , Operand: mud battlestaves
+Offset: 1440, PUSHS , Operand: </col>
+Offset: 1441, PUSHS , Operand: . (They also need level 30 Attack.)
+Offset: 1442, CONCAT , Operand: 5
+Offset: 1443, RETURN , Operand: 0
+Offset: 1444, GOTO , Operand: 401
+Offset: 1445, PUSHI , Operand: 30
+Offset: 1446, PUSHI , Operand: 11736
+Offset: 1447, PUSHS , Operand: Members: Steam battlestaff
+Offset: 1448, PUSHS , Operand: <br>
+Offset: 1449, PUSHS , Operand:  (with level 30 Attack)
+Offset: 1450, CONCAT , Operand: 3
+Offset: 1451, PUSHS , Operand: Members now have the Magic level required to use 
+Offset: 1452, PUSHS , Operand: <col=000080>
+Offset: 1453, PUSHS , Operand: steam battlestaves
+Offset: 1454, PUSHS , Operand: </col>
+Offset: 1455, PUSHS , Operand: . (They also need level 30 Attack.)
+Offset: 1456, CONCAT , Operand: 5
+Offset: 1457, RETURN , Operand: 0
+Offset: 1458, GOTO , Operand: 387
+Offset: 1459, PUSHI , Operand: 40
+Offset: 1460, PUSHI , Operand: 1405
+Offset: 1461, PUSHS , Operand: Members: Mystic air staff
+Offset: 1462, PUSHS , Operand: <br>
+Offset: 1463, PUSHS , Operand:  (with level 40 Attack)
+Offset: 1464, CONCAT , Operand: 3
+Offset: 1465, PUSHS , Operand: Members now have the Magic level required to use 
+Offset: 1466, PUSHS , Operand: <col=000080>
+Offset: 1467, PUSHS , Operand: mystic air staves
+Offset: 1468, PUSHS , Operand: </col>
+Offset: 1469, PUSHS , Operand: . (They also need level 40 Attack.)
+Offset: 1470, CONCAT , Operand: 5
+Offset: 1471, RETURN , Operand: 0
+Offset: 1472, GOTO , Operand: 373
+Offset: 1473, PUSHI , Operand: 40
+Offset: 1474, PUSHI , Operand: 1407
+Offset: 1475, PUSHS , Operand: Members: Mystic earth staff
+Offset: 1476, PUSHS , Operand: <br>
+Offset: 1477, PUSHS , Operand:  (with level 40 Attack)
+Offset: 1478, CONCAT , Operand: 3
+Offset: 1479, PUSHS , Operand: Members now have the Magic level required to use 
+Offset: 1480, PUSHS , Operand: <col=000080>
+Offset: 1481, PUSHS , Operand: mystic earth staves
+Offset: 1482, PUSHS , Operand: </col>
+Offset: 1483, PUSHS , Operand: . (They also need level 40 Attack.)
+Offset: 1484, CONCAT , Operand: 5
+Offset: 1485, RETURN , Operand: 0
+Offset: 1486, GOTO , Operand: 359
+Offset: 1487, PUSHI , Operand: 40
+Offset: 1488, PUSHI , Operand: 1401
+Offset: 1489, PUSHS , Operand: Members: Mystic fire staff
+Offset: 1490, PUSHS , Operand: <br>
+Offset: 1491, PUSHS , Operand:  (with level 40 Attack)
+Offset: 1492, CONCAT , Operand: 3
+Offset: 1493, PUSHS , Operand: Members now have the Magic level required to use 
+Offset: 1494, PUSHS , Operand: <col=000080>
+Offset: 1495, PUSHS , Operand: mystic fire staves
+Offset: 1496, PUSHS , Operand: </col>
+Offset: 1497, PUSHS , Operand: . (They also need level 40 Attack.)
+Offset: 1498, CONCAT , Operand: 5
+Offset: 1499, RETURN , Operand: 0
+Offset: 1500, GOTO , Operand: 345
+Offset: 1501, PUSHI , Operand: 40
+Offset: 1502, PUSHI , Operand: 1403
+Offset: 1503, PUSHS , Operand: Members: Mystic water staff
+Offset: 1504, PUSHS , Operand: <br>
+Offset: 1505, PUSHS , Operand:  (with level 40 Attack)
+Offset: 1506, CONCAT , Operand: 3
+Offset: 1507, PUSHS , Operand: Members now have the Magic level required to use 
+Offset: 1508, PUSHS , Operand: <col=000080>
+Offset: 1509, PUSHS , Operand: mystic water staves
+Offset: 1510, PUSHS , Operand: </col>
+Offset: 1511, PUSHS , Operand: . (They also need level 40 Attack.)
+Offset: 1512, CONCAT , Operand: 5
+Offset: 1513, RETURN , Operand: 0
+Offset: 1514, GOTO , Operand: 331
+Offset: 1515, PUSHI , Operand: 40
+Offset: 1516, PUSHI , Operand: 3054
+Offset: 1517, PUSHS , Operand: Members: Mystic lava staff
+Offset: 1518, PUSHS , Operand: <br>
+Offset: 1519, PUSHS , Operand:  (with level 40 Attack)
+Offset: 1520, CONCAT , Operand: 3
+Offset: 1521, PUSHS , Operand: Members now have the Magic level required to use 
+Offset: 1522, PUSHS , Operand: <col=000080>
+Offset: 1523, PUSHS , Operand: mystic lava staves
+Offset: 1524, PUSHS , Operand: </col>
+Offset: 1525, PUSHS , Operand: . (They also need level 40 Attack.)
+Offset: 1526, CONCAT , Operand: 5
+Offset: 1527, RETURN , Operand: 0
+Offset: 1528, GOTO , Operand: 317
+Offset: 1529, PUSHI , Operand: 40
+Offset: 1530, PUSHI , Operand: 6563
+Offset: 1531, PUSHS , Operand: Members: Mystic mud staff
+Offset: 1532, PUSHS , Operand: <br>
+Offset: 1533, PUSHS , Operand:  (with level 40 Attack)
+Offset: 1534, CONCAT , Operand: 3
+Offset: 1535, PUSHS , Operand: Members now have the Magic level required to use 
+Offset: 1536, PUSHS , Operand: <col=000080>
+Offset: 1537, PUSHS , Operand: mystic mud staves
+Offset: 1538, PUSHS , Operand: </col>
+Offset: 1539, PUSHS , Operand: . (They also need level 40 Attack.)
+Offset: 1540, CONCAT , Operand: 5
+Offset: 1541, RETURN , Operand: 0
+Offset: 1542, GOTO , Operand: 303
+Offset: 1543, PUSHI , Operand: 40
+Offset: 1544, PUSHI , Operand: 11738
+Offset: 1545, PUSHS , Operand: Members: Mystic steam staff
+Offset: 1546, PUSHS , Operand: <br>
+Offset: 1547, PUSHS , Operand:  (with level 40 Attack)
+Offset: 1548, CONCAT , Operand: 3
+Offset: 1549, PUSHS , Operand: Members now have the Magic level required to use 
+Offset: 1550, PUSHS , Operand: <col=000080>
+Offset: 1551, PUSHS , Operand: mystic steam staves
+Offset: 1552, PUSHS , Operand: </col>
+Offset: 1553, PUSHS , Operand: . (They also need level 40 Attack.)
+Offset: 1554, CONCAT , Operand: 5
+Offset: 1555, RETURN , Operand: 0
+Offset: 1556, GOTO , Operand: 289
+Offset: 1557, PUSHI , Operand: 40
+Offset: 1558, PUSHI , Operand: 19323
+Offset: 1559, PUSHS , Operand: Members: Dragon staff
+Offset: 1560, PUSHS , Operand: <br>
+Offset: 1561, PUSHS , Operand:  (with 40 Attack, 60 Prayer and 20 Defence)
+Offset: 1562, CONCAT , Operand: 3
+Offset: 1563, PUSHS , Operand: Members now have the Magic level required to wield 
+Offset: 1564, PUSHS , Operand: <col=000080>
+Offset: 1565, PUSHS , Operand: dragon staves
+Offset: 1566, PUSHS , Operand: </col>
+Offset: 1567, PUSHS , Operand: . (They also need level 40 Attack, level 60 Prayer and level 20 Defence.)
+Offset: 1568, CONCAT , Operand: 5
+Offset: 1569, RETURN , Operand: 0
+Offset: 1570, GOTO , Operand: 275
+Offset: 1571, PUSHI , Operand: 40
+Offset: 1572, PUSHI , Operand: 19325
+Offset: 1573, PUSHS , Operand: Members: Penguin staff
+Offset: 1574, PUSHS , Operand: <br>
+Offset: 1575, PUSHS , Operand:  (with 40 Attack, 60 Prayer and 20 Defence)
+Offset: 1576, CONCAT , Operand: 3
+Offset: 1577, PUSHS , Operand: Members now have the Magic level required to wield 
+Offset: 1578, PUSHS , Operand: <col=000080>
+Offset: 1579, PUSHS , Operand: penguin staves
+Offset: 1580, PUSHS , Operand: </col>
+Offset: 1581, PUSHS , Operand: . (They also need level 40 Attack, level 60 Prayer and level 20 Defence.)
+Offset: 1582, CONCAT , Operand: 5
+Offset: 1583, RETURN , Operand: 0
+Offset: 1584, GOTO , Operand: 261
+Offset: 1585, PUSHI , Operand: 40
+Offset: 1586, PUSHI , Operand: 19327
+Offset: 1587, PUSHS , Operand: Members: Bat staff
+Offset: 1588, PUSHS , Operand: <br>
+Offset: 1589, PUSHS , Operand:  (with 40 Attack, 60 Prayer and 20 Defence)
+Offset: 1590, CONCAT , Operand: 3
+Offset: 1591, PUSHS , Operand: Members now have the Magic level required to wield 
+Offset: 1592, PUSHS , Operand: <col=000080>
+Offset: 1593, PUSHS , Operand: bat staves
+Offset: 1594, PUSHS , Operand: </col>
+Offset: 1595, PUSHS , Operand: . (They also need level 40 Attack, level 60 Prayer and level 20 Defence.)
+Offset: 1596, CONCAT , Operand: 5
+Offset: 1597, RETURN , Operand: 0
+Offset: 1598, GOTO , Operand: 247
+Offset: 1599, PUSHI , Operand: 40
+Offset: 1600, PUSHI , Operand: 19329
+Offset: 1601, PUSHS , Operand: Members: Wolf staff
+Offset: 1602, PUSHS , Operand: <br>
+Offset: 1603, PUSHS , Operand:  (with 40 Attack, 60 Prayer and 20 Defence)
+Offset: 1604, CONCAT , Operand: 3
+Offset: 1605, PUSHS , Operand: Members now have the Magic level required to wield 
+Offset: 1606, PUSHS , Operand: <col=000080>
+Offset: 1607, PUSHS , Operand: wolf staves
+Offset: 1608, PUSHS , Operand: </col>
+Offset: 1609, PUSHS , Operand: . (They also need level 40 Attack, level 60 Prayer and level 20 Defence.)
+Offset: 1610, CONCAT , Operand: 5
+Offset: 1611, RETURN , Operand: 0
+Offset: 1612, GOTO , Operand: 233
+Offset: 1613, PUSHI , Operand: 40
+Offset: 1614, PUSHI , Operand: 19331
+Offset: 1615, PUSHS , Operand: Members: Cat staff
+Offset: 1616, PUSHS , Operand: <br>
+Offset: 1617, PUSHS , Operand:  (with 40 Attack, 60 Prayer and 20 Defence)
+Offset: 1618, CONCAT , Operand: 3
+Offset: 1619, PUSHS , Operand: Members now have the Magic level required to wield 
+Offset: 1620, PUSHS , Operand: <col=000080>
+Offset: 1621, PUSHS , Operand: cat staves
+Offset: 1622, PUSHS , Operand: </col>
+Offset: 1623, PUSHS , Operand: . (They also need level 40 Attack, level 60 Prayer and level 20 Defence.)
+Offset: 1624, CONCAT , Operand: 5
+Offset: 1625, RETURN , Operand: 0
+Offset: 1626, GOTO , Operand: 219
+Offset: 1627, PUSHI , Operand: 40
+Offset: 1628, PUSHI , Operand: 14117
+Offset: 1629, PUSHS , Operand: Members: Sacred clay staff
+Offset: 1630, PUSHS , Operand: Members can now wield 
+Offset: 1631, PUSHS , Operand: <col=000080>
+Offset: 1632, PUSHS , Operand: sacred clay staves
+Offset: 1633, PUSHS , Operand: </col>
+Offset: 1634, PUSHS , Operand: .
+Offset: 1635, CONCAT , Operand: 5
+Offset: 1636, RETURN , Operand: 0
+Offset: 1637, GOTO , Operand: 208
+Offset: 1638, PUSHI , Operand: 45
+Offset: 1639, PUSHI , Operand: 18342
+Offset: 1640, PUSHS , Operand: Law staff
+Offset: 1641, PUSHS , Operand: <br>
+Offset: 1642, PUSHS , Operand:  (with 40 Attack and 45 Dungeoneering)
+Offset: 1643, CONCAT , Operand: 3
+Offset: 1644, PUSHS , Operand: You can now use 
+Offset: 1645, PUSHS , Operand: <col=000080>
+Offset: 1646, PUSHS , Operand: law staves
+Offset: 1647, PUSHS , Operand: </col>
+Offset: 1648, PUSHS , Operand: . (You also need level 40 Attack and level 45 Dungeoneering.)
+Offset: 1649, CONCAT , Operand: 5
+Offset: 1650, RETURN , Operand: 0
+Offset: 1651, GOTO , Operand: 194
+Offset: 1652, PUSHI , Operand: 45
+Offset: 1653, PUSHI , Operand: 18371
+Offset: 1654, PUSHS , Operand: Gravite staff
+Offset: 1655, PUSHS , Operand: <br>
+Offset: 1656, PUSHS , Operand:  (with 45 Dungeoneering)
+Offset: 1657, CONCAT , Operand: 3
+Offset: 1658, PUSHS , Operand: You can now wield 
+Offset: 1659, PUSHS , Operand: <col=000080>
+Offset: 1660, PUSHS , Operand: gravite staves
+Offset: 1661, PUSHS , Operand: </col>
+Offset: 1662, PUSHS , Operand: . (You also need level 45 Dungeoneering.)
+Offset: 1663, CONCAT , Operand: 5
+Offset: 1664, RETURN , Operand: 0
+Offset: 1665, GOTO , Operand: 180
+Offset: 1666, PUSHI , Operand: 50
+Offset: 1667, PUSHI , Operand: 4170
+Offset: 1668, PUSHS , Operand: Members: Slayer's staff
+Offset: 1669, PUSHS , Operand: <br>
+Offset: 1670, PUSHS , Operand:  (with level 55 Slayer)
+Offset: 1671, CONCAT , Operand: 3
+Offset: 1672, PUSHS , Operand: Members now have the Magic level required to use 
+Offset: 1673, PUSHS , Operand: <col=000080>
+Offset: 1674, PUSHS , Operand: Slayer staves
+Offset: 1675, PUSHS , Operand: </col>
+Offset: 1676, PUSHS , Operand: , magic weapons used for killing turoth and kurask. (They also need level 55 Slayer.)
+Offset: 1677, CONCAT , Operand: 5
+Offset: 1678, RETURN , Operand: 0
+Offset: 1679, GOTO , Operand: 166
+Offset: 1680, PUSHI , Operand: 50
+Offset: 1681, PUSHI , Operand: 1409
+Offset: 1682, PUSHS , Operand: Members: Iban's Staff
+Offset: 1683, PUSHS , Operand: <br>
+Offset: 1684, PUSHS , Operand:  (after Underground Pass and with 50 Attack)
+Offset: 1685, CONCAT , Operand: 3
+Offset: 1686, PUSHS , Operand: Members now have the Magic level required to use 
+Offset: 1687, PUSHS , Operand: <col=000080>
+Offset: 1688, PUSHS , Operand: Iban's Staff
+Offset: 1689, PUSHS , Operand: </col>
+Offset: 1690, PUSHS , Operand:  (after Underground Pass and with 50 Attack).
+Offset: 1691, CONCAT , Operand: 5
+Offset: 1692, RETURN , Operand: 0
+Offset: 1693, GOTO , Operand: 152
+Offset: 1694, PUSHI , Operand: 50
+Offset: 1695, PUSHI , Operand: 4675
+Offset: 1696, PUSHS , Operand: Members: Ancient Staff
+Offset: 1697, PUSHS , Operand: <br>
+Offset: 1698, PUSHS , Operand:  (after Desert Treasure, with 50 Attack)
+Offset: 1699, CONCAT , Operand: 3
+Offset: 1700, PUSHS , Operand: Members now have the Magic level required to use the 
+Offset: 1701, PUSHS , Operand: <col=000080>
+Offset: 1702, PUSHS , Operand: Ancient Staff
+Offset: 1703, PUSHS , Operand: </col>
+Offset: 1704, PUSHS , Operand:  (after Desert Treasure and with 50 Attack).
+Offset: 1705, CONCAT , Operand: 5
+Offset: 1706, RETURN , Operand: 0
+Offset: 1707, GOTO , Operand: 138
+Offset: 1708, PUSHI , Operand: 53
+Offset: 1709, PUSHI , Operand: 18341
+Offset: 1710, PUSHS , Operand: Nature staff
+Offset: 1711, PUSHS , Operand: <br>
+Offset: 1712, PUSHS , Operand:  (with 40 Attack and 53 Dungeoneering)
+Offset: 1713, CONCAT , Operand: 3
+Offset: 1714, PUSHS , Operand: You can now use 
+Offset: 1715, PUSHS , Operand: <col=000080>
+Offset: 1716, PUSHS , Operand: nature staves
+Offset: 1717, PUSHS , Operand: </col>
+Offset: 1718, PUSHS , Operand: . (You also need level 40 Attack and level 53 Dungeoneering.)
+Offset: 1719, CONCAT , Operand: 5
+Offset: 1720, RETURN , Operand: 0
+Offset: 1721, GOTO , Operand: 124
+Offset: 1722, PUSHI , Operand: 60
+Offset: 1723, PUSHI , Operand: 2415
+Offset: 1724, PUSHS , Operand: Members: Saradomin staff
+Offset: 1725, PUSHS , Operand: Members can now use 
+Offset: 1726, PUSHS , Operand: <col=000080>
+Offset: 1727, PUSHS , Operand: Saradomin staves
+Offset: 1728, PUSHS , Operand: </col>
+Offset: 1729, PUSHS , Operand: .
+Offset: 1730, CONCAT , Operand: 5
+Offset: 1731, RETURN , Operand: 0
+Offset: 1732, GOTO , Operand: 113
+Offset: 1733, PUSHI , Operand: 60
+Offset: 1734, PUSHI , Operand: 2416
+Offset: 1735, PUSHS , Operand: Members: Guthix staff
+Offset: 1736, PUSHS , Operand: Members can now use the 
+Offset: 1737, PUSHS , Operand: <col=000080>
+Offset: 1738, PUSHS , Operand: Guthix staves
+Offset: 1739, PUSHS , Operand: </col>
+Offset: 1740, PUSHS , Operand: .
+Offset: 1741, CONCAT , Operand: 5
+Offset: 1742, RETURN , Operand: 0
+Offset: 1743, GOTO , Operand: 102
+Offset: 1744, PUSHI , Operand: 60
+Offset: 1745, PUSHI , Operand: 2417
+Offset: 1746, PUSHS , Operand: Members: Zamorak staff
+Offset: 1747, PUSHS , Operand: Members can now use the 
+Offset: 1748, PUSHS , Operand: <col=000080>
+Offset: 1749, PUSHS , Operand: Zamorak staves
+Offset: 1750, PUSHS , Operand: </col>
+Offset: 1751, PUSHS , Operand: .
+Offset: 1752, CONCAT , Operand: 5
+Offset: 1753, RETURN , Operand: 0
+Offset: 1754, GOTO , Operand: 91
+Offset: 1755, PUSHI , Operand: 60
+Offset: 1756, PUSHI , Operand: 6526
+Offset: 1757, PUSHS , Operand: Members: Toktz-Mej-Tal
+Offset: 1758, PUSHS , Operand: <br>
+Offset: 1759, PUSHS , Operand:  (with level 60 Attack)
+Offset: 1760, CONCAT , Operand: 3
+Offset: 1761, PUSHS , Operand: Members now have the Magic level required to use 
+Offset: 1762, PUSHS , Operand: <col=000080>
+Offset: 1763, PUSHS , Operand: Toktz-Mej-Tal
+Offset: 1764, PUSHS , Operand: </col>
+Offset: 1765, PUSHS , Operand: . (They also need level 60 Attack.)
+Offset: 1766, CONCAT , Operand: 5
+Offset: 1767, RETURN , Operand: 0
+Offset: 1768, GOTO , Operand: 77
+Offset: 1769, PUSHI , Operand: 70
+Offset: 1770, PUSHI , Operand: 15438
+Offset: 1771, PUSHS , Operand: Members: Penance Trident
+Offset: 1772, PUSHS , Operand: Members now have the Magic level required to use the 
+Offset: 1773, PUSHS , Operand: <col=000080>
+Offset: 1774, PUSHS , Operand: Penance Trident
+Offset: 1775, PUSHS , Operand: </col>
+Offset: 1776, PUSHS , Operand: .
+Offset: 1777, CONCAT , Operand: 5
+Offset: 1778, RETURN , Operand: 0
+Offset: 1779, GOTO , Operand: 66
+Offset: 1780, PUSHI , Operand: 70
+Offset: 1781, PUSHI , Operand: 15485
+Offset: 1782, PUSHS , Operand: Members: Penance Master Trident
+Offset: 1783, PUSHS , Operand: <br>
+Offset: 1784, PUSHS , Operand:  (with level 70 Attack)
+Offset: 1785, CONCAT , Operand: 3
+Offset: 1786, PUSHS , Operand: Members now have the Magic level required to use the 
+Offset: 1787, PUSHS , Operand: <col=000080>
+Offset: 1788, PUSHS , Operand: Penance Master Trident
+Offset: 1789, PUSHS , Operand: </col>
+Offset: 1790, PUSHS , Operand: . (They also need level 70 Attack.)
+Offset: 1791, CONCAT , Operand: 5
+Offset: 1792, RETURN , Operand: 0
+Offset: 1793, GOTO , Operand: 52
+Offset: 1794, PUSHI , Operand: 70
+Offset: 1795, PUSHI , Operand: 4710
+Offset: 1796, PUSHS , Operand: Members: Ahrim's staff
+Offset: 1797, PUSHS , Operand: <br>
+Offset: 1798, PUSHS , Operand:  (with level 70 Attack)
+Offset: 1799, CONCAT , Operand: 3
+Offset: 1800, PUSHS , Operand: Members now have the Magic level required to use 
+Offset: 1801, PUSHS , Operand: <col=000080>
+Offset: 1802, PUSHS , Operand: Ahrim's staff
+Offset: 1803, PUSHS , Operand: </col>
+Offset: 1804, PUSHS , Operand: . (They also need level 70 Attack.)
+Offset: 1805, CONCAT , Operand: 5
+Offset: 1806, RETURN , Operand: 0
+Offset: 1807, GOTO , Operand: 38
+Offset: 1808, PUSHI , Operand: 75
+Offset: 1809, PUSHI , Operand: 15486
+Offset: 1810, PUSHS , Operand: Members: Staff of Light (with 75 Attack)
+Offset: 1811, PUSHS , Operand: Members can now wield the 
+Offset: 1812, PUSHS , Operand: <col=000080>
+Offset: 1813, PUSHS , Operand: Staff of Light
+Offset: 1814, PUSHS , Operand: </col>
+Offset: 1815, PUSHS , Operand:  (with 75 Attack).
+Offset: 1816, CONCAT , Operand: 5
+Offset: 1817, RETURN , Operand: 0
+Offset: 1818, GOTO , Operand: 27
+Offset: 1819, PUSHI , Operand: 78
+Offset: 1820, PUSHI , Operand: 13867
+Offset: 1821, PUSHS , Operand: Members: Zuriel's staff
+Offset: 1822, PUSHS , Operand: <br>
+Offset: 1823, PUSHS , Operand:  (with level 78 Attack)
+Offset: 1824, CONCAT , Operand: 3
+Offset: 1825, PUSHS , Operand: Members now have the Magic level required to use 
+Offset: 1826, PUSHS , Operand: <col=000080>
+Offset: 1827, PUSHS , Operand: Zuriel's staff
+Offset: 1828, PUSHS , Operand: </col>
+Offset: 1829, PUSHS , Operand: . (They also need level 78 Attack.)
+Offset: 1830, CONCAT , Operand: 5
+Offset: 1831, RETURN , Operand: 0
+Offset: 1832, GOTO , Operand: 13
+Offset: 1833, PUSHI , Operand: 80
+Offset: 1834, PUSHI , Operand: 18355
+Offset: 1835, PUSHS , Operand: Members: Chaotic staff
+Offset: 1836, PUSHS , Operand: <br>
+Offset: 1837, PUSHS , Operand:  (with 80 Dungeoneering)
+Offset: 1838, CONCAT , Operand: 3
+Offset: 1839, PUSHS , Operand: Members can now wield 
+Offset: 1840, PUSHS , Operand: <col=000080>
+Offset: 1841, PUSHS , Operand: chaotic staves
+Offset: 1842, PUSHS , Operand: </col>
+Offset: 1843, PUSHS , Operand: . (They also need level 80 Dungeoneering.)
+Offset: 1844, CONCAT , Operand: 5
+Offset: 1845, RETURN , Operand: 0
+Offset: 1846, GOTO , Operand: 1442
+Offset: 1847, LOADINT , Operand: 1
+Offset: 1848, SWITCH , Operand: 4
+Offset: 1849, GOTO , Operand: 82
+Offset: 1850, PUSHI , Operand: 35
+Offset: 1851, PUSHI , Operand: 19671
+Offset: 1852, PUSHS , Operand:  Magical blastbox
+Offset: 1853, PUSHS , Operand: <br>
+Offset: 1854, PUSHS , Operand:  (with 30 Dungeoneering and 30 Runecrafting)
+Offset: 1855, CONCAT , Operand: 3
+Offset: 1856, PUSHS , Operand: You can now use 
+Offset: 1857, PUSHS , Operand: <col=000080>
+Offset: 1858, PUSHS , Operand: magical blastboxes
+Offset: 1859, PUSHS , Operand: </col>
+Offset: 1860, PUSHS , Operand: . (You also need level 30 Dungeoneering and 30 Runecrafting.)
+Offset: 1861, CONCAT , Operand: 5
+Offset: 1862, RETURN , Operand: 0
+Offset: 1863, GOTO , Operand: 68
+Offset: 1864, PUSHI , Operand: 45
+Offset: 1865, PUSHI , Operand: 6908
+Offset: 1866, PUSHS , Operand: Members: Beginner wand
+Offset: 1867, PUSHS , Operand: Members can now use 
+Offset: 1868, PUSHS , Operand: <col=000080>
+Offset: 1869, PUSHS , Operand: beginner wands
+Offset: 1870, PUSHS , Operand: </col>
+Offset: 1871, PUSHS , Operand: .
+Offset: 1872, CONCAT , Operand: 5
+Offset: 1873, RETURN , Operand: 0
+Offset: 1874, GOTO , Operand: 57
+Offset: 1875, PUSHI , Operand: 48
+Offset: 1876, PUSHI , Operand: 18346
+Offset: 1877, PUSHS , Operand: Tome of frost
+Offset: 1878, PUSHS , Operand: <br>
+Offset: 1879, PUSHS , Operand:  (with 48 Dungeoneering)
+Offset: 1880, CONCAT , Operand: 3
+Offset: 1881, PUSHS , Operand: You can now use 
+Offset: 1882, PUSHS , Operand: <col=000080>
+Offset: 1883, PUSHS , Operand: tomes of frost
+Offset: 1884, PUSHS , Operand: </col>
+Offset: 1885, PUSHS , Operand: . (You also need level 48 Dungeoneering.)
+Offset: 1886, CONCAT , Operand: 5
+Offset: 1887, RETURN , Operand: 0
+Offset: 1888, GOTO , Operand: 43
+Offset: 1889, PUSHI , Operand: 50
+Offset: 1890, PUSHI , Operand: 6910
+Offset: 1891, PUSHS , Operand: Members: Apprentice wand
+Offset: 1892, PUSHS , Operand: Members can now use 
+Offset: 1893, PUSHS , Operand: <col=000080>
+Offset: 1894, PUSHS , Operand: apprentice wands
+Offset: 1895, PUSHS , Operand: </col>
+Offset: 1896, PUSHS , Operand: .
+Offset: 1897, CONCAT , Operand: 5
+Offset: 1898, RETURN , Operand: 0
+Offset: 1899, GOTO , Operand: 32
+Offset: 1900, PUSHI , Operand: 55
+Offset: 1901, PUSHI , Operand: 6912
+Offset: 1902, PUSHS , Operand: Members: Teacher wand
+Offset: 1903, PUSHS , Operand: Members can now use 
+Offset: 1904, PUSHS , Operand: <col=000080>
+Offset: 1905, PUSHS , Operand: teacher wands
+Offset: 1906, PUSHS , Operand: </col>
+Offset: 1907, PUSHS , Operand: .
+Offset: 1908, CONCAT , Operand: 5
+Offset: 1909, RETURN , Operand: 0
+Offset: 1910, GOTO , Operand: 21
+Offset: 1911, PUSHI , Operand: 60
+Offset: 1912, PUSHI , Operand: 6914
+Offset: 1913, PUSHS , Operand: Members: Master wand
+Offset: 1914, PUSHS , Operand: Members can now use 
+Offset: 1915, PUSHS , Operand: <col=000080>
+Offset: 1916, PUSHS , Operand: master wands
+Offset: 1917, PUSHS , Operand: </col>
+Offset: 1918, PUSHS , Operand: .
+Offset: 1919, CONCAT , Operand: 5
+Offset: 1920, RETURN , Operand: 0
+Offset: 1921, GOTO , Operand: 10
+Offset: 1922, PUSHI , Operand: 60
+Offset: 1923, PUSHI , Operand: 6889
+Offset: 1924, PUSHS , Operand: Members: Mage's book
+Offset: 1925, PUSHS , Operand: Members can now use 
+Offset: 1926, PUSHS , Operand: <col=000080>
+Offset: 1927, PUSHS , Operand: mages' books
+Offset: 1928, PUSHS , Operand: </col>
+Offset: 1929, PUSHS , Operand: .
+Offset: 1930, CONCAT , Operand: 5
+Offset: 1931, RETURN , Operand: 0
+Offset: 1932, GOTO , Operand: 1356
+Offset: 1933, LOADINT , Operand: 1
+Offset: 1934, SWITCH , Operand: 5
+Offset: 1935, GOTO , Operand: 55
+Offset: 1936, PUSHI , Operand: 30
+Offset: 1937, PUSHI , Operand: 10149
+Offset: 1938, PUSHS , Operand: Members: Swamp lizard
+Offset: 1939, PUSHS , Operand: <br>
+Offset: 1940, PUSHS , Operand:  (with level 30 Attack and 30 Ranged)
+Offset: 1941, CONCAT , Operand: 3
+Offset: 1942, PUSHS , Operand: Members now have the Magic level required to wield 
+Offset: 1943, PUSHS , Operand: <col=000080>
+Offset: 1944, PUSHS , Operand: swamp lizards
+Offset: 1945, PUSHS , Operand: </col>
+Offset: 1946, PUSHS , Operand: . (They also need level 30 Attack and level 30 Ranged.)
+Offset: 1947, CONCAT , Operand: 5
+Offset: 1948, RETURN , Operand: 0
+Offset: 1949, GOTO , Operand: 41
+Offset: 1950, PUSHI , Operand: 50
+Offset: 1951, PUSHI , Operand: 10146
+Offset: 1952, PUSHS , Operand: Members: Orange salamander
+Offset: 1953, PUSHS , Operand: <br>
+Offset: 1954, PUSHS , Operand:  (with level 50 Attack and 50 Ranged)
+Offset: 1955, CONCAT , Operand: 3
+Offset: 1956, PUSHS , Operand: Members now have the Magic level required to wield 
+Offset: 1957, PUSHS , Operand: <col=000080>
+Offset: 1958, PUSHS , Operand: orange salamanders
+Offset: 1959, PUSHS , Operand: </col>
+Offset: 1960, PUSHS , Operand: . (They also need level 50 Attack and 50 Ranged.)
+Offset: 1961, CONCAT , Operand: 5
+Offset: 1962, RETURN , Operand: 0
+Offset: 1963, GOTO , Operand: 27
+Offset: 1964, PUSHI , Operand: 60
+Offset: 1965, PUSHI , Operand: 10147
+Offset: 1966, PUSHS , Operand: Members: Red salamander
+Offset: 1967, PUSHS , Operand: <br>
+Offset: 1968, PUSHS , Operand:  (with level 60 Attack and 60 Ranged)
+Offset: 1969, CONCAT , Operand: 3
+Offset: 1970, PUSHS , Operand: Members now have the Magic level required to wield 
+Offset: 1971, PUSHS , Operand: <col=000080>
+Offset: 1972, PUSHS , Operand: red salamanders
+Offset: 1973, PUSHS , Operand: </col>
+Offset: 1974, PUSHS , Operand: . (They also need level 60 Attack and 60 Ranged.)
+Offset: 1975, CONCAT , Operand: 5
+Offset: 1976, RETURN , Operand: 0
+Offset: 1977, GOTO , Operand: 13
+Offset: 1978, PUSHI , Operand: 70
+Offset: 1979, PUSHI , Operand: 10148
+Offset: 1980, PUSHS , Operand: Members: Black salamander
+Offset: 1981, PUSHS , Operand: <br>
+Offset: 1982, PUSHS , Operand:  (with level 70 Attack and 70 Ranged)
+Offset: 1983, CONCAT , Operand: 3
+Offset: 1984, PUSHS , Operand: Members now have the Magic level required to wield 
+Offset: 1985, PUSHS , Operand: <col=000080>
+Offset: 1986, PUSHS , Operand: black salamanders
+Offset: 1987, PUSHS , Operand: </col>
+Offset: 1988, PUSHS , Operand: . (They also need level 70 Attack and 70 Ranged.)
+Offset: 1989, CONCAT , Operand: 5
+Offset: 1990, RETURN , Operand: 0
+Offset: 1991, GOTO , Operand: 1297
+Offset: 1992, LOADINT , Operand: 1
+Offset: 1993, SWITCH , Operand: 6
+Offset: 1994, GOTO , Operand: 219
+Offset: 1995, PUSHI , Operand: 1
+Offset: 1996, PUSHI , Operand: 14377
+Offset: 1997, PUSHS , Operand: Members: Stealing Creation - class 1 staff
+Offset: 1998, PUSHS , Operand: Members can now wield 
+Offset: 1999, PUSHS , Operand: <col=000080>
+Offset: 2000, PUSHS , Operand: class 1 staves
+Offset: 2001, PUSHS , Operand: </col>
+Offset: 2002, PUSHS , Operand:  in Stealing Creation.
+Offset: 2003, CONCAT , Operand: 5
+Offset: 2004, RETURN , Operand: 0
+Offset: 2005, GOTO , Operand: 208
+Offset: 2006, PUSHI , Operand: 1
+Offset: 2007, PUSHI , Operand: 14337
+Offset: 2008, PUSHS , Operand: Members: Stealing Creation - class 1 hat
+Offset: 2009, PUSHS , Operand: Members can now wear 
+Offset: 2010, PUSHS , Operand: <col=000080>
+Offset: 2011, PUSHS , Operand: class 1 hats
+Offset: 2012, PUSHS , Operand: </col>
+Offset: 2013, PUSHS , Operand:  in Stealing Creation.
+Offset: 2014, CONCAT , Operand: 5
+Offset: 2015, RETURN , Operand: 0
+Offset: 2016, GOTO , Operand: 197
+Offset: 2017, PUSHI , Operand: 1
+Offset: 2018, PUSHI , Operand: 14317
+Offset: 2019, PUSHS , Operand: Members: Stealing Creation - class 1 robe top
+Offset: 2020, PUSHS , Operand: Members can now wear 
+Offset: 2021, PUSHS , Operand: <col=000080>
+Offset: 2022, PUSHS , Operand: class 1 robe tops
+Offset: 2023, PUSHS , Operand: </col>
+Offset: 2024, PUSHS , Operand:  in Stealing Creation.
+Offset: 2025, CONCAT , Operand: 5
+Offset: 2026, RETURN , Operand: 0
+Offset: 2027, GOTO , Operand: 186
+Offset: 2028, PUSHI , Operand: 1
+Offset: 2029, PUSHI , Operand: 14327
+Offset: 2030, PUSHS , Operand: Members: Stealing Creation - class 1 robe bottom
+Offset: 2031, PUSHS , Operand: Members can now wear 
+Offset: 2032, PUSHS , Operand: <col=000080>
+Offset: 2033, PUSHS , Operand: class 1 robe bottoms
+Offset: 2034, PUSHS , Operand: </col>
+Offset: 2035, PUSHS , Operand:  in Stealing Creation.
+Offset: 2036, CONCAT , Operand: 5
+Offset: 2037, RETURN , Operand: 0
+Offset: 2038, GOTO , Operand: 175
+Offset: 2039, PUSHI , Operand: 20
+Offset: 2040, PUSHI , Operand: 14379
+Offset: 2041, PUSHS , Operand: Members: Stealing Creation - class 2 staff
+Offset: 2042, PUSHS , Operand: Members can now wield 
+Offset: 2043, PUSHS , Operand: <col=000080>
+Offset: 2044, PUSHS , Operand: class 2 staves
+Offset: 2045, PUSHS , Operand: </col>
+Offset: 2046, PUSHS , Operand:  in Stealing Creation.
+Offset: 2047, CONCAT , Operand: 5
+Offset: 2048, RETURN , Operand: 0
+Offset: 2049, GOTO , Operand: 164
+Offset: 2050, PUSHI , Operand: 20
+Offset: 2051, PUSHI , Operand: 14339
+Offset: 2052, PUSHS , Operand: Members: Stealing Creation - class 2 hat
+Offset: 2053, PUSHS , Operand: Members can now wear 
+Offset: 2054, PUSHS , Operand: <col=000080>
+Offset: 2055, PUSHS , Operand: class 2 hats
+Offset: 2056, PUSHS , Operand: </col>
+Offset: 2057, PUSHS , Operand:  in Stealing Creation.
+Offset: 2058, CONCAT , Operand: 5
+Offset: 2059, RETURN , Operand: 0
+Offset: 2060, GOTO , Operand: 153
+Offset: 2061, PUSHI , Operand: 20
+Offset: 2062, PUSHI , Operand: 14319
+Offset: 2063, PUSHS , Operand: Members: Stealing Creation - class 2 robe top
+Offset: 2064, PUSHS , Operand: Members can now wear 
+Offset: 2065, PUSHS , Operand: <col=000080>
+Offset: 2066, PUSHS , Operand: class 2 robe tops
+Offset: 2067, PUSHS , Operand: </col>
+Offset: 2068, PUSHS , Operand:  in Stealing Creation.
+Offset: 2069, CONCAT , Operand: 5
+Offset: 2070, RETURN , Operand: 0
+Offset: 2071, GOTO , Operand: 142
+Offset: 2072, PUSHI , Operand: 20
+Offset: 2073, PUSHI , Operand: 14329
+Offset: 2074, PUSHS , Operand: Members: Stealing Creation - class 2 robe bottom
+Offset: 2075, PUSHS , Operand: Members can now wear 
+Offset: 2076, PUSHS , Operand: <col=000080>
+Offset: 2077, PUSHS , Operand: class 2 robe bottoms
+Offset: 2078, PUSHS , Operand: </col>
+Offset: 2079, PUSHS , Operand:  in Stealing Creation.
+Offset: 2080, CONCAT , Operand: 5
+Offset: 2081, RETURN , Operand: 0
+Offset: 2082, GOTO , Operand: 131
+Offset: 2083, PUSHI , Operand: 40
+Offset: 2084, PUSHI , Operand: 14381
+Offset: 2085, PUSHS , Operand: Members: Stealing Creation - class 3 staff
+Offset: 2086, PUSHS , Operand: Members can now wield 
+Offset: 2087, PUSHS , Operand: <col=000080>
+Offset: 2088, PUSHS , Operand: class 3 staves
+Offset: 2089, PUSHS , Operand: </col>
+Offset: 2090, PUSHS , Operand:  in Stealing Creation.
+Offset: 2091, CONCAT , Operand: 5
+Offset: 2092, RETURN , Operand: 0
+Offset: 2093, GOTO , Operand: 120
+Offset: 2094, PUSHI , Operand: 40
+Offset: 2095, PUSHI , Operand: 14341
+Offset: 2096, PUSHS , Operand: Members: Stealing Creation - class 3 hat
+Offset: 2097, PUSHS , Operand: Members can now wear 
+Offset: 2098, PUSHS , Operand: <col=000080>
+Offset: 2099, PUSHS , Operand: class 3 hats
+Offset: 2100, PUSHS , Operand: </col>
+Offset: 2101, PUSHS , Operand:  in Stealing Creation.
+Offset: 2102, CONCAT , Operand: 5
+Offset: 2103, RETURN , Operand: 0
+Offset: 2104, GOTO , Operand: 109
+Offset: 2105, PUSHI , Operand: 40
+Offset: 2106, PUSHI , Operand: 14321
+Offset: 2107, PUSHS , Operand: Members: Stealing Creation - class 3 robe top
+Offset: 2108, PUSHS , Operand: Members can now wear 
+Offset: 2109, PUSHS , Operand: <col=000080>
+Offset: 2110, PUSHS , Operand: class 3 robe tops
+Offset: 2111, PUSHS , Operand: </col>
+Offset: 2112, PUSHS , Operand:  in Stealing Creation.
+Offset: 2113, CONCAT , Operand: 5
+Offset: 2114, RETURN , Operand: 0
+Offset: 2115, GOTO , Operand: 98
+Offset: 2116, PUSHI , Operand: 40
+Offset: 2117, PUSHI , Operand: 14331
+Offset: 2118, PUSHS , Operand: Members: Stealing Creation - class 3 robe bottom
+Offset: 2119, PUSHS , Operand: Members can now wear 
+Offset: 2120, PUSHS , Operand: <col=000080>
+Offset: 2121, PUSHS , Operand: class 3 robe bottoms
+Offset: 2122, PUSHS , Operand: </col>
+Offset: 2123, PUSHS , Operand:  in Stealing Creation.
+Offset: 2124, CONCAT , Operand: 5
+Offset: 2125, RETURN , Operand: 0
+Offset: 2126, GOTO , Operand: 87
+Offset: 2127, PUSHI , Operand: 60
+Offset: 2128, PUSHI , Operand: 14383
+Offset: 2129, PUSHS , Operand: Members: Stealing Creation - class 4 staff
+Offset: 2130, PUSHS , Operand: Members can now wield 
+Offset: 2131, PUSHS , Operand: <col=000080>
+Offset: 2132, PUSHS , Operand: class 4 staves
+Offset: 2133, PUSHS , Operand: </col>
+Offset: 2134, PUSHS , Operand:  in Stealing Creation.
+Offset: 2135, CONCAT , Operand: 5
+Offset: 2136, RETURN , Operand: 0
+Offset: 2137, GOTO , Operand: 76
+Offset: 2138, PUSHI , Operand: 60
+Offset: 2139, PUSHI , Operand: 14343
+Offset: 2140, PUSHS , Operand: Members: Stealing Creation - class 4 hat
+Offset: 2141, PUSHS , Operand: Members can now wear 
+Offset: 2142, PUSHS , Operand: <col=000080>
+Offset: 2143, PUSHS , Operand: class 4 hats
+Offset: 2144, PUSHS , Operand: </col>
+Offset: 2145, PUSHS , Operand:  in Stealing Creation.
+Offset: 2146, CONCAT , Operand: 5
+Offset: 2147, RETURN , Operand: 0
+Offset: 2148, GOTO , Operand: 65
+Offset: 2149, PUSHI , Operand: 60
+Offset: 2150, PUSHI , Operand: 14323
+Offset: 2151, PUSHS , Operand: Members: Stealing Creation - class 4 robe top
+Offset: 2152, PUSHS , Operand: Members can now wear 
+Offset: 2153, PUSHS , Operand: <col=000080>
+Offset: 2154, PUSHS , Operand: class 4 robe tops
+Offset: 2155, PUSHS , Operand: </col>
+Offset: 2156, PUSHS , Operand:  in Stealing Creation.
+Offset: 2157, CONCAT , Operand: 5
+Offset: 2158, RETURN , Operand: 0
+Offset: 2159, GOTO , Operand: 54
+Offset: 2160, PUSHI , Operand: 60
+Offset: 2161, PUSHI , Operand: 14333
+Offset: 2162, PUSHS , Operand: Members: Stealing Creation - class 4 robe bottom
+Offset: 2163, PUSHS , Operand: Members can now wear 
+Offset: 2164, PUSHS , Operand: <col=000080>
+Offset: 2165, PUSHS , Operand: class 4 robe bottoms
+Offset: 2166, PUSHS , Operand: </col>
+Offset: 2167, PUSHS , Operand:  in Stealing Creation.
+Offset: 2168, CONCAT , Operand: 5
+Offset: 2169, RETURN , Operand: 0
+Offset: 2170, GOTO , Operand: 43
+Offset: 2171, PUSHI , Operand: 80
+Offset: 2172, PUSHI , Operand: 14385
+Offset: 2173, PUSHS , Operand: Members: Stealing Creation - class 5 staff
+Offset: 2174, PUSHS , Operand: Members can now wield 
+Offset: 2175, PUSHS , Operand: <col=000080>
+Offset: 2176, PUSHS , Operand: class 5 staves
+Offset: 2177, PUSHS , Operand: </col>
+Offset: 2178, PUSHS , Operand:  in Stealing Creation.
+Offset: 2179, CONCAT , Operand: 5
+Offset: 2180, RETURN , Operand: 0
+Offset: 2181, GOTO , Operand: 32
+Offset: 2182, PUSHI , Operand: 80
+Offset: 2183, PUSHI , Operand: 14345
+Offset: 2184, PUSHS , Operand: Members: Stealing Creation - class 5 hat
+Offset: 2185, PUSHS , Operand: Members can now wear 
+Offset: 2186, PUSHS , Operand: <col=000080>
+Offset: 2187, PUSHS , Operand: class 5 hats
+Offset: 2188, PUSHS , Operand: </col>
+Offset: 2189, PUSHS , Operand:  in Stealing Creation.
+Offset: 2190, CONCAT , Operand: 5
+Offset: 2191, RETURN , Operand: 0
+Offset: 2192, GOTO , Operand: 21
+Offset: 2193, PUSHI , Operand: 80
+Offset: 2194, PUSHI , Operand: 14325
+Offset: 2195, PUSHS , Operand: Members: Stealing Creation - class 5 robe top
+Offset: 2196, PUSHS , Operand: Members can now wear 
+Offset: 2197, PUSHS , Operand: <col=000080>
+Offset: 2198, PUSHS , Operand: class 5 robe tops
+Offset: 2199, PUSHS , Operand: </col>
+Offset: 2200, PUSHS , Operand:  in Stealing Creation.
+Offset: 2201, CONCAT , Operand: 5
+Offset: 2202, RETURN , Operand: 0
+Offset: 2203, GOTO , Operand: 10
+Offset: 2204, PUSHI , Operand: 80
+Offset: 2205, PUSHI , Operand: 14335
+Offset: 2206, PUSHS , Operand: Members: Stealing Creation - class 5 robe bottom
+Offset: 2207, PUSHS , Operand: Members can now wear 
+Offset: 2208, PUSHS , Operand: <col=000080>
+Offset: 2209, PUSHS , Operand: class 5 robe bottoms
+Offset: 2210, PUSHS , Operand: </col>
+Offset: 2211, PUSHS , Operand:  in Stealing Creation.
+Offset: 2212, CONCAT , Operand: 5
+Offset: 2213, RETURN , Operand: 0
+Offset: 2214, GOTO , Operand: 1074
+Offset: 2215, LOADINT , Operand: 1
+Offset: 2216, SWITCH , Operand: 7
+Offset: 2217, GOTO , Operand: 999
+Offset: 2218, PUSHI , Operand: -1
+Offset: 2219, PUSHI , Operand: 15707
+Offset: 2220, PUSHS , Operand: Dungeoneering skill tasks
+Offset: 2221, PUSHS , Operand: <br>
+Offset: 2222, PUSHS , Operand: As your Magic level increases, you will be able to attempt higher-level magic tasks within Daemonheim. You will also be more likely to succeed when attempting magic tasks within Daemonheim.
+Offset: 2223, CONCAT , Operand: 3
+Offset: 2224, PUSHS , Operand: 
+Offset: 2225, RETURN , Operand: 0
+Offset: 2226, GOTO , Operand: 990
+Offset: 2227, PUSHI , Operand: 1
+Offset: 2228, PUSHI , Operand: 16977
+Offset: 2229, PUSHS , Operand: Basic staves (all tiers)
+Offset: 2230, PUSHS , Operand: You can now wield 
+Offset: 2231, PUSHS , Operand: <col=000080>
+Offset: 2232, PUSHS , Operand: basic staves
+Offset: 2233, PUSHS , Operand: </col>
+Offset: 2234, PUSHS , Operand:  within Daemonheim.
+Offset: 2235, CONCAT , Operand: 5
+Offset: 2236, RETURN , Operand: 0
+Offset: 2237, GOTO , Operand: 979
+Offset: 2238, PUSHI , Operand: 1
+Offset: 2239, PUSHI , Operand: 16997
+Offset: 2240, PUSHS , Operand: Water staff
+Offset: 2241, PUSHS , Operand: You can now wield 
+Offset: 2242, PUSHS , Operand: <col=000080>
+Offset: 2243, PUSHS , Operand: water staves
+Offset: 2244, PUSHS , Operand: </col>
+Offset: 2245, PUSHS , Operand:  within Daemonheim.
+Offset: 2246, CONCAT , Operand: 5
+Offset: 2247, RETURN , Operand: 0
+Offset: 2248, GOTO , Operand: 968
+Offset: 2249, PUSHI , Operand: 1
+Offset: 2250, PUSHI , Operand: 16735
+Offset: 2251, PUSHS , Operand: Salve hood (Tier 1)
+Offset: 2252, PUSHS , Operand: <br>
+Offset: 2253, PUSHS , Operand:  (with 1 Defence)
+Offset: 2254, CONCAT , Operand: 3
+Offset: 2255, PUSHS , Operand: You can now wear 
+Offset: 2256, PUSHS , Operand: <col=000080>
+Offset: 2257, PUSHS , Operand: salve hoods
+Offset: 2258, PUSHS , Operand: </col>
+Offset: 2259, PUSHS , Operand:  within Daemonheim. (You also need level 1 Defence.)
+Offset: 2260, CONCAT , Operand: 5
+Offset: 2261, RETURN , Operand: 0
+Offset: 2262, GOTO , Operand: 954
+Offset: 2263, PUSHI , Operand: 1
+Offset: 2264, PUSHI , Operand: 17217
+Offset: 2265, PUSHS , Operand: Salve robe top (Tier 1)
+Offset: 2266, PUSHS , Operand: <br>
+Offset: 2267, PUSHS , Operand:  (with 1 Defence)
+Offset: 2268, CONCAT , Operand: 3
+Offset: 2269, PUSHS , Operand: You can now wear 
+Offset: 2270, PUSHS , Operand: <col=000080>
+Offset: 2271, PUSHS , Operand: salve robe tops
+Offset: 2272, PUSHS , Operand: </col>
+Offset: 2273, PUSHS , Operand:  within Daemonheim. (You also need level 1 Defence.)
+Offset: 2274, CONCAT , Operand: 5
+Offset: 2275, RETURN , Operand: 0
+Offset: 2276, GOTO , Operand: 940
+Offset: 2277, PUSHI , Operand: 1
+Offset: 2278, PUSHI , Operand: 16845
+Offset: 2279, PUSHS , Operand: Salve robe bottom (Tier 1)
+Offset: 2280, PUSHS , Operand: <br>
+Offset: 2281, PUSHS , Operand:  (with 1 Defence)
+Offset: 2282, CONCAT , Operand: 3
+Offset: 2283, PUSHS , Operand: You can now wear 
+Offset: 2284, PUSHS , Operand: <col=000080>
+Offset: 2285, PUSHS , Operand: salve robe bottoms
+Offset: 2286, PUSHS , Operand: </col>
+Offset: 2287, PUSHS , Operand:  within Daemonheim. (You also need level 1 Defence.)
+Offset: 2288, CONCAT , Operand: 5
+Offset: 2289, RETURN , Operand: 0
+Offset: 2290, GOTO , Operand: 926
+Offset: 2291, PUSHI , Operand: 1
+Offset: 2292, PUSHI , Operand: 17151
+Offset: 2293, PUSHS , Operand: Salve gloves (Tier 1)
+Offset: 2294, PUSHS , Operand: <br>
+Offset: 2295, PUSHS , Operand:  (with 1 Defence)
+Offset: 2296, CONCAT , Operand: 3
+Offset: 2297, PUSHS , Operand: You can now wear 
+Offset: 2298, PUSHS , Operand: <col=000080>
+Offset: 2299, PUSHS , Operand: salve gloves
+Offset: 2300, PUSHS , Operand: </col>
+Offset: 2301, PUSHS , Operand:  within Daemonheim. (You also need level 1 Defence.)
+Offset: 2302, CONCAT , Operand: 5
+Offset: 2303, RETURN , Operand: 0
+Offset: 2304, GOTO , Operand: 912
+Offset: 2305, PUSHI , Operand: 1
+Offset: 2306, PUSHI , Operand: 16911
+Offset: 2307, PUSHS , Operand: Salve boots (Tier 1)
+Offset: 2308, PUSHS , Operand: <br>
+Offset: 2309, PUSHS , Operand:  (with 1 Defence)
+Offset: 2310, CONCAT , Operand: 3
+Offset: 2311, PUSHS , Operand: You can now wear 
+Offset: 2312, PUSHS , Operand: <col=000080>
+Offset: 2313, PUSHS , Operand: salve boots
+Offset: 2314, PUSHS , Operand: </col>
+Offset: 2315, PUSHS , Operand:  within Daemonheim. (You also need level 1 Defence.)
+Offset: 2316, CONCAT , Operand: 5
+Offset: 2317, RETURN , Operand: 0
+Offset: 2318, GOTO , Operand: 898
+Offset: 2319, PUSHI , Operand: 10
+Offset: 2320, PUSHI , Operand: 17001
+Offset: 2321, PUSHS , Operand: Earth staff
+Offset: 2322, PUSHS , Operand: You can now wield 
+Offset: 2323, PUSHS , Operand: <col=000080>
+Offset: 2324, PUSHS , Operand: earth staves
+Offset: 2325, PUSHS , Operand: </col>
+Offset: 2326, PUSHS , Operand:  within Daemonheim.
+Offset: 2327, CONCAT , Operand: 5
+Offset: 2328, RETURN , Operand: 0
+Offset: 2329, GOTO , Operand: 887
+Offset: 2330, PUSHI , Operand: 10
+Offset: 2331, PUSHI , Operand: 16737
+Offset: 2332, PUSHS , Operand: Wildercress hood (Tier 2)
+Offset: 2333, PUSHS , Operand: <br>
+Offset: 2334, PUSHS , Operand:  (with 10 Defence)
+Offset: 2335, CONCAT , Operand: 3
+Offset: 2336, PUSHS , Operand: You can now wear 
+Offset: 2337, PUSHS , Operand: <col=000080>
+Offset: 2338, PUSHS , Operand: wildercress hoods
+Offset: 2339, PUSHS , Operand: </col>
+Offset: 2340, PUSHS , Operand:  within Daemonheim. (You also need level 10 Defence.)
+Offset: 2341, CONCAT , Operand: 5
+Offset: 2342, RETURN , Operand: 0
+Offset: 2343, GOTO , Operand: 873
+Offset: 2344, PUSHI , Operand: 10
+Offset: 2345, PUSHI , Operand: 17219
+Offset: 2346, PUSHS , Operand: Wildercress robe top (Tier 2)
+Offset: 2347, PUSHS , Operand: <br>
+Offset: 2348, PUSHS , Operand:  (with 10 Defence)
+Offset: 2349, CONCAT , Operand: 3
+Offset: 2350, PUSHS , Operand: You can now wear 
+Offset: 2351, PUSHS , Operand: <col=000080>
+Offset: 2352, PUSHS , Operand: wildercress robe tops
+Offset: 2353, PUSHS , Operand: </col>
+Offset: 2354, PUSHS , Operand:  within Daemonheim. (You also need level 10 Defence.)
+Offset: 2355, CONCAT , Operand: 5
+Offset: 2356, RETURN , Operand: 0
+Offset: 2357, GOTO , Operand: 859
+Offset: 2358, PUSHI , Operand: 10
+Offset: 2359, PUSHI , Operand: 16847
+Offset: 2360, PUSHS , Operand: Wildercress robe bottom (Tier 2)
+Offset: 2361, PUSHS , Operand: <br>
+Offset: 2362, PUSHS , Operand:  (with 10 Defence)
+Offset: 2363, CONCAT , Operand: 3
+Offset: 2364, PUSHS , Operand: You can now wear 
+Offset: 2365, PUSHS , Operand: <col=000080>
+Offset: 2366, PUSHS , Operand: wildercress robe bottoms
+Offset: 2367, PUSHS , Operand: </col>
+Offset: 2368, PUSHS , Operand:  within Daemonheim. (You also need level 10 Defence.)
+Offset: 2369, CONCAT , Operand: 5
+Offset: 2370, RETURN , Operand: 0
+Offset: 2371, GOTO , Operand: 845
+Offset: 2372, PUSHI , Operand: 10
+Offset: 2373, PUSHI , Operand: 17153
+Offset: 2374, PUSHS , Operand: Wildercress gloves (Tier 2)
+Offset: 2375, PUSHS , Operand: <br>
+Offset: 2376, PUSHS , Operand:  (with 10 Defence)
+Offset: 2377, CONCAT , Operand: 3
+Offset: 2378, PUSHS , Operand: You can now wear 
+Offset: 2379, PUSHS , Operand: <col=000080>
+Offset: 2380, PUSHS , Operand: wildercress gloves
+Offset: 2381, PUSHS , Operand: </col>
+Offset: 2382, PUSHS , Operand:  within Daemonheim. (You also need level 10 Defence.)
+Offset: 2383, CONCAT , Operand: 5
+Offset: 2384, RETURN , Operand: 0
+Offset: 2385, GOTO , Operand: 831
+Offset: 2386, PUSHI , Operand: 10
+Offset: 2387, PUSHI , Operand: 16913
+Offset: 2388, PUSHS , Operand: Wildercress boots (Tier 2)
+Offset: 2389, PUSHS , Operand: <br>
+Offset: 2390, PUSHS , Operand:  (with 10 Defence)
+Offset: 2391, CONCAT , Operand: 3
+Offset: 2392, PUSHS , Operand: You can now wear 
+Offset: 2393, PUSHS , Operand: <col=000080>
+Offset: 2394, PUSHS , Operand: wildercress boots
+Offset: 2395, PUSHS , Operand: </col>
+Offset: 2396, PUSHS , Operand:  within Daemonheim. (You also need level 10 Defence.)
+Offset: 2397, CONCAT , Operand: 5
+Offset: 2398, RETURN , Operand: 0
+Offset: 2399, GOTO , Operand: 817
+Offset: 2400, PUSHI , Operand: 20
+Offset: 2401, PUSHI , Operand: 17005
+Offset: 2402, PUSHS , Operand: Fire staff
+Offset: 2403, PUSHS , Operand: You can now wield 
+Offset: 2404, PUSHS , Operand: <col=000080>
+Offset: 2405, PUSHS , Operand: fire staves
+Offset: 2406, PUSHS , Operand: </col>
+Offset: 2407, PUSHS , Operand:  within Daemonheim.
+Offset: 2408, CONCAT , Operand: 5
+Offset: 2409, RETURN , Operand: 0
+Offset: 2410, GOTO , Operand: 806
+Offset: 2411, PUSHI , Operand: 20
+Offset: 2412, PUSHI , Operand: 16739
+Offset: 2413, PUSHS , Operand: Blightleaf hood (Tier 3)
+Offset: 2414, PUSHS , Operand: <br>
+Offset: 2415, PUSHS , Operand:  (with 20 Defence)
+Offset: 2416, CONCAT , Operand: 3
+Offset: 2417, PUSHS , Operand: You can now wear 
+Offset: 2418, PUSHS , Operand: <col=000080>
+Offset: 2419, PUSHS , Operand: blightleaf hoods
+Offset: 2420, PUSHS , Operand: </col>
+Offset: 2421, PUSHS , Operand:  within Daemonheim. (You also need level 20 Defence.)
+Offset: 2422, CONCAT , Operand: 5
+Offset: 2423, RETURN , Operand: 0
+Offset: 2424, GOTO , Operand: 792
+Offset: 2425, PUSHI , Operand: 20
+Offset: 2426, PUSHI , Operand: 17221
+Offset: 2427, PUSHS , Operand: Blightleaf robe top (Tier 3)
+Offset: 2428, PUSHS , Operand: <br>
+Offset: 2429, PUSHS , Operand:  (with 20 Defence)
+Offset: 2430, CONCAT , Operand: 3
+Offset: 2431, PUSHS , Operand: You can now wear 
+Offset: 2432, PUSHS , Operand: <col=000080>
+Offset: 2433, PUSHS , Operand: blightleaf robe tops
+Offset: 2434, PUSHS , Operand: </col>
+Offset: 2435, PUSHS , Operand:  within Daemonheim. (You also need level 20 Defence.)
+Offset: 2436, CONCAT , Operand: 5
+Offset: 2437, RETURN , Operand: 0
+Offset: 2438, GOTO , Operand: 778
+Offset: 2439, PUSHI , Operand: 20
+Offset: 2440, PUSHI , Operand: 16849
+Offset: 2441, PUSHS , Operand: Blightleaf robe bottom (Tier 3)
+Offset: 2442, PUSHS , Operand: <br>
+Offset: 2443, PUSHS , Operand:  (with 20 Defence)
+Offset: 2444, CONCAT , Operand: 3
+Offset: 2445, PUSHS , Operand: You can now wear 
+Offset: 2446, PUSHS , Operand: <col=000080>
+Offset: 2447, PUSHS , Operand: blightleaf robe bottoms
+Offset: 2448, PUSHS , Operand: </col>
+Offset: 2449, PUSHS , Operand:  within Daemonheim. (You also need level 20 Defence.)
+Offset: 2450, CONCAT , Operand: 5
+Offset: 2451, RETURN , Operand: 0
+Offset: 2452, GOTO , Operand: 764
+Offset: 2453, PUSHI , Operand: 20
+Offset: 2454, PUSHI , Operand: 17155
+Offset: 2455, PUSHS , Operand: Blightleaf gloves (Tier 3)
+Offset: 2456, PUSHS , Operand: <br>
+Offset: 2457, PUSHS , Operand:  (with 20 Defence)
+Offset: 2458, CONCAT , Operand: 3
+Offset: 2459, PUSHS , Operand: You can now wear 
+Offset: 2460, PUSHS , Operand: <col=000080>
+Offset: 2461, PUSHS , Operand: blightleaf gloves
+Offset: 2462, PUSHS , Operand: </col>
+Offset: 2463, PUSHS , Operand:  within Daemonheim. (You also need level 20 Defence.)
+Offset: 2464, CONCAT , Operand: 5
+Offset: 2465, RETURN , Operand: 0
+Offset: 2466, GOTO , Operand: 750
+Offset: 2467, PUSHI , Operand: 20
+Offset: 2468, PUSHI , Operand: 16915
+Offset: 2469, PUSHS , Operand: Blightleaf boots (Tier 3)
+Offset: 2470, PUSHS , Operand: <br>
+Offset: 2471, PUSHS , Operand:  (with 20 Defence)
+Offset: 2472, CONCAT , Operand: 3
+Offset: 2473, PUSHS , Operand: You can now wear 
+Offset: 2474, PUSHS , Operand: <col=000080>
+Offset: 2475, PUSHS , Operand: blightleaf boots
+Offset: 2476, PUSHS , Operand: </col>
+Offset: 2477, PUSHS , Operand:  within Daemonheim. (You also need level 20 Defence.)
+Offset: 2478, CONCAT , Operand: 5
+Offset: 2479, RETURN , Operand: 0
+Offset: 2480, GOTO , Operand: 736
+Offset: 2481, PUSHI , Operand: 30
+Offset: 2482, PUSHI , Operand: 17009
+Offset: 2483, PUSHS , Operand: Air staff
+Offset: 2484, PUSHS , Operand: You can now wield 
+Offset: 2485, PUSHS , Operand: <col=000080>
+Offset: 2486, PUSHS , Operand: air staves
+Offset: 2487, PUSHS , Operand: </col>
+Offset: 2488, PUSHS , Operand:  within Daemonheim.
+Offset: 2489, CONCAT , Operand: 5
+Offset: 2490, RETURN , Operand: 0
+Offset: 2491, GOTO , Operand: 725
+Offset: 2492, PUSHI , Operand: 30
+Offset: 2493, PUSHI , Operand: 16741
+Offset: 2494, PUSHS , Operand: Roseblood hood (Tier 4)
+Offset: 2495, PUSHS , Operand: <br>
+Offset: 2496, PUSHS , Operand:  (with 30 Defence)
+Offset: 2497, CONCAT , Operand: 3
+Offset: 2498, PUSHS , Operand: You can now wear 
+Offset: 2499, PUSHS , Operand: <col=000080>
+Offset: 2500, PUSHS , Operand: roseblood hoods
+Offset: 2501, PUSHS , Operand: </col>
+Offset: 2502, PUSHS , Operand:  within Daemonheim. (You also need level 30 Defence.)
+Offset: 2503, CONCAT , Operand: 5
+Offset: 2504, RETURN , Operand: 0
+Offset: 2505, GOTO , Operand: 711
+Offset: 2506, PUSHI , Operand: 30
+Offset: 2507, PUSHI , Operand: 17223
+Offset: 2508, PUSHS , Operand: Roseblood robe top (Tier 4)
+Offset: 2509, PUSHS , Operand: <br>
+Offset: 2510, PUSHS , Operand:  (with 30 Defence)
+Offset: 2511, CONCAT , Operand: 3
+Offset: 2512, PUSHS , Operand: You can now wear 
+Offset: 2513, PUSHS , Operand: <col=000080>
+Offset: 2514, PUSHS , Operand: roseblood robe tops
+Offset: 2515, PUSHS , Operand: </col>
+Offset: 2516, PUSHS , Operand:  within Daemonheim. (You also need level 30 Defence.)
+Offset: 2517, CONCAT , Operand: 5
+Offset: 2518, RETURN , Operand: 0
+Offset: 2519, GOTO , Operand: 697
+Offset: 2520, PUSHI , Operand: 30
+Offset: 2521, PUSHI , Operand: 16851
+Offset: 2522, PUSHS , Operand: Roseblood robe bottom (Tier 4)
+Offset: 2523, PUSHS , Operand: <br>
+Offset: 2524, PUSHS , Operand:  (with 30 Defence)
+Offset: 2525, CONCAT , Operand: 3
+Offset: 2526, PUSHS , Operand: You can now wear 
+Offset: 2527, PUSHS , Operand: <col=000080>
+Offset: 2528, PUSHS , Operand: roseblood robe bottoms
+Offset: 2529, PUSHS , Operand: </col>
+Offset: 2530, PUSHS , Operand:  within Daemonheim. (You also need level 30 Defence.)
+Offset: 2531, CONCAT , Operand: 5
+Offset: 2532, RETURN , Operand: 0
+Offset: 2533, GOTO , Operand: 683
+Offset: 2534, PUSHI , Operand: 30
+Offset: 2535, PUSHI , Operand: 17157
+Offset: 2536, PUSHS , Operand: Roseblood gloves (Tier 4)
+Offset: 2537, PUSHS , Operand: <br>
+Offset: 2538, PUSHS , Operand:  (with 30 Defence)
+Offset: 2539, CONCAT , Operand: 3
+Offset: 2540, PUSHS , Operand: You can now wear 
+Offset: 2541, PUSHS , Operand: <col=000080>
+Offset: 2542, PUSHS , Operand: roseblood gloves
+Offset: 2543, PUSHS , Operand: </col>
+Offset: 2544, PUSHS , Operand:  within Daemonheim. (You also need level 30 Defence.)
+Offset: 2545, CONCAT , Operand: 5
+Offset: 2546, RETURN , Operand: 0
+Offset: 2547, GOTO , Operand: 669
+Offset: 2548, PUSHI , Operand: 30
+Offset: 2549, PUSHI , Operand: 16917
+Offset: 2550, PUSHS , Operand: Roseblood boots (Tier 4)
+Offset: 2551, PUSHS , Operand: <br>
+Offset: 2552, PUSHS , Operand:  (with 30 Defence)
+Offset: 2553, CONCAT , Operand: 3
+Offset: 2554, PUSHS , Operand: You can now wear 
+Offset: 2555, PUSHS , Operand: <col=000080>
+Offset: 2556, PUSHS , Operand: roseblood boots
+Offset: 2557, PUSHS , Operand: </col>
+Offset: 2558, PUSHS , Operand:  within Daemonheim. (You also need level 30 Defence.)
+Offset: 2559, CONCAT , Operand: 5
+Offset: 2560, RETURN , Operand: 0
+Offset: 2561, GOTO , Operand: 655
+Offset: 2562, PUSHI , Operand: 32
+Offset: 2563, PUSHI , Operand: 18637
+Offset: 2564, PUSHS , Operand: Spell: Create Gatestone
+Offset: 2565, PUSHS , Operand: You can now cast 
+Offset: 2566, PUSHS , Operand: <col=000080>
+Offset: 2567, PUSHS , Operand: Create Gatestone
+Offset: 2568, PUSHS , Operand: </col>
+Offset: 2569, PUSHS , Operand:  within Daemonheim.
+Offset: 2570, CONCAT , Operand: 5
+Offset: 2571, RETURN , Operand: 0
+Offset: 2572, GOTO , Operand: 644
+Offset: 2573, PUSHI , Operand: 32
+Offset: 2574, PUSHI , Operand: 18638
+Offset: 2575, PUSHS , Operand: Spell: Gatestone Teleport
+Offset: 2576, PUSHS , Operand: You can now cast 
+Offset: 2577, PUSHS , Operand: <col=000080>
+Offset: 2578, PUSHS , Operand: Gatestone Teleport
+Offset: 2579, PUSHS , Operand: </col>
+Offset: 2580, PUSHS , Operand:  within Daemonheim.
+Offset: 2581, CONCAT , Operand: 5
+Offset: 2582, RETURN , Operand: 0
+Offset: 2583, GOTO , Operand: 633
+Offset: 2584, PUSHI , Operand: 33
+Offset: 2585, PUSHI , Operand: 17273
+Offset: 2586, PUSHS , Operand: Members: Flameburst defender
+Offset: 2587, PUSHS , Operand: <br>
+Offset: 2588, PUSHS , Operand:  (with 33 Defence)
+Offset: 2589, CONCAT , Operand: 3
+Offset: 2590, PUSHS , Operand: Members can now wield 
+Offset: 2591, PUSHS , Operand: <col=000080>
+Offset: 2592, PUSHS , Operand: flameburst defenders
+Offset: 2593, PUSHS , Operand: </col>
+Offset: 2594, PUSHS , Operand:  within Daemonheim. (They also need level 33 Defence.)
+Offset: 2595, CONCAT , Operand: 5
+Offset: 2596, RETURN , Operand: 0
+Offset: 2597, GOTO , Operand: 619
+Offset: 2598, PUSHI , Operand: 36
+Offset: 2599, PUSHI , Operand: 17275
+Offset: 2600, PUSHS , Operand: Members: Frostbite dagger
+Offset: 2601, PUSHS , Operand: <br>
+Offset: 2602, PUSHS , Operand:  (with 36 Defence)
+Offset: 2603, CONCAT , Operand: 3
+Offset: 2604, PUSHS , Operand: Members can now wield 
+Offset: 2605, PUSHS , Operand: <col=000080>
+Offset: 2606, PUSHS , Operand: frostbite daggers
+Offset: 2607, PUSHS , Operand: </col>
+Offset: 2608, PUSHS , Operand:  within Daemonheim. (They also need level 36 Defence.)
+Offset: 2609, CONCAT , Operand: 5
+Offset: 2610, RETURN , Operand: 0
+Offset: 2611, GOTO , Operand: 605
+Offset: 2612, PUSHI , Operand: 40
+Offset: 2613, PUSHI , Operand: 17013
+Offset: 2614, PUSHS , Operand: Catalytic staff
+Offset: 2615, PUSHS , Operand: You can now wield 
+Offset: 2616, PUSHS , Operand: <col=000080>
+Offset: 2617, PUSHS , Operand: catalytic staves
+Offset: 2618, PUSHS , Operand: </col>
+Offset: 2619, PUSHS , Operand:  within Daemonheim.
+Offset: 2620, CONCAT , Operand: 5
+Offset: 2621, RETURN , Operand: 0
+Offset: 2622, GOTO , Operand: 594
+Offset: 2623, PUSHI , Operand: 40
+Offset: 2624, PUSHI , Operand: 16743
+Offset: 2625, PUSHS , Operand: Bryll hood (Tier 5)
+Offset: 2626, PUSHS , Operand: <br>
+Offset: 2627, PUSHS , Operand:  (with 40 Defence)
+Offset: 2628, CONCAT , Operand: 3
+Offset: 2629, PUSHS , Operand: You can now wear 
+Offset: 2630, PUSHS , Operand: <col=000080>
+Offset: 2631, PUSHS , Operand: bryll hoods
+Offset: 2632, PUSHS , Operand: </col>
+Offset: 2633, PUSHS , Operand:  within Daemonheim. (You also need level 40 Defence.)
+Offset: 2634, CONCAT , Operand: 5
+Offset: 2635, RETURN , Operand: 0
+Offset: 2636, GOTO , Operand: 580
+Offset: 2637, PUSHI , Operand: 40
+Offset: 2638, PUSHI , Operand: 17225
+Offset: 2639, PUSHS , Operand: Bryll robe top (Tier 5)
+Offset: 2640, PUSHS , Operand: <br>
+Offset: 2641, PUSHS , Operand:  (with 40 Defence)
+Offset: 2642, CONCAT , Operand: 3
+Offset: 2643, PUSHS , Operand: You can now wear 
+Offset: 2644, PUSHS , Operand: <col=000080>
+Offset: 2645, PUSHS , Operand: bryll robe tops
+Offset: 2646, PUSHS , Operand: </col>
+Offset: 2647, PUSHS , Operand:  within Daemonheim. (You also need level 40 Defence.)
+Offset: 2648, CONCAT , Operand: 5
+Offset: 2649, RETURN , Operand: 0
+Offset: 2650, GOTO , Operand: 566
+Offset: 2651, PUSHI , Operand: 40
+Offset: 2652, PUSHI , Operand: 16853
+Offset: 2653, PUSHS , Operand: Bryll robe bottom (Tier 5)
+Offset: 2654, PUSHS , Operand: <br>
+Offset: 2655, PUSHS , Operand:  (with 40 Defence)
+Offset: 2656, CONCAT , Operand: 3
+Offset: 2657, PUSHS , Operand: You can now wear 
+Offset: 2658, PUSHS , Operand: <col=000080>
+Offset: 2659, PUSHS , Operand: bryll robe bottoms
+Offset: 2660, PUSHS , Operand: </col>
+Offset: 2661, PUSHS , Operand:  within Daemonheim. (You also need level 40 Defence.)
+Offset: 2662, CONCAT , Operand: 5
+Offset: 2663, RETURN , Operand: 0
+Offset: 2664, GOTO , Operand: 552
+Offset: 2665, PUSHI , Operand: 40
+Offset: 2666, PUSHI , Operand: 17159
+Offset: 2667, PUSHS , Operand: Bryll gloves (Tier 5)
+Offset: 2668, PUSHS , Operand: <br>
+Offset: 2669, PUSHS , Operand:  (with 40 Defence)
+Offset: 2670, CONCAT , Operand: 3
+Offset: 2671, PUSHS , Operand: You can now wear 
+Offset: 2672, PUSHS , Operand: <col=000080>
+Offset: 2673, PUSHS , Operand: bryll gloves
+Offset: 2674, PUSHS , Operand: </col>
+Offset: 2675, PUSHS , Operand:  within Daemonheim. (You also need level 40 Defence.)
+Offset: 2676, CONCAT , Operand: 5
+Offset: 2677, RETURN , Operand: 0
+Offset: 2678, GOTO , Operand: 538
+Offset: 2679, PUSHI , Operand: 40
+Offset: 2680, PUSHI , Operand: 16919
+Offset: 2681, PUSHS , Operand: Bryll boots (Tier 5)
+Offset: 2682, PUSHS , Operand: <br>
+Offset: 2683, PUSHS , Operand:  (with 40 Defence)
+Offset: 2684, CONCAT , Operand: 3
+Offset: 2685, PUSHS , Operand: You can now wear 
+Offset: 2686, PUSHS , Operand: <col=000080>
+Offset: 2687, PUSHS , Operand: bryll boots
+Offset: 2688, PUSHS , Operand: </col>
+Offset: 2689, PUSHS , Operand:  within Daemonheim. (You also need level 40 Defence.)
+Offset: 2690, CONCAT , Operand: 5
+Offset: 2691, RETURN , Operand: 0
+Offset: 2692, GOTO , Operand: 524
+Offset: 2693, PUSHI , Operand: 50
+Offset: 2694, PUSHI , Operand: 16999
+Offset: 2695, PUSHS , Operand: Members: Empowered water staff
+Offset: 2696, PUSHS , Operand: Members can now wield 
+Offset: 2697, PUSHS , Operand: <col=000080>
+Offset: 2698, PUSHS , Operand: empowered water staves
+Offset: 2699, PUSHS , Operand: </col>
+Offset: 2700, PUSHS , Operand:  within Daemonheim.
+Offset: 2701, CONCAT , Operand: 5
+Offset: 2702, RETURN , Operand: 0
+Offset: 2703, GOTO , Operand: 513
+Offset: 2704, PUSHI , Operand: 50
+Offset: 2705, PUSHI , Operand: 16745
+Offset: 2706, PUSHS , Operand: Members: Duskweed hood (Tier 6)
+Offset: 2707, PUSHS , Operand: <br>
+Offset: 2708, PUSHS , Operand:  (with 50 Defence)
+Offset: 2709, CONCAT , Operand: 3
+Offset: 2710, PUSHS , Operand: Members can now wear 
+Offset: 2711, PUSHS , Operand: <col=000080>
+Offset: 2712, PUSHS , Operand: duskweed hoods
+Offset: 2713, PUSHS , Operand: </col>
+Offset: 2714, PUSHS , Operand:  within Daemonheim. (They also need level 50 Defence.)
+Offset: 2715, CONCAT , Operand: 5
+Offset: 2716, RETURN , Operand: 0
+Offset: 2717, GOTO , Operand: 499
+Offset: 2718, PUSHI , Operand: 50
+Offset: 2719, PUSHI , Operand: 17227
+Offset: 2720, PUSHS , Operand: Members: Duskweed robe top (Tier 6)
+Offset: 2721, PUSHS , Operand: <br>
+Offset: 2722, PUSHS , Operand:  (with 50 Defence)
+Offset: 2723, CONCAT , Operand: 3
+Offset: 2724, PUSHS , Operand: Members can now wear 
+Offset: 2725, PUSHS , Operand: <col=000080>
+Offset: 2726, PUSHS , Operand: duskweed robe tops
+Offset: 2727, PUSHS , Operand: </col>
+Offset: 2728, PUSHS , Operand:  within Daemonheim. (They also need level 50 Defence.)
+Offset: 2729, CONCAT , Operand: 5
+Offset: 2730, RETURN , Operand: 0
+Offset: 2731, GOTO , Operand: 485
+Offset: 2732, PUSHI , Operand: 50
+Offset: 2733, PUSHI , Operand: 16855
+Offset: 2734, PUSHS , Operand: Members: Duskweed robe bottom (Tier 6)
+Offset: 2735, PUSHS , Operand: <br>
+Offset: 2736, PUSHS , Operand:  (with 50 Defence)
+Offset: 2737, CONCAT , Operand: 3
+Offset: 2738, PUSHS , Operand: Members can now wear 
+Offset: 2739, PUSHS , Operand: <col=000080>
+Offset: 2740, PUSHS , Operand: duskweed robe bottoms
+Offset: 2741, PUSHS , Operand: </col>
+Offset: 2742, PUSHS , Operand:  within Daemonheim. (They also need level 50 Defence.)
+Offset: 2743, CONCAT , Operand: 5
+Offset: 2744, RETURN , Operand: 0
+Offset: 2745, GOTO , Operand: 471
+Offset: 2746, PUSHI , Operand: 50
+Offset: 2747, PUSHI , Operand: 17161
+Offset: 2748, PUSHS , Operand: Members: Duskweed gloves (Tier 6)
+Offset: 2749, PUSHS , Operand: <br>
+Offset: 2750, PUSHS , Operand:  (with 50 Defence)
+Offset: 2751, CONCAT , Operand: 3
+Offset: 2752, PUSHS , Operand: Members can now wear 
+Offset: 2753, PUSHS , Operand: <col=000080>
+Offset: 2754, PUSHS , Operand: duskweed gloves
+Offset: 2755, PUSHS , Operand: </col>
+Offset: 2756, PUSHS , Operand:  within Daemonheim. (They also need level 50 Defence.)
+Offset: 2757, CONCAT , Operand: 5
+Offset: 2758, RETURN , Operand: 0
+Offset: 2759, GOTO , Operand: 457
+Offset: 2760, PUSHI , Operand: 50
+Offset: 2761, PUSHI , Operand: 16921
+Offset: 2762, PUSHS , Operand: Members: Duskweed boots (Tier 6)
+Offset: 2763, PUSHS , Operand: <br>
+Offset: 2764, PUSHS , Operand:  (with 50 Defence)
+Offset: 2765, CONCAT , Operand: 3
+Offset: 2766, PUSHS , Operand: Members can now wear 
+Offset: 2767, PUSHS , Operand: <col=000080>
+Offset: 2768, PUSHS , Operand: duskweed boots
+Offset: 2769, PUSHS , Operand: </col>
+Offset: 2770, PUSHS , Operand:  within Daemonheim. (They also need level 50 Defence.)
+Offset: 2771, CONCAT , Operand: 5
+Offset: 2772, RETURN , Operand: 0
+Offset: 2773, GOTO , Operand: 443
+Offset: 2774, PUSHI , Operand: 60
+Offset: 2775, PUSHI , Operand: 17003
+Offset: 2776, PUSHS , Operand: Members: Empowered earth staff
+Offset: 2777, PUSHS , Operand: Members can now wield 
+Offset: 2778, PUSHS , Operand: <col=000080>
+Offset: 2779, PUSHS , Operand: empowered earth staves
+Offset: 2780, PUSHS , Operand: </col>
+Offset: 2781, PUSHS , Operand:  within Daemonheim.
+Offset: 2782, CONCAT , Operand: 5
+Offset: 2783, RETURN , Operand: 0
+Offset: 2784, GOTO , Operand: 432
+Offset: 2785, PUSHI , Operand: 60
+Offset: 2786, PUSHI , Operand: 16747
+Offset: 2787, PUSHS , Operand: Members: Soulbell hood (Tier 7)
+Offset: 2788, PUSHS , Operand: <br>
+Offset: 2789, PUSHS , Operand:  (with 60 Defence)
+Offset: 2790, CONCAT , Operand: 3
+Offset: 2791, PUSHS , Operand: Members can now wear 
+Offset: 2792, PUSHS , Operand: <col=000080>
+Offset: 2793, PUSHS , Operand: soulbell hoods
+Offset: 2794, PUSHS , Operand: </col>
+Offset: 2795, PUSHS , Operand:  within Daemonheim. (You also need level 60 Defence).
+Offset: 2796, CONCAT , Operand: 5
+Offset: 2797, RETURN , Operand: 0
+Offset: 2798, GOTO , Operand: 418
+Offset: 2799, PUSHI , Operand: 60
+Offset: 2800, PUSHI , Operand: 17229
+Offset: 2801, PUSHS , Operand: Members: Soulbell robe top (Tier 7)
+Offset: 2802, PUSHS , Operand: <br>
+Offset: 2803, PUSHS , Operand:  (with 60 Defence)
+Offset: 2804, CONCAT , Operand: 3
+Offset: 2805, PUSHS , Operand: Members can now wear 
+Offset: 2806, PUSHS , Operand: <col=000080>
+Offset: 2807, PUSHS , Operand: soulbell robe tops
+Offset: 2808, PUSHS , Operand: </col>
+Offset: 2809, PUSHS , Operand:  within Daemonheim. (They also need level 60 Defence.)
+Offset: 2810, CONCAT , Operand: 5
+Offset: 2811, RETURN , Operand: 0
+Offset: 2812, GOTO , Operand: 404
+Offset: 2813, PUSHI , Operand: 60
+Offset: 2814, PUSHI , Operand: 16857
+Offset: 2815, PUSHS , Operand: Members: Soulbell robe bottom (Tier 7)
+Offset: 2816, PUSHS , Operand: <br>
+Offset: 2817, PUSHS , Operand:  (with 60 Defence)
+Offset: 2818, CONCAT , Operand: 3
+Offset: 2819, PUSHS , Operand: Members can now wear 
+Offset: 2820, PUSHS , Operand: <col=000080>
+Offset: 2821, PUSHS , Operand: soulbell robe bottoms
+Offset: 2822, PUSHS , Operand: </col>
+Offset: 2823, PUSHS , Operand:  within Daemonheim. (They also need level 60 Defence.)
+Offset: 2824, CONCAT , Operand: 5
+Offset: 2825, RETURN , Operand: 0
+Offset: 2826, GOTO , Operand: 390
+Offset: 2827, PUSHI , Operand: 60
+Offset: 2828, PUSHI , Operand: 17163
+Offset: 2829, PUSHS , Operand: Members: Soulbell gloves (Tier 7)
+Offset: 2830, PUSHS , Operand: <br>
+Offset: 2831, PUSHS , Operand:  (with 60 Defence)
+Offset: 2832, CONCAT , Operand: 3
+Offset: 2833, PUSHS , Operand: Members can now wear 
+Offset: 2834, PUSHS , Operand: <col=000080>
+Offset: 2835, PUSHS , Operand: soulbell gloves
+Offset: 2836, PUSHS , Operand: </col>
+Offset: 2837, PUSHS , Operand:  within Daemonheim. (They also need level 60 Defence.)
+Offset: 2838, CONCAT , Operand: 5
+Offset: 2839, RETURN , Operand: 0
+Offset: 2840, GOTO , Operand: 376
+Offset: 2841, PUSHI , Operand: 60
+Offset: 2842, PUSHI , Operand: 16923
+Offset: 2843, PUSHS , Operand: Members: Soulbell boots (Tier 7)
+Offset: 2844, PUSHS , Operand: <br>
+Offset: 2845, PUSHS , Operand:  (with 60 Defence)
+Offset: 2846, CONCAT , Operand: 3
+Offset: 2847, PUSHS , Operand: Members can now wear 
+Offset: 2848, PUSHS , Operand: <col=000080>
+Offset: 2849, PUSHS , Operand: soulbell boots
+Offset: 2850, PUSHS , Operand: </col>
+Offset: 2851, PUSHS , Operand:  within Daemonheim. (They also need level 60 Defence.)
+Offset: 2852, CONCAT , Operand: 5
+Offset: 2853, RETURN , Operand: 0
+Offset: 2854, GOTO , Operand: 362
+Offset: 2855, PUSHI , Operand: 68
+Offset: 2856, PUSHI , Operand: 17275
+Offset: 2857, PUSHS , Operand: Members: Hailstorm dagger
+Offset: 2858, PUSHS , Operand: <br>
+Offset: 2859, PUSHS , Operand:  (with 68 Defence)
+Offset: 2860, CONCAT , Operand: 3
+Offset: 2861, PUSHS , Operand: Members can now wield 
+Offset: 2862, PUSHS , Operand: <col=000080>
+Offset: 2863, PUSHS , Operand: hailstorm daggers
+Offset: 2864, PUSHS , Operand: </col>
+Offset: 2865, PUSHS , Operand:  within Daemonheim. (They also need level 68 Defence.)
+Offset: 2866, CONCAT , Operand: 5
+Offset: 2867, RETURN , Operand: 0
+Offset: 2868, GOTO , Operand: 348
+Offset: 2869, PUSHI , Operand: 68
+Offset: 2870, PUSHI , Operand: 17293
+Offset: 2871, PUSHS , Operand: Members: Doomcore staff
+Offset: 2872, PUSHS , Operand: <br>
+Offset: 2873, PUSHS , Operand:  (with 68 Attack)
+Offset: 2874, CONCAT , Operand: 3
+Offset: 2875, PUSHS , Operand: Members can now wield 
+Offset: 2876, PUSHS , Operand: <col=000080>
+Offset: 2877, PUSHS , Operand: doomcore staves
+Offset: 2878, PUSHS , Operand: </col>
+Offset: 2879, PUSHS , Operand:  within Daemonheim. (They also need level 68 Attack.)
+Offset: 2880, CONCAT , Operand: 5
+Offset: 2881, RETURN , Operand: 0
+Offset: 2882, GOTO , Operand: 334
+Offset: 2883, PUSHI , Operand: 70
+Offset: 2884, PUSHI , Operand: 17007
+Offset: 2885, PUSHS , Operand: Members: Empowered fire staff
+Offset: 2886, PUSHS , Operand: Members can now wield 
+Offset: 2887, PUSHS , Operand: <col=000080>
+Offset: 2888, PUSHS , Operand: empowered fire staves
+Offset: 2889, PUSHS , Operand: </col>
+Offset: 2890, PUSHS , Operand:  within Daemonheim.
+Offset: 2891, CONCAT , Operand: 5
+Offset: 2892, RETURN , Operand: 0
+Offset: 2893, GOTO , Operand: 323
+Offset: 2894, PUSHI , Operand: 70
+Offset: 2895, PUSHI , Operand: 16749
+Offset: 2896, PUSHS , Operand: Members: Ectohood (Tier 8)
+Offset: 2897, PUSHS , Operand: <br>
+Offset: 2898, PUSHS , Operand:  (with 70 Defence)
+Offset: 2899, CONCAT , Operand: 3
+Offset: 2900, PUSHS , Operand: Members can now wear 
+Offset: 2901, PUSHS , Operand: <col=000080>
+Offset: 2902, PUSHS , Operand: ectohoods
+Offset: 2903, PUSHS , Operand: </col>
+Offset: 2904, PUSHS , Operand:  within Daemonheim. (They also need level 70 Defence.)
+Offset: 2905, CONCAT , Operand: 5
+Offset: 2906, RETURN , Operand: 0
+Offset: 2907, GOTO , Operand: 309
+Offset: 2908, PUSHI , Operand: 70
+Offset: 2909, PUSHI , Operand: 17231
+Offset: 2910, PUSHS , Operand: Members: Ectorobe top (Tier 8)
+Offset: 2911, PUSHS , Operand: <br>
+Offset: 2912, PUSHS , Operand:  (with 70 Defence)
+Offset: 2913, CONCAT , Operand: 3
+Offset: 2914, PUSHS , Operand: Members can now wear 
+Offset: 2915, PUSHS , Operand: <col=000080>
+Offset: 2916, PUSHS , Operand: ectorobe tops
+Offset: 2917, PUSHS , Operand: </col>
+Offset: 2918, PUSHS , Operand:  within Daemonheim. (They also need level 70 Defence.)
+Offset: 2919, CONCAT , Operand: 5
+Offset: 2920, RETURN , Operand: 0
+Offset: 2921, GOTO , Operand: 295
+Offset: 2922, PUSHI , Operand: 70
+Offset: 2923, PUSHI , Operand: 16859
+Offset: 2924, PUSHS , Operand: Members: Ectorobe bottom (Tier 8)
+Offset: 2925, PUSHS , Operand: <br>
+Offset: 2926, PUSHS , Operand:  (with 70 Defence)
+Offset: 2927, CONCAT , Operand: 3
+Offset: 2928, PUSHS , Operand: Members can now wear 
+Offset: 2929, PUSHS , Operand: <col=000080>
+Offset: 2930, PUSHS , Operand: ectorobe bottoms
+Offset: 2931, PUSHS , Operand: </col>
+Offset: 2932, PUSHS , Operand:  within Daemonheim. (They also need level 70 Defence.)
+Offset: 2933, CONCAT , Operand: 5
+Offset: 2934, RETURN , Operand: 0
+Offset: 2935, GOTO , Operand: 281
+Offset: 2936, PUSHI , Operand: 70
+Offset: 2937, PUSHI , Operand: 17165
+Offset: 2938, PUSHS , Operand: Members: Ectogloves (Tier 8)
+Offset: 2939, PUSHS , Operand: <br>
+Offset: 2940, PUSHS , Operand:  (with 70 Defence)
+Offset: 2941, CONCAT , Operand: 3
+Offset: 2942, PUSHS , Operand: Members can now wear 
+Offset: 2943, PUSHS , Operand: <col=000080>
+Offset: 2944, PUSHS , Operand: ectogloves
+Offset: 2945, PUSHS , Operand: </col>
+Offset: 2946, PUSHS , Operand:  within Daemonheim. (They also need level 70 Defence.)
+Offset: 2947, CONCAT , Operand: 5
+Offset: 2948, RETURN , Operand: 0
+Offset: 2949, GOTO , Operand: 267
+Offset: 2950, PUSHI , Operand: 70
+Offset: 2951, PUSHI , Operand: 16925
+Offset: 2952, PUSHS , Operand: Members: Ectoboots (Tier 8)
+Offset: 2953, PUSHS , Operand: <br>
+Offset: 2954, PUSHS , Operand:  (with 70 Defence)
+Offset: 2955, CONCAT , Operand: 3
+Offset: 2956, PUSHS , Operand: Members can now wear 
+Offset: 2957, PUSHS , Operand: <col=000080>
+Offset: 2958, PUSHS , Operand: ectoboots
+Offset: 2959, PUSHS , Operand: </col>
+Offset: 2960, PUSHS , Operand:  within Daemonheim. (They also need level 70 Defence.)
+Offset: 2961, CONCAT , Operand: 5
+Offset: 2962, RETURN , Operand: 0
+Offset: 2963, GOTO , Operand: 253
+Offset: 2964, PUSHI , Operand: 80
+Offset: 2965, PUSHI , Operand: 17011
+Offset: 2966, PUSHS , Operand: Members: Empowered air staff
+Offset: 2967, PUSHS , Operand: Members can now wield 
+Offset: 2968, PUSHS , Operand: <col=000080>
+Offset: 2969, PUSHS , Operand: empowered air staves
+Offset: 2970, PUSHS , Operand: </col>
+Offset: 2971, PUSHS , Operand:  within Daemonheim.
+Offset: 2972, CONCAT , Operand: 5
+Offset: 2973, RETURN , Operand: 0
+Offset: 2974, GOTO , Operand: 242
+Offset: 2975, PUSHI , Operand: 80
+Offset: 2976, PUSHI , Operand: 16751
+Offset: 2977, PUSHS , Operand: Members: Runic hood (Tier 9)
+Offset: 2978, PUSHS , Operand: <br>
+Offset: 2979, PUSHS , Operand:  (with 80 Defence)
+Offset: 2980, CONCAT , Operand: 3
+Offset: 2981, PUSHS , Operand: Members can now wear 
+Offset: 2982, PUSHS , Operand: <col=000080>
+Offset: 2983, PUSHS , Operand: runic hoods
+Offset: 2984, PUSHS , Operand: </col>
+Offset: 2985, PUSHS , Operand:  within Daemonheim. (They also need level 80 Defence.)
+Offset: 2986, CONCAT , Operand: 5
+Offset: 2987, RETURN , Operand: 0
+Offset: 2988, GOTO , Operand: 228
+Offset: 2989, PUSHI , Operand: 80
+Offset: 2990, PUSHI , Operand: 17233
+Offset: 2991, PUSHS , Operand: Members: Runic robe top (Tier 9)
+Offset: 2992, PUSHS , Operand: <br>
+Offset: 2993, PUSHS , Operand:  (with 80 Defence)
+Offset: 2994, CONCAT , Operand: 3
+Offset: 2995, PUSHS , Operand: Members can now wear 
+Offset: 2996, PUSHS , Operand: <col=000080>
+Offset: 2997, PUSHS , Operand: runic robe tops
+Offset: 2998, PUSHS , Operand: </col>
+Offset: 2999, PUSHS , Operand:  within Daemonheim. (They also need level 80 Defence.)
+Offset: 3000, CONCAT , Operand: 5
+Offset: 3001, RETURN , Operand: 0
+Offset: 3002, GOTO , Operand: 214
+Offset: 3003, PUSHI , Operand: 80
+Offset: 3004, PUSHI , Operand: 16861
+Offset: 3005, PUSHS , Operand: Members: Runic robe bottom (Tier 9)
+Offset: 3006, PUSHS , Operand: <br>
+Offset: 3007, PUSHS , Operand:  (with 80 Defence)
+Offset: 3008, CONCAT , Operand: 3
+Offset: 3009, PUSHS , Operand: Members can now wear 
+Offset: 3010, PUSHS , Operand: <col=000080>
+Offset: 3011, PUSHS , Operand: runic robe bottoms
+Offset: 3012, PUSHS , Operand: </col>
+Offset: 3013, PUSHS , Operand:  within Daemonheim. (They also need level 80 Defence.)
+Offset: 3014, CONCAT , Operand: 5
+Offset: 3015, RETURN , Operand: 0
+Offset: 3016, GOTO , Operand: 200
+Offset: 3017, PUSHI , Operand: 80
+Offset: 3018, PUSHI , Operand: 17167
+Offset: 3019, PUSHS , Operand: Members: Runic gloves (Tier 9)
+Offset: 3020, PUSHS , Operand: <br>
+Offset: 3021, PUSHS , Operand:  (with 80 Defence)
+Offset: 3022, CONCAT , Operand: 3
+Offset: 3023, PUSHS , Operand: Members can now wear 
+Offset: 3024, PUSHS , Operand: <col=000080>
+Offset: 3025, PUSHS , Operand: runic gloves
+Offset: 3026, PUSHS , Operand: </col>
+Offset: 3027, PUSHS , Operand:  within Daemonheim. (They also need level 80 Defence.)
+Offset: 3028, CONCAT , Operand: 5
+Offset: 3029, RETURN , Operand: 0
+Offset: 3030, GOTO , Operand: 186
+Offset: 3031, PUSHI , Operand: 80
+Offset: 3032, PUSHI , Operand: 16927
+Offset: 3033, PUSHS , Operand: Members: Runic boots (Tier 9)
+Offset: 3034, PUSHS , Operand: <br>
+Offset: 3035, PUSHS , Operand:  (with 80 Defence)
+Offset: 3036, CONCAT , Operand: 3
+Offset: 3037, PUSHS , Operand: Members can now wear 
+Offset: 3038, PUSHS , Operand: <col=000080>
+Offset: 3039, PUSHS , Operand: runic boots
+Offset: 3040, PUSHS , Operand: </col>
+Offset: 3041, PUSHS , Operand:  within Daemonheim. (They also need level 80 Defence.)
+Offset: 3042, CONCAT , Operand: 5
+Offset: 3043, RETURN , Operand: 0
+Offset: 3044, GOTO , Operand: 172
+Offset: 3045, PUSHI , Operand: 83
+Offset: 3046, PUSHI , Operand: 17293
+Offset: 3047, PUSHS , Operand: Members: Doomcore staff
+Offset: 3048, PUSHS , Operand: Members can now wield 
+Offset: 3049, PUSHS , Operand: <col=000080>
+Offset: 3050, PUSHS , Operand: doomcore staves
+Offset: 3051, PUSHS , Operand: </col>
+Offset: 3052, PUSHS , Operand:  within Daemonheim.
+Offset: 3053, CONCAT , Operand: 5
+Offset: 3054, RETURN , Operand: 0
+Offset: 3055, GOTO , Operand: 161
+Offset: 3056, PUSHI , Operand: 90
+Offset: 3057, PUSHI , Operand: 17015
+Offset: 3058, PUSHS , Operand: Members: Empowered catalytic staff
+Offset: 3059, PUSHS , Operand: Members can now wield 
+Offset: 3060, PUSHS , Operand: <col=000080>
+Offset: 3061, PUSHS , Operand: empowered catalytic staves
+Offset: 3062, PUSHS , Operand: </col>
+Offset: 3063, PUSHS , Operand:  within Daemonheim.
+Offset: 3064, CONCAT , Operand: 5
+Offset: 3065, RETURN , Operand: 0
+Offset: 3066, GOTO , Operand: 150
+Offset: 3067, PUSHI , Operand: 90
+Offset: 3068, PUSHI , Operand: 16753
+Offset: 3069, PUSHS , Operand: Members: Spiritbloom hood (Tier 10)
+Offset: 3070, PUSHS , Operand: <br>
+Offset: 3071, PUSHS , Operand:  (with 90 Defence)
+Offset: 3072, CONCAT , Operand: 3
+Offset: 3073, PUSHS , Operand: Members can now wear 
+Offset: 3074, PUSHS , Operand: <col=000080>
+Offset: 3075, PUSHS , Operand: spiritbloom hoods
+Offset: 3076, PUSHS , Operand: </col>
+Offset: 3077, PUSHS , Operand:  within Daemonheim. (They also need level 90 Defence.)
+Offset: 3078, CONCAT , Operand: 5
+Offset: 3079, RETURN , Operand: 0
+Offset: 3080, GOTO , Operand: 136
+Offset: 3081, PUSHI , Operand: 90
+Offset: 3082, PUSHI , Operand: 17235
+Offset: 3083, PUSHS , Operand: Members: Spiritbloom robe top (Tier 10)
+Offset: 3084, PUSHS , Operand: <br>
+Offset: 3085, PUSHS , Operand:  (with 90 Defence)
+Offset: 3086, CONCAT , Operand: 3
+Offset: 3087, PUSHS , Operand: Members can now wear 
+Offset: 3088, PUSHS , Operand: <col=000080>
+Offset: 3089, PUSHS , Operand: spiritbloom robe tops
+Offset: 3090, PUSHS , Operand: </col>
+Offset: 3091, PUSHS , Operand:  within Daemonheim. (They also need level 90 Defence.)
+Offset: 3092, CONCAT , Operand: 5
+Offset: 3093, RETURN , Operand: 0
+Offset: 3094, GOTO , Operand: 122
+Offset: 3095, PUSHI , Operand: 90
+Offset: 3096, PUSHI , Operand: 16863
+Offset: 3097, PUSHS , Operand: Members: Spiritbloom robe bottom (Tier 10)
+Offset: 3098, PUSHS , Operand: <br>
+Offset: 3099, PUSHS , Operand:  (with 90 Defence)
+Offset: 3100, CONCAT , Operand: 3
+Offset: 3101, PUSHS , Operand: Members can now wear 
+Offset: 3102, PUSHS , Operand: <col=000080>
+Offset: 3103, PUSHS , Operand: spiritbloom robe bottoms
+Offset: 3104, PUSHS , Operand: </col>
+Offset: 3105, PUSHS , Operand:  within Daemonheim. (They also need level 90 Defence.)
+Offset: 3106, CONCAT , Operand: 5
+Offset: 3107, RETURN , Operand: 0
+Offset: 3108, GOTO , Operand: 108
+Offset: 3109, PUSHI , Operand: 90
+Offset: 3110, PUSHI , Operand: 17169
+Offset: 3111, PUSHS , Operand: Members: Spiritbloom gloves (Tier 10)
+Offset: 3112, PUSHS , Operand: <br>
+Offset: 3113, PUSHS , Operand:  (with 90 Defence)
+Offset: 3114, CONCAT , Operand: 3
+Offset: 3115, PUSHS , Operand: Members can now wear 
+Offset: 3116, PUSHS , Operand: <col=000080>
+Offset: 3117, PUSHS , Operand: spiritbloom gloves
+Offset: 3118, PUSHS , Operand: </col>
+Offset: 3119, PUSHS , Operand:  within Daemonheim. (They also need level 90 Defence.)
+Offset: 3120, CONCAT , Operand: 5
+Offset: 3121, RETURN , Operand: 0
+Offset: 3122, GOTO , Operand: 94
+Offset: 3123, PUSHI , Operand: 90
+Offset: 3124, PUSHI , Operand: 16929
+Offset: 3125, PUSHS , Operand: Members: Spiritbloom boots (Tier 10)
+Offset: 3126, PUSHS , Operand: <br>
+Offset: 3127, PUSHS , Operand:  (with 90 Defence)
+Offset: 3128, CONCAT , Operand: 3
+Offset: 3129, PUSHS , Operand: Members can now wear 
+Offset: 3130, PUSHS , Operand: <col=000080>
+Offset: 3131, PUSHS , Operand: spiritbloom boots
+Offset: 3132, PUSHS , Operand: </col>
+Offset: 3133, PUSHS , Operand:  within Daemonheim. (They also need level 90 Defence.)
+Offset: 3134, CONCAT , Operand: 5
+Offset: 3135, RETURN , Operand: 0
+Offset: 3136, GOTO , Operand: 80
+Offset: 3137, PUSHI , Operand: 99
+Offset: 3138, PUSHI , Operand: 17015
+Offset: 3139, PUSHS , Operand: Members: Celestial catalytic staff
+Offset: 3140, PUSHS , Operand: Members can now wield 
+Offset: 3141, PUSHS , Operand: <col=000080>
+Offset: 3142, PUSHS , Operand: celestial catalytic staves
+Offset: 3143, PUSHS , Operand: </col>
+Offset: 3144, PUSHS , Operand:  within Daemonheim.
+Offset: 3145, CONCAT , Operand: 5
+Offset: 3146, RETURN , Operand: 0
+Offset: 3147, GOTO , Operand: 69
+Offset: 3148, PUSHI , Operand: 99
+Offset: 3149, PUSHI , Operand: 16755
+Offset: 3150, PUSHS , Operand: Members: Celestial hood (Tier 11)
+Offset: 3151, PUSHS , Operand: <br>
+Offset: 3152, PUSHS , Operand:  (with 99 Defence)
+Offset: 3153, CONCAT , Operand: 3
+Offset: 3154, PUSHS , Operand: Members can now wear 
+Offset: 3155, PUSHS , Operand: <col=000080>
+Offset: 3156, PUSHS , Operand: celestial hoods
+Offset: 3157, PUSHS , Operand: </col>
+Offset: 3158, PUSHS , Operand:  within Daemonheim. (They also need level 99 Defence.)
+Offset: 3159, CONCAT , Operand: 5
+Offset: 3160, RETURN , Operand: 0
+Offset: 3161, GOTO , Operand: 55
+Offset: 3162, PUSHI , Operand: 99
+Offset: 3163, PUSHI , Operand: 17237
+Offset: 3164, PUSHS , Operand: Members: Celestial robe top (Tier 11)
+Offset: 3165, PUSHS , Operand: <br>
+Offset: 3166, PUSHS , Operand:  (with 99 Defence)
+Offset: 3167, CONCAT , Operand: 3
+Offset: 3168, PUSHS , Operand: Members can now wear 
+Offset: 3169, PUSHS , Operand: <col=000080>
+Offset: 3170, PUSHS , Operand: celestial robe tops
+Offset: 3171, PUSHS , Operand: </col>
+Offset: 3172, PUSHS , Operand:  within Daemonheim. (They also need level 99 Defence.)
+Offset: 3173, CONCAT , Operand: 5
+Offset: 3174, RETURN , Operand: 0
+Offset: 3175, GOTO , Operand: 41
+Offset: 3176, PUSHI , Operand: 99
+Offset: 3177, PUSHI , Operand: 16865
+Offset: 3178, PUSHS , Operand: Members: Celestial robe bottom (Tier 11)
+Offset: 3179, PUSHS , Operand: <br>
+Offset: 3180, PUSHS , Operand:  (with 99 Defence)
+Offset: 3181, CONCAT , Operand: 3
+Offset: 3182, PUSHS , Operand: Members can now wear 
+Offset: 3183, PUSHS , Operand: <col=000080>
+Offset: 3184, PUSHS , Operand: celestial robe bottoms
+Offset: 3185, PUSHS , Operand: </col>
+Offset: 3186, PUSHS , Operand:  within Daemonheim. (They also need level 99 Defence.)
+Offset: 3187, CONCAT , Operand: 5
+Offset: 3188, RETURN , Operand: 0
+Offset: 3189, GOTO , Operand: 27
+Offset: 3190, PUSHI , Operand: 99
+Offset: 3191, PUSHI , Operand: 17171
+Offset: 3192, PUSHS , Operand: Members: Celestial gloves (Tier 11)
+Offset: 3193, PUSHS , Operand: <br>
+Offset: 3194, PUSHS , Operand:  (with 99 Defence)
+Offset: 3195, CONCAT , Operand: 3
+Offset: 3196, PUSHS , Operand: Members can now wear 
+Offset: 3197, PUSHS , Operand: <col=000080>
+Offset: 3198, PUSHS , Operand: celestial gloves
+Offset: 3199, PUSHS , Operand: </col>
+Offset: 3200, PUSHS , Operand:  within Daemonheim. (They also need level 99 Defence.)
+Offset: 3201, CONCAT , Operand: 5
+Offset: 3202, RETURN , Operand: 0
+Offset: 3203, GOTO , Operand: 13
+Offset: 3204, PUSHI , Operand: 99
+Offset: 3205, PUSHI , Operand: 16931
+Offset: 3206, PUSHS , Operand: Members: Celestial boots (Tier 11)
+Offset: 3207, PUSHS , Operand: <br>
+Offset: 3208, PUSHS , Operand:  (with 99 Defence)
+Offset: 3209, CONCAT , Operand: 3
+Offset: 3210, PUSHS , Operand: Members can now wear 
+Offset: 3211, PUSHS , Operand: <col=000080>
+Offset: 3212, PUSHS , Operand: celestial boots
+Offset: 3213, PUSHS , Operand: </col>
+Offset: 3214, PUSHS , Operand:  within Daemonheim. (They also need level 99 Defence.)
+Offset: 3215, CONCAT , Operand: 5
+Offset: 3216, RETURN , Operand: 0
+Offset: 3217, GOTO , Operand: 71
+Offset: 3218, LOADINT , Operand: 1
+Offset: 3219, SWITCH , Operand: 8
+Offset: 3220, GOTO , Operand: 68
+Offset: 3221, PUSHI , Operand: 1
+Offset: 3222, PUSHI , Operand: 1907
+Offset: 3223, PUSHS , Operand: Wizard's Mind Bomb
+Offset: 3224, PUSHS , Operand: <br>
+Offset: 3225, PUSHS , Operand:  will temporarily increase your Magic level by 2 levels.
+Offset: 3226, CONCAT , Operand: 3
+Offset: 3227, PUSHS , Operand: <col=000080>
+Offset: 3228, PUSHS , Operand: Wizard's Mind Bomb
+Offset: 3229, PUSHS , Operand: </col>
+Offset: 3230, PUSHS , Operand:  will now temporarily increase your Magic level by 
+Offset: 3231, PUSHS , Operand: <col=000080>
+Offset: 3232, PUSHS , Operand: 2 levels
+Offset: 3233, PUSHS , Operand: </col>
+Offset: 3234, PUSHS , Operand: .
+Offset: 3235, CONCAT , Operand: 8
+Offset: 3236, RETURN , Operand: 0
+Offset: 3237, GOTO , Operand: 51
+Offset: 3238, PUSHI , Operand: 50
+Offset: 3239, PUSHI , Operand: 1907
+Offset: 3240, PUSHS , Operand: Wizard's Mind Bomb
+Offset: 3241, PUSHS , Operand: <br>
+Offset: 3242, PUSHS , Operand:  will temporarily increase your Magic level by 3 levels.
+Offset: 3243, CONCAT , Operand: 3
+Offset: 3244, PUSHS , Operand: <col=000080>
+Offset: 3245, PUSHS , Operand: Wizard's Mind Bomb
+Offset: 3246, PUSHS , Operand: </col>
+Offset: 3247, PUSHS , Operand:  will now temporarily increase your Magic level by 
+Offset: 3248, PUSHS , Operand: <col=000080>
+Offset: 3249, PUSHS , Operand: 3 levels
+Offset: 3250, PUSHS , Operand: </col>
+Offset: 3251, PUSHS , Operand: .
+Offset: 3252, CONCAT , Operand: 8
+Offset: 3253, RETURN , Operand: 0
+Offset: 3254, GOTO , Operand: 34
+Offset: 3255, PUSHI , Operand: 66
+Offset: 3256, PUSHI , Operand: 4675
+Offset: 3257, PUSHS , Operand: Members: Magic Guild
+Offset: 3258, PUSHS , Operand: Members can now enter the 
+Offset: 3259, PUSHS , Operand: <col=000080>
+Offset: 3260, PUSHS , Operand: Wizard's Guild
+Offset: 3261, PUSHS , Operand: </col>
+Offset: 3262, PUSHS , Operand: .
+Offset: 3263, CONCAT , Operand: 5
+Offset: 3264, RETURN , Operand: 0
+Offset: 3265, GOTO , Operand: 23
+Offset: 3266, PUSHI , Operand: 99
+Offset: 3267, PUSHI , Operand: 9762
+Offset: 3268, PUSHS , Operand: Skill mastery
+Offset: 3269, PUSHS , Operand: <col=000080>
+Offset: 3270, PUSHS , Operand: Congratulations! You are now a master of 
+Offset: 3271, PUSHS , Operand: <col=800000>
+Offset: 3272, PUSHS , Operand: Magic
+Offset: 3273, PUSHS , Operand: <col=000080>
+Offset: 3274, PUSHS , Operand: . Members can visit the 
+Offset: 3275, PUSHS , Operand: <col=800000>
+Offset: 3276, PUSHS , Operand: robe store
+Offset: 3277, PUSHS , Operand: <col=000080>
+Offset: 3278, PUSHS , Operand:  in the 
+Offset: 3279, PUSHS , Operand: <col=800000>
+Offset: 3280, PUSHS , Operand: Wizards' Guild
+Offset: 3281, PUSHS , Operand: <col=000080>
+Offset: 3282, PUSHS , Operand: . They have something special that is only available to true masters of the 
+Offset: 3283, PUSHS , Operand: <col=800000>
+Offset: 3284, PUSHS , Operand: Magic
+Offset: 3285, PUSHS , Operand: <col=000080>
+Offset: 3286, PUSHS , Operand:  skill!
+Offset: 3287, CONCAT , Operand: 18
+Offset: 3288, RETURN , Operand: 0
+Offset: 3289, PUSHI , Operand: 0
+Offset: 3290, PUSHI , Operand: -1
+Offset: 3291, PUSHS , Operand: 
+Offset: 3292, PUSHS , Operand: 
+Offset: 3293, RETURN , Operand: 0
+
+================================================
+                Switch Table 0                
+================================================
+
+Key: 3, Value: 1
+Key: 4, Value: 224
+Key: 5, Value: 1262
+Key: 6, Value: 1845
+Key: 7, Value: 1931
+Key: 8, Value: 1990
+Key: 9, Value: 2213
+Key: 10, Value: 3216
+
+================================================
+                Switch Table 1                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 12
+Key: 2, Value: 23
+Key: 3, Value: 34
+Key: 4, Value: 45
+Key: 5, Value: 56
+Key: 6, Value: 67
+Key: 7, Value: 78
+Key: 8, Value: 89
+Key: 9, Value: 100
+Key: 10, Value: 111
+Key: 11, Value: 122
+Key: 12, Value: 133
+Key: 13, Value: 144
+Key: 14, Value: 155
+Key: 15, Value: 166
+Key: 17, Value: 188
+Key: 16, Value: 177
+Key: 19, Value: 210
+Key: 18, Value: 199
+
+================================================
+                Switch Table 2                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 15
+Key: 2, Value: 26
+Key: 3, Value: 37
+Key: 4, Value: 46
+Key: 5, Value: 60
+Key: 6, Value: 74
+Key: 7, Value: 88
+Key: 8, Value: 102
+Key: 9, Value: 116
+Key: 10, Value: 130
+Key: 11, Value: 144
+Key: 12, Value: 158
+Key: 13, Value: 172
+Key: 14, Value: 186
+Key: 15, Value: 200
+Key: 17, Value: 225
+Key: 16, Value: 211
+Key: 19, Value: 253
+Key: 18, Value: 239
+Key: 21, Value: 281
+Key: 20, Value: 267
+Key: 23, Value: 309
+Key: 22, Value: 295
+Key: 25, Value: 337
+Key: 24, Value: 323
+Key: 27, Value: 365
+Key: 26, Value: 351
+Key: 29, Value: 393
+Key: 28, Value: 379
+Key: 31, Value: 421
+Key: 30, Value: 407
+Key: 34, Value: 463
+Key: 35, Value: 477
+Key: 32, Value: 435
+Key: 33, Value: 449
+Key: 38, Value: 519
+Key: 39, Value: 533
+Key: 36, Value: 491
+Key: 37, Value: 505
+Key: 42, Value: 575
+Key: 43, Value: 589
+Key: 40, Value: 547
+Key: 41, Value: 561
+Key: 46, Value: 631
+Key: 47, Value: 645
+Key: 44, Value: 603
+Key: 45, Value: 617
+Key: 51, Value: 701
+Key: 50, Value: 687
+Key: 49, Value: 673
+Key: 48, Value: 659
+Key: 55, Value: 742
+Key: 54, Value: 728
+Key: 53, Value: 719
+Key: 52, Value: 710
+Key: 59, Value: 798
+Key: 58, Value: 784
+Key: 57, Value: 770
+Key: 56, Value: 756
+Key: 63, Value: 854
+Key: 62, Value: 840
+Key: 61, Value: 826
+Key: 60, Value: 812
+Key: 68, Value: 924
+Key: 69, Value: 938
+Key: 70, Value: 952
+Key: 71, Value: 966
+Key: 64, Value: 868
+Key: 65, Value: 882
+Key: 66, Value: 896
+Key: 67, Value: 910
+Key: 72, Value: 980
+Key: 73, Value: 994
+Key: 74, Value: 1008
+Key: 75, Value: 1022
+
+================================================
+                Switch Table 3                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 12
+Key: 2, Value: 26
+Key: 3, Value: 37
+Key: 4, Value: 48
+Key: 5, Value: 59
+Key: 6, Value: 70
+Key: 7, Value: 81
+Key: 8, Value: 95
+Key: 9, Value: 109
+Key: 10, Value: 123
+Key: 11, Value: 137
+Key: 12, Value: 151
+Key: 13, Value: 165
+Key: 14, Value: 179
+Key: 15, Value: 193
+Key: 17, Value: 221
+Key: 16, Value: 207
+Key: 19, Value: 249
+Key: 18, Value: 235
+Key: 21, Value: 277
+Key: 20, Value: 263
+Key: 23, Value: 305
+Key: 22, Value: 291
+Key: 25, Value: 333
+Key: 24, Value: 319
+Key: 27, Value: 361
+Key: 26, Value: 347
+Key: 29, Value: 386
+Key: 28, Value: 372
+Key: 31, Value: 414
+Key: 30, Value: 400
+Key: 34, Value: 456
+Key: 35, Value: 467
+Key: 32, Value: 428
+Key: 33, Value: 442
+Key: 38, Value: 503
+Key: 39, Value: 514
+Key: 36, Value: 478
+Key: 37, Value: 489
+Key: 42, Value: 553
+Key: 43, Value: 567
+Key: 40, Value: 528
+Key: 41, Value: 542
+
+================================================
+                Switch Table 4                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 15
+Key: 2, Value: 26
+Key: 3, Value: 40
+Key: 4, Value: 51
+Key: 5, Value: 62
+Key: 6, Value: 73
+
+================================================
+                Switch Table 5                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 15
+Key: 2, Value: 29
+Key: 3, Value: 43
+
+================================================
+                Switch Table 6                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 12
+Key: 2, Value: 23
+Key: 3, Value: 34
+Key: 4, Value: 45
+Key: 5, Value: 56
+Key: 6, Value: 67
+Key: 7, Value: 78
+Key: 8, Value: 89
+Key: 9, Value: 100
+Key: 10, Value: 111
+Key: 11, Value: 122
+Key: 12, Value: 133
+Key: 13, Value: 144
+Key: 14, Value: 155
+Key: 15, Value: 166
+Key: 17, Value: 188
+Key: 16, Value: 177
+Key: 19, Value: 210
+Key: 18, Value: 199
+
+================================================
+                Switch Table 7                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 10
+Key: 2, Value: 21
+Key: 3, Value: 32
+Key: 4, Value: 46
+Key: 5, Value: 60
+Key: 6, Value: 74
+Key: 7, Value: 88
+Key: 8, Value: 102
+Key: 9, Value: 113
+Key: 10, Value: 127
+Key: 11, Value: 141
+Key: 12, Value: 155
+Key: 13, Value: 169
+Key: 14, Value: 183
+Key: 15, Value: 194
+Key: 17, Value: 222
+Key: 16, Value: 208
+Key: 19, Value: 250
+Key: 18, Value: 236
+Key: 21, Value: 275
+Key: 20, Value: 264
+Key: 23, Value: 303
+Key: 22, Value: 289
+Key: 25, Value: 331
+Key: 24, Value: 317
+Key: 27, Value: 356
+Key: 26, Value: 345
+Key: 29, Value: 381
+Key: 28, Value: 367
+Key: 31, Value: 406
+Key: 30, Value: 395
+Key: 34, Value: 448
+Key: 35, Value: 462
+Key: 32, Value: 420
+Key: 33, Value: 434
+Key: 38, Value: 501
+Key: 39, Value: 515
+Key: 36, Value: 476
+Key: 37, Value: 487
+Key: 42, Value: 557
+Key: 43, Value: 568
+Key: 40, Value: 529
+Key: 41, Value: 543
+Key: 46, Value: 610
+Key: 47, Value: 624
+Key: 44, Value: 582
+Key: 45, Value: 596
+Key: 51, Value: 677
+Key: 50, Value: 666
+Key: 49, Value: 652
+Key: 48, Value: 638
+Key: 55, Value: 733
+Key: 54, Value: 719
+Key: 53, Value: 705
+Key: 52, Value: 691
+Key: 59, Value: 786
+Key: 58, Value: 772
+Key: 57, Value: 758
+Key: 56, Value: 747
+Key: 63, Value: 839
+Key: 62, Value: 828
+Key: 61, Value: 814
+Key: 60, Value: 800
+Key: 68, Value: 906
+Key: 69, Value: 920
+Key: 70, Value: 931
+Key: 71, Value: 945
+Key: 64, Value: 850
+Key: 65, Value: 864
+Key: 66, Value: 878
+Key: 67, Value: 892
+Key: 72, Value: 959
+Key: 73, Value: 973
+Key: 74, Value: 987
+
+================================================
+                Switch Table 8                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 18
+Key: 2, Value: 35
+Key: 3, Value: 46

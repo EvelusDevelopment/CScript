@@ -1,0 +1,181 @@
+================================================
+      Client Script 2126 Dumped by SiniSoul    
+      Instruction Size: 170
+      Integer Arguments: 8 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADGINT , Operand: 681
+Offset: 1, PUSHI , Operand: 4
+Offset: 2, getRandom , Operand: 0
+Offset: 3, IADD , Operand: 0
+Offset: 4, PUSHI , Operand: 2
+Offset: 5, IADD , Operand: 0
+Offset: 6, PUSHI , Operand: 2048
+Offset: 7, IMOD , Operand: 0
+Offset: 8, STOREGINT , Operand: 681
+Offset: 9, LOADGINT , Operand: 684
+Offset: 10, PUSHI , Operand: 4
+Offset: 11, getRandom , Operand: 0
+Offset: 12, IADD , Operand: 0
+Offset: 13, PUSHI , Operand: 2
+Offset: 14, IADD , Operand: 0
+Offset: 15, PUSHI , Operand: 2048
+Offset: 16, IMOD , Operand: 0
+Offset: 17, STOREGINT , Operand: 684
+Offset: 18, LOADGINT , Operand: 687
+Offset: 19, PUSHI , Operand: 4
+Offset: 20, getRandom , Operand: 0
+Offset: 21, IADD , Operand: 0
+Offset: 22, PUSHI , Operand: 2
+Offset: 23, IADD , Operand: 0
+Offset: 24, PUSHI , Operand: 2048
+Offset: 25, IMOD , Operand: 0
+Offset: 26, STOREGINT , Operand: 687
+Offset: 27, LOADGINT , Operand: 690
+Offset: 28, PUSHI , Operand: 4
+Offset: 29, getRandom , Operand: 0
+Offset: 30, IADD , Operand: 0
+Offset: 31, PUSHI , Operand: 2
+Offset: 32, IADD , Operand: 0
+Offset: 33, PUSHI , Operand: 2048
+Offset: 34, IMOD , Operand: 0
+Offset: 35, STOREGINT , Operand: 690
+Offset: 36, LOADGINT , Operand: 680
+Offset: 37, PUSHI , Operand: 20
+Offset: 38, IFLT , Operand: 1
+Offset: 39, GOTO , Operand: 18
+Offset: 40, LOADGINT , Operand: 680
+Offset: 41, PUSHI , Operand: -20
+Offset: 42, IFLT , Operand: 5
+Offset: 43, PUSHI , Operand: 2
+Offset: 44, getRandom , Operand: 0
+Offset: 45, PUSHI , Operand: 0
+Offset: 46, IFEQ , Operand: 1
+Offset: 47, GOTO , Operand: 10
+Offset: 48, LOADGINT , Operand: 680
+Offset: 49, PUSHI , Operand: 3
+Offset: 50, getRandom , Operand: 0
+Offset: 51, IADD , Operand: 0
+Offset: 52, PUSHI , Operand: 1
+Offset: 53, IADD , Operand: 0
+Offset: 54, PUSHI , Operand: 25
+Offset: 55, Unref Method: 4016, Operand: 0
+Offset: 56, STOREGINT , Operand: 680
+Offset: 57, GOTO , Operand: 9
+Offset: 58, LOADGINT , Operand: 680
+Offset: 59, PUSHI , Operand: 3
+Offset: 60, getRandom , Operand: 0
+Offset: 61, PUSHI , Operand: 1
+Offset: 62, IADD , Operand: 0
+Offset: 63, ISUB , Operand: 0
+Offset: 64, PUSHI , Operand: -25
+Offset: 65, Unref Method: 4017, Operand: 0
+Offset: 66, STOREGINT , Operand: 680
+Offset: 67, LOADGINT , Operand: 683
+Offset: 68, PUSHI , Operand: 20
+Offset: 69, IFLT , Operand: 1
+Offset: 70, GOTO , Operand: 18
+Offset: 71, LOADGINT , Operand: 683
+Offset: 72, PUSHI , Operand: -20
+Offset: 73, IFLT , Operand: 5
+Offset: 74, PUSHI , Operand: 2
+Offset: 75, getRandom , Operand: 0
+Offset: 76, PUSHI , Operand: 0
+Offset: 77, IFEQ , Operand: 1
+Offset: 78, GOTO , Operand: 10
+Offset: 79, LOADGINT , Operand: 683
+Offset: 80, PUSHI , Operand: 3
+Offset: 81, getRandom , Operand: 0
+Offset: 82, IADD , Operand: 0
+Offset: 83, PUSHI , Operand: 1
+Offset: 84, IADD , Operand: 0
+Offset: 85, PUSHI , Operand: 25
+Offset: 86, Unref Method: 4016, Operand: 0
+Offset: 87, STOREGINT , Operand: 683
+Offset: 88, GOTO , Operand: 9
+Offset: 89, LOADGINT , Operand: 683
+Offset: 90, PUSHI , Operand: 3
+Offset: 91, getRandom , Operand: 0
+Offset: 92, PUSHI , Operand: 1
+Offset: 93, IADD , Operand: 0
+Offset: 94, ISUB , Operand: 0
+Offset: 95, PUSHI , Operand: -25
+Offset: 96, Unref Method: 4017, Operand: 0
+Offset: 97, STOREGINT , Operand: 683
+Offset: 98, LOADGINT , Operand: 686
+Offset: 99, PUSHI , Operand: 20
+Offset: 100, IFLT , Operand: 1
+Offset: 101, GOTO , Operand: 18
+Offset: 102, LOADGINT , Operand: 686
+Offset: 103, PUSHI , Operand: -20
+Offset: 104, IFLT , Operand: 5
+Offset: 105, PUSHI , Operand: 2
+Offset: 106, getRandom , Operand: 0
+Offset: 107, PUSHI , Operand: 0
+Offset: 108, IFEQ , Operand: 1
+Offset: 109, GOTO , Operand: 10
+Offset: 110, LOADGINT , Operand: 686
+Offset: 111, PUSHI , Operand: 3
+Offset: 112, getRandom , Operand: 0
+Offset: 113, IADD , Operand: 0
+Offset: 114, PUSHI , Operand: 1
+Offset: 115, IADD , Operand: 0
+Offset: 116, PUSHI , Operand: 25
+Offset: 117, Unref Method: 4016, Operand: 0
+Offset: 118, STOREGINT , Operand: 686
+Offset: 119, GOTO , Operand: 9
+Offset: 120, LOADGINT , Operand: 686
+Offset: 121, PUSHI , Operand: 3
+Offset: 122, getRandom , Operand: 0
+Offset: 123, PUSHI , Operand: 1
+Offset: 124, IADD , Operand: 0
+Offset: 125, ISUB , Operand: 0
+Offset: 126, PUSHI , Operand: -25
+Offset: 127, Unref Method: 4017, Operand: 0
+Offset: 128, STOREGINT , Operand: 686
+Offset: 129, LOADGINT , Operand: 689
+Offset: 130, PUSHI , Operand: 20
+Offset: 131, IFLT , Operand: 1
+Offset: 132, GOTO , Operand: 18
+Offset: 133, LOADGINT , Operand: 689
+Offset: 134, PUSHI , Operand: -20
+Offset: 135, IFLT , Operand: 5
+Offset: 136, PUSHI , Operand: 2
+Offset: 137, getRandom , Operand: 0
+Offset: 138, PUSHI , Operand: 0
+Offset: 139, IFEQ , Operand: 1
+Offset: 140, GOTO , Operand: 10
+Offset: 141, LOADGINT , Operand: 689
+Offset: 142, PUSHI , Operand: 3
+Offset: 143, getRandom , Operand: 0
+Offset: 144, IADD , Operand: 0
+Offset: 145, PUSHI , Operand: 1
+Offset: 146, IADD , Operand: 0
+Offset: 147, PUSHI , Operand: 25
+Offset: 148, Unref Method: 4016, Operand: 0
+Offset: 149, STOREGINT , Operand: 689
+Offset: 150, GOTO , Operand: 9
+Offset: 151, LOADGINT , Operand: 689
+Offset: 152, PUSHI , Operand: 3
+Offset: 153, getRandom , Operand: 0
+Offset: 154, PUSHI , Operand: 1
+Offset: 155, IADD , Operand: 0
+Offset: 156, ISUB , Operand: 0
+Offset: 157, PUSHI , Operand: -25
+Offset: 158, Unref Method: 4017, Operand: 0
+Offset: 159, STOREGINT , Operand: 689
+Offset: 160, LOADINT , Operand: 0
+Offset: 161, LOADINT , Operand: 1
+Offset: 162, LOADINT , Operand: 2
+Offset: 163, LOADINT , Operand: 3
+Offset: 164, LOADINT , Operand: 4
+Offset: 165, LOADINT , Operand: 5
+Offset: 166, LOADINT , Operand: 6
+Offset: 167, LOADINT , Operand: 7
+Offset: 168, CALL , Operand: 2127
+Offset: 169, RETURN , Operand: 0

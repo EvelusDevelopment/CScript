@@ -1,0 +1,82 @@
+================================================
+      Client Script 3448 Dumped by SiniSoul    
+      Instruction Size: 54
+      Integer Arguments: 0 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, Unref Opcode: 25, Operand: 7933
+Offset: 1, PUSHI , Operand: 0
+Offset: 2, IFNE , Operand: 1
+Offset: 3, GOTO , Operand: 4
+Offset: 4, PUSHI , Operand: 0
+Offset: 5, PUSHI , Operand: 64684062
+Offset: 6, Unref Method: 2003, Operand: 0
+Offset: 7, GOTO , Operand: 3
+Offset: 8, PUSHI , Operand: 1
+Offset: 9, PUSHI , Operand: 64684062
+Offset: 10, Unref Method: 2003, Operand: 0
+Offset: 11, Unref Opcode: 25, Operand: 7933
+Offset: 12, SWITCH , Operand: 0
+Offset: 13, GOTO , Operand: 39
+Offset: 14, PUSHI , Operand: 16
+Offset: 15, PUSHI , Operand: 28
+Offset: 16, PUSHI , Operand: 0
+Offset: 17, PUSHI , Operand: 0
+Offset: 18, PUSHI , Operand: 64684062
+Offset: 19, Unref Method: 2000, Operand: 0
+Offset: 20, GOTO , Operand: 32
+Offset: 21, PUSHI , Operand: 16
+Offset: 22, PUSHI , Operand: 161
+Offset: 23, PUSHI , Operand: 0
+Offset: 24, PUSHI , Operand: 0
+Offset: 25, PUSHI , Operand: 64684062
+Offset: 26, Unref Method: 2000, Operand: 0
+Offset: 27, GOTO , Operand: 25
+Offset: 28, PUSHI , Operand: 16
+Offset: 29, Unref Opcode: 25, Operand: 7933
+Offset: 30, PUSHI , Operand: 1
+Offset: 31, ISUB , Operand: 0
+Offset: 32, PUSHI , Operand: 79
+Offset: 33, IMUL , Operand: 0
+Offset: 34, IADD , Operand: 0
+Offset: 35, PUSHI , Operand: 28
+Offset: 36, PUSHI , Operand: 0
+Offset: 37, PUSHI , Operand: 0
+Offset: 38, PUSHI , Operand: 64684062
+Offset: 39, Unref Method: 2000, Operand: 0
+Offset: 40, GOTO , Operand: 12
+Offset: 41, PUSHI , Operand: 16
+Offset: 42, Unref Opcode: 25, Operand: 7933
+Offset: 43, PUSHI , Operand: 7
+Offset: 44, ISUB , Operand: 0
+Offset: 45, PUSHI , Operand: 79
+Offset: 46, IMUL , Operand: 0
+Offset: 47, IADD , Operand: 0
+Offset: 48, PUSHI , Operand: 161
+Offset: 49, PUSHI , Operand: 0
+Offset: 50, PUSHI , Operand: 0
+Offset: 51, PUSHI , Operand: 64684062
+Offset: 52, Unref Method: 2000, Operand: 0
+Offset: 53, RETURN , Operand: 0
+
+================================================
+                Switch Table 0                
+================================================
+
+Key: 1, Value: 1
+Key: 2, Value: 15
+Key: 3, Value: 15
+Key: 4, Value: 15
+Key: 5, Value: 15
+Key: 6, Value: 15
+Key: 7, Value: 8
+Key: 8, Value: 28
+Key: 9, Value: 28
+Key: 10, Value: 28
+Key: 11, Value: 28
+Key: 12, Value: 28

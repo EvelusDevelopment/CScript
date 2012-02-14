@@ -1,0 +1,93 @@
+================================================
+      Client Script 1322 Dumped by SiniSoul    
+      Instruction Size: 82
+      Integer Arguments: 3 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHI , Operand: 438
+Offset: 1, PUSHI , Operand: 0
+Offset: 2, Unref Method: 3301, Operand: 0
+Offset: 3, PUSHI , Operand: -1
+Offset: 4, IFNE , Operand: 1
+Offset: 5, GOTO , Operand: 18
+Offset: 6, PUSHI , Operand: 0
+Offset: 7, LOADINT , Operand: 0
+Offset: 8, Unref Method: 2003, Operand: 0
+Offset: 9, PUSHI , Operand: 438
+Offset: 10, PUSHI , Operand: 0
+Offset: 11, Unref Method: 3301, Operand: 0
+Offset: 12, PUSHI , Operand: 1
+Offset: 13, LOADINT , Operand: 0
+Offset: 14, Unref Method: 2205, Operand: 0
+Offset: 15, PUSHS , Operand: <col=ff9040>
+Offset: 16, PUSHI , Operand: 438
+Offset: 17, PUSHI , Operand: 0
+Offset: 18, Unref Method: 3301, Operand: 0
+Offset: 19, Unref Method: 4200, Operand: 0
+Offset: 20, CONCAT , Operand: 2
+Offset: 21, LOADINT , Operand: 0
+Offset: 22, Unref Method: 2305, Operand: 0
+Offset: 23, GOTO , Operand: 3
+Offset: 24, PUSHI , Operand: 1
+Offset: 25, LOADINT , Operand: 0
+Offset: 26, Unref Method: 2003, Operand: 0
+Offset: 27, PUSHI , Operand: 438
+Offset: 28, PUSHI , Operand: 1
+Offset: 29, Unref Method: 3301, Operand: 0
+Offset: 30, PUSHI , Operand: -1
+Offset: 31, IFNE , Operand: 1
+Offset: 32, GOTO , Operand: 18
+Offset: 33, PUSHI , Operand: 0
+Offset: 34, LOADINT , Operand: 1
+Offset: 35, Unref Method: 2003, Operand: 0
+Offset: 36, PUSHI , Operand: 438
+Offset: 37, PUSHI , Operand: 1
+Offset: 38, Unref Method: 3301, Operand: 0
+Offset: 39, PUSHI , Operand: 1
+Offset: 40, LOADINT , Operand: 1
+Offset: 41, Unref Method: 2205, Operand: 0
+Offset: 42, PUSHS , Operand: <col=ff9040>
+Offset: 43, PUSHI , Operand: 438
+Offset: 44, PUSHI , Operand: 1
+Offset: 45, Unref Method: 3301, Operand: 0
+Offset: 46, Unref Method: 4200, Operand: 0
+Offset: 47, CONCAT , Operand: 2
+Offset: 48, LOADINT , Operand: 1
+Offset: 49, Unref Method: 2305, Operand: 0
+Offset: 50, GOTO , Operand: 3
+Offset: 51, PUSHI , Operand: 1
+Offset: 52, LOADINT , Operand: 1
+Offset: 53, Unref Method: 2003, Operand: 0
+Offset: 54, PUSHI , Operand: 438
+Offset: 55, PUSHI , Operand: 2
+Offset: 56, Unref Method: 3301, Operand: 0
+Offset: 57, PUSHI , Operand: -1
+Offset: 58, IFNE , Operand: 1
+Offset: 59, GOTO , Operand: 18
+Offset: 60, PUSHI , Operand: 0
+Offset: 61, LOADINT , Operand: 2
+Offset: 62, Unref Method: 2003, Operand: 0
+Offset: 63, PUSHI , Operand: 438
+Offset: 64, PUSHI , Operand: 2
+Offset: 65, Unref Method: 3301, Operand: 0
+Offset: 66, PUSHI , Operand: 1
+Offset: 67, LOADINT , Operand: 2
+Offset: 68, Unref Method: 2205, Operand: 0
+Offset: 69, PUSHS , Operand: <col=ff9040>
+Offset: 70, PUSHI , Operand: 438
+Offset: 71, PUSHI , Operand: 2
+Offset: 72, Unref Method: 3301, Operand: 0
+Offset: 73, Unref Method: 4200, Operand: 0
+Offset: 74, CONCAT , Operand: 2
+Offset: 75, LOADINT , Operand: 2
+Offset: 76, Unref Method: 2305, Operand: 0
+Offset: 77, GOTO , Operand: 3
+Offset: 78, PUSHI , Operand: 1
+Offset: 79, LOADINT , Operand: 2
+Offset: 80, Unref Method: 2003, Operand: 0
+Offset: 81, RETURN , Operand: 0

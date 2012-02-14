@@ -1,0 +1,27 @@
+================================================
+      Client Script 602 Dumped by SiniSoul    
+      Instruction Size: 16
+      Integer Arguments: 0 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADGINT , Operand: 82
+Offset: 1, PUSHI , Operand: 0
+Offset: 2, IFLTEQ , Operand: 1
+Offset: 3, GOTO , Operand: 3
+Offset: 4, PUSHI , Operand: 100
+Offset: 5, STOREGINT , Operand: 82
+Offset: 6, GOTO , Operand: 4
+Offset: 7, LOADGINT , Operand: 82
+Offset: 8, PUSHI , Operand: 10
+Offset: 9, IADD , Operand: 0
+Offset: 10, STOREGINT , Operand: 82
+Offset: 11, PUSHI , Operand: 603
+Offset: 12, PUSHS , Operand: 
+Offset: 13, PUSHI , Operand: 6881430
+Offset: 14, setInterfaceDefinitionScriptParams8 , Operand: 0
+Offset: 15, RETURN , Operand: 0

@@ -1,0 +1,45 @@
+================================================
+      Client Script 3161 Dumped by SiniSoul    
+      Instruction Size: 34
+      Integer Arguments: 1 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADINT , Operand: 0
+Offset: 1, PUSHI , Operand: 1
+Offset: 2, IFEQ , Operand: 1
+Offset: 3, GOTO , Operand: 17
+Offset: 4, Unref Method: 6900, Operand: 0
+Offset: 5, PUSHI , Operand: 0
+Offset: 6, IFEQ , Operand: 1
+Offset: 7, GOTO , Operand: 13
+Offset: 8, PUSHI , Operand: 3160
+Offset: 9, PUSHI , Operand: -2147483640
+Offset: 10, PUSHI , Operand: -2147483639
+Offset: 11, PUSHS , Operand: iz
+Offset: 12, PUSHI , Operand: 59768856
+Offset: 13, setInterfaceDefinitionScriptParams19 , Operand: 0
+Offset: 14, PUSHI , Operand: 1391
+Offset: 15, Unref Method: 3300, Operand: 0
+Offset: 16, PUSHI , Operand: 59768858
+Offset: 17, PUSHS , Operand: iI
+Offset: 18, PUSHI , Operand: 59768857
+Offset: 19, setInterfaceDefinitionScriptParams8 , Operand: 0
+Offset: 20, GOTO , Operand: 12
+Offset: 21, PUSHI , Operand: -1
+Offset: 22, PUSHS , Operand: 
+Offset: 23, PUSHI , Operand: 59768856
+Offset: 24, setInterfaceDefinitionScriptParams19 , Operand: 0
+Offset: 25, PUSHI , Operand: -1
+Offset: 26, PUSHS , Operand: 
+Offset: 27, PUSHI , Operand: 59768857
+Offset: 28, setInterfaceDefinitionScriptParams8 , Operand: 0
+Offset: 29, LOADGSTR , Operand: 278
+Offset: 30, Unref Method: 4111, Operand: 0
+Offset: 31, PUSHI , Operand: 59768857
+Offset: 32, Unref Method: 2112, Operand: 0
+Offset: 33, RETURN , Operand: 0

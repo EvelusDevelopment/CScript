@@ -1,0 +1,23 @@
+================================================
+      Client Script 971 Dumped by SiniSoul    
+      Instruction Size: 12
+      Integer Arguments: 0 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, Unref Opcode: 25, Operand: 4757
+Offset: 1, PUSHI , Operand: 0
+Offset: 2, IFGT , Operand: 1
+Offset: 3, GOTO , Operand: 7
+Offset: 4, PUSHI , Operand: 105
+Offset: 5, PUSHI , Operand: 100
+Offset: 6, PUSHI , Operand: 1478
+Offset: 7, Unref Opcode: 25, Operand: 4757
+Offset: 8, Unref Method: 3408, Operand: 0
+Offset: 9, PUSHI , Operand: 48496644
+Offset: 10, Unref Method: 2105, Operand: 0
+Offset: 11, RETURN , Operand: 0

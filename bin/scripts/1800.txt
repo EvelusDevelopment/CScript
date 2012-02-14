@@ -1,0 +1,21 @@
+================================================
+      Client Script 1800 Dumped by SiniSoul    
+      Instruction Size: 10
+      Integer Arguments: 1 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADINT , Operand: 0
+Offset: 1, CALL , Operand: 915
+Offset: 2, Unref Opcode: 1, Operand: 1149
+Offset: 3, PUSHI , Operand: -1
+Offset: 4, IFNE , Operand: 1
+Offset: 5, GOTO , Operand: 2
+Offset: 6, CALL , Operand: 1801
+Offset: 7, GOTO , Operand: 1
+Offset: 8, CALL , Operand: 1802
+Offset: 9, RETURN , Operand: 0

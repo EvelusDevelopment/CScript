@@ -1,0 +1,30 @@
+================================================
+      Client Script 1480 Dumped by SiniSoul    
+      Instruction Size: 19
+      Integer Arguments: 2 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADGINT , Operand: 188
+Offset: 1, PUSHI , Operand: 0
+Offset: 2, IFEQ , Operand: 1
+Offset: 3, GOTO , Operand: 3
+Offset: 4, PUSHI , Operand: 49938529
+Offset: 5, CALL , Operand: 41
+Offset: 6, RETURN , Operand: 0
+Offset: 7, LOADINT , Operand: 0
+Offset: 8, LOADINT , Operand: 1
+Offset: 9, PUSHI , Operand: 49938529
+Offset: 10, PUSHS , Operand: Item is in tab 
+Offset: 11, LOADINT , Operand: 1
+Offset: 12, CALL , Operand: 1468
+Offset: 13, integerToString , Operand: 0
+Offset: 14, CONCAT , Operand: 2
+Offset: 15, PUSHI , Operand: 25
+Offset: 16, PUSHI , Operand: 150
+Offset: 17, CALL , Operand: 569
+Offset: 18, RETURN , Operand: 0

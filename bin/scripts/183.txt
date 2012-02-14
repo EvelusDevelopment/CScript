@@ -1,0 +1,43 @@
+================================================
+      Client Script 183 Dumped by SiniSoul    
+      Instruction Size: 21
+      Integer Arguments: 2 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADINT , Operand: 0
+Offset: 1, SWITCH , Operand: 0
+Offset: 2, GOTO , Operand: 17
+Offset: 3, LOADINT , Operand: 1
+Offset: 4, STOREGINT , Operand: 44
+Offset: 5, GOTO , Operand: 14
+Offset: 6, LOADINT , Operand: 1
+Offset: 7, STOREGINT , Operand: 45
+Offset: 8, GOTO , Operand: 11
+Offset: 9, LOADINT , Operand: 1
+Offset: 10, STOREGINT , Operand: 46
+Offset: 11, GOTO , Operand: 8
+Offset: 12, LOADINT , Operand: 1
+Offset: 13, STOREGINT , Operand: 47
+Offset: 14, GOTO , Operand: 5
+Offset: 15, LOADINT , Operand: 1
+Offset: 16, STOREGINT , Operand: 48
+Offset: 17, GOTO , Operand: 2
+Offset: 18, LOADINT , Operand: 1
+Offset: 19, STOREGINT , Operand: 49
+Offset: 20, RETURN , Operand: 0
+
+================================================
+                Switch Table 0                
+================================================
+
+Key: 1, Value: 1
+Key: 2, Value: 4
+Key: 3, Value: 7
+Key: 4, Value: 10
+Key: 5, Value: 13
+Key: 6, Value: 16

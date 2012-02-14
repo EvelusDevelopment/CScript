@@ -1,0 +1,34 @@
+================================================
+      Client Script 2352 Dumped by SiniSoul    
+      Instruction Size: 23
+      Integer Arguments: 0 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, Unref Method: 3335, Operand: 0
+Offset: 1, PUSHI , Operand: 2
+Offset: 2, IFEQ , Operand: 4
+Offset: 3, Unref Method: 3335, Operand: 0
+Offset: 4, PUSHI , Operand: 3
+Offset: 5, IFEQ , Operand: 1
+Offset: 6, GOTO , Operand: 15
+Offset: 7, PUSHI , Operand: 494
+Offset: 8, PUSHI , Operand: 28377104
+Offset: 9, Unref Method: 2113, Operand: 0
+Offset: 10, PUSHI , Operand: 494
+Offset: 11, PUSHI , Operand: 28377105
+Offset: 12, Unref Method: 2113, Operand: 0
+Offset: 13, PUSHI , Operand: 494
+Offset: 14, PUSHI , Operand: 28377106
+Offset: 15, Unref Method: 2113, Operand: 0
+Offset: 16, PUSHI , Operand: 494
+Offset: 17, PUSHI , Operand: 28377107
+Offset: 18, Unref Method: 2113, Operand: 0
+Offset: 19, PUSHI , Operand: 494
+Offset: 20, PUSHI , Operand: 28377108
+Offset: 21, Unref Method: 2113, Operand: 0
+Offset: 22, RETURN , Operand: 0

@@ -1,0 +1,47 @@
+================================================
+      Client Script 3398 Dumped by SiniSoul    
+      Instruction Size: 28
+      Integer Arguments: 3 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADINT , Operand: 0
+Offset: 1, SWITCH , Operand: 0
+Offset: 2, GOTO , Operand: 24
+Offset: 3, CALL , Operand: 3400
+Offset: 4, RETURN , Operand: 0
+Offset: 5, GOTO , Operand: 21
+Offset: 6, PUSHI , Operand: 59965536
+Offset: 7, Unref Method: 2504, Operand: 0
+Offset: 8, PUSHI , Operand: 0
+Offset: 9, IFEQ , Operand: 1
+Offset: 10, GOTO , Operand: 6
+Offset: 11, PUSHI , Operand: 64159808
+Offset: 12, PUSHI , Operand: 64159809
+Offset: 13, PUSHI , Operand: 64159795
+Offset: 14, PUSHI , Operand: 64159787
+Offset: 15, CALL , Operand: 3198
+Offset: 16, GOTO , Operand: 1
+Offset: 17, CALL , Operand: 3391
+Offset: 18, RETURN , Operand: 0
+Offset: 19, GOTO , Operand: 7
+Offset: 20, PUSHI , Operand: 2
+Offset: 21, PUSHI , Operand: 64159808
+Offset: 22, PUSHI , Operand: 64159809
+Offset: 23, PUSHI , Operand: 64159795
+Offset: 24, PUSHI , Operand: 64159787
+Offset: 25, CALL , Operand: 3196
+Offset: 26, RETURN , Operand: 0
+Offset: 27, RETURN , Operand: 0
+
+================================================
+                Switch Table 0                
+================================================
+
+Key: 1, Value: 18
+Key: 13, Value: 4
+Key: 84, Value: 1

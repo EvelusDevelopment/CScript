@@ -1,0 +1,21 @@
+================================================
+      Client Script 3556 Dumped by SiniSoul    
+      Instruction Size: 10
+      Integer Arguments: 3 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHI , Operand: 3201
+Offset: 1, PUSHI , Operand: 3202
+Offset: 2, PUSHI , Operand: 3203
+Offset: 3, Unref Opcode: 25, Operand: 7392
+Offset: 4, CALL , Operand: 3592
+Offset: 5, LOADINT , Operand: 0
+Offset: 6, LOADINT , Operand: 1
+Offset: 7, LOADINT , Operand: 2
+Offset: 8, CALL , Operand: 3626
+Offset: 9, RETURN , Operand: 0

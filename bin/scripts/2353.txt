@@ -1,0 +1,35 @@
+================================================
+      Client Script 2353 Dumped by SiniSoul    
+      Instruction Size: 24
+      Integer Arguments: 1 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADGINT , Operand: 771
+Offset: 1, PUSHI , Operand: 1
+Offset: 2, IFEQ , Operand: 1
+Offset: 3, GOTO , Operand: 6
+Offset: 4, PUSHI , Operand: 2354
+Offset: 5, LOADINT , Operand: 0
+Offset: 6, PUSHS , Operand: I
+Offset: 7, LOADINT , Operand: 0
+Offset: 8, setInterfaceDefinitionScriptParams8 , Operand: 0
+Offset: 9, GOTO , Operand: 13
+Offset: 10, PUSHI , Operand: -1
+Offset: 11, PUSHS , Operand: 
+Offset: 12, LOADINT , Operand: 0
+Offset: 13, setInterfaceDefinitionScriptParams8 , Operand: 0
+Offset: 14, PUSHS , Operand: Saving your game and loading QuestHelp
+Offset: 15, LOADINT , Operand: 0
+Offset: 16, Unref Method: 2112, Operand: 0
+Offset: 17, PUSHI , Operand: 1
+Offset: 18, LOADINT , Operand: 0
+Offset: 19, Unref Method: 2003, Operand: 0
+Offset: 20, PUSHI , Operand: 0
+Offset: 21, PUSHI , Operand: 18022414
+Offset: 22, Unref Method: 2003, Operand: 0
+Offset: 23, RETURN , Operand: 0

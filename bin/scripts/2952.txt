@@ -1,0 +1,186 @@
+================================================
+      Client Script 2952 Dumped by SiniSoul    
+      Instruction Size: 159
+      Integer Arguments: 3 
+      String  Arguments: 2 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHS , Operand: 
+Offset: 1, STORESTR , Operand: 0
+Offset: 2, PUSHS , Operand: 
+Offset: 3, STORESTR , Operand: 1
+Offset: 4, LOADINT , Operand: 2
+Offset: 5, SWITCH , Operand: 0
+Offset: 6, GOTO , Operand: 143
+Offset: 7, PUSHS , Operand: accountappeal
+Offset: 8, STORESTR , Operand: 0
+Offset: 9, PUSHS , Operand: passwordchoice.ws
+Offset: 10, STORESTR , Operand: 1
+Offset: 11, PUSHI , Operand: 2931
+Offset: 12, LOADSTR , Operand: 0
+Offset: 13, LOADSTR , Operand: 1
+Offset: 14, PUSHI , Operand: 1
+Offset: 15, PUSHS , Operand: ss1
+Offset: 16, LOADINT , Operand: 0
+Offset: 17, setInterfaceDefinitionScriptParams0 , Operand: 0
+Offset: 18, PUSHI , Operand: 2953
+Offset: 19, PUSHS , Operand: 
+Offset: 20, LOADINT , Operand: 1
+Offset: 21, setInterfaceDefinitionScriptParams0 , Operand: 0
+Offset: 22, GOTO , Operand: 135
+Offset: 23, PUSHS , Operand: ticketing
+Offset: 24, STORESTR , Operand: 0
+Offset: 25, PUSHS , Operand: inbox.ws
+Offset: 26, STORESTR , Operand: 1
+Offset: 27, PUSHI , Operand: 2931
+Offset: 28, LOADSTR , Operand: 0
+Offset: 29, LOADSTR , Operand: 1
+Offset: 30, PUSHI , Operand: 1
+Offset: 31, PUSHS , Operand: ss1
+Offset: 32, LOADINT , Operand: 0
+Offset: 33, setInterfaceDefinitionScriptParams0 , Operand: 0
+Offset: 34, PUSHI , Operand: 2953
+Offset: 35, PUSHS , Operand: 
+Offset: 36, LOADINT , Operand: 1
+Offset: 37, setInterfaceDefinitionScriptParams0 , Operand: 0
+Offset: 38, GOTO , Operand: 119
+Offset: 39, PUSHS , Operand: password_history
+Offset: 40, STORESTR , Operand: 0
+Offset: 41, PUSHS , Operand: password.ws
+Offset: 42, STORESTR , Operand: 1
+Offset: 43, PUSHI , Operand: 2931
+Offset: 44, LOADSTR , Operand: 0
+Offset: 45, LOADSTR , Operand: 1
+Offset: 46, PUSHI , Operand: 1
+Offset: 47, PUSHS , Operand: ss1
+Offset: 48, LOADINT , Operand: 0
+Offset: 49, setInterfaceDefinitionScriptParams0 , Operand: 0
+Offset: 50, PUSHI , Operand: 2953
+Offset: 51, PUSHS , Operand: 
+Offset: 52, LOADINT , Operand: 1
+Offset: 53, setInterfaceDefinitionScriptParams0 , Operand: 0
+Offset: 54, GOTO , Operand: 103
+Offset: 55, PUSHS , Operand: accountappeal
+Offset: 56, STORESTR , Operand: 0
+Offset: 57, PUSHS , Operand: lockchoice.ws
+Offset: 58, STORESTR , Operand: 1
+Offset: 59, PUSHI , Operand: 2931
+Offset: 60, LOADSTR , Operand: 0
+Offset: 61, LOADSTR , Operand: 1
+Offset: 62, PUSHI , Operand: 1
+Offset: 63, PUSHS , Operand: ss1
+Offset: 64, LOADINT , Operand: 0
+Offset: 65, setInterfaceDefinitionScriptParams0 , Operand: 0
+Offset: 66, PUSHI , Operand: 2953
+Offset: 67, PUSHS , Operand: 
+Offset: 68, LOADINT , Operand: 1
+Offset: 69, setInterfaceDefinitionScriptParams0 , Operand: 0
+Offset: 70, GOTO , Operand: 87
+Offset: 71, Unref Method: 5420, Operand: 0
+Offset: 72, PUSHI , Operand: 1
+Offset: 73, IFEQ , Operand: 1
+Offset: 74, GOTO , Operand: 9
+Offset: 75, PUSHS , Operand: slu.ws
+Offset: 76, STORESTR , Operand: 1
+Offset: 77, PUSHI , Operand: 2933
+Offset: 78, LOADSTR , Operand: 1
+Offset: 79, PUSHI , Operand: 0
+Offset: 80, PUSHS , Operand: s1
+Offset: 81, LOADINT , Operand: 0
+Offset: 82, setInterfaceDefinitionScriptParams0 , Operand: 0
+Offset: 83, GOTO , Operand: 11
+Offset: 84, PUSHS , Operand: dob
+Offset: 85, STORESTR , Operand: 0
+Offset: 86, PUSHS , Operand: set_members_dob.ws
+Offset: 87, STORESTR , Operand: 1
+Offset: 88, PUSHI , Operand: 2931
+Offset: 89, LOADSTR , Operand: 0
+Offset: 90, LOADSTR , Operand: 1
+Offset: 91, PUSHI , Operand: 1
+Offset: 92, PUSHS , Operand: ss1
+Offset: 93, LOADINT , Operand: 0
+Offset: 94, setInterfaceDefinitionScriptParams0 , Operand: 0
+Offset: 95, PUSHI , Operand: 2953
+Offset: 96, PUSHS , Operand: 
+Offset: 97, LOADINT , Operand: 1
+Offset: 98, setInterfaceDefinitionScriptParams0 , Operand: 0
+Offset: 99, GOTO , Operand: 58
+Offset: 100, PUSHS , Operand: displaynames
+Offset: 101, STORESTR , Operand: 0
+Offset: 102, PUSHS , Operand: name.ws
+Offset: 103, STORESTR , Operand: 1
+Offset: 104, PUSHI , Operand: 2931
+Offset: 105, LOADSTR , Operand: 0
+Offset: 106, LOADSTR , Operand: 1
+Offset: 107, PUSHI , Operand: 1
+Offset: 108, PUSHS , Operand: ss1
+Offset: 109, LOADINT , Operand: 0
+Offset: 110, setInterfaceDefinitionScriptParams0 , Operand: 0
+Offset: 111, PUSHI , Operand: 2953
+Offset: 112, PUSHS , Operand: 
+Offset: 113, LOADINT , Operand: 1
+Offset: 114, setInterfaceDefinitionScriptParams0 , Operand: 0
+Offset: 115, GOTO , Operand: 42
+Offset: 116, PUSHS , Operand: dob
+Offset: 117, STORESTR , Operand: 0
+Offset: 118, PUSHS , Operand: set_members_dob.ws
+Offset: 119, STORESTR , Operand: 1
+Offset: 120, PUSHI , Operand: 2931
+Offset: 121, LOADSTR , Operand: 0
+Offset: 122, LOADSTR , Operand: 1
+Offset: 123, PUSHI , Operand: 1
+Offset: 124, PUSHS , Operand: ss1
+Offset: 125, LOADINT , Operand: 0
+Offset: 126, setInterfaceDefinitionScriptParams0 , Operand: 0
+Offset: 127, PUSHI , Operand: 2953
+Offset: 128, PUSHS , Operand: 
+Offset: 129, LOADINT , Operand: 1
+Offset: 130, setInterfaceDefinitionScriptParams0 , Operand: 0
+Offset: 131, GOTO , Operand: 26
+Offset: 132, PUSHI , Operand: 2958
+Offset: 133, PUSHS , Operand: 
+Offset: 134, LOADINT , Operand: 0
+Offset: 135, setInterfaceDefinitionScriptParams0 , Operand: 0
+Offset: 136, PUSHI , Operand: 2957
+Offset: 137, PUSHS , Operand: 
+Offset: 138, LOADINT , Operand: 1
+Offset: 139, setInterfaceDefinitionScriptParams0 , Operand: 0
+Offset: 140, GOTO , Operand: 17
+Offset: 141, PUSHI , Operand: 3234
+Offset: 142, PUSHS , Operand: 
+Offset: 143, LOADINT , Operand: 0
+Offset: 144, setInterfaceDefinitionScriptParams0 , Operand: 0
+Offset: 145, PUSHI , Operand: -1
+Offset: 146, PUSHS , Operand: 
+Offset: 147, LOADINT , Operand: 1
+Offset: 148, setInterfaceDefinitionScriptParams0 , Operand: 0
+Offset: 149, GOTO , Operand: 8
+Offset: 150, PUSHI , Operand: -1
+Offset: 151, PUSHS , Operand: 
+Offset: 152, LOADINT , Operand: 0
+Offset: 153, setInterfaceDefinitionScriptParams0 , Operand: 0
+Offset: 154, PUSHI , Operand: 2953
+Offset: 155, PUSHS , Operand: 
+Offset: 156, LOADINT , Operand: 1
+Offset: 157, setInterfaceDefinitionScriptParams0 , Operand: 0
+Offset: 158, RETURN , Operand: 0
+
+================================================
+                Switch Table 0                
+================================================
+
+Key: -1000, Value: 126
+Key: 19, Value: 110
+Key: 32, Value: 110
+Key: 18, Value: 49
+Key: 3, Value: 1
+Key: 21, Value: 135
+Key: 4, Value: 17
+Key: 11, Value: 33
+Key: 12, Value: 110
+Key: 31, Value: 94
+Key: 30, Value: 65

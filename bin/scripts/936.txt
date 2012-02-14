@@ -1,0 +1,45 @@
+================================================
+      Client Script 936 Dumped by SiniSoul    
+      Instruction Size: 27
+      Integer Arguments: 2 
+      String  Arguments: 1 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHS , Operand: 
+Offset: 1, STORESTR , Operand: 0
+Offset: 2, LOADINT , Operand: 0
+Offset: 3, PUSHI , Operand: 763
+Offset: 4, Unref Method: 4208, Operand: 0
+Offset: 5, STOREINT , Operand: 1
+Offset: 6, LOADINT , Operand: 0
+Offset: 7, PUSHI , Operand: 762
+Offset: 8, Unref Method: 4208, Operand: 0
+Offset: 9, SWITCH , Operand: 0
+Offset: 10, GOTO , Operand: 12
+Offset: 11, Unref Opcode: 1, Operand: 322
+Offset: 12, PUSHI , Operand: 10
+Offset: 13, PUSHS , Operand: Part of quest: Tai Bwo Wannai Trio
+Offset: 14, CALL , Operand: 913
+Offset: 15, RETURN , Operand: 0
+Offset: 16, GOTO , Operand: 8
+Offset: 17, Unref Opcode: 25, Operand: 4310
+Offset: 18, PUSHI , Operand: 10
+Offset: 19, PUSHS , Operand: Complete: Chaos Tunnels
+Offset: 20, CALL , Operand: 913
+Offset: 21, RETURN , Operand: 0
+Offset: 22, GOTO , Operand: 2
+Offset: 23, PUSHS , Operand: 
+Offset: 24, RETURN , Operand: 0
+Offset: 25, PUSHS , Operand: 
+Offset: 26, RETURN , Operand: 0
+
+================================================
+                Switch Table 0                
+================================================
+
+Key: 1, Value: 1
+Key: 2, Value: 7

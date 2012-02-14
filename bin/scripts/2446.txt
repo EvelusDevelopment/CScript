@@ -1,0 +1,171 @@
+================================================
+      Client Script 2446 Dumped by SiniSoul    
+      Instruction Size: 160
+      Integer Arguments: 0 
+      String  Arguments: 2 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADSTR , Operand: 0
+Offset: 1, toLowerCase , Operand: 0
+Offset: 2, STORESTR , Operand: 1
+Offset: 3, LOADSTR , Operand: 1
+Offset: 4, PUSHS , Operand: all your base are belong to us
+Offset: 5, Unref Method: 4107, Operand: 0
+Offset: 6, PUSHI , Operand: 0
+Offset: 7, IFEQ , Operand: 1
+Offset: 8, GOTO , Operand: 3
+Offset: 9, PUSHS , Operand: orly?
+Offset: 10, RETURN , Operand: 0
+Offset: 11, GOTO , Operand: 144
+Offset: 12, LOADSTR , Operand: 1
+Offset: 13, PUSHS , Operand: orly
+Offset: 14, Unref Method: 4107, Operand: 0
+Offset: 15, PUSHI , Operand: 0
+Offset: 16, IFEQ , Operand: 1
+Offset: 17, GOTO , Operand: 3
+Offset: 18, PUSHS , Operand: yarly
+Offset: 19, RETURN , Operand: 0
+Offset: 20, GOTO , Operand: 135
+Offset: 21, LOADSTR , Operand: 1
+Offset: 22, PUSHS , Operand: bangin'
+Offset: 23, Unref Method: 4107, Operand: 0
+Offset: 24, PUSHI , Operand: 0
+Offset: 25, IFEQ , Operand: 1
+Offset: 26, GOTO , Operand: 3
+Offset: 27, PUSHS , Operand: donk
+Offset: 28, RETURN , Operand: 0
+Offset: 29, GOTO , Operand: 126
+Offset: 30, LOADSTR , Operand: 1
+Offset: 31, PUSHS , Operand: murder
+Offset: 32, Unref Method: 4107, Operand: 0
+Offset: 33, PUSHI , Operand: 0
+Offset: 34, IFEQ , Operand: 6
+Offset: 35, LOADSTR , Operand: 1
+Offset: 36, PUSHS , Operand: redrum
+Offset: 37, Unref Method: 4107, Operand: 0
+Offset: 38, PUSHI , Operand: 0
+Offset: 39, IFEQ , Operand: 1
+Offset: 40, GOTO , Operand: 3
+Offset: 41, PUSHS , Operand: All rest and no play makes Guthix a dull boy.
+Offset: 42, RETURN , Operand: 0
+Offset: 43, GOTO , Operand: 112
+Offset: 44, LOADSTR , Operand: 1
+Offset: 45, PUSHS , Operand: humperdinck
+Offset: 46, Unref Method: 4107, Operand: 0
+Offset: 47, PUSHI , Operand: 0
+Offset: 48, IFEQ , Operand: 6
+Offset: 49, LOADSTR , Operand: 1
+Offset: 50, PUSHS , Operand: humperdink
+Offset: 51, Unref Method: 4107, Operand: 0
+Offset: 52, PUSHI , Operand: 0
+Offset: 53, IFEQ , Operand: 1
+Offset: 54, GOTO , Operand: 3
+Offset: 55, PUSHS , Operand: Have fun storming the castle!
+Offset: 56, RETURN , Operand: 0
+Offset: 57, GOTO , Operand: 98
+Offset: 58, LOADSTR , Operand: 1
+Offset: 59, PUSHS , Operand: i am your father
+Offset: 60, Unref Method: 4107, Operand: 0
+Offset: 61, PUSHI , Operand: 0
+Offset: 62, IFEQ , Operand: 1
+Offset: 63, GOTO , Operand: 3
+Offset: 64, PUSHS , Operand: Nooooooooooooooooooooooooo!
+Offset: 65, RETURN , Operand: 0
+Offset: 66, GOTO , Operand: 89
+Offset: 67, LOADSTR , Operand: 1
+Offset: 68, PUSHS , Operand: i'll be back
+Offset: 69, Unref Method: 4107, Operand: 0
+Offset: 70, PUSHI , Operand: 0
+Offset: 71, IFEQ , Operand: 1
+Offset: 72, GOTO , Operand: 3
+Offset: 73, PUSHS , Operand: Come with me if you want to live.
+Offset: 74, RETURN , Operand: 0
+Offset: 75, GOTO , Operand: 80
+Offset: 76, LOADSTR , Operand: 1
+Offset: 77, PUSHS , Operand: there is no spoon
+Offset: 78, Unref Method: 4107, Operand: 0
+Offset: 79, PUSHI , Operand: 0
+Offset: 80, IFEQ , Operand: 1
+Offset: 81, GOTO , Operand: 3
+Offset: 82, PUSHS , Operand: Then you will see, it is not the spoon that bends, it is only yourself.
+Offset: 83, RETURN , Operand: 0
+Offset: 84, GOTO , Operand: 71
+Offset: 85, LOADSTR , Operand: 1
+Offset: 86, PUSHS , Operand: milton waddams
+Offset: 87, Unref Method: 4107, Operand: 0
+Offset: 88, PUSHI , Operand: 0
+Offset: 89, IFEQ , Operand: 1
+Offset: 90, GOTO , Operand: 3
+Offset: 91, PUSHS , Operand: The ratio of people to cake is too big.
+Offset: 92, RETURN , Operand: 0
+Offset: 93, GOTO , Operand: 62
+Offset: 94, LOADSTR , Operand: 1
+Offset: 95, PUSHS , Operand: you fight like a dairy farmer
+Offset: 96, Unref Method: 4107, Operand: 0
+Offset: 97, PUSHI , Operand: 0
+Offset: 98, IFEQ , Operand: 1
+Offset: 99, GOTO , Operand: 3
+Offset: 100, PUSHS , Operand: How appropriate. You fight like a cow.
+Offset: 101, RETURN , Operand: 0
+Offset: 102, GOTO , Operand: 53
+Offset: 103, LOADSTR , Operand: 1
+Offset: 104, PUSHS , Operand: finish the fight
+Offset: 105, Unref Method: 4107, Operand: 0
+Offset: 106, PUSHI , Operand: 0
+Offset: 107, IFEQ , Operand: 1
+Offset: 108, GOTO , Operand: 3
+Offset: 109, PUSHS , Operand: They must love the smell of hero.
+Offset: 110, RETURN , Operand: 0
+Offset: 111, GOTO , Operand: 44
+Offset: 112, LOADSTR , Operand: 1
+Offset: 113, PUSHS , Operand: r.i.p runescape
+Offset: 114, Unref Method: 4107, Operand: 0
+Offset: 115, PUSHI , Operand: 0
+Offset: 116, IFEQ , Operand: 1
+Offset: 117, GOTO , Operand: 3
+Offset: 118, PUSHS , Operand: Totgesagte leben l￤nger.
+Offset: 119, RETURN , Operand: 0
+Offset: 120, GOTO , Operand: 35
+Offset: 121, LOADSTR , Operand: 1
+Offset: 122, PUSHS , Operand: penso, logo existo
+Offset: 123, Unref Method: 4107, Operand: 0
+Offset: 124, PUSHI , Operand: 0
+Offset: 125, IFEQ , Operand: 1
+Offset: 126, GOTO , Operand: 3
+Offset: 127, PUSHS , Operand: Borboletas salpicadas de goiabada...
+Offset: 128, RETURN , Operand: 0
+Offset: 129, GOTO , Operand: 26
+Offset: 130, LOADSTR , Operand: 1
+Offset: 131, PUSHS , Operand: le temps passe
+Offset: 132, Unref Method: 4107, Operand: 0
+Offset: 133, PUSHI , Operand: 0
+Offset: 134, IFEQ , Operand: 1
+Offset: 135, GOTO , Operand: 3
+Offset: 136, PUSHS , Operand: L'ﾜuf dur.
+Offset: 137, RETURN , Operand: 0
+Offset: 138, GOTO , Operand: 17
+Offset: 139, LOADSTR , Operand: 1
+Offset: 140, PUSHS , Operand: paul
+Offset: 141, Unref Method: 4107, Operand: 0
+Offset: 142, PUSHI , Operand: 0
+Offset: 143, IFEQ , Operand: 1
+Offset: 144, GOTO , Operand: 3
+Offset: 145, PUSHS , Operand: Rargh, I'm a lava monster!
+Offset: 146, RETURN , Operand: 0
+Offset: 147, GOTO , Operand: 8
+Offset: 148, LOADSTR , Operand: 1
+Offset: 149, PUSHS , Operand: andrew
+Offset: 150, Unref Method: 4107, Operand: 0
+Offset: 151, PUSHI , Operand: 0
+Offset: 152, IFEQ , Operand: 1
+Offset: 153, GOTO , Operand: 2
+Offset: 154, PUSHS , Operand: Cabbage.
+Offset: 155, RETURN , Operand: 0
+Offset: 156, LOADSTR , Operand: 0
+Offset: 157, RETURN , Operand: 0
+Offset: 158, PUSHS , Operand: 
+Offset: 159, RETURN , Operand: 0

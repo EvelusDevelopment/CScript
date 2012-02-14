@@ -1,0 +1,27 @@
+================================================
+      Client Script 1758 Dumped by SiniSoul    
+      Instruction Size: 16
+      Integer Arguments: 2 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADGINT , Operand: 218
+Offset: 1, PUSHI , Operand: 0
+Offset: 2, IFGT , Operand: 1
+Offset: 3, GOTO , Operand: 4
+Offset: 4, PUSHI , Operand: 0
+Offset: 5, LOADINT , Operand: 0
+Offset: 6, Unref Method: 2003, Operand: 0
+Offset: 7, GOTO , Operand: 3
+Offset: 8, PUSHI , Operand: 1
+Offset: 9, LOADINT , Operand: 0
+Offset: 10, Unref Method: 2003, Operand: 0
+Offset: 11, LOADGINT , Operand: 218
+Offset: 12, integerToString , Operand: 0
+Offset: 13, LOADINT , Operand: 1
+Offset: 14, Unref Method: 2112, Operand: 0
+Offset: 15, RETURN , Operand: 0

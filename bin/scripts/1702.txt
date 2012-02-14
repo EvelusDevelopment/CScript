@@ -1,0 +1,164 @@
+================================================
+      Client Script 1702 Dumped by SiniSoul    
+      Instruction Size: 153
+      Integer Arguments: 2 
+      String  Arguments: 1 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHI , Operand: 17760265
+Offset: 1, Unref Method: 2503, Operand: 0
+Offset: 2, STOREINT , Operand: 1
+Offset: 3, PUSHS , Operand: This is the effect that prayers and curses have during combat. It includes curses that have been used against you. The adjustment has no effect outside of combat. The percentage shown is relative to your skill level, and may vary depending on the enemy you are fighting, and the prayers or curses used. Partial percentages are not shown.
+Offset: 4, STORESTR , Operand: 0
+Offset: 5, LOADINT , Operand: 0
+Offset: 6, PUSHI , Operand: 0
+Offset: 7, IFGTEQ , Operand: 1
+Offset: 8, GOTO , Operand: 136
+Offset: 9, LOADGINT , Operand: 1052
+Offset: 10, PUSHI , Operand: 1
+Offset: 11, IFEQ , Operand: 1
+Offset: 12, GOTO , Operand: 69
+Offset: 13, LOADINT , Operand: 1
+Offset: 14, PUSHI , Operand: 63
+Offset: 15, IFLT , Operand: 1
+Offset: 16, GOTO , Operand: 37
+Offset: 17, LOADINT , Operand: 1
+Offset: 18, PUSHI , Operand: 3
+Offset: 19, IADD , Operand: 0
+Offset: 20, PUSHI , Operand: 63
+Offset: 21, Unref Method: 4016, Operand: 0
+Offset: 22, STOREINT , Operand: 1
+Offset: 23, PUSHI , Operand: 1702
+Offset: 24, PUSHI , Operand: 0
+Offset: 25, PUSHS , Operand: i
+Offset: 26, PUSHI , Operand: 17760265
+Offset: 27, setInterfaceDefinitionScriptParams8 , Operand: 0
+Offset: 28, PUSHI , Operand: 16384
+Offset: 29, LOADINT , Operand: 1
+Offset: 30, PUSHI , Operand: 2
+Offset: 31, PUSHI , Operand: 0
+Offset: 32, PUSHI , Operand: 17760265
+Offset: 33, Unref Method: 2001, Operand: 0
+Offset: 34, PUSHI , Operand: 16384
+Offset: 35, LOADINT , Operand: 1
+Offset: 36, PUSHI , Operand: 17760256
+Offset: 37, Unref Method: 2503, Operand: 0
+Offset: 38, IADD , Operand: 0
+Offset: 39, PUSHI , Operand: 2
+Offset: 40, PUSHI , Operand: 1
+Offset: 41, PUSHI , Operand: 17760261
+Offset: 42, Unref Method: 2001, Operand: 0
+Offset: 43, PUSHI , Operand: 16
+Offset: 44, LOADINT , Operand: 1
+Offset: 45, PUSHI , Operand: 17760256
+Offset: 46, Unref Method: 2503, Operand: 0
+Offset: 47, IADD , Operand: 0
+Offset: 48, PUSHI , Operand: 2
+Offset: 49, IADD , Operand: 0
+Offset: 50, PUSHI , Operand: 0
+Offset: 51, PUSHI , Operand: 1
+Offset: 52, PUSHI , Operand: 17760262
+Offset: 53, Unref Method: 2001, Operand: 0
+Offset: 54, PUSHI , Operand: 17760265
+Offset: 55, Unref Method: 2503, Operand: 0
+Offset: 56, PUSHI , Operand: 63
+Offset: 57, IFGTEQ , Operand: 1
+Offset: 58, GOTO , Operand: 22
+Offset: 59, PUSHI , Operand: -1
+Offset: 60, PUSHS , Operand: 
+Offset: 61, PUSHI , Operand: 17760265
+Offset: 62, setInterfaceDefinitionScriptParams8 , Operand: 0
+Offset: 63, CALL , Operand: 1704
+Offset: 64, PUSHI , Operand: 0
+Offset: 65, PUSHI , Operand: 17760280
+Offset: 66, Unref Method: 2003, Operand: 0
+Offset: 67, PUSHI , Operand: 38
+Offset: 68, PUSHI , Operand: 17760269
+Offset: 69, PUSHI , Operand: 17760305
+Offset: 70, LOADSTR , Operand: 0
+Offset: 71, PUSHI , Operand: 25
+Offset: 72, PUSHI , Operand: 190
+Offset: 73, PUSHS , Operand: IIsii
+Offset: 74, PUSHI , Operand: 17760269
+Offset: 75, setInterfaceDefinitionScriptParams12 , Operand: 0
+Offset: 76, PUSHI , Operand: 40
+Offset: 77, PUSHI , Operand: 17760305
+Offset: 78, PUSHS , Operand: I
+Offset: 79, PUSHI , Operand: 17760269
+Offset: 80, setInterfaceDefinitionScriptParams4 , Operand: 0
+Offset: 81, GOTO , Operand: 62
+Offset: 82, LOADINT , Operand: 1
+Offset: 83, PUSHI , Operand: 19
+Offset: 84, IFGT , Operand: 1
+Offset: 85, GOTO , Operand: 45
+Offset: 86, LOADINT , Operand: 1
+Offset: 87, PUSHI , Operand: 3
+Offset: 88, ISUB , Operand: 0
+Offset: 89, PUSHI , Operand: 19
+Offset: 90, Unref Method: 4017, Operand: 0
+Offset: 91, STOREINT , Operand: 1
+Offset: 92, PUSHI , Operand: 1702
+Offset: 93, PUSHI , Operand: 0
+Offset: 94, PUSHS , Operand: i
+Offset: 95, PUSHI , Operand: 17760265
+Offset: 96, setInterfaceDefinitionScriptParams8 , Operand: 0
+Offset: 97, PUSHI , Operand: 16384
+Offset: 98, LOADINT , Operand: 1
+Offset: 99, PUSHI , Operand: 2
+Offset: 100, PUSHI , Operand: 0
+Offset: 101, PUSHI , Operand: 17760265
+Offset: 102, Unref Method: 2001, Operand: 0
+Offset: 103, PUSHI , Operand: 16384
+Offset: 104, LOADINT , Operand: 1
+Offset: 105, PUSHI , Operand: 17760256
+Offset: 106, Unref Method: 2503, Operand: 0
+Offset: 107, IADD , Operand: 0
+Offset: 108, PUSHI , Operand: 2
+Offset: 109, PUSHI , Operand: 1
+Offset: 110, PUSHI , Operand: 17760261
+Offset: 111, Unref Method: 2001, Operand: 0
+Offset: 112, PUSHI , Operand: 16
+Offset: 113, LOADINT , Operand: 1
+Offset: 114, PUSHI , Operand: 17760256
+Offset: 115, Unref Method: 2503, Operand: 0
+Offset: 116, IADD , Operand: 0
+Offset: 117, PUSHI , Operand: 2
+Offset: 118, IADD , Operand: 0
+Offset: 119, PUSHI , Operand: 0
+Offset: 120, PUSHI , Operand: 1
+Offset: 121, PUSHI , Operand: 17760262
+Offset: 122, Unref Method: 2001, Operand: 0
+Offset: 123, PUSHI , Operand: -1
+Offset: 124, PUSHS , Operand: 
+Offset: 125, PUSHI , Operand: 17760269
+Offset: 126, setInterfaceDefinitionScriptParams12 , Operand: 0
+Offset: 127, PUSHI , Operand: -1
+Offset: 128, PUSHS , Operand: 
+Offset: 129, PUSHI , Operand: 17760269
+Offset: 130, setInterfaceDefinitionScriptParams4 , Operand: 0
+Offset: 131, PUSHI , Operand: 17760265
+Offset: 132, Unref Method: 2503, Operand: 0
+Offset: 133, PUSHI , Operand: 19
+Offset: 134, IFLTEQ , Operand: 1
+Offset: 135, GOTO , Operand: 8
+Offset: 136, PUSHI , Operand: -1
+Offset: 137, PUSHS , Operand: 
+Offset: 138, PUSHI , Operand: 17760265
+Offset: 139, setInterfaceDefinitionScriptParams8 , Operand: 0
+Offset: 140, CALL , Operand: 1704
+Offset: 141, PUSHI , Operand: 1
+Offset: 142, PUSHI , Operand: 17760280
+Offset: 143, Unref Method: 2003, Operand: 0
+Offset: 144, GOTO , Operand: 7
+Offset: 145, PUSHI , Operand: 1702
+Offset: 146, LOADINT , Operand: 0
+Offset: 147, PUSHI , Operand: 1
+Offset: 148, IADD , Operand: 0
+Offset: 149, PUSHS , Operand: i
+Offset: 150, PUSHI , Operand: 17760265
+Offset: 151, setInterfaceDefinitionScriptParams8 , Operand: 0
+Offset: 152, RETURN , Operand: 0

@@ -1,0 +1,72 @@
+================================================
+      Client Script 3397 Dumped by SiniSoul    
+      Instruction Size: 61
+      Integer Arguments: 2 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADGSTR , Operand: 279
+Offset: 1, PUSHI , Operand: 64159762
+Offset: 2, Unref Method: 2112, Operand: 0
+Offset: 3, PUSHI , Operand: 2568
+Offset: 4, STOREINT , Operand: 0
+Offset: 5, PUSHI , Operand: 2569
+Offset: 6, STOREINT , Operand: 1
+Offset: 7, LOADGSTR , Operand: 279
+Offset: 8, PUSHS , Operand: 
+Offset: 9, Unref Method: 4107, Operand: 0
+Offset: 10, PUSHI , Operand: 0
+Offset: 11, IFNE , Operand: 1
+Offset: 12, GOTO , Operand: 28
+Offset: 13, PUSHS , Operand: Reporting: 
+Offset: 14, LOADGSTR , Operand: 279
+Offset: 15, CONCAT , Operand: 2
+Offset: 16, PUSHI , Operand: 64159784
+Offset: 17, Unref Method: 2112, Operand: 0
+Offset: 18, PUSHI , Operand: 0
+Offset: 19, PUSHI , Operand: 64159754
+Offset: 20, Unref Method: 2103, Operand: 0
+Offset: 21, PUSHI , Operand: 0
+Offset: 22, PUSHI , Operand: 64159755
+Offset: 23, Unref Method: 2103, Operand: 0
+Offset: 24, PUSHI , Operand: 0
+Offset: 25, PUSHI , Operand: 64159756
+Offset: 26, Unref Method: 2103, Operand: 0
+Offset: 27, PUSHI , Operand: 0
+Offset: 28, PUSHI , Operand: 64159757
+Offset: 29, Unref Method: 2103, Operand: 0
+Offset: 30, PUSHI , Operand: 3071
+Offset: 31, PUSHI , Operand: 64159754
+Offset: 32, LOADINT , Operand: 0
+Offset: 33, PUSHI , Operand: 64159755
+Offset: 34, LOADINT , Operand: 1
+Offset: 35, PUSHI , Operand: 64159756
+Offset: 36, LOADINT , Operand: 0
+Offset: 37, PUSHS , Operand: IdIdId
+Offset: 38, PUSHI , Operand: 64159753
+Offset: 39, setInterfaceDefinitionScriptParams3 , Operand: 0
+Offset: 40, GOTO , Operand: 19
+Offset: 41, PUSHS , Operand: Report Abuse: Select Player
+Offset: 42, PUSHI , Operand: 64159784
+Offset: 43, Unref Method: 2112, Operand: 0
+Offset: 44, PUSHI , Operand: 100
+Offset: 45, PUSHI , Operand: 64159754
+Offset: 46, Unref Method: 2103, Operand: 0
+Offset: 47, PUSHI , Operand: 100
+Offset: 48, PUSHI , Operand: 64159755
+Offset: 49, Unref Method: 2103, Operand: 0
+Offset: 50, PUSHI , Operand: 100
+Offset: 51, PUSHI , Operand: 64159756
+Offset: 52, Unref Method: 2103, Operand: 0
+Offset: 53, PUSHI , Operand: 100
+Offset: 54, PUSHI , Operand: 64159757
+Offset: 55, Unref Method: 2103, Operand: 0
+Offset: 56, PUSHI , Operand: -1
+Offset: 57, PUSHS , Operand: 
+Offset: 58, PUSHI , Operand: 64159753
+Offset: 59, setInterfaceDefinitionScriptParams3 , Operand: 0
+Offset: 60, RETURN , Operand: 0

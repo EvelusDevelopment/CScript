@@ -1,0 +1,24 @@
+================================================
+      Client Script 3065 Dumped by SiniSoul    
+      Instruction Size: 13
+      Integer Arguments: 1 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADGINT , Operand: 998
+Offset: 1, PUSHI , Operand: 1
+Offset: 2, PUSHI , Operand: 59375789
+Offset: 3, PUSHI , Operand: 59375791
+Offset: 4, LOADINT , Operand: 0
+Offset: 5, CALL , Operand: 3066
+Offset: 6, LOADGINT , Operand: 999
+Offset: 7, PUSHI , Operand: 2
+Offset: 8, PUSHI , Operand: 59375790
+Offset: 9, PUSHI , Operand: 59375792
+Offset: 10, LOADINT , Operand: 0
+Offset: 11, CALL , Operand: 3066
+Offset: 12, RETURN , Operand: 0

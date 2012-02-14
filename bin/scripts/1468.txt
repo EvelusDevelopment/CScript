@@ -1,0 +1,131 @@
+================================================
+      Client Script 1468 Dumped by SiniSoul    
+      Instruction Size: 120
+      Integer Arguments: 1 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADINT , Operand: 0
+Offset: 1, PUSHI , Operand: 1
+Offset: 2, IADD , Operand: 0
+Offset: 3, STOREINT , Operand: 0
+Offset: 4, LOADINT , Operand: 0
+Offset: 5, Unref Opcode: 25, Operand: 4885
+Offset: 6, IFLTEQ , Operand: 1
+Offset: 7, GOTO , Operand: 3
+Offset: 8, PUSHI , Operand: 2
+Offset: 9, RETURN , Operand: 0
+Offset: 10, GOTO , Operand: 107
+Offset: 11, LOADINT , Operand: 0
+Offset: 12, Unref Opcode: 25, Operand: 4885
+Offset: 13, Unref Opcode: 25, Operand: 4886
+Offset: 14, IADD , Operand: 0
+Offset: 15, IFLTEQ , Operand: 1
+Offset: 16, GOTO , Operand: 3
+Offset: 17, PUSHI , Operand: 3
+Offset: 18, RETURN , Operand: 0
+Offset: 19, GOTO , Operand: 98
+Offset: 20, LOADINT , Operand: 0
+Offset: 21, Unref Opcode: 25, Operand: 4885
+Offset: 22, Unref Opcode: 25, Operand: 4886
+Offset: 23, IADD , Operand: 0
+Offset: 24, Unref Opcode: 25, Operand: 4887
+Offset: 25, IADD , Operand: 0
+Offset: 26, IFLTEQ , Operand: 1
+Offset: 27, GOTO , Operand: 3
+Offset: 28, PUSHI , Operand: 4
+Offset: 29, RETURN , Operand: 0
+Offset: 30, GOTO , Operand: 87
+Offset: 31, LOADINT , Operand: 0
+Offset: 32, Unref Opcode: 25, Operand: 4885
+Offset: 33, Unref Opcode: 25, Operand: 4886
+Offset: 34, IADD , Operand: 0
+Offset: 35, Unref Opcode: 25, Operand: 4887
+Offset: 36, IADD , Operand: 0
+Offset: 37, Unref Opcode: 25, Operand: 4888
+Offset: 38, IADD , Operand: 0
+Offset: 39, IFLTEQ , Operand: 1
+Offset: 40, GOTO , Operand: 3
+Offset: 41, PUSHI , Operand: 5
+Offset: 42, RETURN , Operand: 0
+Offset: 43, GOTO , Operand: 74
+Offset: 44, LOADINT , Operand: 0
+Offset: 45, Unref Opcode: 25, Operand: 4885
+Offset: 46, Unref Opcode: 25, Operand: 4886
+Offset: 47, IADD , Operand: 0
+Offset: 48, Unref Opcode: 25, Operand: 4887
+Offset: 49, IADD , Operand: 0
+Offset: 50, Unref Opcode: 25, Operand: 4888
+Offset: 51, IADD , Operand: 0
+Offset: 52, Unref Opcode: 25, Operand: 4889
+Offset: 53, IADD , Operand: 0
+Offset: 54, IFLTEQ , Operand: 1
+Offset: 55, GOTO , Operand: 3
+Offset: 56, PUSHI , Operand: 6
+Offset: 57, RETURN , Operand: 0
+Offset: 58, GOTO , Operand: 59
+Offset: 59, LOADINT , Operand: 0
+Offset: 60, Unref Opcode: 25, Operand: 4885
+Offset: 61, Unref Opcode: 25, Operand: 4886
+Offset: 62, IADD , Operand: 0
+Offset: 63, Unref Opcode: 25, Operand: 4887
+Offset: 64, IADD , Operand: 0
+Offset: 65, Unref Opcode: 25, Operand: 4888
+Offset: 66, IADD , Operand: 0
+Offset: 67, Unref Opcode: 25, Operand: 4889
+Offset: 68, IADD , Operand: 0
+Offset: 69, Unref Opcode: 25, Operand: 4890
+Offset: 70, IADD , Operand: 0
+Offset: 71, IFLTEQ , Operand: 1
+Offset: 72, GOTO , Operand: 3
+Offset: 73, PUSHI , Operand: 7
+Offset: 74, RETURN , Operand: 0
+Offset: 75, GOTO , Operand: 42
+Offset: 76, LOADINT , Operand: 0
+Offset: 77, Unref Opcode: 25, Operand: 4885
+Offset: 78, Unref Opcode: 25, Operand: 4886
+Offset: 79, IADD , Operand: 0
+Offset: 80, Unref Opcode: 25, Operand: 4887
+Offset: 81, IADD , Operand: 0
+Offset: 82, Unref Opcode: 25, Operand: 4888
+Offset: 83, IADD , Operand: 0
+Offset: 84, Unref Opcode: 25, Operand: 4889
+Offset: 85, IADD , Operand: 0
+Offset: 86, Unref Opcode: 25, Operand: 4890
+Offset: 87, IADD , Operand: 0
+Offset: 88, Unref Opcode: 25, Operand: 4891
+Offset: 89, IADD , Operand: 0
+Offset: 90, IFLTEQ , Operand: 1
+Offset: 91, GOTO , Operand: 3
+Offset: 92, PUSHI , Operand: 8
+Offset: 93, RETURN , Operand: 0
+Offset: 94, GOTO , Operand: 23
+Offset: 95, LOADINT , Operand: 0
+Offset: 96, Unref Opcode: 25, Operand: 4885
+Offset: 97, Unref Opcode: 25, Operand: 4886
+Offset: 98, IADD , Operand: 0
+Offset: 99, Unref Opcode: 25, Operand: 4887
+Offset: 100, IADD , Operand: 0
+Offset: 101, Unref Opcode: 25, Operand: 4888
+Offset: 102, IADD , Operand: 0
+Offset: 103, Unref Opcode: 25, Operand: 4889
+Offset: 104, IADD , Operand: 0
+Offset: 105, Unref Opcode: 25, Operand: 4890
+Offset: 106, IADD , Operand: 0
+Offset: 107, Unref Opcode: 25, Operand: 4891
+Offset: 108, IADD , Operand: 0
+Offset: 109, Unref Opcode: 25, Operand: 4892
+Offset: 110, IADD , Operand: 0
+Offset: 111, IFLTEQ , Operand: 1
+Offset: 112, GOTO , Operand: 3
+Offset: 113, PUSHI , Operand: 9
+Offset: 114, RETURN , Operand: 0
+Offset: 115, GOTO , Operand: 2
+Offset: 116, PUSHI , Operand: 1
+Offset: 117, RETURN , Operand: 0
+Offset: 118, PUSHI , Operand: 0
+Offset: 119, RETURN , Operand: 0

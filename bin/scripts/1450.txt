@@ -1,0 +1,63 @@
+================================================
+      Client Script 1450 Dumped by SiniSoul    
+      Instruction Size: 52
+      Integer Arguments: 2 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHI , Operand: 0
+Offset: 1, STOREINT , Operand: 0
+Offset: 2, PUSHI , Operand: 95
+Offset: 3, Unref Method: 3304, Operand: 0
+Offset: 4, STOREINT , Operand: 1
+Offset: 5, LOADINT , Operand: 0
+Offset: 6, LOADINT , Operand: 1
+Offset: 7, IFLT , Operand: 1
+Offset: 8, GOTO , Operand: 42
+Offset: 9, PUSHI , Operand: 49938525
+Offset: 10, PUSHI , Operand: 5
+Offset: 11, LOADINT , Operand: 0
+Offset: 12, Unref Method: 100, Operand: 0
+Offset: 13, PUSHI , Operand: 36
+Offset: 14, PUSHI , Operand: 32
+Offset: 15, PUSHI , Operand: 0
+Offset: 16, PUSHI , Operand: 0
+Offset: 17, Unref Method: 1001, Operand: 0
+Offset: 18, PUSHI , Operand: 0
+Offset: 19, PUSHI , Operand: 0
+Offset: 20, PUSHI , Operand: 0
+Offset: 21, PUSHI , Operand: 0
+Offset: 22, Unref Method: 1000, Operand: 0
+Offset: 23, PUSHI , Operand: 1
+Offset: 24, Unref Method: 1003, Operand: 0
+Offset: 25, PUSHI , Operand: 95
+Offset: 26, LOADINT , Operand: 0
+Offset: 27, Unref Method: 3301, Operand: 0
+Offset: 28, PUSHI , Operand: -1
+Offset: 29, IFNE , Operand: 1
+Offset: 30, GOTO , Operand: 2
+Offset: 31, LOADINT , Operand: 0
+Offset: 32, CALL , Operand: 1453
+Offset: 33, PUSHI , Operand: 1
+Offset: 34, Unref Method: 1116, Operand: 0
+Offset: 35, PUSHI , Operand: 3355443
+Offset: 36, Unref Method: 1117, Operand: 0
+Offset: 37, PUSHI , Operand: 1480
+Offset: 38, PUSHI , Operand: 49938525
+Offset: 39, LOADINT , Operand: 0
+Offset: 40, PUSHS , Operand: Ii
+Offset: 41, Unref Method: 1412, Operand: 0
+Offset: 42, PUSHI , Operand: 40
+Offset: 43, PUSHI , Operand: 49938529
+Offset: 44, PUSHS , Operand: I
+Offset: 45, Unref Method: 1404, Operand: 0
+Offset: 46, LOADINT , Operand: 0
+Offset: 47, PUSHI , Operand: 1
+Offset: 48, IADD , Operand: 0
+Offset: 49, STOREINT , Operand: 0
+Offset: 50, GOTO , Operand: -46
+Offset: 51, RETURN , Operand: 0

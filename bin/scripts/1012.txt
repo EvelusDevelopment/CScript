@@ -1,0 +1,1082 @@
+================================================
+      Client Script 1012 Dumped by SiniSoul    
+      Instruction Size: 941
+      Integer Arguments: 2 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADINT , Operand: 0
+Offset: 1, SWITCH , Operand: 0
+Offset: 2, GOTO , Operand: 933
+Offset: 3, LOADINT , Operand: 1
+Offset: 4, SWITCH , Operand: 1
+Offset: 5, GOTO , Operand: 223
+Offset: 6, PUSHI , Operand: -1
+Offset: 7, PUSHI , Operand: 7620
+Offset: 8, PUSHS , Operand: To mine rune essence, you must have started Rune Mysteries.
+Offset: 9, PUSHS , Operand: 
+Offset: 10, RETURN , Operand: 0
+Offset: 11, GOTO , Operand: 217
+Offset: 12, PUSHI , Operand: 1
+Offset: 13, PUSHI , Operand: 556
+Offset: 14, PUSHS , Operand: Air runes
+Offset: 15, PUSHS , Operand: You can now craft 
+Offset: 16, PUSHS , Operand: <col=000080>
+Offset: 17, PUSHS , Operand: air runes
+Offset: 18, PUSHS , Operand: </col>
+Offset: 19, PUSHS , Operand: .
+Offset: 20, CONCAT , Operand: 5
+Offset: 21, RETURN , Operand: 0
+Offset: 22, GOTO , Operand: 206
+Offset: 23, PUSHI , Operand: 2
+Offset: 24, PUSHI , Operand: 558
+Offset: 25, PUSHS , Operand: Mind runes
+Offset: 26, PUSHS , Operand: You can now craft 
+Offset: 27, PUSHS , Operand: <col=000080>
+Offset: 28, PUSHS , Operand: mind runes
+Offset: 29, PUSHS , Operand: </col>
+Offset: 30, PUSHS , Operand: .
+Offset: 31, CONCAT , Operand: 5
+Offset: 32, RETURN , Operand: 0
+Offset: 33, GOTO , Operand: 195
+Offset: 34, PUSHI , Operand: 5
+Offset: 35, PUSHI , Operand: 555
+Offset: 36, PUSHS , Operand: Water runes
+Offset: 37, PUSHS , Operand: You can now craft 
+Offset: 38, PUSHS , Operand: <col=000080>
+Offset: 39, PUSHS , Operand: water runes
+Offset: 40, PUSHS , Operand: </col>
+Offset: 41, PUSHS , Operand: .
+Offset: 42, CONCAT , Operand: 5
+Offset: 43, RETURN , Operand: 0
+Offset: 44, GOTO , Operand: 184
+Offset: 45, PUSHI , Operand: 6
+Offset: 46, PUSHI , Operand: 4695
+Offset: 47, PUSHS , Operand: Members: Mist runes
+Offset: 48, PUSHS , Operand: Members can now craft 
+Offset: 49, PUSHS , Operand: <col=000080>
+Offset: 50, PUSHS , Operand: mist runes
+Offset: 51, PUSHS , Operand: </col>
+Offset: 52, PUSHS , Operand: .
+Offset: 53, CONCAT , Operand: 5
+Offset: 54, RETURN , Operand: 0
+Offset: 55, GOTO , Operand: 173
+Offset: 56, PUSHI , Operand: 9
+Offset: 57, PUSHI , Operand: 557
+Offset: 58, PUSHS , Operand: Earth runes
+Offset: 59, PUSHS , Operand: You can now craft 
+Offset: 60, PUSHS , Operand: <col=000080>
+Offset: 61, PUSHS , Operand: earth runes
+Offset: 62, PUSHS , Operand: </col>
+Offset: 63, PUSHS , Operand: .
+Offset: 64, CONCAT , Operand: 5
+Offset: 65, RETURN , Operand: 0
+Offset: 66, GOTO , Operand: 162
+Offset: 67, PUSHI , Operand: 10
+Offset: 68, PUSHI , Operand: 4696
+Offset: 69, PUSHS , Operand: Members: Dust runes
+Offset: 70, PUSHS , Operand: Members can now craft 
+Offset: 71, PUSHS , Operand: <col=000080>
+Offset: 72, PUSHS , Operand: dust runes
+Offset: 73, PUSHS , Operand: </col>
+Offset: 74, PUSHS , Operand: .
+Offset: 75, CONCAT , Operand: 5
+Offset: 76, RETURN , Operand: 0
+Offset: 77, GOTO , Operand: 151
+Offset: 78, PUSHI , Operand: 13
+Offset: 79, PUSHI , Operand: 4698
+Offset: 80, PUSHS , Operand: Members: Mud runes
+Offset: 81, PUSHS , Operand: Members can now craft 
+Offset: 82, PUSHS , Operand: <col=000080>
+Offset: 83, PUSHS , Operand: mud runes
+Offset: 84, PUSHS , Operand: </col>
+Offset: 85, PUSHS , Operand: .
+Offset: 86, CONCAT , Operand: 5
+Offset: 87, RETURN , Operand: 0
+Offset: 88, GOTO , Operand: 140
+Offset: 89, PUSHI , Operand: 14
+Offset: 90, PUSHI , Operand: 554
+Offset: 91, PUSHS , Operand: Fire runes
+Offset: 92, PUSHS , Operand: You can now craft 
+Offset: 93, PUSHS , Operand: <col=000080>
+Offset: 94, PUSHS , Operand: fire runes
+Offset: 95, PUSHS , Operand: </col>
+Offset: 96, PUSHS , Operand: .
+Offset: 97, CONCAT , Operand: 5
+Offset: 98, RETURN , Operand: 0
+Offset: 99, GOTO , Operand: 129
+Offset: 100, PUSHI , Operand: 15
+Offset: 101, PUSHI , Operand: 4697
+Offset: 102, PUSHS , Operand: Members: Smoke runes
+Offset: 103, PUSHS , Operand: Members can now craft 
+Offset: 104, PUSHS , Operand: <col=000080>
+Offset: 105, PUSHS , Operand: smoke runes
+Offset: 106, PUSHS , Operand: </col>
+Offset: 107, PUSHS , Operand: .
+Offset: 108, CONCAT , Operand: 5
+Offset: 109, RETURN , Operand: 0
+Offset: 110, GOTO , Operand: 118
+Offset: 111, PUSHI , Operand: 19
+Offset: 112, PUSHI , Operand: 4694
+Offset: 113, PUSHS , Operand: Members: Steam runes
+Offset: 114, PUSHS , Operand: Members can now craft 
+Offset: 115, PUSHS , Operand: <col=000080>
+Offset: 116, PUSHS , Operand: steam runes
+Offset: 117, PUSHS , Operand: </col>
+Offset: 118, PUSHS , Operand: .
+Offset: 119, CONCAT , Operand: 5
+Offset: 120, RETURN , Operand: 0
+Offset: 121, GOTO , Operand: 107
+Offset: 122, PUSHI , Operand: 20
+Offset: 123, PUSHI , Operand: 559
+Offset: 124, PUSHS , Operand: Body runes
+Offset: 125, PUSHS , Operand: You can now craft 
+Offset: 126, PUSHS , Operand: <col=000080>
+Offset: 127, PUSHS , Operand: body runes
+Offset: 128, PUSHS , Operand: </col>
+Offset: 129, PUSHS , Operand: .
+Offset: 130, CONCAT , Operand: 5
+Offset: 131, RETURN , Operand: 0
+Offset: 132, GOTO , Operand: 96
+Offset: 133, PUSHI , Operand: 23
+Offset: 134, PUSHI , Operand: 4699
+Offset: 135, PUSHS , Operand: Members: Lava runes
+Offset: 136, PUSHS , Operand: Members can now craft 
+Offset: 137, PUSHS , Operand: <col=000080>
+Offset: 138, PUSHS , Operand: lava runes
+Offset: 139, PUSHS , Operand: </col>
+Offset: 140, PUSHS , Operand: .
+Offset: 141, CONCAT , Operand: 5
+Offset: 142, RETURN , Operand: 0
+Offset: 143, GOTO , Operand: 85
+Offset: 144, PUSHI , Operand: 27
+Offset: 145, PUSHI , Operand: 564
+Offset: 146, PUSHS , Operand: Members: Cosmic runes
+Offset: 147, PUSHS , Operand: Members can now craft 
+Offset: 148, PUSHS , Operand: <col=000080>
+Offset: 149, PUSHS , Operand: cosmic runes
+Offset: 150, PUSHS , Operand: </col>
+Offset: 151, PUSHS , Operand: .
+Offset: 152, CONCAT , Operand: 5
+Offset: 153, RETURN , Operand: 0
+Offset: 154, GOTO , Operand: 74
+Offset: 155, PUSHI , Operand: 35
+Offset: 156, PUSHI , Operand: 562
+Offset: 157, PUSHS , Operand: Members: Chaos runes
+Offset: 158, PUSHS , Operand: Members can now craft 
+Offset: 159, PUSHS , Operand: <col=000080>
+Offset: 160, PUSHS , Operand: chaos runes
+Offset: 161, PUSHS , Operand: </col>
+Offset: 162, PUSHS , Operand: .
+Offset: 163, CONCAT , Operand: 5
+Offset: 164, RETURN , Operand: 0
+Offset: 165, GOTO , Operand: 63
+Offset: 166, PUSHI , Operand: 40
+Offset: 167, PUSHI , Operand: 9075
+Offset: 168, PUSHS , Operand: Members: Astral runes
+Offset: 169, PUSHS , Operand: <br>
+Offset: 170, PUSHS , Operand:  (after Lunar Diplomacy)
+Offset: 171, CONCAT , Operand: 3
+Offset: 172, PUSHS , Operand: Members now have the Runecrafting level required to craft 
+Offset: 173, PUSHS , Operand: <col=000080>
+Offset: 174, PUSHS , Operand: astral runes
+Offset: 175, PUSHS , Operand: </col>
+Offset: 176, PUSHS , Operand:  (after Lunar Diplomacy, or when in Daemonheim).
+Offset: 177, CONCAT , Operand: 5
+Offset: 178, RETURN , Operand: 0
+Offset: 179, GOTO , Operand: 49
+Offset: 180, PUSHI , Operand: 44
+Offset: 181, PUSHI , Operand: 561
+Offset: 182, PUSHS , Operand: Members: Nature runes
+Offset: 183, PUSHS , Operand: Members can now craft 
+Offset: 184, PUSHS , Operand: <col=000080>
+Offset: 185, PUSHS , Operand: nature runes
+Offset: 186, PUSHS , Operand: </col>
+Offset: 187, PUSHS , Operand: .
+Offset: 188, CONCAT , Operand: 5
+Offset: 189, RETURN , Operand: 0
+Offset: 190, GOTO , Operand: 38
+Offset: 191, PUSHI , Operand: 54
+Offset: 192, PUSHI , Operand: 563
+Offset: 193, PUSHS , Operand: Members: Law runes
+Offset: 194, PUSHS , Operand: Members can now craft 
+Offset: 195, PUSHS , Operand: <col=000080>
+Offset: 196, PUSHS , Operand: law runes
+Offset: 197, PUSHS , Operand: </col>
+Offset: 198, PUSHS , Operand: .
+Offset: 199, CONCAT , Operand: 5
+Offset: 200, RETURN , Operand: 0
+Offset: 201, GOTO , Operand: 27
+Offset: 202, PUSHI , Operand: 65
+Offset: 203, PUSHI , Operand: 560
+Offset: 204, PUSHS , Operand: Members: Death runes
+Offset: 205, PUSHS , Operand: <br>
+Offset: 206, PUSHS , Operand:  (after Mourning's Ends Part II)
+Offset: 207, CONCAT , Operand: 3
+Offset: 208, PUSHS , Operand: Members now have the Runecrafting level required to craft 
+Offset: 209, PUSHS , Operand: <col=000080>
+Offset: 210, PUSHS , Operand: death runes
+Offset: 211, PUSHS , Operand: </col>
+Offset: 212, PUSHS , Operand:  (after Mourning's Ends Part II, or when in Daemonheim).
+Offset: 213, CONCAT , Operand: 5
+Offset: 214, RETURN , Operand: 0
+Offset: 215, GOTO , Operand: 13
+Offset: 216, PUSHI , Operand: 77
+Offset: 217, PUSHI , Operand: 565
+Offset: 218, PUSHS , Operand: Members: Blood runes
+Offset: 219, PUSHS , Operand: <br>
+Offset: 220, PUSHS , Operand:  (after Legacy of Seergaze)
+Offset: 221, CONCAT , Operand: 3
+Offset: 222, PUSHS , Operand: Members now have the Runecrafting level required to craft 
+Offset: 223, PUSHS , Operand: <col=000080>
+Offset: 224, PUSHS , Operand: blood runes
+Offset: 225, PUSHS , Operand: </col>
+Offset: 226, PUSHS , Operand:  (after Legacy of Seergaze, or when in Daemonheim).
+Offset: 227, CONCAT , Operand: 5
+Offset: 228, RETURN , Operand: 0
+Offset: 229, GOTO , Operand: 706
+Offset: 230, LOADINT , Operand: 1
+Offset: 231, SWITCH , Operand: 2
+Offset: 232, GOTO , Operand: 357
+Offset: 233, PUSHI , Operand: -1
+Offset: 234, PUSHI , Operand: 7620
+Offset: 235, PUSHS , Operand: As your Runecrafting skill develops, you will be able to craft multiple runes from one piece of essence. You only receive experience for each piece of essence crafted, not each rune crafted.
+Offset: 236, PUSHS , Operand:  
+Offset: 237, RETURN , Operand: 0
+Offset: 238, GOTO , Operand: 351
+Offset: 239, PUSHI , Operand: 11
+Offset: 240, PUSHI , Operand: 556
+Offset: 241, PUSHS , Operand: 2 Air runes per essence
+Offset: 242, PUSHS , Operand: You can now craft 
+Offset: 243, PUSHS , Operand: <col=000080>
+Offset: 244, PUSHS , Operand: 2 air runes
+Offset: 245, PUSHS , Operand: </col>
+Offset: 246, PUSHS , Operand:  from one piece of essence.
+Offset: 247, CONCAT , Operand: 5
+Offset: 248, RETURN , Operand: 0
+Offset: 249, GOTO , Operand: 340
+Offset: 250, PUSHI , Operand: 14
+Offset: 251, PUSHI , Operand: 558
+Offset: 252, PUSHS , Operand: 2 Mind runes per essence
+Offset: 253, PUSHS , Operand: You can now craft 
+Offset: 254, PUSHS , Operand: <col=000080>
+Offset: 255, PUSHS , Operand: 2 mind runes
+Offset: 256, PUSHS , Operand: </col>
+Offset: 257, PUSHS , Operand:  from one piece of essence.
+Offset: 258, CONCAT , Operand: 5
+Offset: 259, RETURN , Operand: 0
+Offset: 260, GOTO , Operand: 329
+Offset: 261, PUSHI , Operand: 19
+Offset: 262, PUSHI , Operand: 555
+Offset: 263, PUSHS , Operand: 2 Water runes per essence
+Offset: 264, PUSHS , Operand: You can now craft 
+Offset: 265, PUSHS , Operand: <col=000080>
+Offset: 266, PUSHS , Operand: 2 water runes
+Offset: 267, PUSHS , Operand: </col>
+Offset: 268, PUSHS , Operand:  from one piece of essence.
+Offset: 269, CONCAT , Operand: 5
+Offset: 270, RETURN , Operand: 0
+Offset: 271, GOTO , Operand: 318
+Offset: 272, PUSHI , Operand: 22
+Offset: 273, PUSHI , Operand: 556
+Offset: 274, PUSHS , Operand: 3 Air runes per essence
+Offset: 275, PUSHS , Operand: You can now craft 
+Offset: 276, PUSHS , Operand: <col=000080>
+Offset: 277, PUSHS , Operand: 3 air runes
+Offset: 278, PUSHS , Operand: </col>
+Offset: 279, PUSHS , Operand:  from one piece of essence.
+Offset: 280, CONCAT , Operand: 5
+Offset: 281, RETURN , Operand: 0
+Offset: 282, GOTO , Operand: 307
+Offset: 283, PUSHI , Operand: 26
+Offset: 284, PUSHI , Operand: 557
+Offset: 285, PUSHS , Operand: 2 Earth runes per essence
+Offset: 286, PUSHS , Operand: You can now craft 
+Offset: 287, PUSHS , Operand: <col=000080>
+Offset: 288, PUSHS , Operand: 2 earth runes
+Offset: 289, PUSHS , Operand: </col>
+Offset: 290, PUSHS , Operand:  from one piece of essence.
+Offset: 291, CONCAT , Operand: 5
+Offset: 292, RETURN , Operand: 0
+Offset: 293, GOTO , Operand: 296
+Offset: 294, PUSHI , Operand: 28
+Offset: 295, PUSHI , Operand: 558
+Offset: 296, PUSHS , Operand: 3 Mind runes per essence
+Offset: 297, PUSHS , Operand: You can now craft 
+Offset: 298, PUSHS , Operand: <col=000080>
+Offset: 299, PUSHS , Operand: 3 mind runes
+Offset: 300, PUSHS , Operand: </col>
+Offset: 301, PUSHS , Operand:  from one piece of essence.
+Offset: 302, CONCAT , Operand: 5
+Offset: 303, RETURN , Operand: 0
+Offset: 304, GOTO , Operand: 285
+Offset: 305, PUSHI , Operand: 33
+Offset: 306, PUSHI , Operand: 556
+Offset: 307, PUSHS , Operand: 4 Air runes per essence
+Offset: 308, PUSHS , Operand: You can now craft 
+Offset: 309, PUSHS , Operand: <col=000080>
+Offset: 310, PUSHS , Operand: 4 air runes
+Offset: 311, PUSHS , Operand: </col>
+Offset: 312, PUSHS , Operand:  from one piece of essence.
+Offset: 313, CONCAT , Operand: 5
+Offset: 314, RETURN , Operand: 0
+Offset: 315, GOTO , Operand: 274
+Offset: 316, PUSHI , Operand: 35
+Offset: 317, PUSHI , Operand: 554
+Offset: 318, PUSHS , Operand: 2 Fire runes per essence
+Offset: 319, PUSHS , Operand: You can now craft 
+Offset: 320, PUSHS , Operand: <col=000080>
+Offset: 321, PUSHS , Operand: 2 fire runes
+Offset: 322, PUSHS , Operand: </col>
+Offset: 323, PUSHS , Operand:  from one piece of essence.
+Offset: 324, CONCAT , Operand: 5
+Offset: 325, RETURN , Operand: 0
+Offset: 326, GOTO , Operand: 263
+Offset: 327, PUSHI , Operand: 38
+Offset: 328, PUSHI , Operand: 555
+Offset: 329, PUSHS , Operand: 3 Water runes per essence
+Offset: 330, PUSHS , Operand: You can now craft 
+Offset: 331, PUSHS , Operand: <col=000080>
+Offset: 332, PUSHS , Operand: 3 water runes
+Offset: 333, PUSHS , Operand: </col>
+Offset: 334, PUSHS , Operand:  from one piece of essence.
+Offset: 335, CONCAT , Operand: 5
+Offset: 336, RETURN , Operand: 0
+Offset: 337, GOTO , Operand: 252
+Offset: 338, PUSHI , Operand: 42
+Offset: 339, PUSHI , Operand: 558
+Offset: 340, PUSHS , Operand: 4 Mind runes per essence
+Offset: 341, PUSHS , Operand: You can now craft 
+Offset: 342, PUSHS , Operand: <col=000080>
+Offset: 343, PUSHS , Operand: 4 mind runes
+Offset: 344, PUSHS , Operand: </col>
+Offset: 345, PUSHS , Operand:  from one piece of essence.
+Offset: 346, CONCAT , Operand: 5
+Offset: 347, RETURN , Operand: 0
+Offset: 348, GOTO , Operand: 241
+Offset: 349, PUSHI , Operand: 44
+Offset: 350, PUSHI , Operand: 556
+Offset: 351, PUSHS , Operand: 5 Air runes per essence
+Offset: 352, PUSHS , Operand: You can now craft 
+Offset: 353, PUSHS , Operand: <col=000080>
+Offset: 354, PUSHS , Operand: 5 air runes
+Offset: 355, PUSHS , Operand: </col>
+Offset: 356, PUSHS , Operand:  from one piece of essence.
+Offset: 357, CONCAT , Operand: 5
+Offset: 358, RETURN , Operand: 0
+Offset: 359, GOTO , Operand: 230
+Offset: 360, PUSHI , Operand: 46
+Offset: 361, PUSHI , Operand: 559
+Offset: 362, PUSHS , Operand: 2 Body runes per essence
+Offset: 363, PUSHS , Operand: You can now craft 
+Offset: 364, PUSHS , Operand: <col=000080>
+Offset: 365, PUSHS , Operand: 2 body runes
+Offset: 366, PUSHS , Operand: </col>
+Offset: 367, PUSHS , Operand:  from one piece of essence.
+Offset: 368, CONCAT , Operand: 5
+Offset: 369, RETURN , Operand: 0
+Offset: 370, GOTO , Operand: 219
+Offset: 371, PUSHI , Operand: 52
+Offset: 372, PUSHI , Operand: 557
+Offset: 373, PUSHS , Operand: 3 Earth runes per essence
+Offset: 374, PUSHS , Operand: You can now craft 
+Offset: 375, PUSHS , Operand: <col=000080>
+Offset: 376, PUSHS , Operand: 3 earth runes
+Offset: 377, PUSHS , Operand: </col>
+Offset: 378, PUSHS , Operand:  from one piece of essence.
+Offset: 379, CONCAT , Operand: 5
+Offset: 380, RETURN , Operand: 0
+Offset: 381, GOTO , Operand: 208
+Offset: 382, PUSHI , Operand: 55
+Offset: 383, PUSHI , Operand: 556
+Offset: 384, PUSHS , Operand: 6 Air runes per essence
+Offset: 385, PUSHS , Operand: You can now craft 
+Offset: 386, PUSHS , Operand: <col=000080>
+Offset: 387, PUSHS , Operand: 6 air runes
+Offset: 388, PUSHS , Operand: </col>
+Offset: 389, PUSHS , Operand:  from one piece of essence.
+Offset: 390, CONCAT , Operand: 5
+Offset: 391, RETURN , Operand: 0
+Offset: 392, GOTO , Operand: 197
+Offset: 393, PUSHI , Operand: 56
+Offset: 394, PUSHI , Operand: 558
+Offset: 395, PUSHS , Operand: 5 Mind runes per essence
+Offset: 396, PUSHS , Operand: You can now craft 
+Offset: 397, PUSHS , Operand: <col=000080>
+Offset: 398, PUSHS , Operand: 5 mind runes
+Offset: 399, PUSHS , Operand: </col>
+Offset: 400, PUSHS , Operand:  from one piece of essence.
+Offset: 401, CONCAT , Operand: 5
+Offset: 402, RETURN , Operand: 0
+Offset: 403, GOTO , Operand: 186
+Offset: 404, PUSHI , Operand: 57
+Offset: 405, PUSHI , Operand: 555
+Offset: 406, PUSHS , Operand: 4 Water runes per essence
+Offset: 407, PUSHS , Operand: You can now craft 
+Offset: 408, PUSHS , Operand: <col=000080>
+Offset: 409, PUSHS , Operand: 4 water runes
+Offset: 410, PUSHS , Operand: </col>
+Offset: 411, PUSHS , Operand:  from one piece of essence.
+Offset: 412, CONCAT , Operand: 5
+Offset: 413, RETURN , Operand: 0
+Offset: 414, GOTO , Operand: 175
+Offset: 415, PUSHI , Operand: 59
+Offset: 416, PUSHI , Operand: 564
+Offset: 417, PUSHS , Operand: Members: 2 Cosmic runes per essence
+Offset: 418, PUSHS , Operand: Members can now craft 
+Offset: 419, PUSHS , Operand: <col=000080>
+Offset: 420, PUSHS , Operand: 2 cosmic runes
+Offset: 421, PUSHS , Operand: </col>
+Offset: 422, PUSHS , Operand:  from one piece of essence.
+Offset: 423, CONCAT , Operand: 5
+Offset: 424, RETURN , Operand: 0
+Offset: 425, GOTO , Operand: 164
+Offset: 426, PUSHI , Operand: 66
+Offset: 427, PUSHI , Operand: 556
+Offset: 428, PUSHS , Operand: 7 Air runes per essence
+Offset: 429, PUSHS , Operand: You can now craft 
+Offset: 430, PUSHS , Operand: <col=000080>
+Offset: 431, PUSHS , Operand: 7 air runes
+Offset: 432, PUSHS , Operand: </col>
+Offset: 433, PUSHS , Operand:  from one piece of essence.
+Offset: 434, CONCAT , Operand: 5
+Offset: 435, RETURN , Operand: 0
+Offset: 436, GOTO , Operand: 153
+Offset: 437, PUSHI , Operand: 70
+Offset: 438, PUSHI , Operand: 558
+Offset: 439, PUSHS , Operand: 6 Mind runes per essence
+Offset: 440, PUSHS , Operand: You can now craft 
+Offset: 441, PUSHS , Operand: <col=000080>
+Offset: 442, PUSHS , Operand: 6 mind runes
+Offset: 443, PUSHS , Operand: </col>
+Offset: 444, PUSHS , Operand:  from one piece of essence.
+Offset: 445, CONCAT , Operand: 5
+Offset: 446, RETURN , Operand: 0
+Offset: 447, GOTO , Operand: 142
+Offset: 448, PUSHI , Operand: 70
+Offset: 449, PUSHI , Operand: 554
+Offset: 450, PUSHS , Operand: 3 Fire runes per essence
+Offset: 451, PUSHS , Operand: You can now craft 
+Offset: 452, PUSHS , Operand: <col=000080>
+Offset: 453, PUSHS , Operand: 3 fire runes
+Offset: 454, PUSHS , Operand: </col>
+Offset: 455, PUSHS , Operand:  from one piece of essence.
+Offset: 456, CONCAT , Operand: 5
+Offset: 457, RETURN , Operand: 0
+Offset: 458, GOTO , Operand: 131
+Offset: 459, PUSHI , Operand: 74
+Offset: 460, PUSHI , Operand: 562
+Offset: 461, PUSHS , Operand: Members: 2 Chaos runes per essence
+Offset: 462, PUSHS , Operand: Members can now craft 
+Offset: 463, PUSHS , Operand: <col=000080>
+Offset: 464, PUSHS , Operand: 2 chaos runes
+Offset: 465, PUSHS , Operand: </col>
+Offset: 466, PUSHS , Operand:  from one piece of essence.
+Offset: 467, CONCAT , Operand: 5
+Offset: 468, RETURN , Operand: 0
+Offset: 469, GOTO , Operand: 120
+Offset: 470, PUSHI , Operand: 76
+Offset: 471, PUSHI , Operand: 555
+Offset: 472, PUSHS , Operand: 5 Water runes per essence
+Offset: 473, PUSHS , Operand: You can now craft 
+Offset: 474, PUSHS , Operand: <col=000080>
+Offset: 475, PUSHS , Operand: 5 water runes
+Offset: 476, PUSHS , Operand: </col>
+Offset: 477, PUSHS , Operand:  from one piece of essence.
+Offset: 478, CONCAT , Operand: 5
+Offset: 479, RETURN , Operand: 0
+Offset: 480, GOTO , Operand: 109
+Offset: 481, PUSHI , Operand: 77
+Offset: 482, PUSHI , Operand: 556
+Offset: 483, PUSHS , Operand: 8 Air runes per essence
+Offset: 484, PUSHS , Operand: You can now craft 
+Offset: 485, PUSHS , Operand: <col=000080>
+Offset: 486, PUSHS , Operand: 8 air runes
+Offset: 487, PUSHS , Operand: </col>
+Offset: 488, PUSHS , Operand:  from one piece of essence.
+Offset: 489, CONCAT , Operand: 5
+Offset: 490, RETURN , Operand: 0
+Offset: 491, GOTO , Operand: 98
+Offset: 492, PUSHI , Operand: 78
+Offset: 493, PUSHI , Operand: 557
+Offset: 494, PUSHS , Operand: 4 Earth runes per essence
+Offset: 495, PUSHS , Operand: You can now craft 
+Offset: 496, PUSHS , Operand: <col=000080>
+Offset: 497, PUSHS , Operand: 4 earth runes
+Offset: 498, PUSHS , Operand: </col>
+Offset: 499, PUSHS , Operand:  from one piece of essence.
+Offset: 500, CONCAT , Operand: 5
+Offset: 501, RETURN , Operand: 0
+Offset: 502, GOTO , Operand: 87
+Offset: 503, PUSHI , Operand: 82
+Offset: 504, PUSHI , Operand: 9075
+Offset: 505, PUSHS , Operand: Members: 2 Astral runes per essence
+Offset: 506, PUSHS , Operand: Members can now craft 
+Offset: 507, PUSHS , Operand: <col=000080>
+Offset: 508, PUSHS , Operand: 2 astral runes
+Offset: 509, PUSHS , Operand: </col>
+Offset: 510, PUSHS , Operand:  from one piece of essence.
+Offset: 511, CONCAT , Operand: 5
+Offset: 512, RETURN , Operand: 0
+Offset: 513, GOTO , Operand: 76
+Offset: 514, PUSHI , Operand: 84
+Offset: 515, PUSHI , Operand: 558
+Offset: 516, PUSHS , Operand: 7 Mind runes per essence
+Offset: 517, PUSHS , Operand: You can now craft 
+Offset: 518, PUSHS , Operand: <col=000080>
+Offset: 519, PUSHS , Operand: 7 mind runes
+Offset: 520, PUSHS , Operand: </col>
+Offset: 521, PUSHS , Operand:  from one piece of essence.
+Offset: 522, CONCAT , Operand: 5
+Offset: 523, RETURN , Operand: 0
+Offset: 524, GOTO , Operand: 65
+Offset: 525, PUSHI , Operand: 88
+Offset: 526, PUSHI , Operand: 556
+Offset: 527, PUSHS , Operand: 9 Air runes per essence
+Offset: 528, PUSHS , Operand: You can now craft 
+Offset: 529, PUSHS , Operand: <col=000080>
+Offset: 530, PUSHS , Operand: 9 air runes
+Offset: 531, PUSHS , Operand: </col>
+Offset: 532, PUSHS , Operand:  from one piece of essence.
+Offset: 533, CONCAT , Operand: 5
+Offset: 534, RETURN , Operand: 0
+Offset: 535, GOTO , Operand: 54
+Offset: 536, PUSHI , Operand: 91
+Offset: 537, PUSHI , Operand: 561
+Offset: 538, PUSHS , Operand: Members: 2 Nature runes per essence
+Offset: 539, PUSHS , Operand: Members can now craft 
+Offset: 540, PUSHS , Operand: <col=000080>
+Offset: 541, PUSHS , Operand: 2 nature runes
+Offset: 542, PUSHS , Operand: </col>
+Offset: 543, PUSHS , Operand:  from one piece of essence.
+Offset: 544, CONCAT , Operand: 5
+Offset: 545, RETURN , Operand: 0
+Offset: 546, GOTO , Operand: 43
+Offset: 547, PUSHI , Operand: 92
+Offset: 548, PUSHI , Operand: 559
+Offset: 549, PUSHS , Operand: 3 Body runes per essence
+Offset: 550, PUSHS , Operand: You can now craft 
+Offset: 551, PUSHS , Operand: <col=000080>
+Offset: 552, PUSHS , Operand: 3 body runes
+Offset: 553, PUSHS , Operand: </col>
+Offset: 554, PUSHS , Operand:  from one piece of essence.
+Offset: 555, CONCAT , Operand: 5
+Offset: 556, RETURN , Operand: 0
+Offset: 557, GOTO , Operand: 32
+Offset: 558, PUSHI , Operand: 95
+Offset: 559, PUSHI , Operand: 555
+Offset: 560, PUSHS , Operand: 6 Water runes per essence
+Offset: 561, PUSHS , Operand: You can now craft 
+Offset: 562, PUSHS , Operand: <col=000080>
+Offset: 563, PUSHS , Operand: 6 water runes
+Offset: 564, PUSHS , Operand: </col>
+Offset: 565, PUSHS , Operand:  from one piece of essence.
+Offset: 566, CONCAT , Operand: 5
+Offset: 567, RETURN , Operand: 0
+Offset: 568, GOTO , Operand: 21
+Offset: 569, PUSHI , Operand: 98
+Offset: 570, PUSHI , Operand: 558
+Offset: 571, PUSHS , Operand: 8 Mind runes per essence
+Offset: 572, PUSHS , Operand: You can now craft 
+Offset: 573, PUSHS , Operand: <col=000080>
+Offset: 574, PUSHS , Operand: 8 mind runes
+Offset: 575, PUSHS , Operand: </col>
+Offset: 576, PUSHS , Operand:  from one piece of essence.
+Offset: 577, CONCAT , Operand: 5
+Offset: 578, RETURN , Operand: 0
+Offset: 579, GOTO , Operand: 10
+Offset: 580, PUSHI , Operand: 99
+Offset: 581, PUSHI , Operand: 556
+Offset: 582, PUSHS , Operand: 10 Air runes per essence
+Offset: 583, PUSHS , Operand: You can now craft 
+Offset: 584, PUSHS , Operand: <col=000080>
+Offset: 585, PUSHS , Operand: 10 air runes
+Offset: 586, PUSHS , Operand: </col>
+Offset: 587, PUSHS , Operand:  from one piece of essence.
+Offset: 588, CONCAT , Operand: 5
+Offset: 589, RETURN , Operand: 0
+Offset: 590, GOTO , Operand: 345
+Offset: 591, LOADINT , Operand: 1
+Offset: 592, SWITCH , Operand: 3
+Offset: 593, GOTO , Operand: 94
+Offset: 594, PUSHI , Operand: -1
+Offset: 595, PUSHI , Operand: 7620
+Offset: 596, PUSHS , Operand: Pouches allow you to carry extra essence in them and they come in various sizes. As you use the pouches, they degrade and store less essence. Speak to the Dark Mage at the centre of the Abyss to restore them.
+Offset: 597, PUSHS , Operand: 
+Offset: 598, RETURN , Operand: 0
+Offset: 599, GOTO , Operand: 88
+Offset: 600, PUSHI , Operand: 1
+Offset: 601, PUSHI , Operand: 5509
+Offset: 602, PUSHS , Operand: Members: Small pouch
+Offset: 603, PUSHS , Operand: <br>
+Offset: 604, PUSHS , Operand: Holds 3 extra essence
+Offset: 605, CONCAT , Operand: 3
+Offset: 606, PUSHS , Operand: Members can now use 
+Offset: 607, PUSHS , Operand: <col=000080>
+Offset: 608, PUSHS , Operand: small pouches
+Offset: 609, PUSHS , Operand: </col>
+Offset: 610, PUSHS , Operand:  to store 3 essence.
+Offset: 611, CONCAT , Operand: 5
+Offset: 612, RETURN , Operand: 0
+Offset: 613, GOTO , Operand: 74
+Offset: 614, PUSHI , Operand: 10
+Offset: 615, PUSHI , Operand: 12863
+Offset: 616, PUSHS , Operand: Air rune crafting gloves
+Offset: 617, PUSHS , Operand: You can now wear 
+Offset: 618, PUSHS , Operand: <col=000080>
+Offset: 619, PUSHS , Operand: air rune crafting gloves
+Offset: 620, PUSHS , Operand: </col>
+Offset: 621, PUSHS , Operand: .
+Offset: 622, CONCAT , Operand: 5
+Offset: 623, RETURN , Operand: 0
+Offset: 624, GOTO , Operand: 63
+Offset: 625, PUSHI , Operand: 20
+Offset: 626, PUSHI , Operand: 12864
+Offset: 627, PUSHS , Operand: Water rune crafting gloves
+Offset: 628, PUSHS , Operand: You can now wear 
+Offset: 629, PUSHS , Operand: <col=000080>
+Offset: 630, PUSHS , Operand: water rune crafting gloves
+Offset: 631, PUSHS , Operand: </col>
+Offset: 632, PUSHS , Operand: .
+Offset: 633, CONCAT , Operand: 5
+Offset: 634, RETURN , Operand: 0
+Offset: 635, GOTO , Operand: 52
+Offset: 636, PUSHI , Operand: 25
+Offset: 637, PUSHI , Operand: 5510
+Offset: 638, PUSHS , Operand: Members: Medium pouch
+Offset: 639, PUSHS , Operand: <br>
+Offset: 640, PUSHS , Operand: Holds 6 extra essence
+Offset: 641, CONCAT , Operand: 3
+Offset: 642, PUSHS , Operand: Members can now use 
+Offset: 643, PUSHS , Operand: <col=000080>
+Offset: 644, PUSHS , Operand: medium pouches
+Offset: 645, PUSHS , Operand: </col>
+Offset: 646, PUSHS , Operand:  to store 6 essence.
+Offset: 647, CONCAT , Operand: 5
+Offset: 648, RETURN , Operand: 0
+Offset: 649, GOTO , Operand: 38
+Offset: 650, PUSHI , Operand: 30
+Offset: 651, PUSHI , Operand: 12865
+Offset: 652, PUSHS , Operand: Earth rune crafting gloves
+Offset: 653, PUSHS , Operand: You can now wear 
+Offset: 654, PUSHS , Operand: <col=000080>
+Offset: 655, PUSHS , Operand: earth rune crafting gloves
+Offset: 656, PUSHS , Operand: </col>
+Offset: 657, PUSHS , Operand: .
+Offset: 658, CONCAT , Operand: 5
+Offset: 659, RETURN , Operand: 0
+Offset: 660, GOTO , Operand: 27
+Offset: 661, PUSHI , Operand: 50
+Offset: 662, PUSHI , Operand: 5512
+Offset: 663, PUSHS , Operand: Members: Large pouch
+Offset: 664, PUSHS , Operand: <br>
+Offset: 665, PUSHS , Operand: Holds 9 extra essence
+Offset: 666, CONCAT , Operand: 3
+Offset: 667, PUSHS , Operand: Members can now use 
+Offset: 668, PUSHS , Operand: <col=000080>
+Offset: 669, PUSHS , Operand: large pouches
+Offset: 670, PUSHS , Operand: </col>
+Offset: 671, PUSHS , Operand:  to store 9 essence.
+Offset: 672, CONCAT , Operand: 5
+Offset: 673, RETURN , Operand: 0
+Offset: 674, GOTO , Operand: 13
+Offset: 675, PUSHI , Operand: 75
+Offset: 676, PUSHI , Operand: 5514
+Offset: 677, PUSHS , Operand: Members: Giant pouch
+Offset: 678, PUSHS , Operand: <br>
+Offset: 679, PUSHS , Operand: Holds 12 extra essence
+Offset: 680, CONCAT , Operand: 3
+Offset: 681, PUSHS , Operand: Members can now use 
+Offset: 682, PUSHS , Operand: <col=000080>
+Offset: 683, PUSHS , Operand: giant pouches
+Offset: 684, PUSHS , Operand: </col>
+Offset: 685, PUSHS , Operand:  to store 12 essence.
+Offset: 686, CONCAT , Operand: 5
+Offset: 687, RETURN , Operand: 0
+Offset: 688, GOTO , Operand: 247
+Offset: 689, LOADINT , Operand: 1
+Offset: 690, SWITCH , Operand: 4
+Offset: 691, GOTO , Operand: 43
+Offset: 692, PUSHI , Operand: 91
+Offset: 693, PUSHI , Operand: 18778
+Offset: 694, PUSHS , Operand: Members: Starved ancient effigies
+Offset: 695, PUSHS , Operand: Members can now investigate 
+Offset: 696, PUSHS , Operand: <col=000080>
+Offset: 697, PUSHS , Operand: starved ancient effigies
+Offset: 698, PUSHS , Operand: </col>
+Offset: 699, PUSHS , Operand:  using their knowledge of Runecrafting.
+Offset: 700, CONCAT , Operand: 5
+Offset: 701, RETURN , Operand: 0
+Offset: 702, GOTO , Operand: 32
+Offset: 703, PUSHI , Operand: 93
+Offset: 704, PUSHI , Operand: 18779
+Offset: 705, PUSHS , Operand: Members: Nourished ancient effigies
+Offset: 706, PUSHS , Operand: Members can now investigate 
+Offset: 707, PUSHS , Operand: <col=000080>
+Offset: 708, PUSHS , Operand: nourished ancient effigies
+Offset: 709, PUSHS , Operand: </col>
+Offset: 710, PUSHS , Operand:  using their knowledge of Runecrafting.
+Offset: 711, CONCAT , Operand: 5
+Offset: 712, RETURN , Operand: 0
+Offset: 713, GOTO , Operand: 21
+Offset: 714, PUSHI , Operand: 95
+Offset: 715, PUSHI , Operand: 18780
+Offset: 716, PUSHS , Operand: Members: Sated ancient effigies
+Offset: 717, PUSHS , Operand: Members can now investigate 
+Offset: 718, PUSHS , Operand: <col=000080>
+Offset: 719, PUSHS , Operand: sated ancient effigies
+Offset: 720, PUSHS , Operand: </col>
+Offset: 721, PUSHS , Operand:  using their knowledge of Runecrafting.
+Offset: 722, CONCAT , Operand: 5
+Offset: 723, RETURN , Operand: 0
+Offset: 724, GOTO , Operand: 10
+Offset: 725, PUSHI , Operand: 97
+Offset: 726, PUSHI , Operand: 18781
+Offset: 727, PUSHS , Operand: Members: Gorged ancient effigies
+Offset: 728, PUSHS , Operand: Members can now investigate 
+Offset: 729, PUSHS , Operand: <col=000080>
+Offset: 730, PUSHS , Operand: gorged ancient effigies
+Offset: 731, PUSHS , Operand: </col>
+Offset: 732, PUSHS , Operand:  using their knowledge of Runecrafting.
+Offset: 733, CONCAT , Operand: 5
+Offset: 734, RETURN , Operand: 0
+Offset: 735, GOTO , Operand: 200
+Offset: 736, LOADINT , Operand: 1
+Offset: 737, SWITCH , Operand: 5
+Offset: 738, GOTO , Operand: 29
+Offset: 739, PUSHI , Operand: 1
+Offset: 740, PUSHI , Operand: 12851
+Offset: 741, PUSHS , Operand: Members: Stealing Creation - class 1 sacred clay
+Offset: 742, PUSHS , Operand: Members can now craft runes from class 1 sacred clay in Stealing Creation.
+Offset: 743, RETURN , Operand: 0
+Offset: 744, GOTO , Operand: 23
+Offset: 745, PUSHI , Operand: 20
+Offset: 746, PUSHI , Operand: 12851
+Offset: 747, PUSHS , Operand: Members: Stealing Creation - class 2 sacred clay
+Offset: 748, PUSHS , Operand: Members can now craft runes from class 2 sacred clay in Stealing Creation.
+Offset: 749, RETURN , Operand: 0
+Offset: 750, GOTO , Operand: 17
+Offset: 751, PUSHI , Operand: 40
+Offset: 752, PUSHI , Operand: 12851
+Offset: 753, PUSHS , Operand: Members: Stealing Creation - class 3 sacred clay
+Offset: 754, PUSHS , Operand: Members can now craft runes from class 3 sacred clay in Stealing Creation.
+Offset: 755, RETURN , Operand: 0
+Offset: 756, GOTO , Operand: 11
+Offset: 757, PUSHI , Operand: 60
+Offset: 758, PUSHI , Operand: 12851
+Offset: 759, PUSHS , Operand: Members: Stealing Creation - class 4 sacred clay
+Offset: 760, PUSHS , Operand: Members can now craft runes from class 4 sacred clay in Stealing Creation.
+Offset: 761, RETURN , Operand: 0
+Offset: 762, GOTO , Operand: 5
+Offset: 763, PUSHI , Operand: 80
+Offset: 764, PUSHI , Operand: 12851
+Offset: 765, PUSHS , Operand: Members: Stealing Creation - class 5 sacred clay
+Offset: 766, PUSHS , Operand: Members can now craft runes from class 5 sacred clay in Stealing Creation.
+Offset: 767, RETURN , Operand: 0
+Offset: 768, GOTO , Operand: 167
+Offset: 769, LOADINT , Operand: 1
+Offset: 770, SWITCH , Operand: 6
+Offset: 771, GOTO , Operand: 118
+Offset: 772, PUSHI , Operand: -1
+Offset: 773, PUSHI , Operand: 15707
+Offset: 774, PUSHS , Operand: Dungeoneering skill tasks
+Offset: 775, PUSHS , Operand: <br>
+Offset: 776, PUSHS , Operand: As your Runecrafting level increases, you will be able to attempt higher-level runecrafting tasks within Daemonheim. You will also be more likely to succeed when attempting runecrafting tasks within Daemonheim.
+Offset: 777, CONCAT , Operand: 3
+Offset: 778, PUSHS , Operand: 
+Offset: 779, RETURN , Operand: 0
+Offset: 780, GOTO , Operand: 109
+Offset: 781, PUSHI , Operand: 10
+Offset: 782, PUSHI , Operand: 16997
+Offset: 783, PUSHS , Operand: Water staff
+Offset: 784, PUSHS , Operand: You can now craft 
+Offset: 785, PUSHS , Operand: <col=000080>
+Offset: 786, PUSHS , Operand: water staves
+Offset: 787, PUSHS , Operand: </col>
+Offset: 788, PUSHS , Operand:  within Daemonheim.
+Offset: 789, CONCAT , Operand: 5
+Offset: 790, RETURN , Operand: 0
+Offset: 791, GOTO , Operand: 98
+Offset: 792, PUSHI , Operand: 20
+Offset: 793, PUSHI , Operand: 17001
+Offset: 794, PUSHS , Operand: Earth staff
+Offset: 795, PUSHS , Operand: You can now craft 
+Offset: 796, PUSHS , Operand: <col=000080>
+Offset: 797, PUSHS , Operand: earth staves
+Offset: 798, PUSHS , Operand: </col>
+Offset: 799, PUSHS , Operand:  within Daemonheim.
+Offset: 800, CONCAT , Operand: 5
+Offset: 801, RETURN , Operand: 0
+Offset: 802, GOTO , Operand: 87
+Offset: 803, PUSHI , Operand: 30
+Offset: 804, PUSHI , Operand: 17005
+Offset: 805, PUSHS , Operand: Fire staff
+Offset: 806, PUSHS , Operand: You can now craft 
+Offset: 807, PUSHS , Operand: <col=000080>
+Offset: 808, PUSHS , Operand: fire staves
+Offset: 809, PUSHS , Operand: </col>
+Offset: 810, PUSHS , Operand:  within Daemonheim.
+Offset: 811, CONCAT , Operand: 5
+Offset: 812, RETURN , Operand: 0
+Offset: 813, GOTO , Operand: 76
+Offset: 814, PUSHI , Operand: 40
+Offset: 815, PUSHI , Operand: 17009
+Offset: 816, PUSHS , Operand: Air staff
+Offset: 817, PUSHS , Operand: You can now craft 
+Offset: 818, PUSHS , Operand: <col=000080>
+Offset: 819, PUSHS , Operand: air staves
+Offset: 820, PUSHS , Operand: </col>
+Offset: 821, PUSHS , Operand:  within Daemonheim.
+Offset: 822, CONCAT , Operand: 5
+Offset: 823, RETURN , Operand: 0
+Offset: 824, GOTO , Operand: 65
+Offset: 825, PUSHI , Operand: 50
+Offset: 826, PUSHI , Operand: 17013
+Offset: 827, PUSHS , Operand: Catalytic staff
+Offset: 828, PUSHS , Operand: You can now craft 
+Offset: 829, PUSHS , Operand: <col=000080>
+Offset: 830, PUSHS , Operand: catalytic staves
+Offset: 831, PUSHS , Operand: </col>
+Offset: 832, PUSHS , Operand:  within Daemonheim.
+Offset: 833, CONCAT , Operand: 5
+Offset: 834, RETURN , Operand: 0
+Offset: 835, GOTO , Operand: 54
+Offset: 836, PUSHI , Operand: 60
+Offset: 837, PUSHI , Operand: 16999
+Offset: 838, PUSHS , Operand: Members: Empowered water staff
+Offset: 839, PUSHS , Operand: Members can now craft 
+Offset: 840, PUSHS , Operand: <col=000080>
+Offset: 841, PUSHS , Operand: empowered water staves
+Offset: 842, PUSHS , Operand: </col>
+Offset: 843, PUSHS , Operand:  within Daemonheim.
+Offset: 844, CONCAT , Operand: 5
+Offset: 845, RETURN , Operand: 0
+Offset: 846, GOTO , Operand: 43
+Offset: 847, PUSHI , Operand: 70
+Offset: 848, PUSHI , Operand: 17003
+Offset: 849, PUSHS , Operand: Members: Empowered earth staff
+Offset: 850, PUSHS , Operand: Members can now craft 
+Offset: 851, PUSHS , Operand: <col=000080>
+Offset: 852, PUSHS , Operand: empowered earth staves
+Offset: 853, PUSHS , Operand: </col>
+Offset: 854, PUSHS , Operand:  within Daemonheim.
+Offset: 855, CONCAT , Operand: 5
+Offset: 856, RETURN , Operand: 0
+Offset: 857, GOTO , Operand: 32
+Offset: 858, PUSHI , Operand: 80
+Offset: 859, PUSHI , Operand: 17007
+Offset: 860, PUSHS , Operand: Members: Empowered fire staff
+Offset: 861, PUSHS , Operand: Members can now craft 
+Offset: 862, PUSHS , Operand: <col=000080>
+Offset: 863, PUSHS , Operand: empowered fire staves
+Offset: 864, PUSHS , Operand: </col>
+Offset: 865, PUSHS , Operand:  within Daemonheim.
+Offset: 866, CONCAT , Operand: 5
+Offset: 867, RETURN , Operand: 0
+Offset: 868, GOTO , Operand: 21
+Offset: 869, PUSHI , Operand: 90
+Offset: 870, PUSHI , Operand: 17011
+Offset: 871, PUSHS , Operand: Members: Empowered air staff
+Offset: 872, PUSHS , Operand: Members can now craft 
+Offset: 873, PUSHS , Operand: <col=000080>
+Offset: 874, PUSHS , Operand: empowered air staves
+Offset: 875, PUSHS , Operand: </col>
+Offset: 876, PUSHS , Operand:  within Daemonheim.
+Offset: 877, CONCAT , Operand: 5
+Offset: 878, RETURN , Operand: 0
+Offset: 879, GOTO , Operand: 10
+Offset: 880, PUSHI , Operand: 99
+Offset: 881, PUSHI , Operand: 17015
+Offset: 882, PUSHS , Operand: Members: Empowered catalytic staff
+Offset: 883, PUSHS , Operand: Members can now craft 
+Offset: 884, PUSHS , Operand: <col=000080>
+Offset: 885, PUSHS , Operand: empowered catalytic staves
+Offset: 886, PUSHS , Operand: </col>
+Offset: 887, PUSHS , Operand:  within Daemonheim.
+Offset: 888, CONCAT , Operand: 5
+Offset: 889, RETURN , Operand: 0
+Offset: 890, GOTO , Operand: 45
+Offset: 891, LOADINT , Operand: 1
+Offset: 892, SWITCH , Operand: 7
+Offset: 893, GOTO , Operand: 42
+Offset: 894, PUSHI , Operand: 50
+Offset: 895, PUSHI , Operand: 13625
+Offset: 896, PUSHS , Operand: Runecrafting Guild
+Offset: 897, PUSHS , Operand: You can now enter the prestigious 
+Offset: 898, PUSHS , Operand: <col=000080>
+Offset: 899, PUSHS , Operand: Runecrafting Guild
+Offset: 900, PUSHS , Operand: </col>
+Offset: 901, PUSHS , Operand:  and play the 
+Offset: 902, PUSHS , Operand: <col=000080>
+Offset: 903, PUSHS , Operand: Great Orb Project
+Offset: 904, PUSHS , Operand: </col>
+Offset: 905, PUSHS , Operand: .
+Offset: 906, CONCAT , Operand: 9
+Offset: 907, RETURN , Operand: 0
+Offset: 908, GOTO , Operand: 27
+Offset: 909, PUSHI , Operand: 99
+Offset: 910, PUSHI , Operand: 9765
+Offset: 911, PUSHS , Operand: Skill mastery
+Offset: 912, PUSHS , Operand: <col=000080>
+Offset: 913, PUSHS , Operand: Congratulations! You are now a master of 
+Offset: 914, PUSHS , Operand: <col=800000>
+Offset: 915, PUSHS , Operand: Runecrafting
+Offset: 916, PUSHS , Operand: <col=000080>
+Offset: 917, PUSHS , Operand: . Members can visit 
+Offset: 918, PUSHS , Operand: <col=800000>
+Offset: 919, PUSHS , Operand: Aubury
+Offset: 920, PUSHS , Operand: <col=000080>
+Offset: 921, PUSHS , Operand: , who runs the 
+Offset: 922, PUSHS , Operand: <col=800000>
+Offset: 923, PUSHS , Operand: rune shop
+Offset: 924, PUSHS , Operand: <col=000080>
+Offset: 925, PUSHS , Operand:  in 
+Offset: 926, PUSHS , Operand: <col=800000>
+Offset: 927, PUSHS , Operand: Varrock
+Offset: 928, PUSHS , Operand: <col=000080>
+Offset: 929, PUSHS , Operand: . He has something special that is only available to true masters of the 
+Offset: 930, PUSHS , Operand: <col=800000>
+Offset: 931, PUSHS , Operand: Runecrafting
+Offset: 932, PUSHS , Operand: <col=000080>
+Offset: 933, PUSHS , Operand:  skill!
+Offset: 934, CONCAT , Operand: 22
+Offset: 935, RETURN , Operand: 0
+Offset: 936, PUSHI , Operand: 0
+Offset: 937, PUSHI , Operand: -1
+Offset: 938, PUSHS , Operand: 
+Offset: 939, PUSHS , Operand: 
+Offset: 940, RETURN , Operand: 0
+
+================================================
+                Switch Table 0                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 228
+Key: 2, Value: 589
+Key: 3, Value: 687
+Key: 4, Value: 734
+Key: 5, Value: 767
+Key: 6, Value: 889
+
+================================================
+                Switch Table 1                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 7
+Key: 2, Value: 18
+Key: 3, Value: 29
+Key: 4, Value: 40
+Key: 5, Value: 51
+Key: 6, Value: 62
+Key: 7, Value: 73
+Key: 8, Value: 84
+Key: 9, Value: 95
+Key: 10, Value: 106
+Key: 11, Value: 117
+Key: 12, Value: 128
+Key: 13, Value: 139
+Key: 14, Value: 150
+Key: 15, Value: 161
+Key: 17, Value: 186
+Key: 16, Value: 175
+Key: 19, Value: 211
+Key: 18, Value: 197
+
+================================================
+                Switch Table 2                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 7
+Key: 2, Value: 18
+Key: 3, Value: 29
+Key: 4, Value: 40
+Key: 5, Value: 51
+Key: 6, Value: 62
+Key: 7, Value: 73
+Key: 8, Value: 84
+Key: 9, Value: 95
+Key: 10, Value: 106
+Key: 11, Value: 117
+Key: 12, Value: 128
+Key: 13, Value: 139
+Key: 14, Value: 150
+Key: 15, Value: 161
+Key: 17, Value: 183
+Key: 16, Value: 172
+Key: 19, Value: 205
+Key: 18, Value: 194
+Key: 21, Value: 227
+Key: 20, Value: 216
+Key: 23, Value: 249
+Key: 22, Value: 238
+Key: 25, Value: 271
+Key: 24, Value: 260
+Key: 27, Value: 293
+Key: 26, Value: 282
+Key: 29, Value: 315
+Key: 28, Value: 304
+Key: 31, Value: 337
+Key: 30, Value: 326
+Key: 32, Value: 348
+
+================================================
+                Switch Table 3                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 7
+Key: 2, Value: 21
+Key: 3, Value: 32
+Key: 4, Value: 43
+Key: 5, Value: 57
+Key: 6, Value: 68
+Key: 7, Value: 82
+
+================================================
+                Switch Table 4                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 12
+Key: 2, Value: 23
+Key: 3, Value: 34
+
+================================================
+                Switch Table 5                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 7
+Key: 2, Value: 13
+Key: 3, Value: 19
+Key: 4, Value: 25
+
+================================================
+                Switch Table 6                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 10
+Key: 2, Value: 21
+Key: 3, Value: 32
+Key: 4, Value: 43
+Key: 5, Value: 54
+Key: 6, Value: 65
+Key: 7, Value: 76
+Key: 8, Value: 87
+Key: 9, Value: 98
+Key: 10, Value: 109
+
+================================================
+                Switch Table 7                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 16

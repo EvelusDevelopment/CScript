@@ -1,0 +1,60 @@
+================================================
+      Client Script 555 Dumped by SiniSoul    
+      Instruction Size: 49
+      Integer Arguments: 1 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHI , Operand: 15
+Offset: 1, Unref Opcode: 25, Operand: 4109
+Offset: 2, ISUB , Operand: 0
+Offset: 3, PUSHI , Operand: 6
+Offset: 4, IMUL , Operand: 0
+Offset: 5, STOREINT , Operand: 0
+Offset: 6, PUSHI , Operand: 0
+Offset: 7, LOADINT , Operand: 0
+Offset: 8, PUSHI , Operand: 0
+Offset: 9, PUSHI , Operand: 0
+Offset: 10, PUSHI , Operand: 40894479
+Offset: 11, Unref Method: 2000, Operand: 0
+Offset: 12, Unref Opcode: 25, Operand: 4109
+Offset: 13, integerToString , Operand: 0
+Offset: 14, PUSHI , Operand: 40894534
+Offset: 15, Unref Method: 2112, Operand: 0
+Offset: 16, PUSHI , Operand: 15
+Offset: 17, Unref Opcode: 25, Operand: 4110
+Offset: 18, ISUB , Operand: 0
+Offset: 19, PUSHI , Operand: 6
+Offset: 20, IMUL , Operand: 0
+Offset: 21, STOREINT , Operand: 0
+Offset: 22, PUSHI , Operand: 0
+Offset: 23, LOADINT , Operand: 0
+Offset: 24, PUSHI , Operand: 0
+Offset: 25, PUSHI , Operand: 0
+Offset: 26, PUSHI , Operand: 40894481
+Offset: 27, Unref Method: 2000, Operand: 0
+Offset: 28, Unref Opcode: 25, Operand: 4110
+Offset: 29, integerToString , Operand: 0
+Offset: 30, PUSHI , Operand: 40894535
+Offset: 31, Unref Method: 2112, Operand: 0
+Offset: 32, PUSHI , Operand: 15
+Offset: 33, Unref Opcode: 25, Operand: 4111
+Offset: 34, ISUB , Operand: 0
+Offset: 35, PUSHI , Operand: 6
+Offset: 36, IMUL , Operand: 0
+Offset: 37, STOREINT , Operand: 0
+Offset: 38, PUSHI , Operand: 0
+Offset: 39, LOADINT , Operand: 0
+Offset: 40, PUSHI , Operand: 0
+Offset: 41, PUSHI , Operand: 0
+Offset: 42, PUSHI , Operand: 40894483
+Offset: 43, Unref Method: 2000, Operand: 0
+Offset: 44, Unref Opcode: 25, Operand: 4111
+Offset: 45, integerToString , Operand: 0
+Offset: 46, PUSHI , Operand: 40894536
+Offset: 47, Unref Method: 2112, Operand: 0
+Offset: 48, RETURN , Operand: 0

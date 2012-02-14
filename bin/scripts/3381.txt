@@ -1,0 +1,33 @@
+================================================
+      Client Script 3381 Dumped by SiniSoul    
+      Instruction Size: 22
+      Integer Arguments: 2 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADINT , Operand: 1
+Offset: 1, PUSHI , Operand: 1
+Offset: 2, IADD , Operand: 0
+Offset: 3, STOREINT , Operand: 1
+Offset: 4, PUSHI , Operand: 3381
+Offset: 5, LOADINT , Operand: 0
+Offset: 6, LOADINT , Operand: 1
+Offset: 7, PUSHS , Operand: Ii
+Offset: 8, LOADINT , Operand: 0
+Offset: 9, setInterfaceDefinitionScriptParams8 , Operand: 0
+Offset: 10, LOADINT , Operand: 1
+Offset: 11, PUSHI , Operand: 1
+Offset: 12, IFGT , Operand: 1
+Offset: 13, GOTO , Operand: 7
+Offset: 14, PUSHI , Operand: 1
+Offset: 15, STOREGINT , Operand: 1273
+Offset: 16, PUSHI , Operand: -1
+Offset: 17, PUSHS , Operand: 
+Offset: 18, LOADINT , Operand: 0
+Offset: 19, setInterfaceDefinitionScriptParams8 , Operand: 0
+Offset: 20, CALL , Operand: 2945
+Offset: 21, RETURN , Operand: 0

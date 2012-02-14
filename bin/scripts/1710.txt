@@ -1,0 +1,65 @@
+================================================
+      Client Script 1710 Dumped by SiniSoul    
+      Instruction Size: 46
+      Integer Arguments: 2 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADINT , Operand: 0
+Offset: 1, CALL , Operand: 1711
+Offset: 2, STOREINT , Operand: 1
+Offset: 3, Unref Opcode: 25, Operand: 6839
+Offset: 4, PUSHI , Operand: 0
+Offset: 5, IFGT , Operand: 1
+Offset: 6, GOTO , Operand: 35
+Offset: 7, LOADINT , Operand: 0
+Offset: 8, SWITCH , Operand: 0
+Offset: 9, GOTO , Operand: 32
+Offset: 10, LOADINT , Operand: 1
+Offset: 11, PUSHI , Operand: 15
+Offset: 12, IADD , Operand: 0
+Offset: 13, STOREINT , Operand: 1
+Offset: 14, LOADINT , Operand: 1
+Offset: 15, LOADINT , Operand: 0
+Offset: 16, Unref Opcode: 25, Operand: 6844
+Offset: 17, CALL , Operand: 1714
+Offset: 18, IADD , Operand: 0
+Offset: 19, STOREINT , Operand: 1
+Offset: 20, GOTO , Operand: 21
+Offset: 21, LOADINT , Operand: 1
+Offset: 22, PUSHI , Operand: 23
+Offset: 23, IADD , Operand: 0
+Offset: 24, STOREINT , Operand: 1
+Offset: 25, LOADINT , Operand: 1
+Offset: 26, LOADINT , Operand: 0
+Offset: 27, Unref Opcode: 25, Operand: 6845
+Offset: 28, CALL , Operand: 1714
+Offset: 29, IADD , Operand: 0
+Offset: 30, STOREINT , Operand: 1
+Offset: 31, GOTO , Operand: 10
+Offset: 32, LOADINT , Operand: 1
+Offset: 33, PUSHI , Operand: 15
+Offset: 34, IADD , Operand: 0
+Offset: 35, STOREINT , Operand: 1
+Offset: 36, LOADINT , Operand: 1
+Offset: 37, LOADINT , Operand: 0
+Offset: 38, Unref Opcode: 25, Operand: 6846
+Offset: 39, CALL , Operand: 1714
+Offset: 40, IADD , Operand: 0
+Offset: 41, STOREINT , Operand: 1
+Offset: 42, LOADINT , Operand: 1
+Offset: 43, RETURN , Operand: 0
+Offset: 44, PUSHI , Operand: 0
+Offset: 45, RETURN , Operand: 0
+
+================================================
+                Switch Table 0                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 23
+Key: 2, Value: 12

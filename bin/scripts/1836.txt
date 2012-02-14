@@ -1,0 +1,116 @@
+================================================
+      Client Script 1836 Dumped by SiniSoul    
+      Instruction Size: 105
+      Integer Arguments: 0 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADGINT , Operand: 246
+Offset: 1, Unref Opcode: 25, Operand: 5280
+Offset: 2, IFNE , Operand: 1
+Offset: 3, GOTO , Operand: 3
+Offset: 4, Unref Opcode: 25, Operand: 5280
+Offset: 5, STOREGINT , Operand: 246
+Offset: 6, CALL , Operand: 1770
+Offset: 7, LOADGINT , Operand: 247
+Offset: 8, Unref Opcode: 25, Operand: 5281
+Offset: 9, IFNE , Operand: 1
+Offset: 10, GOTO , Operand: 3
+Offset: 11, Unref Opcode: 25, Operand: 5281
+Offset: 12, STOREGINT , Operand: 247
+Offset: 13, CALL , Operand: 1771
+Offset: 14, LOADGINT , Operand: 248
+Offset: 15, CALL , Operand: 42
+Offset: 16, Unref Opcode: 25, Operand: 5282
+Offset: 17, IFNE , Operand: 1
+Offset: 18, GOTO , Operand: 4
+Offset: 19, Unref Opcode: 25, Operand: 5282
+Offset: 20, CALL , Operand: 734
+Offset: 21, STOREGINT , Operand: 248
+Offset: 22, CALL , Operand: 1772
+Offset: 23, LOADGINT , Operand: 249
+Offset: 24, CALL , Operand: 42
+Offset: 25, Unref Opcode: 25, Operand: 5283
+Offset: 26, IFNE , Operand: 1
+Offset: 27, GOTO , Operand: 4
+Offset: 28, Unref Opcode: 25, Operand: 5283
+Offset: 29, CALL , Operand: 734
+Offset: 30, STOREGINT , Operand: 249
+Offset: 31, CALL , Operand: 1773
+Offset: 32, LOADGINT , Operand: 250
+Offset: 33, CALL , Operand: 42
+Offset: 34, Unref Opcode: 25, Operand: 5284
+Offset: 35, IFNE , Operand: 1
+Offset: 36, GOTO , Operand: 4
+Offset: 37, Unref Opcode: 25, Operand: 5284
+Offset: 38, CALL , Operand: 734
+Offset: 39, STOREGINT , Operand: 250
+Offset: 40, CALL , Operand: 1774
+Offset: 41, LOADGINT , Operand: 252
+Offset: 42, Unref Opcode: 25, Operand: 5286
+Offset: 43, IFNE , Operand: 1
+Offset: 44, GOTO , Operand: 3
+Offset: 45, Unref Opcode: 25, Operand: 5286
+Offset: 46, STOREGINT , Operand: 252
+Offset: 47, CALL , Operand: 1775
+Offset: 48, LOADGINT , Operand: 251
+Offset: 49, CALL , Operand: 42
+Offset: 50, Unref Opcode: 25, Operand: 5285
+Offset: 51, IFNE , Operand: 1
+Offset: 52, GOTO , Operand: 4
+Offset: 53, Unref Opcode: 25, Operand: 5285
+Offset: 54, CALL , Operand: 734
+Offset: 55, STOREGINT , Operand: 251
+Offset: 56, CALL , Operand: 1776
+Offset: 57, LOADGINT , Operand: 256
+Offset: 58, CALL , Operand: 42
+Offset: 59, Unref Opcode: 25, Operand: 5290
+Offset: 60, IFNE , Operand: 1
+Offset: 61, GOTO , Operand: 4
+Offset: 62, Unref Opcode: 25, Operand: 5290
+Offset: 63, CALL , Operand: 734
+Offset: 64, STOREGINT , Operand: 256
+Offset: 65, CALL , Operand: 1777
+Offset: 66, LOADGINT , Operand: 253
+Offset: 67, CALL , Operand: 42
+Offset: 68, Unref Opcode: 25, Operand: 5287
+Offset: 69, IFNE , Operand: 1
+Offset: 70, GOTO , Operand: 4
+Offset: 71, Unref Opcode: 25, Operand: 5287
+Offset: 72, CALL , Operand: 734
+Offset: 73, STOREGINT , Operand: 253
+Offset: 74, CALL , Operand: 1778
+Offset: 75, LOADGINT , Operand: 254
+Offset: 76, CALL , Operand: 42
+Offset: 77, Unref Opcode: 25, Operand: 5288
+Offset: 78, IFNE , Operand: 1
+Offset: 79, GOTO , Operand: 4
+Offset: 80, Unref Opcode: 25, Operand: 5288
+Offset: 81, CALL , Operand: 734
+Offset: 82, STOREGINT , Operand: 254
+Offset: 83, CALL , Operand: 1779
+Offset: 84, LOADGINT , Operand: 255
+Offset: 85, CALL , Operand: 42
+Offset: 86, Unref Opcode: 25, Operand: 5289
+Offset: 87, IFNE , Operand: 1
+Offset: 88, GOTO , Operand: 4
+Offset: 89, Unref Opcode: 25, Operand: 5289
+Offset: 90, CALL , Operand: 734
+Offset: 91, STOREGINT , Operand: 255
+Offset: 92, CALL , Operand: 1780
+Offset: 93, LOADGINT , Operand: 257
+Offset: 94, Unref Opcode: 25, Operand: 5292
+Offset: 95, IFNE , Operand: 1
+Offset: 96, GOTO , Operand: 3
+Offset: 97, Unref Opcode: 25, Operand: 5292
+Offset: 98, STOREGINT , Operand: 257
+Offset: 99, CALL , Operand: 1781
+Offset: 100, Unref Opcode: 25, Operand: 5293
+Offset: 101, CALL , Operand: 734
+Offset: 102, STOREGINT , Operand: 258
+Offset: 103, CALL , Operand: 1782
+Offset: 104, RETURN , Operand: 0

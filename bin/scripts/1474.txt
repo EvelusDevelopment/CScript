@@ -1,0 +1,44 @@
+================================================
+      Client Script 1474 Dumped by SiniSoul    
+      Instruction Size: 33
+      Integer Arguments: 0 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHI , Operand: 1
+Offset: 1, PUSHI , Operand: 49938547
+Offset: 2, Unref Method: 2003, Operand: 0
+Offset: 3, PUSHI , Operand: 1
+Offset: 4, PUSHI , Operand: 49938548
+Offset: 5, Unref Method: 2003, Operand: 0
+Offset: 6, PUSHI , Operand: 1423
+Offset: 7, PUSHI , Operand: 49938450
+Offset: 8, Unref Method: 2105, Operand: 0
+Offset: 9, PUSHI , Operand: 1431
+Offset: 10, PUSHI , Operand: 49938449
+Offset: 11, Unref Method: 2105, Operand: 0
+Offset: 12, Unref Opcode: 25, Operand: 4893
+Offset: 13, PUSHI , Operand: 0
+Offset: 14, IFEQ , Operand: 1
+Offset: 15, GOTO , Operand: 1
+Offset: 16, CALL , Operand: 1456
+Offset: 17, PUSHI , Operand: 1
+Offset: 18, CALL , Operand: 1463
+Offset: 19, PUSHS , Operand: 
+Offset: 20, STOREGSTR , Operand: 138
+Offset: 21, PUSHI , Operand: 11
+Offset: 22, CALL , Operand: 1548
+Offset: 23, PUSHI , Operand: 0
+Offset: 24, STOREGINT , Operand: 188
+Offset: 25, PUSHS , Operand: Bank of RuneScape
+Offset: 26, PUSHI , Operand: 49938477
+Offset: 27, Unref Method: 2112, Operand: 0
+Offset: 28, PUSHI , Operand: -1
+Offset: 29, PUSHS , Operand: 
+Offset: 30, PUSHI , Operand: 49938449
+Offset: 31, setInterfaceDefinitionScriptParams8 , Operand: 0
+Offset: 32, RETURN , Operand: 0

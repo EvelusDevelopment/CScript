@@ -1,0 +1,19 @@
+================================================
+      Client Script 2505 Dumped by SiniSoul    
+      Instruction Size: 8
+      Integer Arguments: 1 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHS , Operand: Limit: 
+Offset: 1, CALL , Operand: 2687
+Offset: 2, PUSHS , Operand: ,
+Offset: 3, CALL , Operand: 46
+Offset: 4, CONCAT , Operand: 2
+Offset: 5, LOADINT , Operand: 0
+Offset: 6, Unref Method: 2112, Operand: 0
+Offset: 7, RETURN , Operand: 0

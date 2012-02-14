@@ -1,0 +1,65 @@
+================================================
+      Client Script 3103 Dumped by SiniSoul    
+      Instruction Size: 54
+      Integer Arguments: 0 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, CALL , Operand: 3102
+Offset: 1, CALL , Operand: 3113
+Offset: 2, PUSHI , Operand: 59637814
+Offset: 3, PUSHI , Operand: 1
+Offset: 4, PUSHI , Operand: 0
+Offset: 5, PUSHS , Operand: Descending world number
+Offset: 6, PUSHS , Operand: Ascending world number
+Offset: 7, CALL , Operand: 3125
+Offset: 8, PUSHI , Operand: 59637789
+Offset: 9, PUSHI , Operand: 3
+Offset: 10, PUSHI , Operand: 2
+Offset: 11, PUSHS , Operand: Descending player count
+Offset: 12, PUSHS , Operand: Ascending player count
+Offset: 13, CALL , Operand: 3125
+Offset: 14, PUSHI , Operand: 59637811
+Offset: 15, PUSHI , Operand: 5
+Offset: 16, PUSHI , Operand: 4
+Offset: 17, PUSHS , Operand: Descending activity
+Offset: 18, PUSHS , Operand: Ascending activity
+Offset: 19, CALL , Operand: 3125
+Offset: 20, PUSHI , Operand: 59637808
+Offset: 21, PUSHI , Operand: 9
+Offset: 22, PUSHI , Operand: 8
+Offset: 23, PUSHS , Operand: Descending type
+Offset: 24, PUSHS , Operand: Ascending type
+Offset: 25, CALL , Operand: 3125
+Offset: 26, PUSHI , Operand: 59637806
+Offset: 27, PUSHI , Operand: 7
+Offset: 28, PUSHI , Operand: 6
+Offset: 29, PUSHS , Operand: Descending LootShare
+Offset: 30, PUSHS , Operand: Ascending LootShare
+Offset: 31, CALL , Operand: 3125
+Offset: 32, PUSHI , Operand: 59637804
+Offset: 33, PUSHI , Operand: 11
+Offset: 34, PUSHI , Operand: 10
+Offset: 35, PUSHS , Operand: Descending ping
+Offset: 36, PUSHS , Operand: Ascending ping
+Offset: 37, CALL , Operand: 3125
+Offset: 38, CALL , Operand: 3116
+Offset: 39, Unref Method: 5420, Operand: 0
+Offset: 40, PUSHI , Operand: 1
+Offset: 41, IFEQ , Operand: 1
+Offset: 42, GOTO , Operand: 7
+Offset: 43, PUSHI , Operand: 0
+Offset: 44, PUSHS , Operand: Please choose a game world from the list.
+Offset: 45, PUSHS , Operand: <br>
+Offset: 46, PUSHS , Operand: This will cause the game applet to reload.
+Offset: 47, CONCAT , Operand: 3
+Offset: 48, CALL , Operand: 3143
+Offset: 49, GOTO , Operand: 3
+Offset: 50, PUSHI , Operand: 0
+Offset: 51, PUSHS , Operand: Please choose a game world from the list.
+Offset: 52, CALL , Operand: 3143
+Offset: 53, RETURN , Operand: 0

@@ -1,0 +1,350 @@
+================================================
+      Client Script 1946 Dumped by SiniSoul    
+      Instruction Size: 339
+      Integer Arguments: 1 
+      String  Arguments: 1 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHI , Operand: 0
+Offset: 1, STOREINT , Operand: 0
+Offset: 2, PUSHS , Operand: 
+Offset: 3, STORESTR , Operand: 0
+Offset: 4, PUSHI , Operand: 40
+Offset: 5, PUSHI , Operand: 53084165
+Offset: 6, PUSHS , Operand: I
+Offset: 7, PUSHI , Operand: 53084170
+Offset: 8, setInterfaceDefinitionScriptParams4 , Operand: 0
+Offset: 9, LOADGINT , Operand: 589
+Offset: 10, PUSHI , Operand: 99999992
+Offset: 11, IFEQ , Operand: 1
+Offset: 12, GOTO , Operand: 34
+Offset: 13, PUSHS , Operand: You abandon the game!
+Offset: 14, PUSHI , Operand: 53084241
+Offset: 15, Unref Method: 2112, Operand: 0
+Offset: 16, PUSHS , Operand: You abandon the game.
+Offset: 17, PUSHS , Operand: <br>
+Offset: 18, PUSHS , Operand: <br>
+Offset: 19, PUSHS , Operand: The mystics don't seem happy and scowl at you, muttering unpleasant sentiments under their breath.
+Offset: 20, PUSHS , Operand: <br>
+Offset: 21, PUSHS , Operand: <br>
+Offset: 22, PUSHS , Operand: You notice that you received no score as a result.
+Offset: 23, CONCAT , Operand: 7
+Offset: 24, PUSHI , Operand: 53084177
+Offset: 25, Unref Method: 2112, Operand: 0
+Offset: 26, PUSHS , Operand: -100%
+Offset: 27, PUSHI , Operand: 53084218
+Offset: 28, Unref Method: 2112, Operand: 0
+Offset: 29, PUSHS , Operand: 
+Offset: 30, PUSHI , Operand: 53084192
+Offset: 31, Unref Method: 2112, Operand: 0
+Offset: 32, PUSHS , Operand: 
+Offset: 33, PUSHI , Operand: 53084193
+Offset: 34, Unref Method: 2112, Operand: 0
+Offset: 35, PUSHS , Operand: The awards tab is not available when you leave a game early.
+Offset: 36, STORESTR , Operand: 0
+Offset: 37, PUSHI , Operand: 38
+Offset: 38, PUSHI , Operand: 53084170
+Offset: 39, PUSHI , Operand: 53084165
+Offset: 40, LOADSTR , Operand: 0
+Offset: 41, PUSHI , Operand: 25
+Offset: 42, PUSHI , Operand: 189
+Offset: 43, PUSHS , Operand: IIsii
+Offset: 44, PUSHI , Operand: 53084170
+Offset: 45, setInterfaceDefinitionScriptParams12 , Operand: 0
+Offset: 46, GOTO , Operand: 107
+Offset: 47, LOADGINT , Operand: 588
+Offset: 48, PUSHI , Operand: 1
+Offset: 49, IFEQ , Operand: 1
+Offset: 50, GOTO , Operand: 9
+Offset: 51, LOADGINT , Operand: 597
+Offset: 52, integerToString , Operand: 0
+Offset: 53, PUSHI , Operand: 53084192
+Offset: 54, Unref Method: 2112, Operand: 0
+Offset: 55, LOADGINT , Operand: 598
+Offset: 56, integerToString , Operand: 0
+Offset: 57, PUSHI , Operand: 53084193
+Offset: 58, Unref Method: 2112, Operand: 0
+Offset: 59, GOTO , Operand: 8
+Offset: 60, LOADGINT , Operand: 598
+Offset: 61, integerToString , Operand: 0
+Offset: 62, PUSHI , Operand: 53084192
+Offset: 63, Unref Method: 2112, Operand: 0
+Offset: 64, LOADGINT , Operand: 597
+Offset: 65, integerToString , Operand: 0
+Offset: 66, PUSHI , Operand: 53084193
+Offset: 67, Unref Method: 2112, Operand: 0
+Offset: 68, LOADGINT , Operand: 588
+Offset: 69, LOADGINT , Operand: 589
+Offset: 70, IFEQ , Operand: 1
+Offset: 71, GOTO , Operand: 32
+Offset: 72, PUSHS , Operand: Your valiant team takes the victory!
+Offset: 73, PUSHI , Operand: 53084241
+Offset: 74, Unref Method: 2112, Operand: 0
+Offset: 75, LOADINT , Operand: 0
+Offset: 76, PUSHI , Operand: 1
+Offset: 77, IFEQ , Operand: 1
+Offset: 78, GOTO , Operand: 11
+Offset: 79, PUSHS , Operand: With the heroic conquest of all resources and facilities, your team have ripped success from the feeble fingers of your unworthy foes.
+Offset: 80, PUSHS , Operand: <br>
+Offset: 81, PUSHS , Operand: <br>
+Offset: 82, PUSHS , Operand: The mystics stand in awe of your power, and you hear them praising you in excited whispers.
+Offset: 83, PUSHS , Operand: <br>
+Offset: 84, PUSHS , Operand: <br>
+Offset: 85, PUSHS , Operand: You notice that they have increased your score as a reward.
+Offset: 86, CONCAT , Operand: 7
+Offset: 87, PUSHI , Operand: 53084177
+Offset: 88, Unref Method: 2112, Operand: 0
+Offset: 89, GOTO , Operand: 10
+Offset: 90, PUSHS , Operand: The heroic, skillful and brave deeds of your team have ripped success from the feeble fingers of your unworthy foes.
+Offset: 91, PUSHS , Operand: <br>
+Offset: 92, PUSHS , Operand: <br>
+Offset: 93, PUSHS , Operand: The mystics stand in awe of your power, and you hear them praising you in excited whispers.
+Offset: 94, PUSHS , Operand: <br>
+Offset: 95, PUSHS , Operand: <br>
+Offset: 96, PUSHS , Operand: You notice that they have increased your score as a reward.
+Offset: 97, CONCAT , Operand: 7
+Offset: 98, PUSHI , Operand: 53084177
+Offset: 99, Unref Method: 2112, Operand: 0
+Offset: 100, PUSHS , Operand: +10%
+Offset: 101, PUSHI , Operand: 53084218
+Offset: 102, Unref Method: 2112, Operand: 0
+Offset: 103, GOTO , Operand: 50
+Offset: 104, LOADGINT , Operand: 589
+Offset: 105, PUSHI , Operand: 0
+Offset: 106, IFEQ , Operand: 1
+Offset: 107, GOTO , Operand: 16
+Offset: 108, PUSHS , Operand: The game was a draw!
+Offset: 109, PUSHI , Operand: 53084241
+Offset: 110, Unref Method: 2112, Operand: 0
+Offset: 111, PUSHS , Operand: As if ordained by fate, the teams were equally brave and skillful, resulting in a draw.
+Offset: 112, PUSHS , Operand: <br>
+Offset: 113, PUSHS , Operand: <br>
+Offset: 114, PUSHS , Operand: The mystics nod knowingly, and you hear them discussing how the balance of the universe is reflected beautifully in the conflict's outcome.
+Offset: 115, PUSHS , Operand: <br>
+Offset: 116, PUSHS , Operand: <br>
+Offset: 117, CONCAT , Operand: 6
+Offset: 118, PUSHI , Operand: 53084177
+Offset: 119, Unref Method: 2112, Operand: 0
+Offset: 120, PUSHS , Operand: +0%
+Offset: 121, PUSHI , Operand: 53084218
+Offset: 122, Unref Method: 2112, Operand: 0
+Offset: 123, GOTO , Operand: 30
+Offset: 124, PUSHS , Operand: The enemy team has defeated you!
+Offset: 125, PUSHI , Operand: 53084241
+Offset: 126, Unref Method: 2112, Operand: 0
+Offset: 127, LOADINT , Operand: 0
+Offset: 128, PUSHI , Operand: 1
+Offset: 129, IFEQ , Operand: 1
+Offset: 130, GOTO , Operand: 10
+Offset: 131, PUSHS , Operand: Despite your best efforts, your team was beaten; the victory snatched away as the enemy took control of all resources and facilities.
+Offset: 132, PUSHS , Operand: <br>
+Offset: 133, PUSHS , Operand: <br>
+Offset: 134, PUSHS , Operand: The mystics frown at you, and shake their heads sadly.
+Offset: 135, PUSHS , Operand: <br>
+Offset: 136, PUSHS , Operand: <br>
+Offset: 137, PUSHS , Operand: You hear them arguing over whether they overestimated you, or if you were just unlucky.
+Offset: 138, CONCAT , Operand: 7
+Offset: 139, PUSHI , Operand: 53084177
+Offset: 140, Unref Method: 2112, Operand: 0
+Offset: 141, PUSHS , Operand: Despite your best efforts, your team was beaten; the victory snatched away by your fearsome foes.
+Offset: 142, PUSHS , Operand: <br>
+Offset: 143, PUSHS , Operand: <br>
+Offset: 144, PUSHS , Operand: The mystics frown at you, and shake their heads sadly.
+Offset: 145, PUSHS , Operand: <br>
+Offset: 146, PUSHS , Operand: <br>
+Offset: 147, PUSHS , Operand: You hear them arguing over whether they overestimated you, or if you were just unlucky.
+Offset: 148, CONCAT , Operand: 7
+Offset: 149, PUSHI , Operand: 53084177
+Offset: 150, Unref Method: 2112, Operand: 0
+Offset: 151, PUSHS , Operand: +0%
+Offset: 152, PUSHI , Operand: 53084218
+Offset: 153, Unref Method: 2112, Operand: 0
+Offset: 154, LOADGINT , Operand: 590
+Offset: 155, integerToString , Operand: 0
+Offset: 156, PUSHI , Operand: 53084219
+Offset: 157, Unref Method: 2112, Operand: 0
+Offset: 158, LOADGINT , Operand: 590
+Offset: 159, integerToString , Operand: 0
+Offset: 160, PUSHI , Operand: 53084219
+Offset: 161, Unref Method: 2112, Operand: 0
+Offset: 162, LOADGINT , Operand: 591
+Offset: 163, integerToString , Operand: 0
+Offset: 164, PUSHI , Operand: 53084220
+Offset: 165, Unref Method: 2112, Operand: 0
+Offset: 166, LOADGINT , Operand: 592
+Offset: 167, integerToString , Operand: 0
+Offset: 168, PUSHI , Operand: 53084221
+Offset: 169, Unref Method: 2112, Operand: 0
+Offset: 170, LOADGINT , Operand: 593
+Offset: 171, integerToString , Operand: 0
+Offset: 172, PUSHI , Operand: 53084222
+Offset: 173, Unref Method: 2112, Operand: 0
+Offset: 174, LOADGINT , Operand: 594
+Offset: 175, integerToString , Operand: 0
+Offset: 176, PUSHI , Operand: 53084183
+Offset: 177, Unref Method: 2112, Operand: 0
+Offset: 178, LOADGINT , Operand: 595
+Offset: 179, integerToString , Operand: 0
+Offset: 180, PUSHI , Operand: 53084185
+Offset: 181, Unref Method: 2112, Operand: 0
+Offset: 182, LOADGINT , Operand: 589
+Offset: 183, PUSHI , Operand: 99999992
+Offset: 184, IFNE , Operand: 1
+Offset: 185, GOTO , Operand: 5
+Offset: 186, LOADGINT , Operand: 596
+Offset: 187, integerToString , Operand: 0
+Offset: 188, PUSHI , Operand: 53084223
+Offset: 189, Unref Method: 2112, Operand: 0
+Offset: 190, GOTO , Operand: 4
+Offset: 191, PUSHI , Operand: 0
+Offset: 192, integerToString , Operand: 0
+Offset: 193, PUSHI , Operand: 53084223
+Offset: 194, Unref Method: 2112, Operand: 0
+Offset: 195, LOADGINT , Operand: 600
+Offset: 196, PUSHI , Operand: 0
+Offset: 197, IFGT , Operand: 4
+Offset: 198, LOADGINT , Operand: 603
+Offset: 199, PUSHI , Operand: 0
+Offset: 200, IFGT , Operand: 1
+Offset: 201, GOTO , Operand: 136
+Offset: 202, LOADGINT , Operand: 599
+Offset: 203, integerToString , Operand: 0
+Offset: 204, PUSHI , Operand: 53084296
+Offset: 205, Unref Method: 2112, Operand: 0
+Offset: 206, LOADGINT , Operand: 600
+Offset: 207, integerToString , Operand: 0
+Offset: 208, PUSHI , Operand: 53084295
+Offset: 209, Unref Method: 2112, Operand: 0
+Offset: 210, LOADGINT , Operand: 601
+Offset: 211, integerToString , Operand: 0
+Offset: 212, PUSHI , Operand: 53084299
+Offset: 213, Unref Method: 2112, Operand: 0
+Offset: 214, LOADGINT , Operand: 602
+Offset: 215, integerToString , Operand: 0
+Offset: 216, PUSHI , Operand: 53084300
+Offset: 217, Unref Method: 2112, Operand: 0
+Offset: 218, LOADGINT , Operand: 603
+Offset: 219, integerToString , Operand: 0
+Offset: 220, PUSHI , Operand: 53084298
+Offset: 221, Unref Method: 2112, Operand: 0
+Offset: 222, LOADGINT , Operand: 604
+Offset: 223, integerToString , Operand: 0
+Offset: 224, PUSHI , Operand: 53084297
+Offset: 225, Unref Method: 2112, Operand: 0
+Offset: 226, LOADGINT , Operand: 605
+Offset: 227, integerToString , Operand: 0
+Offset: 228, PUSHI , Operand: 53084301
+Offset: 229, Unref Method: 2112, Operand: 0
+Offset: 230, LOADGINT , Operand: 606
+Offset: 231, integerToString , Operand: 0
+Offset: 232, PUSHI , Operand: 53084302
+Offset: 233, Unref Method: 2112, Operand: 0
+Offset: 234, LOADGSTR , Operand: 44
+Offset: 235, PUSHI , Operand: 53084278
+Offset: 236, PUSHI , Operand: 53084303
+Offset: 237, PUSHI , Operand: 495
+Offset: 238, CALL , Operand: 1587
+Offset: 239, LOADGSTR , Operand: 45
+Offset: 240, PUSHI , Operand: 53084277
+Offset: 241, PUSHI , Operand: 53084303
+Offset: 242, PUSHI , Operand: 495
+Offset: 243, CALL , Operand: 1587
+Offset: 244, LOADGSTR , Operand: 46
+Offset: 245, PUSHI , Operand: 53084281
+Offset: 246, PUSHI , Operand: 53084303
+Offset: 247, PUSHI , Operand: 495
+Offset: 248, CALL , Operand: 1587
+Offset: 249, LOADGSTR , Operand: 47
+Offset: 250, PUSHI , Operand: 53084282
+Offset: 251, PUSHI , Operand: 53084303
+Offset: 252, PUSHI , Operand: 495
+Offset: 253, CALL , Operand: 1587
+Offset: 254, LOADGSTR , Operand: 48
+Offset: 255, PUSHI , Operand: 53084280
+Offset: 256, PUSHI , Operand: 53084303
+Offset: 257, PUSHI , Operand: 495
+Offset: 258, CALL , Operand: 1587
+Offset: 259, LOADGSTR , Operand: 49
+Offset: 260, PUSHI , Operand: 53084279
+Offset: 261, PUSHI , Operand: 53084303
+Offset: 262, PUSHI , Operand: 495
+Offset: 263, CALL , Operand: 1587
+Offset: 264, LOADGSTR , Operand: 50
+Offset: 265, PUSHI , Operand: 53084283
+Offset: 266, PUSHI , Operand: 53084303
+Offset: 267, PUSHI , Operand: 495
+Offset: 268, CALL , Operand: 1587
+Offset: 269, LOADGSTR , Operand: 51
+Offset: 270, PUSHI , Operand: 53084284
+Offset: 271, PUSHI , Operand: 53084303
+Offset: 272, PUSHI , Operand: 495
+Offset: 273, CALL , Operand: 1587
+Offset: 274, LOADGINT , Operand: 607
+Offset: 275, PUSHI , Operand: 0
+Offset: 276, IFGT , Operand: 1
+Offset: 277, GOTO , Operand: 4
+Offset: 278, LOADGINT , Operand: 607
+Offset: 279, integerToString , Operand: 0
+Offset: 280, PUSHI , Operand: 53084287
+Offset: 281, Unref Method: 2112, Operand: 0
+Offset: 282, LOADGINT , Operand: 608
+Offset: 283, PUSHI , Operand: 0
+Offset: 284, IFGT , Operand: 1
+Offset: 285, GOTO , Operand: 4
+Offset: 286, LOADGINT , Operand: 608
+Offset: 287, integerToString , Operand: 0
+Offset: 288, PUSHI , Operand: 53084286
+Offset: 289, Unref Method: 2112, Operand: 0
+Offset: 290, LOADGINT , Operand: 609
+Offset: 291, PUSHI , Operand: 0
+Offset: 292, IFGT , Operand: 1
+Offset: 293, GOTO , Operand: 4
+Offset: 294, LOADGINT , Operand: 609
+Offset: 295, integerToString , Operand: 0
+Offset: 296, PUSHI , Operand: 53084290
+Offset: 297, Unref Method: 2112, Operand: 0
+Offset: 298, LOADGINT , Operand: 610
+Offset: 299, PUSHI , Operand: 0
+Offset: 300, IFGT , Operand: 1
+Offset: 301, GOTO , Operand: 4
+Offset: 302, LOADGINT , Operand: 610
+Offset: 303, integerToString , Operand: 0
+Offset: 304, PUSHI , Operand: 53084291
+Offset: 305, Unref Method: 2112, Operand: 0
+Offset: 306, LOADGINT , Operand: 611
+Offset: 307, PUSHI , Operand: 0
+Offset: 308, IFGT , Operand: 1
+Offset: 309, GOTO , Operand: 4
+Offset: 310, LOADGINT , Operand: 611
+Offset: 311, integerToString , Operand: 0
+Offset: 312, PUSHI , Operand: 53084289
+Offset: 313, Unref Method: 2112, Operand: 0
+Offset: 314, LOADGINT , Operand: 612
+Offset: 315, PUSHI , Operand: 0
+Offset: 316, IFGT , Operand: 1
+Offset: 317, GOTO , Operand: 4
+Offset: 318, LOADGINT , Operand: 612
+Offset: 319, integerToString , Operand: 0
+Offset: 320, PUSHI , Operand: 53084288
+Offset: 321, Unref Method: 2112, Operand: 0
+Offset: 322, LOADGINT , Operand: 613
+Offset: 323, PUSHI , Operand: 0
+Offset: 324, IFGT , Operand: 1
+Offset: 325, GOTO , Operand: 4
+Offset: 326, LOADGINT , Operand: 613
+Offset: 327, integerToString , Operand: 0
+Offset: 328, PUSHI , Operand: 53084292
+Offset: 329, Unref Method: 2112, Operand: 0
+Offset: 330, LOADGINT , Operand: 614
+Offset: 331, PUSHI , Operand: 0
+Offset: 332, IFGT , Operand: 1
+Offset: 333, GOTO , Operand: 4
+Offset: 334, LOADGINT , Operand: 614
+Offset: 335, integerToString , Operand: 0
+Offset: 336, PUSHI , Operand: 53084293
+Offset: 337, Unref Method: 2112, Operand: 0
+Offset: 338, RETURN , Operand: 0

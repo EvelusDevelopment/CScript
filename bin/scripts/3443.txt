@@ -1,0 +1,68 @@
+================================================
+      Client Script 3443 Dumped by SiniSoul    
+      Instruction Size: 40
+      Integer Arguments: 1 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADINT , Operand: 0
+Offset: 1, SWITCH , Operand: 0
+Offset: 2, GOTO , Operand: 35
+Offset: 3, PUSHS , Operand: A ranger, he prefers the bow and arrow to all other combat.
+Offset: 4, RETURN , Operand: 0
+Offset: 5, GOTO , Operand: 32
+Offset: 6, PUSHS , Operand: A wizard, he researches the mysteries of life and performs magic.
+Offset: 7, RETURN , Operand: 0
+Offset: 8, GOTO , Operand: 29
+Offset: 9, PUSHS , Operand: A miner, works hard all day mining rock. Likes to party in the evenings.
+Offset: 10, RETURN , Operand: 0
+Offset: 11, GOTO , Operand: 26
+Offset: 12, PUSHS , Operand: A cook, he spends his day making bread and stopping people stealing his cakes.
+Offset: 13, RETURN , Operand: 0
+Offset: 14, GOTO , Operand: 23
+Offset: 15, PUSHS , Operand: A shady-looking gentleman. He's likely involved in the criminal underworld.
+Offset: 16, RETURN , Operand: 0
+Offset: 17, GOTO , Operand: 20
+Offset: 18, PUSHS , Operand: A young man. He's concerned with starting his own business and making money. Also enjoys a rowdy party.
+Offset: 19, RETURN , Operand: 0
+Offset: 20, GOTO , Operand: 17
+Offset: 21, PUSHS , Operand: A barbarian. He is sensitive to any disrespect of his culture.
+Offset: 22, RETURN , Operand: 0
+Offset: 23, GOTO , Operand: 14
+Offset: 24, PUSHS , Operand: An elderly gentleman. He's worried about his safety and a rise in crime.
+Offset: 25, RETURN , Operand: 0
+Offset: 26, GOTO , Operand: 11
+Offset: 27, PUSHS , Operand: A young woman. She's concerned with the safety of her children.
+Offset: 28, RETURN , Operand: 0
+Offset: 29, GOTO , Operand: 8
+Offset: 30, PUSHS , Operand: A shady-looking fellow. He covers up his face to hide his identity.
+Offset: 31, RETURN , Operand: 0
+Offset: 32, GOTO , Operand: 5
+Offset: 33, PUSHS , Operand: A desert citizen. She doesn't have much love for mainlanders.
+Offset: 34, RETURN , Operand: 0
+Offset: 35, GOTO , Operand: 2
+Offset: 36, PUSHS , Operand: An elderly gentleman. He doesn't like parties or noise.
+Offset: 37, RETURN , Operand: 0
+Offset: 38, PUSHS , Operand: 
+Offset: 39, RETURN , Operand: 0
+
+================================================
+                Switch Table 0                
+================================================
+
+Key: 1, Value: 1
+Key: 2, Value: 4
+Key: 3, Value: 7
+Key: 4, Value: 10
+Key: 5, Value: 13
+Key: 6, Value: 16
+Key: 7, Value: 19
+Key: 8, Value: 22
+Key: 9, Value: 25
+Key: 10, Value: 28
+Key: 11, Value: 31
+Key: 12, Value: 34

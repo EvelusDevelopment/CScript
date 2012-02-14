@@ -1,0 +1,28 @@
+================================================
+      Client Script 738 Dumped by SiniSoul    
+      Instruction Size: 17
+      Integer Arguments: 0 
+      String  Arguments: 2 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADGINT , Operand: 105
+Offset: 1, PUSHI , Operand: 10
+Offset: 2, IDIV , Operand: 0
+Offset: 3, integerToString , Operand: 0
+Offset: 4, STORESTR , Operand: 0
+Offset: 5, LOADGINT , Operand: 105
+Offset: 6, PUSHI , Operand: 10
+Offset: 7, IMOD , Operand: 0
+Offset: 8, integerToString , Operand: 0
+Offset: 9, STORESTR , Operand: 1
+Offset: 10, LOADSTR , Operand: 0
+Offset: 11, PUSHI , Operand: 17629232
+Offset: 12, Unref Method: 2112, Operand: 0
+Offset: 13, LOADSTR , Operand: 1
+Offset: 14, PUSHI , Operand: 17629233
+Offset: 15, Unref Method: 2112, Operand: 0
+Offset: 16, RETURN , Operand: 0

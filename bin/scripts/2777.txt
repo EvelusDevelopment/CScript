@@ -1,0 +1,26 @@
+================================================
+      Client Script 2777 Dumped by SiniSoul    
+      Instruction Size: 15
+      Integer Arguments: 4 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHI , Operand: 255
+Offset: 1, PUSHI , Operand: 200
+Offset: 2, PUSHI , Operand: 75
+Offset: 3, LOADINT , Operand: 0
+Offset: 4, PUSHI , Operand: 0
+Offset: 5, CALL , Operand: 1210
+Offset: 6, ISUB , Operand: 0
+Offset: 7, STOREINT , Operand: 3
+Offset: 8, LOADINT , Operand: 3
+Offset: 9, LOADINT , Operand: 1
+Offset: 10, Unref Method: 2103, Operand: 0
+Offset: 11, LOADINT , Operand: 3
+Offset: 12, LOADINT , Operand: 2
+Offset: 13, Unref Method: 2103, Operand: 0
+Offset: 14, RETURN , Operand: 0

@@ -1,0 +1,43 @@
+================================================
+      Client Script 2051 Dumped by SiniSoul    
+      Instruction Size: 32
+      Integer Arguments: 8 
+      String  Arguments: 3 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADINT , Operand: 0
+Offset: 1, LOADINT , Operand: 1
+Offset: 2, Unref Method: 200, Operand: 0
+Offset: 3, PUSHI , Operand: 1
+Offset: 4, IFEQ , Operand: 1
+Offset: 5, GOTO , Operand: 11
+Offset: 6, LOADSTR , Operand: 0
+Offset: 7, LOADINT , Operand: 2
+Offset: 8, LOADINT , Operand: 3
+Offset: 9, LOADINT , Operand: 4
+Offset: 10, LOADINT , Operand: 5
+Offset: 11, LOADINT , Operand: 6
+Offset: 12, LOADSTR , Operand: 1
+Offset: 13, LOADSTR , Operand: 2
+Offset: 14, LOADINT , Operand: 7
+Offset: 15, CALL , Operand: 2052
+Offset: 16, GOTO , Operand: 14
+Offset: 17, LOADINT , Operand: 0
+Offset: 18, PUSHI , Operand: 4
+Offset: 19, LOADINT , Operand: 1
+Offset: 20, Unref Method: 100, Operand: 0
+Offset: 21, LOADSTR , Operand: 0
+Offset: 22, LOADINT , Operand: 2
+Offset: 23, LOADINT , Operand: 3
+Offset: 24, LOADINT , Operand: 4
+Offset: 25, LOADINT , Operand: 5
+Offset: 26, LOADINT , Operand: 6
+Offset: 27, LOADSTR , Operand: 1
+Offset: 28, LOADSTR , Operand: 2
+Offset: 29, LOADINT , Operand: 7
+Offset: 30, CALL , Operand: 2052
+Offset: 31, RETURN , Operand: 0

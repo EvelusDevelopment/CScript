@@ -1,0 +1,56 @@
+================================================
+      Client Script 211 Dumped by SiniSoul    
+      Instruction Size: 45
+      Integer Arguments: 4 
+      String  Arguments: 1 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHS , Operand: Price out of range
+Offset: 1, STORESTR , Operand: 0
+Offset: 2, LOADGINT , Operand: 789
+Offset: 3, LOADINT , Operand: 3
+Offset: 4, isBitToggled , Operand: 0
+Offset: 5, PUSHI , Operand: 1
+Offset: 6, IFEQ , Operand: 1
+Offset: 7, GOTO , Operand: 22
+Offset: 8, LOADINT , Operand: 0
+Offset: 9, LOADINT , Operand: 1
+Offset: 10, Unref Method: 200, Operand: 0
+Offset: 11, PUSHI , Operand: 1
+Offset: 12, IFEQ , Operand: 1
+Offset: 13, GOTO , Operand: 15
+Offset: 14, PUSHI , Operand: 1748
+Offset: 15, Unref Method: 1105, Operand: 0
+Offset: 16, PUSHI , Operand: 648
+Offset: 17, LOADINT , Operand: 0
+Offset: 18, LOADINT , Operand: 1
+Offset: 19, LOADINT , Operand: 2
+Offset: 20, LOADSTR , Operand: 0
+Offset: 21, PUSHI , Operand: 25
+Offset: 22, PUSHI , Operand: 106
+Offset: 23, PUSHS , Operand: IiIsii
+Offset: 24, Unref Method: 1412, Operand: 0
+Offset: 25, PUSHI , Operand: 40
+Offset: 26, LOADINT , Operand: 2
+Offset: 27, PUSHS , Operand: I
+Offset: 28, Unref Method: 1404, Operand: 0
+Offset: 29, GOTO , Operand: 14
+Offset: 30, LOADINT , Operand: 0
+Offset: 31, LOADINT , Operand: 1
+Offset: 32, Unref Method: 200, Operand: 0
+Offset: 33, PUSHI , Operand: 1
+Offset: 34, IFEQ , Operand: 1
+Offset: 35, GOTO , Operand: 8
+Offset: 36, PUSHI , Operand: -1
+Offset: 37, Unref Method: 1105, Operand: 0
+Offset: 38, PUSHI , Operand: -1
+Offset: 39, PUSHS , Operand: 
+Offset: 40, Unref Method: 1412, Operand: 0
+Offset: 41, PUSHI , Operand: -1
+Offset: 42, PUSHS , Operand: 
+Offset: 43, Unref Method: 1404, Operand: 0
+Offset: 44, RETURN , Operand: 0

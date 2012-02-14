@@ -1,0 +1,75 @@
+================================================
+      Client Script 1924 Dumped by SiniSoul    
+      Instruction Size: 64
+      Integer Arguments: 0 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHI , Operand: 20
+Offset: 1, integerToString , Operand: 0
+Offset: 2, PUSHS , Operand: <br>
+Offset: 3, PUSHS , Operand: points.
+Offset: 4, CONCAT , Operand: 2
+Offset: 5, concatStrings , Operand: 0
+Offset: 6, PUSHI , Operand: 53149823
+Offset: 7, Unref Method: 2112, Operand: 0
+Offset: 8, PUSHI , Operand: 20
+Offset: 9, integerToString , Operand: 0
+Offset: 10, PUSHS , Operand: <br>
+Offset: 11, PUSHS , Operand: points.
+Offset: 12, CONCAT , Operand: 2
+Offset: 13, concatStrings , Operand: 0
+Offset: 14, PUSHI , Operand: 53149761
+Offset: 15, Unref Method: 2112, Operand: 0
+Offset: 16, PUSHI , Operand: 30
+Offset: 17, integerToString , Operand: 0
+Offset: 18, PUSHS , Operand: <br>
+Offset: 19, PUSHS , Operand: points.
+Offset: 20, CONCAT , Operand: 2
+Offset: 21, concatStrings , Operand: 0
+Offset: 22, PUSHI , Operand: 53149745
+Offset: 23, Unref Method: 2112, Operand: 0
+Offset: 24, PUSHI , Operand: 28
+Offset: 25, integerToString , Operand: 0
+Offset: 26, PUSHS , Operand: <br>
+Offset: 27, PUSHS , Operand: points.
+Offset: 28, CONCAT , Operand: 2
+Offset: 29, concatStrings , Operand: 0
+Offset: 30, PUSHI , Operand: 53149802
+Offset: 31, Unref Method: 2112, Operand: 0
+Offset: 32, PUSHI , Operand: 24
+Offset: 33, integerToString , Operand: 0
+Offset: 34, PUSHS , Operand: <br>
+Offset: 35, PUSHS , Operand: points.
+Offset: 36, CONCAT , Operand: 2
+Offset: 37, concatStrings , Operand: 0
+Offset: 38, PUSHI , Operand: 53149788
+Offset: 39, Unref Method: 2112, Operand: 0
+Offset: 40, PUSHI , Operand: 26
+Offset: 41, integerToString , Operand: 0
+Offset: 42, PUSHS , Operand: <br>
+Offset: 43, PUSHS , Operand: points.
+Offset: 44, CONCAT , Operand: 2
+Offset: 45, concatStrings , Operand: 0
+Offset: 46, PUSHI , Operand: 53149774
+Offset: 47, Unref Method: 2112, Operand: 0
+Offset: 48, PUSHI , Operand: 14385
+Offset: 49, PUSHI , Operand: 1
+Offset: 50, PUSHI , Operand: 53149770
+Offset: 51, Unref Method: 2200, Operand: 0
+Offset: 52, PUSHI , Operand: 0
+Offset: 53, PUSHI , Operand: 0
+Offset: 54, PUSHI , Operand: 1274
+Offset: 55, PUSHI , Operand: 876
+Offset: 56, PUSHI , Operand: 625
+Offset: 57, PUSHI , Operand: 1715
+Offset: 58, PUSHI , Operand: 53149770
+Offset: 59, Unref Method: 2109, Operand: 0
+Offset: 60, CALL , Operand: 1929
+Offset: 61, PUSHI , Operand: 0
+Offset: 62, STOREGINT , Operand: 544
+Offset: 63, RETURN , Operand: 0

@@ -1,0 +1,37 @@
+================================================
+      Client Script 2881 Dumped by SiniSoul    
+      Instruction Size: 26
+      Integer Arguments: 0 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, Unref Opcode: 25, Operand: 4393
+Offset: 1, PUSHI , Operand: 1
+Offset: 2, IFEQ , Operand: 4
+Offset: 3, Unref Opcode: 25, Operand: 542
+Offset: 4, PUSHI , Operand: 1
+Offset: 5, IFEQ , Operand: 1
+Offset: 6, GOTO , Operand: 1
+Offset: 7, RETURN , Operand: 0
+Offset: 8, LOADGINT , Operand: 1077
+Offset: 9, PUSHI , Operand: 1
+Offset: 10, IFEQ , Operand: 1
+Offset: 11, GOTO , Operand: 7
+Offset: 12, PUSHI , Operand: 12255244
+Offset: 13, PUSHI , Operand: 12255248
+Offset: 14, PUSHS , Operand: Click here to access full song list
+Offset: 15, PUSHI , Operand: 25
+Offset: 16, PUSHI , Operand: 189
+Offset: 17, CALL , Operand: 39
+Offset: 18, GOTO , Operand: 6
+Offset: 19, PUSHI , Operand: 12255244
+Offset: 20, PUSHI , Operand: 12255248
+Offset: 21, PUSHS , Operand: Click here to access playlist
+Offset: 22, PUSHI , Operand: 25
+Offset: 23, PUSHI , Operand: 189
+Offset: 24, CALL , Operand: 39
+Offset: 25, RETURN , Operand: 0

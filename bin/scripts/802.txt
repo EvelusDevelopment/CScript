@@ -1,0 +1,367 @@
+================================================
+      Client Script 802 Dumped by SiniSoul    
+      Instruction Size: 338
+      Integer Arguments: 6 
+      String  Arguments: 3 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADSTR , Operand: 0
+Offset: 1, getStringLength , Operand: 0
+Offset: 2, STOREINT , Operand: 4
+Offset: 3, LOADINT , Operand: 0
+Offset: 4, PUSHI , Operand: -1
+Offset: 5, IFLTEQ , Operand: 1
+Offset: 6, GOTO , Operand: 3
+Offset: 7, LOADINT , Operand: 4
+Offset: 8, STOREINT , Operand: 0
+Offset: 9, GOTO , Operand: 4
+Offset: 10, LOADINT , Operand: 0
+Offset: 11, LOADINT , Operand: 4
+Offset: 12, Unref Method: 4016, Operand: 0
+Offset: 13, STOREINT , Operand: 0
+Offset: 14, PUSHS , Operand: 
+Offset: 15, STORESTR , Operand: 1
+Offset: 16, LOADINT , Operand: 0
+Offset: 17, PUSHI , Operand: 0
+Offset: 18, IFGT , Operand: 1
+Offset: 19, GOTO , Operand: 5
+Offset: 20, LOADSTR , Operand: 0
+Offset: 21, PUSHI , Operand: 0
+Offset: 22, LOADINT , Operand: 0
+Offset: 23, Unref Method: 4118, Operand: 0
+Offset: 24, STORESTR , Operand: 1
+Offset: 25, PUSHS , Operand: 
+Offset: 26, STORESTR , Operand: 2
+Offset: 27, LOADINT , Operand: 0
+Offset: 28, LOADINT , Operand: 4
+Offset: 29, IFLT , Operand: 1
+Offset: 30, GOTO , Operand: 5
+Offset: 31, LOADSTR , Operand: 0
+Offset: 32, LOADINT , Operand: 0
+Offset: 33, LOADINT , Operand: 4
+Offset: 34, Unref Method: 4118, Operand: 0
+Offset: 35, STORESTR , Operand: 2
+Offset: 36, PUSHI , Operand: 0
+Offset: 37, STOREINT , Operand: 5
+Offset: 38, LOADINT , Operand: 2
+Offset: 39, PUSHI , Operand: 85
+Offset: 40, IFEQ , Operand: 1
+Offset: 41, GOTO , Operand: 28
+Offset: 42, LOADSTR , Operand: 1
+Offset: 43, getStringLength , Operand: 0
+Offset: 44, STOREINT , Operand: 5
+Offset: 45, LOADINT , Operand: 5
+Offset: 46, PUSHI , Operand: 1
+Offset: 47, IFGT , Operand: 1
+Offset: 48, GOTO , Operand: 8
+Offset: 49, LOADSTR , Operand: 1
+Offset: 50, PUSHI , Operand: 0
+Offset: 51, LOADINT , Operand: 5
+Offset: 52, PUSHI , Operand: 1
+Offset: 53, ISUB , Operand: 0
+Offset: 54, Unref Method: 4118, Operand: 0
+Offset: 55, STORESTR , Operand: 1
+Offset: 56, GOTO , Operand: 2
+Offset: 57, PUSHS , Operand: 
+Offset: 58, STORESTR , Operand: 1
+Offset: 59, LOADSTR , Operand: 1
+Offset: 60, LOADSTR , Operand: 2
+Offset: 61, concatStrings , Operand: 0
+Offset: 62, STORESTR , Operand: 0
+Offset: 63, LOADINT , Operand: 0
+Offset: 64, PUSHI , Operand: 1
+Offset: 65, ISUB , Operand: 0
+Offset: 66, PUSHI , Operand: 0
+Offset: 67, Unref Method: 4017, Operand: 0
+Offset: 68, STOREINT , Operand: 0
+Offset: 69, GOTO , Operand: 262
+Offset: 70, LOADINT , Operand: 2
+Offset: 71, PUSHI , Operand: 101
+Offset: 72, IFEQ , Operand: 1
+Offset: 73, GOTO , Operand: 20
+Offset: 74, LOADSTR , Operand: 2
+Offset: 75, getStringLength , Operand: 0
+Offset: 76, STOREINT , Operand: 5
+Offset: 77, LOADINT , Operand: 5
+Offset: 78, PUSHI , Operand: 1
+Offset: 79, IFGT , Operand: 1
+Offset: 80, GOTO , Operand: 6
+Offset: 81, LOADSTR , Operand: 2
+Offset: 82, PUSHI , Operand: 1
+Offset: 83, LOADINT , Operand: 5
+Offset: 84, Unref Method: 4118, Operand: 0
+Offset: 85, STORESTR , Operand: 2
+Offset: 86, GOTO , Operand: 2
+Offset: 87, PUSHS , Operand: 
+Offset: 88, STORESTR , Operand: 2
+Offset: 89, LOADSTR , Operand: 1
+Offset: 90, LOADSTR , Operand: 2
+Offset: 91, concatStrings , Operand: 0
+Offset: 92, STORESTR , Operand: 0
+Offset: 93, GOTO , Operand: 238
+Offset: 94, LOADINT , Operand: 3
+Offset: 95, Unref Method: 4113, Operand: 0
+Offset: 96, PUSHI , Operand: 1
+Offset: 97, IFEQ , Operand: 1
+Offset: 98, GOTO , Operand: 233
+Offset: 99, LOADINT , Operand: 1
+Offset: 100, SWITCH , Operand: 0
+Offset: 101, GOTO , Operand: 230
+Offset: 102, LOADINT , Operand: 4
+Offset: 103, PUSHI , Operand: 80
+Offset: 104, IFLT , Operand: 1
+Offset: 105, GOTO , Operand: 10
+Offset: 106, LOADSTR , Operand: 1
+Offset: 107, LOADINT , Operand: 3
+Offset: 108, concatStrAndChar , Operand: 0
+Offset: 109, LOADSTR , Operand: 2
+Offset: 110, concatStrings , Operand: 0
+Offset: 111, STORESTR , Operand: 0
+Offset: 112, LOADINT , Operand: 0
+Offset: 113, PUSHI , Operand: 1
+Offset: 114, IADD , Operand: 0
+Offset: 115, STOREINT , Operand: 0
+Offset: 116, GOTO , Operand: 215
+Offset: 117, LOADINT , Operand: 3
+Offset: 118, Unref Method: 4116, Operand: 0
+Offset: 119, PUSHI , Operand: 1
+Offset: 120, IFEQ , Operand: 1
+Offset: 121, GOTO , Operand: 14
+Offset: 122, LOADINT , Operand: 4
+Offset: 123, PUSHI , Operand: 10
+Offset: 124, IFLT , Operand: 1
+Offset: 125, GOTO , Operand: 10
+Offset: 126, LOADSTR , Operand: 1
+Offset: 127, LOADINT , Operand: 3
+Offset: 128, concatStrAndChar , Operand: 0
+Offset: 129, LOADSTR , Operand: 2
+Offset: 130, concatStrings , Operand: 0
+Offset: 131, STORESTR , Operand: 0
+Offset: 132, LOADINT , Operand: 0
+Offset: 133, PUSHI , Operand: 1
+Offset: 134, IADD , Operand: 0
+Offset: 135, STOREINT , Operand: 0
+Offset: 136, GOTO , Operand: 195
+Offset: 137, LOADINT , Operand: 4
+Offset: 138, PUSHI , Operand: 12
+Offset: 139, IFLT , Operand: 1
+Offset: 140, GOTO , Operand: 10
+Offset: 141, LOADSTR , Operand: 1
+Offset: 142, LOADINT , Operand: 3
+Offset: 143, concatStrAndChar , Operand: 0
+Offset: 144, LOADSTR , Operand: 2
+Offset: 145, concatStrings , Operand: 0
+Offset: 146, STORESTR , Operand: 0
+Offset: 147, LOADINT , Operand: 0
+Offset: 148, PUSHI , Operand: 1
+Offset: 149, IADD , Operand: 0
+Offset: 150, STOREINT , Operand: 0
+Offset: 151, GOTO , Operand: 180
+Offset: 152, LOADINT , Operand: 4
+Offset: 153, PUSHI , Operand: 320
+Offset: 154, IFLT , Operand: 1
+Offset: 155, GOTO , Operand: 10
+Offset: 156, LOADSTR , Operand: 1
+Offset: 157, LOADINT , Operand: 3
+Offset: 158, concatStrAndChar , Operand: 0
+Offset: 159, LOADSTR , Operand: 2
+Offset: 160, concatStrings , Operand: 0
+Offset: 161, STORESTR , Operand: 0
+Offset: 162, LOADINT , Operand: 0
+Offset: 163, PUSHI , Operand: 1
+Offset: 164, IADD , Operand: 0
+Offset: 165, STOREINT , Operand: 0
+Offset: 166, GOTO , Operand: 165
+Offset: 167, LOADINT , Operand: 3
+Offset: 168, Unref Method: 4114, Operand: 0
+Offset: 169, PUSHI , Operand: 1
+Offset: 170, IFEQ , Operand: 7
+Offset: 171, PUSHS , Operand:  '&,.!-￠￀￡￁￢ￂ￣ￃ￤ￄ￥ￅ￧ￇ￨￈￩￉￪ￊ￫ￋ￬ￌ￭ￍ￮ￎ￯ￏ￱￑￲ￒ￳ￓ￴ￔ￵ￕ￶ￖ￹￙￺ￚ￻ￛ￼ￜ�￝￿
+Offset: 172, LOADINT , Operand: 3
+Offset: 173, PUSHI , Operand: 0
+Offset: 174, indexOfCharInString , Operand: 0
+Offset: 175, PUSHI , Operand: -1
+Offset: 176, IFNE , Operand: 1
+Offset: 177, GOTO , Operand: 14
+Offset: 178, LOADINT , Operand: 4
+Offset: 179, PUSHI , Operand: 50
+Offset: 180, IFLT , Operand: 1
+Offset: 181, GOTO , Operand: 10
+Offset: 182, LOADSTR , Operand: 1
+Offset: 183, LOADINT , Operand: 3
+Offset: 184, concatStrAndChar , Operand: 0
+Offset: 185, LOADSTR , Operand: 2
+Offset: 186, concatStrings , Operand: 0
+Offset: 187, STORESTR , Operand: 0
+Offset: 188, LOADINT , Operand: 0
+Offset: 189, PUSHI , Operand: 1
+Offset: 190, IADD , Operand: 0
+Offset: 191, STOREINT , Operand: 0
+Offset: 192, GOTO , Operand: 139
+Offset: 193, LOADINT , Operand: 4
+Offset: 194, PUSHI , Operand: 50
+Offset: 195, IFLT , Operand: 1
+Offset: 196, GOTO , Operand: 10
+Offset: 197, LOADSTR , Operand: 1
+Offset: 198, LOADINT , Operand: 3
+Offset: 199, concatStrAndChar , Operand: 0
+Offset: 200, LOADSTR , Operand: 2
+Offset: 201, concatStrings , Operand: 0
+Offset: 202, STORESTR , Operand: 0
+Offset: 203, LOADINT , Operand: 0
+Offset: 204, PUSHI , Operand: 1
+Offset: 205, IADD , Operand: 0
+Offset: 206, STOREINT , Operand: 0
+Offset: 207, GOTO , Operand: 124
+Offset: 208, Unref Method: 3335, Operand: 0
+Offset: 209, SWITCH , Operand: 1
+Offset: 210, GOTO , Operand: 68
+Offset: 211, LOADINT , Operand: 3
+Offset: 212, Unref Method: 4116, Operand: 0
+Offset: 213, PUSHI , Operand: 1
+Offset: 214, IFEQ , Operand: 7
+Offset: 215, PUSHS , Operand: KkMmTt
+Offset: 216, LOADINT , Operand: 3
+Offset: 217, PUSHI , Operand: 0
+Offset: 218, indexOfCharInString , Operand: 0
+Offset: 219, PUSHI , Operand: -1
+Offset: 220, IFNE , Operand: 1
+Offset: 221, GOTO , Operand: 56
+Offset: 222, LOADINT , Operand: 4
+Offset: 223, PUSHI , Operand: 10
+Offset: 224, IFLT , Operand: 1
+Offset: 225, GOTO , Operand: 52
+Offset: 226, LOADSTR , Operand: 0
+Offset: 227, PUSHS , Operand: K
+Offset: 228, PUSHI , Operand: 0
+Offset: 229, indexOfStrInString , Operand: 0
+Offset: 230, PUSHI , Operand: -1
+Offset: 231, IFEQ , Operand: 1
+Offset: 232, GOTO , Operand: 45
+Offset: 233, LOADSTR , Operand: 0
+Offset: 234, PUSHS , Operand: k
+Offset: 235, PUSHI , Operand: 0
+Offset: 236, indexOfStrInString , Operand: 0
+Offset: 237, PUSHI , Operand: -1
+Offset: 238, IFEQ , Operand: 1
+Offset: 239, GOTO , Operand: 38
+Offset: 240, LOADSTR , Operand: 0
+Offset: 241, PUSHS , Operand: M
+Offset: 242, PUSHI , Operand: 0
+Offset: 243, indexOfStrInString , Operand: 0
+Offset: 244, PUSHI , Operand: -1
+Offset: 245, IFEQ , Operand: 1
+Offset: 246, GOTO , Operand: 31
+Offset: 247, LOADSTR , Operand: 0
+Offset: 248, PUSHS , Operand: m
+Offset: 249, PUSHI , Operand: 0
+Offset: 250, indexOfStrInString , Operand: 0
+Offset: 251, PUSHI , Operand: -1
+Offset: 252, IFEQ , Operand: 1
+Offset: 253, GOTO , Operand: 24
+Offset: 254, LOADSTR , Operand: 0
+Offset: 255, PUSHS , Operand: T
+Offset: 256, PUSHI , Operand: 0
+Offset: 257, indexOfStrInString , Operand: 0
+Offset: 258, PUSHI , Operand: -1
+Offset: 259, IFEQ , Operand: 1
+Offset: 260, GOTO , Operand: 17
+Offset: 261, LOADSTR , Operand: 0
+Offset: 262, PUSHS , Operand: t
+Offset: 263, PUSHI , Operand: 0
+Offset: 264, indexOfStrInString , Operand: 0
+Offset: 265, PUSHI , Operand: -1
+Offset: 266, IFEQ , Operand: 1
+Offset: 267, GOTO , Operand: 10
+Offset: 268, LOADSTR , Operand: 1
+Offset: 269, LOADINT , Operand: 3
+Offset: 270, concatStrAndChar , Operand: 0
+Offset: 271, LOADSTR , Operand: 2
+Offset: 272, concatStrings , Operand: 0
+Offset: 273, STORESTR , Operand: 0
+Offset: 274, LOADINT , Operand: 0
+Offset: 275, PUSHI , Operand: 1
+Offset: 276, IADD , Operand: 0
+Offset: 277, STOREINT , Operand: 0
+Offset: 278, GOTO , Operand: 53
+Offset: 279, LOADINT , Operand: 3
+Offset: 280, Unref Method: 4116, Operand: 0
+Offset: 281, PUSHI , Operand: 1
+Offset: 282, IFEQ , Operand: 7
+Offset: 283, PUSHS , Operand: KkMm
+Offset: 284, LOADINT , Operand: 3
+Offset: 285, PUSHI , Operand: 0
+Offset: 286, indexOfCharInString , Operand: 0
+Offset: 287, PUSHI , Operand: -1
+Offset: 288, IFNE , Operand: 1
+Offset: 289, GOTO , Operand: 42
+Offset: 290, LOADINT , Operand: 4
+Offset: 291, PUSHI , Operand: 10
+Offset: 292, IFLT , Operand: 1
+Offset: 293, GOTO , Operand: 38
+Offset: 294, LOADSTR , Operand: 0
+Offset: 295, PUSHS , Operand: K
+Offset: 296, PUSHI , Operand: 0
+Offset: 297, indexOfStrInString , Operand: 0
+Offset: 298, PUSHI , Operand: -1
+Offset: 299, IFEQ , Operand: 1
+Offset: 300, GOTO , Operand: 31
+Offset: 301, LOADSTR , Operand: 0
+Offset: 302, PUSHS , Operand: k
+Offset: 303, PUSHI , Operand: 0
+Offset: 304, indexOfStrInString , Operand: 0
+Offset: 305, PUSHI , Operand: -1
+Offset: 306, IFEQ , Operand: 1
+Offset: 307, GOTO , Operand: 24
+Offset: 308, LOADSTR , Operand: 0
+Offset: 309, PUSHS , Operand: M
+Offset: 310, PUSHI , Operand: 0
+Offset: 311, indexOfStrInString , Operand: 0
+Offset: 312, PUSHI , Operand: -1
+Offset: 313, IFEQ , Operand: 1
+Offset: 314, GOTO , Operand: 17
+Offset: 315, LOADSTR , Operand: 0
+Offset: 316, PUSHS , Operand: m
+Offset: 317, PUSHI , Operand: 0
+Offset: 318, indexOfStrInString , Operand: 0
+Offset: 319, PUSHI , Operand: -1
+Offset: 320, IFEQ , Operand: 1
+Offset: 321, GOTO , Operand: 10
+Offset: 322, LOADSTR , Operand: 1
+Offset: 323, LOADINT , Operand: 3
+Offset: 324, concatStrAndChar , Operand: 0
+Offset: 325, LOADSTR , Operand: 2
+Offset: 326, concatStrings , Operand: 0
+Offset: 327, STORESTR , Operand: 0
+Offset: 328, LOADINT , Operand: 0
+Offset: 329, PUSHI , Operand: 1
+Offset: 330, IADD , Operand: 0
+Offset: 331, STOREINT , Operand: 0
+Offset: 332, LOADSTR , Operand: 0
+Offset: 333, LOADINT , Operand: 0
+Offset: 334, RETURN , Operand: 0
+Offset: 335, PUSHS , Operand: 
+Offset: 336, PUSHI , Operand: 0
+Offset: 337, RETURN , Operand: 0
+
+================================================
+                Switch Table 0                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 16
+Key: 2, Value: 36
+Key: 3, Value: 51
+Key: 4, Value: 66
+Key: 5, Value: 92
+Key: 6, Value: 107
+
+================================================
+                Switch Table 1                
+================================================
+
+Key: 1, Value: 1

@@ -1,0 +1,1612 @@
+================================================
+      Client Script 2787 Dumped by SiniSoul    
+      Instruction Size: 1450
+      Integer Arguments: 2 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADINT , Operand: 0
+Offset: 1, SWITCH , Operand: 0
+Offset: 2, GOTO , Operand: 1442
+Offset: 3, LOADINT , Operand: 1
+Offset: 4, SWITCH , Operand: 1
+Offset: 5, GOTO , Operand: 651
+Offset: 6, PUSHI , Operand: -1
+Offset: 7, PUSHI , Operand: 2287
+Offset: 8, PUSHS , Operand: You can see what each spell does by selecting the spellbook icon on your side interface. Move your mouse over the icon of the spell you want and a description will be available.
+Offset: 9, PUSHS , Operand:  
+Offset: 10, RETURN , Operand: 0
+Offset: 11, GOTO , Operand: 645
+Offset: 12, PUSHI , Operand: 1
+Offset: 13, PUSHI , Operand: 15
+Offset: 14, PUSHS , Operand: Wind Strike
+Offset: 15, PUSHS , Operand: You can now cast 
+Offset: 16, PUSHS , Operand: <col=000080>
+Offset: 17, PUSHS , Operand: Wind Strike
+Offset: 18, PUSHS , Operand: </col>
+Offset: 19, PUSHS , Operand: .
+Offset: 20, CONCAT , Operand: 5
+Offset: 21, RETURN , Operand: 0
+Offset: 22, GOTO , Operand: 634
+Offset: 23, PUSHI , Operand: 3
+Offset: 24, PUSHI , Operand: 16
+Offset: 25, PUSHS , Operand: Confuse
+Offset: 26, PUSHS , Operand: You can now cast 
+Offset: 27, PUSHS , Operand: <col=000080>
+Offset: 28, PUSHS , Operand: Confuse
+Offset: 29, PUSHS , Operand: </col>
+Offset: 30, PUSHS , Operand: .
+Offset: 31, CONCAT , Operand: 5
+Offset: 32, RETURN , Operand: 0
+Offset: 33, GOTO , Operand: 623
+Offset: 34, PUSHI , Operand: 5
+Offset: 35, PUSHI , Operand: 17
+Offset: 36, PUSHS , Operand: Water Strike
+Offset: 37, PUSHS , Operand: You can now cast 
+Offset: 38, PUSHS , Operand: <col=000080>
+Offset: 39, PUSHS , Operand: Water Strike
+Offset: 40, PUSHS , Operand: </col>
+Offset: 41, PUSHS , Operand: .
+Offset: 42, CONCAT , Operand: 5
+Offset: 43, RETURN , Operand: 0
+Offset: 44, GOTO , Operand: 612
+Offset: 45, PUSHI , Operand: 9
+Offset: 46, PUSHI , Operand: 19
+Offset: 47, PUSHS , Operand: Earth Strike
+Offset: 48, PUSHS , Operand: You can now cast 
+Offset: 49, PUSHS , Operand: <col=000080>
+Offset: 50, PUSHS , Operand: Earth Strike
+Offset: 51, PUSHS , Operand: </col>
+Offset: 52, PUSHS , Operand: .
+Offset: 53, CONCAT , Operand: 5
+Offset: 54, RETURN , Operand: 0
+Offset: 55, GOTO , Operand: 601
+Offset: 56, PUSHI , Operand: 10
+Offset: 57, PUSHI , Operand: 1564
+Offset: 58, PUSHS , Operand: Members: Teleport to Mobilising Armies
+Offset: 59, PUSHS , Operand: You can now cast 
+Offset: 60, PUSHS , Operand: <col=000080>
+Offset: 61, PUSHS , Operand: Teleport to Mobilising Armies
+Offset: 62, PUSHS , Operand: </col>
+Offset: 63, PUSHS , Operand: .
+Offset: 64, CONCAT , Operand: 5
+Offset: 65, RETURN , Operand: 0
+Offset: 66, GOTO , Operand: 590
+Offset: 67, PUSHI , Operand: 11
+Offset: 68, PUSHI , Operand: 20
+Offset: 69, PUSHS , Operand: Weaken
+Offset: 70, PUSHS , Operand: You can now cast 
+Offset: 71, PUSHS , Operand: <col=000080>
+Offset: 72, PUSHS , Operand: Weaken
+Offset: 73, PUSHS , Operand: </col>
+Offset: 74, PUSHS , Operand: .
+Offset: 75, CONCAT , Operand: 5
+Offset: 76, RETURN , Operand: 0
+Offset: 77, GOTO , Operand: 579
+Offset: 78, PUSHI , Operand: 13
+Offset: 79, PUSHI , Operand: 21
+Offset: 80, PUSHS , Operand: Fire Strike
+Offset: 81, PUSHS , Operand: You can now cast 
+Offset: 82, PUSHS , Operand: <col=000080>
+Offset: 83, PUSHS , Operand: Fire Strike
+Offset: 84, PUSHS , Operand: </col>
+Offset: 85, PUSHS , Operand: .
+Offset: 86, CONCAT , Operand: 5
+Offset: 87, RETURN , Operand: 0
+Offset: 88, GOTO , Operand: 568
+Offset: 89, PUSHI , Operand: 15
+Offset: 90, PUSHI , Operand: 22
+Offset: 91, PUSHS , Operand: Bones to Bananas
+Offset: 92, PUSHS , Operand: You can now cast 
+Offset: 93, PUSHS , Operand: <col=000080>
+Offset: 94, PUSHS , Operand: Bones to Bananas
+Offset: 95, PUSHS , Operand: </col>
+Offset: 96, PUSHS , Operand: .
+Offset: 97, CONCAT , Operand: 5
+Offset: 98, RETURN , Operand: 0
+Offset: 99, GOTO , Operand: 557
+Offset: 100, PUSHI , Operand: 17
+Offset: 101, PUSHI , Operand: 23
+Offset: 102, PUSHS , Operand: Wind Bolt
+Offset: 103, PUSHS , Operand: You can now cast 
+Offset: 104, PUSHS , Operand: <col=000080>
+Offset: 105, PUSHS , Operand: Wind Bolt
+Offset: 106, PUSHS , Operand: </col>
+Offset: 107, PUSHS , Operand: .
+Offset: 108, CONCAT , Operand: 5
+Offset: 109, RETURN , Operand: 0
+Offset: 110, GOTO , Operand: 546
+Offset: 111, PUSHI , Operand: 19
+Offset: 112, PUSHI , Operand: 24
+Offset: 113, PUSHS , Operand: Curse
+Offset: 114, PUSHS , Operand: You can now cast 
+Offset: 115, PUSHS , Operand: <col=000080>
+Offset: 116, PUSHS , Operand: Curse
+Offset: 117, PUSHS , Operand: </col>
+Offset: 118, PUSHS , Operand: .
+Offset: 119, CONCAT , Operand: 5
+Offset: 120, RETURN , Operand: 0
+Offset: 121, GOTO , Operand: 535
+Offset: 122, PUSHI , Operand: 20
+Offset: 123, PUSHI , Operand: 319
+Offset: 124, PUSHS , Operand: Bind
+Offset: 125, PUSHS , Operand: You can now cast 
+Offset: 126, PUSHS , Operand: <col=000080>
+Offset: 127, PUSHS , Operand: Bind
+Offset: 128, PUSHS , Operand: </col>
+Offset: 129, PUSHS , Operand: .
+Offset: 130, CONCAT , Operand: 5
+Offset: 131, RETURN , Operand: 0
+Offset: 132, GOTO , Operand: 524
+Offset: 133, PUSHI , Operand: 21
+Offset: 134, PUSHI , Operand: 25
+Offset: 135, PUSHS , Operand: Low Level Alchemy
+Offset: 136, PUSHS , Operand: You can now cast 
+Offset: 137, PUSHS , Operand: <col=000080>
+Offset: 138, PUSHS , Operand: Low Level Alchemy
+Offset: 139, PUSHS , Operand: </col>
+Offset: 140, PUSHS , Operand: .
+Offset: 141, CONCAT , Operand: 5
+Offset: 142, RETURN , Operand: 0
+Offset: 143, GOTO , Operand: 513
+Offset: 144, PUSHI , Operand: 23
+Offset: 145, PUSHI , Operand: 26
+Offset: 146, PUSHS , Operand: Water Bolt
+Offset: 147, PUSHS , Operand: You can now cast 
+Offset: 148, PUSHS , Operand: <col=000080>
+Offset: 149, PUSHS , Operand: Water Bolt
+Offset: 150, PUSHS , Operand: </col>
+Offset: 151, PUSHS , Operand: .
+Offset: 152, CONCAT , Operand: 5
+Offset: 153, RETURN , Operand: 0
+Offset: 154, GOTO , Operand: 502
+Offset: 155, PUSHI , Operand: 25
+Offset: 156, PUSHI , Operand: 27
+Offset: 157, PUSHS , Operand: Teleport to Varrock
+Offset: 158, PUSHS , Operand: You can now cast 
+Offset: 159, PUSHS , Operand: <col=000080>
+Offset: 160, PUSHS , Operand: Teleport to Varrock
+Offset: 161, PUSHS , Operand: </col>
+Offset: 162, PUSHS , Operand: .
+Offset: 163, CONCAT , Operand: 5
+Offset: 164, RETURN , Operand: 0
+Offset: 165, GOTO , Operand: 491
+Offset: 166, PUSHI , Operand: 29
+Offset: 167, PUSHI , Operand: 29
+Offset: 168, PUSHS , Operand: Earth Bolt
+Offset: 169, PUSHS , Operand: You can now cast 
+Offset: 170, PUSHS , Operand: <col=000080>
+Offset: 171, PUSHS , Operand: Earth Bolt
+Offset: 172, PUSHS , Operand: </col>
+Offset: 173, PUSHS , Operand: .
+Offset: 174, CONCAT , Operand: 5
+Offset: 175, RETURN , Operand: 0
+Offset: 176, GOTO , Operand: 480
+Offset: 177, PUSHI , Operand: 31
+Offset: 178, PUSHI , Operand: 30
+Offset: 179, PUSHS , Operand: Teleport to Lumbridge
+Offset: 180, PUSHS , Operand: You can now cast 
+Offset: 181, PUSHS , Operand: <col=000080>
+Offset: 182, PUSHS , Operand: Teleport to Lumbridge
+Offset: 183, PUSHS , Operand: </col>
+Offset: 184, PUSHS , Operand: .
+Offset: 185, CONCAT , Operand: 5
+Offset: 186, RETURN , Operand: 0
+Offset: 187, GOTO , Operand: 469
+Offset: 188, PUSHI , Operand: 33
+Offset: 189, PUSHI , Operand: 31
+Offset: 190, PUSHS , Operand: Telekinetic Grab
+Offset: 191, PUSHS , Operand: You can now cast 
+Offset: 192, PUSHS , Operand: <col=000080>
+Offset: 193, PUSHS , Operand: Telekinetic Grab
+Offset: 194, PUSHS , Operand: </col>
+Offset: 195, PUSHS , Operand: .
+Offset: 196, CONCAT , Operand: 5
+Offset: 197, RETURN , Operand: 0
+Offset: 198, GOTO , Operand: 458
+Offset: 199, PUSHI , Operand: 35
+Offset: 200, PUSHI , Operand: 32
+Offset: 201, PUSHS , Operand: Fire Bolt
+Offset: 202, PUSHS , Operand: You can now cast 
+Offset: 203, PUSHS , Operand: <col=000080>
+Offset: 204, PUSHS , Operand: Fire Bolt
+Offset: 205, PUSHS , Operand: </col>
+Offset: 206, PUSHS , Operand: .
+Offset: 207, CONCAT , Operand: 5
+Offset: 208, RETURN , Operand: 0
+Offset: 209, GOTO , Operand: 447
+Offset: 210, PUSHI , Operand: 37
+Offset: 211, PUSHI , Operand: 33
+Offset: 212, PUSHS , Operand: Teleport to Falador
+Offset: 213, PUSHS , Operand: You can now cast 
+Offset: 214, PUSHS , Operand: <col=000080>
+Offset: 215, PUSHS , Operand: Teleport to Falador
+Offset: 216, PUSHS , Operand: </col>
+Offset: 217, PUSHS , Operand: .
+Offset: 218, CONCAT , Operand: 5
+Offset: 219, RETURN , Operand: 0
+Offset: 220, GOTO , Operand: 436
+Offset: 221, PUSHI , Operand: 39
+Offset: 222, PUSHI , Operand: 34
+Offset: 223, PUSHS , Operand: Crumble Undead
+Offset: 224, PUSHS , Operand: You can now cast 
+Offset: 225, PUSHS , Operand: <col=000080>
+Offset: 226, PUSHS , Operand: Crumble Undead
+Offset: 227, PUSHS , Operand: </col>
+Offset: 228, PUSHS , Operand: .
+Offset: 229, CONCAT , Operand: 5
+Offset: 230, RETURN , Operand: 0
+Offset: 231, GOTO , Operand: 425
+Offset: 232, PUSHI , Operand: 40
+Offset: 233, PUSHI , Operand: 355
+Offset: 234, PUSHS , Operand: Members: Teleport to House
+Offset: 235, PUSHS , Operand: Members can now cast 
+Offset: 236, PUSHS , Operand: <col=000080>
+Offset: 237, PUSHS , Operand: Teleport to House
+Offset: 238, PUSHS , Operand: </col>
+Offset: 239, PUSHS , Operand: .
+Offset: 240, CONCAT , Operand: 5
+Offset: 241, RETURN , Operand: 0
+Offset: 242, GOTO , Operand: 414
+Offset: 243, PUSHI , Operand: 41
+Offset: 244, PUSHI , Operand: 35
+Offset: 245, PUSHS , Operand: Wind Blast
+Offset: 246, PUSHS , Operand: You can now cast 
+Offset: 247, PUSHS , Operand: <col=000080>
+Offset: 248, PUSHS , Operand: Wind Blast
+Offset: 249, PUSHS , Operand: </col>
+Offset: 250, PUSHS , Operand: .
+Offset: 251, CONCAT , Operand: 5
+Offset: 252, RETURN , Operand: 0
+Offset: 253, GOTO , Operand: 403
+Offset: 254, PUSHI , Operand: 43
+Offset: 255, PUSHI , Operand: 36
+Offset: 256, PUSHS , Operand: Superheat Item
+Offset: 257, PUSHS , Operand: You can now cast 
+Offset: 258, PUSHS , Operand: <col=000080>
+Offset: 259, PUSHS , Operand: Superheat Item
+Offset: 260, PUSHS , Operand: </col>
+Offset: 261, PUSHS , Operand: .
+Offset: 262, CONCAT , Operand: 5
+Offset: 263, RETURN , Operand: 0
+Offset: 264, GOTO , Operand: 392
+Offset: 265, PUSHI , Operand: 45
+Offset: 266, PUSHI , Operand: 37
+Offset: 267, PUSHS , Operand: Members: Teleport to Camelot
+Offset: 268, PUSHS , Operand: Members can now cast 
+Offset: 269, PUSHS , Operand: <col=000080>
+Offset: 270, PUSHS , Operand: Teleport to Camelot
+Offset: 271, PUSHS , Operand: </col>
+Offset: 272, PUSHS , Operand: .
+Offset: 273, CONCAT , Operand: 5
+Offset: 274, RETURN , Operand: 0
+Offset: 275, GOTO , Operand: 381
+Offset: 276, PUSHI , Operand: 47
+Offset: 277, PUSHI , Operand: 38
+Offset: 278, PUSHS , Operand: Water Blast
+Offset: 279, PUSHS , Operand: You can now cast 
+Offset: 280, PUSHS , Operand: <col=000080>
+Offset: 281, PUSHS , Operand: Water Blast
+Offset: 282, PUSHS , Operand: </col>
+Offset: 283, PUSHS , Operand: .
+Offset: 284, CONCAT , Operand: 5
+Offset: 285, RETURN , Operand: 0
+Offset: 286, GOTO , Operand: 370
+Offset: 287, PUSHI , Operand: 50
+Offset: 288, PUSHI , Operand: 320
+Offset: 289, PUSHS , Operand: Members: Snare
+Offset: 290, PUSHS , Operand: Members can now cast 
+Offset: 291, PUSHS , Operand: <col=000080>
+Offset: 292, PUSHS , Operand: Snare
+Offset: 293, PUSHS , Operand: </col>
+Offset: 294, PUSHS , Operand: .
+Offset: 295, CONCAT , Operand: 5
+Offset: 296, RETURN , Operand: 0
+Offset: 297, GOTO , Operand: 359
+Offset: 298, PUSHI , Operand: 50
+Offset: 299, PUSHI , Operand: 324
+Offset: 300, PUSHS , Operand: Members: Magic Dart
+Offset: 301, PUSHS , Operand: <br>
+Offset: 302, PUSHS , Operand:  (with level 55 Slayer)
+Offset: 303, CONCAT , Operand: 3
+Offset: 304, PUSHS , Operand: Members now have the Magic level required to cast 
+Offset: 305, PUSHS , Operand: <col=000080>
+Offset: 306, PUSHS , Operand: Magic Dart
+Offset: 307, PUSHS , Operand: </col>
+Offset: 308, PUSHS , Operand: . (They also need level 55 Slayer.)
+Offset: 309, CONCAT , Operand: 5
+Offset: 310, RETURN , Operand: 0
+Offset: 311, GOTO , Operand: 345
+Offset: 312, PUSHI , Operand: 50
+Offset: 313, PUSHI , Operand: 53
+Offset: 314, PUSHS , Operand: Members: Iban's Blast
+Offset: 315, PUSHS , Operand: <br>
+Offset: 316, PUSHS , Operand:  (after Underground Pass)
+Offset: 317, CONCAT , Operand: 3
+Offset: 318, PUSHS , Operand: Members now have the Magic level required to cast 
+Offset: 319, PUSHS , Operand: <col=000080>
+Offset: 320, PUSHS , Operand: Iban's Blast
+Offset: 321, PUSHS , Operand: </col>
+Offset: 322, PUSHS , Operand:  (after Underground Pass).
+Offset: 323, CONCAT , Operand: 5
+Offset: 324, RETURN , Operand: 0
+Offset: 325, GOTO , Operand: 331
+Offset: 326, PUSHI , Operand: 51
+Offset: 327, PUSHI , Operand: 54
+Offset: 328, PUSHS , Operand: Members: Teleport to Ardougne
+Offset: 329, PUSHS , Operand: <br>
+Offset: 330, PUSHS , Operand:  (after Plague City)
+Offset: 331, CONCAT , Operand: 3
+Offset: 332, PUSHS , Operand: Members can now cast 
+Offset: 333, PUSHS , Operand: <col=000080>
+Offset: 334, PUSHS , Operand: Teleport to Ardougne
+Offset: 335, PUSHS , Operand: </col>
+Offset: 336, PUSHS , Operand: .
+Offset: 337, CONCAT , Operand: 5
+Offset: 338, RETURN , Operand: 0
+Offset: 339, GOTO , Operand: 317
+Offset: 340, PUSHI , Operand: 53
+Offset: 341, PUSHI , Operand: 40
+Offset: 342, PUSHS , Operand: Earth Blast
+Offset: 343, PUSHS , Operand: You can now cast 
+Offset: 344, PUSHS , Operand: <col=000080>
+Offset: 345, PUSHS , Operand: Earth Blast
+Offset: 346, PUSHS , Operand: </col>
+Offset: 347, PUSHS , Operand: .
+Offset: 348, CONCAT , Operand: 5
+Offset: 349, RETURN , Operand: 0
+Offset: 350, GOTO , Operand: 306
+Offset: 351, PUSHI , Operand: 55
+Offset: 352, PUSHI , Operand: 41
+Offset: 353, PUSHS , Operand: High-level Alchemy
+Offset: 354, PUSHS , Operand: You can now cast 
+Offset: 355, PUSHS , Operand: <col=000080>
+Offset: 356, PUSHS , Operand: High-level Alchemy
+Offset: 357, PUSHS , Operand: </col>
+Offset: 358, PUSHS , Operand: .
+Offset: 359, CONCAT , Operand: 5
+Offset: 360, RETURN , Operand: 0
+Offset: 361, GOTO , Operand: 295
+Offset: 362, PUSHI , Operand: 58
+Offset: 363, PUSHI , Operand: 55
+Offset: 364, PUSHS , Operand: Members: Teleport to the Watchtower
+Offset: 365, PUSHS , Operand: <br>
+Offset: 366, PUSHS , Operand:  (after Watchtower)
+Offset: 367, CONCAT , Operand: 3
+Offset: 368, PUSHS , Operand: Members now have the Magic level required to cast 
+Offset: 369, PUSHS , Operand: <col=000080>
+Offset: 370, PUSHS , Operand: Teleport to the Watchtower
+Offset: 371, PUSHS , Operand: </col>
+Offset: 372, PUSHS , Operand:  (after Watchtower).
+Offset: 373, CONCAT , Operand: 5
+Offset: 374, RETURN , Operand: 0
+Offset: 375, GOTO , Operand: 281
+Offset: 376, PUSHI , Operand: 59
+Offset: 377, PUSHI , Operand: 44
+Offset: 378, PUSHS , Operand: Fire Blast
+Offset: 379, PUSHS , Operand: You can now cast 
+Offset: 380, PUSHS , Operand: <col=000080>
+Offset: 381, PUSHS , Operand: Fire Blast
+Offset: 382, PUSHS , Operand: </col>
+Offset: 383, PUSHS , Operand: .
+Offset: 384, CONCAT , Operand: 5
+Offset: 385, RETURN , Operand: 0
+Offset: 386, GOTO , Operand: 270
+Offset: 387, PUSHI , Operand: 60
+Offset: 388, PUSHI , Operand: 354
+Offset: 389, PUSHS , Operand: Members: Bones to Peaches
+Offset: 390, PUSHS , Operand: <br>
+Offset: 391, PUSHS , Operand:  (after Mage Training Arena)
+Offset: 392, CONCAT , Operand: 3
+Offset: 393, PUSHS , Operand: Members can now learn 
+Offset: 394, PUSHS , Operand: <col=000080>
+Offset: 395, PUSHS , Operand: Bones to Peaches
+Offset: 396, PUSHS , Operand: </col>
+Offset: 397, PUSHS , Operand:  in the Mage Training Arena.
+Offset: 398, CONCAT , Operand: 5
+Offset: 399, RETURN , Operand: 0
+Offset: 400, GOTO , Operand: 256
+Offset: 401, PUSHI , Operand: 60
+Offset: 402, PUSHI , Operand: 61
+Offset: 403, PUSHS , Operand: Members: Saradomin Strike
+Offset: 404, PUSHS , Operand: <br>
+Offset: 405, PUSHS , Operand:  (after Mage Arena)
+Offset: 406, CONCAT , Operand: 3
+Offset: 407, PUSHS , Operand: Members can now learn 
+Offset: 408, PUSHS , Operand: <col=000080>
+Offset: 409, PUSHS , Operand: Saradomin Strike
+Offset: 410, PUSHS , Operand: </col>
+Offset: 411, PUSHS , Operand:  in the Mage Arena.
+Offset: 412, CONCAT , Operand: 5
+Offset: 413, RETURN , Operand: 0
+Offset: 414, GOTO , Operand: 242
+Offset: 415, PUSHI , Operand: 60
+Offset: 416, PUSHI , Operand: 60
+Offset: 417, PUSHS , Operand: Members: Claws of Guthix
+Offset: 418, PUSHS , Operand: <br>
+Offset: 419, PUSHS , Operand:  (after Mage Arena)
+Offset: 420, CONCAT , Operand: 3
+Offset: 421, PUSHS , Operand: Members can now learn 
+Offset: 422, PUSHS , Operand: <col=000080>
+Offset: 423, PUSHS , Operand: Claws of Guthix
+Offset: 424, PUSHS , Operand: </col>
+Offset: 425, PUSHS , Operand:  in the Mage Arena.
+Offset: 426, CONCAT , Operand: 5
+Offset: 427, RETURN , Operand: 0
+Offset: 428, GOTO , Operand: 228
+Offset: 429, PUSHI , Operand: 60
+Offset: 430, PUSHI , Operand: 59
+Offset: 431, PUSHS , Operand: Members: Flames of Zamorak
+Offset: 432, PUSHS , Operand: <br>
+Offset: 433, PUSHS , Operand:  (after Mage Arena)
+Offset: 434, CONCAT , Operand: 3
+Offset: 435, PUSHS , Operand: Members can now learn 
+Offset: 436, PUSHS , Operand: <col=000080>
+Offset: 437, PUSHS , Operand: Flames of Zamorak
+Offset: 438, PUSHS , Operand: </col>
+Offset: 439, PUSHS , Operand:  in the Mage Arena.
+Offset: 440, CONCAT , Operand: 5
+Offset: 441, RETURN , Operand: 0
+Offset: 442, GOTO , Operand: 214
+Offset: 443, PUSHI , Operand: 61
+Offset: 444, PUSHI , Operand: 323
+Offset: 445, PUSHS , Operand: Members: Teleport to Trollheim
+Offset: 446, PUSHS , Operand: <br>
+Offset: 447, PUSHS , Operand:  (after Eadgar's Ruse)
+Offset: 448, CONCAT , Operand: 3
+Offset: 449, PUSHS , Operand: Members now have the Magic level required to cast 
+Offset: 450, PUSHS , Operand: <col=000080>
+Offset: 451, PUSHS , Operand: Teleport to Trollheim
+Offset: 452, PUSHS , Operand: </col>
+Offset: 453, PUSHS , Operand:  (after Eadgar's Ruse).
+Offset: 454, CONCAT , Operand: 5
+Offset: 455, RETURN , Operand: 0
+Offset: 456, GOTO , Operand: 200
+Offset: 457, PUSHI , Operand: 62
+Offset: 458, PUSHI , Operand: 46
+Offset: 459, PUSHS , Operand: Members: Wind Wave
+Offset: 460, PUSHS , Operand: Members can now cast 
+Offset: 461, PUSHS , Operand: <col=000080>
+Offset: 462, PUSHS , Operand: Wind Wave
+Offset: 463, PUSHS , Operand: </col>
+Offset: 464, PUSHS , Operand: .
+Offset: 465, CONCAT , Operand: 5
+Offset: 466, RETURN , Operand: 0
+Offset: 467, GOTO , Operand: 189
+Offset: 468, PUSHI , Operand: 64
+Offset: 469, PUSHI , Operand: 357
+Offset: 470, PUSHS , Operand: Members: Teleport to Ape Atoll
+Offset: 471, PUSHS , Operand: <br>
+Offset: 472, PUSHS , Operand:  (after saving Awowogei in Recipe for Disaster)
+Offset: 473, CONCAT , Operand: 3
+Offset: 474, PUSHS , Operand: Members now have the Magic level required to cast 
+Offset: 475, PUSHS , Operand: <col=000080>
+Offset: 476, PUSHS , Operand: Teleport to Ape Atoll
+Offset: 477, PUSHS , Operand: </col>
+Offset: 478, PUSHS , Operand:  (after saving Awowogei in Recipe for Disaster).
+Offset: 479, CONCAT , Operand: 5
+Offset: 480, RETURN , Operand: 0
+Offset: 481, GOTO , Operand: 175
+Offset: 482, PUSHI , Operand: 65
+Offset: 483, PUSHI , Operand: 48
+Offset: 484, PUSHS , Operand: Members: Water Wave
+Offset: 485, PUSHS , Operand: Members can now cast 
+Offset: 486, PUSHS , Operand: <col=000080>
+Offset: 487, PUSHS , Operand: Water Wave
+Offset: 488, PUSHS , Operand: </col>
+Offset: 489, PUSHS , Operand: .
+Offset: 490, CONCAT , Operand: 5
+Offset: 491, RETURN , Operand: 0
+Offset: 492, GOTO , Operand: 164
+Offset: 493, PUSHI , Operand: 66
+Offset: 494, PUSHI , Operand: 56
+Offset: 495, PUSHS , Operand: Members: Vulnerability
+Offset: 496, PUSHS , Operand: Members can now cast 
+Offset: 497, PUSHS , Operand: <col=000080>
+Offset: 498, PUSHS , Operand: Vulnerability
+Offset: 499, PUSHS , Operand: </col>
+Offset: 500, PUSHS , Operand: .
+Offset: 501, CONCAT , Operand: 5
+Offset: 502, RETURN , Operand: 0
+Offset: 503, GOTO , Operand: 153
+Offset: 504, PUSHI , Operand: 70
+Offset: 505, PUSHI , Operand: 51
+Offset: 506, PUSHS , Operand: Members: Earth Wave
+Offset: 507, PUSHS , Operand: Members can now cast 
+Offset: 508, PUSHS , Operand: <col=000080>
+Offset: 509, PUSHS , Operand: Earth Wave
+Offset: 510, PUSHS , Operand: </col>
+Offset: 511, PUSHS , Operand: .
+Offset: 512, CONCAT , Operand: 5
+Offset: 513, RETURN , Operand: 0
+Offset: 514, GOTO , Operand: 142
+Offset: 515, PUSHI , Operand: 73
+Offset: 516, PUSHI , Operand: 57
+Offset: 517, PUSHS , Operand: Members: Enfeeble
+Offset: 518, PUSHS , Operand: Members can now cast 
+Offset: 519, PUSHS , Operand: <col=000080>
+Offset: 520, PUSHS , Operand: Enfeeble
+Offset: 521, PUSHS , Operand: </col>
+Offset: 522, PUSHS , Operand: .
+Offset: 523, CONCAT , Operand: 5
+Offset: 524, RETURN , Operand: 0
+Offset: 525, GOTO , Operand: 131
+Offset: 526, PUSHI , Operand: 74
+Offset: 527, PUSHI , Operand: 349
+Offset: 528, PUSHS , Operand: Members: Tele-other Lumbridge
+Offset: 529, PUSHS , Operand: Members can now cast 
+Offset: 530, PUSHS , Operand: <col=000080>
+Offset: 531, PUSHS , Operand: Tele-other to Lumbridge
+Offset: 532, PUSHS , Operand: </col>
+Offset: 533, PUSHS , Operand: .
+Offset: 534, CONCAT , Operand: 5
+Offset: 535, RETURN , Operand: 0
+Offset: 536, GOTO , Operand: 120
+Offset: 537, PUSHI , Operand: 75
+Offset: 538, PUSHI , Operand: 52
+Offset: 539, PUSHS , Operand: Members: Fire Wave
+Offset: 540, PUSHS , Operand: Members can now cast 
+Offset: 541, PUSHS , Operand: <col=000080>
+Offset: 542, PUSHS , Operand: Fire Wave
+Offset: 543, PUSHS , Operand: </col>
+Offset: 544, PUSHS , Operand: .
+Offset: 545, CONCAT , Operand: 5
+Offset: 546, RETURN , Operand: 0
+Offset: 547, GOTO , Operand: 109
+Offset: 548, PUSHI , Operand: 79
+Offset: 549, PUSHI , Operand: 321
+Offset: 550, PUSHS , Operand: Members: Entangle
+Offset: 551, PUSHS , Operand: Members can now cast 
+Offset: 552, PUSHS , Operand: <col=000080>
+Offset: 553, PUSHS , Operand: Entangle
+Offset: 554, PUSHS , Operand: </col>
+Offset: 555, PUSHS , Operand: .
+Offset: 556, CONCAT , Operand: 5
+Offset: 557, RETURN , Operand: 0
+Offset: 558, GOTO , Operand: 98
+Offset: 559, PUSHI , Operand: 80
+Offset: 560, PUSHI , Operand: 58
+Offset: 561, PUSHS , Operand: Members: Stun
+Offset: 562, PUSHS , Operand: Members can now cast 
+Offset: 563, PUSHS , Operand: <col=000080>
+Offset: 564, PUSHS , Operand: Stun
+Offset: 565, PUSHS , Operand: </col>
+Offset: 566, PUSHS , Operand: .
+Offset: 567, CONCAT , Operand: 5
+Offset: 568, RETURN , Operand: 0
+Offset: 569, GOTO , Operand: 87
+Offset: 570, PUSHI , Operand: 80
+Offset: 571, PUSHI , Operand: 322
+Offset: 572, PUSHS , Operand: Members: Charge
+Offset: 573, PUSHS , Operand: Members can now cast 
+Offset: 574, PUSHS , Operand: <col=000080>
+Offset: 575, PUSHS , Operand: Charge
+Offset: 576, PUSHS , Operand: </col>
+Offset: 577, PUSHS , Operand: .
+Offset: 578, CONCAT , Operand: 5
+Offset: 579, RETURN , Operand: 0
+Offset: 580, GOTO , Operand: 76
+Offset: 581, PUSHI , Operand: 81
+Offset: 582, PUSHI , Operand: 500
+Offset: 583, PUSHS , Operand: Members: Wind Surge
+Offset: 584, PUSHS , Operand: Members can now cast 
+Offset: 585, PUSHS , Operand: <col=000080>
+Offset: 586, PUSHS , Operand: Wind Surge
+Offset: 587, PUSHS , Operand: </col>
+Offset: 588, PUSHS , Operand: .
+Offset: 589, CONCAT , Operand: 5
+Offset: 590, RETURN , Operand: 0
+Offset: 591, GOTO , Operand: 65
+Offset: 592, PUSHI , Operand: 82
+Offset: 593, PUSHI , Operand: 350
+Offset: 594, PUSHS , Operand: Members: Tele-other Falador
+Offset: 595, PUSHS , Operand: Members can now cast 
+Offset: 596, PUSHS , Operand: <col=000080>
+Offset: 597, PUSHS , Operand: Tele-other to Falador
+Offset: 598, PUSHS , Operand: </col>
+Offset: 599, PUSHS , Operand: .
+Offset: 600, CONCAT , Operand: 5
+Offset: 601, RETURN , Operand: 0
+Offset: 602, GOTO , Operand: 54
+Offset: 603, PUSHI , Operand: 85
+Offset: 604, PUSHI , Operand: 1565
+Offset: 605, PUSHS , Operand: Teleport Block
+Offset: 606, PUSHS , Operand: You can now cast 
+Offset: 607, PUSHS , Operand: <col=000080>
+Offset: 608, PUSHS , Operand: Teleport Block
+Offset: 609, PUSHS , Operand: </col>
+Offset: 610, PUSHS , Operand: .
+Offset: 611, CONCAT , Operand: 5
+Offset: 612, RETURN , Operand: 0
+Offset: 613, GOTO , Operand: 43
+Offset: 614, PUSHI , Operand: 85
+Offset: 615, PUSHI , Operand: 501
+Offset: 616, PUSHS , Operand: Members: Water Surge
+Offset: 617, PUSHS , Operand: Members can now cast 
+Offset: 618, PUSHS , Operand: <col=000080>
+Offset: 619, PUSHS , Operand: Water Surge
+Offset: 620, PUSHS , Operand: </col>
+Offset: 621, PUSHS , Operand: .
+Offset: 622, CONCAT , Operand: 5
+Offset: 623, RETURN , Operand: 0
+Offset: 624, GOTO , Operand: 32
+Offset: 625, PUSHI , Operand: 90
+Offset: 626, PUSHI , Operand: 811
+Offset: 627, PUSHS , Operand: Members: Earth Surge
+Offset: 628, PUSHS , Operand: Members can now cast 
+Offset: 629, PUSHS , Operand: <col=000080>
+Offset: 630, PUSHS , Operand: Earth Surge
+Offset: 631, PUSHS , Operand: </col>
+Offset: 632, PUSHS , Operand: .
+Offset: 633, CONCAT , Operand: 5
+Offset: 634, RETURN , Operand: 0
+Offset: 635, GOTO , Operand: 21
+Offset: 636, PUSHI , Operand: 90
+Offset: 637, PUSHI , Operand: 351
+Offset: 638, PUSHS , Operand: Members: Tele-other to Camelot
+Offset: 639, PUSHS , Operand: Members can now cast 
+Offset: 640, PUSHS , Operand: <col=000080>
+Offset: 641, PUSHS , Operand: Tele-other to Camelot
+Offset: 642, PUSHS , Operand: </col>
+Offset: 643, PUSHS , Operand: .
+Offset: 644, CONCAT , Operand: 5
+Offset: 645, RETURN , Operand: 0
+Offset: 646, GOTO , Operand: 10
+Offset: 647, PUSHI , Operand: 95
+Offset: 648, PUSHI , Operand: 814
+Offset: 649, PUSHS , Operand: Members: Fire Surge
+Offset: 650, PUSHS , Operand: Members can now cast 
+Offset: 651, PUSHS , Operand: <col=000080>
+Offset: 652, PUSHS , Operand: Fire Surge
+Offset: 653, PUSHS , Operand: </col>
+Offset: 654, PUSHS , Operand: .
+Offset: 655, CONCAT , Operand: 5
+Offset: 656, RETURN , Operand: 0
+Offset: 657, GOTO , Operand: 787
+Offset: 658, LOADINT , Operand: 1
+Offset: 659, SWITCH , Operand: 2
+Offset: 660, GOTO , Operand: 319
+Offset: 661, PUSHI , Operand: -1
+Offset: 662, PUSHI , Operand: 2287
+Offset: 663, PUSHS , Operand: Once you have completed Desert Treasure, you will be able to access the Ancient Magicks spellbook.
+Offset: 664, PUSHS , Operand: 
+Offset: 665, RETURN , Operand: 0
+Offset: 666, GOTO , Operand: 313
+Offset: 667, PUSHI , Operand: -1
+Offset: 668, PUSHI , Operand: 356
+Offset: 669, PUSHS , Operand: Members: Home teleport (to Edgeville)
+Offset: 670, PUSHS , Operand: 
+Offset: 671, RETURN , Operand: 0
+Offset: 672, GOTO , Operand: 307
+Offset: 673, PUSHI , Operand: 50
+Offset: 674, PUSHI , Operand: 329
+Offset: 675, PUSHS , Operand: Members: Smoke Rush
+Offset: 676, PUSHS , Operand: Members using the Ancient Magicks spellbook can now cast 
+Offset: 677, PUSHS , Operand: <col=000080>
+Offset: 678, PUSHS , Operand: Smoke Rush
+Offset: 679, PUSHS , Operand: </col>
+Offset: 680, PUSHS , Operand: .
+Offset: 681, CONCAT , Operand: 5
+Offset: 682, RETURN , Operand: 0
+Offset: 683, GOTO , Operand: 296
+Offset: 684, PUSHI , Operand: 52
+Offset: 685, PUSHI , Operand: 337
+Offset: 686, PUSHS , Operand: Members: Shadow Rush
+Offset: 687, PUSHS , Operand: Members using the Ancient Magicks spellbook can now cast 
+Offset: 688, PUSHS , Operand: <col=000080>
+Offset: 689, PUSHS , Operand: Shadow Rush
+Offset: 690, PUSHS , Operand: </col>
+Offset: 691, PUSHS , Operand: .
+Offset: 692, CONCAT , Operand: 5
+Offset: 693, RETURN , Operand: 0
+Offset: 694, GOTO , Operand: 285
+Offset: 695, PUSHI , Operand: 54
+Offset: 696, PUSHI , Operand: 341
+Offset: 697, PUSHS , Operand: Members: Teleport to Paddewwa
+Offset: 698, PUSHS , Operand: Members using the Ancient Magicks spellbook can now cast 
+Offset: 699, PUSHS , Operand: <col=000080>
+Offset: 700, PUSHS , Operand: Teleport to Paddewwa
+Offset: 701, PUSHS , Operand: </col>
+Offset: 702, PUSHS , Operand: .
+Offset: 703, CONCAT , Operand: 5
+Offset: 704, RETURN , Operand: 0
+Offset: 705, GOTO , Operand: 274
+Offset: 706, PUSHI , Operand: 56
+Offset: 707, PUSHI , Operand: 333
+Offset: 708, PUSHS , Operand: Members: Blood Rush
+Offset: 709, PUSHS , Operand: Members using the Ancient Magicks spellbook can now cast 
+Offset: 710, PUSHS , Operand: <col=000080>
+Offset: 711, PUSHS , Operand: Blood Rush
+Offset: 712, PUSHS , Operand: </col>
+Offset: 713, PUSHS , Operand: .
+Offset: 714, CONCAT , Operand: 5
+Offset: 715, RETURN , Operand: 0
+Offset: 716, GOTO , Operand: 263
+Offset: 717, PUSHI , Operand: 58
+Offset: 718, PUSHI , Operand: 325
+Offset: 719, PUSHS , Operand: Members: Ice Rush
+Offset: 720, PUSHS , Operand: Members using the Ancient Magicks spellbook can now cast 
+Offset: 721, PUSHS , Operand: <col=000080>
+Offset: 722, PUSHS , Operand: Ice Rush
+Offset: 723, PUSHS , Operand: </col>
+Offset: 724, PUSHS , Operand: .
+Offset: 725, CONCAT , Operand: 5
+Offset: 726, RETURN , Operand: 0
+Offset: 727, GOTO , Operand: 252
+Offset: 728, PUSHI , Operand: 60
+Offset: 729, PUSHI , Operand: 342
+Offset: 730, PUSHS , Operand: Members: Teleport to Senntisten
+Offset: 731, PUSHS , Operand: Members using the Ancient Magicks spellbook can now cast 
+Offset: 732, PUSHS , Operand: <col=000080>
+Offset: 733, PUSHS , Operand: Teleport to Senntisten
+Offset: 734, PUSHS , Operand: </col>
+Offset: 735, PUSHS , Operand: .
+Offset: 736, CONCAT , Operand: 5
+Offset: 737, RETURN , Operand: 0
+Offset: 738, GOTO , Operand: 241
+Offset: 739, PUSHI , Operand: 61
+Offset: 740, PUSHI , Operand: 1568
+Offset: 741, PUSHS , Operand: Members: Miasmic Rush
+Offset: 742, PUSHS , Operand: Members using the Ancient Magicks spellbook can now cast 
+Offset: 743, PUSHS , Operand: <col=000080>
+Offset: 744, PUSHS , Operand: Miasmic Rush
+Offset: 745, PUSHS , Operand: </col>
+Offset: 746, PUSHS , Operand: .
+Offset: 747, CONCAT , Operand: 5
+Offset: 748, RETURN , Operand: 0
+Offset: 749, GOTO , Operand: 230
+Offset: 750, PUSHI , Operand: 62
+Offset: 751, PUSHI , Operand: 330
+Offset: 752, PUSHS , Operand: Members: Smoke Burst
+Offset: 753, PUSHS , Operand: Members using the Ancient Magicks spellbook can now cast 
+Offset: 754, PUSHS , Operand: <col=000080>
+Offset: 755, PUSHS , Operand: Smoke Burst
+Offset: 756, PUSHS , Operand: </col>
+Offset: 757, PUSHS , Operand: .
+Offset: 758, CONCAT , Operand: 5
+Offset: 759, RETURN , Operand: 0
+Offset: 760, GOTO , Operand: 219
+Offset: 761, PUSHI , Operand: 64
+Offset: 762, PUSHI , Operand: 338
+Offset: 763, PUSHS , Operand: Members: Shadow Burst
+Offset: 764, PUSHS , Operand: Members using the Ancient Magicks spellbook can now cast 
+Offset: 765, PUSHS , Operand: <col=000080>
+Offset: 766, PUSHS , Operand: Shadow Burst
+Offset: 767, PUSHS , Operand: </col>
+Offset: 768, PUSHS , Operand: .
+Offset: 769, CONCAT , Operand: 5
+Offset: 770, RETURN , Operand: 0
+Offset: 771, GOTO , Operand: 208
+Offset: 772, PUSHI , Operand: 66
+Offset: 773, PUSHI , Operand: 343
+Offset: 774, PUSHS , Operand: Members: Teleport to Kharyrll
+Offset: 775, PUSHS , Operand: Members using the Ancient Magicks spellbook can now cast 
+Offset: 776, PUSHS , Operand: <col=000080>
+Offset: 777, PUSHS , Operand: Teleport to Kharyrll
+Offset: 778, PUSHS , Operand: </col>
+Offset: 779, PUSHS , Operand: .
+Offset: 780, CONCAT , Operand: 5
+Offset: 781, RETURN , Operand: 0
+Offset: 782, GOTO , Operand: 197
+Offset: 783, PUSHI , Operand: 68
+Offset: 784, PUSHI , Operand: 334
+Offset: 785, PUSHS , Operand: Members: Blood Burst
+Offset: 786, PUSHS , Operand: Members using the Ancient Magicks spellbook can now cast 
+Offset: 787, PUSHS , Operand: <col=000080>
+Offset: 788, PUSHS , Operand: Blood Burst
+Offset: 789, PUSHS , Operand: </col>
+Offset: 790, PUSHS , Operand: .
+Offset: 791, CONCAT , Operand: 5
+Offset: 792, RETURN , Operand: 0
+Offset: 793, GOTO , Operand: 186
+Offset: 794, PUSHI , Operand: 70
+Offset: 795, PUSHI , Operand: 326
+Offset: 796, PUSHS , Operand: Members: Ice Burst
+Offset: 797, PUSHS , Operand: Members using the Ancient Magicks spellbook can now cast 
+Offset: 798, PUSHS , Operand: <col=000080>
+Offset: 799, PUSHS , Operand: Ice Burst
+Offset: 800, PUSHS , Operand: </col>
+Offset: 801, PUSHS , Operand: .
+Offset: 802, CONCAT , Operand: 5
+Offset: 803, RETURN , Operand: 0
+Offset: 804, GOTO , Operand: 175
+Offset: 805, PUSHI , Operand: 72
+Offset: 806, PUSHI , Operand: 344
+Offset: 807, PUSHS , Operand: Members: Teleport to Lassar
+Offset: 808, PUSHS , Operand: Members using the Ancient Magicks spellbook can now cast 
+Offset: 809, PUSHS , Operand: <col=000080>
+Offset: 810, PUSHS , Operand: Teleport to Lassar
+Offset: 811, PUSHS , Operand: </col>
+Offset: 812, PUSHS , Operand: .
+Offset: 813, CONCAT , Operand: 5
+Offset: 814, RETURN , Operand: 0
+Offset: 815, GOTO , Operand: 164
+Offset: 816, PUSHI , Operand: 73
+Offset: 817, PUSHI , Operand: 1569
+Offset: 818, PUSHS , Operand: Members: Miasmic Burst
+Offset: 819, PUSHS , Operand: Members using the Ancient Magicks spellbook can now cast 
+Offset: 820, PUSHS , Operand: <col=000080>
+Offset: 821, PUSHS , Operand: Miasmic Burst
+Offset: 822, PUSHS , Operand: </col>
+Offset: 823, PUSHS , Operand: .
+Offset: 824, CONCAT , Operand: 5
+Offset: 825, RETURN , Operand: 0
+Offset: 826, GOTO , Operand: 153
+Offset: 827, PUSHI , Operand: 74
+Offset: 828, PUSHI , Operand: 331
+Offset: 829, PUSHS , Operand: Members: Smoke Blitz
+Offset: 830, PUSHS , Operand: Members using the Ancient Magicks spellbook can now cast 
+Offset: 831, PUSHS , Operand: <col=000080>
+Offset: 832, PUSHS , Operand: Smoke Blitz
+Offset: 833, PUSHS , Operand: </col>
+Offset: 834, PUSHS , Operand: .
+Offset: 835, CONCAT , Operand: 5
+Offset: 836, RETURN , Operand: 0
+Offset: 837, GOTO , Operand: 142
+Offset: 838, PUSHI , Operand: 76
+Offset: 839, PUSHI , Operand: 339
+Offset: 840, PUSHS , Operand: Members: Shadow Blitz
+Offset: 841, PUSHS , Operand: Members using the Ancient Magicks spellbook can now cast 
+Offset: 842, PUSHS , Operand: <col=000080>
+Offset: 843, PUSHS , Operand: Shadow Blitz
+Offset: 844, PUSHS , Operand: </col>
+Offset: 845, PUSHS , Operand: .
+Offset: 846, CONCAT , Operand: 5
+Offset: 847, RETURN , Operand: 0
+Offset: 848, GOTO , Operand: 131
+Offset: 849, PUSHI , Operand: 78
+Offset: 850, PUSHI , Operand: 345
+Offset: 851, PUSHS , Operand: Members: Teleport to Dareeyak
+Offset: 852, PUSHS , Operand: Members using the Ancient Magicks spellbook can now cast 
+Offset: 853, PUSHS , Operand: <col=000080>
+Offset: 854, PUSHS , Operand: Teleport to Dareeyak
+Offset: 855, PUSHS , Operand: </col>
+Offset: 856, PUSHS , Operand: .
+Offset: 857, CONCAT , Operand: 5
+Offset: 858, RETURN , Operand: 0
+Offset: 859, GOTO , Operand: 120
+Offset: 860, PUSHI , Operand: 80
+Offset: 861, PUSHI , Operand: 335
+Offset: 862, PUSHS , Operand: Members: Blood Blitz
+Offset: 863, PUSHS , Operand: Members using the Ancient Magicks spellbook can now cast 
+Offset: 864, PUSHS , Operand: <col=000080>
+Offset: 865, PUSHS , Operand: Blood Blitz
+Offset: 866, PUSHS , Operand: </col>
+Offset: 867, PUSHS , Operand: .
+Offset: 868, CONCAT , Operand: 5
+Offset: 869, RETURN , Operand: 0
+Offset: 870, GOTO , Operand: 109
+Offset: 871, PUSHI , Operand: 82
+Offset: 872, PUSHI , Operand: 327
+Offset: 873, PUSHS , Operand: Members: Ice Blitz
+Offset: 874, PUSHS , Operand: Members using the Ancient Magicks spellbook can now cast 
+Offset: 875, PUSHS , Operand: <col=000080>
+Offset: 876, PUSHS , Operand: Ice Blitz
+Offset: 877, PUSHS , Operand: </col>
+Offset: 878, PUSHS , Operand: .
+Offset: 879, CONCAT , Operand: 5
+Offset: 880, RETURN , Operand: 0
+Offset: 881, GOTO , Operand: 98
+Offset: 882, PUSHI , Operand: 84
+Offset: 883, PUSHI , Operand: 346
+Offset: 884, PUSHS , Operand: Members: Teleport to Carrallangar
+Offset: 885, PUSHS , Operand: Members using the Ancient Magicks spellbook can now cast 
+Offset: 886, PUSHS , Operand: <col=000080>
+Offset: 887, PUSHS , Operand: Teleport to Carrallangar
+Offset: 888, PUSHS , Operand: </col>
+Offset: 889, PUSHS , Operand: .
+Offset: 890, CONCAT , Operand: 5
+Offset: 891, RETURN , Operand: 0
+Offset: 892, GOTO , Operand: 87
+Offset: 893, PUSHI , Operand: 85
+Offset: 894, PUSHI , Operand: 1567
+Offset: 895, PUSHS , Operand: Members: Miasmic Blitz
+Offset: 896, PUSHS , Operand: Members using the Ancient Magicks spellbook can now cast 
+Offset: 897, PUSHS , Operand: <col=000080>
+Offset: 898, PUSHS , Operand: Miasmic Blitz
+Offset: 899, PUSHS , Operand: </col>
+Offset: 900, PUSHS , Operand: .
+Offset: 901, CONCAT , Operand: 5
+Offset: 902, RETURN , Operand: 0
+Offset: 903, GOTO , Operand: 76
+Offset: 904, PUSHI , Operand: 86
+Offset: 905, PUSHI , Operand: 332
+Offset: 906, PUSHS , Operand: Members: Smoke Barrage
+Offset: 907, PUSHS , Operand: Members using the Ancient Magicks spellbook can now cast 
+Offset: 908, PUSHS , Operand: <col=000080>
+Offset: 909, PUSHS , Operand: Smoke Barrage
+Offset: 910, PUSHS , Operand: </col>
+Offset: 911, PUSHS , Operand: .
+Offset: 912, CONCAT , Operand: 5
+Offset: 913, RETURN , Operand: 0
+Offset: 914, GOTO , Operand: 65
+Offset: 915, PUSHI , Operand: 88
+Offset: 916, PUSHI , Operand: 340
+Offset: 917, PUSHS , Operand: Members: Shadow Barrage
+Offset: 918, PUSHS , Operand: Members using the Ancient Magicks spellbook can now cast 
+Offset: 919, PUSHS , Operand: <col=000080>
+Offset: 920, PUSHS , Operand: Shadow Barrage
+Offset: 921, PUSHS , Operand: </col>
+Offset: 922, PUSHS , Operand: .
+Offset: 923, CONCAT , Operand: 5
+Offset: 924, RETURN , Operand: 0
+Offset: 925, GOTO , Operand: 54
+Offset: 926, PUSHI , Operand: 90
+Offset: 927, PUSHI , Operand: 347
+Offset: 928, PUSHS , Operand: Members: Teleport to Annakarl
+Offset: 929, PUSHS , Operand: Members using the Ancient Magicks spellbook can now cast 
+Offset: 930, PUSHS , Operand: <col=000080>
+Offset: 931, PUSHS , Operand: Teleport to Annakarl
+Offset: 932, PUSHS , Operand: </col>
+Offset: 933, PUSHS , Operand: .
+Offset: 934, CONCAT , Operand: 5
+Offset: 935, RETURN , Operand: 0
+Offset: 936, GOTO , Operand: 43
+Offset: 937, PUSHI , Operand: 92
+Offset: 938, PUSHI , Operand: 336
+Offset: 939, PUSHS , Operand: Members: Blood Barrage
+Offset: 940, PUSHS , Operand: Members using the Ancient Magicks spellbook can now cast 
+Offset: 941, PUSHS , Operand: <col=000080>
+Offset: 942, PUSHS , Operand: Blood Barrage
+Offset: 943, PUSHS , Operand: </col>
+Offset: 944, PUSHS , Operand: .
+Offset: 945, CONCAT , Operand: 5
+Offset: 946, RETURN , Operand: 0
+Offset: 947, GOTO , Operand: 32
+Offset: 948, PUSHI , Operand: 94
+Offset: 949, PUSHI , Operand: 328
+Offset: 950, PUSHS , Operand: Members: Ice Barrage
+Offset: 951, PUSHS , Operand: Members using the Ancient Magicks spellbook can now cast 
+Offset: 952, PUSHS , Operand: <col=000080>
+Offset: 953, PUSHS , Operand: Ice Barrage
+Offset: 954, PUSHS , Operand: </col>
+Offset: 955, PUSHS , Operand: .
+Offset: 956, CONCAT , Operand: 5
+Offset: 957, RETURN , Operand: 0
+Offset: 958, GOTO , Operand: 21
+Offset: 959, PUSHI , Operand: 96
+Offset: 960, PUSHI , Operand: 348
+Offset: 961, PUSHS , Operand: Members: Teleport to Ghorrock
+Offset: 962, PUSHS , Operand: Members using the Ancient Magicks spellbook can now cast 
+Offset: 963, PUSHS , Operand: <col=000080>
+Offset: 964, PUSHS , Operand: Teleport to Ghorrock
+Offset: 965, PUSHS , Operand: </col>
+Offset: 966, PUSHS , Operand: .
+Offset: 967, CONCAT , Operand: 5
+Offset: 968, RETURN , Operand: 0
+Offset: 969, GOTO , Operand: 10
+Offset: 970, PUSHI , Operand: 97
+Offset: 971, PUSHI , Operand: 1566
+Offset: 972, PUSHS , Operand: Members: Miasmic Barrage
+Offset: 973, PUSHS , Operand: Members using the Ancient Magicks spellbook can now cast 
+Offset: 974, PUSHS , Operand: <col=000080>
+Offset: 975, PUSHS , Operand: Miasmic Barrage
+Offset: 976, PUSHS , Operand: </col>
+Offset: 977, PUSHS , Operand: .
+Offset: 978, CONCAT , Operand: 5
+Offset: 979, RETURN , Operand: 0
+Offset: 980, GOTO , Operand: 464
+Offset: 981, LOADINT , Operand: 1
+Offset: 982, SWITCH , Operand: 3
+Offset: 983, GOTO , Operand: 461
+Offset: 984, PUSHI , Operand: -1
+Offset: 985, PUSHI , Operand: 2287
+Offset: 986, PUSHS , Operand: Once you have completed Lunar Diplomacy, you will be able to access the Lunar spellbook.
+Offset: 987, PUSHS , Operand: 
+Offset: 988, RETURN , Operand: 0
+Offset: 989, GOTO , Operand: 455
+Offset: 990, PUSHI , Operand: -1
+Offset: 991, PUSHI , Operand: 356
+Offset: 992, PUSHS , Operand: Members: Home teleport (to Lunar Isle)
+Offset: 993, PUSHS , Operand: 
+Offset: 994, RETURN , Operand: 0
+Offset: 995, GOTO , Operand: 449
+Offset: 996, PUSHI , Operand: 65
+Offset: 997, PUSHI , Operand: 543
+Offset: 998, PUSHS , Operand: Members: Bake Pie
+Offset: 999, PUSHS , Operand: Members using the Lunar spellbook can now cast 
+Offset: 1000, PUSHS , Operand: <col=000080>
+Offset: 1001, PUSHS , Operand: Bake Pie
+Offset: 1002, PUSHS , Operand: </col>
+Offset: 1003, PUSHS , Operand: .
+Offset: 1004, CONCAT , Operand: 5
+Offset: 1005, RETURN , Operand: 0
+Offset: 1006, GOTO , Operand: 438
+Offset: 1007, PUSHI , Operand: 66
+Offset: 1008, PUSHI , Operand: 567
+Offset: 1009, PUSHS , Operand: Members: Cure Plant
+Offset: 1010, PUSHS , Operand: Members using the Lunar spellbook can now cast 
+Offset: 1011, PUSHS , Operand: <col=000080>
+Offset: 1012, PUSHS , Operand: Cure Plant
+Offset: 1013, PUSHS , Operand: </col>
+Offset: 1014, PUSHS , Operand: .
+Offset: 1015, CONCAT , Operand: 5
+Offset: 1016, RETURN , Operand: 0
+Offset: 1017, GOTO , Operand: 427
+Offset: 1018, PUSHI , Operand: 66
+Offset: 1019, PUSHI , Operand: 577
+Offset: 1020, PUSHS , Operand: Members: Monster Examine
+Offset: 1021, PUSHS , Operand: <br>
+Offset: 1022, PUSHS , Operand:  (after Dream Mentor)
+Offset: 1023, CONCAT , Operand: 3
+Offset: 1024, PUSHS , Operand: Members using the Lunar or Dungeoneering spellbook now have the Magic level required to cast 
+Offset: 1025, PUSHS , Operand: <col=000080>
+Offset: 1026, PUSHS , Operand: Monster Examine
+Offset: 1027, PUSHS , Operand: </col>
+Offset: 1028, PUSHS , Operand:  (after Dream Mentor).
+Offset: 1029, CONCAT , Operand: 5
+Offset: 1030, RETURN , Operand: 0
+Offset: 1031, GOTO , Operand: 413
+Offset: 1032, PUSHI , Operand: 67
+Offset: 1033, PUSHI , Operand: 568
+Offset: 1034, PUSHS , Operand: Members: Contact
+Offset: 1035, PUSHS , Operand: Members using the Lunar spellbook now have the Magic level required to cast 
+Offset: 1036, PUSHS , Operand: <col=000080>
+Offset: 1037, PUSHS , Operand: Contact
+Offset: 1038, PUSHS , Operand: </col>
+Offset: 1039, PUSHS , Operand:  (after Dream Mentor).
+Offset: 1040, CONCAT , Operand: 5
+Offset: 1041, RETURN , Operand: 0
+Offset: 1042, GOTO , Operand: 402
+Offset: 1043, PUSHI , Operand: 68
+Offset: 1044, PUSHI , Operand: 559
+Offset: 1045, PUSHS , Operand: Members: Cure Other
+Offset: 1046, PUSHS , Operand: Members using the Lunar or Dungeoneering spellbook can now cast 
+Offset: 1047, PUSHS , Operand: <col=000080>
+Offset: 1048, PUSHS , Operand: Cure Other
+Offset: 1049, PUSHS , Operand: </col>
+Offset: 1050, PUSHS , Operand: .
+Offset: 1051, CONCAT , Operand: 5
+Offset: 1052, RETURN , Operand: 0
+Offset: 1053, GOTO , Operand: 391
+Offset: 1054, PUSHI , Operand: 68
+Offset: 1055, PUSHI , Operand: 578
+Offset: 1056, PUSHS , Operand: Members: Humidify
+Offset: 1057, PUSHS , Operand: <br>
+Offset: 1058, PUSHS , Operand:  (after Dream Mentor)
+Offset: 1059, CONCAT , Operand: 3
+Offset: 1060, PUSHS , Operand: Members using the Lunar or Dungeoneering spellbook now have the Magic level required to cast 
+Offset: 1061, PUSHS , Operand: <col=000080>
+Offset: 1062, PUSHS , Operand: Humidify
+Offset: 1063, PUSHS , Operand: </col>
+Offset: 1064, PUSHS , Operand:  (after Dream Mentor).
+Offset: 1065, CONCAT , Operand: 5
+Offset: 1066, RETURN , Operand: 0
+Offset: 1067, GOTO , Operand: 377
+Offset: 1068, PUSHI , Operand: 69
+Offset: 1069, PUSHI , Operand: 544
+Offset: 1070, PUSHS , Operand: Members: Teleport to Moonclan Island
+Offset: 1071, PUSHS , Operand: Members using the Lunar spellbook can now cast 
+Offset: 1072, PUSHS , Operand: <col=000080>
+Offset: 1073, PUSHS , Operand: Teleport to Moonclan Island
+Offset: 1074, PUSHS , Operand: </col>
+Offset: 1075, PUSHS , Operand: .
+Offset: 1076, CONCAT , Operand: 5
+Offset: 1077, RETURN , Operand: 0
+Offset: 1078, GOTO , Operand: 366
+Offset: 1079, PUSHI , Operand: 70
+Offset: 1080, PUSHI , Operand: 569
+Offset: 1081, PUSHS , Operand: Members: Group Teleport to Moonclan Island
+Offset: 1082, PUSHS , Operand: Members using the Lunar spellbook can now cast 
+Offset: 1083, PUSHS , Operand: <col=000080>
+Offset: 1084, PUSHS , Operand: Group Teleport to Moonclan Island
+Offset: 1085, PUSHS , Operand: </col>
+Offset: 1086, PUSHS , Operand: .
+Offset: 1087, CONCAT , Operand: 5
+Offset: 1088, RETURN , Operand: 0
+Offset: 1089, GOTO , Operand: 355
+Offset: 1090, PUSHI , Operand: 71
+Offset: 1091, PUSHI , Operand: 562
+Offset: 1092, PUSHS , Operand: Members: Cure Me
+Offset: 1093, PUSHS , Operand: Members using the Lunar or Dungeoneering spellbook can now cast 
+Offset: 1094, PUSHS , Operand: <col=000080>
+Offset: 1095, PUSHS , Operand: Cure Me
+Offset: 1096, PUSHS , Operand: </col>
+Offset: 1097, PUSHS , Operand: .
+Offset: 1098, CONCAT , Operand: 5
+Offset: 1099, RETURN , Operand: 0
+Offset: 1100, GOTO , Operand: 344
+Offset: 1101, PUSHI , Operand: 71
+Offset: 1102, PUSHI , Operand: 579
+Offset: 1103, PUSHS , Operand: Members: Hunter Kit
+Offset: 1104, PUSHS , Operand: <br>
+Offset: 1105, PUSHS , Operand:  (after Dream Mentor)
+Offset: 1106, CONCAT , Operand: 3
+Offset: 1107, PUSHS , Operand: Members using the Lunar spellbook now have the Magic level required to cast 
+Offset: 1108, PUSHS , Operand: <col=000080>
+Offset: 1109, PUSHS , Operand: Hunter Kit
+Offset: 1110, PUSHS , Operand: </col>
+Offset: 1111, PUSHS , Operand:  (after Dream Mentor).
+Offset: 1112, CONCAT , Operand: 5
+Offset: 1113, RETURN , Operand: 0
+Offset: 1114, GOTO , Operand: 330
+Offset: 1115, PUSHI , Operand: 71
+Offset: 1116, PUSHI , Operand: 583
+Offset: 1117, PUSHS , Operand: Members: Teleport to Ourania
+Offset: 1118, PUSHS , Operand: Members using the Lunar spellbook can now cast 
+Offset: 1119, PUSHS , Operand: <col=000080>
+Offset: 1120, PUSHS , Operand: Teleport to Ourania
+Offset: 1121, PUSHS , Operand: </col>
+Offset: 1122, PUSHS , Operand: .
+Offset: 1123, CONCAT , Operand: 5
+Offset: 1124, RETURN , Operand: 0
+Offset: 1125, GOTO , Operand: 319
+Offset: 1126, PUSHI , Operand: 72
+Offset: 1127, PUSHI , Operand: 545
+Offset: 1128, PUSHS , Operand: Members: Teleport to Waterbirth
+Offset: 1129, PUSHS , Operand: Members using the Lunar spellbook can now cast 
+Offset: 1130, PUSHS , Operand: <col=000080>
+Offset: 1131, PUSHS , Operand: Teleport to Waterbirth
+Offset: 1132, PUSHS , Operand: </col>
+Offset: 1133, PUSHS , Operand: .
+Offset: 1134, CONCAT , Operand: 5
+Offset: 1135, RETURN , Operand: 0
+Offset: 1136, GOTO , Operand: 308
+Offset: 1137, PUSHI , Operand: 73
+Offset: 1138, PUSHI , Operand: 570
+Offset: 1139, PUSHS , Operand: Members: Group Teleport to Waterbirth
+Offset: 1140, PUSHS , Operand: Members using the Lunar spellbook can now cast 
+Offset: 1141, PUSHS , Operand: <col=000080>
+Offset: 1142, PUSHS , Operand: Group Teleport to Waterbirth
+Offset: 1143, PUSHS , Operand: </col>
+Offset: 1144, PUSHS , Operand: .
+Offset: 1145, CONCAT , Operand: 5
+Offset: 1146, RETURN , Operand: 0
+Offset: 1147, GOTO , Operand: 297
+Offset: 1148, PUSHI , Operand: 74
+Offset: 1149, PUSHI , Operand: 565
+Offset: 1150, PUSHS , Operand: Members: Cure Group
+Offset: 1151, PUSHS , Operand: Members using the Lunar or Dungeoneering spellbook can now cast 
+Offset: 1152, PUSHS , Operand: <col=000080>
+Offset: 1153, PUSHS , Operand: Cure Group
+Offset: 1154, PUSHS , Operand: </col>
+Offset: 1155, PUSHS , Operand: .
+Offset: 1156, CONCAT , Operand: 5
+Offset: 1157, RETURN , Operand: 0
+Offset: 1158, GOTO , Operand: 286
+Offset: 1159, PUSHI , Operand: 75
+Offset: 1160, PUSHI , Operand: 547
+Offset: 1161, PUSHS , Operand: Members: Teleport to the Barbarian Outpost
+Offset: 1162, PUSHS , Operand: Members using the Lunar spellbook can now cast 
+Offset: 1163, PUSHS , Operand: <col=000080>
+Offset: 1164, PUSHS , Operand: Teleport to the Barbarian Outpost
+Offset: 1165, PUSHS , Operand: </col>
+Offset: 1166, PUSHS , Operand: .
+Offset: 1167, CONCAT , Operand: 5
+Offset: 1168, RETURN , Operand: 0
+Offset: 1169, GOTO , Operand: 275
+Offset: 1170, PUSHI , Operand: 75
+Offset: 1171, PUSHI , Operand: 576
+Offset: 1172, PUSHS , Operand: Members: Stat Spy
+Offset: 1173, PUSHS , Operand: <br>
+Offset: 1174, PUSHS , Operand:  (after Dream Mentor)
+Offset: 1175, CONCAT , Operand: 3
+Offset: 1176, PUSHS , Operand: Members using the Lunar spellbook now have the Magic level required to cast 
+Offset: 1177, PUSHS , Operand: <col=000080>
+Offset: 1178, PUSHS , Operand: Stat Spy
+Offset: 1179, PUSHS , Operand: </col>
+Offset: 1180, PUSHS , Operand:  (after Dream Mentor).
+Offset: 1181, CONCAT , Operand: 5
+Offset: 1182, RETURN , Operand: 0
+Offset: 1183, GOTO , Operand: 261
+Offset: 1184, PUSHI , Operand: 76
+Offset: 1185, PUSHI , Operand: 571
+Offset: 1186, PUSHS , Operand: Members: Group Teleport to the Barbarian Outpost
+Offset: 1187, PUSHS , Operand: Members using the Lunar spellbook can now cast 
+Offset: 1188, PUSHS , Operand: <col=000080>
+Offset: 1189, PUSHS , Operand: Group Teleport to the Barbarian Outpost
+Offset: 1190, PUSHS , Operand: </col>
+Offset: 1191, PUSHS , Operand: .
+Offset: 1192, CONCAT , Operand: 5
+Offset: 1193, RETURN , Operand: 0
+Offset: 1194, GOTO , Operand: 250
+Offset: 1195, PUSHI , Operand: 77
+Offset: 1196, PUSHI , Operand: 548
+Offset: 1197, PUSHS , Operand: Members: Superglass Make
+Offset: 1198, PUSHS , Operand: Members using the Lunar spellbook can now cast 
+Offset: 1199, PUSHS , Operand: <col=000080>
+Offset: 1200, PUSHS , Operand: Superglass Make
+Offset: 1201, PUSHS , Operand: </col>
+Offset: 1202, PUSHS , Operand: .
+Offset: 1203, CONCAT , Operand: 5
+Offset: 1204, RETURN , Operand: 0
+Offset: 1205, GOTO , Operand: 239
+Offset: 1206, PUSHI , Operand: 78
+Offset: 1207, PUSHI , Operand: 549
+Offset: 1208, PUSHS , Operand: Members: Teleport to Port Khazard
+Offset: 1209, PUSHS , Operand: Members using the Lunar spellbook can now cast 
+Offset: 1210, PUSHS , Operand: <col=000080>
+Offset: 1211, PUSHS , Operand: Teleport to Port Khazard
+Offset: 1212, PUSHS , Operand: </col>
+Offset: 1213, PUSHS , Operand: .
+Offset: 1214, CONCAT , Operand: 5
+Offset: 1215, RETURN , Operand: 0
+Offset: 1216, GOTO , Operand: 228
+Offset: 1217, PUSHI , Operand: 79
+Offset: 1218, PUSHI , Operand: 572
+Offset: 1219, PUSHS , Operand: Members: Group Teleport to Port Khazard
+Offset: 1220, PUSHS , Operand: Members using the Lunar spellbook can now cast 
+Offset: 1221, PUSHS , Operand: <col=000080>
+Offset: 1222, PUSHS , Operand: Group Teleport to Port Khazard
+Offset: 1223, PUSHS , Operand: </col>
+Offset: 1224, PUSHS , Operand: .
+Offset: 1225, CONCAT , Operand: 5
+Offset: 1226, RETURN , Operand: 0
+Offset: 1227, GOTO , Operand: 217
+Offset: 1228, PUSHI , Operand: 79
+Offset: 1229, PUSHI , Operand: 580
+Offset: 1230, PUSHS , Operand: Members: Dream
+Offset: 1231, PUSHS , Operand: <br>
+Offset: 1232, PUSHS , Operand:  (after Dream Mentor)
+Offset: 1233, CONCAT , Operand: 3
+Offset: 1234, PUSHS , Operand: Members using the Lunar spellbook now have the Magic level required to cast 
+Offset: 1235, PUSHS , Operand: <col=000080>
+Offset: 1236, PUSHS , Operand: Dream
+Offset: 1237, PUSHS , Operand: </col>
+Offset: 1238, PUSHS , Operand:  (after Dream Mentor).
+Offset: 1239, CONCAT , Operand: 5
+Offset: 1240, RETURN , Operand: 0
+Offset: 1241, GOTO , Operand: 203
+Offset: 1242, PUSHI , Operand: 80
+Offset: 1243, PUSHI , Operand: 550
+Offset: 1244, PUSHS , Operand: Members: String Jewellery
+Offset: 1245, PUSHS , Operand: Members using the Lunar spellbook can now cast 
+Offset: 1246, PUSHS , Operand: <col=000080>
+Offset: 1247, PUSHS , Operand: String Jewellery
+Offset: 1248, PUSHS , Operand: </col>
+Offset: 1249, PUSHS , Operand: .
+Offset: 1250, CONCAT , Operand: 5
+Offset: 1251, RETURN , Operand: 0
+Offset: 1252, GOTO , Operand: 192
+Offset: 1253, PUSHI , Operand: 81
+Offset: 1254, PUSHI , Operand: 554
+Offset: 1255, PUSHS , Operand: Members: Stat Restore Potion Share
+Offset: 1256, PUSHS , Operand: Members using the Lunar spellbook can now cast 
+Offset: 1257, PUSHS , Operand: <col=000080>
+Offset: 1258, PUSHS , Operand: Stat Restore Potion Share
+Offset: 1259, PUSHS , Operand: </col>
+Offset: 1260, PUSHS , Operand: .
+Offset: 1261, CONCAT , Operand: 5
+Offset: 1262, RETURN , Operand: 0
+Offset: 1263, GOTO , Operand: 181
+Offset: 1264, PUSHI , Operand: 82
+Offset: 1265, PUSHI , Operand: 552
+Offset: 1266, PUSHS , Operand: Members: Magic Imbue
+Offset: 1267, PUSHS , Operand: Members using the Lunar spellbook can now cast 
+Offset: 1268, PUSHS , Operand: <col=000080>
+Offset: 1269, PUSHS , Operand: Magic Imbue
+Offset: 1270, PUSHS , Operand: </col>
+Offset: 1271, PUSHS , Operand: .
+Offset: 1272, CONCAT , Operand: 5
+Offset: 1273, RETURN , Operand: 0
+Offset: 1274, GOTO , Operand: 170
+Offset: 1275, PUSHI , Operand: 83
+Offset: 1276, PUSHI , Operand: 553
+Offset: 1277, PUSHS , Operand: Members: Fertile Soil
+Offset: 1278, PUSHS , Operand: Members using the Lunar spellbook can now cast 
+Offset: 1279, PUSHS , Operand: <col=000080>
+Offset: 1280, PUSHS , Operand: Fertile Soil
+Offset: 1281, PUSHS , Operand: </col>
+Offset: 1282, PUSHS , Operand: .
+Offset: 1283, CONCAT , Operand: 5
+Offset: 1284, RETURN , Operand: 0
+Offset: 1285, GOTO , Operand: 159
+Offset: 1286, PUSHI , Operand: 84
+Offset: 1287, PUSHI , Operand: 551
+Offset: 1288, PUSHS , Operand: Members: Boost Potion Share
+Offset: 1289, PUSHS , Operand: Members using the Lunar spellbook can now cast 
+Offset: 1290, PUSHS , Operand: <col=000080>
+Offset: 1291, PUSHS , Operand: Boost Potion Share
+Offset: 1292, PUSHS , Operand: </col>
+Offset: 1293, PUSHS , Operand: .
+Offset: 1294, CONCAT , Operand: 5
+Offset: 1295, RETURN , Operand: 0
+Offset: 1296, GOTO , Operand: 148
+Offset: 1297, PUSHI , Operand: 85
+Offset: 1298, PUSHI , Operand: 555
+Offset: 1299, PUSHS , Operand: Members: Teleport to the Fishing Guild
+Offset: 1300, PUSHS , Operand: Members using the Lunar spellbook can now cast 
+Offset: 1301, PUSHS , Operand: <col=000080>
+Offset: 1302, PUSHS , Operand: Teleport to the Fishing Guild
+Offset: 1303, PUSHS , Operand: </col>
+Offset: 1304, PUSHS , Operand: .
+Offset: 1305, CONCAT , Operand: 5
+Offset: 1306, RETURN , Operand: 0
+Offset: 1307, GOTO , Operand: 137
+Offset: 1308, PUSHI , Operand: 86
+Offset: 1309, PUSHI , Operand: 573
+Offset: 1310, PUSHS , Operand: Members: Group Teleport to the Fishing Guild
+Offset: 1311, PUSHS , Operand: Members using the Lunar spellbook can now cast 
+Offset: 1312, PUSHS , Operand: <col=000080>
+Offset: 1313, PUSHS , Operand: Group Teleport to the Fishing Guild
+Offset: 1314, PUSHS , Operand: </col>
+Offset: 1315, PUSHS , Operand: .
+Offset: 1316, CONCAT , Operand: 5
+Offset: 1317, RETURN , Operand: 0
+Offset: 1318, GOTO , Operand: 126
+Offset: 1319, PUSHI , Operand: 86
+Offset: 1320, PUSHI , Operand: 581
+Offset: 1321, PUSHS , Operand: Members: Plank Make
+Offset: 1322, PUSHS , Operand: <br>
+Offset: 1323, PUSHS , Operand:  (after Dream Mentor)
+Offset: 1324, CONCAT , Operand: 3
+Offset: 1325, PUSHS , Operand: Members using the Lunar spellbook now have the Magic level required to cast 
+Offset: 1326, PUSHS , Operand: <col=000080>
+Offset: 1327, PUSHS , Operand: Plank Make
+Offset: 1328, PUSHS , Operand: </col>
+Offset: 1329, PUSHS , Operand:  (after Dream Mentor).
+Offset: 1330, CONCAT , Operand: 5
+Offset: 1331, RETURN , Operand: 0
+Offset: 1332, GOTO , Operand: 112
+Offset: 1333, PUSHI , Operand: 87
+Offset: 1334, PUSHI , Operand: 556
+Offset: 1335, PUSHS , Operand: Members: Teleport to Catherby
+Offset: 1336, PUSHS , Operand: Members using the Lunar spellbook can now cast 
+Offset: 1337, PUSHS , Operand: <col=000080>
+Offset: 1338, PUSHS , Operand: Teleport to Catherby
+Offset: 1339, PUSHS , Operand: </col>
+Offset: 1340, PUSHS , Operand: .
+Offset: 1341, CONCAT , Operand: 5
+Offset: 1342, RETURN , Operand: 0
+Offset: 1343, GOTO , Operand: 101
+Offset: 1344, PUSHI , Operand: 88
+Offset: 1345, PUSHI , Operand: 574
+Offset: 1346, PUSHS , Operand: Members: Group Teleport to Catherby
+Offset: 1347, PUSHS , Operand: Members using the Lunar spellbook can now cast 
+Offset: 1348, PUSHS , Operand: <col=000080>
+Offset: 1349, PUSHS , Operand: Group Teleport to Catherby
+Offset: 1350, PUSHS , Operand: </col>
+Offset: 1351, PUSHS , Operand: .
+Offset: 1352, CONCAT , Operand: 5
+Offset: 1353, RETURN , Operand: 0
+Offset: 1354, GOTO , Operand: 90
+Offset: 1355, PUSHI , Operand: 89
+Offset: 1356, PUSHI , Operand: 557
+Offset: 1357, PUSHS , Operand: Members: Teleport to the Ice Plateau
+Offset: 1358, PUSHS , Operand: Members using the Lunar spellbook can now cast 
+Offset: 1359, PUSHS , Operand: <col=000080>
+Offset: 1360, PUSHS , Operand: Teleport to the Ice Plateau
+Offset: 1361, PUSHS , Operand: </col>
+Offset: 1362, PUSHS , Operand: .
+Offset: 1363, CONCAT , Operand: 5
+Offset: 1364, RETURN , Operand: 0
+Offset: 1365, GOTO , Operand: 79
+Offset: 1366, PUSHI , Operand: 90
+Offset: 1367, PUSHI , Operand: 575
+Offset: 1368, PUSHS , Operand: Members: Group Teleport to the Ice Plateau
+Offset: 1369, PUSHS , Operand: Members using the Lunar spellbook can now cast 
+Offset: 1370, PUSHS , Operand: <col=000080>
+Offset: 1371, PUSHS , Operand: Group Teleport to the Ice Plateau
+Offset: 1372, PUSHS , Operand: </col>
+Offset: 1373, PUSHS , Operand: .
+Offset: 1374, CONCAT , Operand: 5
+Offset: 1375, RETURN , Operand: 0
+Offset: 1376, GOTO , Operand: 68
+Offset: 1377, PUSHI , Operand: 91
+Offset: 1378, PUSHI , Operand: 558
+Offset: 1379, PUSHS , Operand: Members: Energy Transfer
+Offset: 1380, PUSHS , Operand: Members using the Lunar spellbook can now cast 
+Offset: 1381, PUSHS , Operand: <col=000080>
+Offset: 1382, PUSHS , Operand: Energy Transfer
+Offset: 1383, PUSHS , Operand: </col>
+Offset: 1384, PUSHS , Operand: .
+Offset: 1385, CONCAT , Operand: 5
+Offset: 1386, RETURN , Operand: 0
+Offset: 1387, GOTO , Operand: 57
+Offset: 1388, PUSHI , Operand: 92
+Offset: 1389, PUSHI , Operand: 560
+Offset: 1390, PUSHS , Operand: Members: Heal Other
+Offset: 1391, PUSHS , Operand: Members using the Lunar spellbook can now cast 
+Offset: 1392, PUSHS , Operand: <col=000080>
+Offset: 1393, PUSHS , Operand: Heal Other
+Offset: 1394, PUSHS , Operand: </col>
+Offset: 1395, PUSHS , Operand: .
+Offset: 1396, CONCAT , Operand: 5
+Offset: 1397, RETURN , Operand: 0
+Offset: 1398, GOTO , Operand: 46
+Offset: 1399, PUSHI , Operand: 93
+Offset: 1400, PUSHI , Operand: 561
+Offset: 1401, PUSHS , Operand: Members: Vengeance Other
+Offset: 1402, PUSHS , Operand: Members using the Lunar or Dungeoneering spellbook can now cast 
+Offset: 1403, PUSHS , Operand: <col=000080>
+Offset: 1404, PUSHS , Operand: Vengeance Other
+Offset: 1405, PUSHS , Operand: </col>
+Offset: 1406, PUSHS , Operand: .
+Offset: 1407, CONCAT , Operand: 5
+Offset: 1408, RETURN , Operand: 0
+Offset: 1409, GOTO , Operand: 35
+Offset: 1410, PUSHI , Operand: 94
+Offset: 1411, PUSHI , Operand: 564
+Offset: 1412, PUSHS , Operand: Members: Vengeance
+Offset: 1413, PUSHS , Operand: Members using the Lunar or Dungeoneering spellbook can now cast 
+Offset: 1414, PUSHS , Operand: <col=000080>
+Offset: 1415, PUSHS , Operand: Vengeance
+Offset: 1416, PUSHS , Operand: </col>
+Offset: 1417, PUSHS , Operand: .
+Offset: 1418, CONCAT , Operand: 5
+Offset: 1419, RETURN , Operand: 0
+Offset: 1420, GOTO , Operand: 24
+Offset: 1421, PUSHI , Operand: 95
+Offset: 1422, PUSHI , Operand: 566
+Offset: 1423, PUSHS , Operand: Members: Heal Group
+Offset: 1424, PUSHS , Operand: Members using the Lunar spellbook can now cast 
+Offset: 1425, PUSHS , Operand: <col=000080>
+Offset: 1426, PUSHS , Operand: Heal Group
+Offset: 1427, PUSHS , Operand: </col>
+Offset: 1428, PUSHS , Operand: .
+Offset: 1429, CONCAT , Operand: 5
+Offset: 1430, RETURN , Operand: 0
+Offset: 1431, GOTO , Operand: 13
+Offset: 1432, PUSHI , Operand: 96
+Offset: 1433, PUSHI , Operand: 582
+Offset: 1434, PUSHS , Operand: Members: Spellbook Swap
+Offset: 1435, PUSHS , Operand: <br>
+Offset: 1436, PUSHS , Operand:  (after Dream Mentor)
+Offset: 1437, CONCAT , Operand: 3
+Offset: 1438, PUSHS , Operand: Members using the Lunar spellbook now have the Magic level required to cast 
+Offset: 1439, PUSHS , Operand: <col=000080>
+Offset: 1440, PUSHS , Operand: Spellbook Swap
+Offset: 1441, PUSHS , Operand: </col>
+Offset: 1442, PUSHS , Operand:  (after Dream Mentor).
+Offset: 1443, CONCAT , Operand: 5
+Offset: 1444, RETURN , Operand: 0
+Offset: 1445, PUSHI , Operand: 0
+Offset: 1446, PUSHI , Operand: -1
+Offset: 1447, PUSHS , Operand: 
+Offset: 1448, PUSHS , Operand: 
+Offset: 1449, RETURN , Operand: 0
+
+================================================
+                Switch Table 0                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 656
+Key: 2, Value: 979
+
+================================================
+                Switch Table 1                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 7
+Key: 2, Value: 18
+Key: 3, Value: 29
+Key: 4, Value: 40
+Key: 5, Value: 51
+Key: 6, Value: 62
+Key: 7, Value: 73
+Key: 8, Value: 84
+Key: 9, Value: 95
+Key: 10, Value: 106
+Key: 11, Value: 117
+Key: 12, Value: 128
+Key: 13, Value: 139
+Key: 14, Value: 150
+Key: 15, Value: 161
+Key: 17, Value: 183
+Key: 16, Value: 172
+Key: 19, Value: 205
+Key: 18, Value: 194
+Key: 21, Value: 227
+Key: 20, Value: 216
+Key: 23, Value: 249
+Key: 22, Value: 238
+Key: 25, Value: 271
+Key: 24, Value: 260
+Key: 27, Value: 293
+Key: 26, Value: 282
+Key: 29, Value: 321
+Key: 28, Value: 307
+Key: 31, Value: 346
+Key: 30, Value: 335
+Key: 34, Value: 382
+Key: 35, Value: 396
+Key: 32, Value: 357
+Key: 33, Value: 371
+Key: 38, Value: 438
+Key: 39, Value: 452
+Key: 36, Value: 410
+Key: 37, Value: 424
+Key: 42, Value: 488
+Key: 43, Value: 499
+Key: 40, Value: 463
+Key: 41, Value: 477
+Key: 46, Value: 532
+Key: 47, Value: 543
+Key: 44, Value: 510
+Key: 45, Value: 521
+Key: 51, Value: 587
+Key: 50, Value: 576
+Key: 49, Value: 565
+Key: 48, Value: 554
+Key: 55, Value: 631
+Key: 54, Value: 620
+Key: 53, Value: 609
+Key: 52, Value: 598
+Key: 56, Value: 642
+
+================================================
+                Switch Table 2                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 7
+Key: 2, Value: 13
+Key: 3, Value: 24
+Key: 4, Value: 35
+Key: 5, Value: 46
+Key: 6, Value: 57
+Key: 7, Value: 68
+Key: 8, Value: 79
+Key: 9, Value: 90
+Key: 10, Value: 101
+Key: 11, Value: 112
+Key: 12, Value: 123
+Key: 13, Value: 134
+Key: 14, Value: 145
+Key: 15, Value: 156
+Key: 17, Value: 178
+Key: 16, Value: 167
+Key: 19, Value: 200
+Key: 18, Value: 189
+Key: 21, Value: 222
+Key: 20, Value: 211
+Key: 23, Value: 244
+Key: 22, Value: 233
+Key: 25, Value: 266
+Key: 24, Value: 255
+Key: 27, Value: 288
+Key: 26, Value: 277
+Key: 29, Value: 310
+Key: 28, Value: 299
+
+================================================
+                Switch Table 3                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 7
+Key: 2, Value: 13
+Key: 3, Value: 24
+Key: 4, Value: 35
+Key: 5, Value: 49
+Key: 6, Value: 60
+Key: 7, Value: 71
+Key: 8, Value: 85
+Key: 9, Value: 96
+Key: 10, Value: 107
+Key: 11, Value: 118
+Key: 12, Value: 132
+Key: 13, Value: 143
+Key: 14, Value: 154
+Key: 15, Value: 165
+Key: 17, Value: 187
+Key: 16, Value: 176
+Key: 19, Value: 212
+Key: 18, Value: 201
+Key: 21, Value: 234
+Key: 20, Value: 223
+Key: 23, Value: 259
+Key: 22, Value: 245
+Key: 25, Value: 281
+Key: 24, Value: 270
+Key: 27, Value: 303
+Key: 26, Value: 292
+Key: 29, Value: 325
+Key: 28, Value: 314
+Key: 31, Value: 350
+Key: 30, Value: 336
+Key: 34, Value: 383
+Key: 35, Value: 394
+Key: 32, Value: 361
+Key: 33, Value: 372
+Key: 38, Value: 427
+Key: 39, Value: 438
+Key: 36, Value: 405
+Key: 37, Value: 416
+Key: 40, Value: 449

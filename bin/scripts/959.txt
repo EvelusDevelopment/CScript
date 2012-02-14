@@ -1,0 +1,323 @@
+================================================
+      Client Script 959 Dumped by SiniSoul    
+      Instruction Size: 312
+      Integer Arguments: 9 
+      String  Arguments: 1 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADINT , Operand: 0
+Offset: 1, Unref Method: 102, Operand: 0
+Offset: 2, PUSHI , Operand: 64
+Offset: 3, NEWARRAY , Operand: 73
+Offset: 4, PUSHI , Operand: 0
+Offset: 5, STOREINT , Operand: 3
+Offset: 6, PUSHI , Operand: -1
+Offset: 7, STOREINT , Operand: 4
+Offset: 8, PUSHI , Operand: 0
+Offset: 9, STOREINT , Operand: 5
+Offset: 10, LOADINT , Operand: 5
+Offset: 11, PUSHI , Operand: 64
+Offset: 12, IFLT , Operand: 1
+Offset: 13, GOTO , Operand: 31
+Offset: 14, PUSHI , Operand: 105
+Offset: 15, PUSHI , Operand: 73
+Offset: 16, PUSHI , Operand: 1467
+Offset: 17, LOADINT , Operand: 5
+Offset: 18, Unref Method: 3408, Operand: 0
+Offset: 19, STOREINT , Operand: 4
+Offset: 20, LOADINT , Operand: 4
+Offset: 21, Unref Method: 2602, Operand: 0
+Offset: 22, getStringLength , Operand: 0
+Offset: 23, PUSHI , Operand: 0
+Offset: 24, IFGT , Operand: 1
+Offset: 25, GOTO , Operand: 11
+Offset: 26, PUSHI , Operand: 0
+Offset: 27, LOADINT , Operand: 4
+Offset: 28, Unref Method: 2003, Operand: 0
+Offset: 29, LOADINT , Operand: 3
+Offset: 30, LOADINT , Operand: 4
+Offset: 31, AALOAD , Operand: 0
+Offset: 32, LOADINT , Operand: 3
+Offset: 33, PUSHI , Operand: 1
+Offset: 34, IADD , Operand: 0
+Offset: 35, STOREINT , Operand: 3
+Offset: 36, GOTO , Operand: 3
+Offset: 37, PUSHI , Operand: 1
+Offset: 38, LOADINT , Operand: 4
+Offset: 39, Unref Method: 2003, Operand: 0
+Offset: 40, LOADINT , Operand: 5
+Offset: 41, PUSHI , Operand: 1
+Offset: 42, IADD , Operand: 0
+Offset: 43, STOREINT , Operand: 5
+Offset: 44, GOTO , Operand: -35
+Offset: 45, LOADINT , Operand: 3
+Offset: 46, PUSHI , Operand: 1
+Offset: 47, IFGT , Operand: 1
+Offset: 48, GOTO , Operand: 18
+Offset: 49, LOADINT , Operand: 2
+Offset: 50, PUSHI , Operand: 0
+Offset: 51, IFEQ , Operand: 1
+Offset: 52, GOTO , Operand: 7
+Offset: 53, PUSHI , Operand: 0
+Offset: 54, PUSHI , Operand: 0
+Offset: 55, LOADINT , Operand: 3
+Offset: 56, PUSHI , Operand: 1
+Offset: 57, ISUB , Operand: 0
+Offset: 58, CALL , Operand: 0
+Offset: 59, GOTO , Operand: 7
+Offset: 60, PUSHI , Operand: 0
+Offset: 61, PUSHI , Operand: 0
+Offset: 62, LOADINT , Operand: 3
+Offset: 63, PUSHI , Operand: 1
+Offset: 64, ISUB , Operand: 0
+Offset: 65, PUSHI , Operand: 1466
+Offset: 66, CALL , Operand: 62
+Offset: 67, PUSHI , Operand: 0
+Offset: 68, STOREINT , Operand: 6
+Offset: 69, PUSHI , Operand: 0
+Offset: 70, STOREINT , Operand: 7
+Offset: 71, LOADINT , Operand: 4
+Offset: 72, Unref Method: 2502, Operand: 0
+Offset: 73, STOREINT , Operand: 8
+Offset: 74, PUSHI , Operand: 0
+Offset: 75, STOREINT , Operand: 5
+Offset: 76, LOADINT , Operand: 5
+Offset: 77, LOADINT , Operand: 3
+Offset: 78, IFLT , Operand: 1
+Offset: 79, GOTO , Operand: 69
+Offset: 80, LOADINT , Operand: 5
+Offset: 81, AASTORE , Operand: 0
+Offset: 82, STOREINT , Operand: 4
+Offset: 83, LOADINT , Operand: 4
+Offset: 84, Unref Method: 2602, Operand: 0
+Offset: 85, LOADINT , Operand: 8
+Offset: 86, PUSHI , Operand: 495
+Offset: 87, Unref Method: 4108, Operand: 0
+Offset: 88, STOREINT , Operand: 7
+Offset: 89, PUSHI , Operand: 12
+Offset: 90, LOADINT , Operand: 7
+Offset: 91, IMUL , Operand: 0
+Offset: 92, PUSHI , Operand: 10
+Offset: 93, IADD , Operand: 0
+Offset: 94, STOREINT , Operand: 7
+Offset: 95, PUSHI , Operand: 495
+Offset: 96, LOADINT , Operand: 4
+Offset: 97, Unref Method: 2113, Operand: 0
+Offset: 98, LOADINT , Operand: 8
+Offset: 99, LOADINT , Operand: 7
+Offset: 100, PUSHI , Operand: 0
+Offset: 101, PUSHI , Operand: 0
+Offset: 102, LOADINT , Operand: 4
+Offset: 103, Unref Method: 2001, Operand: 0
+Offset: 104, PUSHI , Operand: 0
+Offset: 105, LOADINT , Operand: 6
+Offset: 106, PUSHI , Operand: 0
+Offset: 107, PUSHI , Operand: 0
+Offset: 108, LOADINT , Operand: 4
+Offset: 109, Unref Method: 2000, Operand: 0
+Offset: 110, LOADINT , Operand: 0
+Offset: 111, PUSHI , Operand: 4
+Offset: 112, LOADINT , Operand: 5
+Offset: 113, Unref Method: 100, Operand: 0
+Offset: 114, LOADINT , Operand: 8
+Offset: 115, LOADINT , Operand: 7
+Offset: 116, PUSHI , Operand: 0
+Offset: 117, PUSHI , Operand: 0
+Offset: 118, Unref Method: 1001, Operand: 0
+Offset: 119, PUSHI , Operand: 0
+Offset: 120, LOADINT , Operand: 6
+Offset: 121, PUSHI , Operand: 0
+Offset: 122, PUSHI , Operand: 0
+Offset: 123, Unref Method: 1000, Operand: 0
+Offset: 124, PUSHI , Operand: 495
+Offset: 125, Unref Method: 1113, Operand: 0
+Offset: 126, PUSHI , Operand: 14618383
+Offset: 127, Unref Method: 1101, Operand: 0
+Offset: 128, PUSHI , Operand: 1
+Offset: 129, Unref Method: 1115, Operand: 0
+Offset: 130, PUSHI , Operand: 0
+Offset: 131, PUSHI , Operand: 0
+Offset: 132, PUSHI , Operand: 0
+Offset: 133, Unref Method: 1114, Operand: 0
+Offset: 134, PUSHI , Operand: 73
+Offset: 135, PUSHI , Operand: 115
+Offset: 136, PUSHI , Operand: 1466
+Offset: 137, LOADINT , Operand: 4
+Offset: 138, Unref Method: 3408, Operand: 0
+Offset: 139, Unref Method: 1112, Operand: 0
+Offset: 140, LOADINT , Operand: 6
+Offset: 141, LOADINT , Operand: 7
+Offset: 142, IADD , Operand: 0
+Offset: 143, STOREINT , Operand: 6
+Offset: 144, LOADINT , Operand: 5
+Offset: 145, PUSHI , Operand: 1
+Offset: 146, IADD , Operand: 0
+Offset: 147, STOREINT , Operand: 5
+Offset: 148, GOTO , Operand: -73
+Offset: 149, PUSHI , Operand: 105
+Offset: 150, PUSHI , Operand: 73
+Offset: 151, PUSHI , Operand: 1467
+Offset: 152, PUSHI , Operand: 64
+Offset: 153, Unref Method: 3408, Operand: 0
+Offset: 154, STOREINT , Operand: 4
+Offset: 155, LOADINT , Operand: 4
+Offset: 156, Unref Method: 2602, Operand: 0
+Offset: 157, STORESTR , Operand: 0
+Offset: 158, LOADSTR , Operand: 0
+Offset: 159, getStringLength , Operand: 0
+Offset: 160, PUSHI , Operand: 0
+Offset: 161, IFGT , Operand: 1
+Offset: 162, GOTO , Operand: 39
+Offset: 163, LOADINT , Operand: 6
+Offset: 164, PUSHI , Operand: 0
+Offset: 165, IFGT , Operand: 1
+Offset: 166, GOTO , Operand: 4
+Offset: 167, LOADINT , Operand: 6
+Offset: 168, PUSHI , Operand: 5
+Offset: 169, IADD , Operand: 0
+Offset: 170, STOREINT , Operand: 6
+Offset: 171, LOADSTR , Operand: 0
+Offset: 172, LOADINT , Operand: 8
+Offset: 173, PUSHI , Operand: 495
+Offset: 174, Unref Method: 4108, Operand: 0
+Offset: 175, STOREINT , Operand: 7
+Offset: 176, PUSHI , Operand: 12
+Offset: 177, LOADINT , Operand: 7
+Offset: 178, IMUL , Operand: 0
+Offset: 179, PUSHI , Operand: 5
+Offset: 180, IADD , Operand: 0
+Offset: 181, STOREINT , Operand: 7
+Offset: 182, LOADINT , Operand: 8
+Offset: 183, LOADINT , Operand: 7
+Offset: 184, PUSHI , Operand: 0
+Offset: 185, PUSHI , Operand: 0
+Offset: 186, LOADINT , Operand: 4
+Offset: 187, Unref Method: 2001, Operand: 0
+Offset: 188, PUSHI , Operand: 0
+Offset: 189, LOADINT , Operand: 6
+Offset: 190, PUSHI , Operand: 0
+Offset: 191, PUSHI , Operand: 0
+Offset: 192, LOADINT , Operand: 4
+Offset: 193, Unref Method: 2000, Operand: 0
+Offset: 194, PUSHI , Operand: 0
+Offset: 195, LOADINT , Operand: 4
+Offset: 196, Unref Method: 2003, Operand: 0
+Offset: 197, LOADINT , Operand: 6
+Offset: 198, LOADINT , Operand: 7
+Offset: 199, IADD , Operand: 0
+Offset: 200, STOREINT , Operand: 6
+Offset: 201, GOTO , Operand: 3
+Offset: 202, PUSHI , Operand: 1
+Offset: 203, LOADINT , Operand: 4
+Offset: 204, Unref Method: 2003, Operand: 0
+Offset: 205, PUSHI , Operand: 105
+Offset: 206, PUSHI , Operand: 73
+Offset: 207, PUSHI , Operand: 1467
+Offset: 208, PUSHI , Operand: 65
+Offset: 209, Unref Method: 3408, Operand: 0
+Offset: 210, STOREINT , Operand: 4
+Offset: 211, LOADINT , Operand: 4
+Offset: 212, Unref Method: 2602, Operand: 0
+Offset: 213, STORESTR , Operand: 0
+Offset: 214, LOADSTR , Operand: 0
+Offset: 215, getStringLength , Operand: 0
+Offset: 216, PUSHI , Operand: 0
+Offset: 217, IFGT , Operand: 1
+Offset: 218, GOTO , Operand: 39
+Offset: 219, LOADINT , Operand: 6
+Offset: 220, PUSHI , Operand: 0
+Offset: 221, IFGT , Operand: 1
+Offset: 222, GOTO , Operand: 4
+Offset: 223, LOADINT , Operand: 6
+Offset: 224, PUSHI , Operand: 5
+Offset: 225, IADD , Operand: 0
+Offset: 226, STOREINT , Operand: 6
+Offset: 227, LOADSTR , Operand: 0
+Offset: 228, LOADINT , Operand: 8
+Offset: 229, PUSHI , Operand: 495
+Offset: 230, Unref Method: 4108, Operand: 0
+Offset: 231, STOREINT , Operand: 7
+Offset: 232, PUSHI , Operand: 12
+Offset: 233, LOADINT , Operand: 7
+Offset: 234, IMUL , Operand: 0
+Offset: 235, PUSHI , Operand: 5
+Offset: 236, IADD , Operand: 0
+Offset: 237, STOREINT , Operand: 7
+Offset: 238, LOADINT , Operand: 8
+Offset: 239, LOADINT , Operand: 7
+Offset: 240, PUSHI , Operand: 0
+Offset: 241, PUSHI , Operand: 0
+Offset: 242, LOADINT , Operand: 4
+Offset: 243, Unref Method: 2001, Operand: 0
+Offset: 244, PUSHI , Operand: 0
+Offset: 245, LOADINT , Operand: 6
+Offset: 246, PUSHI , Operand: 0
+Offset: 247, PUSHI , Operand: 0
+Offset: 248, LOADINT , Operand: 4
+Offset: 249, Unref Method: 2000, Operand: 0
+Offset: 250, PUSHI , Operand: 0
+Offset: 251, LOADINT , Operand: 4
+Offset: 252, Unref Method: 2003, Operand: 0
+Offset: 253, LOADINT , Operand: 6
+Offset: 254, LOADINT , Operand: 7
+Offset: 255, IADD , Operand: 0
+Offset: 256, STOREINT , Operand: 6
+Offset: 257, GOTO , Operand: 3
+Offset: 258, PUSHI , Operand: 1
+Offset: 259, LOADINT , Operand: 4
+Offset: 260, Unref Method: 2003, Operand: 0
+Offset: 261, LOADINT , Operand: 8
+Offset: 262, LOADINT , Operand: 6
+Offset: 263, LOADINT , Operand: 0
+Offset: 264, Unref Method: 2120, Operand: 0
+Offset: 265, LOADINT , Operand: 6
+Offset: 266, LOADINT , Operand: 0
+Offset: 267, Unref Method: 2503, Operand: 0
+Offset: 268, IFGT , Operand: 1
+Offset: 269, GOTO , Operand: 28
+Offset: 270, PUSHI , Operand: 3
+Offset: 271, LOADINT , Operand: 0
+Offset: 272, Unref Method: 2501, Operand: 0
+Offset: 273, PUSHI , Operand: 0
+Offset: 274, PUSHI , Operand: 0
+Offset: 275, LOADINT , Operand: 0
+Offset: 276, Unref Method: 2000, Operand: 0
+Offset: 277, LOADINT , Operand: 1
+Offset: 278, LOADINT , Operand: 0
+Offset: 279, PUSHI , Operand: 792
+Offset: 280, PUSHI , Operand: 789
+Offset: 281, PUSHI , Operand: 790
+Offset: 282, PUSHI , Operand: 791
+Offset: 283, PUSHI , Operand: 773
+Offset: 284, PUSHI , Operand: 788
+Offset: 285, CALL , Operand: 31
+Offset: 286, LOADINT , Operand: 1
+Offset: 287, PUSHI , Operand: 1
+Offset: 288, Unref Method: 200, Operand: 0
+Offset: 289, PUSHI , Operand: 1
+Offset: 290, IFEQ , Operand: 1
+Offset: 291, GOTO , Operand: 5
+Offset: 292, LOADINT , Operand: 1
+Offset: 293, LOADINT , Operand: 0
+Offset: 294, LOADGINT , Operand: 121
+Offset: 295, PUSHI , Operand: 1
+Offset: 296, CALL , Operand: 157
+Offset: 297, GOTO , Operand: 13
+Offset: 298, PUSHI , Operand: 0
+Offset: 299, PUSHI , Operand: 0
+Offset: 300, LOADINT , Operand: 0
+Offset: 301, Unref Method: 2100, Operand: 0
+Offset: 302, PUSHI , Operand: 0
+Offset: 303, STOREGINT , Operand: 121
+Offset: 304, PUSHI , Operand: 12
+Offset: 305, LOADINT , Operand: 0
+Offset: 306, Unref Method: 2501, Operand: 0
+Offset: 307, PUSHI , Operand: 0
+Offset: 308, PUSHI , Operand: 0
+Offset: 309, LOADINT , Operand: 0
+Offset: 310, Unref Method: 2000, Operand: 0
+Offset: 311, RETURN , Operand: 0

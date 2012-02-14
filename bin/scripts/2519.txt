@@ -1,0 +1,92 @@
+================================================
+      Client Script 2519 Dumped by SiniSoul    
+      Instruction Size: 71
+      Integer Arguments: 2 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, CALL , Operand: 2520
+Offset: 1, STOREINT , Operand: 1
+Offset: 2, LOADINT , Operand: 0
+Offset: 3, SWITCH , Operand: 0
+Offset: 4, GOTO , Operand: 64
+Offset: 5, LOADGINT , Operand: 847
+Offset: 6, PUSHI , Operand: 0
+Offset: 7, IFGT , Operand: 1
+Offset: 8, GOTO , Operand: 8
+Offset: 9, LOADGINT , Operand: 847
+Offset: 10, PUSHI , Operand: 1
+Offset: 11, ISUB , Operand: 0
+Offset: 12, STOREGINT , Operand: 847
+Offset: 13, LOADGINT , Operand: 847
+Offset: 14, integerToString , Operand: 0
+Offset: 15, PUSHI , Operand: 42860557
+Offset: 16, Unref Method: 2112, Operand: 0
+Offset: 17, GOTO , Operand: 51
+Offset: 18, LOADGINT , Operand: 848
+Offset: 19, PUSHI , Operand: 0
+Offset: 20, IFGT , Operand: 1
+Offset: 21, GOTO , Operand: 8
+Offset: 22, LOADGINT , Operand: 848
+Offset: 23, PUSHI , Operand: 1
+Offset: 24, ISUB , Operand: 0
+Offset: 25, STOREGINT , Operand: 848
+Offset: 26, LOADGINT , Operand: 848
+Offset: 27, integerToString , Operand: 0
+Offset: 28, PUSHI , Operand: 42860605
+Offset: 29, Unref Method: 2112, Operand: 0
+Offset: 30, GOTO , Operand: 38
+Offset: 31, LOADGINT , Operand: 849
+Offset: 32, PUSHI , Operand: 0
+Offset: 33, IFGT , Operand: 1
+Offset: 34, GOTO , Operand: 8
+Offset: 35, LOADGINT , Operand: 849
+Offset: 36, PUSHI , Operand: 1
+Offset: 37, ISUB , Operand: 0
+Offset: 38, STOREGINT , Operand: 849
+Offset: 39, LOADGINT , Operand: 849
+Offset: 40, integerToString , Operand: 0
+Offset: 41, PUSHI , Operand: 42860597
+Offset: 42, Unref Method: 2112, Operand: 0
+Offset: 43, GOTO , Operand: 25
+Offset: 44, LOADGINT , Operand: 850
+Offset: 45, PUSHI , Operand: 0
+Offset: 46, IFGT , Operand: 1
+Offset: 47, GOTO , Operand: 8
+Offset: 48, LOADGINT , Operand: 850
+Offset: 49, PUSHI , Operand: 1
+Offset: 50, ISUB , Operand: 0
+Offset: 51, STOREGINT , Operand: 850
+Offset: 52, LOADGINT , Operand: 850
+Offset: 53, integerToString , Operand: 0
+Offset: 54, PUSHI , Operand: 42860589
+Offset: 55, Unref Method: 2112, Operand: 0
+Offset: 56, GOTO , Operand: 12
+Offset: 57, LOADGINT , Operand: 851
+Offset: 58, PUSHI , Operand: 0
+Offset: 59, IFGT , Operand: 1
+Offset: 60, GOTO , Operand: 8
+Offset: 61, LOADGINT , Operand: 851
+Offset: 62, PUSHI , Operand: 1
+Offset: 63, ISUB , Operand: 0
+Offset: 64, STOREGINT , Operand: 851
+Offset: 65, LOADGINT , Operand: 851
+Offset: 66, integerToString , Operand: 0
+Offset: 67, PUSHI , Operand: 42860614
+Offset: 68, Unref Method: 2112, Operand: 0
+Offset: 69, CALL , Operand: 2517
+Offset: 70, RETURN , Operand: 0
+
+================================================
+                Switch Table 0                
+================================================
+
+Key: 42860598, Value: 27
+Key: 42860606, Value: 14
+Key: 42860590, Value: 40
+Key: 42860558, Value: 1
+Key: 42860615, Value: 53

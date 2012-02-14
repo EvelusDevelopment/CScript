@@ -1,0 +1,328 @@
+================================================
+      Client Script 1221 Dumped by SiniSoul    
+      Instruction Size: 243
+      Integer Arguments: 3 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADGINT , Operand: 174
+Offset: 1, PUSHI , Operand: 11
+Offset: 2, IFEQ , Operand: 1
+Offset: 3, GOTO , Operand: 1
+Offset: 4, RETURN , Operand: 0
+Offset: 5, CALL , Operand: 2948
+Offset: 6, STOREINT , Operand: 2
+Offset: 7, LOADGINT , Operand: 174
+Offset: 8, SWITCH , Operand: 0
+Offset: 9, GOTO , Operand: 232
+Offset: 10, LOADINT , Operand: 0
+Offset: 11, PUSHI , Operand: 13
+Offset: 12, IFEQ , Operand: 1
+Offset: 13, GOTO , Operand: 3
+Offset: 14, PUSHI , Operand: 0
+Offset: 15, CALL , Operand: 2936
+Offset: 16, RETURN , Operand: 0
+Offset: 17, RETURN , Operand: 0
+Offset: 18, GOTO , Operand: 223
+Offset: 19, LOADINT , Operand: 2
+Offset: 20, SWITCH , Operand: 1
+Offset: 21, GOTO , Operand: 1
+Offset: 22, RETURN , Operand: 0
+Offset: 23, LOADINT , Operand: 0
+Offset: 24, PUSHI , Operand: 13
+Offset: 25, IFEQ , Operand: 1
+Offset: 26, GOTO , Operand: 3
+Offset: 27, PUSHI , Operand: 1
+Offset: 28, CALL , Operand: 1174
+Offset: 29, RETURN , Operand: 0
+Offset: 30, RETURN , Operand: 0
+Offset: 31, GOTO , Operand: 210
+Offset: 32, LOADINT , Operand: 2
+Offset: 33, SWITCH , Operand: 2
+Offset: 34, GOTO , Operand: 1
+Offset: 35, RETURN , Operand: 0
+Offset: 36, LOADINT , Operand: 0
+Offset: 37, SWITCH , Operand: 3
+Offset: 38, GOTO , Operand: 36
+Offset: 39, PUSHI , Operand: 1
+Offset: 40, CALL , Operand: 1174
+Offset: 41, RETURN , Operand: 0
+Offset: 42, GOTO , Operand: 32
+Offset: 43, LOADGINT , Operand: 175
+Offset: 44, Unref Method: 3300, Operand: 0
+Offset: 45, IFGTEQ , Operand: 1
+Offset: 46, GOTO , Operand: 1
+Offset: 47, RETURN , Operand: 0
+Offset: 48, PUSHI , Operand: 4
+Offset: 49, STOREGINT , Operand: 174
+Offset: 50, Unref Method: 3300, Operand: 0
+Offset: 51, STOREGINT , Operand: 175
+Offset: 52, LOADGSTR , Operand: 33
+Offset: 53, CALL , Operand: 2949
+Offset: 54, getStringLength , Operand: 0
+Offset: 55, STOREGINT , Operand: 1099
+Offset: 56, PUSHI , Operand: 39059547
+Offset: 57, PUSHI , Operand: 39059548
+Offset: 58, LOADGSTR , Operand: 33
+Offset: 59, CALL , Operand: 2949
+Offset: 60, PUSHI , Operand: 4
+Offset: 61, CALL , Operand: 3237
+Offset: 62, RETURN , Operand: 0
+Offset: 63, GOTO , Operand: 11
+Offset: 64, LOADINT , Operand: 0
+Offset: 65, LOADGINT , Operand: 1099
+Offset: 66, LOADGSTR , Operand: 32
+Offset: 67, CALL , Operand: 1553
+Offset: 68, STOREGINT , Operand: 1099
+Offset: 69, PUSHI , Operand: 39059527
+Offset: 70, PUSHI , Operand: 39059528
+Offset: 71, LOADGSTR , Operand: 32
+Offset: 72, PUSHI , Operand: 3
+Offset: 73, CALL , Operand: 3237
+Offset: 74, RETURN , Operand: 0
+Offset: 75, LOADGSTR , Operand: 32
+Offset: 76, getStringLength , Operand: 0
+Offset: 77, PUSHI , Operand: 12
+Offset: 78, IFGTEQ , Operand: 1
+Offset: 79, GOTO , Operand: 7
+Offset: 80, LOADINT , Operand: 0
+Offset: 81, PUSHI , Operand: 85
+Offset: 82, IFNE , Operand: 1
+Offset: 83, GOTO , Operand: 3
+Offset: 84, LOADINT , Operand: 0
+Offset: 85, PUSHI , Operand: 101
+Offset: 86, IFNE , Operand: 8
+Offset: 87, PUSHS , Operand: 
+Offset: 88, LOADINT , Operand: 1
+Offset: 89, concatStrAndChar , Operand: 0
+Offset: 90, discludeTagsInString , Operand: 0
+Offset: 91, getStringLength , Operand: 0
+Offset: 92, PUSHI , Operand: 0
+Offset: 93, IFEQ , Operand: 1
+Offset: 94, GOTO , Operand: 1
+Offset: 95, RETURN , Operand: 0
+Offset: 96, LOADGINT , Operand: 1099
+Offset: 97, LOADGSTR , Operand: 32
+Offset: 98, PUSHI , Operand: 0
+Offset: 99, LOADINT , Operand: 0
+Offset: 100, LOADINT , Operand: 1
+Offset: 101, CALL , Operand: 802
+Offset: 102, STOREGINT , Operand: 1099
+Offset: 103, STOREGSTR , Operand: 32
+Offset: 104, LOADGSTR , Operand: 32
+Offset: 105, PUSHI , Operand: 39059527
+Offset: 106, Unref Method: 2112, Operand: 0
+Offset: 107, PUSHI , Operand: 39059527
+Offset: 108, PUSHI , Operand: 39059528
+Offset: 109, LOADGSTR , Operand: 32
+Offset: 110, PUSHI , Operand: 3
+Offset: 111, CALL , Operand: 3237
+Offset: 112, RETURN , Operand: 0
+Offset: 113, GOTO , Operand: 128
+Offset: 114, LOADINT , Operand: 2
+Offset: 115, SWITCH , Operand: 4
+Offset: 116, GOTO , Operand: 1
+Offset: 117, RETURN , Operand: 0
+Offset: 118, LOADINT , Operand: 0
+Offset: 119, SWITCH , Operand: 5
+Offset: 120, GOTO , Operand: 47
+Offset: 121, PUSHI , Operand: 1
+Offset: 122, CALL , Operand: 1174
+Offset: 123, RETURN , Operand: 0
+Offset: 124, GOTO , Operand: 43
+Offset: 125, LOADGINT , Operand: 175
+Offset: 126, Unref Method: 3300, Operand: 0
+Offset: 127, IFGTEQ , Operand: 1
+Offset: 128, GOTO , Operand: 1
+Offset: 129, RETURN , Operand: 0
+Offset: 130, LOADINT , Operand: 0
+Offset: 131, PUSHI , Operand: 84
+Offset: 132, IFEQ , Operand: 1
+Offset: 133, GOTO , Operand: 7
+Offset: 134, LOADGSTR , Operand: 32
+Offset: 135, getStringLength , Operand: 0
+Offset: 136, PUSHI , Operand: 0
+Offset: 137, IFGT , Operand: 1
+Offset: 138, GOTO , Operand: 2
+Offset: 139, CALL , Operand: 2945
+Offset: 140, RETURN , Operand: 0
+Offset: 141, PUSHI , Operand: 3
+Offset: 142, STOREGINT , Operand: 174
+Offset: 143, Unref Method: 3300, Operand: 0
+Offset: 144, STOREGINT , Operand: 175
+Offset: 145, LOADGSTR , Operand: 32
+Offset: 146, getStringLength , Operand: 0
+Offset: 147, STOREGINT , Operand: 1099
+Offset: 148, PUSHI , Operand: 39059527
+Offset: 149, PUSHI , Operand: 39059528
+Offset: 150, LOADGSTR , Operand: 32
+Offset: 151, PUSHI , Operand: 3
+Offset: 152, CALL , Operand: 3237
+Offset: 153, RETURN , Operand: 0
+Offset: 154, GOTO , Operand: 13
+Offset: 155, LOADINT , Operand: 0
+Offset: 156, LOADGINT , Operand: 1099
+Offset: 157, LOADGSTR , Operand: 33
+Offset: 158, CALL , Operand: 2949
+Offset: 159, CALL , Operand: 1553
+Offset: 160, STOREGINT , Operand: 1099
+Offset: 161, PUSHI , Operand: 39059547
+Offset: 162, PUSHI , Operand: 39059548
+Offset: 163, LOADGSTR , Operand: 33
+Offset: 164, CALL , Operand: 2949
+Offset: 165, PUSHI , Operand: 4
+Offset: 166, CALL , Operand: 3237
+Offset: 167, RETURN , Operand: 0
+Offset: 168, LOADGSTR , Operand: 33
+Offset: 169, getStringLength , Operand: 0
+Offset: 170, PUSHI , Operand: 20
+Offset: 171, IFGTEQ , Operand: 1
+Offset: 172, GOTO , Operand: 9
+Offset: 173, LOADINT , Operand: 0
+Offset: 174, PUSHI , Operand: 85
+Offset: 175, IFNE , Operand: 1
+Offset: 176, GOTO , Operand: 5
+Offset: 177, LOADINT , Operand: 0
+Offset: 178, PUSHI , Operand: 101
+Offset: 179, IFNE , Operand: 1
+Offset: 180, GOTO , Operand: 1
+Offset: 181, RETURN , Operand: 0
+Offset: 182, LOADGINT , Operand: 1099
+Offset: 183, LOADGSTR , Operand: 33
+Offset: 184, PUSHI , Operand: 0
+Offset: 185, LOADINT , Operand: 0
+Offset: 186, LOADINT , Operand: 1
+Offset: 187, CALL , Operand: 802
+Offset: 188, STOREGINT , Operand: 1099
+Offset: 189, STOREGSTR , Operand: 33
+Offset: 190, LOADGSTR , Operand: 33
+Offset: 191, CALL , Operand: 2949
+Offset: 192, PUSHI , Operand: 39059547
+Offset: 193, Unref Method: 2112, Operand: 0
+Offset: 194, PUSHI , Operand: 39059547
+Offset: 195, PUSHI , Operand: 39059548
+Offset: 196, LOADGSTR , Operand: 33
+Offset: 197, CALL , Operand: 2949
+Offset: 198, PUSHI , Operand: 4
+Offset: 199, CALL , Operand: 3237
+Offset: 200, RETURN , Operand: 0
+Offset: 201, GOTO , Operand: 40
+Offset: 202, LOADINT , Operand: 2
+Offset: 203, SWITCH , Operand: 6
+Offset: 204, GOTO , Operand: 1
+Offset: 205, RETURN , Operand: 0
+Offset: 206, LOADINT , Operand: 2
+Offset: 207, PUSHI , Operand: 21
+Offset: 208, IFEQ , Operand: 1
+Offset: 209, GOTO , Operand: 7
+Offset: 210, LOADINT , Operand: 0
+Offset: 211, PUSHI , Operand: 13
+Offset: 212, IFEQ , Operand: 1
+Offset: 213, GOTO , Operand: 3
+Offset: 214, CALL , Operand: 3235
+Offset: 215, RETURN , Operand: 0
+Offset: 216, GOTO , Operand: 6
+Offset: 217, LOADINT , Operand: 0
+Offset: 218, PUSHI , Operand: 13
+Offset: 219, IFEQ , Operand: 1
+Offset: 220, GOTO , Operand: 2
+Offset: 221, CALL , Operand: 2954
+Offset: 222, RETURN , Operand: 0
+Offset: 223, RETURN , Operand: 0
+Offset: 224, GOTO , Operand: 17
+Offset: 225, LOADINT , Operand: 0
+Offset: 226, CALL , Operand: 2222
+Offset: 227, RETURN , Operand: 0
+Offset: 228, GOTO , Operand: 13
+Offset: 229, LOADINT , Operand: 0
+Offset: 230, LOADINT , Operand: 1
+Offset: 231, CALL , Operand: 3216
+Offset: 232, RETURN , Operand: 0
+Offset: 233, GOTO , Operand: 8
+Offset: 234, LOADINT , Operand: 0
+Offset: 235, PUSHI , Operand: 13
+Offset: 236, IFEQ , Operand: 1
+Offset: 237, GOTO , Operand: 3
+Offset: 238, LOADGINT , Operand: 1091
+Offset: 239, CALL , Operand: 1174
+Offset: 240, RETURN , Operand: 0
+Offset: 241, RETURN , Operand: 0
+Offset: 242, RETURN , Operand: 0
+
+================================================
+                Switch Table 0                
+================================================
+
+Key: 2, Value: 10
+Key: 3, Value: 23
+Key: 4, Value: 105
+Key: 5, Value: 193
+Key: 6, Value: 220
+Key: 7, Value: 220
+Key: 8, Value: 220
+Key: 10, Value: 216
+Key: 12, Value: 1
+Key: 13, Value: 225
+
+================================================
+                Switch Table 1                
+================================================
+
+Key: 21, Value: 1
+Key: 1, Value: 1
+Key: -3, Value: 1
+
+================================================
+                Switch Table 2                
+================================================
+
+Key: 21, Value: 1
+Key: 1, Value: 1
+Key: -3, Value: 1
+
+================================================
+                Switch Table 3                
+================================================
+
+Key: 102, Value: 26
+Key: 103, Value: 26
+Key: 84, Value: 5
+Key: 98, Value: 26
+Key: 99, Value: 26
+Key: 80, Value: 5
+Key: 96, Value: 26
+Key: 97, Value: 26
+Key: 13, Value: 1
+
+================================================
+                Switch Table 4                
+================================================
+
+Key: 21, Value: 1
+Key: 1, Value: 1
+Key: -3, Value: 1
+
+================================================
+                Switch Table 5                
+================================================
+
+Key: 102, Value: 35
+Key: 103, Value: 35
+Key: 84, Value: 5
+Key: 98, Value: 35
+Key: 99, Value: 35
+Key: 80, Value: 5
+Key: 96, Value: 35
+Key: 97, Value: 35
+Key: 13, Value: 1
+
+================================================
+                Switch Table 6                
+================================================
+
+Key: -3, Value: 1
+Key: 1, Value: 1

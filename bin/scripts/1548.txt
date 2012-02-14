@@ -1,0 +1,36 @@
+================================================
+      Client Script 1548 Dumped by SiniSoul    
+      Instruction Size: 25
+      Integer Arguments: 1 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADINT , Operand: 0
+Offset: 1, PUSHI , Operand: 0
+Offset: 2, IFEQ , Operand: 4
+Offset: 3, LOADINT , Operand: 0
+Offset: 4, LOADGINT , Operand: 5
+Offset: 5, IFEQ , Operand: 1
+Offset: 6, GOTO , Operand: 12
+Offset: 7, PUSHI , Operand: 1
+Offset: 8, PUSHI , Operand: 49283075
+Offset: 9, Unref Method: 2003, Operand: 0
+Offset: 10, PUSHI , Operand: 1
+Offset: 11, PUSHI , Operand: 49283079
+Offset: 12, Unref Method: 2003, Operand: 0
+Offset: 13, PUSHI , Operand: 0
+Offset: 14, PUSHI , Operand: 49283080
+Offset: 15, Unref Method: 2003, Operand: 0
+Offset: 16, CALL , Operand: 2026
+Offset: 17, PUSHI , Operand: 0
+Offset: 18, STOREGINT , Operand: 5
+Offset: 19, Unref Method: 5306, Operand: 0
+Offset: 20, PUSHI , Operand: 2
+Offset: 21, IFGTEQ , Operand: 1
+Offset: 22, GOTO , Operand: 1
+Offset: 23, CALL , Operand: 1364
+Offset: 24, RETURN , Operand: 0

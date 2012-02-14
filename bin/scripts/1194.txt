@@ -1,0 +1,47 @@
+================================================
+      Client Script 1194 Dumped by SiniSoul    
+      Instruction Size: 36
+      Integer Arguments: 2 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADGINT , Operand: 1002
+Offset: 1, PUSHI , Operand: -1
+Offset: 2, IFEQ , Operand: 1
+Offset: 3, GOTO , Operand: 1
+Offset: 4, RETURN , Operand: 0
+Offset: 5, LOADGINT , Operand: 1002
+Offset: 6, Unref Method: 3309, Operand: 0
+Offset: 7, Unref Method: 3308, Operand: 0
+Offset: 8, Unref Method: 3309, Operand: 0
+Offset: 9, ISUB , Operand: 0
+Offset: 10, STOREINT , Operand: 0
+Offset: 11, LOADINT , Operand: 0
+Offset: 12, PUSHI , Operand: 10
+Offset: 13, IFGT , Operand: 4
+Offset: 14, LOADINT , Operand: 0
+Offset: 15, PUSHI , Operand: -10
+Offset: 16, IFLT , Operand: 1
+Offset: 17, GOTO , Operand: 1
+Offset: 18, RETURN , Operand: 0
+Offset: 19, LOADGINT , Operand: 1002
+Offset: 20, Unref Method: 3311, Operand: 0
+Offset: 21, Unref Method: 3308, Operand: 0
+Offset: 22, Unref Method: 3311, Operand: 0
+Offset: 23, ISUB , Operand: 0
+Offset: 24, STOREINT , Operand: 1
+Offset: 25, LOADINT , Operand: 1
+Offset: 26, PUSHI , Operand: 10
+Offset: 27, IFGT , Operand: 4
+Offset: 28, LOADINT , Operand: 1
+Offset: 29, PUSHI , Operand: -10
+Offset: 30, IFLT , Operand: 1
+Offset: 31, GOTO , Operand: 1
+Offset: 32, RETURN , Operand: 0
+Offset: 33, LOADGINT , Operand: 1002
+Offset: 34, Unref Method: 5511, Operand: 0
+Offset: 35, RETURN , Operand: 0

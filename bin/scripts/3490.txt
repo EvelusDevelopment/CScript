@@ -1,0 +1,48 @@
+================================================
+      Client Script 3490 Dumped by SiniSoul    
+      Instruction Size: 28
+      Integer Arguments: 2 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADINT , Operand: 0
+Offset: 1, STOREINT , Operand: 1
+Offset: 2, LOADINT , Operand: 0
+Offset: 3, SWITCH , Operand: 0
+Offset: 4, GOTO , Operand: 11
+Offset: 5, PUSHI , Operand: 65077505
+Offset: 6, STOREINT , Operand: 1
+Offset: 7, GOTO , Operand: 8
+Offset: 8, PUSHI , Operand: 65077490
+Offset: 9, STOREINT , Operand: 1
+Offset: 10, GOTO , Operand: 5
+Offset: 11, PUSHI , Operand: 65077475
+Offset: 12, STOREINT , Operand: 1
+Offset: 13, GOTO , Operand: 2
+Offset: 14, PUSHI , Operand: 65077460
+Offset: 15, STOREINT , Operand: 1
+Offset: 16, LOADINT , Operand: 1
+Offset: 17, Unref Method: 2609, Operand: 0
+Offset: 18, PUSHI , Operand: 220
+Offset: 19, IFGT , Operand: 1
+Offset: 20, GOTO , Operand: 6
+Offset: 21, LOADINT , Operand: 1
+Offset: 22, Unref Method: 2609, Operand: 0
+Offset: 23, PUSHI , Operand: 2
+Offset: 24, ISUB , Operand: 0
+Offset: 25, LOADINT , Operand: 1
+Offset: 26, Unref Method: 2103, Operand: 0
+Offset: 27, RETURN , Operand: 0
+
+================================================
+                Switch Table 0                
+================================================
+
+Key: 65077434, Value: 7
+Key: 65077435, Value: 10
+Key: 65077432, Value: 1
+Key: 65077433, Value: 4

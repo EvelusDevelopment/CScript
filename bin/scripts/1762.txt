@@ -1,0 +1,37 @@
+================================================
+      Client Script 1762 Dumped by SiniSoul    
+      Instruction Size: 26
+      Integer Arguments: 1 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADGINT , Operand: 231
+Offset: 1, PUSHI , Operand: 6
+Offset: 2, IFGT , Operand: 1
+Offset: 3, GOTO , Operand: 10
+Offset: 4, PUSHS , Operand: Time Left : 
+Offset: 5, LOADGINT , Operand: 231
+Offset: 6, PUSHI , Operand: 5
+Offset: 7, ISUB , Operand: 0
+Offset: 8, integerToString , Operand: 0
+Offset: 9, PUSHS , Operand:  mins
+Offset: 10, CONCAT , Operand: 3
+Offset: 11, LOADINT , Operand: 0
+Offset: 12, Unref Method: 2112, Operand: 0
+Offset: 13, GOTO , Operand: 11
+Offset: 14, LOADGINT , Operand: 231
+Offset: 15, PUSHI , Operand: 6
+Offset: 16, IFEQ , Operand: 1
+Offset: 17, GOTO , Operand: 4
+Offset: 18, PUSHS , Operand: Time Left : 1 min
+Offset: 19, LOADINT , Operand: 0
+Offset: 20, Unref Method: 2112, Operand: 0
+Offset: 21, GOTO , Operand: 3
+Offset: 22, PUSHS , Operand: Time Left : 0 mins
+Offset: 23, LOADINT , Operand: 0
+Offset: 24, Unref Method: 2112, Operand: 0
+Offset: 25, RETURN , Operand: 0

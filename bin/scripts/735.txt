@@ -1,0 +1,22 @@
+================================================
+      Client Script 735 Dumped by SiniSoul    
+      Instruction Size: 11
+      Integer Arguments: 4 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADINT , Operand: 0
+Offset: 1, CALL , Operand: 41
+Offset: 2, LOADINT , Operand: 1
+Offset: 3, LOADINT , Operand: 2
+Offset: 4, Unref Method: 200, Operand: 0
+Offset: 5, PUSHI , Operand: 1
+Offset: 6, IFEQ , Operand: 1
+Offset: 7, GOTO , Operand: 2
+Offset: 8, LOADINT , Operand: 3
+Offset: 9, Unref Method: 1105, Operand: 0
+Offset: 10, RETURN , Operand: 0

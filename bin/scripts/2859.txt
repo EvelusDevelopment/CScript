@@ -1,0 +1,26 @@
+================================================
+      Client Script 2859 Dumped by SiniSoul    
+      Instruction Size: 15
+      Integer Arguments: 0 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADGINT , Operand: 1069
+Offset: 1, PUSHI , Operand: 100
+Offset: 2, IFGTEQ , Operand: 1
+Offset: 3, GOTO , Operand: 4
+Offset: 4, LOADGINT , Operand: 1069
+Offset: 5, PUSHI , Operand: 50
+Offset: 6, ISUB , Operand: 0
+Offset: 7, STOREGINT , Operand: 1069
+Offset: 8, LOADGINT , Operand: 1073
+Offset: 9, LOADGINT , Operand: 1069
+Offset: 10, IFGT , Operand: 1
+Offset: 11, GOTO , Operand: 2
+Offset: 12, LOADGINT , Operand: 1069
+Offset: 13, STOREGINT , Operand: 1073
+Offset: 14, RETURN , Operand: 0

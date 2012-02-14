@@ -1,0 +1,38 @@
+================================================
+      Client Script 2357 Dumped by SiniSoul    
+      Instruction Size: 27
+      Integer Arguments: 1 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, Unref Method: 3327, Operand: 0
+Offset: 1, PUSHI , Operand: 1
+Offset: 2, IFEQ , Operand: 1
+Offset: 3, GOTO , Operand: 4
+Offset: 4, PUSHI , Operand: 1
+Offset: 5, PUSHI , Operand: 20250639
+Offset: 6, Unref Method: 2003, Operand: 0
+Offset: 7, GOTO , Operand: 16
+Offset: 8, PUSHI , Operand: 0
+Offset: 9, STOREGINT , Operand: 776
+Offset: 10, PUSHI , Operand: 0
+Offset: 11, PUSHI , Operand: 20250639
+Offset: 12, Unref Method: 2003, Operand: 0
+Offset: 13, PUSHI , Operand: 1055
+Offset: 14, PUSHI , Operand: 20250639
+Offset: 15, Unref Method: 2105, Operand: 0
+Offset: 16, PUSHI , Operand: 1
+Offset: 17, PUSHS , Operand: View Hairstyles
+Offset: 18, PUSHI , Operand: 20250640
+Offset: 19, Unref Method: 2300, Operand: 0
+Offset: 20, PUSHI , Operand: 1
+Offset: 21, PUSHS , Operand: View Beards
+Offset: 22, PUSHI , Operand: 20250639
+Offset: 23, Unref Method: 2300, Operand: 0
+Offset: 24, LOADINT , Operand: 0
+Offset: 25, CALL , Operand: 2358
+Offset: 26, RETURN , Operand: 0

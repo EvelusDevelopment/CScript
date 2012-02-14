@@ -1,0 +1,99 @@
+================================================
+      Client Script 1811 Dumped by SiniSoul    
+      Instruction Size: 74
+      Integer Arguments: 5 
+      String  Arguments: 1 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADGSTR , Operand: 38
+Offset: 1, getStringLength , Operand: 0
+Offset: 2, PUSHI , Operand: 0
+Offset: 3, IFEQ , Operand: 1
+Offset: 4, GOTO , Operand: 4
+Offset: 5, PUSHS , Operand: 
+Offset: 6, LOADINT , Operand: 2
+Offset: 7, CALL , Operand: 1812
+Offset: 8, RETURN , Operand: 0
+Offset: 9, Unref Method: 5017, Operand: 0
+Offset: 10, PUSHI , Operand: 100
+Offset: 11, Unref Method: 4016, Operand: 0
+Offset: 12, PUSHI , Operand: 1
+Offset: 13, ISUB , Operand: 0
+Offset: 14, STOREINT , Operand: 3
+Offset: 15, PUSHS , Operand: 
+Offset: 16, STORESTR , Operand: 0
+Offset: 17, PUSHI , Operand: -1
+Offset: 18, STOREINT , Operand: 4
+Offset: 19, LOADINT , Operand: 3
+Offset: 20, PUSHI , Operand: 0
+Offset: 21, IFGTEQ , Operand: 1
+Offset: 22, GOTO , Operand: 23
+Offset: 23, LOADINT , Operand: 3
+Offset: 24, Unref Method: 5004, Operand: 0
+Offset: 25, SWITCH , Operand: 0
+Offset: 26, GOTO , Operand: 14
+Offset: 27, LOADINT , Operand: 3
+Offset: 28, Unref Method: 5010, Operand: 0
+Offset: 29, discludeTagsInString , Operand: 0
+Offset: 30, toLowerCase , Operand: 0
+Offset: 31, LOADGSTR , Operand: 38
+Offset: 32, Unref Method: 4107, Operand: 0
+Offset: 33, PUSHI , Operand: 0
+Offset: 34, IFEQ , Operand: 1
+Offset: 35, GOTO , Operand: 5
+Offset: 36, LOADINT , Operand: 3
+Offset: 37, Unref Method: 5003, Operand: 0
+Offset: 38, STORESTR , Operand: 0
+Offset: 39, LOADINT , Operand: 3
+Offset: 40, STOREINT , Operand: 4
+Offset: 41, LOADINT , Operand: 3
+Offset: 42, PUSHI , Operand: 1
+Offset: 43, ISUB , Operand: 0
+Offset: 44, STOREINT , Operand: 3
+Offset: 45, GOTO , Operand: -27
+Offset: 46, LOADINT , Operand: 4
+Offset: 47, PUSHI , Operand: 0
+Offset: 48, IFLT , Operand: 1
+Offset: 49, GOTO , Operand: 6
+Offset: 50, PUSHI , Operand: -1
+Offset: 51, STOREGINT , Operand: 267
+Offset: 52, PUSHS , Operand: 
+Offset: 53, LOADINT , Operand: 2
+Offset: 54, CALL , Operand: 1812
+Offset: 55, RETURN , Operand: 0
+Offset: 56, LOADGINT , Operand: 267
+Offset: 57, PUSHI , Operand: -1
+Offset: 58, IFEQ , Operand: 9
+Offset: 59, LOADINT , Operand: 4
+Offset: 60, LOADGINT , Operand: 267
+Offset: 61, IFLTEQ , Operand: 6
+Offset: 62, LOADSTR , Operand: 0
+Offset: 63, LOADGSTR , Operand: 39
+Offset: 64, Unref Method: 4107, Operand: 0
+Offset: 65, PUSHI , Operand: 0
+Offset: 66, IFNE , Operand: 1
+Offset: 67, GOTO , Operand: 3
+Offset: 68, LOADSTR , Operand: 0
+Offset: 69, LOADINT , Operand: 2
+Offset: 70, CALL , Operand: 1812
+Offset: 71, LOADINT , Operand: 4
+Offset: 72, STOREGINT , Operand: 267
+Offset: 73, RETURN , Operand: 0
+
+================================================
+                Switch Table 0                
+================================================
+
+Key: 17, Value: 1
+Key: 1, Value: 1
+Key: 2, Value: 1
+Key: 18, Value: 1
+Key: 3, Value: 1
+Key: 20, Value: 1
+Key: 7, Value: 1
+Key: 9, Value: 1
+Key: 11, Value: 1

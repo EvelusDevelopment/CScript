@@ -1,0 +1,23 @@
+================================================
+      Client Script 3233 Dumped by SiniSoul    
+      Instruction Size: 12
+      Integer Arguments: 1 
+      String  Arguments: 1 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHI , Operand: 39059486
+Offset: 1, STOREINT , Operand: 0
+Offset: 2, isSSKStrNull , Operand: 0
+Offset: 3, PUSHI , Operand: 1
+Offset: 4, IFEQ , Operand: 1
+Offset: 5, GOTO , Operand: 2
+Offset: 6, PUSHI , Operand: 63897604
+Offset: 7, STOREINT , Operand: 0
+Offset: 8, LOADSTR , Operand: 0
+Offset: 9, LOADINT , Operand: 0
+Offset: 10, Unref Method: 2112, Operand: 0
+Offset: 11, RETURN , Operand: 0

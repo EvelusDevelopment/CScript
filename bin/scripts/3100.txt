@@ -1,0 +1,37 @@
+================================================
+      Client Script 3100 Dumped by SiniSoul    
+      Instruction Size: 26
+      Integer Arguments: 2 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, Unref Method: 5613, Operand: 0
+Offset: 1, STOREINT , Operand: 1
+Offset: 2, LOADINT , Operand: 1
+Offset: 3, PUSHI , Operand: -3
+Offset: 4, IFEQ , Operand: 1
+Offset: 5, GOTO , Operand: 2
+Offset: 6, RETURN , Operand: 0
+Offset: 7, GOTO , Operand: 17
+Offset: 8, LOADINT , Operand: 1
+Offset: 9, PUSHI , Operand: 21
+Offset: 10, IFEQ , Operand: 1
+Offset: 11, GOTO , Operand: 7
+Offset: 12, LOADINT , Operand: 0
+Offset: 13, PUSHI , Operand: 13
+Offset: 14, IFEQ , Operand: 1
+Offset: 15, GOTO , Operand: 3
+Offset: 16, CALL , Operand: 1873
+Offset: 17, RETURN , Operand: 0
+Offset: 18, GOTO , Operand: 6
+Offset: 19, LOADINT , Operand: 0
+Offset: 20, PUSHI , Operand: 13
+Offset: 21, IFEQ , Operand: 1
+Offset: 22, GOTO , Operand: 2
+Offset: 23, CALL , Operand: 3097
+Offset: 24, RETURN , Operand: 0
+Offset: 25, RETURN , Operand: 0

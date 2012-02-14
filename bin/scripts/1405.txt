@@ -1,0 +1,54 @@
+================================================
+      Client Script 1405 Dumped by SiniSoul    
+      Instruction Size: 43
+      Integer Arguments: 0 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, Unref Opcode: 25, Operand: 61
+Offset: 1, PUSHI , Operand: 1
+Offset: 2, IFEQ , Operand: 1
+Offset: 3, GOTO , Operand: 6
+Offset: 4, PUSHS , Operand: Draughts: Options
+Offset: 5, PUSHI , Operand: 49545226
+Offset: 6, Unref Method: 2112, Operand: 0
+Offset: 7, PUSHI , Operand: 49545219
+Offset: 8, CALL , Operand: 1406
+Offset: 9, GOTO , Operand: 29
+Offset: 10, Unref Opcode: 25, Operand: 61
+Offset: 11, PUSHI , Operand: 2
+Offset: 12, IFEQ , Operand: 1
+Offset: 13, GOTO , Operand: 6
+Offset: 14, PUSHS , Operand: Runelink: Options
+Offset: 15, PUSHI , Operand: 49545226
+Offset: 16, Unref Method: 2112, Operand: 0
+Offset: 17, PUSHI , Operand: 49545220
+Offset: 18, CALL , Operand: 1406
+Offset: 19, GOTO , Operand: 19
+Offset: 20, Unref Opcode: 25, Operand: 61
+Offset: 21, PUSHI , Operand: 3
+Offset: 22, IFEQ , Operand: 1
+Offset: 23, GOTO , Operand: 6
+Offset: 24, PUSHS , Operand: Runesquares: Options
+Offset: 25, PUSHI , Operand: 49545226
+Offset: 26, Unref Method: 2112, Operand: 0
+Offset: 27, PUSHI , Operand: 49545224
+Offset: 28, CALL , Operand: 1406
+Offset: 29, GOTO , Operand: 9
+Offset: 30, Unref Opcode: 25, Operand: 61
+Offset: 31, PUSHI , Operand: 4
+Offset: 32, IFEQ , Operand: 1
+Offset: 33, GOTO , Operand: 5
+Offset: 34, PUSHS , Operand: Runeversi: Options
+Offset: 35, PUSHI , Operand: 49545226
+Offset: 36, Unref Method: 2112, Operand: 0
+Offset: 37, PUSHI , Operand: 49545222
+Offset: 38, CALL , Operand: 1406
+Offset: 39, CALL , Operand: 1407
+Offset: 40, CALL , Operand: 1408
+Offset: 41, CALL , Operand: 1409
+Offset: 42, RETURN , Operand: 0

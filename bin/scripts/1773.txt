@@ -1,0 +1,51 @@
+================================================
+      Client Script 1773 Dumped by SiniSoul    
+      Instruction Size: 40
+      Integer Arguments: 0 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADGINT , Operand: 249
+Offset: 1, PUSHI , Operand: 0
+Offset: 2, IFEQ , Operand: 1
+Offset: 3, GOTO , Operand: 19
+Offset: 4, PUSHI , Operand: 0
+Offset: 5, PUSHI , Operand: 51839087
+Offset: 6, Unref Method: 2101, Operand: 0
+Offset: 7, PUSHI , Operand: 16750623
+Offset: 8, PUSHI , Operand: 51839088
+Offset: 9, Unref Method: 2101, Operand: 0
+Offset: 10, PUSHI , Operand: 1
+Offset: 11, PUSHI , Operand: 51839090
+Offset: 12, Unref Method: 2003, Operand: 0
+Offset: 13, PUSHI , Operand: 16750623
+Offset: 14, PUSHI , Operand: 51839091
+Offset: 15, Unref Method: 2101, Operand: 0
+Offset: 16, PUSHS , Operand: ...you keep
+Offset: 17, PUSHS , Operand: <br>
+Offset: 18, PUSHS , Operand: your items.
+Offset: 19, CONCAT , Operand: 3
+Offset: 20, PUSHI , Operand: 51839091
+Offset: 21, Unref Method: 2112, Operand: 0
+Offset: 22, GOTO , Operand: 15
+Offset: 23, PUSHI , Operand: 16711680
+Offset: 24, PUSHI , Operand: 51839087
+Offset: 25, Unref Method: 2101, Operand: 0
+Offset: 26, PUSHI , Operand: 16776960
+Offset: 27, PUSHI , Operand: 51839088
+Offset: 28, Unref Method: 2101, Operand: 0
+Offset: 29, PUSHI , Operand: 0
+Offset: 30, PUSHI , Operand: 51839090
+Offset: 31, Unref Method: 2003, Operand: 0
+Offset: 32, PUSHI , Operand: 16776960
+Offset: 33, PUSHI , Operand: 51839091
+Offset: 34, Unref Method: 2101, Operand: 0
+Offset: 35, PUSHS , Operand: ...you DROP ALL your items.
+Offset: 36, PUSHI , Operand: 51839091
+Offset: 37, Unref Method: 2112, Operand: 0
+Offset: 38, CALL , Operand: 1784
+Offset: 39, RETURN , Operand: 0

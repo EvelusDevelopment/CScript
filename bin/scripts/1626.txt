@@ -1,0 +1,61 @@
+================================================
+      Client Script 1626 Dumped by SiniSoul    
+      Instruction Size: 50
+      Integer Arguments: 0 
+      String  Arguments: 2 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHS , Operand: Curtsy
+Offset: 1, STORESTR , Operand: 0
+Offset: 2, PUSHS , Operand: Bow
+Offset: 3, STORESTR , Operand: 1
+Offset: 4, Unref Method: 3327, Operand: 0
+Offset: 5, PUSHI , Operand: 0
+Offset: 6, IFGT , Operand: 1
+Offset: 7, GOTO , Operand: 21
+Offset: 8, PUSHI , Operand: 2317
+Offset: 9, PUSHI , Operand: 30408708
+Offset: 10, Unref Method: 2105, Operand: 0
+Offset: 11, PUSHI , Operand: 38
+Offset: 12, PUSHI , Operand: -2147483645
+Offset: 13, PUSHI , Operand: 30408753
+Offset: 14, LOADSTR , Operand: 0
+Offset: 15, PUSHI , Operand: 50
+Offset: 16, PUSHI , Operand: 150
+Offset: 17, PUSHS , Operand: IIsii
+Offset: 18, PUSHI , Operand: 30408708
+Offset: 19, setInterfaceDefinitionScriptParams12 , Operand: 0
+Offset: 20, PUSHI , Operand: 1
+Offset: 21, LOADSTR , Operand: 0
+Offset: 22, PUSHI , Operand: 30408708
+Offset: 23, Unref Method: 2300, Operand: 0
+Offset: 24, PUSHI , Operand: 2
+Offset: 25, LOADSTR , Operand: 1
+Offset: 26, PUSHI , Operand: 30408708
+Offset: 27, Unref Method: 2300, Operand: 0
+Offset: 28, GOTO , Operand: 20
+Offset: 29, PUSHI , Operand: 703
+Offset: 30, PUSHI , Operand: 30408708
+Offset: 31, Unref Method: 2105, Operand: 0
+Offset: 32, PUSHI , Operand: 38
+Offset: 33, PUSHI , Operand: -2147483645
+Offset: 34, PUSHI , Operand: 30408753
+Offset: 35, LOADSTR , Operand: 1
+Offset: 36, PUSHI , Operand: 50
+Offset: 37, PUSHI , Operand: 150
+Offset: 38, PUSHS , Operand: IIsii
+Offset: 39, PUSHI , Operand: 30408708
+Offset: 40, setInterfaceDefinitionScriptParams12 , Operand: 0
+Offset: 41, PUSHI , Operand: 2
+Offset: 42, LOADSTR , Operand: 0
+Offset: 43, PUSHI , Operand: 30408708
+Offset: 44, Unref Method: 2300, Operand: 0
+Offset: 45, PUSHI , Operand: 1
+Offset: 46, LOADSTR , Operand: 1
+Offset: 47, PUSHI , Operand: 30408708
+Offset: 48, Unref Method: 2300, Operand: 0
+Offset: 49, RETURN , Operand: 0

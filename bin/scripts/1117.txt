@@ -1,0 +1,202 @@
+================================================
+      Client Script 1117 Dumped by SiniSoul    
+      Instruction Size: 173
+      Integer Arguments: 2 
+      String  Arguments: 1 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHI , Operand: -1
+Offset: 1, STOREINT , Operand: 1
+Offset: 2, PUSHS , Operand: 
+Offset: 3, STORESTR , Operand: 0
+Offset: 4, LOADINT , Operand: 0
+Offset: 5, SWITCH , Operand: 0
+Offset: 6, GOTO , Operand: 156
+Offset: 7, Unref Opcode: 25, Operand: 6459
+Offset: 8, PUSHI , Operand: 0
+Offset: 9, IFEQ , Operand: 1
+Offset: 10, GOTO , Operand: 3
+Offset: 11, PUSHS , Operand: Hide combat spells.
+Offset: 12, STORESTR , Operand: 0
+Offset: 13, GOTO , Operand: 2
+Offset: 14, PUSHS , Operand: Show combat spells.
+Offset: 15, STORESTR , Operand: 0
+Offset: 16, PUSHI , Operand: 12583008
+Offset: 17, STOREINT , Operand: 1
+Offset: 18, GOTO , Operand: 145
+Offset: 19, Unref Opcode: 25, Operand: 6462
+Offset: 20, PUSHI , Operand: 0
+Offset: 21, IFEQ , Operand: 1
+Offset: 22, GOTO , Operand: 3
+Offset: 23, PUSHS , Operand: Hide teleport spells.
+Offset: 24, STORESTR , Operand: 0
+Offset: 25, GOTO , Operand: 2
+Offset: 26, PUSHS , Operand: Show teleport spells.
+Offset: 27, STORESTR , Operand: 0
+Offset: 28, PUSHI , Operand: 12583008
+Offset: 29, STOREINT , Operand: 1
+Offset: 30, GOTO , Operand: 133
+Offset: 31, Unref Opcode: 25, Operand: 6461
+Offset: 32, PUSHI , Operand: 0
+Offset: 33, IFEQ , Operand: 1
+Offset: 34, GOTO , Operand: 3
+Offset: 35, PUSHS , Operand: Hide miscellaneous spells.
+Offset: 36, STORESTR , Operand: 0
+Offset: 37, GOTO , Operand: 2
+Offset: 38, PUSHS , Operand: Show miscellaneous spells.
+Offset: 39, STORESTR , Operand: 0
+Offset: 40, PUSHI , Operand: 12583008
+Offset: 41, STOREINT , Operand: 1
+Offset: 42, GOTO , Operand: 121
+Offset: 43, Unref Opcode: 25, Operand: 6460
+Offset: 44, PUSHI , Operand: 0
+Offset: 45, IFEQ , Operand: 1
+Offset: 46, GOTO , Operand: 3
+Offset: 47, PUSHS , Operand: Hide skill spells.
+Offset: 48, STORESTR , Operand: 0
+Offset: 49, GOTO , Operand: 2
+Offset: 50, PUSHS , Operand: Show skill spells.
+Offset: 51, STORESTR , Operand: 0
+Offset: 52, PUSHI , Operand: 12583008
+Offset: 53, STOREINT , Operand: 1
+Offset: 54, GOTO , Operand: 109
+Offset: 55, Unref Opcode: 25, Operand: 6463
+Offset: 56, PUSHI , Operand: 0
+Offset: 57, IFEQ , Operand: 1
+Offset: 58, GOTO , Operand: 3
+Offset: 59, PUSHS , Operand: Hide combat spells.
+Offset: 60, STORESTR , Operand: 0
+Offset: 61, GOTO , Operand: 2
+Offset: 62, PUSHS , Operand: Show combat spells.
+Offset: 63, STORESTR , Operand: 0
+Offset: 64, PUSHI , Operand: 28180544
+Offset: 65, STOREINT , Operand: 1
+Offset: 66, GOTO , Operand: 97
+Offset: 67, Unref Opcode: 25, Operand: 6464
+Offset: 68, PUSHI , Operand: 0
+Offset: 69, IFEQ , Operand: 1
+Offset: 70, GOTO , Operand: 3
+Offset: 71, PUSHS , Operand: Hide miscellaneous spells.
+Offset: 72, STORESTR , Operand: 0
+Offset: 73, GOTO , Operand: 2
+Offset: 74, PUSHS , Operand: Show miscellaneous spells.
+Offset: 75, STORESTR , Operand: 0
+Offset: 76, PUSHI , Operand: 28180544
+Offset: 77, STOREINT , Operand: 1
+Offset: 78, GOTO , Operand: 85
+Offset: 79, Unref Opcode: 25, Operand: 6465
+Offset: 80, PUSHI , Operand: 0
+Offset: 81, IFEQ , Operand: 1
+Offset: 82, GOTO , Operand: 3
+Offset: 83, PUSHS , Operand: Hide teleport spells.
+Offset: 84, STORESTR , Operand: 0
+Offset: 85, GOTO , Operand: 2
+Offset: 86, PUSHS , Operand: Show teleport spells.
+Offset: 87, STORESTR , Operand: 0
+Offset: 88, PUSHI , Operand: 28180544
+Offset: 89, STOREINT , Operand: 1
+Offset: 90, GOTO , Operand: 73
+Offset: 91, Unref Opcode: 25, Operand: 6466
+Offset: 92, PUSHI , Operand: 0
+Offset: 93, IFEQ , Operand: 1
+Offset: 94, GOTO , Operand: 3
+Offset: 95, PUSHS , Operand: Hide combat spells.
+Offset: 96, STORESTR , Operand: 0
+Offset: 97, GOTO , Operand: 2
+Offset: 98, PUSHS , Operand: Show combat spells.
+Offset: 99, STORESTR , Operand: 0
+Offset: 100, PUSHI , Operand: 12648501
+Offset: 101, STOREINT , Operand: 1
+Offset: 102, GOTO , Operand: 61
+Offset: 103, Unref Opcode: 25, Operand: 6467
+Offset: 104, PUSHI , Operand: 0
+Offset: 105, IFEQ , Operand: 1
+Offset: 106, GOTO , Operand: 3
+Offset: 107, PUSHS , Operand: Hide teleport spells.
+Offset: 108, STORESTR , Operand: 0
+Offset: 109, GOTO , Operand: 2
+Offset: 110, PUSHS , Operand: Show teleport spells.
+Offset: 111, STORESTR , Operand: 0
+Offset: 112, PUSHI , Operand: 12648501
+Offset: 113, STOREINT , Operand: 1
+Offset: 114, GOTO , Operand: 49
+Offset: 115, Unref Opcode: 25, Operand: 7348
+Offset: 116, PUSHI , Operand: 0
+Offset: 117, IFEQ , Operand: 1
+Offset: 118, GOTO , Operand: 3
+Offset: 119, PUSHS , Operand: Hide combat spells.
+Offset: 120, STORESTR , Operand: 0
+Offset: 121, GOTO , Operand: 2
+Offset: 122, PUSHS , Operand: Show combat spells.
+Offset: 123, STORESTR , Operand: 0
+Offset: 124, PUSHI , Operand: 62259271
+Offset: 125, STOREINT , Operand: 1
+Offset: 126, GOTO , Operand: 37
+Offset: 127, Unref Opcode: 25, Operand: 7351
+Offset: 128, PUSHI , Operand: 0
+Offset: 129, IFEQ , Operand: 1
+Offset: 130, GOTO , Operand: 3
+Offset: 131, PUSHS , Operand: Hide teleport spells.
+Offset: 132, STORESTR , Operand: 0
+Offset: 133, GOTO , Operand: 2
+Offset: 134, PUSHS , Operand: Show teleport spells.
+Offset: 135, STORESTR , Operand: 0
+Offset: 136, PUSHI , Operand: 62259271
+Offset: 137, STOREINT , Operand: 1
+Offset: 138, GOTO , Operand: 25
+Offset: 139, Unref Opcode: 25, Operand: 7350
+Offset: 140, PUSHI , Operand: 0
+Offset: 141, IFEQ , Operand: 1
+Offset: 142, GOTO , Operand: 3
+Offset: 143, PUSHS , Operand: Hide miscellaneous spells.
+Offset: 144, STORESTR , Operand: 0
+Offset: 145, GOTO , Operand: 2
+Offset: 146, PUSHS , Operand: Show miscellaneous spells.
+Offset: 147, STORESTR , Operand: 0
+Offset: 148, PUSHI , Operand: 62259271
+Offset: 149, STOREINT , Operand: 1
+Offset: 150, GOTO , Operand: 13
+Offset: 151, Unref Opcode: 25, Operand: 7349
+Offset: 152, PUSHI , Operand: 0
+Offset: 153, IFEQ , Operand: 1
+Offset: 154, GOTO , Operand: 3
+Offset: 155, PUSHS , Operand: Hide skill spells.
+Offset: 156, STORESTR , Operand: 0
+Offset: 157, GOTO , Operand: 2
+Offset: 158, PUSHS , Operand: Show skill spells.
+Offset: 159, STORESTR , Operand: 0
+Offset: 160, PUSHI , Operand: 62259271
+Offset: 161, STOREINT , Operand: 1
+Offset: 162, GOTO , Operand: 1
+Offset: 163, RETURN , Operand: 0
+Offset: 164, LOADINT , Operand: 0
+Offset: 165, LOADINT , Operand: 1
+Offset: 166, LOADSTR , Operand: 0
+Offset: 167, PUSHI , Operand: 25
+Offset: 168, LOADINT , Operand: 1
+Offset: 169, Unref Method: 2505, Operand: 0
+Offset: 170, Unref Method: 2502, Operand: 0
+Offset: 171, CALL , Operand: 39
+Offset: 172, RETURN , Operand: 0
+
+================================================
+                Switch Table 0                
+================================================
+
+Key: 12648453, Value: 85
+Key: 12648455, Value: 97
+Key: 28180485, Value: 49
+Key: 28180487, Value: 73
+Key: 28180489, Value: 61
+Key: 62259209, Value: 121
+Key: 12582919, Value: 1
+Key: 62259211, Value: 133
+Key: 62259213, Value: 145
+Key: 12582925, Value: 37
+Key: 12582921, Value: 13
+Key: 12582923, Value: 25
+Key: 62259207, Value: 109

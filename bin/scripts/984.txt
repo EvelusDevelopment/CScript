@@ -1,0 +1,771 @@
+================================================
+      Client Script 984 Dumped by SiniSoul    
+      Instruction Size: 678
+      Integer Arguments: 2 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADINT , Operand: 0
+Offset: 1, SWITCH , Operand: 0
+Offset: 2, GOTO , Operand: 670
+Offset: 3, LOADINT , Operand: 1
+Offset: 4, SWITCH , Operand: 1
+Offset: 5, GOTO , Operand: 161
+Offset: 6, PUSHI , Operand: 5
+Offset: 7, PUSHI , Operand: 3196
+Offset: 8, PUSHS , Operand: Black halberd
+Offset: 9, PUSHS , Operand: <br>
+Offset: 10, PUSHS , Operand:  (with 10 Attack)
+Offset: 11, CONCAT , Operand: 3
+Offset: 12, PUSHS , Operand: Members now have the Strength level required to wield 
+Offset: 13, PUSHS , Operand: <col=000080>
+Offset: 14, PUSHS , Operand: black halberds
+Offset: 15, PUSHS , Operand: </col>
+Offset: 16, PUSHS , Operand: . (You also need level 10 Attack.)
+Offset: 17, CONCAT , Operand: 5
+Offset: 18, RETURN , Operand: 0
+Offset: 19, GOTO , Operand: 147
+Offset: 20, PUSHI , Operand: 5
+Offset: 21, PUSHI , Operand: 6599
+Offset: 22, PUSHS , Operand: White halberd
+Offset: 23, PUSHS , Operand: <br>
+Offset: 24, PUSHS , Operand:  (with 10 Attack)
+Offset: 25, CONCAT , Operand: 3
+Offset: 26, PUSHS , Operand: Members now have the Strength level required to wield 
+Offset: 27, PUSHS , Operand: <col=000080>
+Offset: 28, PUSHS , Operand: white halberds
+Offset: 29, PUSHS , Operand: </col>
+Offset: 30, PUSHS , Operand: . (You also need level 10 Attack.)
+Offset: 31, CONCAT , Operand: 5
+Offset: 32, RETURN , Operand: 0
+Offset: 33, GOTO , Operand: 133
+Offset: 34, PUSHI , Operand: 10
+Offset: 35, PUSHI , Operand: 3198
+Offset: 36, PUSHS , Operand: Mithril halberd
+Offset: 37, PUSHS , Operand: <br>
+Offset: 38, PUSHS , Operand:  (with 20 Attack)
+Offset: 39, CONCAT , Operand: 3
+Offset: 40, PUSHS , Operand: Members now have the Strength level required to wield 
+Offset: 41, PUSHS , Operand: <col=000080>
+Offset: 42, PUSHS , Operand: mithril halberds
+Offset: 43, PUSHS , Operand: </col>
+Offset: 44, PUSHS , Operand: . (You also need level 20 Attack.)
+Offset: 45, CONCAT , Operand: 5
+Offset: 46, RETURN , Operand: 0
+Offset: 47, GOTO , Operand: 119
+Offset: 48, PUSHI , Operand: 15
+Offset: 49, PUSHI , Operand: 3200
+Offset: 50, PUSHS , Operand: Adamant halberd
+Offset: 51, PUSHS , Operand: <br>
+Offset: 52, PUSHS , Operand:  (with 30 Attack)
+Offset: 53, CONCAT , Operand: 3
+Offset: 54, PUSHS , Operand: Members now have the Strength level required to wield 
+Offset: 55, PUSHS , Operand: <col=000080>
+Offset: 56, PUSHS , Operand: adamant halberds
+Offset: 57, PUSHS , Operand: </col>
+Offset: 58, PUSHS , Operand: . (You also need level 30 Attack.)
+Offset: 59, CONCAT , Operand: 5
+Offset: 60, RETURN , Operand: 0
+Offset: 61, GOTO , Operand: 105
+Offset: 62, PUSHI , Operand: 20
+Offset: 63, PUSHI , Operand: 3202
+Offset: 64, PUSHS , Operand: Rune halberd
+Offset: 65, PUSHS , Operand: <br>
+Offset: 66, PUSHS , Operand:  (with 40 Attack)
+Offset: 67, CONCAT , Operand: 3
+Offset: 68, PUSHS , Operand: Members now have the Strength level required to wield 
+Offset: 69, PUSHS , Operand: <col=000080>
+Offset: 70, PUSHS , Operand: rune halberds
+Offset: 71, PUSHS , Operand: </col>
+Offset: 72, PUSHS , Operand: . (You also need level 40 Attack.)
+Offset: 73, CONCAT , Operand: 5
+Offset: 74, RETURN , Operand: 0
+Offset: 75, GOTO , Operand: 91
+Offset: 76, PUSHI , Operand: 30
+Offset: 77, PUSHI , Operand: 3204
+Offset: 78, PUSHS , Operand: Dragon halberd
+Offset: 79, PUSHS , Operand: <br>
+Offset: 80, PUSHS , Operand:  (with 60 Attack)
+Offset: 81, CONCAT , Operand: 3
+Offset: 82, PUSHS , Operand: Members now have the Strength level required to wield 
+Offset: 83, PUSHS , Operand: <col=000080>
+Offset: 84, PUSHS , Operand: dragon halberds
+Offset: 85, PUSHS , Operand: </col>
+Offset: 86, PUSHS , Operand: . (They also need level 60 Attack.)
+Offset: 87, CONCAT , Operand: 5
+Offset: 88, RETURN , Operand: 0
+Offset: 89, GOTO , Operand: 77
+Offset: 90, PUSHI , Operand: 50
+Offset: 91, PUSHI , Operand: 4153
+Offset: 92, PUSHS , Operand: Granite maul
+Offset: 93, PUSHS , Operand: <br>
+Offset: 94, PUSHS , Operand:  (with 50 Attack)
+Offset: 95, CONCAT , Operand: 3
+Offset: 96, PUSHS , Operand: Members now have the Strength level required to wield 
+Offset: 97, PUSHS , Operand: <col=000080>
+Offset: 98, PUSHS , Operand: granite mauls
+Offset: 99, PUSHS , Operand: </col>
+Offset: 100, PUSHS , Operand: . (They also need level 50 Attack.)
+Offset: 101, CONCAT , Operand: 5
+Offset: 102, RETURN , Operand: 0
+Offset: 103, GOTO , Operand: 63
+Offset: 104, PUSHI , Operand: 50
+Offset: 105, PUSHI , Operand: 14679
+Offset: 106, PUSHS , Operand: Granite mace
+Offset: 107, PUSHS , Operand: <br>
+Offset: 108, PUSHS , Operand:  (with 50 Attack)
+Offset: 109, CONCAT , Operand: 3
+Offset: 110, PUSHS , Operand: Members now have the Strength level required to wield 
+Offset: 111, PUSHS , Operand: <col=000080>
+Offset: 112, PUSHS , Operand: granite maces
+Offset: 113, PUSHS , Operand: </col>
+Offset: 114, PUSHS , Operand: . (They also need level 50 Attack.)
+Offset: 115, CONCAT , Operand: 5
+Offset: 116, RETURN , Operand: 0
+Offset: 117, GOTO , Operand: 49
+Offset: 118, PUSHI , Operand: 60
+Offset: 119, PUSHI , Operand: 6528
+Offset: 120, PUSHS , Operand: Tzhaar-Ket-Om
+Offset: 121, PUSHS , Operand: Members can now wield 
+Offset: 122, PUSHS , Operand: <col=000080>
+Offset: 123, PUSHS , Operand: Tzhaar-Ket-Om
+Offset: 124, PUSHS , Operand: </col>
+Offset: 125, PUSHS , Operand: .
+Offset: 126, CONCAT , Operand: 5
+Offset: 127, RETURN , Operand: 0
+Offset: 128, GOTO , Operand: 38
+Offset: 129, PUSHI , Operand: 70
+Offset: 130, PUSHI , Operand: 4718
+Offset: 131, PUSHS , Operand: Dharok's greataxe
+Offset: 132, PUSHS , Operand: <br>
+Offset: 133, PUSHS , Operand:  (with 70 Attack)
+Offset: 134, CONCAT , Operand: 3
+Offset: 135, PUSHS , Operand: Members now have the Strength level required to wield 
+Offset: 136, PUSHS , Operand: <col=000080>
+Offset: 137, PUSHS , Operand: Dharok's greataxe
+Offset: 138, PUSHS , Operand: </col>
+Offset: 139, PUSHS , Operand: . (They also need level 70 Attack.)
+Offset: 140, CONCAT , Operand: 5
+Offset: 141, RETURN , Operand: 0
+Offset: 142, GOTO , Operand: 24
+Offset: 143, PUSHI , Operand: 70
+Offset: 144, PUSHI , Operand: 4747
+Offset: 145, PUSHS , Operand: Torag's hammers
+Offset: 146, PUSHS , Operand: <br>
+Offset: 147, PUSHS , Operand:  (with 70 Attack)
+Offset: 148, CONCAT , Operand: 3
+Offset: 149, PUSHS , Operand: Members now have the Strength level required to wield 
+Offset: 150, PUSHS , Operand: <col=000080>
+Offset: 151, PUSHS , Operand: Torag's hammers
+Offset: 152, PUSHS , Operand: </col>
+Offset: 153, PUSHS , Operand: . (They also need level 70 Attack.)
+Offset: 154, CONCAT , Operand: 5
+Offset: 155, RETURN , Operand: 0
+Offset: 156, GOTO , Operand: 10
+Offset: 157, PUSHI , Operand: 75
+Offset: 158, PUSHI , Operand: 15403
+Offset: 159, PUSHS , Operand: Members: Balmung (after Blood Runs Deep and with 75 Attack)
+Offset: 160, PUSHS , Operand: Members can now wield 
+Offset: 161, PUSHS , Operand: <col=000080>
+Offset: 162, PUSHS , Operand: Balmung
+Offset: 163, PUSHS , Operand: </col>
+Offset: 164, PUSHS , Operand:  (after Blood Runs Deep, with 75 Attack).
+Offset: 165, CONCAT , Operand: 5
+Offset: 166, RETURN , Operand: 0
+Offset: 167, GOTO , Operand: 505
+Offset: 168, LOADINT , Operand: 1
+Offset: 169, SWITCH , Operand: 2
+Offset: 170, GOTO , Operand: 83
+Offset: 171, PUSHI , Operand: 20
+Offset: 172, PUSHI , Operand: 8921
+Offset: 173, PUSHS , Operand: Members: Black mask
+Offset: 174, PUSHS , Operand: <br>
+Offset: 175, PUSHS , Operand:  (with 10 Defence)
+Offset: 176, CONCAT , Operand: 3
+Offset: 177, PUSHS , Operand: Members can now wear 
+Offset: 178, PUSHS , Operand: <col=000080>
+Offset: 179, PUSHS , Operand: black masks (with 10 Defence)
+Offset: 180, PUSHS , Operand: </col>
+Offset: 181, PUSHS , Operand: .
+Offset: 182, CONCAT , Operand: 5
+Offset: 183, RETURN , Operand: 0
+Offset: 184, GOTO , Operand: 69
+Offset: 185, PUSHI , Operand: 20
+Offset: 186, PUSHI , Operand: 15492
+Offset: 187, PUSHS , Operand: Members: Full Slayer helmet
+Offset: 188, PUSHS , Operand: <br>
+Offset: 189, PUSHS , Operand:  (after Smoking Kills with 20 Ranged, Magic and 10 Defence)
+Offset: 190, CONCAT , Operand: 3
+Offset: 191, PUSHS , Operand: Members can now wear 
+Offset: 192, PUSHS , Operand: <col=000080>
+Offset: 193, PUSHS , Operand: full slayer helmets
+Offset: 194, PUSHS , Operand: </col>
+Offset: 195, PUSHS , Operand:  (after Smoking Kills with 20 Ranged, Magic and 10 Defence).
+Offset: 196, CONCAT , Operand: 5
+Offset: 197, RETURN , Operand: 0
+Offset: 198, GOTO , Operand: 55
+Offset: 199, PUSHI , Operand: 50
+Offset: 200, PUSHI , Operand: 10589
+Offset: 201, PUSHS , Operand: Granite helm
+Offset: 202, PUSHS , Operand: <br>
+Offset: 203, PUSHS , Operand:  (with 50 Defence)
+Offset: 204, CONCAT , Operand: 3
+Offset: 205, PUSHS , Operand: Members now have the Strength level required to wear 
+Offset: 206, PUSHS , Operand: <col=000080>
+Offset: 207, PUSHS , Operand: granite helms
+Offset: 208, PUSHS , Operand: </col>
+Offset: 209, PUSHS , Operand: . (They also need level 50 Defence.)
+Offset: 210, CONCAT , Operand: 5
+Offset: 211, RETURN , Operand: 0
+Offset: 212, GOTO , Operand: 41
+Offset: 213, PUSHI , Operand: 50
+Offset: 214, PUSHI , Operand: 10564
+Offset: 215, PUSHS , Operand: Granite body
+Offset: 216, PUSHS , Operand: <br>
+Offset: 217, PUSHS , Operand:  (with 50 Defence)
+Offset: 218, CONCAT , Operand: 3
+Offset: 219, PUSHS , Operand: Members now have the Strength level required to wear 
+Offset: 220, PUSHS , Operand: <col=000080>
+Offset: 221, PUSHS , Operand: granite bodies
+Offset: 222, PUSHS , Operand: </col>
+Offset: 223, PUSHS , Operand: . (They also need level 50 Defence.)
+Offset: 224, CONCAT , Operand: 5
+Offset: 225, RETURN , Operand: 0
+Offset: 226, GOTO , Operand: 27
+Offset: 227, PUSHI , Operand: 50
+Offset: 228, PUSHI , Operand: 6809
+Offset: 229, PUSHS , Operand: Granite legs
+Offset: 230, PUSHS , Operand: <br>
+Offset: 231, PUSHS , Operand:  (with 50 Defence)
+Offset: 232, CONCAT , Operand: 3
+Offset: 233, PUSHS , Operand: Members now have the Strength level required to wear 
+Offset: 234, PUSHS , Operand: <col=000080>
+Offset: 235, PUSHS , Operand: granite legs
+Offset: 236, PUSHS , Operand: </col>
+Offset: 237, PUSHS , Operand: . (They also need level 50 Defence.)
+Offset: 238, CONCAT , Operand: 5
+Offset: 239, RETURN , Operand: 0
+Offset: 240, GOTO , Operand: 13
+Offset: 241, PUSHI , Operand: 50
+Offset: 242, PUSHI , Operand: 3122
+Offset: 243, PUSHS , Operand: Granite shield
+Offset: 244, PUSHS , Operand: <br>
+Offset: 245, PUSHS , Operand:  (with 50 Defence)
+Offset: 246, CONCAT , Operand: 3
+Offset: 247, PUSHS , Operand: Members now have the Strength level required to wield 
+Offset: 248, PUSHS , Operand: <col=000080>
+Offset: 249, PUSHS , Operand: granite shields
+Offset: 250, PUSHS , Operand: </col>
+Offset: 251, PUSHS , Operand: . (They also need level 50 Defence.)
+Offset: 252, CONCAT , Operand: 5
+Offset: 253, RETURN , Operand: 0
+Offset: 254, GOTO , Operand: 418
+Offset: 255, LOADINT , Operand: 1
+Offset: 256, SWITCH , Operand: 3
+Offset: 257, GOTO , Operand: 115
+Offset: 258, PUSHI , Operand: 19
+Offset: 259, PUSHI , Operand: 6515
+Offset: 260, PUSHS , Operand: River crossing to Al Kharid
+Offset: 261, PUSHS , Operand: <br>
+Offset: 262, PUSHS , Operand:  (with 8 Agility and 37 Ranged)
+Offset: 263, CONCAT , Operand: 3
+Offset: 264, PUSHS , Operand: You now have the Strength level required to cross the 
+Offset: 265, PUSHS , Operand: <col=000080>
+Offset: 266, PUSHS , Operand: River Lum
+Offset: 267, PUSHS , Operand: </col>
+Offset: 268, PUSHS , Operand:  to 
+Offset: 269, PUSHS , Operand: <col=000080>
+Offset: 270, PUSHS , Operand: Al Kharid
+Offset: 271, PUSHS , Operand: </col>
+Offset: 272, PUSHS , Operand: . (You also need level 8 Agility and level 37 Ranged.)
+Offset: 273, CONCAT , Operand: 9
+Offset: 274, RETURN , Operand: 0
+Offset: 275, GOTO , Operand: 97
+Offset: 276, PUSHI , Operand: 21
+Offset: 277, PUSHI , Operand: 6515
+Offset: 278, PUSHS , Operand: Karamja crossing, south of the volcano
+Offset: 279, PUSHS , Operand: <br>
+Offset: 280, PUSHS , Operand:  (with 53 Agility and 42 Ranged)
+Offset: 281, CONCAT , Operand: 3
+Offset: 282, PUSHS , Operand: You now have the Strength level required to use the 
+Offset: 283, PUSHS , Operand: <col=000080>
+Offset: 284, PUSHS , Operand: Karamja crossing, south of the volcano
+Offset: 285, PUSHS , Operand: </col>
+Offset: 286, PUSHS , Operand: . (You also need level 53 Agility and level 42 Ranged.
+Offset: 287, CONCAT , Operand: 5
+Offset: 288, RETURN , Operand: 0
+Offset: 289, GOTO , Operand: 83
+Offset: 290, PUSHI , Operand: 22
+Offset: 291, PUSHI , Operand: 6515
+Offset: 292, PUSHS , Operand: Water Obelisk Island escape
+Offset: 293, PUSHS , Operand: <br>
+Offset: 294, PUSHS , Operand:  (with 36 Agility and 39 Ranged)
+Offset: 295, CONCAT , Operand: 3
+Offset: 296, PUSHS , Operand: You now have the Strength level required to make the 
+Offset: 297, PUSHS , Operand: <col=000080>
+Offset: 298, PUSHS , Operand: Water Obelisk Island escape
+Offset: 299, PUSHS , Operand: </col>
+Offset: 300, PUSHS , Operand: . (You also need level 36 Agility and level 39 Ranged).
+Offset: 301, CONCAT , Operand: 5
+Offset: 302, RETURN , Operand: 0
+Offset: 303, GOTO , Operand: 69
+Offset: 304, PUSHI , Operand: 35
+Offset: 305, PUSHI , Operand: 6517
+Offset: 306, PUSHS , Operand: Catherby cliff
+Offset: 307, PUSHS , Operand: <br>
+Offset: 308, PUSHS , Operand:  (after Fishing Contest, with 32 Agility and 35 Ranged)
+Offset: 309, CONCAT , Operand: 3
+Offset: 310, PUSHS , Operand: You now have the Strength level required to scale 
+Offset: 311, PUSHS , Operand: <col=000080>
+Offset: 312, PUSHS , Operand: Catherby cliff
+Offset: 313, PUSHS , Operand: </col>
+Offset: 314, PUSHS , Operand:  (after Fishing Contest, with level 32 Agility and level 35 Ranged).
+Offset: 315, CONCAT , Operand: 5
+Offset: 316, RETURN , Operand: 0
+Offset: 317, GOTO , Operand: 55
+Offset: 318, PUSHI , Operand: 37
+Offset: 319, PUSHI , Operand: 6517
+Offset: 320, PUSHS , Operand: Falador wall
+Offset: 321, PUSHS , Operand: <br>
+Offset: 322, PUSHS , Operand:  (with 11 Agility and 19 Ranged)
+Offset: 323, CONCAT , Operand: 3
+Offset: 324, PUSHS , Operand: You now have the Strength level required to scale 
+Offset: 325, PUSHS , Operand: <col=000080>
+Offset: 326, PUSHS , Operand: Falador wall
+Offset: 327, PUSHS , Operand: </col>
+Offset: 328, PUSHS , Operand: . (You also need level 11 Agility and level 19 Ranged.)
+Offset: 329, CONCAT , Operand: 5
+Offset: 330, RETURN , Operand: 0
+Offset: 331, GOTO , Operand: 41
+Offset: 332, PUSHI , Operand: 38
+Offset: 333, PUSHI , Operand: 6517
+Offset: 334, PUSHS , Operand: Yanille wall
+Offset: 335, PUSHS , Operand: <br>
+Offset: 336, PUSHS , Operand:  (with 39 Agility and 21 Ranged)
+Offset: 337, CONCAT , Operand: 3
+Offset: 338, PUSHS , Operand: You now have the Strength level required to scale 
+Offset: 339, PUSHS , Operand: <col=000080>
+Offset: 340, PUSHS , Operand: Yanille wall
+Offset: 341, PUSHS , Operand: </col>
+Offset: 342, PUSHS , Operand: . (You also need level 39 Agility and level 21 Ranged.)
+Offset: 343, CONCAT , Operand: 5
+Offset: 344, RETURN , Operand: 0
+Offset: 345, GOTO , Operand: 27
+Offset: 346, PUSHI , Operand: 60
+Offset: 347, PUSHI , Operand: 6515
+Offset: 348, PUSHS , Operand: Cross Bandos's Throne Room 
+Offset: 349, PUSHS , Operand: <br>
+Offset: 350, PUSHS , Operand:  (after The Chosen Commander and with 60 Agility and 60 Ranged)
+Offset: 351, CONCAT , Operand: 3
+Offset: 352, PUSHS , Operand: Members now have the Strength level required to cross 
+Offset: 353, PUSHS , Operand: <col=000080>
+Offset: 354, PUSHS , Operand: Bandos's throne room
+Offset: 355, PUSHS , Operand: </col>
+Offset: 356, PUSHS , Operand:  (after The Chosen Commander and with 60 Agility and 60 Ranged).
+Offset: 357, CONCAT , Operand: 5
+Offset: 358, RETURN , Operand: 0
+Offset: 359, GOTO , Operand: 13
+Offset: 360, PUSHI , Operand: 80
+Offset: 361, PUSHI , Operand: 6515
+Offset: 362, PUSHS , Operand: Cross cave, south of Dorgesh-Kaan 
+Offset: 363, PUSHS , Operand: <br>
+Offset: 364, PUSHS , Operand:  (after Death to the Dorgeshuun, with 80 Agility and 80 Ranged)
+Offset: 365, CONCAT , Operand: 3
+Offset: 366, PUSHS , Operand: You now have the Strength level required to 
+Offset: 367, PUSHS , Operand: <col=000080>
+Offset: 368, PUSHS , Operand: cross the cave, south of Dorgesh-Kaan
+Offset: 369, PUSHS , Operand: </col>
+Offset: 370, PUSHS , Operand:  (after Death to the Dorgeshuun, with 80 Agility and 80 Ranged).
+Offset: 371, CONCAT , Operand: 5
+Offset: 372, RETURN , Operand: 0
+Offset: 373, GOTO , Operand: 299
+Offset: 374, LOADINT , Operand: 1
+Offset: 375, PUSHI , Operand: 0
+Offset: 376, IFEQ , Operand: 1
+Offset: 377, GOTO , Operand: 14
+Offset: 378, PUSHI , Operand: 60
+Offset: 379, PUSHI , Operand: 4043
+Offset: 380, PUSHS , Operand: God Wars Dungeon access via the Strength route
+Offset: 381, PUSHS , Operand: You can now access the 
+Offset: 382, PUSHS , Operand: <col=000080>
+Offset: 383, PUSHS , Operand: God Wars Dungeon
+Offset: 384, PUSHS , Operand: </col>
+Offset: 385, PUSHS , Operand:  via the 
+Offset: 386, PUSHS , Operand: <col=000080>
+Offset: 387, PUSHS , Operand: Strength route
+Offset: 388, PUSHS , Operand: </col>
+Offset: 389, PUSHS , Operand: .
+Offset: 390, CONCAT , Operand: 9
+Offset: 391, RETURN , Operand: 0
+Offset: 392, LOADINT , Operand: 1
+Offset: 393, PUSHI , Operand: 1
+Offset: 394, IFEQ , Operand: 1
+Offset: 395, GOTO , Operand: 14
+Offset: 396, PUSHI , Operand: 70
+Offset: 397, PUSHI , Operand: 8122
+Offset: 398, PUSHS , Operand: Bandos's Stronghold of the God Wars Dungeon
+Offset: 399, PUSHS , Operand: You can now enter the 
+Offset: 400, PUSHS , Operand: <col=000080>
+Offset: 401, PUSHS , Operand: Bandos's Stronghold
+Offset: 402, PUSHS , Operand: </col>
+Offset: 403, PUSHS , Operand:  of the 
+Offset: 404, PUSHS , Operand: <col=000080>
+Offset: 405, PUSHS , Operand: God Wars Dungeon
+Offset: 406, PUSHS , Operand: </col>
+Offset: 407, PUSHS , Operand: .
+Offset: 408, CONCAT , Operand: 9
+Offset: 409, RETURN , Operand: 0
+Offset: 410, GOTO , Operand: 262
+Offset: 411, LOADINT , Operand: 1
+Offset: 412, SWITCH , Operand: 4
+Offset: 413, GOTO , Operand: 89
+Offset: 414, PUSHI , Operand: -1
+Offset: 415, PUSHI , Operand: 7620
+Offset: 416, PUSHS , Operand: To start fishing like a barbarian, talk to Otto Godblessed when you have at least level 48 Fishing and level 15 Agility.
+Offset: 417, PUSHS , Operand: 
+Offset: 418, RETURN , Operand: 0
+Offset: 419, GOTO , Operand: 83
+Offset: 420, PUSHI , Operand: 15
+Offset: 421, PUSHI , Operand: 11328
+Offset: 422, PUSHS , Operand: Leaping trout
+Offset: 423, PUSHS , Operand: <br>
+Offset: 424, PUSHS , Operand:  (with 15 Agility and 48 Fishing)
+Offset: 425, CONCAT , Operand: 3
+Offset: 426, PUSHS , Operand: Members versed in the art of barbarian fishing now have the Strength level required to catch 
+Offset: 427, PUSHS , Operand: <col=000080>
+Offset: 428, PUSHS , Operand: leaping trout
+Offset: 429, PUSHS , Operand: </col>
+Offset: 430, PUSHS , Operand: . (They also need level 15 Agility and level 48 Fishing.)
+Offset: 431, CONCAT , Operand: 5
+Offset: 432, RETURN , Operand: 0
+Offset: 433, GOTO , Operand: 69
+Offset: 434, PUSHI , Operand: 30
+Offset: 435, PUSHI , Operand: 11330
+Offset: 436, PUSHS , Operand: Leaping salmon
+Offset: 437, PUSHS , Operand: <br>
+Offset: 438, PUSHS , Operand:  (with 30 Agility and 58 Fishing)
+Offset: 439, CONCAT , Operand: 3
+Offset: 440, PUSHS , Operand: Members versed in the art of barbarian fishing now have the Strength level required to catch 
+Offset: 441, PUSHS , Operand: <col=000080>
+Offset: 442, PUSHS , Operand: leaping salmon
+Offset: 443, PUSHS , Operand: </col>
+Offset: 444, PUSHS , Operand: . (They also need level 30 Agility and level 58 Fishing.)
+Offset: 445, CONCAT , Operand: 5
+Offset: 446, RETURN , Operand: 0
+Offset: 447, GOTO , Operand: 55
+Offset: 448, PUSHI , Operand: 35
+Offset: 449, PUSHI , Operand: 11322
+Offset: 450, PUSHS , Operand: Tuna
+Offset: 451, PUSHS , Operand: <br>
+Offset: 452, PUSHS , Operand:  (with 55 Fishing)
+Offset: 453, CONCAT , Operand: 3
+Offset: 454, PUSHS , Operand: Members versed in the art of barbarian fishing now have the Strength level required to catch 
+Offset: 455, PUSHS , Operand: <col=000080>
+Offset: 456, PUSHS , Operand: tuna
+Offset: 457, PUSHS , Operand: </col>
+Offset: 458, PUSHS , Operand:  without a harpoon. (They also need level 55 Fishing.)
+Offset: 459, CONCAT , Operand: 5
+Offset: 460, RETURN , Operand: 0
+Offset: 461, GOTO , Operand: 41
+Offset: 462, PUSHI , Operand: 45
+Offset: 463, PUSHI , Operand: 11332
+Offset: 464, PUSHS , Operand: Leaping sturgeon
+Offset: 465, PUSHS , Operand: <br>
+Offset: 466, PUSHS , Operand:  (with 45 Agility and 70 Fishing)
+Offset: 467, CONCAT , Operand: 3
+Offset: 468, PUSHS , Operand: Members versed in the art of barbarian fishing now have the Strength level required to catch 
+Offset: 469, PUSHS , Operand: <col=000080>
+Offset: 470, PUSHS , Operand: leaping sturgeon
+Offset: 471, PUSHS , Operand: </col>
+Offset: 472, PUSHS , Operand: . (They also need level 45 Agility and level 70 Fishing.)
+Offset: 473, CONCAT , Operand: 5
+Offset: 474, RETURN , Operand: 0
+Offset: 475, GOTO , Operand: 27
+Offset: 476, PUSHI , Operand: 50
+Offset: 477, PUSHI , Operand: 11321
+Offset: 478, PUSHS , Operand: Swordfish
+Offset: 479, PUSHS , Operand: <br>
+Offset: 480, PUSHS , Operand:  (with 70 Fishing)
+Offset: 481, CONCAT , Operand: 3
+Offset: 482, PUSHS , Operand: Members versed in the art of barbarian fishing now have the Strength level required to catch 
+Offset: 483, PUSHS , Operand: <col=000080>
+Offset: 484, PUSHS , Operand: swordfish
+Offset: 485, PUSHS , Operand: </col>
+Offset: 486, PUSHS , Operand:  without a harpoon. (They also need level 70 Fishing.)
+Offset: 487, CONCAT , Operand: 5
+Offset: 488, RETURN , Operand: 0
+Offset: 489, GOTO , Operand: 13
+Offset: 490, PUSHI , Operand: 76
+Offset: 491, PUSHI , Operand: 11320
+Offset: 492, PUSHS , Operand: Shark
+Offset: 493, PUSHS , Operand: <br>
+Offset: 494, PUSHS , Operand:  (with 96 Fishing)
+Offset: 495, CONCAT , Operand: 3
+Offset: 496, PUSHS , Operand: Members versed in the art of barbarian fishing now have the Strength level required to catch 
+Offset: 497, PUSHS , Operand: <col=000080>
+Offset: 498, PUSHS , Operand: shark
+Offset: 499, PUSHS , Operand: </col>
+Offset: 500, PUSHS , Operand:  without a harpoon. (They also need level 96 Fishing.)
+Offset: 501, CONCAT , Operand: 5
+Offset: 502, RETURN , Operand: 0
+Offset: 503, GOTO , Operand: 169
+Offset: 504, LOADINT , Operand: 1
+Offset: 505, SWITCH , Operand: 5
+Offset: 506, GOTO , Operand: 129
+Offset: 507, PUSHI , Operand: -1
+Offset: 508, PUSHI , Operand: 15707
+Offset: 509, PUSHS , Operand: Dungeoneering skill tasks
+Offset: 510, PUSHS , Operand: <br>
+Offset: 511, PUSHS , Operand: As your Strength level increases, you will be able to attempt higher-level strength tasks within Daemonheim. You will also be more likely to succeed when attempting strength tasks within Daemonheim.
+Offset: 512, CONCAT , Operand: 3
+Offset: 513, PUSHS , Operand: 
+Offset: 514, RETURN , Operand: 0
+Offset: 515, GOTO , Operand: 120
+Offset: 516, PUSHI , Operand: 1
+Offset: 517, PUSHI , Operand: 16405
+Offset: 518, PUSHS , Operand: Novite maul (Tier 1)
+Offset: 519, PUSHS , Operand: You can now wield 
+Offset: 520, PUSHS , Operand: <col=000080>
+Offset: 521, PUSHS , Operand: novite mauls
+Offset: 522, PUSHS , Operand: </col>
+Offset: 523, PUSHS , Operand:  within Daemonheim.
+Offset: 524, CONCAT , Operand: 5
+Offset: 525, RETURN , Operand: 0
+Offset: 526, GOTO , Operand: 109
+Offset: 527, PUSHI , Operand: 10
+Offset: 528, PUSHI , Operand: 16407
+Offset: 529, PUSHS , Operand: Bathus maul (Tier 2)
+Offset: 530, PUSHS , Operand: You can now wield 
+Offset: 531, PUSHS , Operand: <col=000080>
+Offset: 532, PUSHS , Operand: bathus mauls
+Offset: 533, PUSHS , Operand: </col>
+Offset: 534, PUSHS , Operand:  within Daemonheim.
+Offset: 535, CONCAT , Operand: 5
+Offset: 536, RETURN , Operand: 0
+Offset: 537, GOTO , Operand: 98
+Offset: 538, PUSHI , Operand: 20
+Offset: 539, PUSHI , Operand: 16409
+Offset: 540, PUSHS , Operand: Marmaros maul (Tier 3)
+Offset: 541, PUSHS , Operand: You can now wield 
+Offset: 542, PUSHS , Operand: <col=000080>
+Offset: 543, PUSHS , Operand: marmaros mauls
+Offset: 544, PUSHS , Operand: </col>
+Offset: 545, PUSHS , Operand:  within Daemonheim.
+Offset: 546, CONCAT , Operand: 5
+Offset: 547, RETURN , Operand: 0
+Offset: 548, GOTO , Operand: 87
+Offset: 549, PUSHI , Operand: 30
+Offset: 550, PUSHI , Operand: 16411
+Offset: 551, PUSHS , Operand: Kratonite maul (Tier 4)
+Offset: 552, PUSHS , Operand: You can now wield 
+Offset: 553, PUSHS , Operand: <col=000080>
+Offset: 554, PUSHS , Operand: kratonite mauls
+Offset: 555, PUSHS , Operand: </col>
+Offset: 556, PUSHS , Operand:  within Daemonheim.
+Offset: 557, CONCAT , Operand: 5
+Offset: 558, RETURN , Operand: 0
+Offset: 559, GOTO , Operand: 76
+Offset: 560, PUSHI , Operand: 40
+Offset: 561, PUSHI , Operand: 16413
+Offset: 562, PUSHS , Operand: Fractite maul (Tier 5)
+Offset: 563, PUSHS , Operand: You can now wield 
+Offset: 564, PUSHS , Operand: <col=000080>
+Offset: 565, PUSHS , Operand: fractite mauls
+Offset: 566, PUSHS , Operand: </col>
+Offset: 567, PUSHS , Operand:  within Daemonheim.
+Offset: 568, CONCAT , Operand: 5
+Offset: 569, RETURN , Operand: 0
+Offset: 570, GOTO , Operand: 65
+Offset: 571, PUSHI , Operand: 50
+Offset: 572, PUSHI , Operand: 16415
+Offset: 573, PUSHS , Operand: Members: Zephyrium maul (Tier 6)
+Offset: 574, PUSHS , Operand: Members can now wield 
+Offset: 575, PUSHS , Operand: <col=000080>
+Offset: 576, PUSHS , Operand: zephyrium mauls
+Offset: 577, PUSHS , Operand: </col>
+Offset: 578, PUSHS , Operand:  within Daemonheim.
+Offset: 579, CONCAT , Operand: 5
+Offset: 580, RETURN , Operand: 0
+Offset: 581, GOTO , Operand: 54
+Offset: 582, PUSHI , Operand: 60
+Offset: 583, PUSHI , Operand: 16417
+Offset: 584, PUSHS , Operand: Members: Argonite maul (Tier 7)
+Offset: 585, PUSHS , Operand: Members can now wield 
+Offset: 586, PUSHS , Operand: <col=000080>
+Offset: 587, PUSHS , Operand: argonite mauls
+Offset: 588, PUSHS , Operand: </col>
+Offset: 589, PUSHS , Operand:  within Daemonheim.
+Offset: 590, CONCAT , Operand: 5
+Offset: 591, RETURN , Operand: 0
+Offset: 592, GOTO , Operand: 43
+Offset: 593, PUSHI , Operand: 70
+Offset: 594, PUSHI , Operand: 16419
+Offset: 595, PUSHS , Operand: Members: Katagon maul (Tier 8)
+Offset: 596, PUSHS , Operand: Members can now wield 
+Offset: 597, PUSHS , Operand: <col=000080>
+Offset: 598, PUSHS , Operand: katagon mauls
+Offset: 599, PUSHS , Operand: </col>
+Offset: 600, PUSHS , Operand:  within Daemonheim.
+Offset: 601, CONCAT , Operand: 5
+Offset: 602, RETURN , Operand: 0
+Offset: 603, GOTO , Operand: 32
+Offset: 604, PUSHI , Operand: 80
+Offset: 605, PUSHI , Operand: 16421
+Offset: 606, PUSHS , Operand: Members: Gorgonite maul (Tier 9)
+Offset: 607, PUSHS , Operand: Members can now wield 
+Offset: 608, PUSHS , Operand: <col=000080>
+Offset: 609, PUSHS , Operand: gorgonite mauls
+Offset: 610, PUSHS , Operand: </col>
+Offset: 611, PUSHS , Operand:  within Daemonheim.
+Offset: 612, CONCAT , Operand: 5
+Offset: 613, RETURN , Operand: 0
+Offset: 614, GOTO , Operand: 21
+Offset: 615, PUSHI , Operand: 90
+Offset: 616, PUSHI , Operand: 16423
+Offset: 617, PUSHS , Operand: Members: Promethium maul (Tier 10)
+Offset: 618, PUSHS , Operand: Members can now wield 
+Offset: 619, PUSHS , Operand: <col=000080>
+Offset: 620, PUSHS , Operand: promethium mauls
+Offset: 621, PUSHS , Operand: </col>
+Offset: 622, PUSHS , Operand:  within Daemonheim.
+Offset: 623, CONCAT , Operand: 5
+Offset: 624, RETURN , Operand: 0
+Offset: 625, GOTO , Operand: 10
+Offset: 626, PUSHI , Operand: 99
+Offset: 627, PUSHI , Operand: 16425
+Offset: 628, PUSHS , Operand: Members: Primal maul (Tier 11)
+Offset: 629, PUSHS , Operand: Members can now wield 
+Offset: 630, PUSHS , Operand: <col=000080>
+Offset: 631, PUSHS , Operand: primal mauls
+Offset: 632, PUSHS , Operand: </col>
+Offset: 633, PUSHS , Operand:  within Daemonheim.
+Offset: 634, CONCAT , Operand: 5
+Offset: 635, RETURN , Operand: 0
+Offset: 636, GOTO , Operand: 36
+Offset: 637, LOADINT , Operand: 1
+Offset: 638, PUSHI , Operand: 0
+Offset: 639, IFEQ , Operand: 1
+Offset: 640, GOTO , Operand: 5
+Offset: 641, PUSHI , Operand: -1
+Offset: 642, PUSHI , Operand: 8855
+Offset: 643, PUSHS , Operand: You can enter the Warriors' Guild when your Attack and Strength levels add up to 130 or more, or when you reach level 99 in either Attack or Strength.
+Offset: 644, PUSHS , Operand: 
+Offset: 645, RETURN , Operand: 0
+Offset: 646, LOADINT , Operand: 1
+Offset: 647, PUSHI , Operand: 1
+Offset: 648, IFEQ , Operand: 1
+Offset: 649, GOTO , Operand: 23
+Offset: 650, PUSHI , Operand: 99
+Offset: 651, PUSHI , Operand: 9750
+Offset: 652, PUSHS , Operand: Skill mastery
+Offset: 653, PUSHS , Operand: <col=000080>
+Offset: 654, PUSHS , Operand: Congratulations! You are now a master of 
+Offset: 655, PUSHS , Operand: <col=800000>
+Offset: 656, PUSHS , Operand: Strength
+Offset: 657, PUSHS , Operand: <col=000080>
+Offset: 658, PUSHS , Operand: . Members can visit 
+Offset: 659, PUSHS , Operand: <col=800000>
+Offset: 660, PUSHS , Operand: the guard of the Strength training area
+Offset: 661, PUSHS , Operand: <col=000080>
+Offset: 662, PUSHS , Operand:  at the 
+Offset: 663, PUSHS , Operand: <col=800000>
+Offset: 664, PUSHS , Operand: Warriors' Guild
+Offset: 665, PUSHS , Operand: <col=000080>
+Offset: 666, PUSHS , Operand: . He has something special that is only available to true masters of the 
+Offset: 667, PUSHS , Operand: <col=800000>
+Offset: 668, PUSHS , Operand: Strength
+Offset: 669, PUSHS , Operand: <col=000080>
+Offset: 670, PUSHS , Operand:  skill!
+Offset: 671, CONCAT , Operand: 18
+Offset: 672, RETURN , Operand: 0
+Offset: 673, PUSHI , Operand: 0
+Offset: 674, PUSHI , Operand: -1
+Offset: 675, PUSHS , Operand: 
+Offset: 676, PUSHS , Operand: 
+Offset: 677, RETURN , Operand: 0
+
+================================================
+                Switch Table 0                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 166
+Key: 2, Value: 253
+Key: 3, Value: 372
+Key: 4, Value: 409
+Key: 5, Value: 502
+Key: 6, Value: 635
+
+================================================
+                Switch Table 1                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 15
+Key: 2, Value: 29
+Key: 3, Value: 43
+Key: 4, Value: 57
+Key: 5, Value: 71
+Key: 6, Value: 85
+Key: 7, Value: 99
+Key: 8, Value: 113
+Key: 9, Value: 124
+Key: 10, Value: 138
+Key: 11, Value: 152
+
+================================================
+                Switch Table 2                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 15
+Key: 2, Value: 29
+Key: 3, Value: 43
+Key: 4, Value: 57
+Key: 5, Value: 71
+
+================================================
+                Switch Table 3                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 19
+Key: 2, Value: 33
+Key: 3, Value: 47
+Key: 4, Value: 61
+Key: 5, Value: 75
+Key: 6, Value: 89
+Key: 7, Value: 103
+
+================================================
+                Switch Table 4                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 7
+Key: 2, Value: 21
+Key: 3, Value: 35
+Key: 4, Value: 49
+Key: 5, Value: 63
+Key: 6, Value: 77
+
+================================================
+                Switch Table 5                
+================================================
+
+Key: 0, Value: 1
+Key: 1, Value: 10
+Key: 2, Value: 21
+Key: 3, Value: 32
+Key: 4, Value: 43
+Key: 5, Value: 54
+Key: 6, Value: 65
+Key: 7, Value: 76
+Key: 8, Value: 87
+Key: 9, Value: 98
+Key: 10, Value: 109
+Key: 11, Value: 120

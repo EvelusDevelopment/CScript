@@ -1,0 +1,32 @@
+================================================
+      Client Script 3442 Dumped by SiniSoul    
+      Instruction Size: 21
+      Integer Arguments: 3 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, CALL , Operand: 3441
+Offset: 1, PUSHI , Operand: 1
+Offset: 2, IFEQ , Operand: 1
+Offset: 3, GOTO , Operand: 9
+Offset: 4, LOADINT , Operand: 0
+Offset: 5, PUSHI , Operand: -1
+Offset: 6, LOADINT , Operand: 1
+Offset: 7, LOADINT , Operand: 2
+Offset: 8, CALL , Operand: 3443
+Offset: 9, PUSHI , Operand: 50
+Offset: 10, PUSHI , Operand: 150
+Offset: 11, CALL , Operand: 569
+Offset: 12, GOTO , Operand: 7
+Offset: 13, LOADINT , Operand: 0
+Offset: 14, PUSHI , Operand: -1
+Offset: 15, LOADINT , Operand: 1
+Offset: 16, PUSHS , Operand: A member of the Jury.
+Offset: 17, PUSHI , Operand: 50
+Offset: 18, PUSHI , Operand: 150
+Offset: 19, CALL , Operand: 569
+Offset: 20, RETURN , Operand: 0

@@ -1,0 +1,55 @@
+================================================
+      Client Script 3406 Dumped by SiniSoul    
+      Instruction Size: 34
+      Integer Arguments: 3 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHI , Operand: 0
+Offset: 1, STOREINT , Operand: 0
+Offset: 2, PUSHI , Operand: 0
+Offset: 3, STOREINT , Operand: 1
+Offset: 4, PUSHI , Operand: 0
+Offset: 5, STOREINT , Operand: 2
+Offset: 6, LOADINT , Operand: 2
+Offset: 7, PUSHI , Operand: 100
+Offset: 8, IFLT , Operand: 1
+Offset: 9, GOTO , Operand: 18
+Offset: 10, LOADINT , Operand: 2
+Offset: 11, Unref Method: 5004, Operand: 0
+Offset: 12, SWITCH , Operand: 0
+Offset: 13, GOTO , Operand: 9
+Offset: 14, LOADINT , Operand: 0
+Offset: 15, PUSHI , Operand: 1
+Offset: 16, IADD , Operand: 0
+Offset: 17, STOREINT , Operand: 0
+Offset: 18, GOTO , Operand: 4
+Offset: 19, LOADINT , Operand: 1
+Offset: 20, PUSHI , Operand: 1
+Offset: 21, IADD , Operand: 0
+Offset: 22, STOREINT , Operand: 1
+Offset: 23, LOADINT , Operand: 2
+Offset: 24, PUSHI , Operand: 1
+Offset: 25, IADD , Operand: 0
+Offset: 26, STOREINT , Operand: 2
+Offset: 27, GOTO , Operand: -22
+Offset: 28, LOADINT , Operand: 0
+Offset: 29, LOADINT , Operand: 1
+Offset: 30, RETURN , Operand: 0
+Offset: 31, PUSHI , Operand: 0
+Offset: 32, PUSHI , Operand: 0
+Offset: 33, RETURN , Operand: 0
+
+================================================
+                Switch Table 0                
+================================================
+
+Key: 9, Value: 6
+Key: 18, Value: 1
+Key: 3, Value: 1
+Key: 20, Value: 6
+Key: 7, Value: 1

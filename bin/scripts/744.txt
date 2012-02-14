@@ -1,0 +1,74 @@
+================================================
+      Client Script 744 Dumped by SiniSoul    
+      Instruction Size: 63
+      Integer Arguments: 6 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHI , Operand: 0
+Offset: 1, Unref Method: 3306, Operand: 0
+Offset: 2, PUSHI , Operand: 2
+Offset: 3, Unref Method: 3306, Operand: 0
+Offset: 4, IADD , Operand: 0
+Offset: 5, STOREINT , Operand: 0
+Offset: 6, PUSHI , Operand: 4
+Offset: 7, Unref Method: 3306, Operand: 0
+Offset: 8, PUSHI , Operand: 3
+Offset: 9, IMUL , Operand: 0
+Offset: 10, PUSHI , Operand: 2
+Offset: 11, IDIV , Operand: 0
+Offset: 12, STOREINT , Operand: 1
+Offset: 13, PUSHI , Operand: 6
+Offset: 14, Unref Method: 3306, Operand: 0
+Offset: 15, PUSHI , Operand: 3
+Offset: 16, IMUL , Operand: 0
+Offset: 17, PUSHI , Operand: 2
+Offset: 18, IDIV , Operand: 0
+Offset: 19, STOREINT , Operand: 2
+Offset: 20, LOADINT , Operand: 0
+Offset: 21, STOREINT , Operand: 3
+Offset: 22, LOADINT , Operand: 1
+Offset: 23, LOADINT , Operand: 3
+Offset: 24, IFGT , Operand: 1
+Offset: 25, GOTO , Operand: 2
+Offset: 26, LOADINT , Operand: 1
+Offset: 27, STOREINT , Operand: 3
+Offset: 28, LOADINT , Operand: 2
+Offset: 29, LOADINT , Operand: 3
+Offset: 30, IFGT , Operand: 1
+Offset: 31, GOTO , Operand: 2
+Offset: 32, LOADINT , Operand: 2
+Offset: 33, STOREINT , Operand: 3
+Offset: 34, PUSHI , Operand: 1
+Offset: 35, Unref Method: 3306, Operand: 0
+Offset: 36, PUSHI , Operand: 3
+Offset: 37, Unref Method: 3306, Operand: 0
+Offset: 38, IADD , Operand: 0
+Offset: 39, PUSHI , Operand: 5
+Offset: 40, Unref Method: 3306, Operand: 0
+Offset: 41, PUSHI , Operand: 2
+Offset: 42, IDIV , Operand: 0
+Offset: 43, IADD , Operand: 0
+Offset: 44, STOREINT , Operand: 4
+Offset: 45, LOADINT , Operand: 3
+Offset: 46, PUSHI , Operand: 13
+Offset: 47, IMUL , Operand: 0
+Offset: 48, PUSHI , Operand: 10
+Offset: 49, IDIV , Operand: 0
+Offset: 50, LOADINT , Operand: 4
+Offset: 51, IADD , Operand: 0
+Offset: 52, PUSHI , Operand: 4
+Offset: 53, IDIV , Operand: 0
+Offset: 54, STOREINT , Operand: 5
+Offset: 55, PUSHS , Operand: Combat Lvl: 
+Offset: 56, LOADINT , Operand: 5
+Offset: 57, integerToString , Operand: 0
+Offset: 58, CONCAT , Operand: 2
+Offset: 59, PUSHI , Operand: 43515931
+Offset: 60, Unref Method: 2112, Operand: 0
+Offset: 61, RETURN , Operand: 0
+Offset: 62, RETURN , Operand: 0

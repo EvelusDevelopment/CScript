@@ -1,0 +1,69 @@
+================================================
+      Client Script 2142 Dumped by SiniSoul    
+      Instruction Size: 58
+      Integer Arguments: 5 
+      String  Arguments: 1 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADSTR , Operand: 0
+Offset: 1, PUSHI , Operand: 390
+Offset: 2, PUSHI , Operand: 495
+Offset: 3, Unref Method: 4108, Operand: 0
+Offset: 4, STOREINT , Operand: 3
+Offset: 5, PUSHI , Operand: 15
+Offset: 6, STOREINT , Operand: 4
+Offset: 7, PUSHI , Operand: 56623111
+Offset: 8, PUSHI , Operand: 4
+Offset: 9, LOADINT , Operand: 0
+Offset: 10, Unref Method: 100, Operand: 0
+Offset: 11, PUSHI , Operand: 390
+Offset: 12, LOADINT , Operand: 3
+Offset: 13, LOADINT , Operand: 4
+Offset: 14, IMUL , Operand: 0
+Offset: 15, PUSHI , Operand: 0
+Offset: 16, PUSHI , Operand: 0
+Offset: 17, Unref Method: 1001, Operand: 0
+Offset: 18, LOADSTR , Operand: 0
+Offset: 19, Unref Method: 1112, Operand: 0
+Offset: 20, PUSHI , Operand: 15
+Offset: 21, LOADINT , Operand: 1
+Offset: 22, PUSHI , Operand: 0
+Offset: 23, PUSHI , Operand: 0
+Offset: 24, Unref Method: 1000, Operand: 0
+Offset: 25, PUSHI , Operand: 0
+Offset: 26, PUSHI , Operand: 0
+Offset: 27, PUSHI , Operand: 0
+Offset: 28, Unref Method: 1114, Operand: 0
+Offset: 29, PUSHI , Operand: 4600330
+Offset: 30, Unref Method: 1101, Operand: 0
+Offset: 31, PUSHI , Operand: 495
+Offset: 32, Unref Method: 1113, Operand: 0
+Offset: 33, PUSHI , Operand: 0
+Offset: 34, Unref Method: 1115, Operand: 0
+Offset: 35, PUSHI , Operand: 1
+Offset: 36, PUSHS , Operand: Teleport
+Offset: 37, setChildInterfaceText , Operand: 0
+Offset: 38, PUSHI , Operand: 1356
+Offset: 39, PUSHI , Operand: -2147483645
+Offset: 40, PUSHI , Operand: -2147483643
+Offset: 41, PUSHI , Operand: 6574120
+Offset: 42, PUSHS , Operand: Iii
+Offset: 43, Unref Method: 1403, Operand: 0
+Offset: 44, PUSHI , Operand: 1356
+Offset: 45, PUSHI , Operand: -2147483645
+Offset: 46, PUSHI , Operand: -2147483643
+Offset: 47, PUSHI , Operand: 4600330
+Offset: 48, PUSHS , Operand: Iii
+Offset: 49, Unref Method: 1404, Operand: 0
+Offset: 50, LOADINT , Operand: 3
+Offset: 51, LOADINT , Operand: 4
+Offset: 52, IMUL , Operand: 0
+Offset: 53, PUSHI , Operand: 5
+Offset: 54, IADD , Operand: 0
+Offset: 55, RETURN , Operand: 0
+Offset: 56, PUSHI , Operand: 0
+Offset: 57, RETURN , Operand: 0

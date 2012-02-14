@@ -1,0 +1,191 @@
+================================================
+      Client Script 1581 Dumped by SiniSoul    
+      Instruction Size: 128
+      Integer Arguments: 4 
+      String  Arguments: 2 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, PUSHS , Operand: 
+Offset: 1, STORESTR , Operand: 0
+Offset: 2, PUSHI , Operand: 494
+Offset: 3, STOREINT , Operand: 1
+Offset: 4, PUSHI , Operand: 32243761
+Offset: 5, STOREINT , Operand: 2
+Offset: 6, LOADINT , Operand: 0
+Offset: 7, SWITCH , Operand: 0
+Offset: 8, GOTO , Operand: 14
+Offset: 9, LOADGSTR , Operand: 212
+Offset: 10, STORESTR , Operand: 0
+Offset: 11, GOTO , Operand: 11
+Offset: 12, LOADGSTR , Operand: 213
+Offset: 13, STORESTR , Operand: 0
+Offset: 14, GOTO , Operand: 8
+Offset: 15, LOADGSTR , Operand: 214
+Offset: 16, STORESTR , Operand: 0
+Offset: 17, GOTO , Operand: 5
+Offset: 18, LOADGSTR , Operand: 215
+Offset: 19, STORESTR , Operand: 0
+Offset: 20, GOTO , Operand: 2
+Offset: 21, LOADGSTR , Operand: 216
+Offset: 22, STORESTR , Operand: 0
+Offset: 23, LOADINT , Operand: 0
+Offset: 24, SWITCH , Operand: 1
+Offset: 25, GOTO , Operand: 9
+Offset: 26, PUSHI , Operand: 495
+Offset: 27, STOREINT , Operand: 1
+Offset: 28, PUSHI , Operand: 32309304
+Offset: 29, STOREINT , Operand: 2
+Offset: 30, GOTO , Operand: 4
+Offset: 31, PUSHI , Operand: 495
+Offset: 32, STOREINT , Operand: 1
+Offset: 33, PUSHI , Operand: 31981595
+Offset: 34, STOREINT , Operand: 2
+Offset: 35, LOADSTR , Operand: 0
+Offset: 36, STORESTR , Operand: 1
+Offset: 37, LOADINT , Operand: 0
+Offset: 38, Unref Method: 2502, Operand: 0
+Offset: 39, STOREINT , Operand: 3
+Offset: 40, LOADSTR , Operand: 1
+Offset: 41, PUSHS , Operand:  
+Offset: 42, CONCAT , Operand: 2
+Offset: 43, PUSHI , Operand: 2147483647
+Offset: 44, LOADINT , Operand: 1
+Offset: 45, Unref Method: 4109, Operand: 0
+Offset: 46, LOADINT , Operand: 3
+Offset: 47, IFGT , Operand: 1
+Offset: 48, GOTO , Operand: 37
+Offset: 49, LOADSTR , Operand: 1
+Offset: 50, PUSHS , Operand: ... 
+Offset: 51, CONCAT , Operand: 2
+Offset: 52, PUSHI , Operand: 2147483647
+Offset: 53, LOADINT , Operand: 1
+Offset: 54, Unref Method: 4109, Operand: 0
+Offset: 55, LOADINT , Operand: 3
+Offset: 56, IFGT , Operand: 1
+Offset: 57, GOTO , Operand: 9
+Offset: 58, LOADSTR , Operand: 1
+Offset: 59, PUSHI , Operand: 0
+Offset: 60, LOADSTR , Operand: 1
+Offset: 61, getStringLength , Operand: 0
+Offset: 62, PUSHI , Operand: 1
+Offset: 63, ISUB , Operand: 0
+Offset: 64, Unref Method: 4118, Operand: 0
+Offset: 65, STORESTR , Operand: 1
+Offset: 66, GOTO , Operand: -18
+Offset: 67, PUSHI , Operand: 38
+Offset: 68, PUSHI , Operand: -2147483645
+Offset: 69, LOADINT , Operand: 2
+Offset: 70, LOADSTR , Operand: 0
+Offset: 71, PUSHI , Operand: 25
+Offset: 72, PUSHI , Operand: 5000
+Offset: 73, PUSHS , Operand: IIsii
+Offset: 74, LOADINT , Operand: 0
+Offset: 75, setInterfaceDefinitionScriptParams12 , Operand: 0
+Offset: 76, PUSHI , Operand: 40
+Offset: 77, LOADINT , Operand: 2
+Offset: 78, PUSHS , Operand: I
+Offset: 79, LOADINT , Operand: 0
+Offset: 80, setInterfaceDefinitionScriptParams4 , Operand: 0
+Offset: 81, LOADSTR , Operand: 1
+Offset: 82, PUSHS , Operand: ...
+Offset: 83, CONCAT , Operand: 2
+Offset: 84, STORESTR , Operand: 0
+Offset: 85, GOTO , Operand: 8
+Offset: 86, PUSHI , Operand: -1
+Offset: 87, PUSHS , Operand: 
+Offset: 88, LOADINT , Operand: 0
+Offset: 89, setInterfaceDefinitionScriptParams12 , Operand: 0
+Offset: 90, PUSHI , Operand: -1
+Offset: 91, PUSHS , Operand: 
+Offset: 92, LOADINT , Operand: 0
+Offset: 93, setInterfaceDefinitionScriptParams4 , Operand: 0
+Offset: 94, LOADINT , Operand: 0
+Offset: 95, SWITCH , Operand: 2
+Offset: 96, GOTO , Operand: 27
+Offset: 97, LOADSTR , Operand: 0
+Offset: 98, PUSHS , Operand: 
+Offset: 99, Unref Method: 4107, Operand: 0
+Offset: 100, PUSHI , Operand: 0
+Offset: 101, IFEQ , Operand: 6
+Offset: 102, LOADSTR , Operand: 0
+Offset: 103, PUSHS , Operand: null
+Offset: 104, Unref Method: 4107, Operand: 0
+Offset: 105, PUSHI , Operand: 0
+Offset: 106, IFEQ , Operand: 1
+Offset: 107, GOTO , Operand: 2
+Offset: 108, PUSHS , Operand: none set
+Offset: 109, STORESTR , Operand: 0
+Offset: 110, GOTO , Operand: 13
+Offset: 111, LOADSTR , Operand: 0
+Offset: 112, PUSHS , Operand: 
+Offset: 113, Unref Method: 4107, Operand: 0
+Offset: 114, PUSHI , Operand: 0
+Offset: 115, IFEQ , Operand: 6
+Offset: 116, LOADSTR , Operand: 0
+Offset: 117, PUSHS , Operand: null
+Offset: 118, Unref Method: 4107, Operand: 0
+Offset: 119, PUSHI , Operand: 0
+Offset: 120, IFEQ , Operand: 1
+Offset: 121, GOTO , Operand: 2
+Offset: 122, PUSHS , Operand: ---
+Offset: 123, STORESTR , Operand: 0
+Offset: 124, LOADSTR , Operand: 0
+Offset: 125, LOADINT , Operand: 0
+Offset: 126, Unref Method: 2112, Operand: 0
+Offset: 127, RETURN , Operand: 0
+
+================================================
+                Switch Table 0                
+================================================
+
+Key: 32309278, Value: 10
+Key: 32309279, Value: 13
+Key: 32243727, Value: 1
+Key: 32309276, Value: 4
+Key: 31981577, Value: 4
+Key: 32309277, Value: 7
+Key: 31981582, Value: 7
+Key: 32309275, Value: 1
+Key: 31981571, Value: 1
+Key: 31981587, Value: 10
+Key: 32243731, Value: 13
+Key: 32243730, Value: 10
+Key: 32243729, Value: 7
+Key: 32243728, Value: 4
+
+================================================
+                Switch Table 1                
+================================================
+
+Key: 32309278, Value: 1
+Key: 32309279, Value: 1
+Key: 32309276, Value: 1
+Key: 31981577, Value: 6
+Key: 32309277, Value: 1
+Key: 31981582, Value: 6
+Key: 32309275, Value: 1
+Key: 31981587, Value: 6
+Key: 31981571, Value: 6
+
+================================================
+                Switch Table 2                
+================================================
+
+Key: 32309278, Value: 1
+Key: 32243727, Value: 1
+Key: 32309279, Value: 1
+Key: 32309276, Value: 1
+Key: 32309277, Value: 1
+Key: 31981577, Value: 15
+Key: 31981582, Value: 15
+Key: 32309275, Value: 1
+Key: 31981571, Value: 15
+Key: 31981587, Value: 15
+Key: 32243731, Value: 1
+Key: 32243730, Value: 1
+Key: 32243729, Value: 1
+Key: 32243728, Value: 1

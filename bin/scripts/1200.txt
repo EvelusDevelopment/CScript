@@ -1,0 +1,85 @@
+================================================
+      Client Script 1200 Dumped by SiniSoul    
+      Instruction Size: 63
+      Integer Arguments: 1 
+      String  Arguments: 0 
+================================================
+
+================================================
+                 Instructions                   
+================================================
+
+Offset: 0, LOADINT , Operand: 0
+Offset: 1, SWITCH , Operand: 0
+Offset: 2, GOTO , Operand: 59
+Offset: 3, PUSHS , Operand: 
+Offset: 4, LOADGSTR , Operand: 132
+Offset: 5, Unref Method: 4107, Operand: 0
+Offset: 6, PUSHI , Operand: 0
+Offset: 7, IFNE , Operand: 1
+Offset: 8, GOTO , Operand: 3
+Offset: 9, LOADGSTR , Operand: 132
+Offset: 10, LOADINT , Operand: 0
+Offset: 11, Unref Method: 2112, Operand: 0
+Offset: 12, GOTO , Operand: 49
+Offset: 13, PUSHS , Operand: 
+Offset: 14, LOADGSTR , Operand: 133
+Offset: 15, Unref Method: 4107, Operand: 0
+Offset: 16, PUSHI , Operand: 0
+Offset: 17, IFNE , Operand: 1
+Offset: 18, GOTO , Operand: 3
+Offset: 19, LOADGSTR , Operand: 133
+Offset: 20, LOADINT , Operand: 0
+Offset: 21, Unref Method: 2112, Operand: 0
+Offset: 22, GOTO , Operand: 39
+Offset: 23, PUSHS , Operand: 
+Offset: 24, LOADGSTR , Operand: 134
+Offset: 25, Unref Method: 4107, Operand: 0
+Offset: 26, PUSHI , Operand: 0
+Offset: 27, IFNE , Operand: 1
+Offset: 28, GOTO , Operand: 3
+Offset: 29, LOADGSTR , Operand: 134
+Offset: 30, LOADINT , Operand: 0
+Offset: 31, Unref Method: 2112, Operand: 0
+Offset: 32, GOTO , Operand: 29
+Offset: 33, PUSHS , Operand: 
+Offset: 34, LOADGSTR , Operand: 135
+Offset: 35, Unref Method: 4107, Operand: 0
+Offset: 36, PUSHI , Operand: 0
+Offset: 37, IFNE , Operand: 1
+Offset: 38, GOTO , Operand: 3
+Offset: 39, LOADGSTR , Operand: 135
+Offset: 40, LOADINT , Operand: 0
+Offset: 41, Unref Method: 2112, Operand: 0
+Offset: 42, GOTO , Operand: 19
+Offset: 43, PUSHS , Operand: 
+Offset: 44, LOADGSTR , Operand: 136
+Offset: 45, Unref Method: 4107, Operand: 0
+Offset: 46, PUSHI , Operand: 0
+Offset: 47, IFNE , Operand: 1
+Offset: 48, GOTO , Operand: 3
+Offset: 49, LOADGSTR , Operand: 136
+Offset: 50, LOADINT , Operand: 0
+Offset: 51, Unref Method: 2112, Operand: 0
+Offset: 52, GOTO , Operand: 9
+Offset: 53, PUSHS , Operand: 
+Offset: 54, LOADGSTR , Operand: 137
+Offset: 55, Unref Method: 4107, Operand: 0
+Offset: 56, PUSHI , Operand: 0
+Offset: 57, IFNE , Operand: 1
+Offset: 58, GOTO , Operand: 3
+Offset: 59, LOADGSTR , Operand: 137
+Offset: 60, LOADINT , Operand: 0
+Offset: 61, Unref Method: 2112, Operand: 0
+Offset: 62, RETURN , Operand: 0
+
+================================================
+                Switch Table 0                
+================================================
+
+Key: 58327056, Value: 11
+Key: 58327057, Value: 21
+Key: 58327058, Value: 31
+Key: 58327059, Value: 41
+Key: 58327060, Value: 51
+Key: 58327055, Value: 1
